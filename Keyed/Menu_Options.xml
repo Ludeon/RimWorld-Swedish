@@ -1,51 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Audiovisuals>Audiovisuals</Audiovisuals>
+  <Audiovisuals>Ljud och grafik</Audiovisuals>
 
-  <GameVolume>Game volume</GameVolume>
+  <GameVolume>Spel volym</GameVolume>
 
-  <MusicVolume>Music volume</MusicVolume>
+  <MusicVolume>Musik volym</MusicVolume>
 
-  <GraphicsQuality>Graphics quality</GraphicsQuality>
+  <GraphicsQuality>Grafik kvailitet</GraphicsQuality>
   <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
-    <GraphicsQualityGreat>Great</GraphicsQualityGreat>
+    <GraphicsQualityGreat>Bättre</GraphicsQualityGreat>
 
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <EdgeScreenScroll>Skrämkant musskrollning</EdgeScreenScroll>
   
-  <CustomCursor>Custom cursor</CustomCursor>
+  <CustomCursor>Speciell muspekare</CustomCursor>
 
-  <ChooseLanguage>Choose language</ChooseLanguage>
+  <ChooseLanguage>Välj språk</ChooseLanguage>
 
-  <AdaptiveTutor>Adaptive tutor</AdaptiveTutor>
+  <AdaptiveTutor>Anpassande lärare</AdaptiveTutor>
 
-  <ResetAdaptiveTutor>Reset adaptive tutor</ResetAdaptiveTutor>
+  <ResetAdaptiveTutor>Starta om anpassande lärare</ResetAdaptiveTutor>
 
-  <AdaptiveTutorIsReset>Adaptive tutor is reset. He will now teach you from scratch.</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>Anpassande lärare är nu omstartad. Han kommer nu att att lära dig allt från början.</AdaptiveTutorIsReset>
 
-  <RunInBackground>Run in background</RunInBackground>
+  <RunInBackground>Kör i bakgrunden</RunInBackground>
 
-  <DevelopmentMode>Development mode</DevelopmentMode>
+  <DevelopmentMode>Utvecklarläge</DevelopmentMode>
 
-  <LogDeepProfileData>Log deep profile data</LogDeepProfileData>
+  <LogDeepProfileData>Logga djup profildata</LogDeepProfileData>
   
-  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
+  <NamesYouWantToSee>Efternamn du vill see i spelet:</NamesYouWantToSee>
 
-  <Resolution>Resolution</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
-  <CurrentRes>Currently {0}</CurrentRes>
-  <ChooseResolution>Choose resolution</ChooseResolution>
+  <Resolution>Upplösning</Resolution>
+  <Fullscreen>Fullskärm</Fullscreen>
+  <CurrentRes>Nuvarnade {0}</CurrentRes>
+  <ChooseResolution>Välj upplösning</ChooseResolution>
 
-  <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
+  <OpenSaveGameDataFolder>Öppna mappen med dina sparade kolonier</OpenSaveGameDataFolder>
   
-  <Privacy>Privacy</Privacy>
+  <Privacy>Privat</Privacy>
   
-  <UserName>User name</UserName>
+  <UserName>Användarnamn</UserName>
   
-  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
+  <ChooseHistoryUploadPref>Speldata uppladdning.</ChooseHistoryUploadPref>
   
-  <CurrentHistoryUploadPref>Currently {0}</CurrentHistoryUploadPref>
+  <CurrentHistoryUploadPref>Nuvarande {0}</CurrentHistoryUploadPref>
   
-  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+  <AboutHistoryUpload>Användarens speldata hjälper utvecklaren att balansera spelet. Om du går med på det, kommer din information att skickas varje {0} speldag (och i vissa fall, vid slutet av ett spel) till Rimworlds server för analys. Uppladdad data består endast av statistik och speldata realterat till spelet - ingen personlig information skickas, förutom användarnanmet, vilket betyder att det är helt anonymt.</AboutHistoryUpload>
+  
   
 </LanguageData>
