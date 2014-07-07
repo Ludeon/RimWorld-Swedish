@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>Level</Level>
-  <ProgressToNextLevel>Progress to next level</ProgressToNextLevel>
-  <Passion>Passion</Passion>
-  <PassionNone>None (learns {0}x)</PassionNone>
-  <PassionMinor>Interested (learns {0}x)</PassionMinor>
-  <PassionMajor>Burning (learns {0}x)</PassionMajor>
-  <EffectsAtLevel>Effects at level {0}</EffectsAtLevel>
+  <Level>Nivå</Level>
+  <ProgressToNextLevel>Utveckling till nästa nivå</ProgressToNextLevel>
+  <Passion>Intresse</Passion>
+  <PassionNone>Inget (learns {0}x)</PassionNone>
+  <PassionMinor>Intersserad (learns {0}x)</PassionMinor>
+  <PassionMajor>Brinnande (learns {0}x)</PassionMajor>
+  <EffectsAtLevel>Effekt vid nivå {0}</EffectsAtLevel>
   
   
 
-  <Skill0>Incapable</Skill0>
-  <Skill1>Incompetent</Skill1>
-  <Skill2>Basic awareness</Skill2>
-  <Skill3>Basic familiarity</Skill3>
-  <Skill4>Amateur</Skill4>
-  <Skill5>Strong amateur</Skill5>
-  <Skill6>Practitioner</Skill6>
-  <Skill7>Skilled practitioner</Skill7>
-  <Skill8>Professional</Skill8>
-  <Skill9>Skilled professional</Skill9>
+  <Skill0>Okapabel</Skill0>
+  <Skill1>Inkompetent</Skill1>
+  <Skill2>Knappt medvetet</Skill2>
+  <Skill3>Knappt kunnig</Skill3>
+  <Skill4>Amatör/Skill4>
+  <Skill5>Kunnig amatör</Skill5>
+  <Skill6>Utövare</Skill6>
+  <Skill7>Kunnig utövare</Skill7>
+  <Skill8>Profisionell</Skill8>
+  <Skill9>Mycket proffisionell</Skill9>
   <Skill10>Expert</Skill10>
-  <Skill11>Strong expert</Skill11>
-  <Skill12>Very strong expert</Skill12>
-  <Skill13>Master</Skill13>
-  <Skill14>Strong master</Skill14>
-  <Skill15>Planet-class master</Skill15>
-  <Skill16>System-class master</Skill16>
-  <Skill17>Revered master</Skill17>
-  <Skill18>Visionary</Skill18>
-  <Skill19>Legendary</Skill19>
-  <Skill20>Godlike</Skill20>
+  <Skill11>Kunnig expert</Skill11>
+  <Skill12>Mycket Kunnig expert</Skill12>
+  <Skill13>Mästare</Skill13>
+  <Skill14>Kunnig mästare</Skill14>
+  <Skill15>Planet-klass mästare</Skill15>
+  <Skill16>System-klass mästare</Skill16>
+  <Skill17>Aktad mästare</Skill17>
+  <Skill18>Visionär</Skill18>
+  <Skill19>Legendarisk</Skill19>
+  <Skill20>Gudalik</Skill20>
 
 
   

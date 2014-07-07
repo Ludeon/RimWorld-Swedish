@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
+  <GameStartDialog>Ni tre vaknar från er cryptosömn av ljudet från sirener och gnisslande metal. Ni hinner precis till nödkapslarna innan ert skepp slits isär. \n\nEn tid senare landar ni på denna, för er okända värld.\n\nMedan delarna från ert sönderslitna skepp faller runt er, börjar ni att planera för att överleva.</GameStartDialog>
 
-  <Colony>Colony</Colony>
+  <Colony>Koloni</Colony>
   
-  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>Du kan bara ändra språket från inställningarna från startmenyn.</ChangeLanguageFromMainMenu>
 
-  <AndLower>and</AndLower>
-  <DisabledLower>disabled</DisabledLower>
+  <AndLower>och</AndLower>
+  <DisabledLower>avstängd</DisabledLower>
 
-  <CloseButton>Close</CloseButton>
+  <CloseButton>Stäng</CloseButton>
 
 
   <VersionIndicator>Version {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
+  <DevelopmentBuildLower>utvecklings version</DevelopmentBuildLower>
+  <CompiledOn>Kompillerad {0}</CompiledOn>
 
-	<MeatLabel>{0} meat</MeatLabel>
-  <MeatDesc>Raw flesh of a {0}.</MeatDesc>
+	<MeatLabel>{0} kött</MeatLabel>
+  <MeatDesc>Rått kött av en {0}.</MeatDesc>
 
-	<CorpseLabel>{0} corpse</CorpseLabel>
-	<CorpseDesc>Dead body of a {0}.</CorpseDesc>
+	<CorpseLabel>{0} kadaver</CorpseLabel>
+	<CorpseDesc>{0}'s döda kropp.</CorpseDesc>
 
 
-	<BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+	<BlueprintLabelExtra> (ritning)</BlueprintLabelExtra>
+  <FrameLabelExtra> (byggnad)</FrameLabelExtra>
   
   
   <!-- History events -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>Kolonist dog</ColonistDied>
   
   
   

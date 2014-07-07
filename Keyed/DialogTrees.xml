@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FactionGreetingHostile>The {0} representative hurls some epithets into the monitor and disconnects.</FactionGreetingHostile>
-  <FactionGreetingWary>The {0} representative greets {1} warily and asks HIS business.</FactionGreetingWary>
-  <FactionGreetingWarm>The {0} representative greets {1} warmly and asks how the colony fares.</FactionGreetingWarm>
+  <FactionGreetingHostile>Representanten för {0} slänger ett par förolämpningar på skärmen och kopplar ner.</FactionGreetingHostile>
+  <FactionGreetingWary>Representanten för {0} hälsar på {1} försiktigt och undrar om anledning till att ha blivit kontaktad.</FactionGreetingWary>
+  <FactionGreetingWarm>Representanten för {0} hälsar {1} varmt och undrar hur kolonin mår.</FactionGreetingWarm>
 
-  <Disconnect>Disconnect</Disconnect>
+  <Disconnect>Kopplar ner</Disconnect>
 
-  <OfferGift>Offer gift</OfferGift>
-  <NeedSilverLaunchable>need {0} silver launchable</NeedSilverLaunchable>
-  <NotEnoughSilver>Not enough silver.</NotEnoughSilver>
-  <SilverForGoodwill>{0} silver for {1} goodwill</SilverForGoodwill>
-  <SilverGiftSent>The {0} representative thanks you.\n\n(Goodwill improved by {1}).</SilverGiftSent>
+  <OfferGift>Erbjuder gåva</OfferGift>
+  <NeedSilverLaunchable>behöver {0} silver startklar</NeedSilverLaunchable>
+  <NotEnoughSilver>Inte tillräckligt med silver.</NotEnoughSilver>
+  <SilverForGoodwill>{0} silver för {1} välvilja</SilverForGoodwill>
+  <SilverGiftSent>Representanten för {0} tackar dig.\n\n(Välviljan förbättrad med {1}).</SilverGiftSent>
 
 
-  <RequestMilitaryAid>Request immediate military aid ({0} goodwill)</RequestMilitaryAid>
-  <MilitaryAidConfirmMutualEnemy>{0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid?</MilitaryAidConfirmMutualEnemy>
-  <CallConfirm>Yes, call them anyway.</CallConfirm>
-  <CallCancel>No, never mind.</CallCancel>
-  <MilitaryAidSent>The {0} representative agrees to send fighters to help you.</MilitaryAidSent>
+  <RequestMilitaryAid>Begär omedelbart militärt stöd ({0} välvilja)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} kommer inte att hjälpa dig mot andra faktioner som inte är deras fiender. Detta inkluderar några som hotar dig just nu, {1}. Vill du fortfarnade begära hjälp?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Ja, kalla dem iallafall.</CallConfirm>
+  <CallCancel>Nej, det var inget.</CallCancel>
+  <MilitaryAidSent>Representanten för {0} går med på att skicka militärt stöd till dig.</MilitaryAidSent>
   
   
 </LanguageData>
