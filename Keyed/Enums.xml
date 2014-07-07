@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Mörkt</Dark>
+  <Lit>Ljust</Lit>
+  <LitBrightly>Välbelyst</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>Ingen</NoneQuality>
+  <PlantQuality>Planta</PlantQuality>
+  <RawQuality>Rå</RawQuality>
+  <MealAwfulQuality>Avskyvärd</MealAwfulQuality>
+  <MealSimpleQuality>Enkel</MealSimpleQuality>
+  <MealFineQuality>Bra</MealFineQuality>
+  <MealLavishLavish>Utsökt</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>Äter aldrig</NeverEats>
+  <Omnivorous>Allätare</Omnivorous>
+  <Herbivorous>Växtätare</Herbivorous>
+  <Carnivorous>Köttätare</Carnivorous>
+  
+  <!-- history upload pref -->
+  <Unspecified>Obestämt</Unspecified>
+  <Always>Tillåt</Always>
+  <Never>Tillåt ej</Never>
+  
+</LanguageData>

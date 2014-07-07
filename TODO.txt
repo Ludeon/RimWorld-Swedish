@@ -1,0 +1,5 @@
+-Finish translation
+-Make sure the text makes sense ingame
+-Spell/grammar check
+
+-Redo flag
