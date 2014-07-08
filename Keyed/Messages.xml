@@ -2,47 +2,47 @@
 <LanguageData>
 
  
-  <MessageSiegersAssaulting>Sieging {0} from {1} are assaulting the colony.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Belägrande {0} från {1} attackerar kolonin.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} from {1} are beginning their assault.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} from {1} have detected you and begun their assault early.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
+  <MessageRaidersBeginningAssault>{0} från {1} startar sin attack.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} från {1} har upptäckt dig och har startat sin attack tidigt.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} från {1} har bestämt sig för att kidnappa den de kan och sedan lämna.</MessageRaidersKidnapping>
 
-  <MessageRaidersLeaving>{0} from {1} are leaving.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} from {1} have given up and are leaving.</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} from {1} are satisfied with the damage done and are leaving.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersLeaving>{0} från {1} lämnar.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} från {1} har gett upp och lämnar.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} från {1} är nöjda med den skada de införde och lämnar.</MessageRaidersSatisfiedLeaving>
 
   
-  <MessageFightersFleeing>{0} from {1} are fleeing.</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>Friendly {0} from {1} are leaving.</MessageFriendlyFightersLeaving>
+  <MessageFightersFleeing>{0} från {1} flyr.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Vänlig {0} från {1} lämnar.</MessageFriendlyFightersLeaving>
 
 
 
-  <MessageShipHasLeftCommsRange>{0} has left comms range.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} har lämnat räckvidden för kommunikation.</MessageShipHasLeftCommsRange>
 	
-	<MessageNeedBeaconToTradeWithShip>You need an orbital trade beacon to trade with a ship.</MessageNeedBeaconToTradeWithShip>
+	<MessageNeedBeaconToTradeWithShip>Du behöver en orbital förhandlingssignalerare för att förhandla med ett skepp.</MessageNeedBeaconToTradeWithShip>
 	
-  <MessageBillComplete>Bill complete: {0}.</MessageBillComplete>
+  <MessageBillComplete>Order avklarad: {0}.</MessageBillComplete>
   
-  <MessageFullyHealed>{0} is fully healed.</MessageFullyHealed>
+  <MessageFullyHealed>{0} är fullt helad.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Prisoner {0} is escaping.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Fånge {0} flyr.</MessagePrisonerIsEscaping>
 
-  <MessageRecruitSuccess>{0} successfully recruited {1} ({2} chance).</MessageRecruitSuccess>
-	<MessageRecruitFail>{0} failed to recruit {1} ({2} chance).</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>{0} failed to recruit {1} (prisoner below loyalty threshold).</MessageRecruitFailBecauseLoyalty>
+  <MessageRecruitSuccess>{0} har rekryterat {1} ({2} chans).</MessageRecruitSuccess>
+	<MessageRecruitFail>{0} har inte rekryterat {1} ({2} chans).</MessageRecruitFail>
+	<MessageRecruitFailBecauseLoyalty>{0} har inte rekryterat {1} ({2} chans) (fången är unde lojalitetströskeln).</MessageRecruitFailBecauseLoyalty>
 	
-  <MessageTraderCannotAfford>Trader cannot afford this deal.</MessageTraderCannotAfford>
-  <MessageColonyCannotAfford>The colony cannot afford this deal.</MessageColonyCannotAfford>
-  <MessageColonyNotEnoughSilver>You do not have enough silver ready to trade.</MessageColonyNotEnoughSilver>
-  <MessageTraderNotEnoughSilver>Trader does not have enough silver.</MessageTraderNotEnoughSilver>
+  <MessageTraderCannotAfford>Förhandlaren har inte råd med det här erbjudandet.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Kolonin har inte råd med det här erbjutandet.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Du har inte nog med silver redo för förhandling.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Förhandlaren har inte nog med silver.</MessageTraderNotEnoughSilver>
 
-  <MessageCriticalAlert>Critical alert: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>Kritisk varning: {0}</MessageCriticalAlert>
 
-  <MessageMustDesignateHarvestableFood>Must designate food-yielding, sufficiently-grown plants.</MessageMustDesignateHarvestableFood>
-  <MessageMustDesignateHarvestableWood>Must designate wood-yielding, sufficiently-grown trees.</MessageMustDesignateHarvestableWood>
-  <MessageMustDesignatePlants>Must designate plants.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Must designate haulable items.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHarvestableFood>Måste designera plantor som ger mat och har växt tillräckligt.</MessageMustDesignateHarvestableFood>
+  <MessageMustDesignateHarvestableWood>Måste designera träd som ger trä och har växt tillräckligt.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Måste designera växter.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Måste designera dragbara saker.</MessageMustDesignateHaulable>
   
   
 </LanguageData>

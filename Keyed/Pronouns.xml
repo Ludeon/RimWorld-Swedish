@@ -6,10 +6,10 @@
   <ProhisCap>Hans</ProhisCap>
   <ProherCap>Hennes</ProherCap>
 
-  <ProhimObj>han</ProhimObj>
-  <ProherObj>hon</ProherObj>
-  <ProhimObjCap>Han</ProhimObjCap>
-  <ProherObjCap>Hon</ProherObjCap>
+  <ProhimObj>honom</ProhimObj>
+  <ProherObj>henne</ProherObj>
+  <ProhimObjCap>Honom</ProhimObjCap>
+  <ProherObjCap>Henne</ProherObjCap>
 
   <Prohe>han</Prohe>
   <Proshe>hon</Proshe>

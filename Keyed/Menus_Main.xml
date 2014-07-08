@@ -2,71 +2,71 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <NewColony>New Colony</NewColony>
-  <BackToGame>Back to Game</BackToGame>
-  <Save>Save</Save>
-  <Load>Load</Load>
-  <Options>Options</Options>
+  <NewColony>Ny koloni</NewColony>
+  <BackToGame>Tillbaka till spelet</BackToGame>
+  <Save>Spara</Save>
+  <Load>Ladda</Load>
+  <Options>Inställningar</Options>
   <Mods>Mods</Mods>
-  <Credits>Credits</Credits>
-  <QuitToMainMenu>Quit to Main Menu</QuitToMainMenu>
-  <QuitToOS>Quit to OS</QuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
-  <OfficialWiki>Official wiki</OfficialWiki>
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's design book</TynansDesignBook>
-  <HelpTranslate>Help translate RimWorld</HelpTranslate>
+  <Credits>Medverkare</Credits>
+  <QuitToMainMenu>Avsluta till huvudmenyn</QuitToMainMenu>
+  <QuitToOS>Anvsluta till OS</QuitToOS>
+  <FictionPrimer>Fiktionens grund</FictionPrimer>
+  <LudeonBlog>Ludeon blogg</LudeonBlog>
+  <Forums>Forum</Forums>
+  <OfficialWiki>Officiell wiki</OfficialWiki>
+  <TynansTwitter>Tynans twitter</TynansTwitter>
+  <TynansDesignBook>Tynans design bok</TynansDesignBook>
+  <HelpTranslate>Hjälp till att översätta RimWorld</HelpTranslate>
 
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Build {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-	<BuildUpToDate>Build is up to date.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>Struktur {0} finns tillgänglig. Kolla ludeon.com för mer information.</BuildNowAvailable>
+	<BuildUpToDate>Strukturen är aktuell.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Fel när versionsinformationen skulle hämtas: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Laddar versionsinformation...</LoadingVersionInfo>
 
   <!--=========== Mods screen ==========-->
-  <GetMods>Get mods</GetMods>
-  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-  <Author>Author</Author>
+  <GetMods>Skaffa mods</GetMods>
+  <OpenModsDataFolder>Öppna datamappen för mods</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärn-moddet? Spelet kommer inte att funka alls om du inte har ett annat mod som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra mods kan överskriva 'defs' i kärnmodet genom att använda samma 'defName'.</ConfirmDisableCoreMod>
+  <Author>Författare</Author>
   
 
   <!--=========== Storyteller chooser ==========-->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony.</HowStorytellersWork>
+  <ChooseAIStoryteller>Välj AI berättare</ChooseAIStoryteller>
+  <HowStorytellersWork>AI Berättaren skapar event som plundringståg av pirater, räddningsfall, eller djurattacker. Deras val kommer att påverka din kolonis historia.</HowStorytellersWork>
 
   <!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <TraitsDoNothing>Traits are just fun story bits for now; most of them don't do anything. This will change in future versions.</TraitsDoNothing>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Male>Male</Male>
-  <Female>Female</Female>
+  <CreateCharacters>Skapa karaktärer</CreateCharacters>
+  <FirstNameDesc>Karaktärens förnamn.\n\nDetta visas bara i vissa menyer.</FirstNameDesc>
+  <ShortIdentifierDesc>Karaktärens korta, identifierande namn.\n\nDetta visas hela tiden. Det kan vara för- eller efternamn, eller ett helt annat, separat namn.</ShortIdentifierDesc>
+  <LastNameDesc>Karaktärens efternamn.\n\nDetta visas bara i vissa menyer.</LastNameDesc>
+  <Randomize>Slumpa</Randomize>
+  <AgeIndicator>ålder {0}</AgeIndicator>
+  <Backstory>Bakgrundshistoria</Backstory>
+  <IncapableOf>Inkapabel av att</IncapableOf>
+  <Traits>Persondrag</Traits>
+  <TraitsDoNothing>Persondrag är bara roliga historiedelar just nu; dee flesta gör ingenting. Detta kommer att förändras i framtida versioner.</TraitsDoNothing>
+  <Skills>Förmågor</Skills>
+  <NoneLower>inga</NoneLower>
+  <Adulthood>Vuxen ålder</Adulthood>
+  <Childhood>Barndom</Childhood>
+  <Male>Man</Male>
+  <Female>Kvinna</Female>
   
   
   <!--=========== Misc ==========-->
-  <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
+  <Start>Börja</Start>
+  <Advanced>Avancerat</Advanced>
+  <Next>Nästa</Next>
+  <Back>Tillbaka</Back>
   
-  <Gameplay>Gameplay</Gameplay>
+  <Gameplay>Spel</Gameplay>
 
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
+  <ConfirmQuit>Vill du verkligen avsluta? Du förlorar osparad framgång.</ConfirmQuit>
   
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Varje person behöver ett giltigt namn.</EveryoneNeedsValidName>
 
-  <GeneratingWorld>Generating world...</GeneratingWorld>
+  <GeneratingWorld>Genererar värld...</GeneratingWorld>
 
 </LanguageData>

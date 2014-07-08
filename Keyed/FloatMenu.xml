@@ -3,84 +3,84 @@
 
 
   
-	<CallOnRadio>Call {0}</CallOnRadio>
-	<CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
-	<CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
-	<CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
-  <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
-  <CannotUseFull>Cannot use (full)</CannotUseFull>
+	<CallOnRadio>Ring {0}</CallOnRadio>
+	<CannotUseSolarFlare>Kan inte använda (soleruption)</CannotUseSolarFlare>
+	<CannotUseNoPower>Kan inte använda (ingen ström)</CannotUseNoPower>
+	<CannotUseNoPath>Kan inte använda (ingen väg)</CannotUseNoPath>
+  <CannotUseReserved>Kan inte använda (reserverad)</CannotUseReserved>
+  <CannotUseFull>Kan inte använda (fullt)</CannotUseFull>
   
-  <FireAt>Fire at {0}</FireAt>
+  <FireAt>Skjut mot {0}</FireAt>
 
-  <OutOfRange>out of range</OutOfRange>
-  <CannotHitTarget>cannot hit target</CannotHitTarget>
-  <CannotFight>{0} cannot fight</CannotFight>
+  <OutOfRange>utanför räckvidd</OutOfRange>
+  <CannotHitTarget>kan inte träffa mål</CannotHitTarget>
+  <CannotFight>{0} kan inte slåss</CannotFight>
 
-  <OrderManThing>Man {0}</OrderManThing>
+  <OrderManThing>Bemanna {0}</OrderManThing>
   
-  <MeleeAttack>Melee attack {0}</MeleeAttack>
-  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
-  <NoPath>no path</NoPath>
+  <MeleeAttack>Närstridskamp mot {0}</MeleeAttack>
+  <MeleeAttackToDeath>Närstridskamp mot {0} till döden</MeleeAttackToDeath>
+  <NoPath>ingen väg</NoPath>
 
-	<ForbiddenLower>forbidden</ForbiddenLower>
-	<SociallyImproperLower>socially improper</SociallyImproperLower>
-	<BurningLower>burning</BurningLower>
-	<NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
-	<AlreadyFilledLower>already filled enough</AlreadyFilledLower>
-	<MissingMaterials>need materials</MissingMaterials>
+	<ForbiddenLower>förbjuden</ForbiddenLower>
+	<SociallyImproperLower>socialt olämpligt</SociallyImproperLower>
+	<BurningLower>brinner</BurningLower>
+	<NoEmptyPlaceLower>ingen tom plats konfigurerad att förvara det</NoEmptyPlaceLower>
+	<AlreadyFilledLower>redan fylld</AlreadyFilledLower>
+	<MissingMaterials>behöver material</MissingMaterials>
 	
 	
-  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
-  <GoHere>Go here</GoHere>
+  <CannotGoNoPath>Kan inte gå hit (ingen väg)</CannotGoNoPath>
+  <GoHere>Gå hit</GoHere>
   
-  <Arrest>Arrest {0}</Arrest>
-  <CannotArrest>Cannot arrest</CannotArrest>
+  <Arrest>Arrestera {0}</Arrest>
+  <CannotArrest>Kan inte arrestera</CannotArrest>
 
-  <Capture>Capture {0}</Capture>
-  <CannotCapture>Cannot capture</CannotCapture>
+  <Capture>Tillfångata {0}</Capture>
+  <CannotCapture>Kan inte fånga</CannotCapture>
 
-  <Rescue>Rescue {0}</Rescue>
-  <CannotRescue>Cannot rescue</CannotRescue>
+  <Rescue>Rädda {0}</Rescue>
+  <CannotRescue>Kan inte rädda</CannotRescue>
 
-  <NoPrisonerBed>No available enclosed prisoner-marked bed.</NoPrisonerBed>
-  <NoNonPrisonerBed>No available usable non-prisoner bed.</NoNonPrisonerBed>
-  <Reserved>Reserved by someone else.</Reserved>
-  <ReservedBy>Reserved by {0}.</ReservedBy>
-  <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
+  <NoPrisonerBed>Ingen instängd fångesäng tillgänglig.</NoPrisonerBed>
+  <NoNonPrisonerBed>Ingen icke-fångesäng tillgänglig.</NoNonPrisonerBed>
+  <Reserved>Reserverad av någon annan.</Reserved>
+  <ReservedBy>Reserverad av {0}.</ReservedBy>
+  <IsReservedBy>{0} är reserverad av {1}.</IsReservedBy>
 
 
-  <Equip>Equip {0}</Equip>
-  <CannotEquip>Cannot equip {0}</CannotEquip>
+  <Equip>Använd {0}</Equip>
+  <CannotEquip>Kan inte använda {0}</CannotEquip>
   
-  <Wear>Wear {0}</Wear>
-  <CannotWear>Cannot wear {0}</CannotWear>
+  <Wear>Ta på {0}</Wear>
+  <CannotWear>Kan inte ta på {0}</CannotWear>
   
-  <Strip>Strip {0}</Strip>
-  <CannotStrip>Cannot strip {0}</CannotStrip>
+  <Strip>Ta av {0}</Strip>
+  <CannotStrip>Kan inte ta av {0}</CannotStrip>
 
-  <Deposit>Deposit {0} in {1}</Deposit>
-  <CannotDeposit>Cannot deposit {0} in {1}</CannotDeposit>
+  <Deposit>Placera {0} i {1}</Deposit>
+  <CannotDeposit>Kan inte placera {0} i {1}</CannotDeposit>
 
-  <Drop>Drop {0}</Drop>
+  <Drop>Släpp {0}</Drop>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepPod>Enter cryptosleep pod</EnterCryptosleepPod>
+  <EnterCryptosleepPod>Gå in i cryo-sömn kapsel</EnterCryptosleepPod>
   
   
   
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Cannot {0} {1}</CannotGenericWork>
+  <CannotGenericWork>Kan inte {0} {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>{0} redan {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeIsNotA>Cannot prioritize ({0} is not a {1})</CannotPrioritizeIsNotA>
+  <CannotPrioritizeIsNotA>Kan inte prioritera ({0} är inte en/ett {1})</CannotPrioritizeIsNotA>
 
-  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Kan inte prioritera (Forskning tar för lång tid)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Kan inte prioritera ({0} är förbjuden)</CannotPrioritizeForbidden>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric>Prioritera {0} {1}</PrioritizeGeneric>
   
 </LanguageData>
