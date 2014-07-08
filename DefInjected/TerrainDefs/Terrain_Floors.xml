@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TerrainDefs>
+
+
+
+
+
+  <TerrainDef Name="FloorBase" Abstract="True">
+    <SurfacesSupported>
+      <li>Light</li>
+      <li>Heavy</li>
+      <li>SmoothHard</li>
+    </SurfacesSupported>
+    <WorkToBuild>135</WorkToBuild>
+    <Beauty>NiceTiny</Beauty>
+    <designationCategory>Floors</designationCategory>
+    <Fertility>0</Fertility>
+    <ConstructionEffect>ConstructDig</ConstructionEffect>
+	<constructionAnimation>DirtTiles</constructionAnimation>
+    <AcceptTerrainSourceFilth>True</AcceptTerrainSourceFilth>
+  </TerrainDef>
+
+
+  <!-- ================= Wood floor ================= -->
+
+  <TerrainDef  ParentName="FloorBase">
+    <DefName>WoodPlankFloor</DefName>
+    <Label>Wood floor</Label>
+    <RenderPrecedence>250</RenderPrecedence>
+    <Description>Wood plank flooring. For that warm, homey feeling.</Description>
+    <TexturePath>Terrain/Surfaces/WoodFloor</TexturePath>
+    <Beauty>Neutral</Beauty>
+    <WorkToBuild>85</WorkToBuild>
+    <CostList>
+      <li>
+        <thingDef>WoodLog</thingDef>
+        <count>1</count>
+      </li>
+    </CostList>
+  </TerrainDef>
+
+  <!-- ================= Tile ================= -->
+
+  <TerrainDef  ParentName="FloorBase">
+    <DefName>MetalTile</DefName>
+    <Label>Metal tile</Label>
+    <RenderPrecedence>240</RenderPrecedence>
+    <Description>Metal tiles, for that spaceship look.</Description>
+    <TexturePath>Terrain/Surfaces/MetalTile</TexturePath>
+    <Beauty>Neutral</Beauty>
+    <WorkToBuild>85</WorkToBuild>
+    <CostList>
+      <li>
+        <thingDef>Metal</thingDef>
+        <count>3</count>
+      </li>
+    </CostList>
+  </TerrainDef>
+
+  <TerrainDef ParentName="FloorBase">
+    <DefName>PavedTile</DefName>
+    <Label>Paved tile</Label>
+    <RenderPrecedence>230</RenderPrecedence>
+    <Description>Utilitarian concrete tiles. Quick to move around on, but not very pretty.</Description>
+    <TexturePath>Terrain/Surfaces/PavedTile</TexturePath>
+    <Beauty>Neutral</Beauty>
+    <WorkToBuild>85</WorkToBuild>
+    <CostList>
+      <li>
+        <thingDef>Metal</thingDef>
+        <count>2</count>
+      </li>
+    </CostList>
+  </TerrainDef>
+
+  <TerrainDef ParentName="FloorBase">
+    <DefName>StoneTile</DefName>
+    <Label>Stone tile</Label>
+    <RenderPrecedence>220</RenderPrecedence>
+    <Description>Solid stone tiles for a castle feeling.</Description>
+    <TexturePath>Terrain/Surfaces/StoneTile</TexturePath>
+    <Beauty>NiceTiny</Beauty>
+    <WorkToBuild>165</WorkToBuild>
+    <CostList>
+      <li>
+        <thingDef>StoneBlocks</thingDef>
+        <count>6</count>
+      </li>
+    </CostList>
+  </TerrainDef>
+
+
+
+  <!-- ================= Carpets ================= -->
+
+  <TerrainDef ParentName="FloorBase">
+    <DefName>CarpetRed</DefName>
+    <Label>Red carpet</Label>
+    <RenderPrecedence>200</RenderPrecedence>
+    <Description>Plush carpet in a lovely rose hue.</Description>
+    <TexturePath>Terrain/Surfaces/CarpetRed</TexturePath>
+    <ResearchPrerequisite>CarpetMaking</ResearchPrerequisite>
+    <CostList>
+      <li>
+        <thingDef>Metal</thingDef>
+        <count>4</count>
+      </li>
+    </CostList>
+  </TerrainDef>
+
+  <TerrainDef ParentName="FloorBase">
+    <DefName>CarpetGreen</DefName>
+    <Label>Green carpet</Label>
+    <RenderPrecedence>199</RenderPrecedence>
+    <Description>Naturalistic-feeling green carpet.</Description>
+    <TexturePath>Terrain/Surfaces/CarpetGreen</TexturePath>
+    <ResearchPrerequisite>CarpetMaking</ResearchPrerequisite>
+    <CostList>
+      <li>
+        <thingDef>Metal</thingDef>
+        <count>4</count>
+      </li>
+    </CostList>
+  </TerrainDef>
+
+  <TerrainDef ParentName="FloorBase">
+    <DefName>CarpetBlue</DefName>
+    <Label>Blue carpet</Label>
+    <RenderPrecedence>198</RenderPrecedence>
+    <Description>Toe-hugging plush carpet in a cool blue color.</Description>
+    <TexturePath>Terrain/Surfaces/CarpetBlue</TexturePath>
+    <ResearchPrerequisite>CarpetMaking</ResearchPrerequisite>
+    <CostList>
+      <li>
+        <thingDef>Metal</thingDef>
+        <count>4</count>
+      </li>
+    </CostList>
+  </TerrainDef>
+
+
+
+  <!-- ================= Foundation solids ================= -->
+
+
+  <TerrainDef ParentName="FloorBase">
+    <defName>Concrete</defName>
+    <Label>Concrete</Label>
+    <Description>Quick-poured concrete. Fast to walk on, but quite ugly. You'll need to be able to dig out the ground to pour this.</Description>
+    <TexturePath>Terrain/Surfaces/Concrete</TexturePath>
+    <EdgeType>Hard</EdgeType>
+    <RenderPrecedence>150</RenderPrecedence>
+    <PathCost>0</PathCost>
+    <Beauty>UglyTiny</Beauty>
+    <WorkToBuild>16</WorkToBuild>
+    <CostList>
+      <li>
+        <thingDef>Metal</thingDef>
+        <count>1</count>
+      </li>
+    </CostList>
+  </TerrainDef>
+
+
+
+  <TerrainDef>
+    <defName>SmoothStone</defName>
+    <Label>Smooth stone</Label>
+    <Description>Smoothed natural stone. Fast to walk on and beautiful to look at.</Description>
+    <TexturePath>Terrain/Surfaces/SmoothStone</TexturePath>
+    <EdgeType>Fade</EdgeType>
+    <RenderPrecedence>140</RenderPrecedence>
+    <PathCost>0</PathCost>
+    <Beauty>NiceTiny</Beauty>
+    <WorkToBuild>500</WorkToBuild>
+    <SurfacesSupported>
+      <li>Light</li>
+      <li>Heavy</li>
+      <li>SmoothHard</li>
+    </SurfacesSupported>
+    <SurfaceNeeded>SmoothableStone</SurfaceNeeded>
+    <designationCategory>Floors</designationCategory>
+    <Fertility>0</Fertility>
+    <ConstructionEffect>ConstructDig</ConstructionEffect>
+    <AcceptTerrainSourceFilth>True</AcceptTerrainSourceFilth>
+  </TerrainDef>
+
+  
+  
+  <TerrainDef>
+    <defName>RoughHewnRock</defName>
+    <Label>Rough-hewn rock</Label>
+    <TexturePath>Terrain/Surfaces/RoughHewnRock</TexturePath>
+    <EdgeType>Fade</EdgeType>
+    <RenderPrecedence>50</RenderPrecedence>
+    <PathCost>1</PathCost>
+    <Beauty>UglyTiny</Beauty>
+    <ScatterType>Rocky</ScatterType>
+    <SurfacesSupported>
+      <li>Light</li>
+      <li>Heavy</li>
+      <li>SmoothableStone</li>
+    </SurfacesSupported>
+    <ConstructionEffect>ConstructDig</ConstructionEffect>
+    <Fertility>0</Fertility>
+  </TerrainDef>
+
+
+
+
+
+</TerrainDefs>

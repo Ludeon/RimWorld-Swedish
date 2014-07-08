@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PawnKindDefs>
+
+
+
+	<PawnKindDef>
+		<defName>Drifter</defName>
+		<label>Drifter</label>
+		<race>Human</race>
+    <pointsCost>25</pointsCost>
+		<defaultFactionType>Pirate</defaultFactionType>
+		<recruitDifficulty>50</recruitDifficulty>
+		<backstoryCategory>Raider</backstoryCategory>
+    <isFighter>true</isFighter>
+    <startHealthPercentRange>
+			<min>0.55</min>
+			<max>0.65</max>
+		</startHealthPercentRange>
+		<outfits>
+			<li>
+				<def>BasicShirtOnly</def>
+				<commonality>30</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndJacket</def>
+				<commonality>30</commonality>
+			</li>
+		</outfits>
+		<moneyForWeapons>
+			<min>60</min>
+			<max>100</max>
+		</moneyForWeapons>
+		<weaponTags>
+			<li>Gun</li>
+		</weaponTags>
+    <inventoryOptions>
+      <skipChance>0.95</skipChance>
+      <thingDef>Silver</thingDef>
+      <countRange>
+        <min>15</min>
+        <max>70</max>
+      </countRange>
+    </inventoryOptions>
+	</PawnKindDef>
+
+
+
+
+	<PawnKindDef>
+		<defName>Scavenger</defName>
+		<label>Scavenger</label>
+		<race>Human</race>
+    <pointsCost>38</pointsCost>
+		<defaultFactionType>Pirate</defaultFactionType>
+		<recruitDifficulty>60</recruitDifficulty>
+		<backstoryCategory>Raider</backstoryCategory>
+    <isFighter>true</isFighter>
+    <startHealthPercentRange>
+			<min>0.75</min>
+			<max>0.90</max>
+		</startHealthPercentRange>
+		<outfits>
+			<li>
+				<def>BasicShirtOnly</def>
+				<commonality>30</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndJacket</def>
+				<commonality>30</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndDuster</def>
+				<commonality>30</commonality>
+			</li>
+		</outfits>
+		<moneyForWeapons>
+			<min>60</min>
+			<max>150</max>
+		</moneyForWeapons>
+		<weaponTags>
+			<li>Gun</li>
+		</weaponTags>
+    <inventoryOptions>
+      <skipChance>0.95</skipChance>
+      <thingDef>Silver</thingDef>
+      <countRange>
+        <min>30</min>
+        <max>100</max>
+      </countRange>
+    </inventoryOptions>
+	</PawnKindDef>
+
+
+
+
+	<PawnKindDef>
+		<defName>Pirate</defName>
+		<label>Pirate</label>
+		<race>Human</race>
+    <pointsCost>56</pointsCost>
+    <defaultFactionType>Pirate</defaultFactionType>
+		<recruitDifficulty>70</recruitDifficulty>
+		<backstoryCategory>Raider</backstoryCategory>
+    <isFighter>true</isFighter>
+    <outfits>
+			<li>
+				<def>BasicShirtAndJacket</def>
+				<commonality>30</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndDuster</def>
+				<commonality>30</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndVestAndJacket</def>
+				<commonality>30</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndVestAndDuster</def>
+				<commonality>30</commonality>
+			</li>
+		</outfits>
+		<moneyForWeapons>
+			<min>150</min>
+			<max>300</max>
+		</moneyForWeapons>
+		<weaponTags>
+			<li>Gun</li>
+		</weaponTags>
+    <inventoryOptions>
+      <skipChance>0.95</skipChance>
+      <thingDef>Silver</thingDef>
+      <countRange>
+        <min>100</min>
+        <max>200</max>
+      </countRange>
+    </inventoryOptions>
+	</PawnKindDef>
+
+
+
+
+</PawnKindDefs>

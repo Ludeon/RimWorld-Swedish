@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PawnKindDefs>
+
+
+
+	<PawnKindDef>
+		<defName>Centipede</defName>
+    <label>Centipede</label>
+    <race>Mechanoid_Centipede</race>
+    <pointsCost>290</pointsCost>
+		<defaultFactionType>Mechanoid</defaultFactionType>
+		<aiAvoidCover>true</aiAvoidCover>
+    <isFighter>true</isFighter>
+    <standardBodyGraphicPath>Things/Pawn/Mechanoid/Centipede</standardBodyGraphicPath>
+    <moneyForWeapons>
+      <min>1200</min>
+      <max>1200</max>
+    </moneyForWeapons>
+    <weaponTags>
+      <li>MechanoidGunHeavy</li>
+    </weaponTags>
+  </PawnKindDef>
+
+
+  <PawnKindDef>
+    <defName>Scyther</defName>
+    <label>Scyther</label>
+    <race>Mechanoid_Scyther</race>
+    <pointsCost>160</pointsCost>
+    <defaultFactionType>Mechanoid</defaultFactionType>
+    <aiAvoidCover>true</aiAvoidCover>
+    <isFighter>true</isFighter>
+    <standardBodyGraphicPath>Things/Pawn/Mechanoid/Scyther</standardBodyGraphicPath>
+    <moneyForWeapons>
+      <min>800</min>
+      <max>800</max>
+    </moneyForWeapons>
+    <weaponTags>
+      <li>MechanoidGunMedium</li>
+    </weaponTags>
+  </PawnKindDef>
+  
+  
+
+</PawnKindDefs>

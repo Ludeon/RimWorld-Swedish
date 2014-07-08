@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PawnKindDefs>
+
+
+	<PawnKindDef>
+		<defName>Slave</defName>
+		<label>Slave</label>
+    <pointsCost>25</pointsCost>
+    <race>Human</race>
+		<recruitDifficulty>60</recruitDifficulty>
+		<backstoryCategory>Slave</backstoryCategory>
+		<defaultFactionType>Outlander</defaultFactionType>
+		<outfits>
+			<li>
+				<def>Naked</def>
+				<commonality>50</commonality>
+			</li>
+			<li>
+				<def>BasicShirtOnly</def>
+				<commonality>50</commonality>
+			</li>
+		</outfits>
+	</PawnKindDef>
+
+
+
+
+	<PawnKindDef>
+		<defName>Villager</defName>
+		<label>Villager</label>
+		<race>Human</race>
+    <pointsCost>25</pointsCost>
+		<recruitDifficulty>60</recruitDifficulty>
+		<backstoryCategory>Civil</backstoryCategory>
+		<defaultFactionType>Outlander</defaultFactionType>
+		<outfits>
+			<li>
+				<def>Naked</def>
+				<commonality>1</commonality>
+			</li>
+			<li>
+				<def>BasicShirtOnly</def>
+				<commonality>10</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndJacket</def>
+				<commonality>20</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndDuster</def>
+				<commonality>20</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndVest</def>
+				<commonality>20</commonality>
+			</li>
+			<li>
+				<def>BasicShirtAndVestAndDuster</def>
+				<commonality>20</commonality>
+			</li>
+		</outfits>
+		<moneyForWeapons>
+			<min>0</min>
+			<max>250</max>
+		</moneyForWeapons>
+		<weaponTags>
+			<li>Gun</li>
+		</weaponTags>
+		<inventoryOptions>
+      <skipChance>0.75</skipChance>
+      <subOptionsChooseOne>
+        <li>
+          <choiceChance>90</choiceChance>
+          <thingDef>Silver</thingDef>
+          <countRange>
+            <min>25</min>
+            <max>70</max>
+          </countRange>
+        </li>
+        <li>
+          <choiceChance>10</choiceChance>
+          <thingDef>Silver</thingDef>
+          <countRange>
+            <min>700</min>
+            <max>1000</max>
+          </countRange>
+        </li>
+      </subOptionsChooseOne>
+		</inventoryOptions>
+	</PawnKindDef>
+
+
+
+  <PawnKindDef>
+    <defName>TownGuard</defName>
+    <label>Town guard</label>
+    <race>Human</race>
+    <pointsCost>50</pointsCost>
+    <defaultFactionType>Outlander</defaultFactionType>
+    <recruitDifficulty>60</recruitDifficulty>
+    <backstoryCategory>Raider</backstoryCategory>
+    <isFighter>true</isFighter>
+    <startHealthPercentRange>
+      <min>1</min>
+      <max>1</max>
+    </startHealthPercentRange>
+    <outfits>
+      <li>
+        <def>BasicShirtOnly</def>
+        <commonality>30</commonality>
+      </li>
+      <li>
+        <def>BasicShirtAndJacket</def>
+        <commonality>30</commonality>
+      </li>
+      <li>
+        <def>BasicShirtAndDuster</def>
+        <commonality>30</commonality>
+      </li>
+      <li>
+        <def>BasicShirtAndVest</def>
+        <commonality>20</commonality>
+      </li>
+      <li>
+        <def>BasicShirtAndVestAndDuster</def>
+        <commonality>20</commonality>
+      </li>
+    </outfits>
+    <moneyForWeapons>
+      <min>60</min>
+      <max>150</max>
+    </moneyForWeapons>
+    <weaponTags>
+      <li>Gun</li>
+    </weaponTags>
+    <inventoryOptions>
+      <skipChance>0.95</skipChance>
+      <thingDef>Silver</thingDef>
+      <countRange>
+        <min>30</min>
+        <max>100</max>
+      </countRange>
+    </inventoryOptions>
+  </PawnKindDef>
+
+
+
+
+
+
+
+
+
+</PawnKindDefs>

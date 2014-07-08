@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SpecialThingFilters>
+
+  <SpecialThingFilterDef>
+    <defName>AllowCorpsesColonist</defName>
+    <label>Allow colonist corpses</label>
+    <description>Allow dead former colonists.</description>
+    <parentCategory>CorpsesHumanoid</parentCategory>
+    <saveKey>allowCorpsesColonist</saveKey>
+    <workerClass>SpecialThingFilterWorker_CorpsesColonist</workerClass>
+  </SpecialThingFilterDef>
+
+  <SpecialThingFilterDef>
+    <defName>AllowCorpsesStranger</defName>
+    <label>Allow stranger corpses</label>
+    <description>Allow dead former strangers and enemies.</description>
+    <parentCategory>CorpsesHumanoid</parentCategory>
+    <saveKey>allowCorpsesStranger</saveKey>
+    <workerClass>SpecialThingFilterWorker_CorpsesStranger</workerClass>
+  </SpecialThingFilterDef>
+
+  <SpecialThingFilterDef>
+    <defName>AllowBuried</defName>
+    <label>Allow buried corpses</label>
+    <description>Allow corpses which have already been buried.</description>
+    <parentCategory>Corpses</parentCategory>
+    <saveKey>allowCorpsesBuried</saveKey>
+    <workerClass>SpecialThingFilterWorker_Buried</workerClass>
+  </SpecialThingFilterDef>
+  
+</SpecialThingFilters>
+
+

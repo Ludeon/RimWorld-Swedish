@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BiomeDefs>
+
+  <BiomeDef>
+    <defName>XericShrubland</defName>
+    <label>Shrubland</label>
+    <description>A dry biome, but not a lifeless desert. Similar to the southwest United States or western Australia in the early 21st century.</description>
+    <animalDensity>4.0</animalDensity>
+    <plantDensity>0.5</plantDensity>
+  </BiomeDef>
+  
+  
+</BiomeDefs>

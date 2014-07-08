@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResearchProjectDefs>
+
+	<ResearchProjectDef>
+		<defName>Hydroponics</defName>
+		<label>Hydroponics</label>
+		<description>Allows you to build hydroponics tables to rapidly grow crops indoors.</description>
+		<totalCost>70000</totalCost>
+	</ResearchProjectDef>
+
+
+	<ResearchProjectDef>
+		<defName>PneumaticPicks</defName>
+		<label>Pneumatic picks</label>
+		<description>Miner's picks are 20% more effective.</description>
+		<totalCost>35000</totalCost>
+	</ResearchProjectDef>
+
+
+  <ResearchProjectDef>
+    <defName>Stonecutting</defName>
+    <label>Stonecutting</label>
+    <description>Build stonecutting tables, which allow you to refine rock chunks into stone blocks that can be used for construction.</description>
+    <totalCost>30000</totalCost>
+  </ResearchProjectDef>
+
+  
+  
+	<ResearchProjectDef>
+		<defName>SlagRefining</defName>
+		<label>Slag refining</label>
+		<description>Build slag refineries which use heat and strong electromagnets to extract useful metal from slag chunks.</description>
+		<totalCost>60000</totalCost>
+		<prerequisites></prerequisites>
+	</ResearchProjectDef>
+
+
+  <ResearchProjectDef>
+    <defName>Machining</defName>
+    <label>Machining</label>
+    <description>Build machining tables to disassemble dead mechanoids into usable metal.</description>
+    <totalCost>55000</totalCost>
+    <prerequisites></prerequisites>
+  </ResearchProjectDef>
+  
+  
+
+  <ResearchProjectDef>
+		<defName>NutrientResynthesis</defName>
+		<label>Nutrient resynthesis</label>
+		<description>Nutrient paste dispensers consume 10% less food per meal produced.</description>
+		<totalCost>22000</totalCost>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>GunTurretCooling</defName>
+		<label>Gun turret cooling</label>
+		<description>Gun turrets fire four shots in a burst instead of three.</description>
+		<totalCost>40000</totalCost>
+    <researchMods>
+      <li>
+        <specialAction>ResearchModsSpecial.GunTurretCooling</specialAction>
+      </li>
+    </researchMods>
+	</ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>Mortars</defName>
+    <label>Mortars</label>
+    <description>Learn to build mortars which can lob shells long distances over walls.</description>
+    <totalCost>40000</totalCost>
+  </ResearchProjectDef>
+  
+
+  <ResearchProjectDef>
+    <defName>Cremation</defName>
+    <label>Cremation</label>
+    <description>Build crematoriums which can vaporize unwanted corpses.</description>
+    <totalCost>45000</totalCost>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>StrongDoors</defName>
+    <label>Strong doors</label>
+    <description>Powered doors gain an extra 100 health.</description>
+    <totalCost>50000</totalCost>
+    <researchMods>
+      <li>
+        <targetDefTypeName>ThingDef</targetDefTypeName>
+        <targetDefName>DoorPowered</targetDefName>
+        <targetFieldName>maxHealth</targetFieldName>
+        <targetValInt>250</targetValInt>
+      </li>
+    </researchMods>
+  </ResearchProjectDef>
+  
+	<ResearchProjectDef>
+		<defName>CarpetMaking</defName>
+		<label>Carpet making</label>
+		<description>Allows colonists to build carpets to increase the quality of their environments.</description>
+		<totalCost>20000</totalCost>
+	</ResearchProjectDef>
+
+  
+  <ResearchProjectDef>
+    <defName>ColoredLights</defName>
+    <label>Colored lights</label>
+    <description>Allows collonists to construct colored lights for decorative purposes.</description>
+    <totalCost>30000</totalCost>
+    <prerequisites></prerequisites>
+  
+</ResearchProjectDef>
+
+
+
+<!--
+  <ResearchProjectDef>
+		<defName>FearTech1</defName>
+		<label>Fear tech 1</label>
+		<description>Research new ways to inspire fear.</description>
+		<descriptionDiscovered>You can now build gibbet cages to display the corpses of dead enemies and colonist troublemakers. Those that look upon them will feel intense fear and disgust. This is an ancient, crude, but and powerful device.</descriptionDiscovered>
+		<totalCost>15000</totalCost>
+	</ResearchProjectDef>
+-->
+
+
+
+</ResearchProjectDefs>
