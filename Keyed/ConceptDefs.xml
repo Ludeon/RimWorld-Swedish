@@ -1,60 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ConceptText_MoveCamera>Move the camera by clicking and dragging the MIDDLE MOUSE BUTTON or with the WASD keys.</ConceptText_MoveCamera>
+  <ConceptText_MoveCamera>Flytta på kameran genom att klicka och dra med mittenknappen på musen eller med WASD-knapparna.</ConceptText_MoveCamera>
 
-  <ConceptText_RescueColonist>To rescue a wounded colonist, select a healthy colonist and the right-click on the wounded one.</ConceptText_RescueColonist>
+  <ConceptText_RescueColonist>För att rädda en sårad kolonist, klicka på en frisk kolonist och högerklicka sedan på den sårade.</ConceptText_RescueColonist>
 
-  <ConceptText_Capture1>An enemy has been incapacitated. You can capture them!</ConceptText_Capture1>
-  <ConceptText_Capture2>To capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</ConceptText_Capture2>
+  <ConceptText_Capture1>En fiende har blivit handlingsförlamad. Du kan fånga denne!</ConceptText_Capture1>
+  <ConceptText_Capture2>För att fånga, klicka på en kolonist, högerklicka på den handlingsförlamade fienden, och välj Fånga.\n\nDu kommer behöva en extra säng, som är markerad för användning av fånge.</ConceptText_Capture2>
 
-  <ConceptText_Draft1>To control colonists directly for combat, Draft them by selecting them and hitting the Draft button.</ConceptText_Draft1>
-  <ConceptText_Draft2>A drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy.</ConceptText_Draft2>
+  <ConceptText_Draft1>För att kontrollera kolonister direkt för strid, inkalla dem genom att klicka på dem och sedan klicka Inkalla.</ConceptText_Draft1>
+  <ConceptText_Draft2>En inkallad kolonist kommer bara att göra vad du säger åt dem, och kommer bara att agera som soldat. De som har vapen kommer att använda dem när de har möjlighet.\n\nLämna inte kolonister inkallade för alltid - de kommer tillslut att svälta och bli oglada.</ConceptText_Draft2>
 
-  <ConceptText_Forbid>Colonists will not interact with items marked FORBIDDEN.\n\nSelect the food and metal near your landing site and press F to UNFORBID them.</ConceptText_Forbid>
+  <ConceptText_Forbid>Kolonister kommer inte att interagera med saker som är markerade som FÖRBJUDEN.\n\nKlicka på maten och metallen nära din landningsposition och klicka på F för att UPPHÄVA FÖRBJUDNING.</ConceptText_Forbid>
 
-  <ConceptText_BillsTab>To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher.</ConceptText_BillsTab>
+  <ConceptText_BillsTab>För att göra så att kolonister arbetar vid ett bord, måste du klicka på bordet och klicka på knappen Order. Här kan du säga vad som ska tillagas, vad som ska tillverkas, och vilka varelser som ska slaktas.</ConceptText_BillsTab>
 
-  <ConceptText_GrowingFood>To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground.</ConceptText_GrowingFood>
+  <ConceptText_GrowingFood>För att växa mat, placera TILLVÄXTZONER genom att använda Ariktekt menyn.\n\nDe kan bara placeras på bördig jord.</ConceptText_GrowingFood>
 
-  <ConceptText_BuildOrbitalTradeBeacon>Hint:\n\nTo send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON outdoors and place a stockpile of items near it.</ConceptText_BuildOrbitalTradeBeacon>
+  <ConceptText_BuildOrbitalTradeBeacon>Tips:\n\nFör att skicka varor eller silver till orbital-förhandlare, måste du bygga en ORBITAL FÖRHANDLINGSSIGNALERARE utomhus och placera ett förråd av varor nära den.</ConceptText_BuildOrbitalTradeBeacon>
 
-  <ConceptText_ReadingAlerts>If you're ever not sure what to do, check the ALERTS at the right of the screen.</ConceptText_ReadingAlerts>
+  <ConceptText_ReadingAlerts>Om du någonsin inte vet vad du ska göra, kolla på NOTISERNA till höger på skärmen.</ConceptText_ReadingAlerts>
 
-  <ConceptText_CameraZoom>Zoom in and out with the MOUSEWHEEL or the T and G keys.</ConceptText_CameraZoom>
+  <ConceptText_CameraZoom>Zooma in och ut med musens rullningshjul eller knapparna T och G.</ConceptText_CameraZoom>
 
-  <ConceptText_TimeControls>You can speed up, slow down, or stop time using the time controls in the bottom right.</ConceptText_TimeControls>
+  <ConceptText_TimeControls>Du kan snabba upp, sakna ner eller stanna tiden genom att använda tidskontrollerna nere i det högra hörnet.</ConceptText_TimeControls>
 
-  <ConceptText_PrisonerTab>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou'll need a colonist with the Warden work to take care of the prisoner.</ConceptText_PrisonerTab>
+  <ConceptText_PrisonerTab>Kolla i en fånges 'Fånge' flik för att beordra hur de ska behandlas.\n\nDu behöver en kolonist med Vakt-arbetet för att ta hand om fången.</ConceptText_PrisonerTab>
 
-  <ConceptText_Mining>You can designate where to mine using the ARCHITECT MENU.\n\nMining MINERALS yields METAL.\n\nMining ROCK yields nothing.</ConceptText_Mining>
+  <ConceptText_Mining>Du kan designera vart dina kolonister ska gräva i ARIKTEKT MENYN.\n\nGenom att bryta MINERALER så får du METALL.\n\nBrytning av sten ger ingenting.</ConceptText_Mining>
 
-  <ConceptText_WorkOverview1>You can set each colonist's work settings in the OVERVIEW at the bottom right of the screen.\n\nThey will always do the highest priority work defName that they can find.</ConceptText_WorkOverview1>
-  <ConceptText_WorkOverview2>Colonists won't do jobs they don't have set.\n\nIf nobody has a certain work type assigned, it will never get done.</ConceptText_WorkOverview2>
+  <ConceptText_WorkOverview1>Du kan ställa in varje kolonists arbetsinställning i ÖVERSIKT nere i det högra hörnet av skärmen.\n\nDe kommer alltid att utföra den högsta prioriteten av jobb defName som de kan hitta.</ConceptText_WorkOverview1>
+  <ConceptText_WorkOverview2>Kolonister kommer inte att utföra jobb som de inte har tilldelat till sig.\n\nOm ingen har en specifik arbetstyp tilldelad till sig så kommer arbetet aldrig att utföras.</ConceptText_WorkOverview2>
 
-  <ConceptText_EquippingWeapons>To have your colonist equip a weapon, select the colonist and then right-click on the weapon.\n\nThere are weapons on the ground near your starting location.</ConceptText_EquippingWeapons>
+  <ConceptText_EquippingWeapons>För att din kolonist ska utrusta sig med ett vapen, välj kolonisten och högerklicka sedan på vapnet.\n\nDet finns vapen på marken vid din startposition.</ConceptText_EquippingWeapons>
 
-  <ConceptText_HomeRegion>HOME REGIONS tell your colonists which areas to clean and where to extinguish fires.\n\nDefine a HOME REGION with the Zones category under the Architect menu.</ConceptText_HomeRegion>
+  <ConceptText_HomeRegion>HEMREGIONER berättar för dina kolonister vilka områden som ska städas och vart de ska släcka bränder.\n\nDefiniera en HEMREGION med Zoner kategorin i Arkitekt menyn. under the Architect menu.</ConceptText_HomeRegion>
 
-  <ConceptText_StorageTabCategories>In the storage tab, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.</ConceptText_StorageTabCategories>
+  <ConceptText_StorageTabCategories>I förrådsfliken kan du expandera kategorier vilket kan användas för att tillåta eller neka specifika saker. Klicka på trianglarna till vänster av kategorinamnen.</ConceptText_StorageTabCategories>
 
-  <ConceptText_StorageTab>You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.</ConceptText_StorageTab>
+  <ConceptText_StorageTab>Du kan konfigurera förråd och förrådsbyggnader genom att klicka på dem och öppna FÖRRÅDSFLIKEN ovanför inspektionsfönstret nere i det vänstra hörnet.</ConceptText_StorageTab>
 
-  <ConceptText_SetGrowingZonePlant>You can set what growers in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button.</ConceptText_SetGrowingZonePlant>
+  <ConceptText_SetGrowingZonePlant>Du kan ställa in vad som ska växa i en växtzon. Du kan tillochmed växa träd!\n\nBara välj växtzonen, öppna Växer-fliken, och klicka på knappen 'plantera'.</ConceptText_SetGrowingZonePlant>
   
-  <ConceptText_SpacePause>Hit SPACE to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit SPACE!</ConceptText_SpacePause>
+  <ConceptText_SpacePause>Klicka på MELLANSLAG för att pausa eller återaktivera spelet.\n\nDu kan ge order medan spelet är pausat.\n\nKom ihåg - om saker blir för hektiska, klicka bara MELLANSLAG.</ConceptText_SpacePause>
 
-  <ConceptText_RightClickClearLetter>You can quickly dismiss incoming letters by right-clicking them.</ConceptText_RightClickClearLetter>
+  <ConceptText_RightClickClearLetter>Du kan snabbt avvisa inkommande brev genom att högerklicka på dem.</ConceptText_RightClickClearLetter>
 
-  <ConceptText_OpeningComms>To communicate, select a working colonist and right-click on the comms console.</ConceptText_OpeningComms>
+  <ConceptText_OpeningComms>För att kommunicera, klicka på en arbetande kolonist och högerklicka på kommunikationskonsollen.</ConceptText_OpeningComms>
 
-  <ConceptText_StoragePriority>You can change the PRIORITY of storage. Colonists will fill higher-priority storage first.</ConceptText_StoragePriority>
+  <ConceptText_StoragePriority>Du kan ändra PRIORITETEN av förråd. Kolonister kommer att fylla förråd med högre prioritet först.</ConceptText_StoragePriority>
 
-  <ConceptText_Wiki>You can look up information in the WIKI.\n\nUse the link the bottom right of the screen.</ConceptText_Wiki>
+  <ConceptText_Wiki>Du kan kolla upp information i WIKI.\n\nAnvänd länken nere i det högra hörnet av skärmen.</ConceptText_Wiki>
 
-  <ConceptText_TradeGoodsMustBeNearBeacon>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON outdoors and place a stockpile of items near it.</ConceptText_TradeGoodsMustBeNearBeacon>
+  <ConceptText_TradeGoodsMustBeNearBeacon>För att skicka varor eller silver till orbital-förhandlare, måste du bygga en ORBITAL FÖRHANDLINGSSIGNALERARE utomhus och placera ett förråd av varor nära den..</ConceptText_TradeGoodsMustBeNearBeacon>
 
-  <ConceptText_ArrestingCreatesEnemies>If you arrest someone, their entire faction will become your enemy.\n\nDon't arrest someone if you want to stay friends with their faction!</ConceptText_ArrestingCreatesEnemies>
+  <ConceptText_ArrestingCreatesEnemies>Om du arresterar någon så kommer hela deras anhang att bli din fiende.\n\nArrestera ingen om du vill förbli vänner med deras anhang!</ConceptText_ArrestingCreatesEnemies>
 
 
 </LanguageData>
