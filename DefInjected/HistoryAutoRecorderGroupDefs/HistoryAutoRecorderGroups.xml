@@ -1,37 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<HistoryAutoRecorderGroupDefs>
-
-  <HistoryAutoRecorderGroupDef>
-    <defName>Wealth</defName>
-    <label>Wealth</label>
-	<graphLabelY>Amount</graphLabelY>
-	<historyAutoRecorderDefs>
-	  <li>WealthTotal</li>
-	  <li>WealthItems</li>
-	  <li>WealthBuildings</li>
-	</historyAutoRecorderDefs>
-  </HistoryAutoRecorderGroupDef>
+<LanguageData>
+	
+	<Wealth.label>Rikedom</Wealth.label>
+	<Wealth.graphLabelY>Mängd</Wealth.graphLabelY>
+	
+	<Population.label>Folkmängd</Population.label>
+	<Population.graphLabelY>Kolonister</Population.graphLabelY>
+	
+	<ColonistMood.label>Humör hos kolonister</ColonistMood.label>
+	<ColonistMood.graphLabelY>Procent</ColonistMood.graphLabelY>
   
-  <HistoryAutoRecorderGroupDef>
-    <defName>Population</defName>
-    <label>Population</label>
-	<graphLabelY>Colonists</graphLabelY>
-	<historyAutoRecorderDefs>
-	  <li>FreeColonists</li>
-	  <li>Prisoners</li>
-	</historyAutoRecorderDefs>
-  </HistoryAutoRecorderGroupDef>
-  
-  <HistoryAutoRecorderGroupDef>
-    <defName>ColonistMood</defName>
-    <label>Colonist mood</label>
-	<graphLabelY>Percent</graphLabelY>
-	<useFixedScale>true</useFixedScale>
-	<fixedScale>(0, 100)</fixedScale>
-	<historyAutoRecorderDefs>
-	  <li>ColonistMood</li>
-	  <!--<li>ColonistFear</li>-->
-	</historyAutoRecorderDefs>
-  </HistoryAutoRecorderGroupDef>
-  
-</HistoryAutoRecorderGroupDefs>
+</LanguageData>
