@@ -10,4 +10,5 @@ https://docs.google.com/spreadsheets/d/1Wb3xoe-Fi9ungcC7Jy-yuaOeuQuzURtQfpVFx4LU
 =======
 Translators:
 -zackiz
-
+-TreSxNine
+-Ricande
