@@ -1,43 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<RecipeDefs>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CremateCorpse.label>Kremera kropp</remateCorpse.label>
+  <CremateCorpse.description>Kremera en kropp för att helt förstöra den.</CremateCorpse.description>
+  <CremateCorpse.jobString>Kremerar.</CremateCorpse.jobString>
 
-  <RecipeDef>
-    <defName>CremateCorpse</defName>
-    <label>Cremate corpse</label>
-    <description>Cremate a corpse to completely destroy it.</description>
-    <jobString>Cremating.</jobString>
-    <workAmount>300</workAmount>
-    <workEffect>CremateCorpse</workEffect>
-    <sustainerSoundDef>Recipe_CremateCorpse</sustainerSoundDef>
-    <ingredients>
-      <li>
-        <filter>
-          <categories>
-            <li>Corpses</li>
-          </categories>
-        </filter>
-        <count>1</count>
-      </li>
-    </ingredients>
-    <fixedIngredientFilter>
-      <categories>
-        <li>Corpses</li>
-      </categories>
-      <exceptedCategories>
-        <li>CorpsesMechanoid</li>
-      </exceptedCategories>
-    </fixedIngredientFilter>
-    <defaultIngredientFilter>
-      <thingDefs>
-        <li>Human_Corpse</li>
-      </thingDefs>
-      <specialFiltersToAllow>
-        <li>AllowCorpsesColonist</li>
-        <li>AllowCorpsesStranger</li>
-      </specialFiltersToAllow>
-    </defaultIngredientFilter>
-  </RecipeDef>
-
-
-
-</RecipeDefs>
+  
+</LanguageData>

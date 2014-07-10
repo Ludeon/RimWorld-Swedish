@@ -14,3 +14,4 @@ Translators:
 -zackiz
 -TreSxNine
 -Ricande
+-Zacka

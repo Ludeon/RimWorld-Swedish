@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	<MakeStoneBlocks.label>Skapa stenblock</MakeStoneBlocks.label>
 	<MakeStoneBlocks.description>Hugger ner en stor stenbit till användbara stenblock.</MakeStoneBlocks.description>
@@ -16,7 +16,7 @@
 	
 	<ExtractMetalFromSlag.label>Extrahera metall från slagg.</ExtractMetalFromSlag.label>
 	<ExtractMetalFromSlag.description>Använd värme och starka elektromagneter för att separare användbara metaller från stora bitar slagg.</ExtractMetalFromSlag.description>
-	<ExtractMetalFromSlag.jobString>Extrahera metall från slagg.</ExtractMetalFromSlag.jobString>
+	<ExtractMetalFromSlag.jobString>Extraherar metall från slagg.</ExtractMetalFromSlag.jobString>
 
 	
 </LanguageData>

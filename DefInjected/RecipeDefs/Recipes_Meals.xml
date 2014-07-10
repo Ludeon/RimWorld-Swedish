@@ -1,178 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<RecipeDefs>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CookMealSimple.label>Laga enkel maträtt</CookMealSimple.label>
+  <CookMealSimple.description>Lagar en enkel maträtt av en ingrediens.</CookMealSimple.description>
+  <CookMealSimple.jobString>Lagar enkel maträtt.</CookMealSimple.jobString>
 
+  <CookMealFine.label>Laga förfinad maträtt</CookMealFine.label>
+  <CookMealFine.description>Lagar en något komplex maträtt ur en kombination av råa kött och växt ingredienser.</CookMealFine.description>
+  <CookMealFine.jobString>Lagar förfinad maträtt.</CookMealFine.jobString>
 
+  <CookMealLavish.label>Laga utsökt maträtt</CookMealLavish.label>
+  <CookMealLavish.description>Lagar en väldigt komplex maträtt ur en kombination av råa kött och växt ingredienser. Många av ingredienserna slösas bort.</CookMealLavish.description>
+  <CookMealLavish.jobString>Lagar utsökt maträtt.</CookMealLavish.jobString>
 
-	<RecipeDef>
-		<defName>CookMealSimple</defName>
-		<label>Cook simple meal</label>
-		<description>Cooks a straightforward meal from one ingredient.</description>
-		<jobString>Cooking simple meal.</jobString>
-		<workAmount>240</workAmount>
-		<workTimeSkillNeed>CookTime</workTimeSkillNeed>
-		<workEffect>Cook</workEffect>
-    <sustainerSoundDef>Recipe_CookMeal</sustainerSoundDef>
-    <ingredients>
-			<li>
-				<filter>
-					<categories>
-						<li>FoodRaw</li>
-					</categories>
-				</filter>
-				<count>10</count>
-			</li>
-		</ingredients>
-		<products>
-			<li>
-				<thingDef>MealSimple</thingDef>
-				<count>1</count>
-			</li>
-		</products>
-		<fixedIngredientFilter>
-			<categories>
-				<li>FoodRaw</li>
-			</categories>
-		</fixedIngredientFilter>
-		<defaultIngredientFilter>
-			<categories>
-				<li>FoodRaw</li>
-			</categories>
-			<exceptedThingDefs>
-				<li>Human_Meat</li>
-			</exceptedThingDefs>
-		</defaultIngredientFilter>
-		<skillGains>
-			<li>
-				<skill>Cooking</skill>
-				<xp>60</xp>
-			</li>
-		</skillGains>
-	</RecipeDef>
+  
+</LanguageData>
 
+	
 
-	<RecipeDef>
-		<defName>CookMealFine</defName>
-		<label>Cook fine meal</label>
-		<description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</description>
-		<jobString>Cooking fine meal.</jobString>
-		<workAmount>400</workAmount>
-		<workTimeSkillNeed>CookTime</workTimeSkillNeed>
-		<workEffect>Cook</workEffect>
-    <sustainerSoundDef>Recipe_CookMeal</sustainerSoundDef>
-    <ingredients>
-			<li>
-				<filter>
-					<categories>
-						<li>MeatRaw</li>
-					</categories>
-				</filter>
-				<count>5</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>PlantFoodRaw</li>
-					</categories>
-				</filter>
-				<count>5</count>
-			</li>
-		</ingredients>
-		<products>
-			<li>
-				<thingDef>MealFine</thingDef>
-				<count>1</count>
-			</li>
-		</products>
-		<fixedIngredientFilter>
-			<categories>
-				<li>FoodRaw</li>
-			</categories>
-		</fixedIngredientFilter>
-		<defaultIngredientFilter>
-			<categories>
-				<li>FoodRaw</li>
-			</categories>
-			<exceptedThingDefs>
-				<li>Human_Meat</li>
-			</exceptedThingDefs>
-		</defaultIngredientFilter>
-		<skillRequirements>
-			<li>
-				<skill>Cooking</skill>
-				<minLevel>7</minLevel>
-			</li>
-		</skillRequirements>
-		<skillGains>
-			<li>
-				<skill>Cooking</skill>
-				<xp>110</xp>
-			</li>
-		</skillGains>
-	</RecipeDef>
-
-
-	<RecipeDef>
-		<defName>CookMealLavish</defName>
-		<label>Cook lavish meal</label>
-		<description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</description>
-		<jobString>Cooking lavish meal.</jobString>
-		<workAmount>1000</workAmount>
-		<workTimeSkillNeed>CookTime</workTimeSkillNeed>
-		<workEffect>Cook</workEffect>
-    <sustainerSoundDef>Recipe_CookMeal</sustainerSoundDef>
-    <ingredients>
-			<li>
-				<filter>
-					<categories>
-						<li>MeatRaw</li>
-					</categories>
-				</filter>
-				<count>10</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>PlantFoodRaw</li>
-					</categories>
-				</filter>
-				<count>10</count>
-			</li>
-		</ingredients>
-		<products>
-			<li>
-				<thingDef>MealLavish</thingDef>
-				<count>1</count>
-			</li>
-		</products>
-		<fixedIngredientFilter>
-			<categories>
-				<li>FoodRaw</li>
-			</categories>
-		</fixedIngredientFilter>
-		<defaultIngredientFilter>
-			<categories>
-				<li>FoodRaw</li>
-			</categories>
-			<exceptedThingDefs>
-				<li>Human_Meat</li>
-			</exceptedThingDefs>
-		</defaultIngredientFilter>
-		<skillRequirements>
-			<li>
-				<skill>Cooking</skill>
-				<minLevel>12</minLevel>
-			</li>
-		</skillRequirements>
-		<skillGains>
-			<li>
-				<skill>Cooking</skill>
-				<xp>180</xp>
-			</li>
-		</skillGains>
-	</RecipeDef>
-
-
-
-
-
-</RecipeDefs>
+	
+	
