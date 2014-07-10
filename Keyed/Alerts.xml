@@ -56,13 +56,13 @@
   <NeedColonistBedsDesc>Du har fler kolonister än vad du har kolonistsängar. Någon kommer sakna en plats att sova på.\n\nDu kan antingen skapa fler sängar, eller ändra en fångesäng till en kolonistsäng.\n\nOm du inte har några resurser så kan du placera ut sovplatser direkt, gratis.</NeedColonistBedsDesc>
   
   <Starvation>Svält</Starvation>
-  <StarvationDesc>Dessa kolonister svälter:\n\n{0}\nSkaffa mat åt dem. Du behövber en matkälla somm en näringskrämsutdelare och lite mat för att använda den. Se också till att de inte är utarbetade.</StarvationDesc>
+  <StarvationDesc>Dessa kolonister svälter:\n\n{0}\nSkaffa mat åt dem. Du behövber en matkälla somm en näringsmassutdelare och lite mat för att använda den. Se också till att de inte är utarbetade.</StarvationDesc>
 
   <Exhaustion>Utmattning</Exhaustion>
   <ExhaustionDesc>Dessa kolonister är utmattade och behöver vila:\n\n{0}\nLåt dem vila ett tag. De behöver en säng som är markerad för kolonisters användning. Se också till att de inte är utarbetade.</ExhaustionDesc>
 
   <NeedFoodHopper>Behöver mattratt</NeedFoodHopper>
-  <NeedFoodHopperDesc>Du har en näringskrämsutdelare som saknar en tratt bredvid sig.\n\nFör att fungera behöver näringskrämsutdelaren tappa från en närliggande tratt fylld med rå mat.\n\nBygg en tratt närliggande näringskrämsutdelaren.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Du har en näringsmassutdelare som saknar en tratt bredvid sig.\n\nFör att fungera behöver näringskrämsutdelaren tappa från en närliggande tratt fylld med rå mat.\n\nBygg en tratt närliggande näringskrämsutdelaren.</NeedFoodHopperDesc>
 
   <BuildingNeedsPower>Byggnad behöver ström</BuildingNeedsPower>
   <BuildingsNeedPower>Byggnad behöver ström</BuildingsNeedPower>
@@ -70,8 +70,8 @@
   <AndMore>och mer</AndMore>
 
   <NeedMealSource>Behöver måltidskälla</NeedMealSource>
-  <NeedMealSourceDesc>Du saknar möjlighet att producera ätbara måltider.\n\nBygg en näringskrämsutdelare eller en spis.\n\n(Det kan inte vara i en fängelsecell, då kan inte kolonister använda den.)</NeedMealSourceDesc>
-  <NeedMealSourceDesc>Du saknar möjlighet att producera ätbara måltider.\n\nBygg en näringskrämsutdelare eller en spis.\n\n(Det kan inte vara i en fängelsecell, då kan inte kolonister använda den.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Du saknar möjlighet att producera ätbara måltider.\n\nBygg en näringsmassutdelare eller en spis.\n\n(Det kan inte vara i en fängelsecell, då kan inte kolonister använda den.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Du saknar möjlighet att producera ätbara måltider.\n\nBygg en näringsmassutdelare eller en spis.\n\n(Det kan inte vara i en fängelsecell, då kan inte kolonister använda den.)</NeedMealSourceDesc>
 
   <NeedHomeRegion>Behöver hemområde</NeedHomeRegion>
   <NeedHomeRegionDesc>Du måste definiera ett HEMOMRÅDE där dina kolonister kommer att städa, släcka bränder, och reparera saker.\n\nDefinera ett hemområde genom att använda ZONER-sektionen av ARKITEKT menyn.</NeedHomeRegionDesc>
