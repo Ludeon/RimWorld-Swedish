@@ -1,29 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<PawnKindDefs>
-
-	<PawnKindDef>
-		<defName>Colonist</defName>
-		<label>Colonist</label>
-		<race>Human</race>
-    <pointsCost>30</pointsCost>
-    <defaultFactionType>Colony</defaultFactionType>
-		<recruitDifficulty>60</recruitDifficulty>
-		<backstoryCategory>Civil</backstoryCategory>
-		<outfits>
-			<li>
-				<def>Naked</def>
-				<commonality>5</commonality>
-			</li>
-			<li>
-				<def>BasicShirtOnly</def>
-				<commonality>50</commonality>
-			</li>
-			<li>
-				<def>BasicShirtAndJacket</def>
-				<commonality>50</commonality>
-			</li>
-		</outfits>
-	</PawnKindDef>
-
-
-</PawnKindDefs>
+<LanguageData>
+	
+	<Colonist.label>Kolonist</Colonist.label>
+	<!--<SpaceRefugee.label>Rymdflykting</SpaceRefugee.label>-->
+	
+</LanguageData>

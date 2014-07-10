@@ -1,19 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<MapConditionDefs>
-
-  <MapConditionDef>
-    <defName>SolarFlare</defName>
-    <label>Solar flare</label>
-  </MapConditionDef>
-
-  <MapConditionDef>
-    <defName>Eclipse</defName>
-    <label>Eclipse</label>
-  </MapConditionDef>
-
-  <MapConditionDef>
-    <defName>PsychicDrone</defName>
-    <label>Psychic drone</label>
-  </MapConditionDef> 
-  
-</MapConditionDefs>
+<LanguageData>
+	
+	<SolarFlare.label>Soleruption</SolarFlare.label>
+	
+	<Eclipse.label>Solförmörkelse</Eclipse.label>
+	
+	<PsychicDrone.label>Psytisk drönare</PsychicDrone.label>
+	
+	
+</LanguageData>

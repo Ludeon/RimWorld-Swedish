@@ -1,155 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<RecipeDefs>
+<LanguageData>
+	<MakeStoneBlocks.label>Skapa stenblock</MakeStoneBlocks.label>
+	<MakeStoneBlocks.description>Hugger ner en stor stenbit till användbara stenblock.</MakeStoneBlocks.description>
+	<MakeStoneBlocks.jobString>Producerar stenblock.</MakeStoneBlocks.jobString>
+	
+	<!--
+	<MakeWoodPlanks_Hand.label>Skapa träplankor</MakeWoodPlanks_Hand.label>
+	<MakeWoodPlanks_Hand.description>Sågar 10 timmerstockar till 25 träplankor för hand. Ganska långsamt.</MakeWoodPlanks_Hand.description>
+	<MakeWoodPlanks_Hand.jobString>Producerar träplankor.</MakeWoodPlanks_Hand.jobString>
+	
+	<MakeWoodPlanks_Electric.label>Skapa träplankor</MakeWoodPlanks_Electric.label>
+	<MakeWoodPlanks_Electric.description>Sågar 10 timmerstockar till 25 träplankor för hand. Ganska långsamt.</MakeWoodPlanks_Electric.description>
+	<MakeWoodPlanks_Electric.jobString>Producerar träplankor.</MakeWoodPlanks_Electric.jobString>
+	-->
+	
+	<ExtractMetalFromSlag.label>Extrahera metall från slagg.</ExtractMetalFromSlag.label>
+	<ExtractMetalFromSlag.description>Använd värme och starka elektromagneter för att separare användbara metaller från stora bitar slagg.</ExtractMetalFromSlag.description>
+	<ExtractMetalFromSlag.jobString>Extrahera metall från slagg.</ExtractMetalFromSlag.jobString>
 
-	<RecipeDef>
-		<defName>MakeStoneBlocks</defName>
-		<label>Make stone blocks</label>
-		<description>Cuts rock chunks into usable stone blocks.</description>
-		<jobString>Stonecutting.</jobString>
-		<workAmount>700</workAmount>
-		<workTimeSkillNeed>StonecuttingTime</workTimeSkillNeed>
-		<efficiencySkillNeed>StonecuttingEfficiency</efficiencySkillNeed>
-		<workEffect>CutStone</workEffect>
-    <sustainerSoundDef>Recipe_MakeStoneBlocks</sustainerSoundDef>
-    <ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>ChunkRock</li>
-					</thingDefs>
-				</filter>
-				<count>1</count>
-			</li>
-		</ingredients>
-		<products>
-			<li>
-				<thingDef>StoneBlocks</thingDef>
-				<count>35</count>
-			</li>
-		</products>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>ChunkRock</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<skillGains>
-			<li>
-				<skill>Crafting</skill>
-				<xp>100</xp>
-			</li>
-		</skillGains>
-	</RecipeDef>
-
-
-
-  <!--
-  <RecipeDef>
-    <defName>MakeWoodPlanks_Hand</defName>
-    <label>Make wood planks</label>
-    <description>Cuts 10 logs into 25 wood planks by hand. Quite slow.</description>
-    <jobString>Making wood planks.</jobString>
-    <workAmount>1500</workAmount>
-    <workEffect>MakeWoodPlanks_Hand</workEffect>
-    <sustainerSoundDef>Recipe_MakeWoodPlanks_Hand</sustainerSoundDef>
-    <ingredients>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>WoodLog</li>
-          </thingDefs>
-        </filter>
-        <count>10</count>
-      </li>
-    </ingredients>
-    <products>
-      <li>
-        <thingDef>WoodPlank</thingDef>
-        <count>25</count>
-      </li>
-    </products>
-    <fixedIngredientFilter>
-      <thingDefs>
-        <li>WoodLog</li>
-      </thingDefs>
-    </fixedIngredientFilter>
-  </RecipeDef>
-
-
-  <RecipeDef>
-    <defName>MakeWoodPlanks_Electric</defName>
-    <label>Make wood planks</label>
-    <description>Cuts 10 logs into 25 wood planks.</description>
-    <jobString>Making wood planks.</jobString>
-    <workAmount>500</workAmount>
-    <workEffect>MakeWoodPlanks_Electric</workEffect>
-    <sustainerSoundDef>Recipe_MakeWoodPlanks_Electric</sustainerSoundDef>
-    <ingredients>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>WoodLog</li>
-          </thingDefs>
-        </filter>
-        <count>10</count>
-      </li>
-    </ingredients>
-    <products>
-      <li>
-        <thingDef>WoodPlank</thingDef>
-        <count>25</count>
-      </li>
-    </products>
-    <fixedIngredientFilter>
-      <thingDefs>
-        <li>WoodLog</li>
-      </thingDefs>
-    </fixedIngredientFilter>
-  </RecipeDef>
-  -->
-
-
-
-
-  <RecipeDef>
-    <defName>ExtractMetalFromSlag</defName>
-    <label>Extract metal from slag</label>
-    <description>Use heat and strong electromagnets to separate useful metal from slag chunks.</description>
-    <jobString>Extracting metal from slag.</jobString>
-    <workAmount>1600</workAmount>
-    <workTimeSkillNeed>SlagExtractTime</workTimeSkillNeed>
-    <efficiencySkillNeed>SlagExtractEfficiency</efficiencySkillNeed>
-    <workEffect>ExtractMetalFromSlag</workEffect>
-    <sustainerSoundDef>Recipe_ExtractMetalFromSlag</sustainerSoundDef>
-    <ingredients>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>ChunkSlag</li>
-          </thingDefs>
-        </filter>
-        <count>1</count>
-      </li>
-    </ingredients>
-    <products>
-      <li>
-        <thingDef>Metal</thingDef>
-        <count>8</count>
-      </li>
-    </products>
-    <fixedIngredientFilter>
-      <thingDefs>
-        <li>ChunkSlag</li>
-      </thingDefs>
-    </fixedIngredientFilter>
-    <skillGains>
-      <li>
-        <skill>Crafting</skill>
-        <xp>120</xp>
-      </li>
-    </skillGains>
-  </RecipeDef>
-  
-  
-
-
-</RecipeDefs>
+	
+</LanguageData>
