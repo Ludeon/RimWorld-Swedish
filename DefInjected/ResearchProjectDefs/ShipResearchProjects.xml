@@ -1,53 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ResearchProjectDefs>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
 
-  <ResearchProjectDef>
-    <defName>ShipBasics</defName>
-    <label>Shipbuilding basics</label>
-    <description>Allows you to start researching more advanced shipbuilding technologies and eventually build a ship to escape the planet.</description>
-    <totalCost>30000</totalCost>
-  </ResearchProjectDef>
+  <ShipBasics.label>Skeppsbyggningsgrunder</ShipBasics.label>
+  <ShipBasics.description>Gör det möjligt att utveckla mer avancerad skeppsbyggningsteknologi, och eventuellt bygga ett skepp för att undkomma planeten.</ShipBasics.description>
 
-  <ResearchProjectDef>
-    <defName>ShipCryptosleep</defName>
-    <label>Ship cryptosleep pods</label>
-    <description>Allows you to construct ship cryptosleep pods for transporting cryptosleeping colonists between the stars.</description>
-    <totalCost>120000</totalCost>
-    <prerequisites>
-      <li>ShipBasics</li>
-    </prerequisites>
-  </ResearchProjectDef>
+  <ShipCryptosleep.label>Skeppskryptosömnskapslar</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Gör det möjligt att bygga kryptosömnskapslar, för att transportera kryptosovande kolonister mellan stjärnorna.</ShipCryptosleep.description>
 
-  <ResearchProjectDef>
-    <defName>ShipReactor</defName>
-    <label>Ship antimatter reactor</label>
-    <description>Allows you to use an antimatter containment core to build a working antimatter reactor to power a ship.</description>
-    <totalCost>190000</totalCost>
-    <prerequisites>
-      <li>ShipBasics</li>
-    </prerequisites>
-  </ResearchProjectDef>
+  <ShipReactor.label>Skeppsantimateriereaktor</ShipReactor.label>
+  <ShipReactor.description>Gör det möjligt att använda en antimaterieinslutningskärna, för att bygga en antimateriereaktor som kan driva ett skepp.</ShipReactor.description>
 
-  <ResearchProjectDef>
-    <defName>ShipEngine</defName>
-    <label>Ship antimatter propulsion</label>
-    <description>Allows you to use an antimatter containment core to construct an antimatter drive for a ship.</description>
-    <totalCost>200000</totalCost>
-    <prerequisites>
-      <li>ShipBasics</li>
-    </prerequisites>
-  </ResearchProjectDef>
+  <ShipEngine.label>Skeppsantimaterieframdrivning</ShipEngine.label>
+  <ShipEngine.description>Gör det möjligt att använda en antimaterieinslutningskärna, för att bygga en antimaterieenhet till ett skepp.</ShipEngine.description>
 
-  <ResearchProjectDef>
-    <defName>ShipComputerCore</defName>
-    <label>Ship computer core</label>
-    <description>Allows coercing an existing AI persona into a usable AI computer core for ship guidance.</description>
-    <totalCost>120000</totalCost>
-    <prerequisites>
-      <li>ShipBasics</li>
-    </prerequisites>
-  </ResearchProjectDef>
+  <ShipComputerCore.label>Skeppsdatorkärna</ShipComputerCore.label>
+  <ShipComputerCore.description>Gör det möjligt att tvinga en existerande AI persona till en användbar AI datorkärna för skeppsvägledning.</ShipComputerCore.description>
 
-  
-  
-</ResearchProjectDefs>
+
+</Languagedata>

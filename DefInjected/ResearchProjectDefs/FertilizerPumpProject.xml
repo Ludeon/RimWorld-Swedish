@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ResearchProjectDefs>
+<LanguageData>
 
-	<ResearchProjectDef>
-		<defName>FertilizerPump</defName>
-		<label>Fertilizer pump</label>
-		<description>Allows you to build fertilizer pumps, which can create farmable soil anywhere.</description>
-		<totalCost>35000</totalCost>
-		<prerequisites></prerequisites>
-	</ResearchProjectDef>
+  <FertilizerPump.label>Gödselpump</FertilizerPump.label>
+  <FertilizerPump.description>Gör det möjligt att bygga gödselpumpar, som kan skapa odlingsbar mark var som helst.</FertilizerPump.description>
 
-</ResearchProjectDefs>
+
+</Languagedata>
