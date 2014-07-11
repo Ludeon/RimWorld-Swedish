@@ -46,8 +46,8 @@
   <NeedMiner>Behöver gruvarbetare</NeedMiner>
   <NeedMinerDesc>Du har angett att några stenar ska bli utgrävnar, men ingen kolonist är tilldelad arbetstypen Gruvarbetare. \n\nTilldela arbetstypen Gruvarbetare till någon av dina kolonister.</NeedMinerDesc>
 
-  <NeedWarden>Behöver vakt</NeedWarden>
-  <NeedWardenDesc>Du har en fånge, men ingen kolonist är tilldelad arbetstypen Vakt.\n\nTilldela arbetstypen Vakt till någon av dina kolonister.</NeedWardenDesc>
+  <NeedWarden>Behöver övervakare</NeedWarden>
+  <NeedWardenDesc>Du har en fånge, men ingen kolonist är tilldelad arbetstypen Övervakare.\n\nTilldela arbetstypen Övervakare till någon av dina kolonister.</NeedWardenDesc>
 
   <LowFood>Låg mat</LowFood>
   <LowFoodDesc>Du har bara {0} näring kvar i ditt matförvar. Detta är farligt lågt.\n\nVäx, köp, hitta, eller döda för att skaffa mat.</LowFoodDesc>
