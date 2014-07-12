@@ -1,48 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Roofs>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
 
-	<RoofDef>
-		<EType>Roof</EType>
-		<DefName>RoofConstructed</DefName>
-		<Label>Constructed roof</Label>
-		<isThickRoof>false</isThickRoof>
-		<filthLeavings>
-			<li>
-				<thingDef>SlagRubble</thingDef>
-				<count>4</count>
-			</li>
-		</filthLeavings>
-	</RoofDef>
+  <RoofConstructed.label>Konstruerat tak</RoofConstructed.label>
 
+  <RoofRockThin.label>Stentak (tunt)</RoofRockThin.label>
 
-	<RoofDef>
-		<EType>Roof</EType>
-		<DefName>RoofRockThin</DefName>
-		<Label>Rock roof (thin)</Label>
-    <isThickRoof>false</isThickRoof>
-		<collapseLeavingThingDef>ChunkRock</collapseLeavingThingDef>
-		<filthLeavings>
-			<li>
-				<thingDef>RockRubble</thingDef>
-				<count>2</count>
-			</li>
-		</filthLeavings>
-	</RoofDef>
+  <RoofRockThick.label>Överhängande berg</RoofRockThick.label>
 
-
-	<RoofDef>
-		<EType>Roof</EType>
-		<DefName>RoofRockThick</DefName>
-		<Label>Overhead mountain</Label>
-    <isThickRoof>true</isThickRoof>
-		<collapseLeavingThingDef>CollapsedRocks</collapseLeavingThingDef>
-		<filthLeavings>
-			<li>
-				<thingDef>RockRubble</thingDef>
-				<count>2</count>
-			</li>
-		</filthLeavings>
-	
-</RoofDef>
-	
-</Roofs>
+</Languagedata>

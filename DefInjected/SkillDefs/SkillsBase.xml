@@ -1,70 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<SkillDefs>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
 
-	<SkillDef>
-		<defName>Construction</defName>
-		<skillLabel>Construction</skillLabel>
-		<pawnLabel>Constructor</pawnLabel>
-	</SkillDef>
+ 	<cConstruction.skillLabel>Konstruktion</cConstruction.skillLabel>
+	<cConstruction.pawnLabel>Konstruktör</cConstruction.pawnLabel>
 
-	<SkillDef>
-		<defName>Growing</defName>
-		<skillLabel>Growing</skillLabel>
-		<pawnLabel>Grower</pawnLabel>
-	</SkillDef>
+ 	<Growing.skillLabel>Odling</Growing.skillLabel>
+	<Growing.pawnLabel>Odlare</Growing.pawnLabel>
 
-	<SkillDef>
-		<defName>Research</defName>
-		<skillLabel>Research</skillLabel>
-		<pawnLabel>Researcher</pawnLabel>
-	</SkillDef>
+	<Research.skillLabel>Forskning</Research.skillLabel>
+	<Research.pawnLabel>Forskare</Research.pawnLabel>
 
-	<SkillDef>
-		<defName>Mining</defName>
-		<skillLabel>Mining</skillLabel>
-		<pawnLabel>Miner</pawnLabel>
-	</SkillDef>
+	<Mining.skillLabel>Gruvarbete</Mining.skillLabel>
+	<Mining.pawnLabel>Gruvarbetare</Mining.pawnLabel>
 
-	<SkillDef>
-		<defName>Shooting</defName>
-		<skillLabel>Shooting</skillLabel>
-		<pawnLabel>Shooter</pawnLabel>
-	</SkillDef>
+	<Shooting.skillLabel>Skytte</Shooting.skillLabel>
+	<Shooting.pawnLabel>Skytt</Shooting.pawnLabel>
 
-	<SkillDef>
-		<defName>Melee</defName>
-		<skillLabel>Melee</skillLabel>
-		<pawnLabel>Brawler</pawnLabel>
-	</SkillDef>
+	<Melee.skillLabel>Närstrid</Melee.skillLabel>
+	<Melee.pawnLabel>Slagskämpe</Melee.pawnLabel>
 
-	<SkillDef>
-		<defName>Social</defName>
-		<skillLabel>Social</skillLabel>
-		<pawnLabel>Socialite</pawnLabel>
-	</SkillDef>
+	<Social.skillLabel>Social</Social.skillLabel>
+	<Social.pawnLabel>Minglare</Social.pawnLabel>
 
-	<SkillDef>
-		<defName>Cooking</defName>
-		<skillLabel>Cooking</skillLabel>
-		<pawnLabel>Cook</pawnLabel>
-	</SkillDef>
+	<Cooking.skillLabel>Matlagning</Cooking.skillLabel>
+	<Cooking.pawnLabel>Kock</Cooking.pawnLabel>
 
-	<SkillDef>
-		<defName>Medicine</defName>
-		<skillLabel>Medicine</skillLabel>
-		<pawnLabel>Doctor</pawnLabel>
-	</SkillDef>
+	<Medicine.skillLabel>Medicin</Medicine.skillLabel>
+	<Medicine.pawnLabel>Läkare</Medicine.pawnLabel>
 
-	<SkillDef>
-		<defName>Artistic</defName>
-		<skillLabel>Artistic</skillLabel>
-		<pawnLabel>Artist</pawnLabel>
-	</SkillDef>
+	<Artistic.skillLabel>Konstnärlig</Artistic.skillLabel>
+	<Artistic.pawnLabel>Konstnär</Artistic.pawnLabel>
 
-	<SkillDef>
-		<defName>Crafting</defName>
-		<skillLabel>Crafting</skillLabel>
-		<pawnLabel>Craftsman</pawnLabel>
-	</SkillDef>
+	<Crafting.skillLabel>Hantverk</Crafting.skillLabel>
+	<Crafting.pawnLabel>Hantverkare</Crafting.pawnLabel>
 
-</SkillDefs>
+</Languagedata>
