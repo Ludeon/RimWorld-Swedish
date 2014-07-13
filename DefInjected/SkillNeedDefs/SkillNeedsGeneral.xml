@@ -1,215 +1,42 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<SkillNeeds>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
 
-  <!-- Cooking -->
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>CookTime</defName>
-		<skill>Cooking</skill>
-		<baseFactor>2.5</baseFactor>
-		<bonusFactor>-0.11</bonusFactor>
-		<description>Cooks meals in {0}% the normal time.</description>
-	</SkillNeedDef>
+  <CookTime.description>Lagar maträtter på {0}% av den normala tiden.</CookTime.description>
 
+  <ButcheryFleshTime.description>Slaktar på {0}% av den normala tiden.</ButcheryFleshTime.description>
 
-  <!-- Production - butchery (flesh)-->
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-    <defName>ButcheryFleshTime</defName>
-    <skill>Cooking</skill>
-    <baseFactor>2.5</baseFactor>
-    <bonusFactor>-0.10</bonusFactor>
-    <description>Butchers in {0}% the normal time.</description>
-  </SkillNeedDef>
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>ButcheryFleshEfficiency</defName>
-		<skill>Cooking</skill>
-		<baseFactor>0.75</baseFactor>
-		<bonusFactor>0.025</bonusFactor>
-		<description>Produces {0}% the normal amount of meat when butchering.</description>
-	</SkillNeedDef>
+  <ButcheryFleshEfficiency.description>Producerar {0}% av den normala mängden kött vid slakt.</ButcheryFleshEfficiency.description>
 
-  <!-- Production - butchery (mechanoid)-->
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-    <defName>ButcheryMechanoidTime</defName>
-    <skill>Crafting</skill>
-    <baseFactor>2.5</baseFactor>
-    <bonusFactor>-0.10</bonusFactor>
-    <description>Disassembles mechanoids in {0}% the normal time.</description>
-  </SkillNeedDef>
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-    <defName>ButcheryMechanoidEfficiency</defName>
-    <skill>Crafting</skill>
-    <baseFactor>0.75</baseFactor>
-    <bonusFactor>0.025</bonusFactor>
-    <description>Produces {0}% the normal amount of materials when disassembling mechanoids.</description>
-  </SkillNeedDef>
-  
-   
-  
-  
-  <!-- Production - stonecutting -->
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>StonecuttingTime</defName>
-		<skill>Crafting</skill>
-		<baseFactor>2.5</baseFactor>
-		<bonusFactor>-0.10</bonusFactor>
-		<description>Cuts stone in {0}% the normal time.</description>
-	</SkillNeedDef>
-	<SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>StonecuttingEfficiency</defName>
-		<skill>Crafting</skill>
-		<baseFactor>0.75</baseFactor>
-		<bonusFactor>0.025</bonusFactor>
-		<description>Produces {0}% the normal amount of stone blocks when stonecutting.</description>
-	</SkillNeedDef>
+  <ButcheryMechanoidTime.description>Plockar isär mekanoider på {0}% av den normala tiden.</ButcheryMechanoidTime.description>
 
-  <!-- Production - slag extraction -->
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-    <defName>SlagExtractTime</defName>
-    <skill>Crafting</skill>
-    <baseFactor>2.5</baseFactor>
-    <bonusFactor>-0.10</bonusFactor>
-    <description>Extracts metal from slag in {0}% the normal time.</description>
-  </SkillNeedDef>
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-    <defName>SlagExtractEfficiency</defName>
-    <skill>Crafting</skill>
-    <baseFactor>0.75</baseFactor>
-    <bonusFactor>0.025</bonusFactor>
-    <description>Extracts {0}% the normal amount of metal from slag.</description>
-  </SkillNeedDef>
+  <ButcheryMechanoidEfficiency.description>Producerar {0}% av den normala mängden material vid isärplockning av mekanoider.</ButcheryMechanoidEfficiency.description>
 
+  <StonecuttingTime.description>Hugger stenblock på {0}% av den normala tiden.</StonecuttingTime.description>
 
+  <StonecuttingEfficiency.description>Producerar {0}% av den normala mängden stenblock vid stenhuggning.</StonecuttingEfficiency.description>
 
+  <SlagExtractTime.description>Utvinner metall från slagg på {0}% av den normala tiden.</SlagExtractTime.description>
 
+  <SlagExtractEfficiency.description>Producerar {0}% av den normala mängden metall från slagg.</SlagExtractEfficiency.description>
 
+  <MiningSpeed.description>Gruvarbetar med {0}%s hastighet.</MiningSpeed.description>
 
-  <!-- Other -->
+  <ResearchSpeed.description>Forskar med {0}%s hastighet.</ResearchSpeed.description>
 
+  <ConstructionSpeed.description>Bygger och reparerar byggnader med {0}%s hastighet.</ConstructionSpeed.description>
 
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>MiningSpeed</defName>
-		<skill>Mining</skill>
-		<baseFactor>0.5</baseFactor>
-		<bonusFactor>0.15</bonusFactor>
-		<description>Mines at {0}% speed.</description>
-	</SkillNeedDef>
+  <SowingHarvestingSpeed.description>Odlar och skördar med {0}%s hastighet.</SowingHarvestingSpeed.description>
 
-	<SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>ResearchSpeed</defName>
-		<skill>Research</skill>
-		<baseFactor>0.1</baseFactor>
-		<bonusFactor>0.15</bonusFactor>
-		<description>Researches at {0}% speed.</description>
-	</SkillNeedDef>
+  <SocialImpact.description>Social interaktion har {0}%s påverkan på humör.</SocialImpact.description>
 
-	<SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>ConstructionSpeed</defName>
-		<skill>Construction</skill>
-		<baseFactor>0.5</baseFactor>
-		<bonusFactor>0.15</bonusFactor>
-		<description>Constructs and repairs buildings at {0}% speed.</description>
-	</SkillNeedDef>
+  <GiftImpact.description>Gåvor har {0}%s påverkan på grupprelationer.</GiftImpact.description>
 
-	<SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>SowingHarvestingSpeed</defName>
-		<skill>Growing</skill>
-		<baseFactor>0.20</baseFactor>
-		<bonusFactor>0.12</bonusFactor>
-		<description>Sows and harvests plants at {0}% speed.</description>
-	</SkillNeedDef>
+  <RecruitChance.description>{0}%s chans att rekrytera en fånge som bäst.</RecruitChance.description>
 
-	<SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>SocialImpact</defName>
-		<skill>Social</skill>
-		<baseFactor>1</baseFactor>
-		<bonusFactor>0.1</bonusFactor>
-		<description>Social interactions have {0}% impact on mood.</description>
-	</SkillNeedDef>
+  <TradePriceImprovement.description>Handelspriser är {0}% bättre vid både inköp och försäljning.</TradePriceImprovement.description>
 
-  <SkillNeedDef Class="SkillNeedDef_BaseBonus">
-    <defName>GiftImpact</defName>
-    <skill>Social</skill>
-    <baseFactor>0.5</baseFactor>
-    <bonusFactor>0.05</bonusFactor>
-    <description>Gifts have {0}% impact on faction relations.</description>
-  </SkillNeedDef> 
-  
-  
-	<SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>RecruitChance</defName>
-		<skill>Social</skill>
-		<baseFactor>0</baseFactor>
-		<bonusFactor>0.05</bonusFactor>
-		<description>{0}% chance to recruit a prisoner in the best situation.</description>
-	</SkillNeedDef>
+  <ShootingAccuracy.description>Bas {0}%s chans att missa per ruta av skottavstånd.</ShootingAccuracy.description>
 
-	<SkillNeedDef Class="SkillNeedDef_BaseBonus">
-		<defName>TradePriceImprovement</defName>
-		<skill>Social</skill>
-		<baseFactor>0</baseFactor>
-		<bonusFactor>0.005</bonusFactor>
-		<description>Trade prices are {0}% better for both buying and selling.</description>
-	</SkillNeedDef>
+  <MeleeHitChance.description>Bas {0}%s chans att träffa i närstrid.</MeleeHitChance.description>
 
-	<SkillNeedDef Class="SkillNeedDef_Direct">
-		<defName>ShootingAccuracy</defName>
-		<skill>Shooting</skill>
-		<reportInverse>true</reportInverse>
-		<description>Base {0}% chance to miss per square of shot distance.</description>
-		<factorsPerLevel>
-			<li>0.70</li>
-			<li>0.85</li>
-			<li>0.93</li>
-			<li>0.95</li>
-			<li>0.95</li>
-			<li>0.955</li>
-			<li>0.96</li>
-			<li>0.965</li>
-			<li>0.97</li>
-			<li>0.975</li>
-			<li>0.98</li>
-			<li>0.985</li>
-			<li>0.9875</li>
-			<li>0.99</li>
-			<li>0.991</li>
-			<li>0.992</li>
-			<li>0.993</li>
-			<li>0.994</li>
-			<li>0.995</li>
-			<li>0.996</li>
-			<li>0.997</li>
-		</factorsPerLevel>
-	</SkillNeedDef>
-
-
-	<SkillNeedDef Class="SkillNeedDef_Direct">
-		<defName>MeleeHitChance</defName>
-		<skill>Melee</skill>
-		<description>Base {0}% chance to hit in melee.</description>
-		<factorsPerLevel>
-			<li>0.30</li>
-			<li>0.40</li>
-			<li>0.50</li>
-			<li>0.55</li>
-			<li>0.60</li>
-			<li>0.625</li>
-			<li>0.65</li>
-			<li>0.675</li>
-			<li>0.7</li>
-			<li>0.725</li>
-			<li>0.75</li>
-			<li>0.775</li>
-			<li>0.8</li>
-			<li>0.825</li>
-			<li>0.85</li>
-			<li>0.875</li>
-			<li>0.9</li>
-			<li>0.92</li>
-			<li>0.94</li>
-			<li>0.96</li>
-			<li>0.98</li>
-		</factorsPerLevel>
-	</SkillNeedDef>
-
-
-</SkillNeeds>
+</Languagedata>
