@@ -1,33 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<SpecialThingFilters>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AllowCorpsesColonist.label>Tillåt kolonisters kroppar</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Tillåt döda före detta kolonister.</AllowCorpsesColonist.description>
 
-  <SpecialThingFilterDef>
-    <defName>AllowCorpsesColonist</defName>
-    <label>Allow colonist corpses</label>
-    <description>Allow dead former colonists.</description>
-    <parentCategory>CorpsesHumanoid</parentCategory>
-    <saveKey>allowCorpsesColonist</saveKey>
-    <workerClass>SpecialThingFilterWorker_CorpsesColonist</workerClass>
-  </SpecialThingFilterDef>
+  <AllowCorpsesStranger.label>Tillåt främlingars kroppar</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Tillåt döda före detta främlingar och fiender.</AllowCorpsesStranger.description>
 
-  <SpecialThingFilterDef>
-    <defName>AllowCorpsesStranger</defName>
-    <label>Allow stranger corpses</label>
-    <description>Allow dead former strangers and enemies.</description>
-    <parentCategory>CorpsesHumanoid</parentCategory>
-    <saveKey>allowCorpsesStranger</saveKey>
-    <workerClass>SpecialThingFilterWorker_CorpsesStranger</workerClass>
-  </SpecialThingFilterDef>
+  <AllowBuried.label>Tillåt begravna kroppar</AllowBuried.label>
+  <AllowBuried.description>Tillåt kroppar som redan har begravits.</AllowBuried.description>
 
-  <SpecialThingFilterDef>
-    <defName>AllowBuried</defName>
-    <label>Allow buried corpses</label>
-    <description>Allow corpses which have already been buried.</description>
-    <parentCategory>Corpses</parentCategory>
-    <saveKey>allowCorpsesBuried</saveKey>
-    <workerClass>SpecialThingFilterWorker_Buried</workerClass>
-  </SpecialThingFilterDef>
-  
-</SpecialThingFilters>
+</LanguageData>
 
 
