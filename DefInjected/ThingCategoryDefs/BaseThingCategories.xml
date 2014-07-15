@@ -1,113 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ThingCategoryDefs>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Root.label>Rot</Root.label>
 
+  <Resources.label>Resurser</Resources.label>
+ 
+  <Foods.label>Föda</Foods.label>
 
-  <ThingCategoryDef>
-    <defName>Root</defName>
-    <label>Root</label>
-  </ThingCategoryDef>
+  <FoodMeals.label>Maträtter</FoodMeals.label>
+ 
+  <FoodRaw.label>Råkost</FoodRaw.label>
 
+  <MeatRaw.label>Kött</MeatRaw.label>
 
-  
+  <PlantFoodRaw.label>Vegetariskt</PlantFoodRaw.label>
+ 
+  <Manufactured.label>Tillverkad</Manufactured.label>
 
-  <ThingCategoryDef>
-    <defName>Resources</defName>
-    <label>Resources</label>
-    <parent>Root</parent>
-  </ThingCategoryDef>
+  <ResourcesRaw.label>Råa resurser</ResourcesRaw.label>
+ 
+  <Items.label>Saker</Items.label>
 
-    <ThingCategoryDef>
-      <defName>Foods</defName>
-      <label>Foods</label>
-      <parent>Resources</parent>
-    </ThingCategoryDef>
+  <Weapons.label>Vapen</Weapons.label>
 
-      <ThingCategoryDef>
-        <defName>FoodMeals</defName>
-        <label>Meals</label>
-        <parent>Foods</parent>
-      </ThingCategoryDef>
+  <Apparel.label>Kläder</Apparel.label>
+ 
+  <Chunks.label>Delar</Chunks.label>
 
-      <ThingCategoryDef>
-        <defName>FoodRaw</defName>
-        <label>Raw</label>
-        <parent>Foods</parent>
-      </ThingCategoryDef>
+  <Corpses.label>Kroppar</Corpses.label>
+ 
+  <CorpsesHumanoid.label>Människokroppar</CorpsesHumanoid.label>
 
-        <ThingCategoryDef>
-          <defName>MeatRaw</defName>
-          <label>Meat</label>
-          <parent>FoodRaw</parent>
-        </ThingCategoryDef>
+  <CorpsesAnimal.label>Djurkroppar</CorpsesAnimal.label>
 
-        <ThingCategoryDef>
-          <defName>PlantFoodRaw</defName>
-          <label>Vegetarian</label>
-          <parent>FoodRaw</parent>
-        </ThingCategoryDef>
-
-    <ThingCategoryDef>
-      <defName>Manufactured</defName>
-      <label>Manufactured</label>
-      <parent>Resources</parent>
-    </ThingCategoryDef>
-  
-    <ThingCategoryDef>
-      <defName>ResourcesRaw</defName>
-      <label>Raw resources</label>
-      <parent>Resources</parent>
-    </ThingCategoryDef>
-
-  <ThingCategoryDef>
-    <defName>Items</defName>
-    <label>Items</label>
-    <parent>Root</parent>
-  </ThingCategoryDef>
-
-  <ThingCategoryDef>
-    <defName>Weapons</defName>
-    <label>Weapons</label>
-    <parent>Root</parent>
-  </ThingCategoryDef>
-  
-  
-  <ThingCategoryDef>
-    <defName>Apparel</defName>
-    <label>Apparel</label>
-    <parent>Root</parent>
-  </ThingCategoryDef>
-
-  
-  <ThingCategoryDef>
-    <defName>Chunks</defName>
-    <label>Chunks</label>
-    <parent>Root</parent>
-  </ThingCategoryDef>
-
-  
-  <ThingCategoryDef>
-    <defName>Corpses</defName>
-    <label>Corpses</label>
-    <parent>Root</parent>
-  </ThingCategoryDef>
-  
-    <ThingCategoryDef>
-    <defName>CorpsesHumanoid</defName>
-    <label>Humanoid corpses</label>
-      <parent>Corpses</parent>
-    </ThingCategoryDef>
-  
-    <ThingCategoryDef>
-      <defName>CorpsesAnimal</defName>
-      <label>Animal corpses</label>
-      <parent>Corpses</parent>
-    </ThingCategoryDef>
-  
-    <ThingCategoryDef>
-      <defName>CorpsesMechanoid</defName>
-      <label>Mechanoid corpses</label>
-      <parent>Corpses</parent>
-    </ThingCategoryDef>
-
-
-</ThingCategoryDefs>
+  <CorpsesMechanoid.label>Mekanoidkroppar</CorpsesMechanoid.label>
+ 
+</LanguageData>

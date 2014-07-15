@@ -1,26 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Underwall.label>Undermur</Underwall.label>
 
-
-
-
-
-
-
-
-
-
-  <!--Underwall - always at the bottom-->
-  <TerrainDef>
-    <defName>Underwall</defName>
-    <Label>Underwall</Label>
-    <TexturePath>Terrain/Surfaces/Underwall</TexturePath>
-    <EdgeType>Hard</EdgeType>
-    <RenderPrecedence>0</RenderPrecedence>
-    <Fertility>0</Fertility>
-  </TerrainDef>
-
-
-
-
-</Defs>
+</LanguageData>

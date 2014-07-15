@@ -1,112 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<TerrainDefs>
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Sand.label>Sand</Sand.label>
 
+  <Soil.label>Jord</Soil.label>
+ 
+  <SoilRich.label>Bördig jord</SoilRich.label>
 
-  <TerrainDef>
-    <defName>Sand</defName>
-    <Label>Sand</Label>
-    <TexturePath>Terrain/Surfaces/Sand</TexturePath>
-    <EdgeType>Fade</EdgeType>
-    <RenderPrecedence>350</RenderPrecedence>
-    <PathCost>4</PathCost>
-    <Beauty>Neutral</Beauty>
-    <ScatterType>SoftDry</ScatterType>
-    <SurfacesSupported>
-      <li>Light</li>
-      <li>Heavy</li>
-      <li>Diggable</li>
-    </SurfacesSupported>
-    <ConstructionEffect>ConstructDig</ConstructionEffect>
-    <TerrainFilthDef>FilthSand</TerrainFilthDef>
-    <Fertility>0.06</Fertility>
-    <TakeFootprints>True</TakeFootprints>
-  </TerrainDef>
+  <Gravel.label>Grus</Gravel.label>
+ 
+  <RoughStone.label>Grov sten</RoughStone.label>
 
-
-  <TerrainDef>
-		<defName>Soil</defName>
-		<Label>Soil</Label>
-		<TexturePath>Terrain/Surfaces/Soil</TexturePath>
-		<EdgeType>Fade</EdgeType>
-		<RenderPrecedence>340</RenderPrecedence>
-		<PathCost>2</PathCost>
-		<Beauty>Neutral</Beauty>
-		<ScatterType>Rocky</ScatterType>
-		<SurfacesSupported>
-			<li>Light</li>
-			<li>Heavy</li>
-			<li>GrowSoil</li>
-			<li>Diggable</li>
-		</SurfacesSupported>
-		<ConstructionEffect>ConstructDig</ConstructionEffect>
-		<TerrainFilthDef>FilthDirt</TerrainFilthDef>
-		<Fertility>1.0</Fertility>
-		<TakeFootprints>True</TakeFootprints>
-	</TerrainDef>
-
-
-	<TerrainDef>
-		<defName>SoilRich</defName>
-		<Label>Rich soil</Label>
-		<TexturePath>Terrain/Surfaces/SoilRich</TexturePath>
-		<EdgeType>Fade</EdgeType>
-		<RenderPrecedence>335</RenderPrecedence>
-		<PathCost>2</PathCost>
-		<Beauty>Neutral</Beauty>
-		<SurfacesSupported>
-			<li>Light</li>
-			<li>Heavy</li>
-			<li>GrowSoil</li>
-			<li>Diggable</li>
-		</SurfacesSupported>
-		<ConstructionEffect>ConstructDig</ConstructionEffect>
-		<TerrainFilthDef>FilthDirt</TerrainFilthDef>
-		<Fertility>1.4</Fertility>
-		<TakeFootprints>True</TakeFootprints>
-	</TerrainDef>
-
-
-
-	<TerrainDef>
-		<defName>Gravel</defName>
-		<Label>Gravel</Label>
-		<TexturePath>Terrain/Surfaces/Gravel</TexturePath>
-		<EdgeType>Fade</EdgeType>
-		<RenderPrecedence>330</RenderPrecedence>
-		<PathCost>2</PathCost>
-		<Beauty>UglyTiny</Beauty>
-		<ScatterType>Rocky</ScatterType>
-		<SurfacesSupported>
-			<li>Light</li>
-			<li>Heavy</li>
-			<li>GrowSoil</li>
-			<li>Diggable</li>
-		</SurfacesSupported>
-		<ConstructionEffect>ConstructDig</ConstructionEffect>
-		<TerrainFilthDef>FilthDirt</TerrainFilthDef>
-		<Fertility>0.7</Fertility>
-		<TakeFootprints>True</TakeFootprints>
-	</TerrainDef>
-
-
-
-  <TerrainDef>
-    <defName>RoughStone</defName>
-    <Label>Rough stone</Label>
-    <TexturePath>Terrain/Surfaces/RoughStone</TexturePath>
-    <EdgeType>Fade</EdgeType>
-    <RenderPrecedence>190</RenderPrecedence>
-    <PathCost>1</PathCost>
-    <Beauty>UglyTiny</Beauty>
-    <ScatterType>Rocky</ScatterType>
-    <SurfacesSupported>
-      <li>Light</li>
-      <li>Heavy</li>
-      <li>SmoothableStone</li>
-    </SurfacesSupported>
-    <ConstructionEffect>ConstructDig</ConstructionEffect>
-    <Fertility>0</Fertility>
-  </TerrainDef>
-
-
-</TerrainDefs>
+</LanguageData>
