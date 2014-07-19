@@ -16,7 +16,7 @@
   <Machining.description>Bygg maskineringsbord för att utvinna användbar metall ur döda mekanoider.</Machining.description>
   
   <NutrientResynthesis.label>Näringsresyntes</NutrientResynthesis.label>
-  <NutrientResynthesis.description>Näringsmassutdelare använder 10% mindre mat per producerat mål mat.</NutrientResynthesis.description>
+  <NutrientResynthesis.description>Näringsmassmaskiner använder 10% mindre mat per producerat mål mat.</NutrientResynthesis.description>
   
   <GunTurretCooling.label>Kanontornskylning</GunTurretCooling.label>
   <GunTurretCooling.description>Kanontorn skjuter fyra skott i en salva istället för tre.</GunTurretCooling.description>
