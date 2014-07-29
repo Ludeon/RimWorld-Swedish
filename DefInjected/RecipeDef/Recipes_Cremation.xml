@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <CremateCorpse.label>Kremera kropp</remateCorpse.label>
+  <CremateCorpse.label>Kremera kropp</CremateCorpse.label>
   <CremateCorpse.description>Kremera en kropp för att helt förstöra den.</CremateCorpse.description>
   <CremateCorpse.jobString>Kremerar.</CremateCorpse.jobString>
 

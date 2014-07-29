@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
- 	<cConstruction.skillLabel>Konstruktion</cConstruction.skillLabel>
-	<cConstruction.pawnLabel>Konstruktör</cConstruction.pawnLabel>
+ 	<Construction.skillLabel>Konstruktion</Construction.skillLabel>
+	<Construction.pawnLabel>Konstruktör</Construction.pawnLabel>
 
  	<Growing.skillLabel>Odling</Growing.skillLabel>
 	<Growing.pawnLabel>Odlare</Growing.pawnLabel>
@@ -34,4 +34,4 @@
 	<Crafting.skillLabel>Hantverk</Crafting.skillLabel>
 	<Crafting.pawnLabel>Hantverkare</Crafting.pawnLabel>
 
-</Languagedata>
+</LanguageData>
