@@ -71,7 +71,7 @@
 
   <NeedMealSource>Behöver måltidskälla</NeedMealSource>
   <NeedMealSourceDesc>Du saknar möjlighet att producera ätbara måltider.\n\nBygg en näringsmassmaskin eller en spis.\n\n(Det kan inte vara i en fängelsecell, då kan inte kolonister använda den.)</NeedMealSourceDesc>
-  <NeedMealSourceDesc>Du saknar möjlighet att producera ätbara måltider.\n\nBygg en näringsmassmaskin eller en spis.\n\n(Det kan inte vara i en fängelsecell, då kan inte kolonister använda den.)</NeedMealSourceDesc>
+  
 
   <NeedHomeRegion>Behöver hemområde</NeedHomeRegion>
   <NeedHomeRegionDesc>Du måste definiera ett HEMOMRÅDE där dina kolonister kommer att städa, släcka bränder, och reparera saker.\n\nDefinera ett hemområde genom att använda ZONER-sektionen av ARKITEKT menyn.</NeedHomeRegionDesc>
