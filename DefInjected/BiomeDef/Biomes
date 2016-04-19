@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- ======== Swedish / Svenska ==========-->
+  <!-- ======== Unlandable biomes ==========-->
+
+  <Ocean.label>Ocean</Ocean.label>
+  <Ocean.description>Öppen ocean. Bra för fisk - inte lika bra för dig.</Ocean.description>
+  
+  <IceSheet.label>Istäcke</IceSheet.label>
+  <IceSheet.description>Marken är täckt av ett flera kilometer tjockt lager is. Det finns varken odlingsbar mark eller sten, vilket i sin tur betyder att det inte finns något växtliv. De enda djuren som finns är på väg någon annan stans - eller väldigt vilse.</IceSheet.description>
+  
+  
+  <!-- ======== Buildable biomes ==========-->
+
+  <AridShrubland.label>Torr Buskskog</AridShrubland.label>
+  <AridShrubland.description>En torr region, men inte lika torr som en öken. Öppet gräsområde med spridda buskage och träddungar. Floran är adekvat och faunan existerande.</AridShrubland.description>
+    
+  <TemperateForest.label>Tempererad Skog</TemperateForest.label>
+  <TemperateForest.description>Ett trevlig område vars dominerande lövträd varvas med bördiga gläntor. Dess rika skogar utgör ett hem åt dess lika rika djurliv.</TemperateForest.description>
+  
+  <Desert.label>Öken</Desert.label>
+  <Desert.description>Ett väldigt torrt och väldigt varmt område med väldigt lite djur- och växtliv.</Desert.description>
+  
+  <TropicalRainforest.label>Tropisk Regnskog</TropicalRainforest.label>
+  <TropicalRainforest.description>En bördig och igenväxt regnskog med ett aggressivt djurliv som gör livet svårt för den som vill överleva.</TropicalRainforest.description>
+
+  <BorealForest.label>Tajga</BorealForest.label>
+  <BorealForest.description>En tajga består mest av barrskog. Trots de hårda vintrarna finns det fortfarande en mindre mängd djurarter som kan överleva under dess svåra förhållanden.</BorealForest.description>
+
+  <Tundra.label>Tundra</Tundra.label>
+  <Tundra.description>På dessa frusna stäpper finns det nästan ingen vegetation och än mindre träd. Djurlivet består av ett antal mindre smådjur varvat med stora hjordar av säsongsvandrare följt av sina predatorer.</Tundra.description>
+  
+
+</LanguageData>
