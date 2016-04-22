@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <QuadrupedAnimalWithPaws.label>Fyrfotat djur med tassar</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPawsAndTail.label>Fyrfotat djur med tassar och svans</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithHooves.label>Fyrfotat djur med hovar</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>Fyrfotat djur med hovar och puckel</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>Fyrfotat djur med hovar och betar</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>Fyrfotat djur med betar och snabel</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>Fyrfotat djur med hovar och horn</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>Fyrfotat djur med klor, svans, och käkar</QuadrupedAnimalWithClawsTailAndJowl.label>
+
+  <TurtleLike.label>Sköldpaddeliknande</TurtleLike.label>
+  <Monkey.label>Apa</Monkey.label>
+
+</LanguageData>
