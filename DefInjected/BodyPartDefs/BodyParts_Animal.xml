@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- torso for animals -->
+
+  <Body.label>Kropp</Body.label>
+  <Beak.label>Näbb</Beak.label>
+  <InsectHead.label>Huvud</InsectHead.label>
+  <SnakeBody.label>Kropp</SnakeBody.label>
+  <SnakeHead.label>Huvud</SnakeHead.label>
+  <SnakeMouth.label>Mun</SnakeMouth.label>
+  <InsectHeart.label>Ryggkärl</InsectHeart.label>
+  <InsectNostril.label>Näsborre</InsectNostril.label>
+  <InsectMouth.label>Mun</InsectMouth.label>
+  <Jowl.label>Käke</Jowl.label>
+  <Tail.label>Svans</Tail.label>
+  <LeftAntenna.label>Vänster Spröt</LeftAntenna.label>
+  <RightAntenna.label>Höger Spröt</RightAntenna.label>
+  <Pronotum.label>Prothorax</Pronotum.label>
+  <Shell.label>Skal</Shell.label>
+  <LeftElytra.label>Vänster Täckvinge</LeftElytra.label>
+  <RightElytra.label>Höger Täckvinge</RightElytra.label>
+  <LeftTusk.label>Vänster Bete</LeftTusk.label>
+  <RightTusk.label>Höger Bete</RightTusk.label>
+  <Trunk.label>Snabel</Trunk.label>
+  <Horn.label>Horn</Horn.label>
+  <HeadClaw.label>Överkäke</HeadClaw.label>
+  <Hump.label>Puckel</Hump.label>
+  <TurtleShell.label>Skal</TurtleShell.label>
+  <Plastron.label>Bröstsköld</Plastron.label>
+  <TurtleBeak.label>Näbb</TurtleBeak.label>
+
+  <!-- animals legs -->
+
+  <FrontLeftLeg.label>Vänster Framben</FrontLeftLeg.label>
+  <FrontRightLeg.label>Höger Framben</FrontRightLeg.label>
+  <MiddleLeftLeg.label>Vänster Mellanben</MiddleLeftLeg.label>
+  <MiddleRightLeg.label>Höger Mellanben</MiddleRightLeg.label>
+  <RearLeftLeg.label>Vänster Bakben</RearLeftLeg.label>
+  <RearRightLeg.label>Höger Bakben</RearRightLeg.label>
+
+  <FrontLeftInsectLeg.label>Vänster Framben</FrontLeftInsectLeg.label>
+  <FrontRightInsectLeg.label>Höger Framben</FrontRightInsectLeg.label>
+  <MiddleLeftInsectLeg.label>Vänster Mellanben</MiddleLeftInsectLeg.label>
+  <MiddleRightInsectLeg.label>Höger Mellanben</MiddleRightInsectLeg.label>
+  <RearLeftInsectLeg.label>Vänster Bakben</RearLeftInsectLeg.label>
+  <RearRightInsectLeg.label>Höger Bakben</RearRightInsectLeg.label>
+
+  <FrontLeftPaw.label>Vänster Framtass</FrontLeftPaw.label>
+  <FrontRightPaw.label>Höger Framtass</FrontRightPaw.label>
+  <RearLeftPaw.label>Vänster Baktass</RearLeftPaw.label>
+  <RearRightPaw.label>Höger baktass</RearRightPaw.label>
+  <FrontLeftHoof.label>Vänster Framhov</FrontLeftHoof.label>
+  <FrontRightHoof.label>Höger Framhov</FrontRightHoof.label>
+  <RearLeftHoof.label>Vänster Bakhov</RearLeftHoof.label>
+  <RearRightHoof.label>Höger Bakhov</RearRightHoof.label>
+
+  <FrontLeftLegFirstClaw.label>Vänster Framben, Första Klon</FrontLeftLegFirstClaw.label>
+  <FrontLeftLegSecondClaw.label>Vänster Framben, Andra Klon</FrontLeftLegSecondClaw.label>
+  <FrontLeftLegThirdClaw.label>Vänster Framben, Tredje Klon</FrontLeftLegThirdClaw.label>
+  <FrontLeftLegFourthClaw.label>Vänster Framben, Fjärde Klon</FrontLeftLegFourthClaw.label>
+  <FrontLeftLegFifthClaw.label>Vänster Framben, Femte Klon</FrontLeftLegFifthClaw.label>
+  <FrontRightLegFirstClaw.label>Höger Framben, Första Klon</FrontRightLegFirstClaw.label>
+  <FrontRightLegSecondClaw.label>Höger Framben, Andra Klon</FrontRightLegSecondClaw.label>
+  <FrontRightLegThirdClaw.label>Höger Framben, Tredje Klon</FrontRightLegThirdClaw.label>
+  <FrontRightLegFourthClaw.label>Höger Framben, Fjärde Klon</FrontRightLegFourthClaw.label>
+  <FrontRightLegFifthClaw.label>Höger Framben, Femte Klon</FrontRightLegFifthClaw.label>
+
+  <RearLeftLegFirstClaw.label>Vänster Bakben, Första Klon</RearLeftLegFirstClaw.label>
+  <RearLeftLegSecondClaw.label>Vänster Bakben, Andra Klon</RearLeftLegSecondClaw.label>
+  <RearLeftLegThirdClaw.label>Vänster Bakben, Tredje Klon</RearLeftLegThirdClaw.label>
+  <RearLeftLegFourthClaw.label>Vänster Bakben, Fjärde Klon</RearLeftLegFourthClaw.label>
+  <RearLeftLegFifthClaw.label>Vänster Bakben, Femte Klon</RearLeftLegFifthClaw.label>
+  <RearRightLegFirstClaw.label>Höger Bakben, Första Klon</RearRightLegFirstClaw.label>
+  <RearRightLegSecondClaw.label>Höger Bakben, Andra Klon</RearRightLegSecondClaw.label>
+  <RearRightLegThirdClaw.label>Höger Bakben, Tredje Klon</RearRightLegThirdClaw.label>
+  <RearRightLegFourthClaw.label>Höger Bakben, Fjärde Klon</RearRightLegFourthClaw.label>
+  <RearRightLegFifthClaw.label>Höger Bakben, Femte Klon</RearRightLegFifthClaw.label>
+
+</LanguageData>

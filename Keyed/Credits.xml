@@ -1,79 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FullCredits>
-      <![CDATA[--Ludomancer--
-    Tynan Sylvester
-
-    --Spel konst--
-    Rhopunzel
-
-    --Meny konst--
-    Ricardo Tomé
-
-    --Musik och ljudeffekter--
-    Alistair Lindsay
-
-    --Extra programmering--
-    Piotr Walczak
-
-    --Donerat modkod--
-    Haplo
-
-    --Kreativa innehållsmoderering-
-    Joshua Grant
-    Conor Robinson
-
-    --Kreativa innehållssytem--
-    Benjamin 'Hypolite' Lorteau
-
-    --Primära översättare--
-    TheEisbaer (Tyska)
-    Haplo (Tyska)
-    Hiztaar (Franska)
-    Neone (Polska)
-    AlyxMS (Kinesiska)
-    AcDie (Ryska)
-    joeyeti (Slovakiska)
-    Vhiden (Spanska)
-    Ribas (Portugisiska)
-    Ser-Geeves (Holländska)
-    ConfusedWings (Holländska)
-    
-    --Extra översättare--
-    GlobusGames (Polska)
-    John Fucking Rambo (Polska)
-
-    --Testare--
-    Semmy
-    ItchyFlea
-    Erik Nystrom
-    Pheanox
-    Haplo
-    Many others!
-
-    --Fria ljudeffekter från--
-    Research bubbling: Glaneur de sons
-    Click: TicTacShutUp
-    Shovel hits: shall555
-    Pick hits: cameronmusic
-    Building placement: joedeshon and HazMatt
-    Flesh impacts: harri
-    Food drop: JustinBW
-    Nutrient paste dispenser: raywilson
-    Weapon handling: S_Dij, KNO_SFX
-    Corpse drop: CosmicEmbers and Sauron974
-    Growing done pop: yottasounds
-    Flame burst: JoelAudio (Joel Azzopardi)
-    Interface pops: Volterock, patchen, broumbroum
-    Melee miss: yuval
-    Construction drill A: cmusounddesign
-    Construction drill B: AGFX
-    Construction ratchet: gelo_papas
-    Construction rummaging: D W
-    Eating: zebraphone
-    Grenade pin: ryanconway]]>
-  </FullCredits>
+  <MainPageCredit>En kolonisimulator av Tynan Sylvester</MainPageCredit>
   
-  
+  <Credits_Developers>Utvecklare</Credits_Developers>
+  <Credit_DirectionVarious>Lead, design, kod, illustrationer</Credit_DirectionVarious>
+  <Credit_MusicAndSound>Music och ljud</Credit_MusicAndSound>
+  <Credit_Code>Kodning</Credit_Code>
+  <Credit_GameArt>Illustrationer i spelet</Credit_GameArt>
+  <Credit_MenuArt>Illustrationer i menyn</Credit_MenuArt>
+  <Credit_AdditionalCode>Övrig kodning</Credit_AdditionalCode>
+
+  <Credits_TitleCommunity>Volontärer</Credits_TitleCommunity>
+  <Credit_Tester>Testare</Credit_Tester>
+  <Credit_ModDonation>Mod-donator</Credit_ModDonation>
+  <Credit_WritingDonation>Manus-donator</Credit_WritingDonation>
+  <Credit_Moderator>Moderator</Credit_Moderator>
+  <Credit_WikiMaster>Wiki-master</Credit_WikiMaster>
+
+  <Credits_TitleLanguage>{0} översättning</Credits_TitleLanguage>
+  <Credit_Writer>Manusförfattare</Credit_Writer>
+  <Credit_Translator>Översättare</Credit_Translator>
+  <Credit_OpenSourceLibraries>Open source-bibliotek</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Oljudsgenerator</Credit_NoiseGeneration>
+
+  <ThanksForPlaying>Tack för att du spelade!</ThanksForPlaying>
+
 </LanguageData>
