@@ -15,3 +15,4 @@ Translators:
 -TreSxNine
 -Ricande
 -Zacka
+-Christoffer Rydström

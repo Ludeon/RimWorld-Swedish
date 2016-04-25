@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Torso.label>Överkropp</Torso.label>
+  <UpperHead.label>Huvudets Överdel</UpperHead.label>
+  <FullHead.label>Huvudet</FullHead.label>
+  <Eyes.label>Ögonen</Eyes.label>
+  <Teeth.label>Tänder</Teeth.label>
+  <Mouth.label>Mun</Mouth.label>
+  <Arms.label>Armar</Arms.label>
+  <Shoulders.label>Skuldror</Shoulders.label>
+  <Hands.label>Händer</Hands.label>
+  <LeftHand.label>Vänster Hand</LeftHand.label>
+  <RightHand.label>Höger Hand</RightHand.label>
+  <Legs.label>Benen</Legs.label>
+  <Feet.label>Fötter</Feet.label>
+  <FrontLeftPaw.label>Vänster Framtass</FrontLeftPaw.label>
+  <FrontRightPaw.label>Höger Baktass</FrontRightPaw.label>
+  <HeadAttackTool.label>Huvud</HeadAttackTool.label>
+  <FrontLeftLeg.label>Vänster Framben</FrontLeftLeg.label>
+  <FrontRightLeg.label>Höger Framben</FrontRightLeg.label>
+  <FrontLeftClaws.label>Främmre Vänsterklo</FrontLeftClaws.label>
+  <FrontRightClaws.label>Främmre Högerklo</FrontRightClaws.label>
+  <LeftBlade.label>Vänster Klinga</LeftBlade.label>
+  <RightBlade.label>Vänster Klinga</RightBlade.label>
+  <CoveredByNaturalArmor.label>Täckt av naturlig pansar</CoveredByNaturalArmor.label>
+  <TuskAttackTool.label>Betar</TuskAttackTool.label>
+  <HornAttackTool.label>Horn</HornAttackTool.label>
+  <HeadClaw.label>Klor</HeadClaw.label>
+  <TurtleBeakAttackTool.label>Näbb</TurtleBeakAttackTool.label>
+
+</LanguageData>
