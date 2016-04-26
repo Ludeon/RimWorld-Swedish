@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SculptureSmall.label>Liten skulptur</SculptureSmall.label>
+  <SculptureSmall.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en byst.</SculptureSmall.description>
+
+  <SculptureLarge.label>Stor skulptur</SculptureLarge.label>
+  <SculptureLarge.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en människa.</SculptureLarge.description>
+
+  <SculptureGrand.label>Enorm skulptur</SculptureGrand.label>
+  <SculptureGrand.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en medelstor bil.</SculptureGrand.description>
+
+  <Snowman.label>Snögubbe</Snowman.label>
+  <Snowman.description>Ett uttryck för allts förgänglighet i en förnimbar mänsklig skepnad, skapad av snö.</Snowman.description>
+
+</LanguageData>
