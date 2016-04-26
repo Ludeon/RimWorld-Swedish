@@ -8,8 +8,8 @@
   <ConceptText_Capture1>En fiende har blivit handlingsförlamad. Du kan fånga denne!</ConceptText_Capture1>
   <ConceptText_Capture2>För att fånga, klicka på en kolonist, högerklicka på den handlingsförlamade fienden, och välj Fånga.\n\nDu kommer behöva en extra säng, som är markerad för användning av fånge.</ConceptText_Capture2>
 
-  <ConceptText_Draft1>För att kontrollera kolonister direkt för strid, inkalla dem genom att klicka på dem och sedan klicka Inkalla.</ConceptText_Draft1>
-  <ConceptText_Draft2>En inkallad kolonist kommer bara att göra vad du säger åt dem, och kommer bara att agera som soldat. De som har vapen kommer att använda dem när de har möjlighet.\n\nLämna inte kolonister inkallade för alltid - de kommer tillslut att svälta och bli oglada.</ConceptText_Draft2>
+  <ConceptText_Draft1>För att kontrollera kolonister direkt för strid, kommendera dem genom att klicka på dem och sedan klicka Kommendera.</ConceptText_Draft1>
+  <ConceptText_Draft2>En kommenderad kolonist kommer bara att göra vad du säger åt dem, och kommer bara att agera som soldat. De som har vapen kommer att använda dem när de har möjlighet.\n\nLämna inte kolonister kommenderade för alltid - de kommer tillslut att svälta och bli oglada.</ConceptText_Draft2>
 
   <ConceptText_Forbid>Kolonister kommer inte att interagera med saker som är markerade som FÖRBJUDEN.\n\nKlicka på maten och metallen nära din landningsposition och klicka på F för att UPPHÄVA FÖRBJUDNING.</ConceptText_Forbid>
 
@@ -40,7 +40,7 @@
 
   <ConceptText_StorageTab>Du kan konfigurera förråd och förrådsbyggnader genom att klicka på dem och öppna FÖRRÅDSFLIKEN ovanför inspektionsfönstret nere i det vänstra hörnet.</ConceptText_StorageTab>
 
-  <ConceptText_SetGrowingZonePlant>Du kan ställa in vad som ska växa i en växtzon. Du kan tillochmed växa träd!\n\nBara välj växtzonen, öppna Växer-fliken, och klicka på knappen 'plantera'.</ConceptText_SetGrowingZonePlant>
+  <ConceptText_SetGrowingZonePlant>Du kan ställa in vad som ska växa på en odlingsmark. Du kan till och med odla träd!\n\nKlicka på en odlingsmark, öppna Odla-fliken, och välj vad som ska odlas inom just detta område.</ConceptText_SetGrowingZonePlant>
   
   <ConceptText_SpacePause>Klicka på MELLANSLAG för att pausa eller återaktivera spelet.\n\nDu kan ge order medan spelet är pausat.\n\nKom ihåg - om saker blir för hektiska, klicka bara MELLANSLAG.</ConceptText_SpacePause>
 

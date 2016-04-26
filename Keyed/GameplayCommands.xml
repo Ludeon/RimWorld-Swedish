@@ -13,9 +13,9 @@
   
   
   
-  <CommandDraftLabel>Inkalla</CommandDraftLabel>
-  <CommandUndraftLabel>Ta bort inkallning</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Växla militär inkallning.\n\nInkallade personer tar direkta order och slåss. De kommer inte arbera, äta eller vila.</CommandToggleDraftDesc>
+  <CommandDraftLabel>Kommendera</CommandDraftLabel>
+  <CommandUndraftLabel>Upphäv kommendering</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Växla Kommendering.\n\nKommenderade personer tar direkta order och slåss. De kommer inte arbera, äta eller vila.</CommandToggleDraftDesc>
   <IsIncapped>{0} är handikappad.</IsIncapped>
 
   

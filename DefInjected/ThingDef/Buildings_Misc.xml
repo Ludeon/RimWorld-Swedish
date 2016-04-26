@@ -3,8 +3,8 @@
   <SunLamp.label>Sollampa</SunLamp.label>
   <SunLamp.description>Belyser ett område starkt nog för att odla grödor.</SunLamp.description>
 
-  <OrbitalTradeBeacon.label>Omloppshandelsfyr</OrbitalTradeBeacon.label>
-  <OrbitalTradeBeacon.description>Krävs för omloppshandel. Du can bara sälja varor som är nära en omloppshandelsfyr och inte under ett tak. Omloppshandlare kommer släppa varor nära denna.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.label>Handelsfyr</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.description>Krävs för handel med handelsskepp i omloppsbana. Du can bara sälja varor som är nära en handelsfyr och inte under ett tak. Handelskepp kommer släppa varor nära handelsfyren.</OrbitalTradeBeacon.description>
 
   <ResearchBench.label>Forskningsbänk</ResearchBench.label>
   <ResearchBench.description>Forskare arbetar vid dessa för att upptäcka nya saker.</ResearchBench.description>

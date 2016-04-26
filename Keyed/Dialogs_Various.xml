@@ -201,7 +201,7 @@
   <HistoryUploadNoOnce>Ladda inte upp denna gång, fråga mig igen</HistoryUploadNoOnce>
 	
   <!-- Outfit management -->
-  <Outfit>Ekipera</Outfit>
+  <Outfit>Utstyrsel</Outfit>
   <SelectOutfit>Välj utstyrsel...</SelectOutfit>
   <NewOutfit>Ny utstyrsel</NewOutfit>
   <DeleteOutfit>Radera utstyrsel...</DeleteOutfit>

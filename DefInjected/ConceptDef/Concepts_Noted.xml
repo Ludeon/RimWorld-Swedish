@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CameraDolly.helpTexts.0>Flytta kameran genom att hålla nere MELLANMUSKNAPPEN eller via WASD-TANGENTERNA.</CameraDolly.helpTexts.0>
+
+  <Rescuing.helpTexts.0>För att rädda en skadad kolonisatör, markera först en frisk kolonisatör och höger-klicka sedan på den skadade kolonisatören.</Rescuing.helpTexts.0>
+
+  <Capturing.helpTexts.0>En fiende har blivit invalidiserad. Du kan tillfångata dem!</Capturing.helpTexts.0>
+  <Capturing.helpTexts.1>För att tillfångata; först markera en kolonisatör, sedan höger-klicka på den invalidiserade fienden, därefter välj Tillfångata.\n\nDu behöver en extra säng som endast är tillägnad fångar.</Capturing.helpTexts.1>
+
+  <InteractingWithTraders.helpTexts.0>Du kan prata med personer som har ett ? ovanför sig.\n\nMarkera en kolonist och höger-klicka på personen med ? ovanför huvudet.</InteractingWithTraders.helpTexts.0>
+
+  <Drafting.helpTexts.0>För att ta direkt kontroll över dina kolonisatörer, markera dem och klicka på KOMMENDERA-knappen.</Drafting.helpTexts.0>
+  <Drafting.helpTexts.1>En kommenderad kolonisatör gör endast vad du säger åt den, och kan endast utföra stridshandlingar. Beväpnade kolonisatörer kommer att använda sina vapen om möjligt.\n\nLämna inte en kolonisatör kommenderad - de kommer svälta och bli olyckliga.</Drafting.helpTexts.1>
+
+  <AnimalsDontAttackDoors.helpTexts.0>Predatorer attackerar vanligtvis inte dörrar eller avstängda vaktposter.\n\nDu kan fly dem genom att bege dig inomhus eller bakom en vägg. Men de kommer fortfarande att vänta på dig. </AnimalsDontAttackDoors.helpTexts.0>
+
+  <BillsTab.helpTexts.0>För att få dina kolonisatörer att arbeta vid en arbetsbänk; markera först ett arbetsbord, öppna sen Order-fliken. Här kan du välja vilka måltider som ska tillagas, vilka föremål som ska tillverkas, och vilka djur som ska slaktas.</BillsTab.helpTexts.0>
+
+  <TVForSickPeople.helpTexts.0>Du kan placera en TV framför en sjuksäng för att underhålla en konvalescent kolonisatör.</TVForSickPeople.helpTexts.0>
+
+  <AnimalTraining.helpTexts.0>Du kan träna tama djur och ge dem särskilda färdigheter via fliken TRÄNA.\n\nDjur kan inte tränas hela tiden, utan behöver en liten paus mellan passen.</AnimalTraining.helpTexts.0>
+
+  <StorageTabCategories.helpTexts.0>Du kan tillåta och förbjuda att vissa varor förvaras i ett valt lager. Detta gör du genom att öppna fliken Förvaring hos det valda lagret.\n\nKlicka på trianglen till vänster om en kategori för att öppna dess underkategori.</StorageTabCategories.helpTexts.0>
+
+  <Mining.helpTexts.0>Du kan välja var du vill påbörja en gruva genom att öppna menyn ARKITEKT och därefter kategorin ORDER.\n\nDu kan utvinna STÅL, GULD, PLASTEEL, och andra användbara material.</Mining.helpTexts.0>
+
+  <HostilityResponse.helpTexts.0>Du kans tälla in hur dina kolonisatörer ska besvara hot, från t.ex. predatorer.\n\nDu kan välja mellan FLY, ATTACKERA, och IGNORERA via menyn TILLÄGNA.</HostilityResponse.helpTexts.0>
+
+  <OpeningComms.helpTexts.0>För att kommunicera med andra kolonier och handelsskepp; välj en kolonisatör och höger-klicka på kommunikationspanel.</OpeningComms.helpTexts.0>
+
+  <Deterioration.helpTexts.0>Föremål som lämnas utomhus kommer  sakta men säkert att förfalla.\n\nOm du vill lagra föremål under en längre tid bör de ha ett tak över sig.</Deterioration.helpTexts.0>
+
+  <InspectRoomStats.helpTexts.0>Du kan kontrollera ett rums aktningsvärdet, välstånd, och skönhet via knappen LOKALDATA längst ner i det högra hörnet. </InspectRoomStats.helpTexts.0>
+
+  <ClickingMessages.helpTexts.0>Du kan klicka på aviseringarna till vänster för att snabbt centrera kameran över händelsen i fråga.</ClickingMessages.helpTexts.0>
+
+</LanguageData>
