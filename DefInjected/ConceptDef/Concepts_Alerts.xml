@@ -51,16 +51,16 @@
   <BuildOrbitalTradeBeacon.label>Lär dig hur man bygger handelsfyrar</BuildOrbitalTradeBeacon.label>
   <BuildOrbitalTradeBeacon.helpTexts.0>För att kunna skicka och ta emot föremål och silver till och från handelsskepp i omloppsbana behöver du en HANDELSFYR placerad i närheten av ditt förråd.</BuildOrbitalTradeBeacon.helpTexts.0>
 
-  <SetGrowingZonePlant.label>Erlerne Konfiguration von Anbauzonen</SetGrowingZonePlant.label>
-  <SetGrowingZonePlant.helpTexts.0>Du kannst festlegen, was die Kolonisten in einer Anbauzone anbauen sollen. Sogar Bäume sind möglich!\n\nWähle einfach eine Anbauzone aus, öffne den 'Anbauen'-Reiter und klicke auf die Schaltfläche 'Kartoffeln', um die Einstellung zu ändern.</SetGrowingZonePlant.helpTexts.0>
+  <SetGrowingZonePlant.label>Lär dig hur man ställer in odlingsmark</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.helpTexts.0>Du kan bestämma vad som ska växa på din odlingsmark. Du kan även plantera träd!\n\nFörst, välj en odlingsmark.</SetGrowingZonePlant.helpTexts.0>
 
-  <PrisonerTab.label>Erlerne den Reiter 'Gefangene'</PrisonerTab.label>
-  <PrisonerTab.helpTexts.0>Öffne den 'Gefangenen'-Reiter, um zu sehen, wie sie behandelt werden.\n\nDu benötigst einen Aufseher, der sich um die Gefangenen kümmert.</PrisonerTab.helpTexts.0>
+  <PrisonerTab.label>Lär dig om fängelse-fliken</PrisonerTab.label>
+  <PrisonerTab.helpTexts.0>Öppna en fånges Fånge-flik för att bestämma hur de ska bahndlas.n\n\Du måste ha en kolonist av arbetstypen Övervakare för att ta hand om dina fångar.</PrisonerTab.helpTexts.0>
 
-  <StoragePriority.label>Erlerne Lager Prioritäten</StoragePriority.label>
-  <StoragePriority.helpTexts.0>Du kannst die PRIORITÄT der Lager ändern. Kolonisten werden Lager der höchsten Priorität zuerst befüllen.</StoragePriority.helpTexts.0>
+  <StoragePriority.label>Lär dig om Föråds-prioretering</StoragePriority.label>
+  <StoragePriority.helpTexts.0>Du kan ställa in PRIORITETEN mellan dina olika förråd. Kolonisterna fyller det förråd med högst prioritet först.</StoragePriority.helpTexts.0>
 
-  <HistoryTab.label>Erlerne den Geschichts-Tab</HistoryTab.label>
-  <HistoryTab.helpTexts.0>Du kannst den zeitlichen Verlauf der Geschichte deiner Kolonie über die Schaltfläche GESCHICHTE am unteren Bildschirmrand aufrufen.</HistoryTab.helpTexts.0>
+  <HistoryTab.label>Lär dig om Historik-fliken</HistoryTab.label>
+  <HistoryTab.helpTexts.0>Du kan få en historisk översikt av din koloni under Historik-fliken i menyn längst ner.</HistoryTab.helpTexts.0>
 
 </LanguageData>
