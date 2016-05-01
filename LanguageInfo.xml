@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Svenska</friendlyNameNative>
+  <friendlyNameEnglish>Swedish</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>zackiz</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>TreSxNine</creditee>
+    </li>
+	<li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Ricande</creditee>
+    </li>
+	<li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Zacka</creditee>
+    </li>
+	<li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Christoffer Rydström</creditee>
+    </li>
+  </credits>
+</LanguageInfo>
