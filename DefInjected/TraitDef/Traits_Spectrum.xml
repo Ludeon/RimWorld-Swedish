@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SpeedOffset.degreeDatas.0.label>Slöfock</SpeedOffset.degreeDatas.0.label>
+  <SpeedOffset.degreeDatas.0.description>NAME hamnar alltid på efterkälken, vart HE än går.</SpeedOffset.degreeDatas.0.description>
+  <SpeedOffset.degreeDatas.1.label>Går snabbt</SpeedOffset.degreeDatas.1.label>
+  <SpeedOffset.degreeDatas.1.description>NAME vill dit HE ska och går snabbare än andra personer.</SpeedOffset.degreeDatas.1.description>
+  <SpeedOffset.degreeDatas.2.label>Joggare</SpeedOffset.degreeDatas.2.label>
+  <SpeedOffset.degreeDatas.2.description>NAME verkar alltid ha bråttom och förflyttar sig så snabbt att de andra ofta hamnar på efterkälken.</SpeedOffset.degreeDatas.2.description>
+
+  <DrugDesire.degreeDatas.0.label>Fascinerad av kemikalier</DrugDesire.degreeDatas.0.label>
+  <DrugDesire.degreeDatas.0.description>NAME är fascinerad av alla sorters kemikalier. HECAP kommer att konsumera mycket mer av det än andra, ofta i överdrivna mängder.</DrugDesire.degreeDatas.0.description>
+  <DrugDesire.degreeDatas.1.label>Intresserad av kemikalier</DrugDesire.degreeDatas.1.label>
+  <DrugDesire.degreeDatas.1.description>NAME har ett ovanligt starkt intresse av kemikalier. HECAP kommer att konsumera mer av det än andra, ibland i överdrivna mängder.</DrugDesire.degreeDatas.1.description>
+  <DrugDesire.degreeDatas.2.label>Nykterist</DrugDesire.degreeDatas.2.label>
+  <DrugDesire.degreeDatas.2.description>NAME avskyr tanken att söka njutning via kemikalier, och undviker därför alkohol och droger.</DrugDesire.degreeDatas.2.description>
+
+  <NaturalMood.degreeDatas.0.label>Sangviniker</NaturalMood.degreeDatas.0.label>
+  <NaturalMood.degreeDatas.0.description>Man säger ibland att någon är sorglös, men NAME verkar faktiskt sakna förmågan att vara nedstämnd. HECAP är alltid glad, oavsett vad som händer.</NaturalMood.degreeDatas.0.description>
+  <NaturalMood.degreeDatas.1.label>Optimist</NaturalMood.degreeDatas.1.label>
+  <NaturalMood.degreeDatas.1.description>NAME är född optimist. Det är svårt att få HIM att bli nedstämnd.</NaturalMood.degreeDatas.1.description>
+  <NaturalMood.degreeDatas.2.label>Pessimist</NaturalMood.degreeDatas.2.label>
+  <NaturalMood.degreeDatas.2.description>NAME är född pessimist. HECAP ser allt från den sämre sidan.</NaturalMood.degreeDatas.2.description>
+  <NaturalMood.degreeDatas.3.label>Depressiv</NaturalMood.degreeDatas.3.label>
+  <NaturalMood.degreeDatas.3.description>NAME är alltid nedstämnd. HECAP har svårt att hålla uppe humöret, även under de bästa förutsättningarna.</NaturalMood.degreeDatas.3.description>
+	
+	
+  <Nerves.degreeDatas.0.label>Okuvlig</Nerves.degreeDatas.0.label>
+  <Nerves.degreeDatas.0.description>NAME kan inte besegras. HECAP fortsätter genom vått och torrt, även när andra har gett upp för längesen.</Nerves.degreeDatas.0.description>
+  <Nerves.degreeDatas.1.label>Orubblig</Nerves.degreeDatas.1.label>
+  <Nerves.degreeDatas.1.description>NAME är mentalt stark och bryter inte ihop under stress som skulle knäcka andra.</Nerves.degreeDatas.1.description>
+  <Nerves.degreeDatas.2.label>Nervös</Nerves.degreeDatas.2.label>
+  <Nerves.degreeDatas.2.description>NAME tenderar att bryta ihop under stress.</Nerves.degreeDatas.2.description>
+  <Nerves.degreeDatas.3.label>Instabil</Nerves.degreeDatas.3.label>
+  <Nerves.degreeDatas.3.description>NAME är ständigt nervös och är alltid den första som bryter ihop.</Nerves.degreeDatas.3.description>
+
+  <Neurotic.degreeDatas.0.label>Neurotiker</Neurotic.degreeDatas.0.label>
+  <Neurotic.degreeDatas.0.description>NAME gillar när allt är som det ska och HE kommer att arbeta hårdare än andra för att uppnå detta. Dock kan HIS nerver få överhanden.</Neurotic.degreeDatas.0.description>
+  <Neurotic.degreeDatas.1.label>Stark neuros</Neurotic.degreeDatas.1.label>
+  <Neurotic.degreeDatas.1.description>NAME är ständigt orolig för allt. HECAP arbetar extremt hårt och får många saker gjorda, men kan på grund av sina nerver helt tappa kontrollen.</Neurotic.degreeDatas.1.description>
+
+  <Industriousness.degreeDatas.0.label>Flitig</Industriousness.degreeDatas.0.label>
+  <Industriousness.degreeDatas.0.description>NAME är inte lättdistraherad och får saker gjorda mycket snabbare än andra.</Industriousness.degreeDatas.0.description>
+  <Industriousness.degreeDatas.1.label>Arbetsam</Industriousness.degreeDatas.1.label>
+  <Industriousness.degreeDatas.1.description>NAME är naturligt arbetsam och arbetar fortare än andra.</Industriousness.degreeDatas.1.description>
+  <Industriousness.degreeDatas.2.label>Lat</Industriousness.degreeDatas.2.label>
+  <Industriousness.degreeDatas.2.description>NAME är lite lat.</Industriousness.degreeDatas.2.description>
+  <Industriousness.degreeDatas.3.label>Dagdrivare</Industriousness.degreeDatas.3.label>
+  <Industriousness.degreeDatas.3.description>NAME älskar att lata sig och avstår helst från allt som heter produktivitet. HECAP rör sig långsamt och är lättdistraherad.</Industriousness.degreeDatas.3.description>
+
+  <PsychicSensitivity.degreeDatas.0.label>Psykiskt överkänslig</PsychicSensitivity.degreeDatas.0.label>
+  <PsychicSensitivity.degreeDatas.0.description>NAMEs sinne är som en psykisk antenn. HECAP är mycket känslig för psykiska fenomen.</PsychicSensitivity.degreeDatas.0.description>
+  <PsychicSensitivity.degreeDatas.1.label>Psykiskt känslig</PsychicSensitivity.degreeDatas.1.label>
+  <PsychicSensitivity.degreeDatas.1.description>NAME är ovanligt känslig för psykiska fenomen.</PsychicSensitivity.degreeDatas.1.description>
+  <PsychicSensitivity.degreeDatas.2.label>Psykiskt avtrubbad</PsychicSensitivity.degreeDatas.2.label>
+  <PsychicSensitivity.degreeDatas.2.description>NAME är psykiskt avtrubbad jämfört med andra. HECAP är inte särskilt känsliga för psykiska fenomen.</PsychicSensitivity.degreeDatas.2.description>
+  <PsychicSensitivity.degreeDatas.3.label>Psykiskt döv</PsychicSensitivity.degreeDatas.3.label>
+  <PsychicSensitivity.degreeDatas.3.description>NAMEs psyke verkar arbeta på en helt annan frekvens än andra. HECAP kan inte bli påverkad av psykiska fenomen.</PsychicSensitivity.degreeDatas.3.description>
+
+  <TemperaturePreference.degreeDatas.0.label>Älskar kyla</TemperaturePreference.degreeDatas.0.label>
+  <TemperaturePreference.degreeDatas.0.description>NAMEs kropp alstrar stora mängder värme. HECAP är bekväm i temperaturer som andra inte skulle stå ut i. Men HE ogillar värme.</TemperaturePreference.degreeDatas.0.description>
+  <TemperaturePreference.degreeDatas.1.label>Tolererar kyla</TemperaturePreference.degreeDatas.1.label>
+  <TemperaturePreference.degreeDatas.1.description>NAME klarar av kyla bättre än andra.</TemperaturePreference.degreeDatas.1.description>
+  <TemperaturePreference.degreeDatas.2.label>Tolererar värme</TemperaturePreference.degreeDatas.2.label>
+  <TemperaturePreference.degreeDatas.2.description>NAME klarar av värme bättre än andra.</TemperaturePreference.degreeDatas.2.description>
+  <TemperaturePreference.degreeDatas.3.label>Älskar värme</TemperaturePreference.degreeDatas.3.label>
+  <TemperaturePreference.degreeDatas.3.description>NAME älskar varmt väder - men HE klarar inte av kyla lika bra.</TemperaturePreference.degreeDatas.3.description>
+
+  <ShootingAccuracy.degreeDatas.0.label>Försiktig skytt</ShootingAccuracy.degreeDatas.0.label>
+  <ShootingAccuracy.degreeDatas.0.description>NAME är en bra skytt, men HE behöver mer tid på sig när HE siktar.</ShootingAccuracy.degreeDatas.0.description>
+  <ShootingAccuracy.degreeDatas.1.label>Skjutglad</ShootingAccuracy.degreeDatas.1.label>
+  <ShootingAccuracy.degreeDatas.1.description>Pang! Pang! Pang! NAME är en förskräklig skytt, men det bryr han sig inte om... för vapen är FANTASTISKA!</ShootingAccuracy.degreeDatas.1.description>
+
+  <Prettiness.degreeDatas.0.label>Vacker</Prettiness.degreeDatas.0.label>
+  <Prettiness.degreeDatas.0.description>NAME är ovanligt vacker, vilket får alla andra att gilla HIM.</Prettiness.degreeDatas.0.description>
+  <Prettiness.degreeDatas.1.label>Ful</Prettiness.degreeDatas.1.label>
+  <Prettiness.degreeDatas.1.description>NAME är häpnadsväckande ful och skys av all.</Prettiness.degreeDatas.1.description>
+	
+</LanguageData>
