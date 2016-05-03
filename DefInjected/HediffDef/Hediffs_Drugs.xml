@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Alcohol.label>Alkohol</Alcohol.label>
+  <Alcohol.stages.0.label>lite varm (dold)</Alcohol.stages.0.label>
+  <Alcohol.stages.1.label>salongsberusad</Alcohol.stages.1.label>
+  <Alcohol.stages.2.label>onykter</Alcohol.stages.2.label>
+  <Alcohol.stages.3.label>berusad</Alcohol.stages.3.label>
+  <Alcohol.stages.4.label>full</Alcohol.stages.4.label>
+  <Alcohol.stages.5.label>däckad</Alcohol.stages.5.label>
+
+  <Hangover.label>Bakfull</Hangover.label>
+  <Hangover.stages.0.label>lätt</Hangover.stages.0.label>
+  <Hangover.stages.1.label>stark</Hangover.stages.1.label>
+  <Hangover.stages.2.label>bultande</Hangover.stages.2.label>
+  <Hangover.stages.3.label>full</Hangover.stages.3.label>
+
+</LanguageData>

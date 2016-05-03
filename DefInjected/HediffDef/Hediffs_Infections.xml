@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GutWorms.label>Bandmask</GutWorms.label>
+
+  <MuscleParasites.label>Trikiner</MuscleParasites.label>
+  <MuscleParasites.stages.0.label>lindrig</MuscleParasites.stages.0.label>
+
+  <FibrousMechanites.label>Vävnads-Mechaniter</FibrousMechanites.label>
+  <FibrousMechanites.stages.0.label>lindrig smärta</FibrousMechanites.stages.0.label>
+  <FibrousMechanites.stages.1.label>allvarlig smärta</FibrousMechanites.stages.1.label>
+
+  <SensoryMechanites.label>Sinnes-Mechaniter</SensoryMechanites.label>
+  <SensoryMechanites.stages.0.label>lindrig smärta</SensoryMechanites.stages.0.label>
+  <SensoryMechanites.stages.1.label>allvarlig smärta</SensoryMechanites.stages.1.label>
+
+  <WoundInfection.label>Infektion</WoundInfection.label>
+  <WoundInfection.stages.0.label>lindrig</WoundInfection.stages.0.label>
+  <WoundInfection.stages.1.label>allvarlig</WoundInfection.stages.1.label>
+  <WoundInfection.stages.2.label>extrem</WoundInfection.stages.2.label>
+  <WoundInfection.stages.3.label>extrem</WoundInfection.stages.3.label>
+  <WoundInfection.stages.4.label>extrem</WoundInfection.stages.4.label>
+
+  <Flu.label>Influensa</Flu.label>
+  <Flu.stages.0.label>trivial</Flu.stages.0.label>
+  <Flu.stages.1.label>lindrig</Flu.stages.1.label>
+  <Flu.stages.2.label>allvarlig</Flu.stages.2.label>
+  <Flu.stages.3.label>extrem</Flu.stages.3.label>
+  <Flu.stages.4.label>extrem</Flu.stages.4.label>
+
+  <Plague.label>Pest</Plague.label>
+  <Plague.stages.0.label>lindrig</Plague.stages.0.label>
+  <Plague.stages.1.label>lindrig</Plague.stages.1.label>
+  <Plague.stages.2.label>allvarlig</Plague.stages.2.label>
+  <Plague.stages.3.label>extrem</Plague.stages.3.label>
+  <Plague.stages.4.label>extrem</Plague.stages.4.label>
+  <Plague.stages.5.label>extrem</Plague.stages.5.label>
+
+  <Malaria.label>Malaria</Malaria.label>
+  <Malaria.stages.0.label>lindrig</Malaria.stages.0.label>
+  <Malaria.stages.1.label>lindrig</Malaria.stages.1.label>
+  <Malaria.stages.2.label>allvarlig</Malaria.stages.2.label>
+  <Malaria.stages.3.label>extrem</Malaria.stages.3.label>
+  <Malaria.stages.4.label>extrem</Malaria.stages.4.label>
+
+  <SleepingSickness.label>Sömnsjuka</SleepingSickness.label>
+  <SleepingSickness.stages.0.label>trivial</SleepingSickness.stages.0.label>
+  <SleepingSickness.stages.1.label>lindrig</SleepingSickness.stages.1.label>
+  <SleepingSickness.stages.2.label>lindrig</SleepingSickness.stages.2.label>
+  <SleepingSickness.stages.3.label>allvarlig</SleepingSickness.stages.3.label>
+  <SleepingSickness.stages.4.label>extrem</SleepingSickness.stages.4.label>
+  <SleepingSickness.stages.5.label>extrem</SleepingSickness.stages.5.label>
+  <SleepingSickness.stages.6.label>extrem</SleepingSickness.stages.6.label>
+
+</LanguageData>

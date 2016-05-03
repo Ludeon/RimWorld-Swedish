@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Repair.label>Reparerar</Repair.label>
+  <HealInjury.label>Läker skada</HealInjury.label>
+  <HealGlobal.label>Läker alla skador</HealGlobal.label>
+  <RestoreBodyPart.label>Återställer kroppsdel</RestoreBodyPart.label>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <FreePlay.label>Fritt Spel</FreePlay.label>
+  <FreePlay.description>Ett alternativ för de som vill bygga en koloni i en sandlåde-liknande miljö. Det finns hot, men de är extremt svaga.</FreePlay.description>
+
+  <Basebuilder.label>Basbyggare</Basebuilder.label>
+  <Basebuilder.description>Ett alternativ för de som vill bygga en bas. Hotnivån är avsevärt lägre.</Basebuilder.description>
+
+  <Rough.label>Tufft</Rough.label>
+  <Rough.description>Det är en hänsynslös planet. Hoten är farliga, och du får ingen bonus för humören och skörden.</Rough.description>
+
+  <Challenge.label>Utmaning</Challenge.label>
+  <Challenge.description>Ett utmanande spel. Här krävs det strategi, taktik, och tur för att överleva. Det sätt RimWorld är tänkt att spelas.</Challenge.description>
+
+  <Extreme.label>Extremt</Extreme.label>
+  <Extreme.description>Svårt som attan. Fienderna är starka, priserna är dåliga, maten är knapp, och kolonisatörerna är tjuriga. För de som älskar digitalt lidande.</Extreme.description>
+
+</LanguageData>
