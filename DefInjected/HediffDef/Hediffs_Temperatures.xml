@@ -8,7 +8,7 @@
   <Heatstroke.stages.3.label>allvarlig</Heatstroke.stages.3.label>
   <Heatstroke.stages.4.label>extrem</Heatstroke.stages.4.label>
 
-  <Hypothermia.label>Hypotermi</Hypothermia.label>
+  <Hypothermia.label>Frostskada</Hypothermia.label>
   <Hypothermia.stages.0.label>fryser-dold</Hypothermia.stages.0.label>
   <Hypothermia.stages.1.label>lindrig</Hypothermia.stages.1.label>
   <Hypothermia.stages.2.label>lindrig</Hypothermia.stages.2.label>

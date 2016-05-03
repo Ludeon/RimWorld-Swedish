@@ -97,8 +97,8 @@
   <ColonistNeedsTreatment>Kolonisatör behöver vård</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>En kolonisatör behöver medecinsk vård. Utan det riskerar personen att dö från sina skador, eller att skadorna förblir permanenta.\n\n{0}\nBehandla hen genom att ta hen till en sjuksäng.\n\n(Först,avsätt en sjuksäng genom att markera valfri säng och ange att den ska vara en sjuksäng. Därefter, markera den skadade kolonisatören och högerklicka på sjuksängen för att göra hen till en patient.)</ColonistNeedsTreatmentDesc>
 
-  <AlertHypothermia>Hypotermi</AlertHypothermia>
-  <AlertHypothermiaDesc>Kolonisatörerna lider av hypotermi, ett tillstånd där en persons kroppstemperatur som följd av nedkylning understiger gränsen för vad som krävs för att upprätthålla ämnesomsättning och andra kroppsfunktioner.\n\n{0}\Se till att de klär sig varmt och att rummen är tillräckligt uppvärmda.</AlertHypothermiaDesc>
+  <AlertHypothermia>Frostskada</AlertHypothermia>
+  <AlertHypothermiaDesc>Kolonisatörerna riskerar få frostskador och kan i värsta fall frysa ihjäl.\n\n{0}\Se till att de klär sig varmt och att rummen är tillräckligt uppvärmda.</AlertHypothermiaDesc>
   
   <PatientsAwaitingMedicalOperation>{0} patienter väntar på sin opereration</PatientsAwaitingMedicalOperation>
   <PatientsAwaitingMedicalOperationDesc>Patienterna väntar på sin operation:\n\n{0}\nSe till att du har all nödvändig medecinsk utrustning och att en ledig läkare finns tillgänglig.</PatientsAwaitingMedicalOperationDesc>
