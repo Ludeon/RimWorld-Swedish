@@ -1,32 +1,60 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <WoodPlankFloor.label>Trägolv</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Golv av träplankor. För den där varma, hemlika känslan.</WoodPlankFloor.description>
-
-  <MetalTile.label>Metallpanel</MetalTile.label>
-  <MetalTile.description>Metallpaneler, för den där rymdskeppslooken.</MetalTile.description>
-
-  <PavedTile.label>Gjuten kakel</PavedTile.label>
-  <PavedTile.description>Funktionell betongkakel. Snabbt att ta sig fram över, men inte särskilt vackert.</PavedTile.description>
-
-  <StoneTile.label>Stenkakel</StoneTile.label>
-  <StoneTile.description>Massiv stenkakel för en slottskänsla.</StoneTile.description>
- 
-  <CarpetRed.label>Röd matta</CarpetRed.label>
-  <CarpetRed.description>Plyschmatta i en förtjusande rosa nyans.</CarpetRed.description>
-
-  <CarpetGreen.label>Grön matta</CarpetGreen.label>
-  <CarpetGreen.description>Grön matta med en distinkt naturkänsla.</CarpetGreen.description>
- 
-  <CarpetBlue.label>Blå matta</CarpetBlue.label>
-  <CarpetBlue.description>Tåkramande plyschmatta i en kylig blå färg.</CarpetBlue.description>
-
-  <Concrete.label>Betong</Concrete.label>
-  <Concrete.description>Snabbgjuten betong, snabb att ta sig fram över, men rätt ful. Du behöver kunna gräva ut marken för att gjuta denna.</Concrete.description>
- 
-  <SmoothStone.label>Slät sten</SmoothStone.label>
-  <SmoothStone.description>Slätad naturlig sten. Snabb att ta sig fram över och underbar att se på.</SmoothStone.description>
-
-  <RoughHewnRock.label>Grovhuggen sten</RoughHewnRock.label>
-
+    
+    <MetalTile.label>Metallpanel</MetalTile.label>
+    <MetalTile.description>Metallpaneler, för den där rymdskeppslooken.</MetalTile.description>
+    
+    <SilverTile.label>silver tile</SilverTile.label>
+    <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
+    
+    <GoldTile.label>gold tile</GoldTile.label>
+    <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
+    
+    <SterileTile.label>sterile tile</SterileTile.label>
+    <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
+    
+    <PavedTile.label>Gjuten kakel</PavedTile.label>
+    <PavedTile.description>Funktionell betongkakel. Snabbt att ta sig fram över, men inte särskilt vackert.</PavedTile.description>
+    
+    <Concrete.label>Betong</Concrete.label>
+    <Concrete.description>Snabbgjuten betong, snabb att ta sig fram över, men rätt ful. Du behöver kunna gräva ut marken för att gjuta denna.</Concrete.description>
+    
+    <WoodPlankFloor.label>Trägolv</WoodPlankFloor.label>
+    <WoodPlankFloor.description>Golv av träplankor. För den där varma, hemlika känslan.</WoodPlankFloor.description>
+    
+    <CarpetRed.label>Röd matta</CarpetRed.label>
+    <CarpetRed.description>Plyschmatta i en förtjusande rosa nyans.</CarpetRed.description>
+    
+    <CarpetGreen.label>Grön matta</CarpetGreen.label>
+    <CarpetGreen.description>Grön matta med en distinkt naturkänsla.</CarpetGreen.description>
+    
+    <CarpetBlue.label>Blå matta</CarpetBlue.label>
+    <CarpetBlue.description>Tåkramande plyschmatta i en kylig blå färg.</CarpetBlue.description>
+    
+    <CarpetCream.label>cream carpet</CarpetCream.label>
+    <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+    
+    <CarpetDark.label>dark carpet</CarpetDark.label>
+    <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+    
+    <Sandstone_Rough.label>rough sandstone</Sandstone_Rough.label>
+    <Sandstone_RoughHewn.label>rough-hewn sandstone</Sandstone_RoughHewn.label>
+    <Sandstone_Smooth.label>smooth sandstone</Sandstone_Smooth.label>
+    
+    <Granite_Rough.label>rough granite</Granite_Rough.label>
+    <Granite_RoughHewn.label>rough-hewn granite</Granite_RoughHewn.label>
+    <Granite_Smooth.label>smooth granite</Granite_Smooth.label>
+    
+    <Limestone_Rough.label>rough limestone</Limestone_Rough.label>
+    <Limestone_RoughHewn.label>rough-hewn limestone</Limestone_RoughHewn.label>
+    <Limestone_Smooth.label>smooth limestone</Limestone_Smooth.label>
+    
+    <Slate_Rough.label>rough slate</Slate_Rough.label>
+    <Slate_RoughHewn.label>rough-hewn slate</Slate_RoughHewn.label>
+    <Slate_Smooth.label>smooth slate</Slate_Smooth.label>
+    
+    <Marble_Rough.label>rough marble</Marble_Rough.label>
+    <Marble_RoughHewn.label>rough-hewn marble</Marble_RoughHewn.label>
+    <Marble_Smooth.label>smooth marble</Marble_Smooth.label>
+    
 </LanguageData>

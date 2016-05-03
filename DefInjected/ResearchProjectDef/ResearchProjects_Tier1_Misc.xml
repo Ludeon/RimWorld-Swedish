@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Devilstrand.label>devilstrand</Devilstrand.label>
+    <Devilstrand.description>Allows colonists to plant devilstrand, a slow-growing mushroom that yields a valuable plant fiber.</Devilstrand.description>
+    
+    <Hydroponics.label>Hydrokultur</Hydroponics.label>
+    <Hydroponics.description>Gör det möjligt att bygga hydrokulturbord för att kunna odla grödor snabbt inomhus.</Hydroponics.description>
+    
+    <Brewing.label>brewing</Brewing.label>
+    <Brewing.description>Allows you to build a brewery to transform hops into tasty, tasty beer.</Brewing.description>
+    
+    <Stonecutting.label>Stenhuggning</Stonecutting.label>
+    <Stonecutting.description>Bygg stenhuggningsbord, vilka gör det möjligt att hugga stenbitar till stenblock, som kan användas till konstruktion.</Stonecutting.description>
+    
+    <ElectricSmelting.label>electric smelting</ElectricSmelting.label>
+    <ElectricSmelting.description>Build electic smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelters uses heat and strong electromagnets to extract useful metal from slag chunks and other items.</ElectricSmelting.description>
+    
+    <ElectricCremation.label>electric cremation</ElectricCremation.label>
+    <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
+    
+    <CarpetMaking.label>Mattvävning</CarpetMaking.label>
+    <CarpetMaking.description>Gör det möjligt för kolonister att väva mattor för att öka kvaliteten på deras omgivning.</CarpetMaking.description>
+    
+    <Smithing.label>smithing</Smithing.label>
+    <Smithing.description>Build smithies for crafting metal weapons and tools.</Smithing.description>
+    
+    <ColoredLights.label>Färgade ljus</ColoredLights.label>
+    <ColoredLights.description>Gör det möjligt för kolonister att konstruera färgade ljus för dekorativa syften.</ColoredLights.description>
+    
+    <Machining.label>Maskinering</Machining.label>
+    <Machining.description>Bygg maskineringsbord för att utvinna användbar metall ur döda mekanoider.</Machining.description>
+    
+    <Mortars.label>Granatkastare</Mortars.label>
+    <Mortars.description>Lär dig bygga granatkastare som kan skjuta granater långa sträckor över murar.</Mortars.description>
+    
+    <IEDBomb.label>Explosive IEDs</IEDBomb.label>
+    <IEDBomb.description>Allows colonists to build improvised explosive device-based traps from artillery shells.</IEDBomb.description>
+    
+    <IEDIncendiary.label>Incendiary IEDs</IEDIncendiary.label>
+    <IEDIncendiary.description>Allows colonists to build incendiary explosive traps from artillery shells.</IEDIncendiary.description>
+    
+    <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
+    <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
+    
+    <TubeTelevision.label>Katodrör-TV</TubeTelevision.label>
+    <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
+    
+</LanguageData>

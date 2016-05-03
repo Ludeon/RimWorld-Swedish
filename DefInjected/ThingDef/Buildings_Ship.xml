@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <Ship_Beam.label>Skepps strukturella balk</Ship_Beam.label>
-  <Ship_Beam.description>En strukturell balk som grund för att konstruera ett skepp omkring.</Ship_Beam.description>
-
-  <Ship_CryptosleepPod.label>Skepps kryptosömnskapsel</Ship_CryptosleepPod.label>
-  <Ship_CryptosleepPod.description>En kryptosömnskapsel härdad mot rymdens faror. Kapabel att bibehålla en person i kryptosömn över hundratals år i en rymdmiljö, och att överleva atmosfäriskt återinträde.</Ship_CryptosleepPod.description>
-
-  <Ship_ComputerCore.label>Skeppsdatorkärna</Ship_ComputerCore.label>
-  <Ship_ComputerCore.description>En datorkärna kapabel att bära en övermänsklig AI som kan leda ett skepp genom alla utmaningar.</Ship_ComputerCore.description>
-
-  <Ship_Reactor.label>Skeppsreaktor</Ship_Reactor.label>
-  <Ship_Reactor.description>Driver ett skepp under dess resa genom rymden.</Ship_Reactor.description>
-
-  <Ship_Engine.label>Skeppsmotor</Ship_Engine.label>
-  <Ship_Engine.description>En antimateriedriven motor kapabel till att slunga ett skepp in i omloppsbana och i kurs mot andra stjärnor.</Ship_Engine.description>
-
+    
+    <Ship_Beam.label>Skepps strukturella balk</Ship_Beam.label>
+    <Ship_Beam.description>En strukturell balk som grund för att konstruera ett skepp omkring.</Ship_Beam.description>
+    
+    <Ship_CryptosleepCasket.label>ship cryptosleep casket</Ship_CryptosleepCasket.label>
+    <Ship_CryptosleepCasket.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.</Ship_CryptosleepCasket.description>
+    
+    <Ship_ComputerCore.label>Skeppsdatorkärna</Ship_ComputerCore.label>
+    <Ship_ComputerCore.description>En datorkärna kapabel att bära en övermänsklig AI som kan leda ett skepp genom alla utmaningar.</Ship_ComputerCore.description>
+    
+    <Ship_Reactor.label>Skeppsreaktor</Ship_Reactor.label>
+    <Ship_Reactor.description>Driver ett skepp under dess resa genom rymden.</Ship_Reactor.description>
+    
+    <Ship_Engine.label>Skeppsmotor</Ship_Engine.label>
+    <Ship_Engine.description>En antimateriedriven motor kapabel till att slunga ett skepp in i omloppsbana och i kurs mot andra stjärnor.</Ship_Engine.description>
+    
 </LanguageData>

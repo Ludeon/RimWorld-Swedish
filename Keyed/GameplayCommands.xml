@@ -1,11 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<CommandForbiddenDesc>Förbjudet - kolonister kommer inte att interagera med detta.</CommandForbiddenDesc>
 	<CommandNotForbiddenDesc>Inte förbjudet - kolonister kommer att interagera med detta.</CommandNotForbiddenDesc>
 
-  <CommandTogglePowerDesc>Växla ström.</CommandTogglePowerDesc>
+  
   <CommandTogglePowerLabel>Växla ström</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Växla ström.</CommandTogglePowerDesc>
+  
+  <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
+  
+  <CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
 
   <CommandGatherSpotToggleLabel>Samlingsplats</CommandGatherSpotToggleLabel>
   <CommandGatherSpotToggleDescActive>Aktivt - kolonister kommer att samlas runt detta objekt.</CommandGatherSpotToggleDescActive>
@@ -22,33 +29,51 @@
   <CommandCancelConstructionLabel>Avbryt</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>Avbryt denna konstruktion.</CommandCancelConstructionDesc>
 
-  
+  <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Set owner</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Assign</BuildingAssign>
+  <BuildingUnassign>Unassign</BuildingUnassign>
   <CommandBedSetForPrisonersLabel>Sätt för fångar</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Tilldela sängar i detta rum för användning av fångar.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Kan inte sätta utomhussängar att användas av fångar.</CommandBedSetForPrisonersFailOutdoors>
   <CommandBedSetForColonistsLabel>Sätt för kolonister</CommandBedSetForColonistsLabel>
   <CommandBedSetForColonistsDesc>Tilldela sängar i detta för användning av kolonister.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>Set as medical</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc> Assign this bed for medical use.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>Set as non medical</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc> Assign this bed for non medical use.</CommandBedSetAsNonMedicalDesc>
   <TurningOnPrisonerBedWarning>Påsättning av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOnPrisonerBedWarning>
   <TurningOffPrisonerBedWarning>Avstängning av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOffPrisonerBedWarning>
   <AreYouSure>Är du säker på att du vill göra detta?</AreYouSure>
 
-  
-  
-  <CommandDetonateDesc>Starta nedräkningen för detonation.</CommandDetonateDesc>
   <CommandDetonateLabel>Detonera</CommandDetonateLabel>
+  <CommandDetonateDesc>Starta nedräkningen för detonation.</CommandDetonateDesc>
 
-  <CommandRenameZoneDesc>Byt namn på denna zon.</CommandRenameZoneDesc>
   <CommandRenameZoneLabel>Byt namn</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Byt namn på denna zon.</CommandRenameZoneDesc>
 
-  <CommandHideZoneDesc>Göm/visa denna zon.</CommandHideZoneDesc>
   <CommandHideZoneLabel>Göm</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>Visa</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Göm/visa denna zon.</CommandHideZoneDesc>
 
-  <CommandDeleteZoneDesc>Ta bort denna zon.</CommandDeleteZoneDesc>
   <CommandDeleteZoneLabel>Ta bort</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Ta bort denna zon.</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>Paste settings</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>Allow sowing</CommandAllowSow>
+  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>
+
   
-  
-  <!-- Artillery -->
   <CommandSetForceAttackTarget>Sätt tvingat mål</CommandSetForceAttackTarget>
   <CommandSetForceAttackTargetDesc>Sätter ett mål som detta torn måste attackera kontinuerligt så länge det kan.</CommandSetForceAttackTargetDesc>
   <CommandStopForceAttack>Stäng av tvingat mål</CommandStopForceAttack>
@@ -58,16 +83,56 @@
   <MessageTargetBelowMinimumRange>Mål för nära.</MessageTargetBelowMinimumRange>
   
   
-  <!-- Ship computer core -->
+  
   <CommandShipLaunch>Starta skepp</CommandShipLaunch>
   <CommandShipLaunchDesc>Startar skeppets startsekvens med den aktuella konfigurationen.</CommandShipLaunchDesc>
   <CommandShipLaunchReport>Visa startrapport</CommandShipLaunchReport>
   <CommandShipLaunchReportDesc>Visar en rapport som beskriver skeppets startkapabilitet.</CommandShipLaunchReportDesc>
 
 
-  <!-- Pod -->
+  
   <CommandPodEject>Skjut ut sovkapsel</CommandPodEject>
   <CommandPodEjectDesc>Väck crypto-sovaren och skjut ut dem.</CommandPodEjectDesc>
   <CommandPodEjectFailEmpty>Innehåller ingen.</CommandPodEjectFailEmpty>
 
+  
+  <CommandToggleDoorForbid>Passage forbidden</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Hold open</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
+
+
+  
+  <CommandResetTemp>Reset</CommandResetTemp>
+  <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Raise the target temperature.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Lower the target temperature.</CommandLowerTempDesc>
+
+  
+  <CommandInstall>Install</CommandInstall>
+  <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location.</CommandInstallDesc>
+  <CommandReinstall>Reinstall at...</CommandReinstall>
+  <CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
+  
+  
+  <CommandMakeBeaconStockpileDesc>Create a stockpile around this building exactly matching the shape of the beacon's launch radius.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Create stockpile</CommandMakeBeaconStockpileLabel>
+
+  
+  <CommandSunLampMakeGrowingZoneDesc>Create a growing zone around this building exactly matching the shape of the lamp's light radius.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Create growing zone</CommandSunLampMakeGrowingZoneLabel>
+
+  
+  <CommandAutoRearm>Auto Rearm</CommandAutoRearm>
+  <CommandAutoRearmDesc>If this is on, this trap will automatically be designated for rearming when it springs.</CommandAutoRearmDesc>
+  
+  
+  <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
+  
+  
+  <CommandSquadAttack>Attack</CommandSquadAttack>
+  <CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
+
+  
 </LanguageData>

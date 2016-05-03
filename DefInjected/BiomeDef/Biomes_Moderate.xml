@@ -1,17 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <!-- Unlandable biomes -->
-
-  <Ocean.label>Ocean</Ocean.label>
-  <Ocean.description>Öppet hav. Bra för fisken - inte lika bra för dig.</Ocean.description>
-
-  <!-- Buildable biomes -->
-
-  <TemperateForest.label>Tempererad Skog</TemperateForest.label>
-  <TemperateForest.description>Ett trevlig område där mängder av lövträd samsas med bördiga gläntor. Dessa rika skogar utgör ett hem åt ett lika rikt djurliv.</TemperateForest.description>
-
-  <TropicalRainforest.label>Tropisk Regnskog</TropicalRainforest.label>
-  <TropicalRainforest.description>En bördig och igenväxt regnskog med ett aggressivt djurliv som gör livet svårt för den som vill överleva.</TropicalRainforest.description>
-
+    
+    <Ocean.label>Ocean</Ocean.label>
+    <Ocean.description>Öppet hav. Bra för fisken - inte lika bra för dig.</Ocean.description>
+    
+    <TemperateForest.label>Tempererad Skog</TemperateForest.label>
+    <TemperateForest.description>Ett trevlig område där mängder av lövträd samsas med bördiga gläntor. Dessa rika skogar utgör ett hem åt ett lika rikt djurliv.</TemperateForest.description>
+    
+    <TropicalRainforest.label>Tropisk Regnskog</TropicalRainforest.label>
+    <TropicalRainforest.description>En bördig och igenväxt regnskog med ett aggressivt djurliv som gör livet svårt för den som vill överleva.</TropicalRainforest.description>
+    
 </LanguageData>

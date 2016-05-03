@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <WorldCameraMovement.helpTexts.0>Zomma med MUSHJULET eller PAGEUP/PAGEDOWN.\n\nFlytta på skärmen med WASD eller PILTANGENTERNA, eller genom att hålla nere MELLANKNAPPEN (MUSHJULET) och DRA.</WorldCameraMovement.helpTexts.0>
-
+    
+    <WorldCameraMovement.helpTexts.0>Zomma med MUSHJULET eller PAGEUP/PAGEDOWN.\n\nFlytta på skärmen med WASD eller PILTANGENTERNA, eller genom att hålla nere MELLANKNAPPEN (MUSHJULET) och DRA.</WorldCameraMovement.helpTexts.0>
+    
 </LanguageData>

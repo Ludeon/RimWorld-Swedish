@@ -1,73 +1,61 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <!-- Beds -->
-  
-  <SleepingSpot.label>Sovplats</SleepingSpot.label>
-  <SleepingSpot.description>Designerar en plats på marken där folk bör sova. Inte bekvämt.</SleepingSpot.description>
-
-  <Bed.label>Säng</Bed.label>
-  <Bed.description>En mysig madrass och lakan på en sängram.</Bed.description>
-  
+    
+    <SleepingSpot.label>Sovplats</SleepingSpot.label>
+    <SleepingSpot.description>Designerar en plats på marken där folk bör sova. Inte bekvämt.</SleepingSpot.description>
+    
+    <Bed.label>Säng</Bed.label>
+    <Bed.description>En mysig madrass och lakan på en sängram.</Bed.description>
+    
     <DoubleBed.label>Dubbelsäng</DoubleBed.label>
-  <DoubleBed.description>En enkel säng som rymmer två personer.</DoubleBed.description>
-
-  <RoyalBed.label>Kunglig säng</RoyalBed.label>
-  <RoyalBed.description>En lyxig säng passande för de av adlig börd. Väldigt bekväm och vacker. Rymmer två personer.</RoyalBed.description>
-  
+    <DoubleBed.description>En enkel säng som rymmer två personer.</DoubleBed.description>
+    
+    <RoyalBed.label>Kunglig säng</RoyalBed.label>
+    <RoyalBed.description>En lyxig säng passande för de av adlig börd. Väldigt bekväm och vacker. Rymmer två personer.</RoyalBed.description>
+    
     <HospitalBed.label>Sjuksäng</HospitalBed.label>
-  <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
-  
-    <!-- Animal beds -->
-	
-  <AnimalSleepingSpot.label>Sovplats för djur</AnimalSleepingSpot.label>
-  <AnimalSleepingSpot.description>En designerad plats på marken där djur ska sova.</AnimalSleepingSpot.description>
-
-  <AnimalSleepingBox.label>Sovlåda</AnimalSleepingBox.label>
-  <AnimalSleepingBox.description>En liten låda gjord för djur att sova i. Passar mindre djur såsom hönor, katter, och mindre hundar.</AnimalSleepingBox.description>
-
-  <AnimalBed.label>Djurbädd</AnimalBed.label>
-  <AnimalBed.description>En mjuk säng för djur att sova i. Passar alla djur.</AnimalBed.description>	
-  
-    <!-- Basic domestic furniture -->
-
-  <Stool.label>Pall</Stool.label>
-  <Stool.description>En enkel och plan konstruktion att sitta på.</Stool.description>
-  
+    <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
+    
+    <AnimalSleepingSpot.label>Sovplats för djur</AnimalSleepingSpot.label>
+    <AnimalSleepingSpot.description>En designerad plats på marken där djur ska sova.</AnimalSleepingSpot.description>
+    
+    <AnimalSleepingBox.label>Sovlåda</AnimalSleepingBox.label>
+    <AnimalSleepingBox.description>En liten låda gjord för djur att sova i. Passar mindre djur såsom hönor, katter, och mindre hundar.</AnimalSleepingBox.description>
+    
+    <AnimalBed.label>Djurbädd</AnimalBed.label>
+    <AnimalBed.description>En mjuk säng för djur att sova i. Passar alla djur.</AnimalBed.description>
+    
+    <Stool.label>Pall</Stool.label>
+    <Stool.description>En enkel och plan konstruktion att sitta på.</Stool.description>
+    
     <DiningChair.label>Stol</DiningChair.label>
-  <DiningChair.description>En bekväm och snygg stol som med fördel kan placeras vid ett bord.</DiningChair.description>
-  
+    <DiningChair.description>En bekväm och snygg stol som med fördel kan placeras vid ett bord.</DiningChair.description>
+    
     <Armchair.label>Soffa</Armchair.label>
-  <Armchair.description>En stor, mjuk, bekväm soffa. Bra om man vill slappna av.</Armchair.description>
-  
-    <!-- Table base -->
-   <TableShort.label>Bord (Kort)</TableShort.label>
-  <TableShort.description>Folk äter från bord, när stolar finns placerade vid dem.</TableShort.description> 
-  
-   <TableLong.label>Bord (Långt)</TableLong.label>
-  <TableLong.description>Folk äter från bord, när stolar finns placerade vid dem.</TableLong.description>
-
-  <PlantPot.label>Blomkruka</PlantPot.label>
-  <PlantPot.description>Plantera en fin blomma och förbättra humöret hos alla i närheten.</PlantPot.description>
-  
-  
-  <!-- Lighting -->
-  
-  <StandingLamp.label>Golvlampa</StandingLamp.label>
-  <StandingLamp.description>Golvlampa som fyller ett område i ljus.</StandingLamp.description>
-
-  <StandingLamp_Red.label>Golvlampa (röd)</StandingLamp_Red.label>
-  <StandingLamp_Red.description>Golvlampa som fyller ett område i rött ljus.</StandingLamp_Red.description>
-
-  <StandingLamp_Green.label>Golvlampa (grön)</StandingLamp_Green.label>
-  <StandingLamp_Green.description>Golvlampa som fyller ett område i grönt ljus.</StandingLamp_Green.description>
-
-  <StandingLamp_Blue.label>Golvlampa (blå)</StandingLamp_Blue.label>
-  <StandingLamp_Blue.description>Golvlampa som fyller ett område i blått ljus.</StandingLamp_Blue.description>
-
-    <!-- Storage -->
-	
-  <EquipmentRack.label>Utrustningshylla</EquipmentRack.label>
-  <EquipmentRack.description>Föremål som lagras här kommer inte att förfalla, även om de är utomhus.</EquipmentRack.description>
-
+    <Armchair.description>En stor, mjuk, bekväm soffa. Bra om man vill slappna av.</Armchair.description>
+    
+    <TableShort.label>Bord (Kort)</TableShort.label>
+    <TableShort.description>Folk äter från bord, när stolar finns placerade vid dem.</TableShort.description>
+    
+    <TableLong.label>Bord (Långt)</TableLong.label>
+    <TableLong.description>Folk äter från bord, när stolar finns placerade vid dem.</TableLong.description>
+    
+    <PlantPot.label>Blomkruka</PlantPot.label>
+    <PlantPot.description>Plantera en fin blomma och förbättra humöret hos alla i närheten.</PlantPot.description>
+    
+    <StandingLamp.label>Golvlampa</StandingLamp.label>
+    <StandingLamp.description>Golvlampa som fyller ett område i ljus.</StandingLamp.description>
+    
+    <StandingLamp_Red.label>Golvlampa (röd)</StandingLamp_Red.label>
+    <StandingLamp_Red.description>Golvlampa som fyller ett område i rött ljus.</StandingLamp_Red.description>
+    
+    <StandingLamp_Green.label>Golvlampa (grön)</StandingLamp_Green.label>
+    <StandingLamp_Green.description>Golvlampa som fyller ett område i grönt ljus.</StandingLamp_Green.description>
+    
+    <StandingLamp_Blue.label>Golvlampa (blå)</StandingLamp_Blue.label>
+    <StandingLamp_Blue.description>Golvlampa som fyller ett område i blått ljus.</StandingLamp_Blue.description>
+    
+    <EquipmentRack.label>Utrustningshylla</EquipmentRack.label>
+    <EquipmentRack.description>Föremål som lagras här kommer inte att förfalla, även om de är utomhus.</EquipmentRack.description>
+    
 </LanguageData>

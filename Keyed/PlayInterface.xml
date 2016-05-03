@@ -1,15 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Overview>Översikt</Overview>
-  <OverviewTip>Hantera kolonins arbetsprioriteringar och statistik.</OverviewTip>
-  <ResearchTip>Hantera forskningsprojekt.</ResearchTip> 
   <Wiki>Wiki</Wiki>
   <WikiTip>Öppnar en webläsare till Rimworlds wiki där hjälp finnns att hämta.</WikiTip>
   <Menu>Meny</Menu>
-  <MenuTip>Spara, ladda, avsluta spelet eller ändra inställningar.</MenuTip>
-
-  <Architect>Arkitekt</Architect>
-
 
 </LanguageData>

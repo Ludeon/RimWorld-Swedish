@@ -1,0 +1,555 @@
+List of obsolete tags in this translation. These tags have been removed from the game or have changed their name.
+
+DefInjected\DamageTypeDef\BaseDamageTypes.xml
+    <Bleeding.deathMessage>{0} blödde ut och dog.</Bleeding.deathMessage>
+    <Bludgeon.deathMessage>{0} slogs till döds.</Bludgeon.deathMessage>
+    <Starvation.deathMessage>{0} svalt ihjäl.</Starvation.deathMessage>
+    <Suffocation.deathMessage>{0} kvävdes till döds.</Suffocation.deathMessage>
+
+DefInjected\DesignationCategoryDef\BaseDesignationCategories.xml
+    <Decoration.description>Vackra saker som gör kolonisterna glada.</Decoration.description>
+    <Decoration.label>Dekoration</Decoration.label>
+
+DefInjected\FactionDef\BaseFactionDefs.xml
+    <Tribal.description>Dessa människor har varit här en väldigt lång tid. Deras förfäder kanske krashade här hundratals år sedan. De kanske är dem enda överlevande efter en våldsam naturkatastrof som förstörde deras hög-teknologiska civilisation. Hur som helst, så är stamfolk för det mesta nomader som lever av marken genom att använda primitiva verktyg och vapen.\n\nVissa stammar är mer aggressiva än andra; många villiga att gå med på handel och allians, till och med med konstiga folk som ni. Nära samarbete eller rekrytering kommer vara väldigt svårt på grund av de stora skillnaderna mellan er i både socioteknologi och språklighet.\n\nTrots deras tydliga teknologiska svaghet, så kan stamfolken vara farliga fiender och värdefulla allierade på grund av deras färdighet med lågteknologisk krigsföring, deras råa antal, och deras djärvhet.</Tribal.description>
+    <Tribal.label> Infödingsstam</Tribal.label>
+    <Tribal.pawnsPlural>stam-tillhörande människor</Tribal.pawnsPlural>
+
+DefInjected\JobDef\BaseJobDefs.xml
+    <EatFood.reportString>Äter från TargetA.</EatFood.reportString>
+    <EnterCryptosleepPod.reportString>Går in i crypto-sömn kapsel.</EnterCryptosleepPod.reportString>
+    <ManThing.reportString>Använder maskin.</ManThing.reportString>
+    <PrisonerBeatingMild.reportString>Ger TargetA mild stryk.</PrisonerBeatingMild.reportString>
+    <PrisonerBeatingVicious.reportString>Ger TargetA hård stryk.</PrisonerBeatingVicious.reportString>
+    <Sleep.reportString>Sover.</Sleep.reportString>
+    <UseVerbOnThing.reportString>Använder verb.</UseVerbOnThing.reportString>
+
+DefInjected\PawnKindDef\PawnKinds_Mercenary.xml
+    <Grenadier.label>Grenadjär</Grenadier.label>
+    <Mercenary.label>Legosoldat</Mercenary.label>
+
+DefInjected\PawnKindDef\PawnKinds_Tribal.xml
+    <TribalFighter.label>Slagskämpe</TribalFighter.label>
+
+DefInjected\ResearchProjectDef\BaseResearchProjects.xml
+    <Cremation.description>Bygg krematorier som kan förånga oönskade kroppar.</Cremation.description>
+    <Cremation.label>Kremering</Cremation.label>
+    <GunTurretCooling.description>Kanontorn skjuter fyra skott i en salva istället för tre.</GunTurretCooling.description>
+    <GunTurretCooling.label>Kanontornskylning</GunTurretCooling.label>
+    <NutrientResynthesis.description>Näringsmassmaskiner använder 10% mindre mat per producerat mål mat.</NutrientResynthesis.description>
+    <NutrientResynthesis.label>Näringsresyntes</NutrientResynthesis.label>
+    <PneumaticPicks.description>Gruvarbetares hackor blir 20% effektivare.</PneumaticPicks.description>
+    <PneumaticPicks.label>Pneumatiska hackor</PneumaticPicks.label>
+    <SlagRefining.description>Bygg slaggraffinaderier, vilka använder värme och starka elektromagneter för att utvinna användbar metall ur slaggstycken.</SlagRefining.description>
+    <SlagRefining.label>Slaggförädling</SlagRefining.label>
+    <StrongDoors.description>Eldrivna dörrar får 100 extra hälsa.</StrongDoors.description>
+    <StrongDoors.label>Starka dörrar</StrongDoors.label>
+
+DefInjected\ResearchProjectDef\FertilizerPumpProject.xml
+    <FertilizerPump.description>Gör det möjligt att bygga gödselpumpar, som kan skapa odlingsbar mark var som helst.</FertilizerPump.description>
+    <FertilizerPump.label>Gödselpump</FertilizerPump.label>
+
+DefInjected\SkillNeedDef\SkillNeedsGeneral.xml
+    <ButcheryFleshTime.description>Slaktar på {0}% av den normala tiden.</ButcheryFleshTime.description>
+    <ButcheryMechanoidTime.description>Plockar isär mekanoider på {0}% av den normala tiden.</ButcheryMechanoidTime.description>
+    <CookTime.description>Lagar maträtter på {0}% av den normala tiden.</CookTime.description>
+    <RecruitChance.description>{0}%s chans att rekrytera en fånge som bäst.</RecruitChance.description>
+    <SlagExtractEfficiency.description>Producerar {0}% av den normala mängden metall från slagg.</SlagExtractEfficiency.description>
+    <SlagExtractTime.description>Utvinner metall från slagg på {0}% av den normala tiden.</SlagExtractTime.description>
+    <SowingHarvestingSpeed.description>Odlar och skördar med {0}%s hastighet.</SowingHarvestingSpeed.description>
+    <StonecuttingEfficiency.description>Producerar {0}% av den normala mängden stenblock vid stenhuggning.</StonecuttingEfficiency.description>
+    <StonecuttingTime.description>Hugger stenblock på {0}% av den normala tiden.</StonecuttingTime.description>
+
+DefInjected\SpecialThingFilterDef\BaseSpecialThingFilters.xml
+    <AllowBuried.description>Tillåt kroppar som redan har begravits.</AllowBuried.description>
+    <AllowBuried.label>Tillåt begravna kroppar</AllowBuried.label>
+
+DefInjected\StorytellerDef\BaseStorytellers.xml
+    <Callie.description>Callie är en mindre agressiv version av sin syster Cassandra. Hon är ett bra val för ett första spel.</Callie.description>
+    <Callie.label>Chill Callie Classic</Callie.label>
+    <Callie.quotation>Det börjar ganska lugnt, men blir väldigt spännande mot slutet!</Callie.quotation>
+    <Cleopatra.description>Cassandra Classics mindre förlåtande kusin.</Cleopatra.description>
+    <Cleopatra.label>Tough Cleopatra Classic</Cleopatra.label>
+    <Cleopatra.quotation>Djupet av människans natur kan endast skymtas genom en lins av lidande.</Cleopatra.quotation>
+
+DefInjected\TerrainDef\Terrain_Floors.xml
+    <RoughHewnRock.label>Grovhuggen sten</RoughHewnRock.label>
+    <SmoothStone.description>Slätad naturlig sten. Snabb att ta sig fram över och underbar att se på.</SmoothStone.description>
+    <SmoothStone.label>Slät sten</SmoothStone.label>
+    <StoneTile.description>Massiv stenkakel för en slottskänsla.</StoneTile.description>
+    <StoneTile.label>Stenkakel</StoneTile.label>
+
+DefInjected\TerrainDef\Terrain_Natural.xml
+    <RoughStone.label>Grov sten</RoughStone.label>
+
+DefInjected\ThingCategoryDef\BaseThingCategories.xml
+    <CorpsesHumanoid.label>Människokroppar</CorpsesHumanoid.label>
+
+DefInjected\ThingDef\Buildings_Exotic.xml
+    <CrashedShipPart.description>En mysterisk störtad del av ett rymdskepp. Den kan innehålla exotiska material, datorer, även AI-personor. Denna typ av teknologi kan vara farlig.</CrashedShipPart.description>
+    <CrashedShipPart.label>Störtad skeppsdel</CrashedShipPart.label>
+
+DefInjected\ThingDef\Buildings_Production.xml
+    <CookStove.description>En enkel spis och köksbänk till för att laga mat av enklare ingredienser.</CookStove.description>
+    <CookStove.label>Spis</CookStove.label>
+    <Crematorium.description>Kremerar kroppar.</Crematorium.description>
+    <Crematorium.label>Krematorium</Crematorium.label>
+    <SlagRefinery.description>Utvinner användbar metall från slaggbitar. Förbrukar mycket elektricitet.</SlagRefinery.description>
+    <SlagRefinery.label>Slaggugn</SlagRefinery.label>
+
+DefInjected\ThingDef\Buildings_Ship.xml
+    <Ship_CryptosleepPod.description>En kryptosömnskapsel härdad mot rymdens faror. Kapabel att bibehålla en person i kryptosömn över hundratals år i en rymdmiljö, och att överleva atmosfäriskt återinträde.</Ship_CryptosleepPod.description>
+    <Ship_CryptosleepPod.label>Skepps kryptosömnskapsel</Ship_CryptosleepPod.label>
+
+DefInjected\ThingDef\Buildings_Structure.xml
+    <DoorPowered.description>Delar upp rum. Automatisk drift tillåter folk att ta sig genom dörren utan att sakta ner.</DoorPowered.description>
+    <DoorPowered.label>Automatisk dörr</DoorPowered.label>
+    <DoorWood.description>Delar upp rum. Måste öppnas och stängas manuellt, vilket saktar ner folk.</DoorWood.description>
+    <DoorWood.label>Trädörr</DoorWood.label>
+    <WallLog.description>En vägg gjord av staplade stockar. Stark och väldigt snabb att bygga, men lättantändlig och leder inte elektricitet.</WallLog.description>
+    <WallLog.label>Timmerstocksvägg</WallLog.label>
+    <WallMetal.description>En metallvägg med inbyggd kraftledning. Stark, men dyr och långsam att bygga.</WallMetal.description>
+    <WallMetal.label>Metallvägg</WallMetal.label>
+    <WallStone.description>En stenvägg. Den skulle kunna stå i åratal. Brinner inte och leder inte elektricitet.</WallStone.description>
+    <WallStone.label>Stenvägg</WallStone.label>
+    <WallWood.description>En vägg gjord av träplankor med inbyggd kraftledning. Billig och snabb att bygga, men svag.</WallWood.description>
+    <WallWood.label>Trävägg</WallWood.label>
+
+DefInjected\ThingDef\Filth_Various.xml
+    <SlagRubble.label>Slaggspillror</SlagRubble.label>
+
+DefInjected\ThingDef\Items_Chunks.xml
+    <ChunkRock.label>Stenbit</ChunkRock.label>
+    <ChunkSlag.label>Slaggbit</ChunkSlag.label>
+
+DefInjected\WorkTypeDef\BaseWorkTypes.xml
+    <Art.tooltipDesc>Konstnärer skapar vackra konstverk.</Art.tooltipDesc>
+    <Cleaning.tooltipDesc>Städare städar i hemregionen, vilket gör att kolonin blir mycket trevligare att bo i.</Cleaning.tooltipDesc>
+    <Construction.tooltipDesc>Konstruktörer bygger saker som du har designerat.</Construction.tooltipDesc>
+    <Cooking.tooltipDesc>Kockar fyller näringsmassautomater och förbereder måltider.</Cooking.tooltipDesc>
+    <Crafting.tooltipDesc>Hantverkare tillverkar saker från råa material.</Crafting.tooltipDesc>
+    <Doctor.tooltipDesc>Läkare ger mat till de som ligger handikappade i sina sängar. De tar hand om både kolonister och fångar.</Doctor.tooltipDesc>
+    <Firefighter.tooltipDesc>Brandmän släcker bränder i kolonin.</Firefighter.tooltipDesc>
+    <Growing.tooltipDesc>Odlare planterar frön och skördar tillväxta grödor.</Growing.tooltipDesc>
+    <Hauling.tooltipDesc>Dragare drar bort saker till vart de ska vara.</Hauling.tooltipDesc>
+    <Hunting.tooltipDesc>Jägare dödar djur som du har designerat för jakt.</Hunting.tooltipDesc>
+    <Mining.tooltipDesc>Gruvarbetare gräver ut kvadrater som du har designerat för nedbrytning. Om de bryter ner kvadrater som innehåller mineraler, så kommer dessa mineraler att kunna användas för tillverkning.</Mining.tooltipDesc>
+    <PlantCutting.tooltipDesc>Växt avverkare skördar vilda plantor som du har designerat för skörd.</PlantCutting.tooltipDesc>
+    <Repair.tooltipDesc>Reparerar trasiga byggnader och trasig utrustning.</Repair.tooltipDesc>
+    <Research.tooltipDesc>Forskare utför forskningsarbete.</Research.tooltipDesc>
+    <Warden.tooltipDesc>Övervakare besöker fångar för att försöka rekrytera dem, samtala, misshandla dem, eller avrätta dem - beroende på vad du har bestämt. Övervakare ger också fångarna mat.</Warden.tooltipDesc>
+
+Keyed\Alerts.xml
+    <NeedHomeRegion>Behöver hemområde</NeedHomeRegion>
+    <NeedHomeRegionDesc>Du måste definiera ett HEMOMRÅDE där dina kolonisatörer kommer att städa, släcka bränder, och reparera saker.\n\nDefinera ett hemområde genom att använda ZONER-sektionen i ARKITEKT-menyn.</NeedHomeRegionDesc>
+
+Keyed\ConceptDefs.xml
+    <ConceptText_ArrestingCreatesEnemies>Om du arresterar någon så kommer hela deras anhang att bli din fiende.\n\nArrestera ingen om du vill förbli vänner med deras anhang!</ConceptText_ArrestingCreatesEnemies>
+    <ConceptText_BillsTab>För att göra så att kolonister arbetar vid ett bord, måste du klicka på bordet och klicka på knappen Order. Här kan du säga vad som ska tillagas, vad som ska tillverkas, och vilka varelser som ska slaktas.</ConceptText_BillsTab>
+    <ConceptText_BuildOrbitalTradeBeacon>Tips:\n\nFör att skicka varor eller silver till orbital-förhandlare, måste du bygga en ORBITAL FÖRHANDLINGSSIGNALERARE utomhus och placera ett förråd av varor nära den.</ConceptText_BuildOrbitalTradeBeacon>
+    <ConceptText_CameraZoom>Zooma in och ut med musens rullningshjul eller knapparna T och G.</ConceptText_CameraZoom>
+    <ConceptText_Capture1>En fiende har blivit handlingsförlamad. Du kan fånga denne!</ConceptText_Capture1>
+    <ConceptText_Capture2>För att fånga, klicka på en kolonist, högerklicka på den handlingsförlamade fienden, och välj Fånga.\n\nDu kommer behöva en extra säng, som är markerad för användning av fånge.</ConceptText_Capture2>
+    <ConceptText_Draft1>För att kontrollera kolonister direkt för strid, kommendera dem genom att klicka på dem och sedan klicka Kommendera.</ConceptText_Draft1>
+    <ConceptText_Draft2>En kommenderad kolonist kommer bara att göra vad du säger åt dem, och kommer bara att agera som soldat. De som har vapen kommer att använda dem när de har möjlighet.\n\nLämna inte kolonister kommenderade för alltid - de kommer tillslut att svälta och bli oglada.</ConceptText_Draft2>
+    <ConceptText_EquippingWeapons>För att din kolonist ska utrusta sig med ett vapen, välj kolonisten och högerklicka sedan på vapnet.\n\nDet finns vapen på marken vid din startposition.</ConceptText_EquippingWeapons>
+    <ConceptText_Forbid>Kolonister kommer inte att interagera med saker som är markerade som FÖRBJUDEN.\n\nKlicka på maten och metallen nära din landningsposition och klicka på F för att UPPHÄVA FÖRBJUDNING.</ConceptText_Forbid>
+    <ConceptText_GrowingFood>För att växa mat, placera TILLVÄXTZONER genom att använda Ariktekt menyn.\n\nDe kan bara placeras på bördig jord.</ConceptText_GrowingFood>
+    <ConceptText_HomeRegion>HEMREGIONER berättar för dina kolonister vilka områden som ska städas och vart de ska släcka bränder.\n\nDefiniera en HEMREGION med Zoner kategorin i Arkitekt menyn. under the Architect menu.</ConceptText_HomeRegion>
+    <ConceptText_Mining>Du kan designera vart dina kolonister ska gräva i ARIKTEKT MENYN.\n\nGenom att bryta MINERALER så får du METALL.\n\nBrytning av sten ger ingenting.</ConceptText_Mining>
+    <ConceptText_MoveCamera>Flytta på kameran genom att klicka och dra med mittenknappen på musen eller med WASD-knapparna.</ConceptText_MoveCamera>
+    <ConceptText_OpeningComms>För att kommunicera, klicka på en arbetande kolonist och högerklicka på kommunikationskonsollen.</ConceptText_OpeningComms>
+    <ConceptText_PrisonerTab>Kolla i en fånges 'Fånge' flik för att beordra hur de ska behandlas.\n\nDu behöver en kolonist med arbetet Övervakare för att ta hand om fången.</ConceptText_PrisonerTab>
+    <ConceptText_ReadingAlerts>Om du någonsin inte vet vad du ska göra, kolla på NOTISERNA till höger på skärmen.</ConceptText_ReadingAlerts>
+    <ConceptText_RescueColonist>För att rädda en sårad kolonist, klicka på en frisk kolonist och högerklicka sedan på den sårade.</ConceptText_RescueColonist>
+    <ConceptText_RightClickClearLetter>Du kan snabbt avvisa inkommande brev genom att högerklicka på dem.</ConceptText_RightClickClearLetter>
+    <ConceptText_SetGrowingZonePlant>Du kan ställa in vad som ska växa på en odlingsmark. Du kan till och med odla träd!\n\nKlicka på en odlingsmark, öppna Odla-fliken, och välj vad som ska odlas inom just detta område.</ConceptText_SetGrowingZonePlant>
+    <ConceptText_SpacePause>Klicka på MELLANSLAG för att pausa eller återaktivera spelet.\n\nDu kan ge order medan spelet är pausat.\n\nKom ihåg - om saker blir för hektiska, klicka bara MELLANSLAG.</ConceptText_SpacePause>
+    <ConceptText_StoragePriority>Du kan ändra PRIORITETEN av förråd. Kolonister kommer att fylla förråd med högre prioritet först.</ConceptText_StoragePriority>
+    <ConceptText_StorageTab>Du kan konfigurera förråd och förrådsbyggnader genom att klicka på dem och öppna FÖRRÅDSFLIKEN ovanför inspektionsfönstret nere i det vänstra hörnet.</ConceptText_StorageTab>
+    <ConceptText_StorageTabCategories>I förrådsfliken kan du expandera kategorier vilket kan användas för att tillåta eller neka specifika saker. Klicka på trianglarna till vänster av kategorinamnen.</ConceptText_StorageTabCategories>
+    <ConceptText_TimeControls>Du kan snabba upp, sakna ner eller stanna tiden genom att använda tidskontrollerna nere i det högra hörnet.</ConceptText_TimeControls>
+    <ConceptText_TradeGoodsMustBeNearBeacon>För att skicka varor eller silver till orbital-förhandlare, måste du bygga en ORBITAL FÖRHANDLINGSSIGNALERARE utomhus och placera ett förråd av varor nära den..</ConceptText_TradeGoodsMustBeNearBeacon>
+    <ConceptText_Wiki>Du kan kolla upp information i WIKI.\n\nAnvänd länken nere i det högra hörnet av skärmen.</ConceptText_Wiki>
+    <ConceptText_WorkOverview1>Du kan ställa in varje kolonists arbetsinställning i ÖVERSIKT nere i det högra hörnet av skärmen.\n\nDe kommer alltid att utföra den högsta prioriteten av jobb defName som de kan hitta.</ConceptText_WorkOverview1>
+    <ConceptText_WorkOverview2>Kolonister kommer inte att utföra jobb som de inte har tilldelat till sig.\n\nOm ingen har en specifik arbetstyp tilldelad till sig så kommer arbetet aldrig att utföras.</ConceptText_WorkOverview2>
+
+Keyed\Designators.xml
+    <DesignatorHarvestFood>Skörda</DesignatorHarvestFood>
+    <DesignatorHarvestFoodDesc>Markera växter som ska skördas för att användas i livsmedel eller andra produkter.</DesignatorHarvestFoodDesc>
+
+Keyed\DialogsVarious.xml
+    <AnimalType>Djur</AnimalType>
+    <BasePrice>Baspris</BasePrice>
+    <FoodType>Mat</FoodType>
+    <GunType>Vapen</GunType>
+    <HumanType>Människa</HumanType>
+    <MeatAmount>Köttbelopp</MeatAmount>
+    <MechanoidType>Mekansik</MechanoidType>
+    <MeleeDamage>Närstridsskada</MeleeDamage>
+    <OverviewOf>Översikt av{0}</OverviewOf>
+    <PermittedIngredients>Tillåtna ingredienser</PermittedIngredients>
+    <PlantType>Växt</PlantType>
+    <SaveGameIncompatibleWarningTitle>Sparningsinkopabilitet</SaveGameIncompatibleWarningTitle>
+    <TargetCount>Skapa tills du har: {0}</TargetCount>
+    <Type>Typ</Type>
+    <ZoneNameIsInvalid>Skriv in ett giltigt zonnamn.</ZoneNameIsInvalid>
+
+Keyed\Enums.xml
+    <Carnivorous>Köttätare</Carnivorous>
+    <Herbivorous>Växtätare</Herbivorous>
+    <MealAwfulQuality>Avskyvärd</MealAwfulQuality>
+    <MealFineQuality>Bra</MealFineQuality>
+    <MealLavishLavish>Utsökt</MealLavishLavish>
+    <MealSimpleQuality>Enkel</MealSimpleQuality>
+    <NeverEats>Äter aldrig</NeverEats>
+    <NoneQuality>Ingen</NoneQuality>
+    <Omnivorous>Allätare</Omnivorous>
+    <PlantQuality>Planta</PlantQuality>
+    <RawQuality>Rå</RawQuality>
+
+Keyed\FloatMenu.xml
+    <CannotFight>{0} kan inte slåss</CannotFight>
+    <EnterCryptosleepPod>Gå in i cryo-sömn kapsel</EnterCryptosleepPod>
+    <Wear>Ta på {0}</Wear>
+
+Keyed\Gameplay.xml
+    <AutoHomeRegionToggleButton>Växla automatisk tilläggning av hemregion runt nya konstruktioner.</AutoHomeRegionToggleButton>
+    <BillConfig>Konfig</BillConfig>
+    <DamageAbsorption>Skada-absorption</DamageAbsorption>
+    <EffectivenessFull>Fullt</EffectivenessFull>
+    <EffectivenessImpaired>Försämrat</EffectivenessImpaired>
+    <EffectivenessIncapacitated>Trasig</EffectivenessIncapacitated>
+    <EffectivenessReduced>Reducerat</EffectivenessReduced>
+    <Environment>Miljö</Environment>
+    <EnvironmentTip>Miljö reflekterar hur behaglig en person tycker att dess omgivning är.\n\nMiljö är hög när personen är i stora rum med fina dekorationer. Miljö är låg när omgivningen är ful.</EnvironmentTip>
+    <Food>Mat</Food>
+    <FoodTip>Mat anger hur belåten någon är med sina måltider.\n\nMat återställs när personen äter. Efter ett tag börjar den avta, tills personen äter igen. När personen har noll mat börjar denna ta skada på grund av svält.</FoodTip>
+    <Growing>Växer</Growing>
+    <MentalBreakThreshold>Tröskel för mentalt sammanbrott</MentalBreakThreshold>
+    <Mood>Humör</Mood>
+    <MoodTip>Humöret hålls uppe genom att uppfylla fysisika och psykologiska behov.\n\nOm någons humör blir för lågt, kan de få ett mentalt sammanbrott.</MoodTip>
+    <NotGrowingNow>Växer inte nu (behöver vara {0}).</NotGrowingNow>
+    <Openness>Öppenhet</Openness>
+    <PawnEffectiveness>Effektivitet</PawnEffectiveness>
+    <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+    <PawnMainDescWithFactionGendered>{0} {1} av {2}</PawnMainDescWithFactionGendered>
+    <PawnMainDescWithFactionGenderless>{0} av {1}</PawnMainDescWithFactionGenderless>
+    <PodContains>Innehåller</PodContains>
+    <PowerConnectedRate>Ansluten hastighet: {0}W</PowerConnectedRate>
+    <PowerConnectedStored>Ansluten lagrat: {0}Wd</PowerConnectedStored>
+    <PrisonerGetsFood>Får mat</PrisonerGetsFood>
+    <PrisonerMildBeating>Mild misshandel</PrisonerMildBeating>
+    <PrisonerViciousBeating>Hård misshandel</PrisonerViciousBeating>
+    <Rest>Vila</Rest>
+    <RestTip>Vila är hur mycket kvalitésvila och sömn personen får.\n\nVilan går upp till max när någon sover i en säng. Utanför sängen sänks det efter tid.</RestTip>
+    <SanityDazedWander>Bruten: Går runt förvirrad</SanityDazedWander>
+    <SanityGiveUpExit>Bruten: Gett upp och lämnar</SanityGiveUpExit>
+    <SanityPanicFlee>Bruten: Flyr i panik</SanityPanicFlee>
+    <SanityPsychotic>Bruten: Psykotiskt raseri</SanityPsychotic>
+    <ShootReportSkill>Förmåga</ShootReportSkill>
+    <TabThoughts>Tankar</TabThoughts>
+    <TimeToSpoil>Oanvändbart om {0}</TimeToSpoil>
+    <TotalModifiers>Totalmodifierare</TotalModifiers>
+
+Keyed\Incidents.xml
+    <AWallsPowerConduit>en väggs strömledning</AWallsPowerConduit>
+    <EclipseIncident>En av månarna till denna planet blockerar solens ljus. En solförmörkelse har börjat.</EclipseIncident>
+    <EnemyRaidBesiege>Det verkar som att de vill belägra kolonin.</EnemyRaidBesiege>
+    <EnemyRaidImmediateAttack>De attackerar direkt.</EnemyRaidImmediateAttack>
+    <EnemyRaidStageThenAttack>De kommer att förbereda sig ett tag, sedan attackera.\n\nFörbered ett försvar eller attackera dem i förebyggande syfte.</EnemyRaidStageThenAttack>
+    <FriendlyRaidBesiege>Det verkar som att de vill använda belägringstaktiker för att hjälpa dig,</FriendlyRaidBesiege>
+    <FriendlyRaidImmediateAttack>De kommer och hjälper dig direkt.</FriendlyRaidImmediateAttack>
+    <FriendlyRaidStageThenAttack>De kommer att förbereda sig ett tag innan de kommer för att hjälpa dig.</FriendlyRaidStageThenAttack>
+    <LetterSolarFlare>En soleruption har börjat.\n\nDen intensiva radioaktiviteten kommer att stänga ner all elektrisk utrustning.\n\nDet borde passera efter ungefär en dag.</LetterSolarFlare>
+    <SpaceshipPartCrash>En stor bit av ett antikt skepp har krashat i närheten.\n\nDina kolonister känner av det djupt i sina sinnen, där det uppmanar till otaliga handlingar. Det måste ha ett AI ombord med psytiska projekteringskrafter. Detta AI är inte vänligt.\n\nFörstör det så snabbt som möjligt.</SpaceshipPartCrash>
+
+Keyed\Letters.xml
+    <MentalBreakDaze>{0} har gett upp och lämnar nu kolonin.</MentalBreakDaze>
+    <MentalBreakLeave>{0} har gett upp och vandrar nu förvirrat runt.</MentalBreakLeave>
+    <MentalBreakRampage>{0} har fått ett mentalt sammanbrott och är nu på krigsstigen.</MentalBreakRampage>
+
+Keyed\Menu_Options.xml
+    <ChooseResolution>Välj upplösning</ChooseResolution>
+    <CurrentHistoryUploadPref>Nuvarande {0}</CurrentHistoryUploadPref>
+    <CurrentRes>Nuvarnade {0}</CurrentRes>
+    <GraphicsQuality>Grafik kvailitet</GraphicsQuality>
+    <GraphicsQualityGreat>Bättre</GraphicsQualityGreat>
+    <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
+    <LogDeepProfileData>Logga djup profildata</LogDeepProfileData>
+
+Keyed\Menus_Main.xml
+    <GetMods>Skaffa mods</GetMods>
+    <TraitsDoNothing>Persondrag är bara roliga historiedelar just nu; dee flesta gör ingenting. Detta kommer att förändras i framtida versioner.</TraitsDoNothing>
+
+Keyed\Menus_Overview.xml
+    <FactionsTab>Anhang</FactionsTab>
+    <HistoryTab>Historik</HistoryTab>
+    <NumBigThreats>Stora hot</NumBigThreats>
+    <StatisticsTab>Statistik</StatisticsTab>
+    <WorkTab>Arbete</WorkTab>
+
+Keyed\Messages.xml
+    <MessageMustDesignateHarvestableFood>Måste designera plantor som ger mat och har växt tillräckligt.</MessageMustDesignateHarvestableFood>
+    <MessageRecruitFailBecauseLoyalty>{0} har inte rekryterat {1} ({2} chans) (fången är unde lojalitetströskeln).</MessageRecruitFailBecauseLoyalty>
+    <MessageTraderCannotAfford>Förhandlaren har inte råd med det här erbjudandet.</MessageTraderCannotAfford>
+    <MessageTraderNotEnoughSilver>Förhandlaren har inte nog med silver.</MessageTraderNotEnoughSilver>
+
+Keyed\NoEffectTraits.xml
+    <NoEffectTraitsList>
+    
+//-------Talents and skills
+Tankeläsare
+Talang för matte
+Talang för språk
+Kvick med värja
+Radioaktivt tolerant
+Fantasifull
+Affärsmannaskap
+Karisma
+Vapensmed
+Imitatör
+Sexuellt erfaren
+Sexuellt oerfaren
+Artistisk
+Musiker
+Stickare
+Vävare
+Väderspåman
+Ledare
+Kunskap om mode
+Fordonsmekaniker
+Kulturellt anpassningsbar
+Eidetiskt minne
+Fotografiskt minne
+Empati
+ApparatsamlareG
+
+
+
+//-------General-----positive------------
+Berest
+Flerspråklig
+Extremt böjliga leger
+Hög smärttröskel
+Välgörande
+Kamratlig
+Ärlig
+Sanningsenlig
+Uppmärksam
+Vidsynt
+Försiktig
+Sympatisk
+
+//-------General-----neutral---------
+Växte upp i tank
+Veteran
+Hundälskare
+Kattälskare
+Fågelälskare
+Päls
+Näsoperation
+Kosmetisk kirurgi
+Kosmetisk genmodifikation
+Sofistikerad stadsbo
+Djurälskare
+Kändis fan
+Asket
+Orakelvisioner
+Religiös
+Ödmjuk
+
+
+//-------General-----negative---------
+Pyroman
+Ond
+Sadistisk
+Nymofoman
+Bestialitetstörst
+Sexuellt avvikande
+Uppblåst
+Tonlöst hummande
+Spottar på golv
+Kittlig
+Hamstrare/Samlare
+Blir lätt arg
+Har begått mord
+Skrämmande utseende
+Tankspridd
+Minnesförlorare
+Luktar illa
+Går bärsärk
+Uppväxt av djur
+Blodlust
+Översittare
+Okänslig
+Kronsikt deprimerad
+Kronsik smärta
+Ovetande
+Färgblind
+Lat
+Skör
+Girig
+Lättlurad
+Fumlig
+Okretiv
+Impulsiv
+Nervsjuk
+Ointresserad
+Obeslutsam
+Kan inte räkna
+Extrema sömnproblem
+Intolerant
+Avundsjuk
+Glädjedödare
+Kleptoman
+Klumpig
+Lam
+Enstöring
+Vällustig
+Låg smärttröskel
+Dålig självkänsla
+Megalomanisk
+Snål
+Mardrömmar
+Inget sinne för humor
+Nattlig
+Högljudd
+Stel
+Överdrivet självsäker
+Paranoid
+Homofobisk
+Rädd för höga ljud
+Hatar teknologi
+Torgskräckmanisk
+Klaustrofobisk
+Hatar utlänningar
+Hemlig identitet
+Självisk
+Osjälvisk
+Kort uppmärksamhet
+Blyg
+Spetälska
+Förvirrad
+Feg
+Nyfiken
+Otur
+Hör röster
+Dyslektiker
+Personlighetsklyvning
+Överkänslig
+Envis
+Stammar
+Svag
+Arbetsnarkoman
+Chauvinistisk
+Ingen självinstinkt
+Distraherbar
+Drömmare
+Slö
+Snokande
+Föränderlig personlighet
+Stolt
+Alkoholintolerant
+
+
+//-------Compulsions
+Kompulsivt festande
+Kompulsivt spelande
+Kompulsivt generös
+Kompulsivt lögnande
+Kompulsivt stjälande
+Kompulsivt svärande
+
+
+//------Societal position
+Anslutningar till Illuminati
+Förskjuten av familj
+Kriminellt rykte
+Bannlyst
+Känd
+Ingen identitet
+
+
+//-------Medical and body
+Tatuerad
+Epileptiker
+Döv
+Artificiella lungor
+Artificiellt hjärta
+Artificiella händer
+Artificiella armar
+Artificiella ben
+Digital hjärna
+Artificiellt öga
+Vanställd
+Saknar öga
+Saknar finger
+Ärr i ansikte
+Ärr på kropp
+Bränn ärr
+Dålig rygg
+Dålig sikt
+Puckelrygg
+Hemofiliker
+Hemska baksmällor
+Nervös mage
+Neurologisk sjukdom
+Nattblind
+Dödlig sjukdom
+Gravid
+Heterokromi
+Föredetta missbrukare
+Hjulbent
+Plattfotad
+
+
+
+//-------Aug abilities
+Teleskopisk syn
+Universiell matsmältning
+Gasrenande lungor
+
+
+
+
+//---- INACTIVE-------------
+
+//Claim to hospitality from X faction
+//Social status among X group
+//Military rank in X faction
+//In debt to X faction
+//Hunted by X faction
+//Nobility in X culture
+//Heir/heiress
+//Member of
+//-	Military
+//-	Church
+//-	Company
+//-	University
+//-	Ordo Historia
+//-	Criminal organization
+//-	Tribe
+//-	Guild/union
+//-	Police department
+
+
+
+
+//Has enemies who will come
+//Infected with X long-term pathogen
+//Vowed to do X
+//Dislikes X
+//Incompetent at X skill
+//Likes X
+//Obsessed with X
+//Culinary skills in X culture/style
+</NoEffectTraitsList>
+
+Keyed\PlayInterface.xml
+    <Architect>Arkitekt</Architect>
+    <MenuTip>Spara, ladda, avsluta spelet eller ändra inställningar.</MenuTip>
+    <Overview>Översikt</Overview>
+    <OverviewTip>Hantera kolonins arbetsprioriteringar och statistik.</OverviewTip>
+    <ResearchTip>Hantera forskningsprojekt.</ResearchTip>
+

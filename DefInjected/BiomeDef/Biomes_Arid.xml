@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <AridShrubland.label>Savann</AridShrubland.label>
-  <AridShrubland.description>Ett torrt område, men inte torrt nog för att bli en riktig öken. Öppna slätter med gräs, buskar, och några enstaka träd. Här samsas den härade floran med en del vilddjur.</AridShrubland.description>
-
-  <Desert.label>Öken</Desert.label>
-  <Desert.description>Ett väldigt torrt och väldigt varmt område med väldigt lite djur- och växtliv.</Desert.description>
-
-  <ExtremeDesert.label>Extrem öken</ExtremeDesert.label>
-  <ExtremeDesert.description>Ett extremt varmt och torrt område som nästan helt och hållet saknar djur- och växtliv. Den starka hettan gör det väldigt svårt att leva här, även för den mest anpassade av arter.</ExtremeDesert.description>
-
+    
+    <AridShrubland.label>Savann</AridShrubland.label>
+    <AridShrubland.description>Ett torrt område, men inte torrt nog för att bli en riktig öken. Öppna slätter med gräs, buskar, och några enstaka träd. Här samsas den härade floran med en del vilddjur.</AridShrubland.description>
+    
+    <Desert.label>Öken</Desert.label>
+    <Desert.description>Ett väldigt torrt och väldigt varmt område med väldigt lite djur- och växtliv.</Desert.description>
+    
+    <ExtremeDesert.label>Extrem öken</ExtremeDesert.label>
+    <ExtremeDesert.description>Ett extremt varmt och torrt område som nästan helt och hållet saknar djur- och växtliv. Den starka hettan gör det väldigt svårt att leva här, även för den mest anpassade av arter.</ExtremeDesert.description>
+    
 </LanguageData>

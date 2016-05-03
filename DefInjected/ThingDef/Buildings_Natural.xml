@@ -1,38 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <!-- Simple mineables -->
-
-  <CollapsedRocks.label>Stenras</CollapsedRocks.label>
-  <CollapsedRocks.description>En hög med stenar från ett ras. De är så tätt packade att de kan hålla uppe ett tak.</CollapsedRocks.description>
-
-   <!-- Resource rocks -->
-
-  <MineableSteel.label>Kompakt stål</MineableSteel.label>
-  <MineableSteel.description>Resterna av en antik byggnad. Innehåller stora mängder stål.</MineableSteel.description>
-
-  <MineableSilver.label>Silveråder</MineableSilver.label>
-  <MineableSilver.description>Sten som innehåller små mängder silver.</MineableSilver.description>
-
-  <MineableGold.label>Guldåder</MineableGold.label>
-  <MineableGold.description>Sten som innehåller små mängder guld.</MineableGold.description>
-
-  <MineableUranium.label>Uranmalm</MineableUranium.label>
-  <MineableUranium.description>Sten som innehåller små mängder uran.</MineableUranium.description>
-
-  <MineablePlasteel.label>Kompakt plaststål</MineablePlasteel.label>
-  <MineablePlasteel.description>Gamla ruiner som innehåller stora mängder plaststål.</MineablePlasteel.description>
-
-  <MineableJade.label>Jade</MineableJade.label>
-  <MineableJade.description>Sten som innehåller små mängder jade.</MineableJade.description>
-
-  <MineableComponents.label>Sammanpressade maskindelar</MineableComponents.label>
-  <MineableComponents.description>Gamla maskiner som med tiden pressats samman. Innehåller avnändbara komponenter.</MineableComponents.description>
-
-  <SteamGeyser.label>Gejser</SteamGeyser.label>
-  <SteamGeyser.description>Naturlig källa av ånga.</SteamGeyser.description>
-
-  <Hive.label>Koloni</Hive.label>
-  <Hive.description>En koloni av insekter. Genererar ytterligare insekter och kolonier med tiden. </Hive.description>
-
+    
+    <CollapsedRocks.label>Stenras</CollapsedRocks.label>
+    <CollapsedRocks.description>En hög med stenar från ett ras. De är så tätt packade att de kan hålla uppe ett tak.</CollapsedRocks.description>
+    
+    <MineableSteel.label>Kompakt stål</MineableSteel.label>
+    <MineableSteel.description>Resterna av en antik byggnad. Innehåller stora mängder stål.</MineableSteel.description>
+    
+    <MineableSilver.label>Silveråder</MineableSilver.label>
+    <MineableSilver.description>Sten som innehåller små mängder silver.</MineableSilver.description>
+    
+    <MineableGold.label>Guldåder</MineableGold.label>
+    <MineableGold.description>Sten som innehåller små mängder guld.</MineableGold.description>
+    
+    <MineableUranium.label>Uranmalm</MineableUranium.label>
+    <MineableUranium.description>Sten som innehåller små mängder uran.</MineableUranium.description>
+    
+    <MineablePlasteel.label>Kompakt plaststål</MineablePlasteel.label>
+    <MineablePlasteel.description>Gamla ruiner som innehåller stora mängder plaststål.</MineablePlasteel.description>
+    
+    <MineableJade.label>Jade</MineableJade.label>
+    <MineableJade.description>Sten som innehåller små mängder jade.</MineableJade.description>
+    
+    <MineableComponents.label>Sammanpressade maskindelar</MineableComponents.label>
+    <MineableComponents.description>Gamla maskiner som med tiden pressats samman. Innehåller avnändbara komponenter.</MineableComponents.description>
+    
+    <SteamGeyser.label>Gejser</SteamGeyser.label>
+    <SteamGeyser.description>Naturlig källa av ånga.</SteamGeyser.description>
+    
+    <Hive.label>Koloni</Hive.label>
+    <Hive.description>En koloni av insekter. Genererar ytterligare insekter och kolonier med tiden. </Hive.description>
+    
 </LanguageData>

@@ -1,30 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <NutrientPasteDispenser.label>Näringsmassmaskin</NutrientPasteDispenser.label>
-  <NutrientPasteDispenser.description>Syntetiserar näringsmassa från organiska råvaror.</NutrientPasteDispenser.description>
-
-  <Hopper.label>Silo</Hopper.label>
-  <Hopper.description>Behållare för resurser som används av t.ex näringsmassmaskiner.</Hopper.description>
-
-  <TableButcher.label>Slaktbord</TableButcher.label>
-  <TableButcher.description>Ett tungt bord till för att slakta döda varelser och utvinna råa köttbitar.</TableButcher.description>
-
-  <TableMachining.label>Maskinbearbetningsbord</TableMachining.label>
-  <TableMachining.description>Ett bord och verktyg för att sätta ihop och plocka isär maskinkomponenter.</TableMachining.description>
-
-  <CookStove.label>Spis</CookStove.label>
-  <CookStove.description>En enkel spis och köksbänk till för att laga mat av enklare ingredienser.</CookStove.description>
-
-  <TableStonecutter.label>Stenhuggningsbord</TableStonecutter.label>
-  <TableStonecutter.description>En arbetsbänk utrustad för att hugga användbara block ur grov sten.</TableStonecutter.description>
-
-  <SlagRefinery.label>Slaggugn</SlagRefinery.label>
-  <SlagRefinery.description>Utvinner användbar metall från slaggbitar. Förbrukar mycket elektricitet.</SlagRefinery.description>
-
-  <Crematorium.label>Krematorium</Crematorium.label>
-  <Crematorium.description>Kremerar kroppar.</Crematorium.description>
-
-  <HydroponicsBasin.label>Hydrokultursbassäng</HydroponicsBasin.label>
-  <HydroponicsBasin.description>Till för att odla mat. Hydrokultursbassänger kan snabbt odla ett fåtal plantor.</HydroponicsBasin.description>
-
+    
+    <CraftingSpot.label>crafting spot</CraftingSpot.label>
+    <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
+    
+    <NutrientPasteDispenser.label>Näringsmassmaskin</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.description>Syntetiserar näringsmassa från organiska råvaror.</NutrientPasteDispenser.description>
+    
+    <Hopper.label>Silo</Hopper.label>
+    <Hopper.description>Behållare för resurser som används av t.ex näringsmassmaskiner.</Hopper.description>
+    
+    <TableButcher.label>Slaktbord</TableButcher.label>
+    <TableButcher.description>Ett tungt bord till för att slakta döda varelser och utvinna råa köttbitar.</TableButcher.description>
+    
+    <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
+    <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
+    
+    <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
+    <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
+    
+    <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
+    <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+    
+    <FueledSmithy.label>fueled smithy</FueledSmithy.label>
+    <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+    
+    <TableSculpting.label>sculptor's table</TableSculpting.label>
+    <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
+    
+    <TableMachining.label>Maskinbearbetningsbord</TableMachining.label>
+    <TableMachining.description>Ett bord och verktyg för att sätta ihop och plocka isär maskinkomponenter.</TableMachining.description>
+    
+    <ElectricStove.label>electric stove</ElectricStove.label>
+    <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
+    
+    <FueledStove.label>fueled stove</FueledStove.label>
+    <FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+    
+    <TableStonecutter.label>Stenhuggningsbord</TableStonecutter.label>
+    <TableStonecutter.description>En arbetsbänk utrustad för att hugga användbara block ur grov sten.</TableStonecutter.description>
+    
+    <Brewery.label>brewery</Brewery.label>
+    <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
+    
+    <ElectricSmelter.label>electric smelter</ElectricSmelter.label>
+    <ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.description>
+    
+    <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
+    <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
+    
+    <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>
+    <SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>
+    
+    <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
+    <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
+    
+    <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
+    <ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
+    
+    <HydroponicsBasin.label>Hydrokultursbassäng</HydroponicsBasin.label>
+    <HydroponicsBasin.description>Till för att odla mat. Hydrokultursbassänger kan snabbt odla ett fåtal plantor.</HydroponicsBasin.description>
+    
 </LanguageData>

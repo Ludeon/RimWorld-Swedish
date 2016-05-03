@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <BeetleLike.label>Skalbaggeliknande</BeetleLike.label>
-  <BeetleLikeWithClaw.label>Skalbaggeliknande med klo</BeetleLikeWithClaw.label>
-
+    
+    <BeetleLike.label>Skalbaggeliknande</BeetleLike.label>
+    
+    <BeetleLikeWithClaw.label>Skalbaggeliknande med klo</BeetleLikeWithClaw.label>
+    
 </LanguageData>
