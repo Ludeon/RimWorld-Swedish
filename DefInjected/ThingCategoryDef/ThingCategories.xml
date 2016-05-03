@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Root.label>Rot</Root.label>
+    
+    <Resources.label>Resurser</Resources.label>
+    
+    <Foods.label>Föda</Foods.label>
+    
+    <FoodMeals.label>Maträtter</FoodMeals.label>
+    
+    <FoodRaw.label>Råkost</FoodRaw.label>
+    
+    <MeatRaw.label>Kött</MeatRaw.label>
+    
+    <PlantFoodRaw.label>Vegetariskt</PlantFoodRaw.label>
+    
+    <AnimalProductRaw.label>animal products</AnimalProductRaw.label>
+    
+    <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
+    
+    <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
+    
+    <Manufactured.label>Tillverkad</Manufactured.label>
+    
+    <Textiles.label>textiles</Textiles.label>
+    
+    <Leathers.label>leathers</Leathers.label>
+    
+    <Medicine.label>medicine</Medicine.label>
+    
+    <ResourcesRaw.label>Råa resurser</ResourcesRaw.label>
+    
+    <StoneBlocks.label>stone blocks</StoneBlocks.label>
+    
+    <Items.label>Saker</Items.label>
+    
+    <Art.label>art</Art.label>
+    
+    <Furniture.label>Möbler</Furniture.label>
+    
+    <Unfinished.label>unfinished</Unfinished.label>
+    
+    <Weapons.label>Vapen</Weapons.label>
+    
+    <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
+    
+    <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
+    
+    <Grenades.label>grenades</Grenades.label>
+    
+    <Apparel.label>Kläder</Apparel.label>
+    
+    <Headgear.label>headgear</Headgear.label>
+    
+    <BodyPartsAndImplants.label>body parts</BodyPartsAndImplants.label>
+    
+    <Chunks.label>Delar</Chunks.label>
+    
+    <StoneChunks.label>stone chunks</StoneChunks.label>
+    
+    <Corpses.label>Kroppar</Corpses.label>
+    
+    <CorpsesHumanlike.label>humanlike corpses</CorpsesHumanlike.label>
+    
+    <CorpsesAnimal.label>Djurkroppar</CorpsesAnimal.label>
+    
+    <CorpsesMechanoid.label>Mekanoidkroppar</CorpsesMechanoid.label>
+    
+</LanguageData>

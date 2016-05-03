@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  
+  <TabBills>Order</TabBills>
+  <TabGrowing>Växer</TabGrowing>
+  <TabCharacter>Karaktär</TabCharacter>
+  <TabTraining>Training</TabTraining>
+  <TabPrisoner>Fånge</TabPrisoner>
+  <TabGuest>Guest</TabGuest>
+  <TabGear>Utrustning</TabGear>
+  <TabNeeds>Behov</TabNeeds>
+  <TabStorage>Förvaring</TabStorage>
+  <TabHealth>Health</TabHealth>
+  <TabRace>Race</TabRace>
+  <TabBasics>Basics</TabBasics>
+  <TabStats>Stats</TabStats>
+  <TabRecords>Records</TabRecords>
+  <TabArt>Art</TabArt>
+  <TabSocial>Social</TabSocial>
+
+  
+  
+  <AddBill>Lägg till order</AddBill>
+  <RecipeRequiresSkills>Recepted {0} kräver nedanstående färdigheter. Ingen av dina kolonister har dessa färdigheter, så ingen kommer att göra denna order.</RecipeRequiresSkills>
+  <MinimumSkill>Min skill</MinimumSkill>
+  <SuspendedCaps>AVSTÄNGD</SuspendedCaps>
+  <BoundWorkerIs>Worker: {0}</BoundWorkerIs>
+  <PlantVerb>Plantera</PlantVerb>
+
+
+  
+  <RecruitmentDifficulty>Svårighetsgrad av rekrytering</RecruitmentDifficulty>
+  <GetsFood>Gets food</GetsFood>
+  <DoctorsCare>Doctors care</DoctorsCare>
+  <GetsMedicine>Gets medicine</GetsMedicine>
+  <ShouldTryToRecruit>Försök rekrytera</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Ingen interaktion</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Vänlig chatt</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Chat and recruit</PrisonerAttemptRecruit>
+  <PrisonerRelease>Release</PrisonerRelease>
+  <PrisonerExecution>Avrättning</PrisonerExecution>
+
+
+  
+  <MoveSpeed>Rörelsehastighet</MoveSpeed>
+  <Efficiency>Efficiency</Efficiency>
+  <MissingBodyPart>Gone</MissingBodyPart>
+  <DestroyedBodyPart>Destroyed</DestroyedBodyPart>
+  <ShatteredBodyPart>Shattered</ShatteredBodyPart>
+  <RemovedBodyPart>Removed</RemovedBodyPart>
+  <Healthy>Healthy</Healthy>
+  <InPain>In pain</InPain>
+  <PainLevel>Pain</PainLevel>
+  <Dead>Dead</Dead>
+  <Unconscious>Unconscious</Unconscious>
+  <PainShock>In shock</PainShock>
+  <Injured>Injured</Injured>
+  <NoInjuries>(no injuries)</NoInjuries>
+  <WholeBody>Whole body</WholeBody>
+  <DataProcessing>Data processing</DataProcessing>
+  <Communication>Communication</Communication>
+  <AffectsLower>affects</AffectsLower>
+  <BleedingRate>Bleeding rate</BleedingRate>
+  <HealthOverview>Overview</HealthOverview>
+  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medical operations</MedicalOperations>
+  <Amputate>Amputate</Amputate>
+  <Harvest>Harvest</Harvest>
+  <MemoryLower>memory</MemoryLower>
+  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
+  <HungerRate>Hunger rate</HungerRate>
+  <Tiredness>Tiredness</Tiredness>
+  
+
+  
+  <None>None</None>
+  <VeryPoor>Very poor</VeryPoor>
+  <Poor>Poor</Poor>
+  <Weakened>Weakened</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Enhanced</Enhanced>
+  <SeriouslyImpaired>Seriously impaired</SeriouslyImpaired>
+  <Impaired>Impaired</Impaired>
+  <SlightlyImpaired>Slightly impaired</SlightlyImpaired>
+  <NoPain>None</NoPain>
+  <LittlePain>Little</LittlePain>
+  <MediumPain>Medium</MediumPain>
+  <SeverePain>Severe</SeverePain>
+  <ExtremePain>Extreme</ExtremePain>
+
+
+  
+  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  
+  
+  <NoRelationships>(no relationships)</NoRelationships>
+  <Kidnapped>Kidnapped</Kidnapped>
+  <Slave>Slave</Slave>
+  <FactionLeader>Faction leader</FactionLeader>
+  <OpinionOf>Opinion of {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+  <IAmDead>I'm dead</IAmDead>
+  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Firefoam.label>firefoam</Firefoam.label>
+    <Firefoam.description>Allows the construction of firefoam poppers; fire-safety buildings which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
+    
+    <GeothermalPower.label>geothermal power</GeothermalPower.label>
+    <GeothermalPower.description>Allows you to build geothermal power plants on top of steam geysers, for uninterrupted power.</GeothermalPower.description>
+    
+    <HospitalBed.label>Sjuksäng</HospitalBed.label>
+    <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
+    
+    <MultiAnalyzer.label>Multianalysator</MultiAnalyzer.label>
+    <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
+    
+    <VitalsMonitor.label>Vitalparametersensor</VitalsMonitor.label>
+    <VitalsMonitor.description>Ökar kvalitén hos behandlingen av patienten. Måste placeras jämte en sjuksäng. En sjuksäng kan kopplas samman med endast en vitalparametersensor.</VitalsMonitor.description>
+    
+    <Cryptosleep.label>cryptosleep casket</Cryptosleep.label>
+    <Cryptosleep.description>Allows colonists to construct cryptosleep caskets, which can put living beings in a state of suspended animation.</Cryptosleep.description>
+    
+    <ComponentAssembly.label>component assembly</ComponentAssembly.label>
+    <ComponentAssembly.description>Allows you to build the Component Assembly Bench, where colonists can make components from simple materials.</ComponentAssembly.description>
+    
+    <PoweredArmor.label>powered armor</PoweredArmor.label>
+    <PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
+    
+    <ChargedShot.label>charged shot</ChargedShot.label>
+    <ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>
+    
+    <MultibarrelWeapons.label>multibarrel weapons</MultibarrelWeapons.label>
+    <MultibarrelWeapons.description>Allows you to build miniguns.</MultibarrelWeapons.description>
+    
+</LanguageData>

@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  
+  <CreateWorld>Create World</CreateWorld>
   <NewColony>Ny koloni</NewColony>
   <BackToGame>Tillbaka till spelet</BackToGame>
   <Save>Spara</Save>
@@ -10,7 +11,9 @@
   <Mods>Mods</Mods>
   <Credits>Medverkare</Credits>
   <QuitToMainMenu>Avsluta till huvudmenyn</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Save and quit to Menu</SaveAndQuitToMainMenu>
   <QuitToOS>Anvsluta till OS</QuitToOS>
+  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
   <FictionPrimer>Fiktionens grund</FictionPrimer>
   <LudeonBlog>Ludeon blogg</LudeonBlog>
   <Forums>Forum</Forums>
@@ -18,25 +21,91 @@
   <TynansTwitter>Tynans twitter</TynansTwitter>
   <TynansDesignBook>Tynans design bok</TynansDesignBook>
   <HelpTranslate>Hjälp till att översätta RimWorld</HelpTranslate>
+  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
 
-  <!--=========== Version info ==========-->
+  
+  <ReviewWorld>Review world</ReviewWorld>
+  <WorldGenerate>Generate</WorldGenerate>
+  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
+  <Reset>Reset</Reset>
+  <WorldSize>Size</WorldSize>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>Randomize seed</RandomizeSeed>
+
+
+  
+  <SelectWorld>Select world</SelectWorld>
+  <WorldChooseButton>Select</WorldChooseButton>
+  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  
+  
   <BuildNowAvailable>Struktur {0} finns tillgänglig. Kolla ludeon.com för mer information.</BuildNowAvailable>
 	<BuildUpToDate>Strukturen är aktuell.</BuildUpToDate>
 	<ErrorGettingVersionInfo>Fel när versionsinformationen skulle hämtas: {0}</ErrorGettingVersionInfo>
 	<LoadingVersionInfo>Laddar versionsinformation...</LoadingVersionInfo>
 
-  <!--=========== Mods screen ==========-->
-  <GetMods>Skaffa mods</GetMods>
+  
+  <GenerateWorld>Generate world</GenerateWorld>
+
+  
+  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Get mods from forum</GetModsFromForum>
   <OpenModsDataFolder>Öppna datamappen för mods</OpenModsDataFolder>
   <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärn-moddet? Spelet kommer inte att funka alls om du inte har ett annat mod som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra mods kan överskriva 'defs' i kärnmodet genom att använda samma 'defName'.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
   <Author>Författare</Author>
+  <WorkshopPage>Workshop page</WorkshopPage>
+  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <YouAgreeToSteamWorkshopLegal>By submitting this mod, you agree to the Steam Workshop terms of service. Click here for more info.</YouAgreeToSteamWorkshopLegal>
+  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <DownloadingMod>Downloading {0}</DownloadingMod>
   
-
-  <!--=========== Storyteller chooser ==========-->
+  
   <ChooseAIStoryteller>Välj AI berättare</ChooseAIStoryteller>
   <HowStorytellersWork>AI Berättaren skapar event som plundringståg av pirater, räddningsfall, eller djurattacker. Deras val kommer att påverka din kolonis historia.</HowStorytellersWork>
+  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
+  <Difficulty>Difficulty</Difficulty>
 
-  <!--=========== Character chooser ==========-->
+
+
+
+  
+  <SelectLandingSite>Select landing site</SelectLandingSite>
+  <SelectRandomSite>Select random site</SelectRandomSite>
+  <SelectSite>Select site</SelectSite>
+  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
+  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
+  <WorldRenderMode>Mode</WorldRenderMode>
+  <WorldRenderModeFull>Full</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Temperature</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Elevation</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Fertility</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Rainfall</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Biomes</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
+  <Biome>Biome</Biome>
+  <Terrain>Terrain</Terrain>
+  <Elevation>Elevation</Elevation>
+  <Fertility>Fertility</Fertility>
+  <AvgTemp>Avg Temp</AvgTemp>
+  <AvgJanTemp>Avg Temp (Jan): {0}</AvgJanTemp>
+  <AvgJulTemp>Avg Temp (Jul): {0}</AvgJulTemp>
+  <Rainfall>Rainfall</Rainfall>
+  <HasCoast0>Northern coast</HasCoast0>
+  <HasCoast1>Eastern coast</HasCoast1>
+  <HasCoast2>Southern coast</HasCoast2>
+  <HasCoast3>Western coast</HasCoast3>
+  <FactionBase>Faction base</FactionBase>
+  <StoneTypesHere>Stone types</StoneTypesHere>
+
+
+  
   <CreateCharacters>Skapa karaktärer</CreateCharacters>
   <FirstNameDesc>Karaktärens förnamn.\n\nDetta visas bara i vissa menyer.</FirstNameDesc>
   <ShortIdentifierDesc>Karaktärens korta, identifierande namn.\n\nDetta visas hela tiden. Det kan vara för- eller efternamn, eller ett helt annat, separat namn.</ShortIdentifierDesc>
@@ -46,16 +115,19 @@
   <Backstory>Bakgrundshistoria</Backstory>
   <IncapableOf>Inkapabel av att</IncapableOf>
   <Traits>Persondrag</Traits>
-  <TraitsDoNothing>Persondrag är bara roliga historiedelar just nu; dee flesta gör ingenting. Detta kommer att förändras i framtida versioner.</TraitsDoNothing>
+  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
   <Skills>Förmågor</Skills>
   <NoneLower>inga</NoneLower>
   <Adulthood>Vuxen ålder</Adulthood>
   <Childhood>Barndom</Childhood>
   <Male>Man</Male>
   <Female>Kvinna</Female>
+  <Pain>Pain</Pain>
+  <Health>Hälsa</Health>
+  <Relations>Relations</Relations>
   
   
-  <!--=========== Misc ==========-->
+  
   <Start>Börja</Start>
   <Advanced>Avancerat</Advanced>
   <Next>Nästa</Next>
@@ -68,5 +140,6 @@
   <EveryoneNeedsValidName>Varje person behöver ett giltigt namn.</EveryoneNeedsValidName>
 
   <GeneratingWorld>Genererar värld...</GeneratingWorld>
+  <GeneratingMap>Generating map</GeneratingMap>
 
 </LanguageData>

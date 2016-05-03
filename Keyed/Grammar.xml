@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IndefiniteArticle>a</IndefiniteArticle>
+  <DefiniteArticle>the</DefiniteArticle>
+  <IndefiniteForm>a {0}</IndefiniteForm>
+  <DefiniteForm>the {0}</DefiniteForm>
+
+  <Proits>its</Proits>
+  <Prohis>hans</Prohis>
+  <Proher>hennes</Proher>
+  <ProitsCap>Its</ProitsCap>
+  <ProhisCap>Hans</ProhisCap>
+  <ProherCap>Hennes</ProherCap>
+
+  <ProitObj>it</ProitObj>
+  <ProhimObj>honom</ProhimObj>
+  <ProherObj>henne</ProherObj>
+  <ProitObjCap>It</ProitObjCap>
+  <ProhimObjCap>Honom</ProhimObjCap>
+  <ProherObjCap>Henne</ProherObjCap>
+
+  <Prohe>han</Prohe>
+  <Proshe>hon</Proshe>
+  <Proit>it</Proit>
+  <ProheCap>Han</ProheCap>
+  <ProsheCap>Hon</ProsheCap>
+  <ProitCap>It</ProitCap>
+
+</LanguageData>

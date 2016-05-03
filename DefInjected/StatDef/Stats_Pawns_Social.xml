@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <RecruitPrisonerChance.label>recruit prisoner chance</RecruitPrisonerChance.label>
+    <RecruitPrisonerChance.description>Base chance this person will recruit a prisoner.</RecruitPrisonerChance.description>
+    
+    <TameAnimalChance.label>tame animal chance</TameAnimalChance.label>
+    <TameAnimalChance.description>Base chance this person will tame an animal.</TameAnimalChance.description>
+    
+    <TrainAnimalChance.label>train animal chance</TrainAnimalChance.label>
+    <TrainAnimalChance.description>Base chance this person will make progress training an animal on a given attempt. May change based on the animal.</TrainAnimalChance.description>
+    
+    <SocialImpact.label>social chat impact</SocialImpact.label>
+    <SocialImpact.description>Social interaktion har {0}%s påverkan på humör.</SocialImpact.description>
+    
+    <GiftImpact.label>diplomatic gift impact</GiftImpact.label>
+    <GiftImpact.description>Gåvor har {0}%s påverkan på grupprelationer.</GiftImpact.description>
+    
+    <TradePriceImprovement.label>trade price improvement</TradePriceImprovement.label>
+    <TradePriceImprovement.description>Handelspriser är {0}% bättre vid både inköp och försäljning.</TradePriceImprovement.description>
+    
+</LanguageData>

@@ -66,8 +66,8 @@
   <NeedMealSource>Behöver måltidskälla</NeedMealSource>
   <NeedMealSourceDesc>Du saknar möjlighet att producera måltider från råa livsmedel.\n\nBygg en spis, lägereld, eller en näringsautomat.\n\n(De får inte vara i en fängelsecell, annars kan inte kolonisatörerna använda den.)</NeedMealSourceDesc>
 
-  <NeedHomeRegion>Behöver hemområde</NeedHomeRegion>
-  <NeedHomeRegionDesc>Du måste definiera ett HEMOMRÅDE där dina kolonisatörer kommer att städa, släcka bränder, och reparera saker.\n\nDefinera ett hemområde genom att använda ZONER-sektionen i ARKITEKT-menyn.</NeedHomeRegionDesc>
+  <NeedHomeArea>Need home area</NeedHomeArea>
+  <NeedHomeAreaDesc>You need to define a HOME AREA where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home area using the ZONES section of the ARCHITECT menu.</NeedHomeAreaDesc>
 
   <NeedBatteries>Behöver ackumulatorer</NeedBatteries>
   <NeedBatteriesDesc>Du har bara solpaneler men inga ackumulatorer. Detta betyder att du kommer att drabbas av strömavbrott varje gång solen går ner.\n\nBygg en ackumulator eller två som kan försörja dig över natten.</NeedBatteriesDesc>
@@ -87,18 +87,12 @@
   <NeedDump>Behöver förvaring</NeedDump>
   <NeedDumpDesc>Du har valt att frakta bort {0} men det finns ingenstans att ta den.\n\nDesignera ett förråd och se till att det acceptera {0} via dess inställningar.</NeedDumpDesc>
 
-  <!-- Removed
-  <NeedGrave>Behöver grav</NeedGrave>
-  <NeedGraveDesc>Det ligger en död kropp på marken och det finns ingenstans för dina kolonister att ta det.\n\nBygg en grav eller dumpningsplats och sött dess förvaringsinställningar.</NeedGraveDesc>
-  -->
+  
 
   <ColonistsIdle>{0} kolonist(er) är syssolös(a)</ColonistsIdle>
   <ColonistsIdleDesc>Dessa kolonister är syssolösa:\n\n{0}\nSe efter om du kan sätta dem i arbete.</ColonistsIdleDesc>
 
-  <!-- Removed
-  <HaltedConstructions>{0} konstruktioner saknar material</HaltedConstructions>
-  <HaltedConstructionsDesc>Dessa konstruktioner saknar material:\n\n{0}\nDu borde tillgängliggöra de material som krävs för dina kolonister.</HaltedConstructionsDesc>
-  -->
+  
   
   <ColonistNeedsTreatment>Kolonisatör behöver vård</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>En kolonisatör behöver medecinsk vård. Utan det riskerar personen att dö från sina skador, eller att skadorna förblir permanenta.\n\n{0}\nBehandla hen genom att ta hen till en sjuksäng.\n\n(Först,avsätt en sjuksäng genom att markera valfri säng och ange att den ska vara en sjuksäng. Därefter, markera den skadade kolonisatören och högerklicka på sjuksängen för att göra hen till en patient.)</ColonistNeedsTreatmentDesc>

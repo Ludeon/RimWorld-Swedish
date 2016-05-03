@@ -1,59 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <LetterLabelAnimalInsanitySingle>Mad animal</LetterLabelAnimalInsanitySingle>
   <AnimalInsanitySingle>En lokal {0} har blivit galen. Den kommer att attackera alla den ser.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Mad animals!</LetterLabelAnimalInsanityMultiple>
   <AnimalInsanityMultiple>Någon sorts psykisk våg har svept över landskapet. Dina kolonister klarade sig, men...\n\nDet verkar som att {0}:arna i området har blivit galna.</AnimalInsanityMultiple>
 
+  <LetterLabelCropBlight>Blight</LetterLabelCropBlight>
   <CropBlight>En mysterisk förödelse har förstört dina odlingar.</CropBlight>
 
-  <EclipseIncident>En av månarna till denna planet blockerar solens ljus. En solförmörkelse har börjat.</EclipseIncident>
-
+  <LetterLabelMiracleHeal>Miracle</LetterLabelMiracleHeal>
   <MiracleHeal>{0} upplevde en mirakulös återhämtning!</MiracleHeal>
 
   
-  <!-- Enemy raids -->
   <EnemyRaidWalkIn>En grupp av {0} från {1} anledde i närheten.</EnemyRaidWalkIn>
   <EnemyRaidEdgeDrop>En grupp av {0} från {1} har anlett i fall-kapslar i närheten.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>En grupp av {0} från {1} har fallit rätt på dig!</EnemyRaidCenterDrop>
-  <EnemyRaidStageThenAttack>De kommer att förbereda sig ett tag, sedan attackera.\n\nFörbered ett försvar eller attackera dem i förebyggande syfte.</EnemyRaidStageThenAttack>
-  <EnemyRaidImmediateAttack>De attackerar direkt.</EnemyRaidImmediateAttack>
-  <EnemyRaidBesiege>Det verkar som att de vill belägra kolonin.</EnemyRaidBesiege>
 
-
-  <!-- Friendly raids -->
+  
   <FriendlyRaidWalkIn>En grupp vänliga {0} från {1} har anlett i närheten.</FriendlyRaidWalkIn>
   <FriendlyRaidEdgeDrop>En grupp vänliga {0} från {1} har anlett i fall-kapslar i närheten.</FriendlyRaidEdgeDrop>
   <FriendlyRaidCenterDrop>En grupp vänliga {0} från {1} har fallit rätt på dig!</FriendlyRaidCenterDrop>
-  <FriendlyRaidStageThenAttack>De kommer att förbereda sig ett tag innan de kommer för att hjälpa dig.</FriendlyRaidStageThenAttack>
-  <FriendlyRaidImmediateAttack>De kommer och hjälper dig direkt.</FriendlyRaidImmediateAttack>
-  <FriendlyRaidBesiege>Det verkar som att de vill använda belägringstaktiker för att hjälpa dig,</FriendlyRaidBesiege>
 
+  <LetterLabelRefugeePodCrash>Escape pod</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>Du har upptäckt en flyktkapsel som krashade hårt i närheten.\n\nOm någon överlevde impakten så är de svårt skadade.</RefugeePodCrash>
 
+  <LetterLabelCargoPodCrash>Cargo pods</LetterLabelCargoPodCrash>
   <CargoPodCrash>Du har upptäck ett kluster av flyglast som krashade intill.\n\nDu kanske hittar något användbart bland vraken.</CargoPodCrash>
 
   <AnElectricalConduit>en elektrisk ledning</AnElectricalConduit>
-  <AWallsPowerConduit>en väggs strömledning</AWallsPowerConduit>
   <ShortCircuit>Ett fel i {0} har orsakat en kortslutning.\n\nAlla {1} Wd av energi i anslutna batterin har urladdats i en elektrisk explosion.</ShortCircuit>
   <ShortCircuitWasLarge>Denna mängd ström har skapat en avsevärt stor explosion.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>Det där är verkligen en stor explosion. Wow.</ShortCircuitWasHuge>
-
-  <LetterSolarFlare>En soleruption har börjat.\n\nDen intensiva radioaktiviteten kommer att stänga ner all elektrisk utrustning.\n\nDet borde passera efter ungefär en dag.</LetterSolarFlare>
 
   <TraderArrival>Ett förhandlingsskepp passerar i närheten.\n\nDe är kända som {0}. De är en {1}.</TraderArrival>
 
   <SingleTravelerPassing>En {0} från {1} passerar i närheten. HECAP heter {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>En grupp resenärer från {0} passerar i närheten.</GroupTravelersPassing>
 
+  <LetterLabelSingleVisitorArrives>Visitor</LetterLabelSingleVisitorArrives>
   <SingleVisitorArrives>En {0} från {1} är på besök i kolonin.\n\nHECAP heter {2}.</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\nHECAP seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
+  <LetterLabelGroupVisitorsArrive>Visitors</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>En grupp från {0} är på besök i kolonin.</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
   <VisitorsLeaving>Besökare från {0} lämnar.</VisitorsLeaving>
 
+  <LetterLabelWandererJoin>Wanderer joins</LetterLabelWandererJoin>
   <WandererJoin>En {0} som heter NAME har anlätt och ansluter sig till din koloni. HECAP är en {1}.</WandererJoin>
+
+  <LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>A pack of man-hunting {0}s have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey can't pass doors, so if you stay behind walls you should be safe. They won't attack inactive turrets, so turn your turrets off if you want to save them.\n\nThey'll leave the area in a few days.</ManhunterPackArrived>
   
   
-  <!-- Crashed ship part-->
-  <SpaceshipPartCrash>En stor bit av ett antikt skepp har krashat i närheten.\n\nDina kolonister känner av det djupt i sina sinnen, där det uppmanar till otaliga handlingar. Det måste ha ett AI ombord med psytiska projekteringskrafter. Detta AI är inte vänligt.\n\nFörstör det så snabbt som möjligt.</SpaceshipPartCrash>
   <MessageAnimalInsanityPulse>Den antika strukturen har avgett en psytisk puls som har drivit djur i närheten till galenskap.</MessageAnimalInsanityPulse>
   <LetterShipPartDroveColonistInsane>Den krashade skeppsdelen har avgett en fokuserad psytisk puls som har drivit kolonisten {0} galen.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Vaknade {0} dagar sedan</AwokeDaysAgo>
@@ -62,12 +61,50 @@
   <PsychicDroneLevelMedium>Medel</PsychicDroneLevelMedium>
   <PsychicDroneLevelHigh>Hög</PsychicDroneLevelHigh>
   <PsychicDroneLevelExtreme>Extrem</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Drone intensifies</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>Den krashade skeppsdelen skickar nu ut en kraftigare sorts psytisk drönare. Alla mänskliga varelser i närheten kännser sig nu mer störd, skrämd, och paranoid.</LetterPsychicDroneLevelIncreased>
   
-  <!-- Agent revealed -->
-  <LetterAgentRevealed>{0} har blivit avslöjad att vara en agent för din fiende {1}.\n\nDenna försöker nu fly.</LetterAgentRevealed>
   
-  <!-- Distant psychic drone -->
+  <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} har blivit avslöjad att vara en agent för din fiende {1}.\n\nDenna försöker nu fly.</LetterAgentRevealed>
+
+  
+  <LetterLabelPsychicDrone>Psychic drone</LetterLabelPsychicDrone>
   <LetterIncidentPsychicDrone>En kraftig huvudvärk genomborrar ditt huvud som en spik!\n\nEn distant maskin av hat har gått igång. Den projekterar en kraftig psytisk drönare över hela denna region. Allas humör vara mycket sämre i ett par dagar.</LetterIncidentPsychicDrone>
+
+  <LetterLabelPsychicSoothe>Psychic soothe</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better.</LetterIncidentPsychicSoothe>
+
+  
+  <LetterLabelBeaversArrived>Beavers!</LetterLabelBeaversArrived>
+  <BeaversArrived>A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last tree in the region.</BeaversArrived>
+  
+  
+  <RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Offer safety</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Ignore the message</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} screams in panic through the tinny speaker before you cut off the transmission.</RefugeeChasedRejected>
+
+  
+  <LetterLabelAnimalSelfTame>{0} self-tamed</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} has become tame.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} has become tame. It is now designated {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} has become tame. Colonists have decided to name it {1}.</LetterAnimalSelfTameAndName>
+
+  
+  <LetterLabelFarmAnimalsWanderIn>{0}s join</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>A group of {0}s, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony.</LetterFarmAnimalsWanderIn>
+  
+  
+  <LetterLabelThrumboPasses>Rare thrumbos</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
+  
+  
+  <LetterLabelTraderCaravanArrival>Trader from {0}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>A trade caravan from {0} is approaching.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction!</LetterTraderCaravanArrival>
+  
+  
+  <LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Repair work type goes and fixes it.</LetterBuildingBrokenDown>
   
 </LanguageData>

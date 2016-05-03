@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <ClockTime>Tid</ClockTime>
@@ -10,5 +10,5 @@
 	<DateReadout>{0} {1}, {2}</DateReadout>
   <SeasonFullDate>{0} {1}</SeasonFullDate>
   <WholeYear>Hela år</WholeYear>
-        
+  
 </LanguageData>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Goto.reportString>Går.</Goto.reportString>
+    
+    <GotoSafeTemperature.reportString>Seeking safe temperature.</GotoSafeTemperature.reportString>
+    
+    <GotoWander.reportString>Wandering.</GotoWander.reportString>
+    
+    <Wait.reportString>Står.</Wait.reportString>
+    
+    <WaitDowned.reportString>Downed.</WaitDowned.reportString>
+    
+    <WaitSafeTemperature.reportString>Waiting in safe temperature.</WaitSafeTemperature.reportString>
+    
+    <WaitWander.reportString>Wandering.</WaitWander.reportString>
+    
+    <WaitCombat.reportString>Watching for targets.</WaitCombat.reportString>
+    
+    <AttackStatic.reportString>Attackerar TargetA.</AttackStatic.reportString>
+    
+    <AttackMelee.reportString>Anfaller TargetA på närstrid.</AttackMelee.reportString>
+    
+    
+    <Equip.reportString>Utrustar sig med TargetA.</Equip.reportString>
+    
+    <TakeInventory.reportString>Taking TargetA.</TakeInventory.reportString>
+    
+    <Wear.reportString>Har på sig TargetA.</Wear.reportString>
+    
+    <RemoveApparel.reportString>Removing TargetA.</RemoveApparel.reportString>
+    
+    <Strip.reportString>Klär av TargetA.</Strip.reportString>
+    
+    <Open.reportString>Opening TargetA.</Open.reportString>
+    
+    <RearmTrap.reportString>Rearming TargetA.</RearmTrap.reportString>
+    
+    <Refuel.reportString>Refueling TargetA.</Refuel.reportString>
+    
+    <ManTurret.reportString>Operating turret.</ManTurret.reportString>
+    
+    <EnterCryptosleepCasket.reportString>Entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
+    
+    <UseNeurotrainer.reportString>Using neurotrainer.</UseNeurotrainer.reportString>
+    
+    <UseArtifact.reportString>Activating artifact.</UseArtifact.reportString>
+    
+    <TriggerFirefoamPopper.reportString>Triggering firefoam popper.</TriggerFirefoamPopper.reportString>
+    
+    <ClearSnow.reportString>Clearing snow .</ClearSnow.reportString>
+    
+    <Vomit.reportString>Vomiting.</Vomit.reportString>
+    
+    <Flick.reportString>Flicking switch.</Flick.reportString>
+    
+    <TradeWithPawn.reportString>Trading with TargetA.</TradeWithPawn.reportString>
+    
+    <FleeAndCower.reportString>Fleeing.</FleeAndCower.reportString>
+    
+    <Ignite.reportString>Tänder eld på TargetA.</Ignite.reportString>
+    
+    <BeatFire.reportString>Slår ut eld.</BeatFire.reportString>
+    
+    <ExtinguishSelf.reportString>Släcker sig själv.</ExtinguishSelf.reportString>
+    
+    <Ingest.reportString>Consuming TargetA.</Ingest.reportString>
+    
+    <LayDown.reportString>Lying down.</LayDown.reportString>
+    
+    <Lovin.reportString>Lovin'.</Lovin.reportString>
+    
+</LanguageData>

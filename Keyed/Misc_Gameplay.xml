@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  
+  <WorkLeft>Jobb kvar</WorkLeft>
+  <Contents>Innehåll</Contents>
+  <ContainedResources>Innehållande resurser</ContainedResources>
+  <ForPrisonerUse>För användning av fångar</ForPrisonerUse>
+  <ForColonistUse>För användning av kolonister</ForColonistUse>
+  <MedicalBed>Medical</MedicalBed>
+  <Owner>Ägare</Owner>
+  <Owners>Owners</Owners>
+  <AssignedColonist>Assigned colonist</AssignedColonist>
+  <Nobody>Ingen</Nobody>
+  <Unowned>Oägd</Unowned>
+  <DeadTime>Död {0}</DeadTime>
+  <WalkSpeed>gånghastighet {0}</WalkSpeed>
+  <DyingLower>dör</DyingLower>
+  <FilthOnFeet>Smuts på fötter:</FilthOnFeet>
+  <NotEnoughStoredLower>inte nog förvarat</NotEnoughStoredLower>
+  <NothingLower>ingenting</NothingLower>
+  <Adapted>Adapted</Adapted>
+  <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
+  <UntreatedLower>untreated</UntreatedLower>
+  <DevelopedImmunityLower>developed immunity</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>Requires treatment to heal</InjuryRequiresTreatment>
+  <NextTreatmentIn>Next treatment in {0}</NextTreatmentIn>
+  <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
+  <Immunity>Immunity</Immunity>
+  <Race>Race</Race>
+  <Description>Description</Description>
+  <Equipment>Utrustning</Equipment>
+  <Apparel>Kläder</Apparel>
+  <Inventory>Förråd</Inventory>
+  <ThingInfo>Information</ThingInfo>
+  <DropThing>Släpp</DropThing>
+  <Rename>Rename</Rename>
+  <RenameColonist>Rename colonist</RenameColonist>
+  <UnknownLower>unknown</UnknownLower>
+  <On>On</On>
+  <Off>Off</Off>
+  <PowerSwitch_Power>Power</PowerSwitch_Power>
+  <JoyTolerances>Joy tolerances</JoyTolerances>
+  <MentalStateLetterLabel>Mental state</MentalStateLetterLabel>
+  <MilkFullness>Milk fullness</MilkFullness>
+  <WoolGrowth>Wool growth</WoolGrowth>
+  <EggProgress>Egg progress</EggProgress>
+  <Fertilized>Fertilized</Fertilized>
+  <ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
+  <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+  <EggDamagedEmbryo>damaged embryo</EggDamagedEmbryo>
+  <CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
+  <HiveReproducesIn>Reproduces in</HiveReproducesIn>
+  <BrokenDown>Broken down</BrokenDown>
+  <BondBrackets>(bond)</BondBrackets>
+  <Fuel>Fuel</Fuel>
+  
+  
+  <Headshot>Headshot</Headshot>
+  <TreatQuality>treat quality {0}</TreatQuality>
+  <PoorResult>poor result</PoorResult>
+  <GoodResult>good result</GoodResult>
+  <TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
+  <HarvestFailed>Harvest\nfailed</HarvestFailed>
+  <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
+  <TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
+  <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
+  <TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
+
+
+  
+  <Home>Home</Home>
+  <NoRoof>No roof</NoRoof>
+  <SnowClear>Snow clear</SnowClear>
+  <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
+  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
+  <NoAreaAllowed>Unrestricted</NoAreaAllowed>
+  <NewArea>New area</NewArea>
+  <NewAreaAnimal>New animal area</NewAreaAnimal>
+  <InvertArea>Invert</InvertArea>
+  
+  
+  <CannotOrderNonControlled>Cannot order non-controlled units.</CannotOrderNonControlled>
+  <IsIncapableOfViolence>{0} is incapable of violence.</IsIncapableOfViolence>
+  <IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
+  <IsNotDrafted>{0} is not drafted.</IsNotDrafted>
+  
+  
+  <SnowNone>No snow</SnowNone>
+  <SnowDusting>Snow (dusting)</SnowDusting>
+  <SnowThin>Snow (thin)</SnowThin>
+  <SnowMedium>Snow (medium)</SnowMedium>
+  <SnowThick>Snow (thick)</SnowThick>
+  
+  
+  <GunInstalled>Installerad</GunInstalled>
+  <MinimumRange>Minimal räckvidd</MinimumRange>
+  <CanFireIn>Kan skjuta inom</CanFireIn>
+  <ShellLoaded>Shell loaded</ShellLoaded>
+  <ShellNotLoaded>Not loaded</ShellNotLoaded>
+  
+  
+	<ReportHaulingTo>Drar {0} till {1}.</ReportHaulingTo>
+	<ReportHauling>Drar {0}.</ReportHauling>
+  <ReportSleeping>Sleeping.</ReportSleeping>
+  <ReportResting>Resting.</ReportResting>
+  <WatchingSunrise>Watching the sunrise</WatchingSunrise>
+  <CloudWatching>Cloudwatching</CloudWatching>
+  <WatchingSunset>Watching the sunset</WatchingSunset>
+  <Stargazing>Stargazing</Stargazing>
+  <WatchingEclipse>Watching the eclipse</WatchingEclipse>
+  <DeliveringFood>Delivering food to {0}.</DeliveringFood>
+  <UsingVerb>Using {0} on {1}.</UsingVerb>
+  <AreaLower>area</AreaLower>
+  <ReportCowering>Cowering.</ReportCowering>
+  
+	
+  <WeaponMissRadius>Vapens missradius</WeaponMissRadius>
+	<ShootReportShooterAbility>Shooter</ShootReportShooterAbility>
+	<ShootReportWeapon>Vapen</ShootReportWeapon>
+	<Darkness>Mörker</Darkness>
+	<TargetProne>Mål ligger ner</TargetProne>
+	<TargetSize>Målstorlek</TargetSize>
+	<Weather>Väder</Weather>
+	<ShootingCover>Skydd</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{0} stoppar {1}</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>inget skydd</NoCoverLower>
+	
+  
+  <RecipeMake>Make {0}</RecipeMake>
+  <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
+  
+  
+  <ThoughtExpiresIn>Går ut om: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Börjar gå ut om: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Har gått ut om: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThresholdHard>Hard mental break threshold</MentalBreakThresholdHard>
+  <MentalBreakThresholdSoft>Soft mental break threshold</MentalBreakThresholdSoft>
+
+  
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <Faction>Anhang</Faction>
+  <Equipped>Utrustat</Equipped>
+  <EquippedNothing>Ingenting</EquippedNothing>
+  <Incapacitated>Trasig</Incapacitated>
+  <InRestraints>I handbojor (nedsaktad)</InRestraints>
+  <Carrying>Bär på</Carrying>
+
+  
+  <SelectNextInSquareTip>Välj nästa sak i samma kvadrat\n\nGenvägsknapp: {0}\n\nDu kan också göra detta genom att långsammt klicka på samma kvadrat igen.</SelectNextInSquareTip>
+  <DefInfoTip>Se information om detta objekt.</DefInfoTip>
+  
+  
+  <HostilityReponseTip>Change how to react to nearby enemies when the colonist is not drafted.</HostilityReponseTip>
+  <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
+  
+	
+	<OfLower>av</OfLower>
+
+	
+	<PowerNotConnected>Ingen anslutning till ström.</PowerNotConnected>
+  <PowerConnectedRateStored>Connected rate/stored: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerNeeded>Behöver ström</PowerNeeded>
+  <PowerOutput>Strömproduktion</PowerOutput>
+  <PowerBatteryStored>Lagrat</PowerBatteryStored>
+  <PowerBatteryEfficiency>Effektivitet</PowerBatteryEfficiency>
+
+  
+  <TargetTemperature>Target temperature</TargetTemperature>
+  <PowerConsumptionMode>Current power use</PowerConsumptionMode>
+  <PowerConsumptionHigh>High</PowerConsumptionHigh>
+  <PowerConsumptionLow>Low</PowerConsumptionLow>
+  
+  
+  <Indoors>Indoors</Indoors>
+  <IndoorsUnroofed>Unroofed</IndoorsUnroofed>
+  <Outdoors>Outdoors</Outdoors>
+  
+  
+	<RotStateFresh>Färsk</RotStateFresh>
+	<RotStateRotting>Ruttnar</RotStateRotting>
+	<RotStateDessicated>Ruttet</RotStateDessicated>
+	
+  
+  <ShotBy>Skjuten av {0}</ShotBy>
+  <CannotHit>Kan inte träffa mål.</CannotHit>
+
+  
+  <StoragePriorityUnstored>Tom</StoragePriorityUnstored>
+  <StoragePriorityLow>Låg</StoragePriorityLow>
+  <StoragePriorityNormal>Normal</StoragePriorityNormal>
+  <StoragePriorityPreferred>Föredraget</StoragePriorityPreferred>
+  <StoragePriorityImportant>Viktig</StoragePriorityImportant>
+  <StoragePriorityCritical>Kritisk</StoragePriorityCritical>
+
+  
+  <CurrentlyFrozen>Frozen (won't spoil)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Refrigerated (Spoils in {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Not refrigerated (Spoils in {0})</NotRefrigerated>
+  <OverADecade>over a decade</OverADecade>
+  <LessThanADay>less than a day</LessThanADay>
+  
+  
+  <Ingredients>Ingredienser</Ingredients>
+
+  
+  <PercentGrowth>{0}% tillväxt</PercentGrowth>
+  <GrowthRate>Growth rate</GrowthRate>
+  <FullyGrownIn>Fullt tillväxt om {0} av tillväxt.</FullyGrownIn>
+  <PlantNeedsLightLevel>Needs light level</PlantNeedsLightLevel>
+  <PlantResting>Resting</PlantResting>
+  <OutOfIdealTemperatureRange>Out of ideal temperature range (growing at {0}% of normal speed)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Out of ideal temperature range (not growing)</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>Redo för skörd.</ReadyToHarvest>
+  <Mature>Mogen.</Mature>
+  <SeedLabel>{0} seed</SeedLabel>
+  <OutdoorGrowingPeriod>Growing period: {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Never</NoGrowingPeriod>
+  <GrowYearRound>Year-round</GrowYearRound>
+  <GrowSeasonHereNow>Growing season here now.</GrowSeasonHereNow>
+  <CannotGrowTooCold>Cannot grow - cold season.</CannotGrowTooCold>
+
+  
+  <Zone>Zon</Zone>
+  <GrowingZone>Växtzon</GrowingZone>
+  <Stockpile>Förråd</Stockpile>
+  <DumpingStockpile>Dumpingsplats</DumpingStockpile>
+  <Priority>Prioritet</Priority>
+  <ClearAll>Clear all</ClearAll>
+  <AllowAll>Allow all</AllowAll>
+
+  
+	<HitPoints>{0} hit points</HitPoints>
+	<AnyQuality>any quality</AnyQuality>
+	<OnlyQuality>{0} only</OnlyQuality>
+
+	
+  <Undiscovered>Oupptäckt</Undiscovered>
+  
+  
+  <ZoneVisibilityToggleButton>Växla visibilitet av zoner.</ZoneVisibilityToggleButton>
+  <ShowBeautyToggleButton>Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
+  <AutoHomeAreaToggleButton>Toggle automatically expanding the home area around new constructions.</AutoHomeAreaToggleButton>
+  <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
+  
+  
+  <Fire>Brand</Fire>
+  <FireOn>Brand på {0}</FireOn>
+  <Burning>Brinner</Burning>
+  <FireSizeLower>brandstorlek {0}</FireSizeLower>
+ 
+  
+  <MapConditionsTip>Speciella förhållanden som påverkar området just nu.</MapConditionsTip>
+
+  
+  <NoStuffsToBuildWith>You have no usable materials from which to build this.</NoStuffsToBuildWith>
+
+  
+  <MustPlaceUnroofed>Kan inte placeras under ett tak.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>Måste placeras med huvud fastsatt till skepps strukturella balk.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Måste placeras bredvid något som behöver en tratt.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Måste placeras på ång gejser.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>Both the hot and cold sides of the cooler must be exposed.</MustPlaceCoolerWithFreeSpaces>
+	<MustPlaceVentWithFreeSpaces>Both the sides must be exposed for air to pass through.</MustPlaceVentWithFreeSpaces>
+	<MustPlaceAdjacentStandable>Must be placed with standable space on all sides.</MustPlaceAdjacentStandable>
+	
+	
+  <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+
+  
+  <CasketContains>Contains</CasketContains>
+  <CasketUnknownContents>Unknown</CasketUnknownContents>
+  <CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
+
+  
+  <ShipReportCannotLaunch>Kan inte starta.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Redo för start. </ShipReportCanLaunch>
+  <ShipReportMissingPart>Saknar kritisk komponent</ShipReportMissingPart>
+  <ShipReportNoFullPods>Inga fulla cryptosömnkapslar</ShipReportNoFullPods>
+
+  
+  <UseNeurotrainer>Use neurotrainer to learn {0}</UseNeurotrainer>
+  <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
+  
+  
+  <UseArtifact>Activate</UseArtifact>
+  
+  
+  <TriggerFirefoamPopper>Trigger firefoam popper</TriggerFirefoamPopper>
+  
+  
+  <Installed>Installed</Installed>
+  <NotInstalled>Not installed</NotInstalled>
+
+  
+  <Title>Title</Title>
+  <Untitled>Untitled</Untitled>
+  
+  
+  <UnfinishedItem>Unfinished {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
+
+  
+  <Quality>Quality</Quality>
+  <QualityDescription>An item's quality is how well-made it is.</QualityDescription>
+  <QualityIs>Quality: {0}</QualityIs>
+    
+  
+  <Mood_MentalState>mental state</Mood_MentalState>
+  <Mood_AboutToBreak>about to break</Mood_AboutToBreak>
+  <Mood_OnEdge>on edge</Mood_OnEdge>
+  <Mood_Stressed>stressed</Mood_Stressed>
+  <Mood_Neutral>neutral</Mood_Neutral>
+	<Mood_Content>content</Mood_Content>
+  <Mood_Happy>happy</Mood_Happy>
+  
+  
+  <GameOverEveryoneDead>Alla är döda eller borda. Denna historia är över.\n\nKanske någon annan kan ha behov av ruinerna du lämnar efter dig.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Du har lyckats starta skeppet! Dessa kolonister klarade sig:\n\n{0}\nDessa kolonister lämnades kvar:\n\n{1}\nDitt AI kommer nu försöka vägleda skeppet till ett säkert ställe. Det kanske släpper av dig på en bättre planet i det här solsystemet. Eller så kanske det undergår en resa som kan ta flera århundranden till en annan stjärna. Det kanske till och med bestämmer sig för att gömma sig under is på en asteroid i ett par tusen år, i väntan på en bättre epok.\n\nDet får du reda på när du vaknar.</GameOverShipLaunched>
+  <GameOverKeepPlaying>Fortsätt spela</GameOverKeepPlaying>
+  <GameOverMainMenu>Huvudmeny</GameOverMainMenu>
+  
+  
+  <LifespanExpiry>Expires in:</LifespanExpiry>
+  
+  
+  <TrapArmed>Armed</TrapArmed>
+  <TrapNotArmed>Not armed</TrapNotArmed>
+  <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
+  
+  
+  <InactiveFacility>inactive</InactiveFacility>
+  
+  
+  <DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
+
+</LanguageData>

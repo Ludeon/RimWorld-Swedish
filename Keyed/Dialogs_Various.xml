@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 
@@ -7,11 +7,11 @@
   <GoBack>Återvänd</GoBack>
   <OK>OK</OK>
   
-  <!-- Recovered from errors caused by mods -->
+  
   <RecoveredFromErrorsDialogTitle>Åtherhämtning från fel i inkompatibla eller korrupta moddar</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>Det verkar som några av de aktiva moddarna orsakade fel.\n\nDe kan ha varit inkompatibla med varandra, skapade för olika versioner av RimWorld, eller korrupta.\n\nAlla moddar har blivit tillfälligt deaktiverade och kan aktiveras igen via menyn.</RecoveredFromErrorsText>
   
-  <!-- Errors during loading -->
+  
   <ErrorWhileLoadingAssetsTitle>Fel när tillgångar laddades (Error while loading assets)</ErrorWhileLoadingAssetsTitle>
   <ErrorWhileLoadingAssets>Ett fel uppstod när tillgångar laddades. Se felloggen för mer information...</ErrorWhileLoadingAssets>
   <ErrorWhileLoadingAssets_ModsInfo>Just nu använder spelet aktiva moddar - det finns en viss risk att dessa kan orsakar problem, eller kanske inte.</ErrorWhileLoadingAssets_ModsInfo>
@@ -20,7 +20,7 @@
   <ErrorWhileLoadingMapTitle>Fel när kartan laddades (Error while loading a map)</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>Ett fel uppstod när kartan laddades. Se felloggen för mer information...</ErrorWhileLoadingMap>
   
-  <!-- Long events -->
+  
   <InitializingInterface>Initierar gränssnitt</InitializingInterface>
   <UnloadingUnusedAssets>Tar bort oanvända tillgångar</UnloadingUnusedAssets>
   <LoadingAllActiveMods>Laddar alla aktiva moddar</LoadingAllActiveMods>
@@ -32,7 +32,7 @@
   <InitializingMap>Initierar karta</InitializingMap>
   <SpawningAllThings>Reproducerar alla objekt</SpawningAllThings>
   
-  <!-- Save/load -->
+  
   <SaveGameButton>Spara</SaveGameButton>
   <OverwriteButton>Skriv över</OverwriteButton>
   <LoadGameButton>Ladda</LoadGameButton>
@@ -49,32 +49,32 @@
   <SaveIsUnknownFormat>Sparfilen är i ett okänt format och kommer med största sannolikhet att inte fungera korrekt.</SaveIsUnknownFormat>
   <ProblemSavingFile>Ett fel uppstod när filen {0} sparades:\n\n{1}</ProblemSavingFile>
   
-  <!-- Colony naming-->
+  
   <NameColonyMessage>Det verkar som du kommer vara tvungen att stanna här ett tag. {0} föreslår att vi ger kolonin ett namn.\n\nVad ska vi döpa den till?</NameColonyMessage>
   <ColonyGainsName>Kolonin är numera känd som {0}.</ColonyGainsName>
   <ColonyNameIsInvalid>Det namnet är ogiltigt.</ColonyNameIsInvalid>
 
-  <!-- Renaming -->
+  
   <NameIsInvalid>Ange ett giltigt namn.</NameIsInvalid>
   <NameIsInUse>Nmanet används redan.</NameIsInUse>
   <ZoneGainsName>Zonen kallas numera {0}.</ZoneGainsName>
   
-  <!-- Pawn naming -->
+  
   <PawnGainsName>Kolonisatörens smeknamn är numera {0}.</PawnGainsName>
 
-  <!-- Save game incompatible warning -->
+  
   <VersionMismatch>Versionerna passar inte (Version mismatch)</VersionMismatch>
   <SaveGameIncompatibleWarningText>Kartan sparades med version {0} av spelet.\nDen nuvarande versionen är {1}\n\nGenom att ladda denna sparfil kan du orsaka buggar och kritiska fel som krachar spelet.</SaveGameIncompatibleWarningText>
   <WorldFileVersionMismatch>Världens fil genererades i version {0} av spelet.\n Just nu använder du version {1}\n\nGenom att ladda denna värld kan du orsaka buggar och kritiska fel som krachar spelet. Du bör generera en ny värld istället.</WorldFileVersionMismatch>
   <ModsMismatchWarningTitle>Moddar matchar inte varandra (Mods mismatch)</ModsMismatchWarningTitle>
   <ModsMismatchWarningText>Kartan sparades med en annan kombination av aktiva moddar vars sammanställning skiljer sig från den nuvarande kombinationen av aktiva moddar. Det finns en risk att detta orsakar problem, beroende på vad moddarna gör.\n\nKartan sparades med (i denna ordning):\n\n{0}\n\nDu använder för närvarande:\n\n{1}</ModsMismatchWarningText>
 
-  <!-- Resolution change dialog -->
+  
   <ConfirmResolutionChange>Du ändrade dina bildskärmsinställningar. Fungerar de?\n\nÅterställer om {0}...</ConfirmResolutionChange>
   <ResolutionKeep>Behåll</ResolutionKeep>
   <ResolutionRevert>Återställ</ResolutionRevert>
 
-  <!-- Research -->
+  
   <Research>Forskning</Research>
   <Researched>Forskat</Researched>
   <Unresearched>Oforskat</Unresearched>
@@ -86,7 +86,7 @@
   <RequiredResearchBench>Typ av forskningsbänk som krävs</RequiredResearchBench>
   <RequiredResearchBenchFacilities>Faciliteter som forskningsbänken kräver</RequiredResearchBenchFacilities>
   
-  <!-- Advanced game start options -->
+  
   <MapTemperatureDangerWarning>VARNING: Du kommer att landa i en frusen omgivning. Det kan bli svårt eller nästan omöjligt att överleva. Om du inte är ute efter en extrem utmaning bör du välja en ny plats eller årstid.</MapTemperatureDangerWarning>
   <MapSizePerformanceWarning>VARNING: Prestandaden kan sjunka på större kartstorlektar. Ludeonicrous är otestad och kommer säkerligen inte fungera optimalt.</MapSizePerformanceWarning>
   <MapSize>Kartstorlek</MapSize>
@@ -100,7 +100,7 @@
   <PermadeathMode>Permadeath-läge</PermadeathMode>
   <PermadeathModeInfo>I Permadeath-läge har du bara en sparfil och kan endast spara när du avslutar spelet. Du kan inte ladda om för att rätta till misstag. När kolonin är död, är det slut.\n\nDetta är det rätta sättet att spela RimWorld, där varje dramatisk händelse - vare sig det är tragik eller komik - får utöva sin fulla effekt.</PermadeathModeInfo>
 
-  <!-- Bill config -->
+  
   <Suspended>Avstängd</Suspended>
   <NotSuspended>Inte avstängd</NotSuspended>
   <SuspendedAllCaps>AVSTÄNGD</SuspendedAllCaps>
@@ -129,7 +129,7 @@
   <BillStoreMode_BestStockpile>Ta till bästa förråd</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Ta till närmaste förråd</BillStoreMode_NearestStockpileAnyPriority>
   
-  <!-- Info card -->
+  
   <Damage>Skada</Damage>
   <Accuracy>Träffsäkerhet</Accuracy>
   <BurstShotCount>Antal salvor</BurstShotCount>
@@ -166,7 +166,7 @@
   <TimeRecordsCategory>Tid</TimeRecordsCategory>
   <MiscRecordsCategory>Övrigt</MiscRecordsCategory>
 
-  <!-- Trade -->
+  
   <DragToTrade>Dra antal\nför handel</DragToTrade>
   <BuyPriceDesc>Summan du betalar för att köpa detta.</BuyPriceDesc>
   <SellPriceDesc>Summan du får för att sälja detta.</SellPriceDesc>
@@ -185,14 +185,14 @@
   <ConfirmTraderShortFunds>Handelsmannen har inte tillräckligt med silver för att täcka sina kostnader. Fortsätt ändå?</ConfirmTraderShortFunds>
   <SortBy>Sortera efter</SortBy>
   
-  <!-- Comms -->
+  
   <SocialSkillIs>Sociala färdigheter: {0}</SocialSkillIs>
   
-  <!--Research-->
+  
   <ResearchFinished>Förskningsfärdigheter: {0}</ResearchFinished>
   <ResearchScreen>Forskningsskärm</ResearchScreen>
   
-  <!--HistoryUpload-->
+  
   <HistoryUploadMessage>Vill du ladda upp data angående ditt spel till RimWorlds servrar för att hjälpa utvecklarna att balansera spelet? Om du accepterar kommer din data att laddas upp var {0} dag (och under vissa andra sällsynta fall som t.ex. när spelet är slut). Sekretessinställningar kan ställas in senare under Instälnningar.</HistoryUploadMessage>
   <HistoryUploadMessagePlayerName>Även om historiken skickas anonymnt, kan du lägga till ditt namn.</HistoryUploadMessagePlayerName>
   <HistoryUploadYes>Tillåt uppladdning av speldata</HistoryUploadYes>
@@ -200,7 +200,7 @@
   <HistoryUploadYesOnce>Ladda endast upp denna gång</HistoryUploadYesOnce>
   <HistoryUploadNoOnce>Ladda inte upp denna gång, fråga mig igen</HistoryUploadNoOnce>
 	
-  <!-- Outfit management -->
+  
   <Outfit>Utstyrsel</Outfit>
   <SelectOutfit>Välj utstyrsel...</SelectOutfit>
   <NewOutfit>Ny utstyrsel</NewOutfit>

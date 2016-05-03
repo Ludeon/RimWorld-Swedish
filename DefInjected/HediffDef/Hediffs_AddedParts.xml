@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
@@ -13,4 +14,27 @@
   <PowerClaw.label>Power-Claw</PowerClaw.label>
   <ScytherBlade.label>Klinga</ScytherBlade.label>
 
+=======
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <PegLeg.label>peg leg</PegLeg.label>
+    
+    <Denture.label>denture</Denture.label>
+    
+    <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>
+    
+    <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>
+    
+    <BionicEye.label>bionic eye</BionicEye.label>
+    
+    <BionicArm.label>bionic arm</BionicArm.label>
+    
+    <BionicLeg.label>bionic leg</BionicLeg.label>
+    
+    <PowerClaw.label>power claw</PowerClaw.label>
+    
+    <ScytherBlade.label>scyther blade</ScytherBlade.label>
+    
+>>>>>>> 6327fdd6b6f00d43ff9fb0864de6c006927c2e10
 </LanguageData>

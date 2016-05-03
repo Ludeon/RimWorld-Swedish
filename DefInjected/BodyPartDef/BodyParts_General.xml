@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Head.label>Huvud</Head.label>
+    
+    <Skull.label>Kranium</Skull.label>
+    
+    <Brain.label>Hjärna</Brain.label>
+    
+    <LeftEye.label>Vänster Öga</LeftEye.label>
+    
+    <RightEye.label>Höger Öga</RightEye.label>
+    
+    <LeftEar.label>Vänster Öra</LeftEar.label>
+    
+    <RightEar.label>Höger Öra</RightEar.label>
+    
+    <Nose.label>Näsa</Nose.label>
+    
+    <Jaw.label>Käke</Jaw.label>
+    
+    <Neck.label>Nacke</Neck.label>
+    
+    <Rib.label>Revben</Rib.label>
+    
+    <Spine.label>Ryggrad</Spine.label>
+    
+    <LeftLeg.label>Vänster Ben</LeftLeg.label>
+    
+    <LeftFoot.label>Vänster Fot</LeftFoot.label>
+    
+    <RightLeg.label>Höger Ben</RightLeg.label>
+    
+    <RightFoot.label>Höger Fot</RightFoot.label>
+    
+</LanguageData>
