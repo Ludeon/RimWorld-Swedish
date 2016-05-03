@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
   <DesignatorCancel>Arbryt</DesignatorCancel>
@@ -13,8 +13,8 @@
   <DesignatorUninstall>Demontera</DesignatorUninstall>
   <DesignatorUninstallDesc>Demontera objektet så att det kan flyttas, säljas, eller monteras någon annanstans.</DesignatorUninstallDesc>
 
-  <DesignatorHarvestFood>Skörda</DesignatorHarvestFood>
-  <DesignatorHarvestFoodDesc>Markera växter som ska skördas för att användas i livsmedel eller andra produkter.</DesignatorHarvestFoodDesc>
+  <DesignatorHarvest>Harvest</DesignatorHarvest>
+  <DesignatorHarvestDesc>Marks plants to be harvested for their food or other products.</DesignatorHarvestDesc>
 
   <DesignatorHarvestWood>Avverka träd</DesignatorHarvestWood>
   <DesignatorHarvestWoodDesc>Markera träd som ska avverkas för sitt trä.</DesignatorHarvestWoodDesc>
@@ -90,7 +90,7 @@
   <DesignatorTameDesc>Tämj ett vilt djur.</DesignatorTameDesc>
 
 
-  <!-- Failure messages -->
+  
   <UnchosenStuff>Unchosen material</UnchosenStuff>
   <TooCloseToMapEdge>För nära kartans kant.</TooCloseToMapEdge>
   <OutOfBounds>Utanför gräns.</OutOfBounds>
@@ -108,12 +108,12 @@
   <TerrainMustBeRemovable>Terrängen måste kunnas ta bort.</TerrainMustBeRemovable>
   
   
-  <!-- Mouse attachments -->
+  
   <ExpandOrCreateZone>Expandera {0} eller\nSkapa ny {1}</ExpandOrCreateZone>
   <CreateNewZone>Skapa ny {0}</CreateNewZone>
   
   
-  <!-- Desc helpers -->
+  
   <TransmitsPower>Överför ström</TransmitsPower>
 
 

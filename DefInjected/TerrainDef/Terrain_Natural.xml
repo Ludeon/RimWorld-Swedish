@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <Sand.label>Sand</Sand.label>
-
-  <Soil.label>Jord</Soil.label>
- 
-  <SoilRich.label>Bördig jord</SoilRich.label>
-
-  <Gravel.label>Grus</Gravel.label>
- 
-  <RoughStone.label>Grov sten</RoughStone.label>
-
+    
+    <Sand.label>Sand</Sand.label>
+    
+    <Soil.label>Jord</Soil.label>
+    
+    <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
+    
+    <SoilRich.label>Bördig jord</SoilRich.label>
+    
+    <Mud.label>mud</Mud.label>
+    
+    <Marsh.label>marsh</Marsh.label>
+    
+    <Gravel.label>Grus</Gravel.label>
+    
+    <MossyTerrain.label>lichen-covered dirt</MossyTerrain.label>
+    
+    <Ice.label>Ice</Ice.label>
+    
 </LanguageData>

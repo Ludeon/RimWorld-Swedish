@@ -1,66 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <!-- Start-active concepts -->
-
-  <Forbidding.label>Förbjud</Forbidding.label>
-  <Forbidding.helpTexts.0>Kolonisatörer kommer inte att interagera med föremål som är markerade FÖRBJUDEN.\n\nFörbjudna föremål är markerade med ett litet rött X. Markera föremålet och använd menyn längst ner för att OFÖRBJUDA det.
-  
-  </Forbidding.helpTexts.0>
-
-  <Stockpiles.label>Förråd</Stockpiles.label>
-  <Stockpiles.helpTexts.0>Dina kolonisatörer behöver ett område där de kan förvara alla föremål. Markera ett område med FÖRRÅD för att lagra föremål.n\n\Zonen kan du hitta under ARKITEKT -> ZONER i skärmens nederkant.</Stockpiles.helpTexts.0>
-
-  <GrowingFood.label>Odlingsmark</GrowingFood.label>
-  <GrowingFood.helpTexts.0>För att odla livsmedel, markera ett område med ODLINGSMARK. Zonen kan du hitta under ARKITEKT -> ZONER.\n\nOdlingsmark kan endast placeras på fertil jord. </GrowingFood.helpTexts.0>
-
-  <!-- Timed concepts -->
-
-  <EquippingWeapons.label>Beväpna dina kolonisatörer</EquippingWeapons.label>
-  <EquippingWeapons.helpTexts.0>Dina kolonisatörer hade med sig en del vapen. Beväpna dem!\n\nMarkera varje kolonist och höger-klicka på det vapen du vill använda.</EquippingWeapons.helpTexts.0>
-
-  <CameraZoom.label>Lär dig att zooma</CameraZoom.label>
-  <CameraZoom.helpTexts.0>Du kan zooma in och ut med mushjulet eller med T- och G-tangenterna.</CameraZoom.helpTexts.0>
-
-  <WorkTab.label>Lär dig att priotitera</WorkTab.label>
-  <WorkTab.helpTexts.0>Du kan ställa in varje kolonisatörs arbetsschema och prioriteringar under menyn ARBETE längst ner till vänster.\n\nDe kommer alltid att utföra det högst prioriterade arbetet de kan hitta.\n\nOm ingen har blivit tilldelad en viss arbetstyp, eller om alla är upptagna med högre prioriterade uppgifter, så riskerar den lägre prioriterade uppgiften alrig bli gjord.</WorkTab.helpTexts.0>
-
-  <TimeControls.label>Lär dig kontrollera tiden</TimeControls.label>
-  <TimeControls.helpTexts.0>Du kan höja och sänka hastigheten, eller stoppa tiden, med hastighetskontrollen längst ner till höger.</TimeControls.helpTexts.0>
-
-  <InfoCard.label>Lär dig hur man öppnar infoskärmen</InfoCard.label>
-  <InfoCard.helpTexts.0>Infoskärmen visar dig detaljerade uppgifter om alla föremål, personer, och byggnader.\n\nMarkera en person eller ett föremål och öppna deras inforskärm med i-knappen i inspektionspanelen.</InfoCard.helpTexts.0>
-
-  <SpacePause.label>Lär dig att pausa med mellanslag</SpacePause.label>
-  <SpacePause.helpTexts.0>Tryck på MELLANSLAG för att pausa spelet. Tryck på MELLANSLAG igen för att fortsätta.\n\nDu kan fortfarande ge order när spelet är pausat.\n\nKom ihåg - om mycket händer på en gång, tryck på MELLANSLAG.</SpacePause.helpTexts.0>
-
-  <StorageTab.label>Lär dig lagerhantering</StorageTab.label>
-  <StorageTab.helpTexts.0>Du kan konfigurera dina förråd och förrådsbyggnader. Markera förrådet och klicka FÖRVARING-knappen som finns ovanför inspektionspanelen längst ner till vänster.</StorageTab.helpTexts.0>
-
-  <MedicalOperations.label>Lär dig hantera kirugi</MedicalOperations.label>
-  <MedicalOperations.helpTexts.0>För att tilldela ett kirurgisk ingrepp, så som skörda organ eller fästa en protes, öppna kolonisatörens HÄLSA-flik. Växla sen till KIRUGI-fliken. Där kan du sen lägga till en kirurgisk order.</MedicalOperations.helpTexts.0>
-
-  <HomeArea.label>Lär dig om Hemområdet</HomeArea.label>
-  <HomeArea.helpTexts.0>HEMOMRÅDET är det område som dina kolonisatörer anser är hemma.Inom detta område kommer de att städa och släcka bränder.\n\nDu kan lägga till och ändra ditt HEMOMRÅDE i menyn ZONER under ARKITEKT-menyn.</HomeArea.helpTexts.0>
-
-  <RightClickClearLetter.label>Lär dig hur man raderar meddelanden genom att högerklicka</RightClickClearLetter.label>
-  <RightClickClearLetter.helpTexts.0>Du kan snabbt radera nyinkommna meddelanden genom att höger-klicka på dem, även om du inte har läst dem innan.</RightClickClearLetter.helpTexts.0>
-
-  <!-- Opportunity needer concepts -->
-
-  <BuildOrbitalTradeBeacon.label>Lär dig hur man bygger handelsfyrar</BuildOrbitalTradeBeacon.label>
-  <BuildOrbitalTradeBeacon.helpTexts.0>För att kunna skicka och ta emot föremål och silver till och från handelsskepp i omloppsbana behöver du en HANDELSFYR placerad i närheten av ditt förråd.</BuildOrbitalTradeBeacon.helpTexts.0>
-
-  <SetGrowingZonePlant.label>Lär dig hur man ställer in odlingsmark</SetGrowingZonePlant.label>
-  <SetGrowingZonePlant.helpTexts.0>Du kan bestämma vad som ska växa på din odlingsmark. Du kan även plantera träd!\n\nFörst, välj en odlingsmark.</SetGrowingZonePlant.helpTexts.0>
-
-  <PrisonerTab.label>Lär dig om fängelse-fliken</PrisonerTab.label>
-  <PrisonerTab.helpTexts.0>Öppna en fånges Fånge-flik för att bestämma hur de ska bahndlas.n\n\Du måste ha en kolonist av arbetstypen Övervakare för att ta hand om dina fångar.</PrisonerTab.helpTexts.0>
-
-  <StoragePriority.label>Lär dig om Föråds-prioretering</StoragePriority.label>
-  <StoragePriority.helpTexts.0>Du kan ställa in PRIORITETEN mellan dina olika förråd. Kolonisterna fyller det förråd med högst prioritet först.</StoragePriority.helpTexts.0>
-
-  <HistoryTab.label>Lär dig om Historik-fliken</HistoryTab.label>
-  <HistoryTab.helpTexts.0>Du kan få en historisk översikt av din koloni under Historik-fliken i menyn längst ner.</HistoryTab.helpTexts.0>
-
+    
+    <Forbidding.label>Förbjud</Forbidding.label>
+    <Forbidding.helpTexts.0>Kolonisatörer kommer inte att interagera med föremål som är markerade FÖRBJUDEN.\n\nFörbjudna föremål är markerade med ett litet rött X. Markera föremålet och använd menyn längst ner för att OFÖRBJUDA det.</Forbidding.helpTexts.0>
+    
+    <Stockpiles.label>Förråd</Stockpiles.label>
+    <Stockpiles.helpTexts.0>Dina kolonisatörer behöver ett område där de kan förvara alla föremål. Markera ett område med FÖRRÅD för att lagra föremål.n\n\Zonen kan du hitta under ARKITEKT -> ZONER i skärmens nederkant.</Stockpiles.helpTexts.0>
+    
+    <GrowingFood.label>Odlingsmark</GrowingFood.label>
+    <GrowingFood.helpTexts.0>För att odla livsmedel, markera ett område med ODLINGSMARK. Zonen kan du hitta under ARKITEKT -> ZONER.\n\nOdlingsmark kan endast placeras på fertil jord. </GrowingFood.helpTexts.0>
+    
+    <EquippingWeapons.label>Beväpna dina kolonisatörer</EquippingWeapons.label>
+    <EquippingWeapons.helpTexts.0>Dina kolonisatörer hade med sig en del vapen. Beväpna dem!\n\nMarkera varje kolonist och höger-klicka på det vapen du vill använda.</EquippingWeapons.helpTexts.0>
+    
+    <CameraZoom.label>Lär dig att zooma</CameraZoom.label>
+    <CameraZoom.helpTexts.0>Du kan zooma in och ut med mushjulet eller med T- och G-tangenterna.</CameraZoom.helpTexts.0>
+    
+    <WorkTab.label>Lär dig att priotitera</WorkTab.label>
+    <WorkTab.helpTexts.0>Du kan ställa in varje kolonisatörs arbetsschema och prioriteringar under menyn ARBETE längst ner till vänster.\n\nDe kommer alltid att utföra det högst prioriterade arbetet de kan hitta.\n\nOm ingen har blivit tilldelad en viss arbetstyp, eller om alla är upptagna med högre prioriterade uppgifter, så riskerar den lägre prioriterade uppgiften alrig bli gjord.</WorkTab.helpTexts.0>
+    
+    <TimeControls.label>Lär dig kontrollera tiden</TimeControls.label>
+    <TimeControls.helpTexts.0>Du kan höja och sänka hastigheten, eller stoppa tiden, med hastighetskontrollen längst ner till höger.</TimeControls.helpTexts.0>
+    
+    <InfoCard.label>Lär dig hur man öppnar infoskärmen</InfoCard.label>
+    <InfoCard.helpTexts.0>Infoskärmen visar dig detaljerade uppgifter om alla föremål, personer, och byggnader.\n\nMarkera en person eller ett föremål och öppna deras inforskärm med i-knappen i inspektionspanelen.</InfoCard.helpTexts.0>
+    
+    <SpacePause.label>Lär dig att pausa med mellanslag</SpacePause.label>
+    <SpacePause.helpTexts.0>Tryck på MELLANSLAG för att pausa spelet. Tryck på MELLANSLAG igen för att fortsätta.\n\nDu kan fortfarande ge order när spelet är pausat.\n\nKom ihåg - om mycket händer på en gång, tryck på MELLANSLAG.</SpacePause.helpTexts.0>
+    
+    <StorageTab.label>Lär dig lagerhantering</StorageTab.label>
+    <StorageTab.helpTexts.0>Du kan konfigurera dina förråd och förrådsbyggnader. Markera förrådet och klicka FÖRVARING-knappen som finns ovanför inspektionspanelen längst ner till vänster.</StorageTab.helpTexts.0>
+    
+    <MedicalOperations.label>Lär dig hantera kirugi</MedicalOperations.label>
+    <MedicalOperations.helpTexts.0>För att tilldela ett kirurgisk ingrepp, så som skörda organ eller fästa en protes, öppna kolonisatörens HÄLSA-flik. Växla sen till KIRUGI-fliken. Där kan du sen lägga till en kirurgisk order.</MedicalOperations.helpTexts.0>
+    
+    <HomeArea.label>Lär dig om Hemområdet</HomeArea.label>
+    <HomeArea.helpTexts.0>HEMOMRÅDET är det område som dina kolonisatörer anser är hemma.Inom detta område kommer de att städa och släcka bränder.\n\nDu kan lägga till och ändra ditt HEMOMRÅDE i menyn ZONER under ARKITEKT-menyn.</HomeArea.helpTexts.0>
+    
+    <RightClickClearLetter.label>Lär dig hur man raderar meddelanden genom att högerklicka</RightClickClearLetter.label>
+    <RightClickClearLetter.helpTexts.0>Du kan snabbt radera nyinkommna meddelanden genom att höger-klicka på dem, även om du inte har läst dem innan.</RightClickClearLetter.helpTexts.0>
+    
+    <BuildOrbitalTradeBeacon.label>Lär dig hur man bygger handelsfyrar</BuildOrbitalTradeBeacon.label>
+    <BuildOrbitalTradeBeacon.helpTexts.0>För att kunna skicka och ta emot föremål och silver till och från handelsskepp i omloppsbana behöver du en HANDELSFYR placerad i närheten av ditt förråd.</BuildOrbitalTradeBeacon.helpTexts.0>
+    
+    <SetGrowingZonePlant.label>Lär dig hur man ställer in odlingsmark</SetGrowingZonePlant.label>
+    <SetGrowingZonePlant.helpTexts.0>Du kan bestämma vad som ska växa på din odlingsmark. Du kan även plantera träd!\n\nFörst, välj en odlingsmark.</SetGrowingZonePlant.helpTexts.0>
+    
+    <PrisonerTab.label>Lär dig om fängelse-fliken</PrisonerTab.label>
+    <PrisonerTab.helpTexts.0>Öppna en fånges Fånge-flik för att bestämma hur de ska bahndlas.n\n\Du måste ha en kolonist av arbetstypen Övervakare för att ta hand om dina fångar.</PrisonerTab.helpTexts.0>
+    
+    <StoragePriority.label>Lär dig om Föråds-prioretering</StoragePriority.label>
+    <StoragePriority.helpTexts.0>Du kan ställa in PRIORITETEN mellan dina olika förråd. Kolonisterna fyller det förråd med högst prioritet först.</StoragePriority.helpTexts.0>
+    
+    <HistoryTab.label>Lär dig om Historik-fliken</HistoryTab.label>
+    <HistoryTab.helpTexts.0>Du kan få en historisk översikt av din koloni under Historik-fliken i menyn längst ner.</HistoryTab.helpTexts.0>
+    
 </LanguageData>

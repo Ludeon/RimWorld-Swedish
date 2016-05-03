@@ -1,52 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  
   <Audiovisuals>Ljud och grafik</Audiovisuals>
-
   <GameVolume>Spel volym</GameVolume>
-
   <MusicVolume>Musik volym</MusicVolume>
+  <Antialiasing>Anti-aliasing</Antialiasing>
 
-  <GraphicsQuality>Grafik kvailitet</GraphicsQuality>
-  <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
-    <GraphicsQualityGreat>Bättre</GraphicsQualityGreat>
-
+  
   <EdgeScreenScroll>Skrämkant musskrollning</EdgeScreenScroll>
-  
+  <PauseOnLoad>Pause on load</PauseOnLoad>
   <CustomCursor>Speciell muspekare</CustomCursor>
-
+  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
   <ChooseLanguage>Välj språk</ChooseLanguage>
-
   <AdaptiveTutor>Anpassande lärare</AdaptiveTutor>
-
   <ResetAdaptiveTutor>Starta om anpassande lärare</ResetAdaptiveTutor>
-
   <AdaptiveTutorIsReset>Anpassande lärare är nu omstartad. Han kommer nu att att lära dig allt från början.</AdaptiveTutorIsReset>
-
   <RunInBackground>Kör i bakgrunden</RunInBackground>
-
   <DevelopmentMode>Utvecklarläge</DevelopmentMode>
-
-  <LogDeepProfileData>Logga djup profildata</LogDeepProfileData>
-  
+  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+  <LogVerbose>Verbose logging</LogVerbose>
+  <OpenSaveGameDataFolder>Öppna mappen med dina sparade kolonier</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Efternamn du vill see i spelet:</NamesYouWantToSee>
+  <ChangeStoryteller>Choose storyteller</ChangeStoryteller>
+  <AutosaveInterval>Autosave interval</AutosaveInterval>
+  <TemperatureMode>Temperature mode</TemperatureMode>
+  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
+  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
 
+  
   <Resolution>Upplösning</Resolution>
   <Fullscreen>Fullskärm</Fullscreen>
-  <CurrentRes>Nuvarnade {0}</CurrentRes>
-  <ChooseResolution>Välj upplösning</ChooseResolution>
 
-  <OpenSaveGameDataFolder>Öppna mappen med dina sparade kolonier</OpenSaveGameDataFolder>
   
   <Privacy>Privat</Privacy>
-  
   <UserName>Användarnamn</UserName>
-  
   <ChooseHistoryUploadPref>Speldata uppladdning.</ChooseHistoryUploadPref>
-  
-  <CurrentHistoryUploadPref>Nuvarande {0}</CurrentHistoryUploadPref>
-  
   <AboutHistoryUpload>Användarens speldata hjälper utvecklaren att balansera spelet. Om du går med på det, kommer din information att skickas varje {0} speldag (och i vissa fall, vid slutet av ett spel) till Rimworlds server för analys. Uppladdad data består endast av statistik och speldata realterat till spelet - ingen personlig information skickas, förutom användarnanmet, vilket betyder att det är helt anonymt.</AboutHistoryUpload>
-  
   
 </LanguageData>

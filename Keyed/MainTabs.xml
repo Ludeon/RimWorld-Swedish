@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  
+  <ManualPriorities>Manuella prioriteringar</ManualPriorities>
+  <HigherPriority>Högre prioritet</HigherPriority>
+  <LowerPriority>Lägre prioritet</LowerPriority>
+  <RelevantSkills>Relevanta förmågor: {0}\nGenomsnitt av relevanta förmågor: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Tryck för att hoppa till:</ClickToJumpTo>
+  <CannotDoThisWork>{0} kan inte utföra den här sortens arbete.</CannotDoThisWork>
+  <NoneBrackets>(inget)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  
+  
+  <CurrentOutfit>Current outfit</CurrentOutfit>
+  <ManageOutfits>Manage outfits</ManageOutfits>
+  <ClearForcedApparel>Clear forced</ClearForcedApparel>
+  <ApparelForcedLower>forced</ApparelForcedLower>
+  <ForcedApparel>Forced apparel</ForcedApparel>
+  <OutfitEdit>Edit...</OutfitEdit>
+  
+  
+  <Copy>Copy</Copy>
+  <Paste>Paste</Paste>
+  <AllowedArea>Allowed area</AllowedArea>
+  
+  
+  <Master>Master</Master>
+  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
+  
+  
+  <Hostile>Fientlig</Hostile>
+  <HostileTo>Fiende av {0}</HostileTo>
+  <CurrentGoodwill>Aktuell välvilja med detta anhang.</CurrentGoodwill>
+  
+  
+  <Playtime>Play time</Playtime>
+  <Storyteller>Storyteller</Storyteller>
+  <ColonyWealthTotal>Kolonins rikedom</ColonyWealthTotal>
+  <ColonyWealthItems>Kolonins rikedom (saker)</ColonyWealthItems>
+  <ColonyWealthBuildings>Kolonins rikedom (byggnader)</ColonyWealthBuildings>
+  <NumThreatBigs>Major threats</NumThreatBigs>
+  <NumEnemyRaids>Fientlig räd</NumEnemyRaids>
+  <DamageTaken>Skada tagen</DamageTaken>
+  <ColonistsKilled>Kolonister dödade</ColonistsKilled>
+  <ColonistsLaunched>Kolonister uppskickade i rymden</ColonistsLaunched>
+
+  
+  <SelectGraph>Välj graf</SelectGraph>
+  <Last30Days>Senaste 30 dagarna</Last30Days>
+  <Last100Days>Senaste 100 dagarna</Last100Days>
+  <Last300Days>Senaste 300 dagarna</Last300Days>
+  <AllDays>Alla</AllDays>
+  <Day>Dag</Day>
+  <Value>Värde</Value>
+  <External>Extern</External>
+  
+</LanguageData>

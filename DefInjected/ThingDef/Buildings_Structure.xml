@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <DoorPowered.label>Automatisk dörr</DoorPowered.label>
-  <DoorPowered.description>Delar upp rum. Automatisk drift tillåter folk att ta sig genom dörren utan att sakta ner.</DoorPowered.description>
-
-  <DoorWood.label>Trädörr</DoorWood.label>
-  <DoorWood.description>Delar upp rum. Måste öppnas och stängas manuellt, vilket saktar ner folk.</DoorWood.description>
-
-  <WallLog.label>Timmerstocksvägg</WallLog.label>
-  <WallLog.description>En vägg gjord av staplade stockar. Stark och väldigt snabb att bygga, men lättantändlig och leder inte elektricitet.</WallLog.description>
-
-  <WallWood.label>Trävägg</WallWood.label>
-  <WallWood.description>En vägg gjord av träplankor med inbyggd kraftledning. Billig och snabb att bygga, men svag.</WallWood.description>
-
-  <WallMetal.label>Metallvägg</WallMetal.label>
-  <WallMetal.description>En metallvägg med inbyggd kraftledning. Stark, men dyr och långsam att bygga.</WallMetal.description>
-
-  <WallStone.label>Stenvägg</WallStone.label>
-  <WallStone.description>En stenvägg. Den skulle kunna stå i åratal. Brinner inte och leder inte elektricitet.</WallStone.description>
-
+    
+    <Door.label>door</Door.label>
+    <Door.description>Divides rooms. Must be manually opened and closed, which slows people down.</Door.description>
+    
+    <Autodoor.label>autodoor</Autodoor.label>
+    <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
+    
+    <Wall.label>wall</Wall.label>
+    <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
+    
 </LanguageData>

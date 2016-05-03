@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<MakeStoneBlocks.label>Skapa stenblock</MakeStoneBlocks.label>
-	<MakeStoneBlocks.description>Hugger ner en stor stenbit till användbara stenblock.</MakeStoneBlocks.description>
-	<MakeStoneBlocks.jobString>Producerar stenblock.</MakeStoneBlocks.jobString>
-	
-	<!--
-	<MakeWoodPlanks_Hand.label>Skapa träplankor</MakeWoodPlanks_Hand.label>
-	<MakeWoodPlanks_Hand.description>Sågar 10 timmerstockar till 25 träplankor för hand. Ganska långsamt.</MakeWoodPlanks_Hand.description>
-	<MakeWoodPlanks_Hand.jobString>Producerar träplankor.</MakeWoodPlanks_Hand.jobString>
-	
-	<MakeWoodPlanks_Electric.label>Skapa träplankor</MakeWoodPlanks_Electric.label>
-	<MakeWoodPlanks_Electric.description>Sågar 10 timmerstockar till 25 träplankor för hand. Ganska långsamt.</MakeWoodPlanks_Electric.description>
-	<MakeWoodPlanks_Electric.jobString>Producerar träplankor.</MakeWoodPlanks_Electric.jobString>
-	-->
-	
-	<ExtractMetalFromSlag.label>Extrahera metall från slagg.</ExtractMetalFromSlag.label>
-	<ExtractMetalFromSlag.description>Använd värme och starka elektromagneter för att separare användbara metaller från stora bitar slagg.</ExtractMetalFromSlag.description>
-	<ExtractMetalFromSlag.jobString>Extraherar metall från slagg.</ExtractMetalFromSlag.jobString>
-
-	
+    
+    <MakeStoneBlocks.label>Skapa stenblock</MakeStoneBlocks.label>
+    <MakeStoneBlocks.description>Hugger ner en stor stenbit till användbara stenblock.</MakeStoneBlocks.description>
+    <MakeStoneBlocks.jobString>Producerar stenblock.</MakeStoneBlocks.jobString>
+    
+    <ExtractMetalFromSlag.label>Extrahera metall från slagg.</ExtractMetalFromSlag.label>
+    <ExtractMetalFromSlag.description>Använd värme och starka elektromagneter för att separare användbara metaller från stora bitar slagg.</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.jobString>Extraherar metall från slagg.</ExtractMetalFromSlag.jobString>
+    
+    <SmeltWeapon.label>smelt metal from weapon</SmeltWeapon.label>
+    <SmeltWeapon.description>Use heat and strong electromagnets to separate useful metal from weapons.</SmeltWeapon.description>
+    <SmeltWeapon.jobString>Smelting metal from weapon.</SmeltWeapon.jobString>
+    
+    <MakeArtilleryShell.label>make artillery shell</MakeArtilleryShell.label>
+    <MakeArtilleryShell.description>Craft an artillery shell.</MakeArtilleryShell.description>
+    <MakeArtilleryShell.jobString>Making artillery shell.</MakeArtilleryShell.jobString>
+    
+    <MakeComponent.label>make component</MakeComponent.label>
+    <MakeComponent.description>Make a component.</MakeComponent.description>
+    <MakeComponent.jobString>Making component.</MakeComponent.jobString>
+    
 </LanguageData>

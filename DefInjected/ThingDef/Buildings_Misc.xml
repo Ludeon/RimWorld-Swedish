@@ -1,52 +1,43 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
-  <SunLamp.label>Sollampa</SunLamp.label>
-  <SunLamp.description>Belyser ett område starkt nog för att odla grödor.</SunLamp.description>
-
-  <OrbitalTradeBeacon.label>Handelsfyr</OrbitalTradeBeacon.label>
-  <OrbitalTradeBeacon.description>Krävs för handel med handelsskepp i omloppsbana. Du kan bara sälja varor som är nära en handelsfyr och inte under ett tak. Handelskepp kommer släppa varor nära handelsfyren.</OrbitalTradeBeacon.description>
-
-  <CommsConsole.label>Kommunikationspanel</CommsConsole.label>
-  <CommsConsole.description>Används för att kommunicera med handelsskepp. Används även för handel och diplomati med andra fraktioner.</CommsConsole.description>
-  
-    <!-- Passive equipment -->
-	
-  <MultiAnalyzer.label>Multianalysator</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
-  
-  <VitalsMonitor.label>Vitalparametersensor</VitalsMonitor.label>
-  <VitalsMonitor.description>Ökar kvalitén hos behandlingen av patienten. Måste placeras jämte en sjuksäng. En sjuksäng kan kopplas samman med endast en vitalparametersensor.</VitalsMonitor.description>
-
+    
+    <SunLamp.label>Sollampa</SunLamp.label>
+    <SunLamp.description>Belyser ett område starkt nog för att odla grödor.</SunLamp.description>
+    
+    <OrbitalTradeBeacon.label>Handelsfyr</OrbitalTradeBeacon.label>
+    <OrbitalTradeBeacon.description>Krävs för handel med handelsskepp i omloppsbana. Du kan bara sälja varor som är nära en handelsfyr och inte under ett tak. Handelskepp kommer släppa varor nära handelsfyren.</OrbitalTradeBeacon.description>
+    
+    <CommsConsole.label>Kommunikationspanel</CommsConsole.label>
+    <CommsConsole.description>Används för att kommunicera med handelsskepp. Används även för handel och diplomati med andra fraktioner.</CommsConsole.description>
+    
+    <MultiAnalyzer.label>Multianalysator</MultiAnalyzer.label>
+    <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
+    
+    <VitalsMonitor.label>Vitalparametersensor</VitalsMonitor.label>
+    <VitalsMonitor.description>Ökar kvalitén hos behandlingen av patienten. Måste placeras jämte en sjuksäng. En sjuksäng kan kopplas samman med endast en vitalparametersensor.</VitalsMonitor.description>
+    
     <ToolCabinet.label>Verktygsskåp</ToolCabinet.label>
-  <ToolCabinet.description>Ökar arbetshastigheten. Måste placeras jämte en arbetsbänk. En arbetsbänk kan ha endast två verktygsskåp samtidigt.</ToolCabinet.description>
-
-  <FirefoamPopper.label>Brandskumssmällare</FirefoamPopper.label>
-  <FirefoamPopper.description>När denna smällare fattar eld, eller aktiveras manuellt, sprejas ett stort cikulärt område med brandskum.</FirefoamPopper.description>
-  
-    <!-- -->
-  
-  <Grave.label>Grav</Grave.label>
-  <Grave.description>Lägg de döda i gravar för att ge dem en anständig slutlig viloplats. Kolonisatörer kan besöka gravar för meditativ glädje.</Grave.description>
-
+    <ToolCabinet.description>Ökar arbetshastigheten. Måste placeras jämte en arbetsbänk. En arbetsbänk kan ha endast två verktygsskåp samtidigt.</ToolCabinet.description>
+    
+    <FirefoamPopper.label>Brandskumssmällare</FirefoamPopper.label>
+    <FirefoamPopper.description>När denna smällare fattar eld, eller aktiveras manuellt, sprejas ett stort cikulärt område med brandskum.</FirefoamPopper.description>
+    
+    <Grave.label>Grav</Grave.label>
+    <Grave.description>Lägg de döda i gravar för att ge dem en anständig slutlig viloplats. Kolonisatörer kan besöka gravar för meditativ glädje.</Grave.description>
+    
     <Sarcophagus.label>Tumba</Sarcophagus.label>
-  <Sarcophagus.description>Ett detaljerat gravmonument för att hedra den döda.</Sarcophagus.description>
-  
-  <!-- Cryptosleep casket -->
-
-  <CryptosleepCasket.label>Kryptokapsel</CryptosleepCasket.label>
-  <CryptosleepCasket.description>En kryptokapsel med intern energiförsörjning. Skapad för att försätta en person i dvala och skendött tillstånd under en längre tid.</CryptosleepCasket.description>
-  
-  <AncientCryptosleepCasket.label>Gammal Kryptokapsel</AncientCryptosleepCasket.label>
-  <AncientCryptosleepCasket.description>Det verkar som denna kryptokapseln har varit förseglad under väldigt lång tid. Vem vet vad den kan inehålla?</AncientCryptosleepCasket.description>
-
-  <MarriageSpot.label>Bröllopsplats</MarriageSpot.label>
-  <MarriageSpot.description>En plats där bröllopscermonier kan hållas. Åskådare kan se på från båda sidorna.</MarriageSpot.description>
-
-  <PartySpot.label>Festplats</PartySpot.label>
-  <PartySpot.description>Den plats som blir alla festers mittpunkt. Fester använder utrymmet runt om denna plats.</PartySpot.description>
-  
+    <Sarcophagus.description>Ett detaljerat gravmonument för att hedra den döda.</Sarcophagus.description>
+    
+    <CryptosleepCasket.label>Kryptokapsel</CryptosleepCasket.label>
+    <CryptosleepCasket.description>En kryptokapsel med intern energiförsörjning. Skapad för att försätta en person i dvala och skendött tillstånd under en längre tid.</CryptosleepCasket.description>
+    
+    <AncientCryptosleepCasket.label>Gammal Kryptokapsel</AncientCryptosleepCasket.label>
+    <AncientCryptosleepCasket.description>Det verkar som denna kryptokapseln har varit förseglad under väldigt lång tid. Vem vet vad den kan inehålla?</AncientCryptosleepCasket.description>
+    
+    <MarriageSpot.label>Bröllopsplats</MarriageSpot.label>
+    <MarriageSpot.description>En plats där bröllopscermonier kan hållas. Åskådare kan se på från båda sidorna.</MarriageSpot.description>
+    
+    <PartySpot.label>Festplats</PartySpot.label>
+    <PartySpot.description>Den plats som blir alla festers mittpunkt. Fester använder utrymmet runt om denna plats.</PartySpot.description>
+    
 </LanguageData>
-
-
- 
