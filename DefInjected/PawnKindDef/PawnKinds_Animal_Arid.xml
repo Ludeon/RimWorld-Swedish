@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Muffalo.label>Ökenko</Muffalo.label>
-    <Muffalo.lifeStages.0.label>muffalo calf</Muffalo.lifeStages.0.label>
+    <Muffalo.label>muffalo</Muffalo.label>
+    <Muffalo.lifeStages.0.label>muffalo kalv</Muffalo.lifeStages.0.label>
     
     
-    <Iguana.label>iguana</Iguana.label>
+    <Iguana.label>leguan</Iguana.label>
     
-    <Rhinoceros.label>rhinoceros</Rhinoceros.label>
+    <Rhinoceros.label>noshörning</Rhinoceros.label>
     
-    <Dromedary.label>dromedary</Dromedary.label>
-    <Dromedary.lifeStages.0.label>dromedary calf</Dromedary.lifeStages.0.label>
+    <Dromedary.label>dromedar</Dromedary.label>
+    <Dromedary.lifeStages.0.label>dromedar kalv</Dromedary.lifeStages.0.label>
     
-    <Elephant.label>elephant</Elephant.label>
-    <Elephant.lifeStages.0.label>elephant calf</Elephant.lifeStages.0.label>
+    <Elephant.label>elefant</Elephant.label>
+    <Elephant.lifeStages.0.label>elefant kalv</Elephant.lifeStages.0.label>
     
 </LanguageData>
