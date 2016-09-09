@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Consciousness.label>consciousness</Consciousness.label>
-    <Consciousness.labelMechanoids>Data processing</Consciousness.labelMechanoids>
+    <Consciousness.label>medvetande</Consciousness.label>
+    <Consciousness.labelMechanoids>Behandlar data</Consciousness.labelMechanoids>
     
-    <Sight.label>sight</Sight.label>
+    <Sight.label>syn</Sight.label>
     
-    <Hearing.label>hearing</Hearing.label>
+    <Hearing.label>hörsel</Hearing.label>
     
-    <Moving.label>moving</Moving.label>
+    <Moving.label>förflyttning</Moving.label>
     
     <Manipulation.label>manipulation</Manipulation.label>
     
-    <Talking.label>talking</Talking.label>
-    <Talking.labelMechanoids>Communication</Talking.labelMechanoids>
+    <Talking.label>pratar</Talking.label>
+    <Talking.labelMechanoids>kommunikation</Talking.labelMechanoids>
     
-    <Eating.label>eating</Eating.label>
+    <Eating.label>äter</Eating.label>
     
-    <Breathing.label>breathing</Breathing.label>
+    <Breathing.label>andning</Breathing.label>
     
-    <BloodFiltration.label>blood filtration</BloodFiltration.label>
+    <BloodFiltration.label>blodfiltrering</BloodFiltration.label>
     
-    <BloodPumping.label>blood pumping</BloodPumping.label>
+    <BloodPumping.label>blod pump</BloodPumping.label>
     
-    <Metabolism.label>metabolism</Metabolism.label>
+    <Metabolism.label>ämnesomsättning</Metabolism.label>
     
 </LanguageData>
