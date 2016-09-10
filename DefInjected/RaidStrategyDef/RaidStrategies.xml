@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <StageThenAttack.letterLabelEnemy>Raid</StageThenAttack.letterLabelEnemy>
-    <StageThenAttack.arrivalTextEnemy>They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively.</StageThenAttack.arrivalTextEnemy>
-    <StageThenAttack.letterLabelFriendly>Friendlies</StageThenAttack.letterLabelFriendly>
-    <StageThenAttack.arrivalTextFriendly>They will prepare for a while before moving in to help you.</StageThenAttack.arrivalTextFriendly>
+    <StageThenAttack.letterLabelEnemy>Räd</StageThenAttack.letterLabelEnemy>
+    <StageThenAttack.arrivalTextEnemy>Dom kommer förbereda sig sen attackera.\n\nFörbered ett försvar eller attackera dom i förväg.</StageThenAttack.arrivalTextEnemy>
+    <StageThenAttack.letterLabelFriendly>Samma sida</StageThenAttack.letterLabelFriendly>
+    <StageThenAttack.arrivalTextFriendly>Dom behöver förbereda sig innan dom kommer och hjälper dig.</StageThenAttack.arrivalTextFriendly>
     
-    <ImmediateAttack.letterLabelEnemy>Raid</ImmediateAttack.letterLabelEnemy>
-    <ImmediateAttack.arrivalTextEnemy>They are attacking immediately.</ImmediateAttack.arrivalTextEnemy>
-    <ImmediateAttack.letterLabelFriendly>Friendlies</ImmediateAttack.letterLabelFriendly>
-    <ImmediateAttack.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttack.arrivalTextFriendly>
+    <ImmediateAttack.letterLabelEnemy>Räd</ImmediateAttack.letterLabelEnemy>
+    <ImmediateAttack.arrivalTextEnemy>Dom attackerar omedelbart.</ImmediateAttack.arrivalTextEnemy>
+    <ImmediateAttack.letterLabelFriendly>Samma sida</ImmediateAttack.letterLabelFriendly>
+    <ImmediateAttack.arrivalTextFriendly>Dom kommer och hjälper dig omedelbart.</ImmediateAttack.arrivalTextFriendly>
     
-    <ImmediateAttackSappers.letterLabelEnemy>Raid</ImmediateAttackSappers.letterLabelEnemy>
-    <ImmediateAttackSappers.arrivalTextEnemy>It looks like they want to use sappers to tunnel around your defenses.</ImmediateAttackSappers.arrivalTextEnemy>
+    <ImmediateAttackSappers.letterLabelEnemy>Räd</ImmediateAttackSappers.letterLabelEnemy>
+    <ImmediateAttackSappers.arrivalTextEnemy>Det ser ut som dom vill använda ingenjörssoldater för att tunnla runt ditt försvar.</ImmediateAttackSappers.arrivalTextEnemy>
     
-    <Siege.letterLabelEnemy>Siege</Siege.letterLabelEnemy>
-    <Siege.arrivalTextEnemy>It looks like they want to besiege the colony and pound you with artillery from a distance. You can try to wait them out - or go get them.</Siege.arrivalTextEnemy>
-    <Siege.letterLabelFriendly>Friendlies</Siege.letterLabelFriendly>
-    <Siege.arrivalTextFriendly>It looks like they want to use siege tactics to help you.</Siege.arrivalTextFriendly>
+    <Siege.letterLabelEnemy>Belägring</Siege.letterLabelEnemy>
+    <Siege.arrivalTextEnemy>Det ser ut som dom vill belägra din koloni och bombardera dig med artilleri. Du kan försöka vänta ut dom - eller attackera i förväg.</Siege.arrivalTextEnemy>
+    <Siege.letterLabelFriendly>Samma sida</Siege.letterLabelFriendly>
+    <Siege.arrivalTextFriendly>Det ser ut som dom vill använda belägringstaktik för att hjälpa dig.</Siege.arrivalTextFriendly>
     
 </LanguageData>
