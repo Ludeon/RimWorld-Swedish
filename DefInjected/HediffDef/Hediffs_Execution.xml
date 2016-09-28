@@ -1,17 +1,7 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <Euthanasia.label>Avliva</Euthanasia.label>
   <ShutDown.label>Stäng ner</ShutDown.label>
 
-=======
-<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-    
-    <Euthanasia.label>euthanasia</Euthanasia.label>
-    
-    <ShutDown.label>shut down</ShutDown.label>
-    
->>>>>>> 6327fdd6b6f00d43ff9fb0864de6c006927c2e10
 </LanguageData>

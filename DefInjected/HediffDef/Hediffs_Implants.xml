@@ -1,17 +1,7 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!-- Finns inget svenskt namn för "Joywire", men eftersom det verkar vara en form av produkt så får den behålla namnet (Jämför Playstation, PC, och Internet) -->
-  <Joywire.label>Joywire</Joywire.label>
-  <Painstopper.label>Smärtstillare</Painstopper.label>
+	<!-- Finns inget svenskt namn för "Joywire", men eftersom det verkar vara en form av produkt så får den behålla namnet (Jämför Playstation, PC, och Internet) -->
+  	<Joywire.label>Joywire</Joywire.label>
+  	<Painstopper.label>Smärtstillare</Painstopper.label>
 
-=======
-<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-    
-    <Joywire.label>joywire</Joywire.label>
-    
-    <Painstopper.label>painstopper</Painstopper.label>
-    
->>>>>>> 6327fdd6b6f00d43ff9fb0864de6c006927c2e10
 </LanguageData>
