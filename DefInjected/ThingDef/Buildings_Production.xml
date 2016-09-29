@@ -4,29 +4,23 @@
     <CraftingSpot.label>crafting spot</CraftingSpot.label>
     <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
     
-    <NutrientPasteDispenser.label>Näringsmassmaskin</NutrientPasteDispenser.label>
-    <NutrientPasteDispenser.description>Syntetiserar näringsmassa från organiska råvaror.</NutrientPasteDispenser.description>
-    
-    <Hopper.label>Silo</Hopper.label>
-    <Hopper.description>Behållare för resurser som används av t.ex näringsmassmaskiner.</Hopper.description>
+    <TableSculpting.label>sculptor's table</TableSculpting.label>
+    <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
     
     <TableButcher.label>Slaktbord</TableButcher.label>
     <TableButcher.description>Ett tungt bord till för att slakta döda varelser och utvinna råa köttbitar.</TableButcher.description>
     
-    <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
-    <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
-    
     <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
     <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
     
-    <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
-    <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+    <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
+    <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
     
     <FueledSmithy.label>fueled smithy</FueledSmithy.label>
     <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
     
-    <TableSculpting.label>sculptor's table</TableSculpting.label>
-    <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
+    <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
+    <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
     
     <TableMachining.label>Maskinbearbetningsbord</TableMachining.label>
     <TableMachining.description>Ett bord och verktyg för att sätta ihop och plocka isär maskinkomponenter.</TableMachining.description>
@@ -42,6 +36,9 @@
     
     <Brewery.label>brewery</Brewery.label>
     <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
+    
+    <DrugLab.label>drug lab</DrugLab.label>
+    <DrugLab.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.description>
     
     <ElectricSmelter.label>electric smelter</ElectricSmelter.label>
     <ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.description>
@@ -60,5 +57,17 @@
     
     <HydroponicsBasin.label>Hydrokultursbassäng</HydroponicsBasin.label>
     <HydroponicsBasin.description>Till för att odla mat. Hydrokultursbassänger kan snabbt odla ett fåtal plantor.</HydroponicsBasin.description>
+    
+    <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
+    <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+    
+    <DeepDrill.label>deep drill</DeepDrill.label>
+    <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill.description>
+    
+    <NutrientPasteDispenser.label>Näringsmassmaskin</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.description>Syntetiserar näringsmassa från organiska råvaror.</NutrientPasteDispenser.description>
+    
+    <Hopper.label>Silo</Hopper.label>
+    <Hopper.description>Behållare för resurser som används av t.ex näringsmassmaskiner.</Hopper.description>
     
 </LanguageData>

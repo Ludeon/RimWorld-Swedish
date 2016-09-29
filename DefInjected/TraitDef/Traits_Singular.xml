@@ -55,4 +55,13 @@
     <DislikesWomen.degreeDatas.0.label>Ogillar kvinnor</DislikesWomen.degreeDatas.0.label>
     <DislikesWomen.degreeDatas.0.description>NAME ogillar och misstror kvinnor.</DislikesWomen.degreeDatas.0.description>
     
+    <AnnoyingVoice.degreeDatas.0.label>annoying voice</AnnoyingVoice.degreeDatas.0.label>
+    <AnnoyingVoice.degreeDatas.0.description>NAME's voice has a particularly grating, nasal quality to it, and HE tends to talk in barked, garbled phrases. This predisposes others to dislike HIM.</AnnoyingVoice.degreeDatas.0.description>
+    
+    <CreepyBreathing.degreeDatas.0.label>creepy breathing</CreepyBreathing.degreeDatas.0.label>
+    <CreepyBreathing.degreeDatas.0.description>NAME breathes heavily all the time, and sweats constantly. People find it creepy.</CreepyBreathing.degreeDatas.0.description>
+    
+    <Pyromaniac.degreeDatas.0.label>pyromaniac</Pyromaniac.degreeDatas.0.label>
+    <Pyromaniac.degreeDatas.0.description>NAME loves fire. HECAP will occasionaly start fires and will never extinguish them.</Pyromaniac.degreeDatas.0.description>
+    
 </LanguageData>

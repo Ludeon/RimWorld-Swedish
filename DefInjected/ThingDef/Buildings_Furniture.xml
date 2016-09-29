@@ -43,6 +43,9 @@
     <PlantPot.label>Blomkruka</PlantPot.label>
     <PlantPot.description>Plantera en fin blomma och förbättra humöret hos alla i närheten.</PlantPot.description>
     
+    <TorchLamp.label>torch lamp</TorchLamp.label>
+    <TorchLamp.description>A wooden torch for lighting an area. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
+    
     <StandingLamp.label>Golvlampa</StandingLamp.label>
     <StandingLamp.description>Golvlampa som fyller ett område i ljus.</StandingLamp.description>
     
@@ -54,6 +57,9 @@
     
     <StandingLamp_Blue.label>Golvlampa (blå)</StandingLamp_Blue.label>
     <StandingLamp_Blue.description>Golvlampa som fyller ett område i blått ljus.</StandingLamp_Blue.description>
+    
+    <SunLamp.label>Sollampa</SunLamp.label>
+    <SunLamp.description>Belyser ett område starkt nog för att odla grödor.</SunLamp.description>
     
     <EquipmentRack.label>Utrustningshylla</EquipmentRack.label>
     <EquipmentRack.description>Föremål som lagras här kommer inte att förfalla, även om de är utomhus.</EquipmentRack.description>

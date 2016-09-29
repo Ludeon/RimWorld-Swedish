@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Outlander.label>Stad av utlänningar</Outlander.label>
+    <Outlander.description>Ett litet samhälle av överlevande.\n\nDessa människor har bott här i årtionden. De har förlorat mycket av den teknologi som först tog dem hit, och arbetar vanligtvis med enkla mekaniska verktyg och sammansättningar, och försvarar sig själva med avancerade vapen från krut-eran.\n\nDe är varken aggressiva eller svaga, och bryr sig bara om handel, tillit, och överlevnad.</Outlander.description>
+    <Outlander.pawnsPlural>utlänningar</Outlander.pawnsPlural>
+    <Outlander.leaderTitle>Mayor</Outlander.leaderTitle>
+    
+    <Tribe.label>tribe</Tribe.label>
+    <Tribe.description>These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nSome tribes are more aggressive than others; many are open to trade and alliances, even with strange peoples like yourselves. Close cooperation or recruitment will be very difficult because of the vast sociotechnological and linguistic gap between the tribals and yourselves.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.</Tribe.description>
+    <Tribe.pawnsPlural>tribespeople</Tribe.pawnsPlural>
+    <Tribe.leaderTitle>Chief</Tribe.leaderTitle>
+    
+    <Pirate.label>Pirat band</Pirate.label>
+    <Pirate.description>En grupp pirater.\n\nPirater varken odlar, bygger eller förhandlar. De får det mesta av sin rikedom från plundringståg och från vad de rånar de mer produktiva grupperna i området på.\n\nDeras teknologiska nivå är för det mesta beroende på vilka de har lyckats stjäla från nyligen. För det mesta bär de på krutvapen, men de med tur kan ha mer avancerade energivapen, medan några gillar att knivhugga sina fiender på nära håll.</Pirate.description>
+    <Pirate.pawnsPlural>pirater</Pirate.pawnsPlural>
+    <Pirate.leaderTitle>Boss</Pirate.leaderTitle>
+    
+</LanguageData>

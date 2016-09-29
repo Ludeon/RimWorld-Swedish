@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <StageThenAttack.letterLabelEnemy>Räd</StageThenAttack.letterLabelEnemy>
-    <StageThenAttack.arrivalTextEnemy>Dom kommer förbereda sig sen attackera.\n\nFörbered ett försvar eller attackera dom i förväg.</StageThenAttack.arrivalTextEnemy>
-    <StageThenAttack.letterLabelFriendly>Samma sida</StageThenAttack.letterLabelFriendly>
-    <StageThenAttack.arrivalTextFriendly>Dom behöver förbereda sig innan dom kommer och hjälper dig.</StageThenAttack.arrivalTextFriendly>
-    
     <ImmediateAttack.letterLabelEnemy>Räd</ImmediateAttack.letterLabelEnemy>
     <ImmediateAttack.arrivalTextEnemy>Dom attackerar omedelbart.</ImmediateAttack.arrivalTextEnemy>
     <ImmediateAttack.letterLabelFriendly>Samma sida</ImmediateAttack.letterLabelFriendly>
     <ImmediateAttack.arrivalTextFriendly>Dom kommer och hjälper dig omedelbart.</ImmediateAttack.arrivalTextFriendly>
+    
+    <ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
+    <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivalTextEnemy>
+    <ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
+    <ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
+    
+    <StageThenAttack.letterLabelEnemy>Räd</StageThenAttack.letterLabelEnemy>
+    <StageThenAttack.arrivalTextEnemy>Dom kommer förbereda sig sen attackera.\n\nFörbered ett försvar eller attackera dom i förväg.</StageThenAttack.arrivalTextEnemy>
+    <StageThenAttack.letterLabelFriendly>Samma sida</StageThenAttack.letterLabelFriendly>
+    <StageThenAttack.arrivalTextFriendly>Dom behöver förbereda sig innan dom kommer och hjälper dig.</StageThenAttack.arrivalTextFriendly>
     
     <ImmediateAttackSappers.letterLabelEnemy>Räd</ImmediateAttackSappers.letterLabelEnemy>
     <ImmediateAttackSappers.arrivalTextEnemy>Det ser ut som dom vill använda ingenjörssoldater för att tunnla runt ditt försvar.</ImmediateAttackSappers.arrivalTextEnemy>

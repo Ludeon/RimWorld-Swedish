@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Warg.label>warg</Warg.label>
+    <Warg.description>Heavily-muscled wolf-like creatures. Scientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. They will only eat meat or corpses.</Warg.description>
+    
+    <Warg_Leather.label>warg fur</Warg_Leather.label>
+    <Warg_Leather.stuffProps.stuffAdjective>warg fur</Warg_Leather.stuffProps.stuffAdjective>
+    
+    <Warg_Meat.label>warg meat</Warg_Meat.label>
+    
+    <Warg_Corpse.label>warg corpse</Warg_Corpse.label>
+    <Warg_Corpse.description>Dead body of a warg.</Warg_Corpse.description>
+    
+    <WolfTimber.label>timber wolf</WolfTimber.label>
+    <WolfTimber.description>A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have a complex social life and are fiercely intelligent.</WolfTimber.description>
+    
+    <WolfArctic.label>arctic wolf</WolfArctic.label>
+    <WolfArctic.description>An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent.</WolfArctic.description>
+    
+    <FoxFennec.label>fennec fox</FoxFennec.label>
+    <FoxFennec.description>A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears.</FoxFennec.description>
+    
+    <FoxRed.label>red Fox</FoxRed.label>
+    <FoxRed.description>A small solitary canine evolved for hunting small prey in temperate climates.</FoxRed.description>
+    
+    <FoxArctic.label>arctic fox</FoxArctic.label>
+    <FoxArctic.description>A small predator adapted for the far north. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey.</FoxArctic.description>
+    
+</LanguageData>

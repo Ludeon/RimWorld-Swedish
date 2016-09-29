@@ -45,8 +45,6 @@
     
     <RightBlade.label>Vänster Klinga</RightBlade.label>
     
-    <CoveredByNaturalArmor.label>Täckt av naturlig pansar</CoveredByNaturalArmor.label>
-    
     <TuskAttackTool.label>Betar</TuskAttackTool.label>
     
     <HornAttackTool.label>Horn</HornAttackTool.label>
@@ -54,5 +52,7 @@
     <HeadClaw.label>Klor</HeadClaw.label>
     
     <TurtleBeakAttackTool.label>Näbb</TurtleBeakAttackTool.label>
+    
+    <Beak.label>Näbb</Beak.label>
     
 </LanguageData>

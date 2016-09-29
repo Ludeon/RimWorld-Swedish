@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Firefoam.label>firefoam</Firefoam.label>
+    <Firefoam.description>Allows the construction of firefoam poppers; fire-safety buildings which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
+    
+    <MoisturePump.label>moisture pump</MoisturePump.label>
+    <MoisturePump.description>Allows the construction of moisture pumps, which turn wet ground dry.</MoisturePump.description>
+    
+    <GeothermalPower.label>geothermal power</GeothermalPower.label>
+    <GeothermalPower.description>Allows you to build geothermal power plants on top of steam geysers, for uninterrupted power.</GeothermalPower.description>
+    
+    <HospitalBed.label>Sjuksäng</HospitalBed.label>
+    <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
+    
+    <MedicineProduction.label>medicine production</MedicineProduction.label>
+    <MedicineProduction.description>Produce medicine from herbal medicine, neutroamine, and cloth.</MedicineProduction.description>
+    
+    <MultiAnalyzer.label>Multianalysator</MultiAnalyzer.label>
+    <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
+    
+</LanguageData>

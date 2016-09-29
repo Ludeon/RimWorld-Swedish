@@ -16,11 +16,13 @@
   <EnemyRaidWalkIn>En grupp av {0} från {1} anledde i närheten.</EnemyRaidWalkIn>
   <EnemyRaidEdgeDrop>En grupp av {0} från {1} har anlett i fall-kapslar i närheten.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>En grupp av {0} från {1} har fallit rätt på dig!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
 
   
   <FriendlyRaidWalkIn>En grupp vänliga {0} från {1} har anlett i närheten.</FriendlyRaidWalkIn>
   <FriendlyRaidEdgeDrop>En grupp vänliga {0} från {1} har anlett i fall-kapslar i närheten.</FriendlyRaidEdgeDrop>
   <FriendlyRaidCenterDrop>En grupp vänliga {0} från {1} har fallit rätt på dig!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>Escape pod</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>Du har upptäckt en flyktkapsel som krashade hårt i närheten.\n\nOm någon överlevde impakten så är de svårt skadade.</RefugeePodCrash>
@@ -41,9 +43,11 @@
   <LetterLabelSingleVisitorArrives>Visitor</LetterLabelSingleVisitorArrives>
   <SingleVisitorArrives>En {0} från {1} är på besök i kolonin.\n\nHECAP heter {2}.</SingleVisitorArrives>
   <SingleVisitorArrivesTraderInfo>\n\nHECAP seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\nHECAP is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Visitors</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>En grupp från {0} är på besök i kolonin.</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nOne of the visitors - {0}, is the leader of the faction.</GroupVisitorsArriveLeaderInfo>
   <VisitorsLeaving>Besökare från {0} lämnar.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Wanderer joins</LetterLabelWandererJoin>
@@ -106,5 +110,10 @@
   
   <LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
   <LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Repair work type goes and fixes it.</LetterBuildingBrokenDown>
+  
+  
+  <RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release HIM back to you in exchange for {2} silver.</RansomDemand>
+  <RansomDemand_Accept>Accept</RansomDemand_Accept>
+  <RansomDemand_Reject>Reject</RansomDemand_Reject>
   
 </LanguageData>

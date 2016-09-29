@@ -7,18 +7,23 @@
 
   <Disconnect>Lägg på</Disconnect>
 
+  
   <OfferGift>Erbjud gåva</OfferGift>
   <NeedSilverLaunchable>behöver {0} silver nära din handelssändare</NeedSilverLaunchable>
   <NotEnoughSilver>Inte tillräckligt med silver.</NotEnoughSilver>
   <SilverForGoodwill>{0} silver för {1} välvilja</SilverForGoodwill>
   <SilverGiftSent>Representanten från {0} tackar dig.\n\n(Välvilja ökar med {1}).</SilverGiftSent>
 
+  
+  <RequestTrader>Request a trade caravan (cost: {0} silver)</RequestTrader>
+  <ChooseTraderKind>{0} asks what kind of trade caravan you want.</ChooseTraderKind>
+  <TraderSent>{0} agrees to send you a trade caravan. It will arrive within a few days.</TraderSent>
 
+  
   <RequestMilitaryAid>Begär omdelbart militärt understöd({0} välvilja)</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} kommer inte hjälpa dig i strider med fraktioner som inte är deras fiender. Detta inkluderar även dem som i nuläget utgör ett hot mot dig, {1}. Vill du fortfarnde begära hjälp?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Ja, ring dem ändå.</CallConfirm>
   <CallCancel>Nej, glöm det.</CallCancel>
   <MilitaryAidSent>Representanten från {0} har bifallit din begäran och skickar militärunderstöd omgående.</MilitaryAidSent>
-  
-  
+
 </LanguageData>

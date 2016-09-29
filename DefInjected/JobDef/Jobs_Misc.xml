@@ -21,6 +21,8 @@
     
     <AttackMelee.reportString>Anfaller TargetA på närstrid.</AttackMelee.reportString>
     
+    <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+    
     
     <Equip.reportString>Utrustar sig med TargetA.</Equip.reportString>
     
@@ -37,6 +39,10 @@
     <RearmTrap.reportString>Rearming TargetA.</RearmTrap.reportString>
     
     <Refuel.reportString>Refueling TargetA.</Refuel.reportString>
+    
+    <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
+    
+    <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
     
     <ManTurret.reportString>Operating turret.</ManTurret.reportString>
     

@@ -10,10 +10,10 @@
   
   <EdgeScreenScroll>Skrämkant musskrollning</EdgeScreenScroll>
   <PauseOnLoad>Pause on load</PauseOnLoad>
+  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
   <CustomCursor>Speciell muspekare</CustomCursor>
   <KeyboardConfig>Keyboard configuration</KeyboardConfig>
   <ChooseLanguage>Välj språk</ChooseLanguage>
-  <AdaptiveTutor>Anpassande lärare</AdaptiveTutor>
   <ResetAdaptiveTutor>Starta om anpassande lärare</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Anpassande lärare är nu omstartad. Han kommer nu att att lära dig allt från början.</AdaptiveTutorIsReset>
   <RunInBackground>Kör i bakgrunden</RunInBackground>
@@ -26,6 +26,7 @@
   <AutosaveInterval>Autosave interval</AutosaveInterval>
   <TemperatureMode>Temperature mode</TemperatureMode>
   <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
+  <PlantWindSway>Plant wind sway</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
 
   

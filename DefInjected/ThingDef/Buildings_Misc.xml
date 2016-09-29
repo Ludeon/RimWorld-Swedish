@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <SunLamp.label>Sollampa</SunLamp.label>
-    <SunLamp.description>Belyser ett område starkt nog för att odla grödor.</SunLamp.description>
-    
     <OrbitalTradeBeacon.label>Handelsfyr</OrbitalTradeBeacon.label>
     <OrbitalTradeBeacon.description>Krävs för handel med handelsskepp i omloppsbana. Du kan bara sälja varor som är nära en handelsfyr och inte under ett tak. Handelskepp kommer släppa varor nära handelsfyren.</OrbitalTradeBeacon.description>
     
     <CommsConsole.label>Kommunikationspanel</CommsConsole.label>
     <CommsConsole.description>Används för att kommunicera med handelsskepp. Används även för handel och diplomati med andra fraktioner.</CommsConsole.description>
+    
+    <FirefoamPopper.label>Brandskumssmällare</FirefoamPopper.label>
+    <FirefoamPopper.description>När denna smällare fattar eld, eller aktiveras manuellt, sprejas ett stort cikulärt område med brandskum.</FirefoamPopper.description>
+    
+    <MoisturePump.label>moisture pump</MoisturePump.label>
+    <MoisturePump.description>Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.</MoisturePump.description>
+    
+    <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+    <GroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</GroundPenetratingScanner.description>
     
     <MultiAnalyzer.label>Multianalysator</MultiAnalyzer.label>
     <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
@@ -18,9 +24,6 @@
     
     <ToolCabinet.label>Verktygsskåp</ToolCabinet.label>
     <ToolCabinet.description>Ökar arbetshastigheten. Måste placeras jämte en arbetsbänk. En arbetsbänk kan ha endast två verktygsskåp samtidigt.</ToolCabinet.description>
-    
-    <FirefoamPopper.label>Brandskumssmällare</FirefoamPopper.label>
-    <FirefoamPopper.description>När denna smällare fattar eld, eller aktiveras manuellt, sprejas ett stort cikulärt område med brandskum.</FirefoamPopper.description>
     
     <Grave.label>Grav</Grave.label>
     <Grave.description>Lägg de döda i gravar för att ge dem en anständig slutlig viloplats. Kolonisatörer kan besöka gravar för meditativ glädje.</Grave.description>

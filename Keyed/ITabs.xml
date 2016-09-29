@@ -60,7 +60,7 @@
   <WholeBody>Whole body</WholeBody>
   <DataProcessing>Data processing</DataProcessing>
   <Communication>Communication</Communication>
-  <AffectsLower>affects</AffectsLower>
+  <Affects>Affects</Affects>
   <BleedingRate>Bleeding rate</BleedingRate>
   <HealthOverview>Overview</HealthOverview>
   <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
@@ -68,10 +68,13 @@
   <MedicalOperations>Medical operations</MedicalOperations>
   <Amputate>Amputate</Amputate>
   <Harvest>Harvest</Harvest>
+  <RemoveOrgan>Remove</RemoveOrgan>
   <MemoryLower>memory</MemoryLower>
   <SocialInteractionsLower>social interactions</SocialInteractionsLower>
   <HungerRate>Hunger rate</HungerRate>
   <Tiredness>Tiredness</Tiredness>
+  <PainFactor>Pain</PainFactor>
+  <PreventsInfection>Prevents infection</PreventsInfection>
   
 
   
@@ -107,5 +110,13 @@
   <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
   <IAmDead>I'm dead</IAmDead>
   <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+  
+  
+  <AverageArmor>Average armor</AverageArmor>
+  <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
+  <ArmorBlunt>Blunt</ArmorBlunt>
+  <ArmorSharp>Sharp</ArmorSharp>
+  <ArmorHeat>Heat</ArmorHeat>
+  <ArmorElectric>Electric</ArmorElectric>
 
 </LanguageData>
