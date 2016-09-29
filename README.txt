@@ -6,13 +6,15 @@ http://ludeon.com/forums/index.php?topic=2933.0
 Official forum thread:
 http://ludeon.com/forums/index.php?topic=4632.0
 
-Progress document here (if you want access to it, contact me):
-https://docs.google.com/spreadsheets/d/1Wb3xoe-Fi9ungcC7Jy-yuaOeuQuzURtQfpVFx4LU6xc/edit?usp=sharing
+##Translators:
 
-=======
-Translators:
--zackiz
--TreSxNine
--Ricande
--Zacka
--Christoffer Rydström
+### Currently active translators
+- Rocksummit
+- Joel Ahlgren
+- Christoffer RydstrÃ¶m
+
+### Initial translations, ~2014
+- zackiz
+- TreSxNine
+- Ricande
+- Zacka

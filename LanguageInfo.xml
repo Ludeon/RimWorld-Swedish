@@ -4,25 +4,45 @@
   <friendlyNameEnglish>Swedish</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <credits>
-    <li Class="CreditRecord_Role">
+  	<li Class="CreditRecord_Role">
+  	  <!-- Contributed 2016-09-07 to ... -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>zackiz</creditee>
+      <creditee>Rocksummit</creditee>
     </li>
     <li Class="CreditRecord_Role">
+      <!-- Contributed 2016-09-29 to ... -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>TreSxNine</creditee>
+      <creditee>Joel Ahlgren</creditee>
+    </li>
+
+    <!-- "Archived translators" -->
+    
+    <li Class="CreditRecord_Role">
+      <!-- Contributed 2016-04-24 to 2016-05-03 -->
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Christoffer Rydström [2016]</creditee>
+    </li>
+    
+    <!-- The original group, contributed during July 2014. -->
+    <li Class="CreditRecord_Role">
+      <!-- Contributed 2014-07-07 to 2014-07-08 -->
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>zackiz [2014]</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <!-- Contributed 2014-07-08 to 2014-07-11. -->
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>TreSxNine [2014]</creditee>
     </li>
 	<li Class="CreditRecord_Role">
+	  <!-- Contributed unknown to unknown (no commits found). -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Ricande</creditee>
+      <creditee>Ricande [2014]</creditee>
     </li>
 	<li Class="CreditRecord_Role">
+	  <!-- Contributed 2014-07-10 to 2014-07-31. -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Zacka</creditee>
-    </li>
-	<li Class="CreditRecord_Role">
-      <roleKey>Credit_Translator</roleKey>
-      <creditee>Christoffer Rydström</creditee>
+      <creditee>Zacka [2014]</creditee>
     </li>
   </credits>
 </LanguageInfo>
