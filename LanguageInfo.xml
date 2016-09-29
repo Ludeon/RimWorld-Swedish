@@ -20,29 +20,29 @@
     <li Class="CreditRecord_Role">
       <!-- Contributed 2016-04-24 to 2016-05-03 -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Christoffer Rydström [2016]</creditee>
+      <creditee>Christoffer Rydström</creditee>
     </li>
     
     <!-- The original group, contributed during July 2014. -->
     <li Class="CreditRecord_Role">
       <!-- Contributed 2014-07-07 to 2014-07-08 -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>zackiz [2014]</creditee>
+      <creditee>zackiz</creditee>
     </li>
     <li Class="CreditRecord_Role">
       <!-- Contributed 2014-07-08 to 2014-07-11. -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>TreSxNine [2014]</creditee>
+      <creditee>TreSxNine</creditee>
     </li>
 	<li Class="CreditRecord_Role">
 	  <!-- Contributed unknown to unknown (no commits found). -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Ricande [2014]</creditee>
+      <creditee>Ricande</creditee>
     </li>
 	<li Class="CreditRecord_Role">
 	  <!-- Contributed 2014-07-10 to 2014-07-31. -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Zacka [2014]</creditee>
+      <creditee>Zacka</creditee>
     </li>
   </credits>
 </LanguageInfo>
