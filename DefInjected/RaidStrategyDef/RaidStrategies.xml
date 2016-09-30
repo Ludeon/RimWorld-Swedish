@@ -3,17 +3,17 @@
     
     <ImmediateAttack.letterLabelEnemy>Räd</ImmediateAttack.letterLabelEnemy>
     <ImmediateAttack.arrivalTextEnemy>Dom attackerar omedelbart.</ImmediateAttack.arrivalTextEnemy>
-    <ImmediateAttack.letterLabelFriendly>Samma sida</ImmediateAttack.letterLabelFriendly>
+    <ImmediateAttack.letterLabelFriendly>Vänner</ImmediateAttack.letterLabelFriendly>
     <ImmediateAttack.arrivalTextFriendly>Dom kommer och hjälper dig omedelbart.</ImmediateAttack.arrivalTextFriendly>
     
-    <ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
-    <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivalTextEnemy>
-    <ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
-    <ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
+    <ImmediateAttackSmart.letterLabelEnemy>Räd</ImmediateAttackSmart.letterLabelEnemy>
+    <ImmediateAttackSmart.arrivalTextEnemy>Dom attackerar omedelbart.\n\nSe upp - de verkar vara ovanligt taktiskt kluriga.</ImmediateAttackSmart.arrivalTextEnemy>
+    <ImmediateAttackSmart.letterLabelFriendly>Vänner</ImmediateAttackSmart.letterLabelFriendly>
+    <ImmediateAttackSmart.arrivalTextFriendly>Dom kommer och hjälper dig omedelbart.</ImmediateAttackSmart.arrivalTextFriendly>
     
     <StageThenAttack.letterLabelEnemy>Räd</StageThenAttack.letterLabelEnemy>
-    <StageThenAttack.arrivalTextEnemy>Dom kommer förbereda sig sen attackera.\n\nFörbered ett försvar eller attackera dom i förväg.</StageThenAttack.arrivalTextEnemy>
-    <StageThenAttack.letterLabelFriendly>Samma sida</StageThenAttack.letterLabelFriendly>
+    <StageThenAttack.arrivalTextEnemy>Dom kommer förbereda sig innan de attackerar.\n\nFörbered ett försvar eller attackera dom i förväg.</StageThenAttack.arrivalTextEnemy>
+    <StageThenAttack.letterLabelFriendly>Vänner</StageThenAttack.letterLabelFriendly>
     <StageThenAttack.arrivalTextFriendly>Dom behöver förbereda sig innan dom kommer och hjälper dig.</StageThenAttack.arrivalTextFriendly>
     
     <ImmediateAttackSappers.letterLabelEnemy>Räd</ImmediateAttackSappers.letterLabelEnemy>
@@ -21,7 +21,7 @@
     
     <Siege.letterLabelEnemy>Belägring</Siege.letterLabelEnemy>
     <Siege.arrivalTextEnemy>Det ser ut som dom vill belägra din koloni och bombardera dig med artilleri. Du kan försöka vänta ut dom - eller attackera i förväg.</Siege.arrivalTextEnemy>
-    <Siege.letterLabelFriendly>Samma sida</Siege.letterLabelFriendly>
+    <Siege.letterLabelFriendly>Vänner</Siege.letterLabelFriendly>
     <Siege.arrivalTextFriendly>Det ser ut som dom vill använda belägringstaktik för att hjälpa dig.</Siege.arrivalTextFriendly>
     
 </LanguageData>
