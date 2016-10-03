@@ -5,6 +5,10 @@
     
     <HaulToContainer.reportString>Drar TargetA.</HaulToContainer.reportString>
     
+    <Steal.reportString>stealing TargetA.</Steal.reportString>
+    
+    <Kidnap.reportString>Kidnappar TargetA.</Kidnap.reportString>
+    
     <Rescue.reportString>Räddar TargetA.</Rescue.reportString>
     
     <CarryToCryptosleepCasket.reportString>Carrying TargetA to cryptosleep casket.</CarryToCryptosleepCasket.reportString>
@@ -21,8 +25,6 @@
     
     <TakeToBedToOperate.reportString>Taking TargetA to bed.</TakeToBedToOperate.reportString>
     
-    <Kidnap.reportString>Kidnappar TargetA.</Kidnap.reportString>
-    
     <Slaughter.reportString>Slaughtering TargetA.</Slaughter.reportString>
     
     <Milk.reportString>Milking TargetA.</Milk.reportString>
@@ -33,15 +35,31 @@
     
     <Train.reportString>Training TargetA.</Train.reportString>
     
-    <DeliverFood.reportString>Matar TargetB med TargetA.</DeliverFood.reportString>
+    <PlaceNoCostFrame.reportString>Bygger TargetA.</PlaceNoCostFrame.reportString>
+    
+    <FinishFrame.reportString>Bygger TargetA.</FinishFrame.reportString>
+    
+    <Deconstruct.reportString>Dekonstruerar TargetA.</Deconstruct.reportString>
+    
+    <Uninstall.reportString>Uninstalling TargetA.</Uninstall.reportString>
+    
+    <Repair.reportString>Reparerar TargetA.</Repair.reportString>
+    
+    <FixBrokenDownBuilding.reportString>Replacing broken components in TargetA.</FixBrokenDownBuilding.reportString>
+    
+    <BuildRoof.reportString>building roof.</BuildRoof.reportString>
+    
+    <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
     
     <FeedPatient.reportString>Matar TargetB med TargetA.</FeedPatient.reportString>
     
     <TendPatient.reportString>Tending to TargetA.</TendPatient.reportString>
     
-    <PlaceNoCostFrame.reportString>Bygger TargetA.</PlaceNoCostFrame.reportString>
+    <DeliverFood.reportString>Matar TargetB med TargetA.</DeliverFood.reportString>
     
     <DoBill.reportString>Utför order vid TargetA.</DoBill.reportString>
+    
+    <OperateDeepDrill.reportString>drilling at TargetA.</OperateDeepDrill.reportString>
     
     <Clean.reportString>Städar TargetA.</Clean.reportString>
     
@@ -57,21 +75,11 @@
     
     <RemoveFloor.reportString>Removing floor.</RemoveFloor.reportString>
     
-    <Repair.reportString>Reparerar TargetA.</Repair.reportString>
-    
-    <FixBrokenDownBuilding.reportString>Replacing broken components in TargetA.</FixBrokenDownBuilding.reportString>
-    
-    <FinishFrame.reportString>Bygger TargetA.</FinishFrame.reportString>
-    
     <Sow.reportString>Sår TargetA.</Sow.reportString>
     
     <Harvest.reportString>Skördar TargetA.</Harvest.reportString>
     
     <CutPlant.reportString>Hugger TargetA.</CutPlant.reportString>
-    
-    <Deconstruct.reportString>Dekonstruerar TargetA.</Deconstruct.reportString>
-    
-    <Uninstall.reportString>Uninstalling TargetA.</Uninstall.reportString>
     
     <PrisonerFriendlyChat.reportString>Småpratar med fången TargetA.</PrisonerFriendlyChat.reportString>
     

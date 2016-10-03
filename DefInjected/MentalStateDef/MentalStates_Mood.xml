@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Berserk.label>bärsärk</Berserk.label>
+    <Berserk.beginLetterLabel>bärsärk</Berserk.beginLetterLabel>
+    <Berserk.beginLetter>{0} går bärsärkargång!</Berserk.beginLetter>
+    <Berserk.recoveryMessage>{0}'s bärsärkargång tar slut.</Berserk.recoveryMessage>
+    <Berserk.baseInspectLine>Mental state: Berserk</Berserk.baseInspectLine>
+    
+    <FireStartingSpree.label>fire starting spree</FireStartingSpree.label>
+    <FireStartingSpree.beginLetterLabel>fire starting spree</FireStartingSpree.beginLetterLabel>
+    <FireStartingSpree.beginLetter>{0} is on a fire starting spree.</FireStartingSpree.beginLetter>
+    <FireStartingSpree.recoveryMessage>{0} is no longer on a fire starting spree.</FireStartingSpree.recoveryMessage>
+    <FireStartingSpree.baseInspectLine>Mental state: Fire starting spree</FireStartingSpree.baseInspectLine>
+    
+    <GiveUpExit.label>ger upp och går</GiveUpExit.label>
+    <GiveUpExit.beginLetterLabel>gav upp</GiveUpExit.beginLetterLabel>
+    <GiveUpExit.beginLetter>{0} har gett upp och lämnar kolonin.</GiveUpExit.beginLetter>
+    <GiveUpExit.recoveryMessage>{0} har ändrat sig och kommer tillbaks till kolonin.</GiveUpExit.recoveryMessage>
+    <GiveUpExit.baseInspectLine>Mental state: Given up and leaving</GiveUpExit.baseInspectLine>
+    
+    <BingingDrugExtreme.label>binging on drug</BingingDrugExtreme.label>
+    <BingingDrugExtreme.baseInspectLine>Mental state: Binging on {0}</BingingDrugExtreme.baseInspectLine>
+    
+    
+    <WanderPsychotic.label>wandering in psychosis</WanderPsychotic.label>
+    <WanderPsychotic.beginLetterLabel>daze</WanderPsychotic.beginLetterLabel>
+    <WanderPsychotic.beginLetter>{0} is wandering around in a psychotic state.</WanderPsychotic.beginLetter>
+    <WanderPsychotic.recoveryMessage>{0} is no longer wandering in a psychotic state.</WanderPsychotic.recoveryMessage>
+    <WanderPsychotic.baseInspectLine>Mental state: Psychotic wandering</WanderPsychotic.baseInspectLine>
+    
+    <BingingFood.label>binging on food</BingingFood.label>
+    <BingingFood.beginLetterLabel>food binge</BingingFood.beginLetterLabel>
+    <BingingFood.beginLetter>{0} is pigging out on food.</BingingFood.beginLetter>
+    <BingingFood.recoveryMessage>{0} is no longer pigging out on food.</BingingFood.recoveryMessage>
+    <BingingFood.baseInspectLine>Mental state: Pigging out</BingingFood.baseInspectLine>
+    
+    <WanderSad.label>sad wandering</WanderSad.label>
+    <WanderSad.beginLetterLabel>sad wander</WanderSad.beginLetterLabel>
+    <WanderSad.beginLetter>{0} is wandering around in sadness.</WanderSad.beginLetter>
+    <WanderSad.recoveryMessage>{0} is no longer wandering in sadness.</WanderSad.recoveryMessage>
+    <WanderSad.baseInspectLine>Mental state: Sad wandering</WanderSad.baseInspectLine>
+    
+    <WanderOwnRoom.label>sitting alone</WanderOwnRoom.label>
+    <WanderOwnRoom.beginLetterLabel>hide in room</WanderOwnRoom.beginLetterLabel>
+    <WanderOwnRoom.beginLetter>{0} is hiding in HIS room.</WanderOwnRoom.beginLetter>
+    <WanderOwnRoom.recoveryMessage>{0} is no longer hiding in HIS room.</WanderOwnRoom.recoveryMessage>
+    <WanderOwnRoom.baseInspectLine>Mental state: Hiding in room</WanderOwnRoom.baseInspectLine>
+    
+</LanguageData>

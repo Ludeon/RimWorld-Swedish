@@ -58,16 +58,19 @@
   <LetterLeadersDeathLabel>Leader's death</LetterLeadersDeathLabel>
   <LetterLeadersDeath>Leader {0} of faction {1} has died and been replaced by {2}.</LetterLeadersDeath>
   
+  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
+  <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
   
-  <LetterLabelNoticedFamilyMembers>Family</LetterLabelNoticedFamilyMembers>
-  <LetterFamilyMembersRaidEnemy>There are family members of your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThe family members are:</LetterFamilyMembersRaidEnemy>
-  <LetterFamilyMembersRaidFriendly>There are family members of your colonists or prisoners in the arriving group of friendly {0}:</LetterFamilyMembersRaidFriendly>
-  <LetterFamilyMembersNeutralGroup>There are family members of your colonists or prisoners in the arriving group:</LetterFamilyMembersNeutralGroup>
-  <LetterFamilyMembersTraderShipSlaves>The orbital trader is selling family members of your colonists or prisoners:</LetterFamilyMembersTraderShipSlaves>
   
-  <FamilyLetterAppendedSuffix>(family)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME is a family member of a colonist. HECAP is {0}'s {1}.</FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME is a family member of one of your prisoners. HECAP is {0}'s {1}.</FamilyLetterAppendedTextPrisoner>
+  <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your colonists or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradeShip>
+  
+  <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME has a relationship with a colonist. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME has a relationship with one of your prisoners. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
   
   
   <LetterLabelAffair>Affair</LetterLabelAffair>
@@ -75,6 +78,7 @@
   <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
   <LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
   <LetterNoLongerLovers>{0} and {1} are no longer in a relationship.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>{1} has accepted {0}'s marriage proposal.\n\nAt some point in the coming days or seasons, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
@@ -101,4 +105,12 @@
   <LetterLabelNewParty>Party</LetterLabelNewParty>
   <LetterNewParty>{0} is throwing a party! Everyone who goes will gain joy and social energy, and a lasting positive mood boost.</LetterNewParty>
 
+  
+  <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\nHECAP now has a need for {1}, visible on HIS Needs tab. HECAP will automatically consume the drug to fulfil his need. If HE cannot get any {1}, HE will go into withdrawal.</LetterNewlyAddicted>
+  
+  
+  <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
+  
 </LanguageData>

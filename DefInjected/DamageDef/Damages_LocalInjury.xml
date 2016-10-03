@@ -1,43 +1,48 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Cut.label>cut</Cut.label>
-    <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
+    <Cut.label>Skärskada</Cut.label>
+    <Cut.deathMessage>{0} avled av sina skärskador.</Cut.deathMessage>
     
-    <Crush.label>crush</Crush.label>
-    <Crush.deathMessage>{0} krossades till döds.</Crush.deathMessage>
+    <Crush.label>Krosskada</Crush.label>
+    <Crush.deathMessage>{0} krossades till ihjäl.</Crush.deathMessage>
     
-    <Blunt.label>blunt</Blunt.label>
-    <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+    <Blunt.label>Slag</Blunt.label>
+    <Blunt.deathMessage>{0} har slagits ihjäl.</Blunt.deathMessage>
     
-    <Stab.label>stab</Stab.label>
-    <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
+    <Stab.label>Hugg</Stab.label>
+    <Stab.deathMessage>{0} höggs ihjäl.</Stab.deathMessage>
     
-    <Bullet.label>bullet</Bullet.label>
-    <Bullet.deathMessage>{0} sköts till döds.</Bullet.deathMessage>
+    <Bullet.label>Kula</Bullet.label>
+    <Bullet.deathMessage>{0} sköts ihjäl.</Bullet.deathMessage>
     
-    <Arrow.label>arrow</Arrow.label>
-    <Arrow.deathMessage>{0} has been shot to death.</Arrow.deathMessage>
+    <Arrow.label>Pil</Arrow.label>
+    <Arrow.deathMessage>{0} sköts ihjäl.</Arrow.deathMessage>
     
-    <Scratch.label>scratch</Scratch.label>
-    <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
+    <Scratch.label>Rivsår</Scratch.label>
+    <Scratch.deathMessage>{0} har rivits ihjäl.</Scratch.deathMessage>
     
-    <Bite.label>bite</Bite.label>
-    <Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
+    <Bite.label>Bett</Bite.label>
+    <Bite.deathMessage>{0} bets ihjäl.</Bite.deathMessage>
     
-    <ToxicBite.label>toxic bite</ToxicBite.label>
-    <ToxicBite.deathMessage>{0} has been bitten to death.</ToxicBite.deathMessage>
+    <ToxicBite.label>Giftigt bett</ToxicBite.label>
+    <ToxicBite.deathMessage>{0} dog av förgiftning.</ToxicBite.deathMessage>
     
-    <Bomb.label>bomb</Bomb.label>
-    <Bomb.deathMessage>{0} dog i en explosion.</Bomb.deathMessage>
+    <Bomb.label>Explosion</Bomb.label>
+    <Bomb.deathMessage>{0} omkom i en explosion.</Bomb.deathMessage>
     
-    <Flame.label>flame</Flame.label>
-    <Flame.deathMessage>{0} brann till döds.</Flame.deathMessage>
+    <Flame.label>Eld</Flame.label>
+    <Flame.deathMessage>{0} omkom i en brand.</Flame.deathMessage>
     
-    <Frostbite.label>frostbite</Frostbite.label>
-    <Frostbite.deathMessage>{0} has succumbed to frostbite.</Frostbite.deathMessage>
+    <Burn.label>Brännskada</Burn.label>
     
-    <SurgicalCut.label>surgical cut</SurgicalCut.label>
-    <SurgicalCut.deathMessage>{0} has died during surgery.</SurgicalCut.deathMessage>
+    <Frostbite.label>Frostskada</Frostbite.label>
+    <Frostbite.deathMessage>{0} frös ihjäl.</Frostbite.deathMessage>
+    
+    <SurgicalCut.label>Kirurgiskt snitt</SurgicalCut.label>
+    <SurgicalCut.deathMessage>{0} avled under ett kirurgiskt ingrepp.</SurgicalCut.deathMessage>
+    
+    <ExecutionCut.label>execution cut</ExecutionCut.label>
+    <ExecutionCut.deathMessage>{0} has been executed.</ExecutionCut.deathMessage>
     
 </LanguageData>

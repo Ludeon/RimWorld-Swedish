@@ -3,23 +3,17 @@
 
 	<ClickToJumpToProblem>Tryck för att se problemet</ClickToJumpToProblem>
 
-  
-  
-  <NeedSawmill>Behöver sågverk</NeedSawmill>
-  <NeedSawmillDesc>Du behöver något sorts sågverk för att kunna hugga stockar till mer användbara plankor.\n\nBygg ett HANDSÅGVERK eller ett ELEKTRISK SÅGVERK.</NeedSawmillDesc>
-
-  <PoorMood>Dåligt humör</PoorMood>
-  <PoorMoodDesc>Kolonisatörerna är på dåligt humör och kan drabbas av ett lätt psykiskt sammanbrott när som helst:\n\n{0}</PoorMoodDesc>
-  <TerribleMood>Hemskt humör</TerribleMood>
-  <TerribleMoodDesc>Kolonisatörerna lider av akut stress och riskerar ett kraftigt - potentiellt våldsamt - mental sammanbrott:\n\n{0}</TerribleMoodDesc>
-  <LowMoodDescEnding>Kolla Kolonisatörernas Behov-flik för att se vad som besvärar dem.</LowMoodDescEnding>
+  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
+  <BreakRiskMajor>Major break risk</BreakRiskMajor>
+  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more joy hours per day and nicer joy objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
   
   <ColonistNeedsRescue>Kolonist behöver räddas</ColonistNeedsRescue>
   <ColonistsNeedRescue>Kolonister behöver räddas</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>  Kolonister ligger handikappade på marken:\n\n{0}\nSkicka en annan kolonist för att rädda och bära dem tillbaka till sina sängar.\n\n(För att rädda någon; klicka på en annan kolonist och högerklicka sedan på offret, klicka därefter på Rädda.</ColonistsNeedRescueDesc>
-
-  <BuildARoom>Bygg ett rum</BuildARoom>
-  <BuildARoomDesc>Ett rum består av separata väggdelar med en dörr.\n\nAnvänd ARKITEKT-menyn nere i det vänstra hörnet för att välja var du vill att något ska byggas. När du har bestämt att bygga något kommer dina kolonister att utföra arbeta så gott de kan.</BuildARoomDesc>
 
   <NeedDefenses>Behöver försvar</NeedDefenses>
   <NeedDefensesDesc>Du har varit här ett tag nu och har troligtvis redan blivit upptäckt av andra. Förbered dig för kommande räder.\n\nDu borde förbereda försvar.\n\nBygg några Vaktposter.</NeedDefensesDesc>
@@ -46,6 +40,9 @@
   <HunterLacksWeapon>En jägare saknar vapen</HunterLacksWeapon>
   <HunterLacksWeaponDesc>En kolonisatör har blivit tilldelad arbetstypen Jägare, men saknar ett vapen. De kommer inte att börja jag innan de har ett vapen.\n\nFör att minimera skaderisken rekommenderas ett vapen med lång räckvidd.</HunterLacksWeaponDesc>
 
+  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel yourself at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+
   <Starvation>Svält</Starvation>
   <StarvationDesc>Kolonisatörerna svälter:\n\n{0}\nSkaffa mat åt dem.</StarvationDesc>
 
@@ -58,22 +55,14 @@
   <NeedFoodHopper>Behöver en behållare</NeedFoodHopper>
   <NeedFoodHopperDesc>Du har en Näringsautomat som saknar en Behållare bredvid sig.\n\nFör att fungera måste näringsautomaten ta från en närliggande behållare fylld med rått livsmedel.\n\nBygg en behållare jämte näringsautomaten.</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Byggnad behöver elektricitet</BuildingNeedsPower>
-  <BuildingsNeedPower>Byggnad behöver elektricitet</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>Dessa byggnader kräver elektricitet och saknar anslutning till en energikälla:\n\n{0}\nAnslut dem till en generator eller ett batteri.</BuildingsNeedPowerDesc>
-  <AndMore>och mer</AndMore>
-
   <NeedMealSource>Behöver måltidskälla</NeedMealSource>
   <NeedMealSourceDesc>Du saknar möjlighet att producera måltider från råa livsmedel.\n\nBygg en spis, lägereld, eller en näringsautomat.\n\n(De får inte vara i en fängelsecell, annars kan inte kolonisatörerna använda den.)</NeedMealSourceDesc>
 
-  <NeedHomeArea>Need home area</NeedHomeArea>
-  <NeedHomeAreaDesc>You need to define a HOME AREA where your colonists will clean, extinguish fires, and repair things.\n\nDefine a home area using the ZONES section of the ARCHITECT menu.</NeedHomeAreaDesc>
+  <NeedJoySource>Need joy source</NeedJoySource>
+  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
 
   <NeedBatteries>Behöver ackumulatorer</NeedBatteries>
   <NeedBatteriesDesc>Du har bara solpaneler men inga ackumulatorer. Detta betyder att du kommer att drabbas av strömavbrott varje gång solen går ner.\n\nBygg en ackumulator eller två som kan försörja dig över natten.</NeedBatteriesDesc>
-
-  <NoTradingCapacity>Ingen handelsförmåga</NoTradingCapacity>
-  <NoTradingCapacityDesc>Du saknar förmågan att förhandla med förbipasserande skepp.\n\nBygg en kommunikationskonsoll.</NoTradingCapacityDesc>
 
   <BrawlerHasRangedWeapon>En slagskämpe har ett projektilvapen</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>En av dina kolonisatörer har Slagskämpe som personlighetstyp men bär ett projektilvapen. Detta kommer att göra hen väldigt olycklig.</BrawlerHasRangedWeaponDesc>
@@ -84,16 +73,9 @@
   <NeedResearchProject>Behöver forskningsprojekt</NeedResearchProject>
   <NeedResearchProjectDesc>Du har utrustning för att kunne genomföra forskning, men inget valt projekt.\n\nÖppna forskningsmenyn och välj ett projekt.</NeedResearchProjectDesc>
   
-  <NeedDump>Behöver förvaring</NeedDump>
-  <NeedDumpDesc>Du har valt att frakta bort {0} men det finns ingenstans att ta den.\n\nDesignera ett förråd och se till att det acceptera {0} via dess inställningar.</NeedDumpDesc>
-
-  
-
   <ColonistsIdle>{0} kolonist(er) är syssolös(a)</ColonistsIdle>
   <ColonistsIdleDesc>Dessa kolonister är syssolösa:\n\n{0}\nSe efter om du kan sätta dem i arbete.</ColonistsIdleDesc>
 
-  
-  
   <ColonistNeedsTreatment>Kolonisatör behöver vård</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>En kolonisatör behöver medecinsk vård. Utan det riskerar personen att dö från sina skador, eller att skadorna förblir permanenta.\n\n{0}\nBehandla hen genom att ta hen till en sjuksäng.\n\n(Först,avsätt en sjuksäng genom att markera valfri säng och ange att den ska vara en sjuksäng. Därefter, markera den skadade kolonisatören och högerklicka på sjuksängen för att göra hen till en patient.)</ColonistNeedsTreatmentDesc>
 
@@ -115,5 +97,10 @@
 
   <HunterHasShieldAndRangedWeapon>Jägare har en sköld och ett projektilvapen</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>En av dina jägare använder ett projektilvapen samtidigt som denne bär en personlig sköld. Skölden hindrar jägaren att från att träffa sitt mål på avstånd.\n\nDenne kommer inte att kunna jaga så länge skölden inte avlägsnas.</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
+  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
   
 </LanguageData>

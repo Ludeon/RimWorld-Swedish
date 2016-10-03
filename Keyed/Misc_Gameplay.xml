@@ -15,6 +15,7 @@
   <Unowned>Oägd</Unowned>
   <DeadTime>Död {0}</DeadTime>
   <WalkSpeed>gånghastighet {0}</WalkSpeed>
+  <FertShort>fert.</FertShort>
   <DyingLower>dör</DyingLower>
   <FilthOnFeet>Smuts på fötter:</FilthOnFeet>
   <NotEnoughStoredLower>inte nog förvarat</NotEnoughStoredLower>
@@ -41,7 +42,6 @@
   <Off>Off</Off>
   <PowerSwitch_Power>Power</PowerSwitch_Power>
   <JoyTolerances>Joy tolerances</JoyTolerances>
-  <MentalStateLetterLabel>Mental state</MentalStateLetterLabel>
   <MilkFullness>Milk fullness</MilkFullness>
   <WoolGrowth>Wool growth</WoolGrowth>
   <EggProgress>Egg progress</EggProgress>
@@ -54,6 +54,22 @@
   <BrokenDown>Broken down</BrokenDown>
   <BondBrackets>(bond)</BondBrackets>
   <Fuel>Fuel</Fuel>
+  <Enemies>enemies</Enemies>
+  <TimePassed>time passed</TimePassed>
+  <CurrentRadius>current radius</CurrentRadius>
+  <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
+  <Permanent>permanent</Permanent>
+  <Temperature>Temperature</Temperature>
+  <BadTemperature>bad temperature</BadTemperature>
+  <IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
+  <DrugEffectMultiplier>{0} effect multiplier</DrugEffectMultiplier>
+  
+  
+  <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
+  <ContainsBeer>Contains {0} / {1} beer.</ContainsBeer>
+  <Fermented>Fermented</Fermented>
+  <FermentationProgress>Progress: {0} (finished in about {1}).</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed multiplier: {0}</FermentationBarrelOutOfIdealTemperature>
   
   
   <Headshot>Headshot</Headshot>
@@ -63,15 +79,17 @@
   <TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
   <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
   <HarvestFailed>Harvest\nfailed</HarvestFailed>
+  <TextMote_RecruitFail>Recruit failed!\n{0} chance</TextMote_RecruitFail>
   <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
   <TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
   <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
   <TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
   <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
-
+  <TextMote_ConstructionFail>Construction\nfailed</TextMote_ConstructionFail>
 
   
   <Home>Home</Home>
+  <BuildRoof>Build roof</BuildRoof>
   <NoRoof>No roof</NoRoof>
   <SnowClear>Snow clear</SnowClear>
   <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
@@ -111,10 +129,16 @@
   <WatchingSunset>Watching the sunset</WatchingSunset>
   <Stargazing>Stargazing</Stargazing>
   <WatchingEclipse>Watching the eclipse</WatchingEclipse>
-  <DeliveringFood>Delivering food to {0}.</DeliveringFood>
   <UsingVerb>Using {0} on {1}.</UsingVerb>
   <AreaLower>area</AreaLower>
   <ReportCowering>Cowering.</ReportCowering>
+  <ReportStanding>standing.</ReportStanding>
+  <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>extinguishing fire on {0}.</ReportExtinguishingFireOn>
+  
+  
+  <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>Attending party</LordReportAttendingParty>
   
 	
   <WeaponMissRadius>Vapens missradius</WeaponMissRadius>
@@ -127,6 +151,7 @@
 	<ShootingCover>Skydd</ShootingCover>
 	<CoverThingBlocksPercentOfShots>{0} stoppar {1}</CoverThingBlocksPercentOfShots>
 	<NoCoverLower>inget skydd</NoCoverLower>
+  <Execution>Execution</Execution>
 	
   
   <RecipeMake>Make {0}</RecipeMake>
@@ -136,8 +161,9 @@
   <ThoughtExpiresIn>Går ut om: {0}</ThoughtExpiresIn>
   <ThoughtStartsExpiringIn>Börjar gå ut om: {0}</ThoughtStartsExpiringIn>
   <ThoughtFinishesExpiringIn>Har gått ut om: {0}</ThoughtFinishesExpiringIn>
-  <MentalBreakThresholdHard>Hard mental break threshold</MentalBreakThresholdHard>
-  <MentalBreakThresholdSoft>Soft mental break threshold</MentalBreakThresholdSoft>
+  <MentalBreakThresholdExtreme>Extreme break threshold</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>Major break threshold</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
 
   
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
@@ -190,14 +216,6 @@
   <CannotHit>Kan inte träffa mål.</CannotHit>
 
   
-  <StoragePriorityUnstored>Tom</StoragePriorityUnstored>
-  <StoragePriorityLow>Låg</StoragePriorityLow>
-  <StoragePriorityNormal>Normal</StoragePriorityNormal>
-  <StoragePriorityPreferred>Föredraget</StoragePriorityPreferred>
-  <StoragePriorityImportant>Viktig</StoragePriorityImportant>
-  <StoragePriorityCritical>Kritisk</StoragePriorityCritical>
-
-  
   <CurrentlyFrozen>Frozen (won't spoil)</CurrentlyFrozen>
   <CurrentlyRefrigerated>Refrigerated (Spoils in {0})</CurrentlyRefrigerated>
   <NotRefrigerated>Not refrigerated (Spoils in {0})</NotRefrigerated>
@@ -242,13 +260,16 @@
   <Undiscovered>Oupptäckt</Undiscovered>
   
   
+  <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
   <ZoneVisibilityToggleButton>Växla visibilitet av zoner.</ZoneVisibilityToggleButton>
   <ShowBeautyToggleButton>Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing.</ShowBeautyToggleButton>
   <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.</ShowColonistBarToggleButton>
   <AutoHomeAreaToggleButton>Toggle automatically expanding the home area around new constructions.</AutoHomeAreaToggleButton>
   <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
-  
+  <ShowRoofOverlayToggleButton>Toggle visiblity of roofs.</ShowRoofOverlayToggleButton>
+
   
   <Fire>Brand</Fire>
   <FireOn>Brand på {0}</FireOn>
@@ -257,6 +278,8 @@
  
   
   <MapConditionsTip>Speciella förhållanden som påverkar området just nu.</MapConditionsTip>
+  <TimeLeft>time left</TimeLeft>
+  <ImpactDate>impact date</ImpactDate>
 
   
   <NoStuffsToBuildWith>You have no usable materials from which to build this.</NoStuffsToBuildWith>
@@ -276,7 +299,6 @@
 
   
   <CasketContains>Contains</CasketContains>
-  <CasketUnknownContents>Unknown</CasketUnknownContents>
   <CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
 
   
@@ -286,14 +308,7 @@
   <ShipReportNoFullPods>Inga fulla cryptosömnkapslar</ShipReportNoFullPods>
 
   
-  <UseNeurotrainer>Use neurotrainer to learn {0}</UseNeurotrainer>
   <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
-  
-  
-  <UseArtifact>Activate</UseArtifact>
-  
-  
-  <TriggerFirefoamPopper>Trigger firefoam popper</TriggerFirefoamPopper>
   
   
   <Installed>Installed</Installed>
@@ -324,6 +339,7 @@
   
   <GameOverEveryoneDead>Alla är döda eller borda. Denna historia är över.\n\nKanske någon annan kan ha behov av ruinerna du lämnar efter dig.</GameOverEveryoneDead>
   <GameOverShipLaunched>Du har lyckats starta skeppet! Dessa kolonister klarade sig:\n\n{0}\nDessa kolonister lämnades kvar:\n\n{1}\nDitt AI kommer nu försöka vägleda skeppet till ett säkert ställe. Det kanske släpper av dig på en bättre planet i det här solsystemet. Eller så kanske det undergår en resa som kan ta flera århundranden till en annan stjärna. Det kanske till och med bestämmer sig för att gömma sig under is på en asteroid i ett par tusen år, i väntan på en bättre epok.\n\nDet får du reda på när du vaknar.</GameOverShipLaunched>
+  <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
   <GameOverKeepPlaying>Fortsätt spela</GameOverKeepPlaying>
   <GameOverMainMenu>Huvudmeny</GameOverMainMenu>
   
@@ -342,5 +358,38 @@
   <DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
   <DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
   <DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
+  
+  
+  <MarriageSpotUsable>Usable now.</MarriageSpotUsable>
+  <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>blocked</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>too dangerous for {0}</MarriageSpotDangerous>
+  <MarriageSpotForbidden>forbidden for {0}</MarriageSpotForbidden>
+  <MarriageSpotReserved>reserved</MarriageSpotReserved>
+  <MarriageSpotUnreachable>unreachable for {0}</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
+  
+  
+  <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
+  <ActivityIconSleeping>Sleeping</ActivityIconSleeping>
+  <ActivityIconFleeing>Fleeing</ActivityIconFleeing>
+  <ActivityIconAttacking>Fighting</ActivityIconAttacking>
+  <ActivityIconIdle>Idle</ActivityIconIdle>
+  <ActivityIconBurning>Burning</ActivityIconBurning>
 
+  
+  <DueForMaintenance>Due for maintenance.</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Deteriorating due to lack of maintenance.</DeterioratingDueToLackOfMaintenance>
+  
+  
+  <ProgressToNextLump>Progress to next lump</ProgressToNextLump>
+  <ResourceBelow>Resource below</ResourceBelow>
+  
+  
+  <LearningHelper>Learning helper</LearningHelper>
+  <MarkLearned>Mark as learned</MarkLearned>
+  <AlreadyLearned>Already learned</AlreadyLearned>
+  <Filter>Filter</Filter>
+  
 </LanguageData>

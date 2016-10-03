@@ -1,34 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Firefoam.label>firefoam</Firefoam.label>
-    <Firefoam.description>Allows the construction of firefoam poppers; fire-safety buildings which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
+    <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
+    <PsychiteRefining.description>Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite.</PsychiteRefining.description>
     
-    <GeothermalPower.label>geothermal power</GeothermalPower.label>
-    <GeothermalPower.description>Allows you to build geothermal power plants on top of steam geysers, for uninterrupted power.</GeothermalPower.description>
+    <WakeUpProduction.label>wake-up production</WakeUpProduction.label>
+    <WakeUpProduction.description>Your chemists learn the formulas and techniques for synthesizing wake-up, a work performance-enhancing drug.</WakeUpProduction.description>
     
-    <HospitalBed.label>Sjuksäng</HospitalBed.label>
-    <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
+    <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
+    <GoJuiceProduction.description>Learn to produce the synthetic combat-performance-enhancing drug go-juice.</GoJuiceProduction.description>
     
-    <MultiAnalyzer.label>Multianalysator</MultiAnalyzer.label>
-    <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
+    <MalariBlockProduction.label>malari-block production</MalariBlockProduction.label>
+    <MalariBlockProduction.description>Learn to produce malari-block, a malaria prevention drug.</MalariBlockProduction.description>
     
-    <VitalsMonitor.label>Vitalparametersensor</VitalsMonitor.label>
-    <VitalsMonitor.description>Ökar kvalitén hos behandlingen av patienten. Måste placeras jämte en sjuksäng. En sjuksäng kan kopplas samman med endast en vitalparametersensor.</VitalsMonitor.description>
+    <Batteries.label>batteries</Batteries.label>
+    <Batteries.description>Build batteries for storing electricity.</Batteries.description>
     
-    <Cryptosleep.label>cryptosleep casket</Cryptosleep.label>
-    <Cryptosleep.description>Allows colonists to construct cryptosleep caskets, which can put living beings in a state of suspended animation.</Cryptosleep.description>
+    <NutrientPaste.label>nutrient paste</NutrientPaste.label>
+    <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.</NutrientPaste.description>
     
-    <ComponentAssembly.label>component assembly</ComponentAssembly.label>
-    <ComponentAssembly.description>Allows you to build the Component Assembly Bench, where colonists can make components from simple materials.</ComponentAssembly.description>
+    <SolarPanels.label>solar panels</SolarPanels.label>
+    <SolarPanels.description>Build solar panels for electrical generation.</SolarPanels.description>
     
-    <PoweredArmor.label>powered armor</PoweredArmor.label>
-    <PoweredArmor.description>Neuro-memetic robotics and advanced plasteel weaving technologies allow you to build the power armor and power armor helmets.</PoweredArmor.description>
+    <AirConditioning.label>air conditioning</AirConditioning.label>
+    <AirConditioning.description>Build air conditions to cool rooms in the heat, or to keep freezers.</AirConditioning.description>
     
-    <ChargedShot.label>charged shot</ChargedShot.label>
-    <ChargedShot.description>Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.</ChargedShot.description>
+    <Autodoors.label>autodoors</Autodoors.label>
+    <Autodoors.description>Build autodoors which open to permit movement without slowing anyone down.</Autodoors.description>
     
-    <MultibarrelWeapons.label>multibarrel weapons</MultibarrelWeapons.label>
-    <MultibarrelWeapons.description>Allows you to build miniguns.</MultibarrelWeapons.description>
+    <Hydroponics.label>Hydrokultur</Hydroponics.label>
+    <Hydroponics.description>Gör det möjligt att bygga hydrokulturbord för att kunna odla grödor snabbt inomhus.</Hydroponics.description>
+    
+    <ElectricSmelting.label>electric smelting</ElectricSmelting.label>
+    <ElectricSmelting.description>Build electic smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelters uses heat and strong electromagnets to extract useful metal from slag chunks and other items.</ElectricSmelting.description>
+    
+    <ElectricCremation.label>electric cremation</ElectricCremation.label>
+    <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
+    
+    <ColoredLights.label>Färgade ljus</ColoredLights.label>
+    <ColoredLights.description>Gör det möjligt för kolonister att konstruera färgade ljus för dekorativa syften.</ColoredLights.description>
+    
+    <Machining.label>Maskinering</Machining.label>
+    <Machining.description>Bygg maskineringsbord för att utvinna användbar metall ur döda mekanoider.</Machining.description>
+    
+    <Mortars.label>Granatkastare</Mortars.label>
+    <Mortars.description>Lär dig bygga granatkastare som kan skjuta granater långa sträckor över murar.</Mortars.description>
+    
+    <IEDBomb.label>Explosive IEDs</IEDBomb.label>
+    <IEDBomb.description>Allows colonists to build improvised explosive device-based traps from artillery shells.</IEDBomb.description>
+    
+    <IEDIncendiary.label>Incendiary IEDs</IEDIncendiary.label>
+    <IEDIncendiary.description>Allows colonists to build incendiary explosive traps from artillery shells.</IEDIncendiary.description>
+    
+    <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
+    <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
+    
+    <TubeTelevision.label>Katodrör-TV</TubeTelevision.label>
+    <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
+    
+    <GunTurrets.label>gun turrets</GunTurrets.label>
+    <GunTurrets.description>Allows the production of automated gun turrets.</GunTurrets.description>
     
 </LanguageData>

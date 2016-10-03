@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
- 
   <MessageSiegersAssaulting>Belägrande {0} från {1} attackerar kolonin.</MessageSiegersAssaulting>
 
   <MessageRaidersBeginningAssault>{0} från {1} startar sin attack.</MessageRaidersBeginningAssault>
   <MessageRaidersDetectedEarlyAssault>{0} från {1} har upptäckt dig och har startat sin attack tidigt.</MessageRaidersDetectedEarlyAssault>
   <MessageRaidersKidnapping>{0} från {1} har bestämt sig för att kidnappa den de kan och sedan lämna.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} from {1} have decided to steal what they can and leave.</MessageRaidersStealing>
 
   <MessageRaidersLeaving>{0} från {1} lämnar.</MessageRaidersLeaving>
 	<MessageRaidersGivenUpLeaving>{0} från {1} har gett upp och lämnar.</MessageRaidersGivenUpLeaving>
@@ -16,6 +16,7 @@
   <MessageFriendlyFightersLeaving>Vänlig {0} från {1} lämnar.</MessageFriendlyFightersLeaving>
 
   <MessageVisitorsTakingWounded>{0} from {1} are taking a wounded guest.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} from {1} have been trapped and are digging out to escape.</MessageVisitorsTrappedLeaving>
   
   <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
   
@@ -38,11 +39,8 @@
   
   <LetterLabelMessageRecruitSuccess>New recruit</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} har rekryterat {1} ({2} chans).</MessageRecruitSuccess>
-	<MessageRecruitFail>{0} har inte rekryterat {1} ({2} chans).</MessageRecruitFail>
-	<MessageRecruitFailBecauseMood>{0} failed to recruit {1} (prisoner below {2} mood).</MessageRecruitFailBecauseMood>
   <MessageTameSuccess>{0} successfully tamed {1} ({2} chance).</MessageTameSuccess>
   <MessageTameAndNameSuccess>{0} successfully tamed {1} ({2} chance) and named it {3}.</MessageTameAndNameSuccess>
-
 
   <MessageColonyCannotAfford>Kolonin har inte råd med det här erbjutandet.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Du har inte nog med silver redo för förhandling.</MessageColonyNotEnoughSilver>
@@ -68,6 +66,7 @@
   
   <MessageNoMedicalBeds>There are no medical beds available.</MessageNoMedicalBeds>
   <MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>Operation requires {0} or better, but {1}'s current medical care mode is "{2}".</MessageTooLowMedCare>
   
   <PawnDiedBecauseOf>{0} has died because of {1}.</PawnDiedBecauseOf>
 
@@ -97,8 +96,8 @@
   
   <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
   
-  <MessageCantSelectDeadFamilyMember>{0} is dead.</MessageCantSelectDeadFamilyMember>
-  <MessageCantSelectOffMapFamilyMember>{0} is off the map.</MessageCantSelectOffMapFamilyMember>
+  <MessageCantSelectDeadPawn>{0} is dead.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{0} is off the map.</MessageCantSelectOffMapPawn>
   
   <MessageSocialFight>{0} started a social fight with {1}. Reason: {2}.</MessageSocialFight>
   
@@ -121,5 +120,19 @@
   
   <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
   <MessagePartyFinished>The party has finished.</MessagePartyFinished>
+
+  <MessageCannotSellItemsReason>Some items cannot be traded because of: </MessageCannotSellItemsReason>
+
+  <MessageConstructionFailed>{1} failed while constructing {0}. Some resources have been wasted.</MessageConstructionFailed>
+
+  <MessageScreenshotSavedAs>Screenshot saved as: {0}</MessageScreenshotSavedAs>
+  
+  <MessageNoLongerSocialFighting>{0} and {1} are no longer social fighting.</MessageNoLongerSocialFighting>
+  
+  <MessageNoLongerBingingOnDrug>{0} is no longer binging on {1}.</MessageNoLongerBingingOnDrug>
+
+  <MessageRottedAwayInStorage>{0} has rotted away in storage.</MessageRottedAwayInStorage>
+  
+  <MessageFoodPoisoning>{0} has gotten food poisoning from: {1}.</MessageFoodPoisoning>
   
 </LanguageData>

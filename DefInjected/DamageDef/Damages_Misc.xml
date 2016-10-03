@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Deterioration.label>deterioration</Deterioration.label>
+    <Deterioration.label>Förfall</Deterioration.label>
     
-    <Mining.label>mining</Mining.label>
+    <Mining.label>Bryter</Mining.label>
     
-    <Rotting.label>rotting</Rotting.label>
+    <Rotting.label>Ruttnar</Rotting.label>
     
-    <Extinguish.label>extinguish</Extinguish.label>
+    <Extinguish.label>Släcks</Extinguish.label>
     
-    <Stun.label>stun</Stun.label>
-    <Stun.deathMessage>{0} bedövades till döds.</Stun.deathMessage>
+    <Stun.label>Betäubung</Stun.label>
+    <Stun.deathMessage>{0} dog av chock.</Stun.deathMessage>
     
     <EMP.label>EMP</EMP.label>
-    <EMP.deathMessage>{0} has been EMPed to death.</EMP.deathMessage>
+    <EMP.deathMessage>{0} dog av en EMP.</EMP.deathMessage>
     
 </LanguageData>

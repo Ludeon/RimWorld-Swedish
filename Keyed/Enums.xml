@@ -19,6 +19,14 @@
   <PriceTypeExorbitant>exorbitant</PriceTypeExorbitant>
 
   
+  <StoragePriorityUnstored>Tom</StoragePriorityUnstored>
+  <StoragePriorityLow>Låg</StoragePriorityLow>
+  <StoragePriorityNormal>Normal</StoragePriorityNormal>
+  <StoragePriorityPreferred>Föredraget</StoragePriorityPreferred>
+  <StoragePriorityImportant>Viktig</StoragePriorityImportant>
+  <StoragePriorityCritical>Kritisk</StoragePriorityCritical>
+
+  
   <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
   <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
@@ -28,8 +36,8 @@
   <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
   <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
   <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
-  <FoodTypeFlags_NutritionalDrug>liquor</FoodTypeFlags_NutritionalDrug>
-  <FoodTypeFlags_AnimalKibble>kibble</FoodTypeFlags_AnimalKibble>
+  <FoodTypeFlags_Liquor>liquor</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
 
   
   <QualityCategory_Awful>awful</QualityCategory_Awful>
@@ -41,7 +49,6 @@
   <QualityCategory_Excellent>excellent</QualityCategory_Excellent>
   <QualityCategory_Masterwork>masterwork</QualityCategory_Masterwork>
   <QualityCategory_Legendary>legendary</QualityCategory_Legendary>
-
   <QualityCategoryShort_Awful>awfl</QualityCategoryShort_Awful>
   <QualityCategoryShort_Shoddy>shod</QualityCategoryShort_Shoddy>
   <QualityCategoryShort_Poor>poor</QualityCategoryShort_Poor>
@@ -51,7 +58,6 @@
   <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
-  
   
   
   <HungerLevel_Starving>Starving</HungerLevel_Starving>
@@ -82,6 +88,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   
+  <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
+  
   <TrainableIntelligence_None>None</TrainableIntelligence_None>
   <TrainableIntelligence_Simple>Simple</TrainableIntelligence_Simple>
   <TrainableIntelligence_Intermediate>Intermediate</TrainableIntelligence_Intermediate>
@@ -104,5 +114,36 @@
   <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
   <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
 
+  
+  <TechLevel_Animal>animal</TechLevel_Animal>
+  <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
+  <TechLevel_Medieval>medieval</TechLevel_Medieval>
+  <TechLevel_Industrial>industrial</TechLevel_Industrial>
+  <TechLevel_Spacer>spacer</TechLevel_Spacer>
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
 
+  
+  <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+
+  
+  <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  
+  
+  <ShowAnimalNames>Show animal names</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+  
+  
+  <Celsius>Celsius</Celsius>
+  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <Kelvin>Kelvin</Kelvin>
+  
+  
+  <SpoilReason_Freezing>Spoiled by freezing.</SpoilReason_Freezing>
+  <SpoilReason_HighTemperature>Spoiled by high temperature.</SpoilReason_HighTemperature>
+  
 </LanguageData>

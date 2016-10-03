@@ -1,9 +1,0 @@
--Finish translation
--Make sure the text makes sense ingame
--Spell/grammar check
-
--Flags proportions are as close to correct they can be. Colours might need a revisit.
-(4,2,4-5,2,9)->(25(25,6),14(12,8),25(25,6)-40,16,72)
-
--Translate DefInjected. Added all the files for translation, need to clean up/remove redundant information in files. (Check german
-translation for template).

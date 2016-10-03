@@ -25,6 +25,8 @@
   <CommandToggleDraftDesc>Växla Kommendering.\n\nKommenderade personer tar direkta order och slåss. De kommer inte arbera, äta eller vila.</CommandToggleDraftDesc>
   <IsIncapped>{0} är handikappad.</IsIncapped>
 
+  <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>
   
   <CommandCancelConstructionLabel>Avbryt</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>Avbryt denna konstruktion.</CommandCancelConstructionDesc>
@@ -41,12 +43,8 @@
   <CommandBedSetForPrisonersLabel>Sätt för fångar</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Tilldela sängar i detta rum för användning av fångar.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Kan inte sätta utomhussängar att användas av fångar.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetForColonistsLabel>Sätt för kolonister</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc>Tilldela sängar i detta för användning av kolonister.</CommandBedSetForColonistsDesc>
   <CommandBedSetAsMedicalLabel>Set as medical</CommandBedSetAsMedicalLabel>
   <CommandBedSetAsMedicalDesc> Assign this bed for medical use.</CommandBedSetAsMedicalDesc>
-  <CommandBedSetAsNonMedicalLabel>Set as non medical</CommandBedSetAsNonMedicalLabel>
-  <CommandBedSetAsNonMedicalDesc> Assign this bed for non medical use.</CommandBedSetAsNonMedicalDesc>
   <TurningOnPrisonerBedWarning>Påsättning av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOnPrisonerBedWarning>
   <TurningOffPrisonerBedWarning>Avstängning av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOffPrisonerBedWarning>
   <AreYouSure>Är du säker på att du vill göra detta?</AreYouSure>
@@ -83,12 +81,10 @@
   <MessageTargetBelowMinimumRange>Mål för nära.</MessageTargetBelowMinimumRange>
   
   
-  
   <CommandShipLaunch>Starta skepp</CommandShipLaunch>
   <CommandShipLaunchDesc>Startar skeppets startsekvens med den aktuella konfigurationen.</CommandShipLaunchDesc>
   <CommandShipLaunchReport>Visa startrapport</CommandShipLaunchReport>
   <CommandShipLaunchReportDesc>Visar en rapport som beskriver skeppets startkapabilitet.</CommandShipLaunchReportDesc>
-
 
   
   <CommandPodEject>Skjut ut sovkapsel</CommandPodEject>
@@ -100,7 +96,6 @@
   <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
   <CommandToggleDoorHoldOpen>Hold open</CommandToggleDoorHoldOpen>
   <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
-
 
   
   <CommandResetTemp>Reset</CommandResetTemp>
@@ -133,6 +128,18 @@
   
   <CommandSquadAttack>Attack</CommandSquadAttack>
   <CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
-
+  
+  
+  <CommandHoldFire>Hold fire</CommandHoldFire>
+  <CommandHoldFireDesc>End any ongoing attacks.</CommandHoldFireDesc>
+  
+  
+  <CommandSelectPlantToGrowMulti>Select plant to grow</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Plant: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Determine which plant should be sown here.</CommandSelectPlantToGrowDesc>
+  
+  
+  <CommandBuildCopy>Build copy</CommandBuildCopy>
+  <CommandBuildCopyDesc>Build a copy of this building.</CommandBuildCopyDesc>
   
 </LanguageData>

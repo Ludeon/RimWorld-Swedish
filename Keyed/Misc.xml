@@ -12,7 +12,6 @@
   <AndLower>och</AndLower>
   <DisabledLower>avstängd</DisabledLower>
 
-  <CloseButton>Stäng</CloseButton>
 
   <VersionIndicator>Version {0}</VersionIndicator>
   <DevelopmentBuildLower>utvecklings version</DevelopmentBuildLower>
@@ -20,6 +19,19 @@
   <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
 
   
+  <Yes>Yes</Yes>
+  <No>No</No>
+  <min>min</min>
+  <max>max</max>
+  <chance>chance</chance>
+  <context>context</context>
+  <multiplier>multiplier</multiplier>
+  <damage>damage</damage>
+  <radius>radius</radius>
+  <durationDays>duration (days)</durationDays>
+  <intervalDays>interval (days)</intervalDays>
+  <repeat>repeat</repeat>
+
   
   
 	<MeatLabel>{0} kött</MeatLabel>

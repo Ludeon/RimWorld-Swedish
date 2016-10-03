@@ -43,6 +43,11 @@
   <DesignatorAreaHomeClear>Radera hemområde</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>Tar bort en hemområde. Kolonister kommer inte längre att städa, reparera eller släcka bränder här.</DesignatorAreaHomeClearDesc>
 
+  <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
+
   <DesignatorAreaNoRoofExpand>Expandera taklöst område</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>Skapa ett område där tak inte kommer att skapas. Kolonister kommer även att riva existerande tak.</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>Radera taklöst område</DesignatorAreaNoRoofClear>

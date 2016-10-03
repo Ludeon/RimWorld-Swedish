@@ -18,7 +18,9 @@
   <ClearForcedApparel>Clear forced</ClearForcedApparel>
   <ApparelForcedLower>forced</ApparelForcedLower>
   <ForcedApparel>Forced apparel</ForcedApparel>
-  <OutfitEdit>Edit...</OutfitEdit>
+  <AssignTabEdit>Edit...</AssignTabEdit>
+  <CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>
+  <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
   
   
   <Copy>Copy</Copy>
@@ -35,6 +37,20 @@
   <CurrentGoodwill>Aktuell välvilja med detta anhang.</CurrentGoodwill>
   
   
+  <Graph>Graph</Graph>
+  <Statistics>Statistics</Statistics>
+  
+  
+  <SelectGraph>Välj graf</SelectGraph>
+  <Last30Days>Senaste 30 dagarna</Last30Days>
+  <Last100Days>Senaste 100 dagarna</Last100Days>
+  <Last300Days>Senaste 300 dagarna</Last300Days>
+  <AllDays>Alla</AllDays>
+  <Day>Dag</Day>
+  <Value>Värde</Value>
+  <External>Extern</External>
+
+  
   <Playtime>Play time</Playtime>
   <Storyteller>Storyteller</Storyteller>
   <ColonyWealthTotal>Kolonins rikedom</ColonyWealthTotal>
@@ -47,13 +63,9 @@
   <ColonistsLaunched>Kolonister uppskickade i rymden</ColonistsLaunched>
 
   
-  <SelectGraph>Välj graf</SelectGraph>
-  <Last30Days>Senaste 30 dagarna</Last30Days>
-  <Last100Days>Senaste 100 dagarna</Last100Days>
-  <Last300Days>Senaste 300 dagarna</Last300Days>
-  <AllDays>Alla</AllDays>
-  <Day>Dag</Day>
-  <Value>Värde</Value>
-  <External>Extern</External>
+  <ProjectTechLevel>project tech level</ProjectTechLevel>
+  <YourTechLevel>your tech level</YourTechLevel>
+  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
+  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
   
 </LanguageData>

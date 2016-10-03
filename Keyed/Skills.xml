@@ -8,6 +8,7 @@
   <PassionNone>Inget (learns {0}x)</PassionNone>
   <PassionMinor>Intersserad (learns {0}x)</PassionMinor>
   <PassionMajor>Brinnande (learns {0}x)</PassionMajor>
+  <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
   <EffectsAtLevel>Effekt vid nivå {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
 
