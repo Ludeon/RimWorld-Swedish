@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Tryck för att se problemet</ClickToJumpToProblem>
+	<ClickToJumpToProblem>Klicka för att se problemet</ClickToJumpToProblem>
 
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
-  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more joy hours per day and nicer joy objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+  <BreakRiskMinor>Liten risk för sammanbrott</BreakRiskMinor>
+  <BreakRiskMajor>Stor risk för sammanbrott</BreakRiskMajor>
+  <BreakRiskExtreme>Extrem risk för sammanbrott</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Dessa kolonister är på dåligt humör och kan få ett mindre sammanbrott när som helst:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Dessa kolonister är på väldigt dåligt humör och kan få ett större sammanbrott när som helst:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Dessa kolonistera är svårt stressade och kan få ett extremt (och möjligen våldsamt) sammanbrott när som helst:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Kolla dessa kolonisters Behov-flik för att se vad som besvärar dom.\n\nFör att förbättra deras humör så kan du göra saker som fina måltider, ge dom fler glädjetimmar per dag och finare glädjeobjekt, placera dom i vackra miljöer, låta dom dricka och röka, med mera.</BreakRiskDescEnding>
   
   <ColonistNeedsRescue>Kolonist behöver räddas</ColonistNeedsRescue>
   <ColonistsNeedRescue>Kolonister behöver räddas</ColonistsNeedRescue>
@@ -19,13 +19,13 @@
   <NeedDefensesDesc>Du har varit här ett tag nu och har troligtvis redan blivit upptäckt av andra. Förbered dig för kommande räder.\n\nDu borde förbereda försvar.\n\nBygg några Vaktposter.</NeedDefensesDesc>
 
   <NeedDoctor>Behöver en läkare</NeedDoctor>
-  <NeedDoctorDesc> Kolonisterna behöver läkarvård, men det finns inga friska kolonisatörer av typer Läkare.\n\n{0}\nTilldela arbetstypen Läkare till någon av dina friska kolonisatörer. Om skadorna förblir obehandlade riskerar följderna att bli permanenta.</NeedDoctorDesc>
+  <NeedDoctorDesc> Kolonisterna behöver läkarvård, men det finns inga friska kolonister av typen Läkare.\n\n{0}\nTilldela arbetstypen Läkare till någon av dina friska kolonister. Om skadorna förblir obehandlade kan de bli permanenta.</NeedDoctorDesc>
 
   <NeedMiner>Behöver en gruvarbetare</NeedMiner>
-  <NeedMinerDesc>Du har angett att några klippväggar ska bli utgrävna, men ingen kolonist har blivit tilldelad arbetstypen Gruvarbetare. \n\nTilldela arbetstypen Gruvarbetare till någon av dina kolonisatörer.</NeedMinerDesc>
+  <NeedMinerDesc>Du har angett att några klippväggar ska bli utgrävda, men ingen kolonist har blivit tilldelad arbetstypen Gruvarbetare. \n\nTilldela arbetstypen Gruvarbetare till någon av dina kolonister.</NeedMinerDesc>
 
   <NeedWarden>Behöver en fångvaktare</NeedWarden>
-  <NeedWardenDesc>Du har en fånge, men ingen kolonist är tilldelad arbetstypen Fångvaktare.\n\nTilldela arbetstypen Fångvaktare till någon av dina kolonisatörer.</NeedWardenDesc>
+  <NeedWardenDesc>Du har en fånge, men ingen kolonist är tilldelad arbetstypen Fångvaktare.\n\nTilldela arbetstypen Fångvaktare till någon av dina kolonister.</NeedWardenDesc>
 
   <LowFood>Trytande livsmedelsförråd</LowFood>
   <LowFoodDesc>Du har {0} näring kvar i ditt livsmedelsförråd. Detta är farligt lågt.\n\nOdla, köp, hitta, eller jaga för att skaffa mer mat.</LowFoodDesc>
@@ -34,73 +34,73 @@
   <LowMedicineDesc>Du har bara {0} läkemedel kvar i förrådet.\n\nKöp läkemedel från handelsmän.</LowMedicineDesc>
   <NoMedicineDesc>Det finns inga läkemedel kvar i förråden.\n\nKöp läkedel från handelsmän.</NoMedicineDesc>
   
-  <NeedColonistBeds>Kolonisatörerna behöver sängar.</NeedColonistBeds>
-  <NeedColonistBedsDesc>Du har fler kolonisatörer än vad det finns sängar. Någon kommer sakna en plats att sova på.\n\nDu kan antingen skapa fler sängar, eller ändra en fånges säng till en säng för kolonisatörer.\n\nOm du inte har några resurser så kan du placera ut sovplatser direkt, gratis.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Kolonisterna behöver sängar.</NeedColonistBeds>
+  <NeedColonistBedsDesc>Du har fler kolonister än vad det finns sängar. Någon kommer sakna en plats att sova på.\n\nDu kan antingen bygga fler sängar, eller ändra en fånges säng till en säng för kolonister.\n\nOm du inte har några resurser så kan du placera ut sovplatser direkt, gratis.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>En jägare saknar vapen</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>En kolonisatör har blivit tilldelad arbetstypen Jägare, men saknar ett vapen. De kommer inte att börja jag innan de har ett vapen.\n\nFör att minimera skaderisken rekommenderas ett vapen med lång räckvidd.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>En kolonist har blivit tilldelad arbetstypen Jägare, men saknar ett vapen. De kommer inte att börja jaga innan de har ett vapen.\n\nFör att minimera skaderisken rekommenderas ett vapen med lång räckvidd.</HunterLacksWeaponDesc>
 
-  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel yourself at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparel>Trasiga kläder</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Dessa kolonister bär trasiga kläder, som gör dom ledsna:\n\n{0}\nGe dom kläder som är mindre trasiga.\n\nDu kan sy kläder själv, eller köpa det från handelsmän.</AlertTatteredApparelDesc>
 
   <Starvation>Svält</Starvation>
-  <StarvationDesc>Kolonisatörerna svälter:\n\n{0}\nSkaffa mat åt dem.</StarvationDesc>
+  <StarvationDesc>Kolonisterna svälter:\n\n{0}\nSkaffa mat åt dem.</StarvationDesc>
 
   <StarvationAnimals>Djur svälter</StarvationAnimals>
   <StarvationAnimalsDesc>Kolonins djur svälter:\n\nSkaffa mat åt dem.</StarvationAnimalsDesc>
 
   <Exhaustion>Utmattning</Exhaustion>
-  <ExhaustionDesc>Kolonisatörerna är utmattade och behöver vila:\n\n{0}\nLåt dem vila ett tag. Se till att det finns en säng tilldelad till varje kolonisatör. Se också till att de inte är utarbetade.</ExhaustionDesc>
+  <ExhaustionDesc>Kolonisterna är utmattade och behöver vila:\n\n{0}\nLåt dem vila ett tag. Se till att det finns en säng tilldelad till varje kolonist. Se också till att de inte är utarbetade.</ExhaustionDesc>
 
   <NeedFoodHopper>Behöver en behållare</NeedFoodHopper>
   <NeedFoodHopperDesc>Du har en Näringsautomat som saknar en Behållare bredvid sig.\n\nFör att fungera måste näringsautomaten ta från en närliggande behållare fylld med rått livsmedel.\n\nBygg en behållare jämte näringsautomaten.</NeedFoodHopperDesc>
 
   <NeedMealSource>Behöver måltidskälla</NeedMealSource>
-  <NeedMealSourceDesc>Du saknar möjlighet att producera måltider från råa livsmedel.\n\nBygg en spis, lägereld, eller en näringsautomat.\n\n(De får inte vara i en fängelsecell, annars kan inte kolonisatörerna använda den.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Du saknar möjlighet att producera måltider från råa livsmedel.\n\nBygg en spis, lägereld, eller en näringsautomat.\n\n(De får inte vara i en fängelsecell, annars kan inte kolonisterna använda den.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Need joy source</NeedJoySource>
-  <NeedJoySourceDesc>Your colonists need to fulfill their joy need, but you haven't built any joy sources.\n\nHelp them by building a horseshoes pin, chess table, or other joy source.</NeedJoySourceDesc>
+  <NeedJoySource>Behöver glädjekälla</NeedJoySource>
+  <NeedJoySourceDesc>Dina kolonister behöver tillfredställa sitt glädjebehov, men du har inte byggt några glädjekällor.\n\nHjälp dom genom att bygga en hästskopinne, ett schackbord, eller andra källor till glädje.</NeedJoySourceDesc>
 
-  <NeedBatteries>Behöver ackumulatorer</NeedBatteries>
-  <NeedBatteriesDesc>Du har bara solpaneler men inga ackumulatorer. Detta betyder att du kommer att drabbas av strömavbrott varje gång solen går ner.\n\nBygg en ackumulator eller två som kan försörja dig över natten.</NeedBatteriesDesc>
+  <NeedBatteries>Behöver batterier</NeedBatteries>
+  <NeedBatteriesDesc>Du har bara solpaneler men inga batterier. Detta betyder att du kommer att drabbas av strömavbrott varje gång solen går ner.\n\nBygg ett batteri eller två som kan försörja dig över natten.</NeedBatteriesDesc>
 
   <BrawlerHasRangedWeapon>En slagskämpe har ett projektilvapen</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>En av dina kolonisatörer har Slagskämpe som personlighetstyp men bär ett projektilvapen. Detta kommer att göra hen väldigt olycklig.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>En av dina kolonister har Slagskämpe som personlighetstyp men bär ett projektilvapen. Detta kommer att göra hen väldigt olycklig.</BrawlerHasRangedWeaponDesc>
 
-  <ShieldUserHasRangedWeapon>En kolonisatör med sköld har ett projektilvapen</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>En av dina kolonisatörer har en personlig sköld och bär ett projektilvapen. Hen kommer inte att kunna skjuta genom skölden (förutom mot mål som redan finns inpå hen).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeapon>En kolonist med sköld har ett projektilvapen</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>En av dina kolonister har en personlig sköld och bär ett projektilvapen. Hen kommer inte att kunna skjuta genom skölden (förutom mot mål som redan rör hen).</ShieldUserHasRangedWeaponDesc>
 
   <NeedResearchProject>Behöver forskningsprojekt</NeedResearchProject>
-  <NeedResearchProjectDesc>Du har utrustning för att kunne genomföra forskning, men inget valt projekt.\n\nÖppna forskningsmenyn och välj ett projekt.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>Du har utrustning för att kunna forska, men inget valt projekt.\n\nÖppna forskningsmenyn och välj ett projekt.</NeedResearchProjectDesc>
   
-  <ColonistsIdle>{0} kolonist(er) är syssolös(a)</ColonistsIdle>
-  <ColonistsIdleDesc>Dessa kolonister är syssolösa:\n\n{0}\nSe efter om du kan sätta dem i arbete.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} kolonister är syssolösa</ColonistsIdle>
+  <ColonistsIdleDesc>Dessa kolonister är syssolösa:\n\n{0}\nSe om du kan sätta dem i arbete.</ColonistsIdleDesc>
 
-  <ColonistNeedsTreatment>Kolonisatör behöver vård</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>En kolonisatör behöver medecinsk vård. Utan det riskerar personen att dö från sina skador, eller att skadorna förblir permanenta.\n\n{0}\nBehandla hen genom att ta hen till en sjuksäng.\n\n(Först,avsätt en sjuksäng genom att markera valfri säng och ange att den ska vara en sjuksäng. Därefter, markera den skadade kolonisatören och högerklicka på sjuksängen för att göra hen till en patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatment>Kolonist behöver vård</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>En kolonist behöver medicinsk vård. Utan det riskerar personen att dö från sina skador, eller att skadorna blir permanenta.\n\n{0}\nBehandla hen genom att ta hen till en sjuksäng.\n\n(Först, avsätt en sjuksäng genom att markera valfri säng och ange att den ska vara en sjuksäng. Därefter, markera den skadade kolonisten och högerklicka på sjuksängen för att göra hen till en patient.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Frostskada</AlertHypothermia>
-  <AlertHypothermiaDesc>Kolonisatörerna riskerar få frostskador och kan i värsta fall frysa ihjäl.\n\n{0}\Se till att de klär sig varmt och att rummen är tillräckligt uppvärmda.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>Kolonisterna riskerar få frostskador och kan i värsta fall frysa ihjäl.\n\n{0}\Se till att de klär sig varmt och att rummen är tillräckligt uppvärmda.</AlertHypothermiaDesc>
   
   <PatientsAwaitingMedicalOperation>{0} patienter väntar på sin opereration</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>Patienterna väntar på sin operation:\n\n{0}\nSe till att du har all nödvändig medecinsk utrustning och att en ledig läkare finns tillgänglig.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>Patienterna väntar på sin operation:\n\n{0}\nSe till att du har all nödvändig medicinsk utrustning och att en ledig läkare finns tillgänglig.</PatientsAwaitingMedicalOperationDesc>
 
-  <FireInHomeArea>Eldsvårda!</FireInHomeArea>
-  <FireInHomeAreaDesc>De finns en eldsvårda i ditt hemområde!</FireInHomeAreaDesc>
+  <FireInHomeArea>Eldsvåda!</FireInHomeArea>
+  <FireInHomeAreaDesc>De finns en eldsvåda i ditt hemområde!</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Allvarlig sjukdom</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>Det finns personer som riskerar att dö av en allvarlig sjukdom:\n\n{0}\nSe till att de får den bästa möjliga medecinska vård.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>Det finns personer som riskerar att dö i en allvarlig sjukdom:\n\n{0}\nOm möjligt, överväg att amputera eller ersätt den infekterade lemmen för att rädda kolonisatören.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Det finns personer som riskerar att dö av en allvarlig sjukdom:\n\n{0}\nSe till att de får bästa möjliga medicinska vård.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Det finns personer som riskerar att dö i en allvarlig sjukdom:\n\n{0}\nOm möjligt, överväg att amputera eller ersätt den infekterade lemmen för att rädda kolonisten.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <BilliardsNeedsSpace>Biljardbordet kräver mer utrymme</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>Ett av dina biljardbord blockeras av ett närliggande objekt vilket hindrar dina från att använda det.\n\nEtt biljardbord kräver ett tomt utrymmer runtom det för att kunna användas.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>Ett av dina biljardbord blockeras av ett närliggande objekt vilket hindrar dina kolonister från att använda det.\n\nEtt biljardbord kräver ett tomt utrymme runtom det för att kunna användas.</BilliardsNeedsSpaceDesc>
 
   <HunterHasShieldAndRangedWeapon>Jägare har en sköld och ett projektilvapen</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>En av dina jägare använder ett projektilvapen samtidigt som denne bär en personlig sköld. Skölden hindrar jägaren att från att träffa sitt mål på avstånd.\n\nDenne kommer inte att kunna jaga så länge skölden inte avlägsnas.</HunterHasShieldAndRangedWeaponDesc>
 
-  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+  <NeedWarmClothes>Behöver varma kläder</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Minst {0} av dina kolonister kommer sakna varma kläder när den kalla årstiden börjar.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Alla dina kolonister kommer sakna varma kläder när den kalla årstiden börjar.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Utomhustemperaturen kommer nå {0}.\n\nDu kan sy varma kläder vid skräddarbordet, eller köpa det från handelsmän.</NeedWarmClothesDesc2>
   
 </LanguageData>
