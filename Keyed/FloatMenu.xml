@@ -14,7 +14,7 @@
   <OutOfRange>utanför räckvidd</OutOfRange>
   <CannotHitTarget>kan inte träffa mål</CannotHitTarget>
   <IsIncapableOfViolenceLower>{0} oförmögen till våld</IsIncapableOfViolenceLower>
-  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
+  <IsNotDraftedLower>{0} är inte kommenderad</IsNotDraftedLower>
   <CannotOrderNonControlledLower>kan inte beordra icke-kontrollerade enheter</CannotOrderNonControlledLower>
 
   <OrderManThing>Bemanna {0}</OrderManThing>
@@ -97,14 +97,14 @@
   <TradeWith>Handla med {0}</TradeWith>
   <CannotTrade>Kan inte handla</CannotTrade>
 
-  
+  <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
   <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
 
-  
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Kan inte {0} {1}</CannotGenericWork>
 
-  
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
   <CannotMissingHealthActivities>Kan inte prioritera (oförmögen att {0})</CannotMissingHealthActivities>
 
   <CannotGenericAlreadyAm>{0} redan {1}</CannotGenericAlreadyAm>
@@ -118,7 +118,7 @@
   <CannotPrioritizeForbidden>Kan inte prioritera ({0} är förbjuden)</CannotPrioritizeForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Kan inte prioritera ({0} är utanför tillåtet område)</CannotPrioritizeForbiddenOutsideAllowedArea>
   
-  
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Prioritera {0} {1}</PrioritizeGeneric>
   
 </LanguageData>
