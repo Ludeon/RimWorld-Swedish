@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CallOnRadio>Ring {0}</CallOnRadio>
-  <CannotUseReason>Cannot use ({0})</CannotUseReason>
-	<CannotUseSolarFlare>Kan inte använda (soleruption)</CannotUseSolarFlare>
-	<CannotUseNoPower>Kan inte använda (ingen ström)</CannotUseNoPower>
-	<CannotUseNoPath>Kan inte använda (ingen väg)</CannotUseNoPath>
+  <CallOnRadio>Anropa {0}</CallOnRadio>
+  <CannotUseReason>Kan inte använda ({0})</CannotUseReason>
+  <CannotUseSolarFlare>Kan inte använda (soleruption)</CannotUseSolarFlare>
+  <CannotUseNoPower>Kan inte använda (ingen ström)</CannotUseNoPower>
+  <CannotUseNoPath>Kan inte använda (ingen väg)</CannotUseNoPath>
   <CannotUseReserved>Kan inte använda (reserverad)</CannotUseReserved>
   <CannotUseFull>Kan inte använda (fullt)</CannotUseFull>
   
@@ -13,9 +13,9 @@
 
   <OutOfRange>utanför räckvidd</OutOfRange>
   <CannotHitTarget>kan inte träffa mål</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>{0} oförmögen till våld</IsIncapableOfViolenceLower>
   <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
+  <CannotOrderNonControlledLower>kan inte beordra icke-kontrollerade enheter</CannotOrderNonControlledLower>
 
   <OrderManThing>Bemanna {0}</OrderManThing>
   
@@ -23,31 +23,31 @@
   <MeleeAttackToDeath>Närstridskamp mot {0} till döden</MeleeAttackToDeath>
   <NoPath>ingen väg</NoPath>
 
-	<ForbiddenLower>förbjuden</ForbiddenLower>
-	<ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
-	<SociallyImproperLower>socialt olämpligt</SociallyImproperLower>
-  <PrisonerRoomLower>prisoner room</PrisonerRoomLower>
-	<BurningLower>brinner</BurningLower>
-	<NoEmptyPlaceLower>ingen tom plats konfigurerad att förvara det</NoEmptyPlaceLower>
-	<AlreadyFilledLower>redan fylld</AlreadyFilledLower>
-	<MissingMaterials>behöver material</MissingMaterials>
-  <MissingSkill>skill too low</MissingSkill>
-	<NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
-  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-  <NoUsableFood>no usable food</NoUsableFood>
-  <NoFood>no food</NoFood>
-  <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
-	<NoComponentsToRepair>need components</NoComponentsToRepair>
-	<NoFuelToRefuel>need {0}</NoFuelToRefuel>
-  <NoWort>need wort</NoWort>
+  <ForbiddenLower>förbjuden</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>utanför tillåtet område</ForbiddenOutsideAllowedAreaLower>
+  <SociallyImproperLower>socialt olämpligt</SociallyImproperLower>
+  <PrisonerRoomLower>fängelsesrum</PrisonerRoomLower>
+  <BurningLower>brinner</BurningLower>
+  <NoEmptyPlaceLower>ingen tom plats konfigurerad att förvara det</NoEmptyPlaceLower>
+  <AlreadyFilledLower>redan fylld</AlreadyFilledLower>
+  <MissingMaterials>behöver material</MissingMaterials>
+  <MissingSkill>för låg förmåga</MissingSkill>
+  <NoEmptyGraveLower>ingen tom grav är inställd till att förvara det</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>interagerat med djuret för nyligen</AnimalInteractedTooRecently>
+  <NoUsableFood>ingen användbar mat</NoUsableFood>
+  <NoFood>ingen mat</NoFood>
+  <AnimalsSkillTooLow>Djurets förmåga för låg</AnimalsSkillTooLow>
+  <NoComponentsToRepair>behöver komponenter</NoComponentsToRepair>
+  <NoFuelToRefuel>behöver {0}</NoFuelToRefuel>
+  <NoWort>behöver vört</NoWort>
   
-  <ConsumeThing>Consume {0}</ConsumeThing>
+  <ConsumeThing>Konsumera {0}</ConsumeThing>
   
   <CannotGoNoPath>Kan inte gå hit (ingen väg)</CannotGoNoPath>
   <GoHere>Gå hit</GoHere>
   
   <Arrest>Arrestera {0}</Arrest>
-  <TryToArrest>Try to arrest {0}</TryToArrest>
+  <TryToArrest>Försök arrestera {0}</TryToArrest>
   <CannotArrest>Kan inte arrestera</CannotArrest>
 
   <Capture>Tillfångata {0}</Capture>
@@ -60,42 +60,42 @@
   <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
-  <NoPrisonerBed>Ingen instängd fångesäng tillgänglig.</NoPrisonerBed>
-  <NoNonPrisonerBed>Ingen icke-fångesäng tillgänglig.</NoNonPrisonerBed>
-  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
+  <NoPrisonerBed>Ingen instängd fängelsesäng tillgänglig.</NoPrisonerBed>
+  <NoNonPrisonerBed>Ingen icke-fängelsesäng tillgänglig.</NoNonPrisonerBed>
+  <NoAnimalBed>Ingen nåbar, icke-reserverad djursäng.</NoAnimalBed>
   <Reserved>Reserverad av någon annan.</Reserved>
   <ReservedBy>Reserverad av {0}.</ReservedBy>
   <IsReservedBy>{0} är reserverad av {1}.</IsReservedBy>
 
-  <Incapable>incapable</Incapable>
-  <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+  <Incapable>oförmögen</Incapable>
+  <IncapableOfCapacity>oförmögen att {0}</IncapableOfCapacity>
 
-  <MinSkill>min skill</MinSkill>
+  <MinSkill>minsta förmåga</MinSkill>
   
   <Equip>Använd {0}</Equip>
-  <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
+  <EquipWarningBrawler>(slagskämpe kommer vara olycklig)</EquipWarningBrawler>
   <CannotEquip>Kan inte använda {0}</CannotEquip>
   
-  <ForceWear>Force wear {0}</ForceWear>
-  <CannotWear>Kan inte ta på {0}</CannotWear>
-  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  <ForceWear>Tvinga att bära {0}</ForceWear>
+  <CannotWear>Kan inte bära {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>saknade kroppsdelar</CannotWearBecauseOfMissingBodyParts>
   
-  <Strip>Ta av {0}</Strip>
-  <CannotStrip>Kan inte ta av {0}</CannotStrip>
+  <Strip>Klä av {0}</Strip>
+  <CannotStrip>Kan inte klä av {0}</CannotStrip>
 
   <Deposit>Placera {0} i {1}</Deposit>
   <CannotDeposit>Kan inte placera {0} i {1}</CannotDeposit>
 
-  <SelfDestructHere>Self-destruct here</SelfDestructHere>
+  <SelfDestructHere>Självförstör här</SelfDestructHere>
   
   <Drop>Släpp {0}</Drop>
 
-  <UseMedicalBed>Rest until healed</UseMedicalBed>
-  <NotInjured>Not injured</NotInjured>
-  <SomeoneElseSleeping>Occupied</SomeoneElseSleeping>
+  <UseMedicalBed>Vila tills läkt</UseMedicalBed>
+  <NotInjured>Ej skadad</NotInjured>
+  <SomeoneElseSleeping>Upptagen</SomeoneElseSleeping>
   
-  <TradeWith>Trade with {0}</TradeWith>
-  <CannotTrade>Cannot trade</CannotTrade>
+  <TradeWith>Handla med {0}</TradeWith>
+  <CannotTrade>Kan inte handla</CannotTrade>
 
   
   <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
@@ -105,18 +105,18 @@
   <CannotGenericWork>Kan inte {0} {1}</CannotGenericWork>
 
   
-  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Kan inte prioritera (oförmögen att {0})</CannotMissingHealthActivities>
 
   <CannotGenericAlreadyAm>{0} redan {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Kan inte prioritera (kommer aldrig utföra {0})</CannotPrioritizeWorkTypeDisabled>
   
-  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Kan inte prioritera (inte tilldelad att utföra {0})</CannotPrioritizeNotAssignedToWorkType>
 
   <CannotPrioritizeResearch>Kan inte prioritera (Forskning tar för lång tid)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Kan inte prioritera ({0} är förbjuden)</CannotPrioritizeForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Kan inte prioritera ({0} är utanför tillåtet område)</CannotPrioritizeForbiddenOutsideAllowedArea>
   
   
   <PrioritizeGeneric>Prioritera {0} {1}</PrioritizeGeneric>
