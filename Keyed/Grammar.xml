@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <IndefiniteArticle>a</IndefiniteArticle>
-  <DefiniteArticle>the</DefiniteArticle>
-  <IndefiniteForm>a {0}</IndefiniteForm>
-  <DefiniteForm>the {0}</DefiniteForm>
+  <IndefiniteArticle>en</IndefiniteArticle>
+  <!-- Swedish doens't work the same way as English, no standalone translation of 'the' -->
+  <DefiniteArticle></DefiniteArticle>
+  <IndefiniteForm>en {0}</IndefiniteForm>
+  <!-- Swedish doens't work the same way as English, no standalone translation of 'the' -->
+  <DefiniteForm>{0}</DefiniteForm>
 
-  <Proits>its</Proits>
+  <Proits>dess</Proits>
   <Prohis>hans</Prohis>
   <Proher>hennes</Proher>
-  <ProitsCap>Its</ProitsCap>
+  <ProitsCap>Dess</ProitsCap>
   <ProhisCap>Hans</ProhisCap>
   <ProherCap>Hennes</ProherCap>
 
-  <ProitObj>it</ProitObj>
+  <ProitObj>det</ProitObj>
   <ProhimObj>honom</ProhimObj>
   <ProherObj>henne</ProherObj>
-  <ProitObjCap>It</ProitObjCap>
+  <ProitObjCap>Det</ProitObjCap>
   <ProhimObjCap>Honom</ProhimObjCap>
   <ProherObjCap>Henne</ProherObjCap>
 
   <Prohe>han</Prohe>
   <Proshe>hon</Proshe>
-  <Proit>it</Proit>
+  <Proit>det</Proit>
   <ProheCap>Han</ProheCap>
   <ProsheCap>Hon</ProsheCap>
-  <ProitCap>It</ProitCap>
+  <ProitCap>Det</ProitCap>
 
 </LanguageData>

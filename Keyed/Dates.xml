@@ -6,9 +6,9 @@
   <ClockYear>År</ClockYear>
   <DateReadoutTip>Antal dagar sen du kom hit: {0}\nDet går {1} dagar per årstid.\nNuvarande årstid: {2}</DateReadoutTip>
 
-  <FullDate>{0} {1}, {2}</FullDate>
-	<DateReadout>{0} {1}, {2}</DateReadout>
-  <SeasonFullDate>{0} {1}</SeasonFullDate>
-  <WholeYear>Hela år</WholeYear>
+  <FullDate>{1}dag {0}, {2}</FullDate>
+	<DateReadout>{1}dag {0}, {2}</DateReadout>
+  <SeasonFullDate>{1}dag {0}</SeasonFullDate>
+  <WholeYear>Helt år</WholeYear>
   
 </LanguageData>

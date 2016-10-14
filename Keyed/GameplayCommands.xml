@@ -4,48 +4,48 @@
 	<CommandForbiddenDesc>Förbjudet - kolonister kommer inte att interagera med detta.</CommandForbiddenDesc>
 	<CommandNotForbiddenDesc>Inte förbjudet - kolonister kommer att interagera med detta.</CommandNotForbiddenDesc>
 
-  
+  <!-- Power -->
   <CommandTogglePowerLabel>Växla ström</CommandTogglePowerLabel>
   <CommandTogglePowerDesc>Växla ström.</CommandTogglePowerDesc>
   
-  <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerLabel>Ange strömväxling</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Ange att detta föremål ska växla sitt strömläge. En kolonist kommer snart att växla läge.</CommandDesignateTogglePowerDesc>
   
-  <CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
+  <CommandTryReconnectLabel>Återanslut</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Försök att ansluta till ett annat elnät inom min kopplingsradie. Det här är användbart om jag är kopplad till ett strömlöst elnät men det finns ett elnät med ström nära.</CommandTryReconnectDesc>
 
   <CommandGatherSpotToggleLabel>Samlingsplats</CommandGatherSpotToggleLabel>
   <CommandGatherSpotToggleDescActive>Aktivt - kolonister kommer att samlas runt detta objekt.</CommandGatherSpotToggleDescActive>
   <CommandGatherSpotToggleDescInactive>Inaktivt - kolonister kommer inte att samlas runt detta objekt.</CommandGatherSpotToggleDescInactive>
   
   
-  
+  <!-- Drafting -->
   <CommandDraftLabel>Kommendera</CommandDraftLabel>
   <CommandUndraftLabel>Upphäv kommendering</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Växla Kommendering.\n\nKommenderade personer tar direkta order och slåss. De kommer inte arbera, äta eller vila.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Växla Kommendering.\n\nKommenderade personer tar direkta order och slåss. De kommer inte arbeta, äta eller vila.</CommandToggleDraftDesc>
   <IsIncapped>{0} är handikappad.</IsIncapped>
 
-  <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
-  <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWork>Rensa prioriterat arbete</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Rensar alla prioriterade uppgifter du har satt. Karaktären kommer gå tillbaka till sina vanliga, självstyrda, uppgifter.</CommandClearPrioritizedWorkDesc>
   
   <CommandCancelConstructionLabel>Avbryt</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>Avbryt denna konstruktion.</CommandCancelConstructionDesc>
 
-  <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedLabel>Gå upp ur sängen</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Hoppa ur den nuvarande sängen.</CommandGetOutOfBedDesc>
 
-  <CommandBedSetOwnerLabel>Set owner</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerLabel>Ange ägare</CommandBedSetOwnerLabel>
   <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
-  <BuildingAssign>Assign</BuildingAssign>
-  <BuildingUnassign>Unassign</BuildingUnassign>
-  <CommandBedSetForPrisonersLabel>Sätt för fångar</CommandBedSetForPrisonersLabel>
+  <CommandGraveAssignColonistLabel>Tilldela kolonist</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Tilldelar denna grav till en vald kolonist.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Tilldela</BuildingAssign>
+  <BuildingUnassign>Frånta</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Ange för fångar</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Tilldela sängar i detta rum för användning av fångar.</CommandBedSetForPrisonersDesc>
   <CommandBedSetForPrisonersFailOutdoors>Kan inte sätta utomhussängar att användas av fångar.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetAsMedicalLabel>Set as medical</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc> Assign this bed for medical use.</CommandBedSetAsMedicalDesc>
-  <TurningOnPrisonerBedWarning>Påsättning av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOnPrisonerBedWarning>
+  <CommandBedSetAsMedicalLabel>Ange som sjukhussäng</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc> Tilldela denna säng för medicinskt bruk.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>Aktivering av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOnPrisonerBedWarning>
   <TurningOffPrisonerBedWarning>Avstängning av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOffPrisonerBedWarning>
   <AreYouSure>Är du säker på att du vill göra detta?</AreYouSure>
 
@@ -62,16 +62,16 @@
   <CommandDeleteZoneLabel>Ta bort</CommandDeleteZoneLabel>
   <CommandDeleteZoneDesc>Ta bort denna zon.</CommandDeleteZoneDesc>
 
-  <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsLabel>Kopiera inställningar</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Kopiera den här zonens inställningar till urklippshanteraren så du kan klistra in dom på en annan zon.</CommandCopyZoneSettingsDesc>
 
-  <CommandPasteZoneSettingsLabel>Paste settings</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsLabel>Klistra in inställningar</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Skriv över den här zonens inställningar med dom som tidigare kopierats till urklippshanteraren.</CommandPasteZoneSettingsDesc>
 
-  <CommandAllowSow>Allow sowing</CommandAllowSow>
-  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>
+  <CommandAllowSow>Tillåt plantering</CommandAllowSow>
+  <CommandAllowSowDesc>När detta är avaktiverat kommer kolonister aldrig plantera växter i den här zonen. De kommer fortfarande skördas.</CommandAllowSowDesc>
 
-  
+  <!-- Artillery -->
   <CommandSetForceAttackTarget>Sätt tvingat mål</CommandSetForceAttackTarget>
   <CommandSetForceAttackTargetDesc>Sätter ett mål som detta torn måste attackera kontinuerligt så länge det kan.</CommandSetForceAttackTargetDesc>
   <CommandStopForceAttack>Stäng av tvingat mål</CommandStopForceAttack>
@@ -80,66 +80,66 @@
   <MessageTargetBeyondMaximumRange>Mål utanför räckvidd.</MessageTargetBeyondMaximumRange>
   <MessageTargetBelowMinimumRange>Mål för nära.</MessageTargetBelowMinimumRange>
   
-  
+  <!-- Ship computer core -->
   <CommandShipLaunch>Starta skepp</CommandShipLaunch>
   <CommandShipLaunchDesc>Startar skeppets startsekvens med den aktuella konfigurationen.</CommandShipLaunchDesc>
   <CommandShipLaunchReport>Visa startrapport</CommandShipLaunchReport>
   <CommandShipLaunchReportDesc>Visar en rapport som beskriver skeppets startkapabilitet.</CommandShipLaunchReportDesc>
 
-  
+  <!-- Pod -->
   <CommandPodEject>Skjut ut sovkapsel</CommandPodEject>
   <CommandPodEjectDesc>Väck crypto-sovaren och skjut ut dem.</CommandPodEjectDesc>
   <CommandPodEjectFailEmpty>Innehåller ingen.</CommandPodEjectFailEmpty>
 
-  
-  <CommandToggleDoorForbid>Passage forbidden</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
-  <CommandToggleDoorHoldOpen>Hold open</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
+  <!-- Door -->
+  <CommandToggleDoorForbid>Passage förbjuden</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>När en dörr är förbjuden kommer kolonister och vänner inte gå igenom den. Detta påverkar inte hur fiender eller djur hanterar dörren.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Håll öppen</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>När denna är aktiv kommer dina kolonister inte stänga dörren efter sig.</CommandToggleDoorHoldOpenDesc>
 
-  
-  <CommandResetTemp>Reset</CommandResetTemp>
-  <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
-  <CommandRaiseTempDesc>Raise the target temperature.</CommandRaiseTempDesc>
-  <CommandLowerTempDesc>Lower the target temperature.</CommandLowerTempDesc>
+  <!-- Temperature control -->
+  <CommandResetTemp>Återställ</CommandResetTemp>
+  <CommandResetTempDesc>Återställ måltemperaturen till rumstempteratur.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Höj måltemperaturen.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Sänk måltemperaturen.</CommandLowerTempDesc>
 
+  <!-- Install/reinstall -->
+  <CommandInstall>Installera</CommandInstall>
+  <CommandInstallDesc>Detta föremål är just nu packeterat för förvaring och transport. Använd detta kommando för att installera föremålet på sin slutgiltiga plats.</CommandInstallDesc>
+  <CommandReinstall>Ominstallera vid...</CommandReinstall>
+  <CommandReinstallDesc>Ange att detta föremål ska packas ihop och ominstalleras någon annanstans.</CommandReinstallDesc>
   
-  <CommandInstall>Install</CommandInstall>
-  <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location.</CommandInstallDesc>
-  <CommandReinstall>Reinstall at...</CommandReinstall>
-  <CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
-  
-  
-  <CommandMakeBeaconStockpileDesc>Create a stockpile around this building exactly matching the shape of the beacon's launch radius.</CommandMakeBeaconStockpileDesc>
-  <CommandMakeBeaconStockpileLabel>Create stockpile</CommandMakeBeaconStockpileLabel>
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>Skapar en förvaringsyta kring denna byggnad som exakt matchar fyrens räckvidd.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Skapa förvaringssyta</CommandMakeBeaconStockpileLabel>
 
-  
-  <CommandSunLampMakeGrowingZoneDesc>Create a growing zone around this building exactly matching the shape of the lamp's light radius.</CommandSunLampMakeGrowingZoneDesc>
-  <CommandSunLampMakeGrowingZoneLabel>Create growing zone</CommandSunLampMakeGrowingZoneLabel>
+  <!-- Sun lamp -->
+  <CommandSunLampMakeGrowingZoneDesc>Skapar ett odlingsområde kring denna byggnad som exakt matchar lampans räckvidd.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Skapa odlingsområde</CommandSunLampMakeGrowingZoneLabel>
 
+  <!-- Trap -->
+  <CommandAutoRearm>Auto-återställ</CommandAutoRearm>
+  <CommandAutoRearmDesc>När den här är aktiv kommer fällan automatiskt markeras för att återställas om den utlöses.</CommandAutoRearmDesc>
   
-  <CommandAutoRearm>Auto Rearm</CommandAutoRearm>
-  <CommandAutoRearmDesc>If this is on, this trap will automatically be designated for rearming when it springs.</CommandAutoRearmDesc>
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>Släpp djur</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>När denna är aktiv kommer djur med en ägare släppas för att attackera avlägsna mål. När den är inaktiv kommer de hålla sig nära och vakta sin ägare.</CommandReleaseAnimalsDesc>
   
+  <!-- Squad attack -->
+  <CommandSquadAttack>Attackera</CommandSquadAttack>
+  <CommandSquadAttackDesc>Beordra valda kolonister att attackera det angivna målet.</CommandSquadAttackDesc>
   
-  <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
-  <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
+  <!-- Hold fire -->
+  <CommandHoldFire>Eldupphör</CommandHoldFire>
+  <CommandHoldFireDesc>Avbryter pågående attacker.</CommandHoldFireDesc>
   
+  <!-- Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>Välj en växt att odla</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Växt: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Bestäm vilken växt som ska planteras här.</CommandSelectPlantToGrowDesc>
   
-  <CommandSquadAttack>Attack</CommandSquadAttack>
-  <CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
-  
-  
-  <CommandHoldFire>Hold fire</CommandHoldFire>
-  <CommandHoldFireDesc>End any ongoing attacks.</CommandHoldFireDesc>
-  
-  
-  <CommandSelectPlantToGrowMulti>Select plant to grow</CommandSelectPlantToGrowMulti>
-  <CommandSelectPlantToGrow>Plant: {0}</CommandSelectPlantToGrow>
-  <CommandSelectPlantToGrowDesc>Determine which plant should be sown here.</CommandSelectPlantToGrowDesc>
-  
-  
-  <CommandBuildCopy>Build copy</CommandBuildCopy>
-  <CommandBuildCopyDesc>Build a copy of this building.</CommandBuildCopyDesc>
+  <!-- Build copy -->
+  <CommandBuildCopy>Bygg kopia</CommandBuildCopy>
+  <CommandBuildCopyDesc>Bygg en kopia av den här byggnaden.</CommandBuildCopyDesc>
   
 </LanguageData>

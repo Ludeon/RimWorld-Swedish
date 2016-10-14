@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <StatsReport_BaseValue>Base value</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>Relevant traits</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
-  <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
-  <StatsReport_LifeStage>Life stage</StatsReport_LifeStage>
+  <StatsReport_BaseValue>Basvärde</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Relevanta egenskaper</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Relevant utrustning</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Relevant hälsotillstånd</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>Livsstadie</StatsReport_LifeStage>
   <StatsReport_Material>Material</StatsReport_Material>
-  <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Skill factors</StatsReport_Skills>
-  <StatsReport_OtherStats>Other stat factors</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Health factors</StatsReport_HealthFactors>
-  <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
-  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
-  <StatsReport_MarketValueFromStuffsAndWork>Base market value calculated is from construction materials and work amount.</StatsReport_MarketValueFromStuffsAndWork>
-  <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
-  <StatsReport_AgeMultiplier>Multiplier for age {0}</StatsReport_AgeMultiplier>
-  <StatsReport_HealthMultiplier>Multiplier for health {0}</StatsReport_HealthMultiplier>
-  <StatsReport_MoodMultiplier>Multiplier for mood {0}</StatsReport_MoodMultiplier>
-	<StatsReport_DifficultyMultiplier>Multiplier for difficulty {0}</StatsReport_DifficultyMultiplier>
-  <StatsReport_InBed>In bed</StatsReport_InBed>
-  <StatsReport_Facilities>Facilities</StatsReport_Facilities>
-  <StatsReport_BodySize>Multiplier for body size {0}</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>Stat is displayed in the following format:\nDPS ( Melee damage / Cooldown in seconds / Melee hit chance )\n\nDPS = Melee damage * Melee hit chance / Cooldown in seconds</StatsReport_MeleeDPSExplanation>
-  <StatsReport_MeleeDamage>Melee damage</StatsReport_MeleeDamage>
+  <StatsReport_CharacterQuality>Karaktärskvalitet</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Skicklighetsfaktorer</StatsReport_Skills>
+  <StatsReport_OtherStats>Faktor för övriga förmågor</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Hälsofaktorer</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} relevans</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Efterbehandlad kurva</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Slutgiltigt värde</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Grundläggande marknadsvärde beräknas från mängden konstruktionsmaterial och arbete som krävs.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Kvalitetsmultiplikator</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Åldersmultiplikator {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Hälsomultiplikator {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Humörsmultiplikator {0}</StatsReport_MoodMultiplier>
+	<StatsReport_DifficultyMultiplier>Svårighetsmultiplikator {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>I sängen</StatsReport_InBed>
+  <StatsReport_Facilities>Faciliteter</StatsReport_Facilities>
+  <StatsReport_BodySize>Kroppsstorleksmultiplikator {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>Förmågan visas på följande format:\nDPS ( Närstridsskada / Cooldown i sekunder / Träffchans i närstrid )\n\nDPS = Närstridsskada * Träffchans i närstrid / Cooldown i sekunder</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Närstridsskada</StatsReport_MeleeDamage>
   <StatsReport_Cooldown>Cooldown</StatsReport_Cooldown>
-  <StatsReport_MeleeHitChance>Melee hit chance</StatsReport_MeleeHitChance>
-  <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
-  <StatsReport_LifeExpectancy>Life expectancy</StatsReport_LifeExpectancy>
-  <StatsReport_MissingBodyParts>Multiplier for missing body parts</StatsReport_MissingBodyParts>
-  <AverageOfAllAttacks>average of all attacks</AverageOfAllAttacks>
-  <StatsReport_UnpoweredWorkTable>No power</StatsReport_UnpoweredWorkTable>
+  <StatsReport_MeleeHitChance>Träffchans i närstrid</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0} sek</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>Förväntad livslängd</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Multiplikator för saknade kroppsdelar</StatsReport_MissingBodyParts>
+  <AverageOfAllAttacks>medelvärde av alla attacker</AverageOfAllAttacks>
+  <StatsReport_UnpoweredWorkTable>Ingen ström</StatsReport_UnpoweredWorkTable>
   <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
   
 </LanguageData>
