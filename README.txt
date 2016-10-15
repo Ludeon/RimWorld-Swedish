@@ -12,6 +12,7 @@ http://ludeon.com/forums/index.php?topic=4632.0
 - Rocksummit
 - Joel Ahlgren
 - Christoffer Rydström
+- Mannen-Myten
 
 ### Initial translations, ~2014
 - zackiz
