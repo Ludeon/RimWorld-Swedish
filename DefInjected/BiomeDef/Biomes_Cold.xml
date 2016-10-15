@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <BorealForest.label>Tajga</BorealForest.label>
-    <BorealForest.description>En tajga består mest av barrskog. Trots de hårda vintrarna finns det fortfarande en mängd små och stora djurarter som kan överleva dess svåra förhållanden.</BorealForest.description>
+    <BorealForest.label>borealskog</BorealForest.label>
+    <BorealForest.description>En borealskog består mest av barrträd. Trots de karga vintrarna livnär sig ett mångsidigt bestånd av små och stora djur i borealskogarna.</BorealForest.description>
     
     <Tundra.label>Tundra</Tundra.label>
-    <Tundra.description>På dessa frusna stäpper finns det nästan ingen vegetation och än mindre träd. Djurlivet består av ett antal mindre smådjur varvat med stora hjordar av säsongsvandrare - med predatorer i sitt följe.</Tundra.description>
+    <Tundra.description>Dessa frusna stäpper hyser nästan inga träd och väldigt lite vegetation. Där finns ett fåtal mindre djur inblandade med stora hordar långvandrande betesdjur och dess rovdjur.</Tundra.description>
     
     <IceSheet.label>Istäcke</IceSheet.label>
-    <IceSheet.description>Marken är täckt av ett flera kilometer tjockt lager is. Det finns varken odlingsbar mark eller sten, vilket i sin tur betyder att det inte finns något växtliv. De enda djuren som finns här är påväg någon annanstans - eller är väldigt vilse.</IceSheet.description>
+    <IceSheet.description>Ytan är täckt med ett lager is som kan vara flera kilometer tjockt. Det finns ingen tillgång till jord, så där finns inga växter. De enda djur som syns här migrerar någon annanstans - eller så blir de hopplöst förlorade.</IceSheet.description>
     
 </LanguageData>
