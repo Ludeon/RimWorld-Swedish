@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <QuadrupedAnimalWithPaws.label>fyrfotadjur</QuadrupedAnimalWithPaws.label>
+    <QuadrupedAnimalWithPaws.label>Fyrfotat djur med tassar</QuadrupedAnimalWithPaws.label>
     
-    <QuadrupedAnimalWithPawsAndTail.label>fyrfotadjur</QuadrupedAnimalWithPawsAndTail.label>
+    <QuadrupedAnimalWithPawsAndTail.label>Fyrfotat djur med tassar och svans</QuadrupedAnimalWithPawsAndTail.label>
     
-    <QuadrupedAnimalWithHooves.label>fyrfotadjur</QuadrupedAnimalWithHooves.label>
+    <QuadrupedAnimalWithHooves.label>Fyrfotat djur med hovar</QuadrupedAnimalWithHooves.label>
     
-    <QuadrupedAnimalWithHoovesAndHump.label>fyrfotadjur</QuadrupedAnimalWithHoovesAndHump.label>
+    <QuadrupedAnimalWithHoovesAndHump.label>Fyrfotat djur med hovar och puckel</QuadrupedAnimalWithHoovesAndHump.label>
     
-    <QuadrupedAnimalWithHoovesAndTusks.label>fyrfotadjur</QuadrupedAnimalWithHoovesAndTusks.label>
+    <QuadrupedAnimalWithHoovesAndTusks.label>Fyrfotat djur med hovar och betar</QuadrupedAnimalWithHoovesAndTusks.label>
     
-    <QuadrupedAnimalWithHoovesTusksAndTrunk.label>fyrfotadjur</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+    <QuadrupedAnimalWithHoovesTusksAndTrunk.label>Fyrfotat djur med betar och snabel</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
     
-    <QuadrupedAnimalWithHoovesAndHorn.label>fyrfotadjur</QuadrupedAnimalWithHoovesAndHorn.label>
+    <QuadrupedAnimalWithHoovesAndHorn.label>Fyrfotat djur med hovar och horn</QuadrupedAnimalWithHoovesAndHorn.label>
     
-    <QuadrupedAnimalWithClawsTailAndJowl.label>fyrfotadjur</QuadrupedAnimalWithClawsTailAndJowl.label>
+    <QuadrupedAnimalWithClawsTailAndJowl.label>Fyrfotat djur med klor, svans, och käkar</QuadrupedAnimalWithClawsTailAndJowl.label>
     
-    <TurtleLike.label>sköldpaddsliknande</TurtleLike.label>
+    <TurtleLike.label>Sköldpaddeliknande</TurtleLike.label>
     
-    <Monkey.label>apa</Monkey.label>
+    <Monkey.label>Apa</Monkey.label>
     
 </LanguageData>

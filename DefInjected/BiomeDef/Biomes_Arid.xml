@@ -2,12 +2,12 @@
 <LanguageData>
     
     <AridShrubland.label>Savann</AridShrubland.label>
-    <AridShrubland.description>En torr region, men inte torr nog för att bli en riktig öken. Öppna slätter med gräs och buskar ger utrymme för utspridda skogsdungar. Växter är härdade och det finns en måttlig mängd djur.</AridShrubland.description>
+    <AridShrubland.description>Ett torrt område, men inte torrt nog för att bli en riktig öken. Öppna slätter med gräs, buskar, och några enstaka träd. Här samsas den härade floran med en del vilddjur.</AridShrubland.description>
     
     <Desert.label>Öken</Desert.label>
-    <Desert.description>Ett väldigt torrt och hett område som har stöd för ytterst lite liv.</Desert.description>
+    <Desert.description>Ett väldigt torrt och väldigt varmt område med väldigt lite djur- och växtliv.</Desert.description>
     
     <ExtremeDesert.label>Extrem öken</ExtremeDesert.label>
-    <ExtremeDesert.description>Ett extremt hett och torrt område som nästan helt saknar levande varelser. Den ofantliga hettan och begränsad växtlighet gör det väldigt svårt att överleva här, även för välanpassade djur.</ExtremeDesert.description>
+    <ExtremeDesert.description>Ett extremt varmt och torrt område som nästan helt och hållet saknar djur- och växtliv. Den starka hettan gör det väldigt svårt att leva här, även för den mest anpassade av arter.</ExtremeDesert.description>
     
 </LanguageData>
