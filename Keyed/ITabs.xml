@@ -2,121 +2,121 @@
 <LanguageData>
 
   
-  <TabBills>Order</TabBills>
+  <TabBills>Beställning</TabBills>
   <TabGrowing>Växer</TabGrowing>
   <TabCharacter>Karaktär</TabCharacter>
-  <TabTraining>Training</TabTraining>
+  <TabTraining>Träning</TabTraining>
   <TabPrisoner>Fånge</TabPrisoner>
-  <TabGuest>Guest</TabGuest>
+  <TabGuest>Gäst</TabGuest>
   <TabGear>Utrustning</TabGear>
   <TabNeeds>Behov</TabNeeds>
   <TabStorage>Förvaring</TabStorage>
-  <TabHealth>Health</TabHealth>
-  <TabRace>Race</TabRace>
-  <TabBasics>Basics</TabBasics>
-  <TabStats>Stats</TabStats>
-  <TabRecords>Records</TabRecords>
-  <TabArt>Art</TabArt>
-  <TabSocial>Social</TabSocial>
+  <TabHealth>Hälsa</TabHealth>
+  <TabRace>Ras</TabRace>
+  <TabBasics>Grundläggande</TabBasics>
+  <TabStats>Statistik</TabStats>
+  <TabRecords>Uppgifter</TabRecords>
+  <TabArt>Konst</TabArt>
+  <TabSocial>Socialt</TabSocial>
 
   
   
-  <AddBill>Lägg till order</AddBill>
-  <RecipeRequiresSkills>Recepted {0} kräver nedanstående färdigheter. Ingen av dina kolonister har dessa färdigheter, så ingen kommer att göra denna order.</RecipeRequiresSkills>
-  <MinimumSkill>Min skill</MinimumSkill>
+  <AddBill>Lägg till beställning</AddBill>
+  <RecipeRequiresSkills>Receptet {0} kräver nedanstående färdigheter. Ingen av dina kolonister har dessa färdigheter, så ingen kommer att göra denna beställning.</RecipeRequiresSkills>
+  <MinimumSkill>Min färdighet</MinimumSkill>
   <SuspendedCaps>AVSTÄNGD</SuspendedCaps>
-  <BoundWorkerIs>Worker: {0}</BoundWorkerIs>
+  <BoundWorkerIs>Arbetare: {0}</BoundWorkerIs>
   <PlantVerb>Plantera</PlantVerb>
 
 
   
   <RecruitmentDifficulty>Svårighetsgrad av rekrytering</RecruitmentDifficulty>
-  <GetsFood>Gets food</GetsFood>
+  <GetsFood>Hämtar mat</GetsFood>
   <DoctorsCare>Doctors care</DoctorsCare>
-  <GetsMedicine>Gets medicine</GetsMedicine>
+  <GetsMedicine>Hämtar medicin</GetsMedicine>
   <ShouldTryToRecruit>Försök rekrytera</ShouldTryToRecruit>
   <PrisonerNoInteraction>Ingen interaktion</PrisonerNoInteraction>
-  <PrisonerFriendlyChat>Vänlig chatt</PrisonerFriendlyChat>
-  <PrisonerAttemptRecruit>Chat and recruit</PrisonerAttemptRecruit>
-  <PrisonerRelease>Release</PrisonerRelease>
+  <PrisonerFriendlyChat>Vänlig samtal</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Samtal and rektytering</PrisonerAttemptRecruit>
+  <PrisonerRelease>Frige</PrisonerRelease>
   <PrisonerExecution>Avrättning</PrisonerExecution>
 
 
   
   <MoveSpeed>Rörelsehastighet</MoveSpeed>
-  <Efficiency>Efficiency</Efficiency>
-  <MissingBodyPart>Gone</MissingBodyPart>
-  <DestroyedBodyPart>Destroyed</DestroyedBodyPart>
-  <ShatteredBodyPart>Shattered</ShatteredBodyPart>
-  <RemovedBodyPart>Removed</RemovedBodyPart>
-  <Healthy>Healthy</Healthy>
-  <InPain>In pain</InPain>
-  <PainLevel>Pain</PainLevel>
-  <Dead>Dead</Dead>
-  <Unconscious>Unconscious</Unconscious>
-  <PainShock>In shock</PainShock>
-  <Injured>Injured</Injured>
-  <NoInjuries>(no injuries)</NoInjuries>
-  <WholeBody>Whole body</WholeBody>
-  <DataProcessing>Data processing</DataProcessing>
-  <Communication>Communication</Communication>
-  <Affects>Affects</Affects>
-  <BleedingRate>Bleeding rate</BleedingRate>
-  <HealthOverview>Overview</HealthOverview>
-  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
-  <MedicalOperations>Medical operations</MedicalOperations>
-  <Amputate>Amputate</Amputate>
-  <Harvest>Harvest</Harvest>
-  <RemoveOrgan>Remove</RemoveOrgan>
-  <MemoryLower>memory</MemoryLower>
-  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
-  <HungerRate>Hunger rate</HungerRate>
-  <Tiredness>Tiredness</Tiredness>
-  <PainFactor>Pain</PainFactor>
-  <PreventsInfection>Prevents infection</PreventsInfection>
+  <Efficiency>Effektivitet</Efficiency>
+  <MissingBodyPart>Borta</MissingBodyPart>
+  <DestroyedBodyPart>Förstörd</DestroyedBodyPart>
+  <ShatteredBodyPart>Splittrad</ShatteredBodyPart>
+  <RemovedBodyPart>Avlägsnad</RemovedBodyPart>
+  <Healthy>Hälsosam</Healthy>
+  <InPain>Har smärta</InPain>
+  <PainLevel>Smärta</PainLevel>
+  <Dead>Död</Dead>
+  <Unconscious>Medvetslös</Unconscious>
+  <PainShock>I shock</PainShock>
+  <Injured>Skadad</Injured>
+  <NoInjuries>(inga skador)</NoInjuries>
+  <WholeBody>Hela kroppen</WholeBody>
+  <DataProcessing>Databehandling</DataProcessing>
+  <Communication>Kommunikation</Communication>
+  <Affects>Berör</Affects>
+  <BleedingRate>blödningshastighet</BleedingRate>
+  <HealthOverview>Översikt</HealthOverview>
+  <MedicalOperationsShort>Operationer ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifikationer ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medicinska operationer</MedicalOperations>
+  <Amputate>Aputera</Amputate>
+  <Harvest>Skörda</Harvest>
+  <RemoveOrgan>Avlägsna</RemoveOrgan>
+  <MemoryLower>minne</MemoryLower>
+  <SocialInteractionsLower>sociala interaktioner</SocialInteractionsLower>
+  <HungerRate>Hungernivå</HungerRate>
+  <Tiredness>Trötthet</Tiredness>
+  <PainFactor>Smärta</PainFactor>
+  <PreventsInfection>Förhindra infektion</PreventsInfection>
   
 
   
-  <None>None</None>
-  <VeryPoor>Very poor</VeryPoor>
-  <Poor>Poor</Poor>
-  <Weakened>Weakened</Weakened>
+  <None>Ingen</None>
+  <VeryPoor>Väldigt dåligt</VeryPoor>
+  <Poor>Dåligt</Poor>
+  <Weakened>Försvagad</Weakened>
   <GoodCondition>OK</GoodCondition>
-  <Enhanced>Enhanced</Enhanced>
-  <SeriouslyImpaired>Seriously impaired</SeriouslyImpaired>
-  <Impaired>Impaired</Impaired>
-  <SlightlyImpaired>Slightly impaired</SlightlyImpaired>
-  <NoPain>None</NoPain>
-  <LittlePain>Little</LittlePain>
-  <MediumPain>Medium</MediumPain>
-  <SeverePain>Severe</SeverePain>
-  <ExtremePain>Extreme</ExtremePain>
+  <Enhanced>Förbättrad</Enhanced>
+  <SeriouslyImpaired>Kraftigt försämrad</SeriouslyImpaired>
+  <Impaired>Försämrad</Impaired>
+  <SlightlyImpaired>Något försämrad</SlightlyImpaired>
+  <NoPain>Ingen</NoPain>
+  <LittlePain>Lite</LittlePain>
+  <MediumPain>Medel</MediumPain>
+  <SeverePain>Svår</SeverePain>
+  <ExtremePain>Extrem</ExtremePain>
 
 
   
-  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
-  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
+  <TrainableIntelligence>Träningsbar intelligens</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Kräver träningsbar intelligens {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} är för liten för att kunna träna detta.</CannotTrainTooSmall>
 
-  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>Förutsättning behövs: {0}</TrainingNeedsPrerequisite>
   
   
-  <NoRelationships>(no relationships)</NoRelationships>
-  <Kidnapped>Kidnapped</Kidnapped>
-  <Slave>Slave</Slave>
-  <FactionLeader>Faction leader</FactionLeader>
-  <OpinionOf>Opinion of {0}</OpinionOf>
-  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
-  <IAmDead>I'm dead</IAmDead>
-  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+  <NoRelationships>(ingen relation)</NoRelationships>
+  <Kidnapped>Kidnappad</Kidnapped>
+  <Slave>Slav</Slave>
+  <FactionLeader>Fraktionens ledare</FactionLeader>
+  <OpinionOf>Åsikt av {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'s åsikt av mig</SomeonesOpinionOfMe>
+  <IAmDead>Jag är död</IAmDead>
+  <IAmPsychopath>Jag är en psykopat</IAmPsychopath>
   
   
-  <AverageArmor>Average armor</AverageArmor>
-  <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
-  <ArmorBlunt>Blunt</ArmorBlunt>
-  <ArmorSharp>Sharp</ArmorSharp>
-  <ArmorHeat>Heat</ArmorHeat>
-  <ArmorElectric>Electric</ArmorElectric>
+  <AverageArmor>Medelskydd mot:</AverageArmor>
+  <ComfyTemperatureRange>Komfortabel temperaturzon</ComfyTemperatureRange>
+  <ArmorBlunt>Trubbigt</ArmorBlunt>
+  <ArmorSharp>Skarpt</ArmorSharp>
+  <ArmorHeat>Hetta</ArmorHeat>
+  <ArmorElectric>Elektrisk</ArmorElectric>
 
 </LanguageData>

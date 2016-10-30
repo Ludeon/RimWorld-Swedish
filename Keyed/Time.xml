@@ -9,28 +9,28 @@
   <DaysLower>dagar</DaysLower>
   <SecondsLower>sekunder</SecondsLower>
 
-  <SeasonSpring>spring</SeasonSpring>
-  <SeasonSummer>summer</SeasonSummer>
-  <SeasonFall>fall</SeasonFall>
-  <SeasonWinter>winter</SeasonWinter>
+  <SeasonSpring>vår</SeasonSpring>
+  <SeasonSummer>sommar</SeasonSummer>
+  <SeasonFall>höst</SeasonFall>
+  <SeasonWinter>vinter</SeasonWinter>
 
-  <Born>Born: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} seasons, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} seasons, {2} days</AgeBiological>
-
-  
-	<Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
-  <Period1Season>1 season</Period1Season>
-  <PeriodSeasons>{0} seasons</PeriodSeasons>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
+  <Born>Född: {0}</Born>
+  <AgeChronological>Kronologisk ålder: {0} år, {1} säsonger, {2} dagar</AgeChronological>
+  <AgeBiological>Biologisk ålder: {0} år, {1} säsonger, {2} dagar</AgeBiological>
 
   
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  <Period1Year>1 år</Period1Year>
+  <PeriodYears>{0} år</PeriodYears>
+  <Period1Season>1 säsong</Period1Season>
+  <PeriodSeasons>{0} säsonger</PeriodSeasons>
+  <Period1Day>1 dag</Period1Day>
+  <PeriodDays>{0} dagar</PeriodDays>
+  <Period1Hour>1 timmar</Period1Hour>
+  <PeriodHours>{0} timmar</PeriodHours>
+
+  
+  <Started>Börjat</Started>
+  <Lasted>Varar</Lasted>
+  <OccurredTimeAgo>inträffade {0} sedan</OccurredTimeAgo>
   
 </LanguageData>

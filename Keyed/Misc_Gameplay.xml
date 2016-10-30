@@ -7,142 +7,142 @@
   <ContainedResources>Innehållande resurser</ContainedResources>
   <ForPrisonerUse>För användning av fångar</ForPrisonerUse>
   <ForColonistUse>För användning av kolonister</ForColonistUse>
-  <MedicalBed>Medical</MedicalBed>
+  <MedicalBed>Medecin</MedicalBed>
   <Owner>Ägare</Owner>
-  <Owners>Owners</Owners>
-  <AssignedColonist>Assigned colonist</AssignedColonist>
+  <Owners>Ägare</Owners>
+  <AssignedColonist>Tilldelad kolonist</AssignedColonist>
   <Nobody>Ingen</Nobody>
   <Unowned>Oägd</Unowned>
   <DeadTime>Död {0}</DeadTime>
   <WalkSpeed>gånghastighet {0}</WalkSpeed>
-  <FertShort>fert.</FertShort>
+  <FertShort>befr.</FertShort>
   <DyingLower>dör</DyingLower>
   <FilthOnFeet>Smuts på fötter:</FilthOnFeet>
   <NotEnoughStoredLower>inte nog förvarat</NotEnoughStoredLower>
   <NothingLower>ingenting</NothingLower>
-  <Adapted>Adapted</Adapted>
-  <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
-  <UntreatedLower>untreated</UntreatedLower>
-  <DevelopedImmunityLower>developed immunity</DevelopedImmunityLower>
-  <InjuryRequiresTreatment>Requires treatment to heal</InjuryRequiresTreatment>
-  <NextTreatmentIn>Next treatment in {0}</NextTreatmentIn>
-  <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
-  <Immunity>Immunity</Immunity>
-  <Race>Race</Race>
-  <Description>Description</Description>
+  <Adapted>Anpassat</Adapted>
+  <FreshMissingBodyPart>färskt</FreshMissingBodyPart>
+  <UntreatedLower>obehandlat</UntreatedLower>
+  <DevelopedImmunityLower>utvecklad immunitet</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>Kräve behandling för att läka</InjuryRequiresTreatment>
+  <NextTreatmentIn>Nästa behandling om {0}</NextTreatmentIn>
+  <MissingMedicalBillIngredient>ingen {0}</MissingMedicalBillIngredient>
+  <Immunity>Immunitet</Immunity>
+  <Race>Ras</Race>
+  <Description>Beskrivning</Description>
   <Equipment>Utrustning</Equipment>
   <Apparel>Kläder</Apparel>
   <Inventory>Förråd</Inventory>
   <ThingInfo>Information</ThingInfo>
   <DropThing>Släpp</DropThing>
-  <Rename>Rename</Rename>
-  <RenameColonist>Rename colonist</RenameColonist>
-  <UnknownLower>unknown</UnknownLower>
-  <On>On</On>
-  <Off>Off</Off>
-  <PowerSwitch_Power>Power</PowerSwitch_Power>
-  <JoyTolerances>Joy tolerances</JoyTolerances>
-  <MilkFullness>Milk fullness</MilkFullness>
-  <WoolGrowth>Wool growth</WoolGrowth>
-  <EggProgress>Egg progress</EggProgress>
-  <Fertilized>Fertilized</Fertilized>
-  <ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
-  <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
-  <EggDamagedEmbryo>damaged embryo</EggDamagedEmbryo>
-  <CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
-  <HiveReproducesIn>Reproduces in</HiveReproducesIn>
-  <BrokenDown>Broken down</BrokenDown>
-  <BondBrackets>(bond)</BondBrackets>
-  <Fuel>Fuel</Fuel>
-  <Enemies>enemies</Enemies>
-  <TimePassed>time passed</TimePassed>
-  <CurrentRadius>current radius</CurrentRadius>
-  <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
+  <Rename>Byt namn</Rename>
+  <RenameColonist>Byt namn på Kolonist</RenameColonist>
+  <UnknownLower>okänd</UnknownLower>
+  <On>På</On>
+  <Off>Av</Off>
+  <PowerSwitch_Power>Effekt</PowerSwitch_Power>
+  <JoyTolerances>Glädje tolerans</JoyTolerances>
+  <MilkFullness>Mjölkfyllnad</MilkFullness>
+  <WoolGrowth>Yllelägd</WoolGrowth>
+  <EggProgress>Äggutveckling</EggProgress>
+  <Fertilized>Befruktad</Fertilized>
+  <ProgressStoppedUntilFertilized>Utveckling stoppad i väntan på befruktning</ProgressStoppedUntilFertilized>
+  <SkillTooLow>behöver {0} nivå {2}, har {1}</SkillTooLow>
+  <EggDamagedEmbryo>skadat embryo</EggDamagedEmbryo>
+  <CorpsePercentMissing>Saknad kroppsdel</CorpsePercentMissing>
+  <HiveReproducesIn>Fortplantning inom</HiveReproducesIn>
+  <BrokenDown>Nedbruten</BrokenDown>
+  <BondBrackets>(band)</BondBrackets>
+  <Fuel>Drivmedel</Fuel>
+  <Enemies>fiender</Enemies>
+  <TimePassed>tid passerad</TimePassed>
+  <CurrentRadius>nuvarande radie</CurrentRadius>
+  <RadiusExpandsIn>radien expanderas inom</RadiusExpandsIn>
   <Permanent>permanent</Permanent>
-  <Temperature>Temperature</Temperature>
-  <BadTemperature>bad temperature</BadTemperature>
-  <IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
-  <DrugEffectMultiplier>{0} effect multiplier</DrugEffectMultiplier>
+  <Temperature>Temperatur</Temperature>
+  <BadTemperature>Dålig temperatur</BadTemperature>
+  <IdealFermentingTemperature>Idealisk jäsningstemperatur</IdealFermentingTemperature>
+  <DrugEffectMultiplier>{0} effekt multiplikator</DrugEffectMultiplier>
   
   
-  <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
-  <ContainsBeer>Contains {0} / {1} beer.</ContainsBeer>
-  <Fermented>Fermented</Fermented>
-  <FermentationProgress>Progress: {0} (finished in about {1}).</FermentationProgress>
-  <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed multiplier: {0}</FermentationBarrelOutOfIdealTemperature>
+  <ContainsWort>Innehåller {0} / {1} vört.</ContainsWort>
+  <ContainsBeer>Innehåller {0} / {1} öl.</ContainsBeer>
+  <Fermented>Jäst</Fermented>
+  <FermentationProgress>Utveckling: {0} (färdigt inom {1}).</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>Ej ideal temperatur. Jäshastighets-multiplikator: {0}</FermentationBarrelOutOfIdealTemperature>
   
   
-  <Headshot>Headshot</Headshot>
-  <TreatQuality>treat quality {0}</TreatQuality>
-  <PoorResult>poor result</PoorResult>
-  <GoodResult>good result</GoodResult>
-  <TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
-  <TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
-  <HarvestFailed>Harvest\nfailed</HarvestFailed>
-  <TextMote_RecruitFail>Recruit failed!\n{0} chance</TextMote_RecruitFail>
-  <TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
-  <TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
-  <TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
-  <TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
-  <TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
-  <TextMote_ConstructionFail>Construction\nfailed</TextMote_ConstructionFail>
+  <Headshot>Huvudskott</Headshot>
+  <TreatQuality>behandlingskvalitet {0}</TreatQuality>
+  <PoorResult>dåligt resultat</PoorResult>
+  <GoodResult>bra resultat</GoodResult>
+  <TextMote_TreatSuccess>Behandling lyckades!\n{0} chans</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>Behandling misslyckades\n{0} chans</TextMote_TreatFailed>
+  <HarvestFailed>Skörda\nmisslyckades</HarvestFailed>
+  <TextMote_RecruitFail>Rekrytering misslyckades!\n{0} chans</TextMote_RecruitFail>
+  <TextMote_TameFail>Tämjning misslyckades\n{0} chans</TextMote_TameFail>
+  <TextMote_TameSuccess>Tämjd!\n{0} chans</TextMote_TameSuccess>
+  <TextMote_TrainFail>Misslyckad träning: {0}\n{1} chans</TextMote_TrainFail>
+  <TextMote_TrainSuccess>Tränad: {0}\n{1} chans</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>Reparation\nmisslyckades</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_ConstructionFail>Konstruktion\nmisslyckades</TextMote_ConstructionFail>
 
   
-  <Home>Home</Home>
-  <BuildRoof>Build roof</BuildRoof>
-  <NoRoof>No roof</NoRoof>
-  <SnowClear>Snow clear</SnowClear>
-  <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
-  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
-  <NoAreaAllowed>Unrestricted</NoAreaAllowed>
-  <NewArea>New area</NewArea>
-  <NewAreaAnimal>New animal area</NewAreaAnimal>
-  <InvertArea>Invert</InvertArea>
+  <Home>Hem</Home>
+  <BuildRoof>Bygg tak</BuildRoof>
+  <NoRoof>Inget tak</NoRoof>
+  <SnowClear>Snö skottad</SnowClear>
+  <AreaDefaultLabel>Område {0}</AreaDefaultLabel>
+  <AreaAnimalDefaultLabel>Djurområde {0}</AreaAnimalDefaultLabel>
+  <NoAreaAllowed>Obegränsad</NoAreaAllowed>
+  <NewArea>Nytt område</NewArea>
+  <NewAreaAnimal>Nytt djurområde</NewAreaAnimal>
+  <InvertArea>Invertera</InvertArea>
   
   
-  <CannotOrderNonControlled>Cannot order non-controlled units.</CannotOrderNonControlled>
-  <IsIncapableOfViolence>{0} is incapable of violence.</IsIncapableOfViolence>
-  <IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
-  <IsNotDrafted>{0} is not drafted.</IsNotDrafted>
+  <CannotOrderNonControlled>kan inte beordra en icke-kontrollerad enhet.</CannotOrderNonControlled>
+  <IsIncapableOfViolence>{0} är inte kapabel till våld.</IsIncapableOfViolence>
+  <IsIncapableOfViolenceShort>ej kababel till våld</IsIncapableOfViolenceShort>
+  <IsNotDrafted>{0} är inte kommenderad.</IsNotDrafted>
   
   
-  <SnowNone>No snow</SnowNone>
-  <SnowDusting>Snow (dusting)</SnowDusting>
-  <SnowThin>Snow (thin)</SnowThin>
-  <SnowMedium>Snow (medium)</SnowMedium>
-  <SnowThick>Snow (thick)</SnowThick>
+  <SnowNone>Ingen snö</SnowNone>
+  <SnowDusting>Snö (puder)</SnowDusting>
+  <SnowThin>Snö (tunnt)</SnowThin>
+  <SnowMedium>Snö (medel)</SnowMedium>
+  <SnowThick>Snö (tjockt)</SnowThick>
   
   
   <GunInstalled>Installerad</GunInstalled>
   <MinimumRange>Minimal räckvidd</MinimumRange>
   <CanFireIn>Kan skjuta inom</CanFireIn>
-  <ShellLoaded>Shell loaded</ShellLoaded>
-  <ShellNotLoaded>Not loaded</ShellNotLoaded>
+  <ShellLoaded>Granat laddad</ShellLoaded>
+  <ShellNotLoaded>Ej laddad</ShellNotLoaded>
   
   
-	<ReportHaulingTo>Drar {0} till {1}.</ReportHaulingTo>
-	<ReportHauling>Drar {0}.</ReportHauling>
-  <ReportSleeping>Sleeping.</ReportSleeping>
-  <ReportResting>Resting.</ReportResting>
-  <WatchingSunrise>Watching the sunrise</WatchingSunrise>
-  <CloudWatching>Cloudwatching</CloudWatching>
-  <WatchingSunset>Watching the sunset</WatchingSunset>
-  <Stargazing>Stargazing</Stargazing>
-  <WatchingEclipse>Watching the eclipse</WatchingEclipse>
-  <UsingVerb>Using {0} on {1}.</UsingVerb>
-  <AreaLower>area</AreaLower>
-  <ReportCowering>Cowering.</ReportCowering>
-  <ReportStanding>standing.</ReportStanding>
-  <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
-  <ReportExtinguishingFireOn>extinguishing fire on {0}.</ReportExtinguishingFireOn>
+	<ReportHaulingTo>Släpar {0} till {1}.</ReportHaulingTo>
+	<ReportHauling>Släpa {0}.</ReportHauling>
+  <ReportSleeping>Sover.</ReportSleeping>
+  <ReportResting>Vilar.</ReportResting>
+  <WatchingSunrise>Tittar på soluppgången</WatchingSunrise>
+  <CloudWatching>Tittar på moln</CloudWatching>
+  <WatchingSunset>Tittar på solnedgången</WatchingSunset>
+  <Stargazing>Tittar på stjärnorna</Stargazing>
+  <WatchingEclipse>Tittar på solförmörkelse</WatchingEclipse>
+  <UsingVerb>Använder {0} på {1}.</UsingVerb>
+  <AreaLower>område</AreaLower>
+  <ReportCowering>Hukar.</ReportCowering>
+  <ReportStanding>står.</ReportStanding>
+  <ReportExtinguishingFire>släcker eld.</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>släcker eld i {0}.</ReportExtinguishingFireOn>
   
   
-  <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
-  <LordReportAttendingParty>Attending party</LordReportAttendingParty>
+  <LordReportAttendingMarriageCeremony>Är på bröllopscermoni</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>Är på fest</LordReportAttendingParty>
   
 	
-  <WeaponMissRadius>Vapens missradius</WeaponMissRadius>
-	<ShootReportShooterAbility>Shooter</ShootReportShooterAbility>
+  <WeaponMissRadius>Vapenets missradie</WeaponMissRadius>
+	<ShootReportShooterAbility>Skytt</ShootReportShooterAbility>
 	<ShootReportWeapon>Vapen</ShootReportWeapon>
 	<Darkness>Mörker</Darkness>
 	<TargetProne>Mål ligger ner</TargetProne>
@@ -151,25 +151,25 @@
 	<ShootingCover>Skydd</ShootingCover>
 	<CoverThingBlocksPercentOfShots>{0} stoppar {1}</CoverThingBlocksPercentOfShots>
 	<NoCoverLower>inget skydd</NoCoverLower>
-  <Execution>Execution</Execution>
+  <Execution>Avrättning</Execution>
 	
   
-  <RecipeMake>Make {0}</RecipeMake>
-  <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
+  <RecipeMake>Tillverka {0}</RecipeMake>
+  <RecipeMakeJobString>Tillverkar {0}.</RecipeMakeJobString>
   
   
   <ThoughtExpiresIn>Går ut om: {0}</ThoughtExpiresIn>
   <ThoughtStartsExpiringIn>Börjar gå ut om: {0}</ThoughtStartsExpiringIn>
   <ThoughtFinishesExpiringIn>Har gått ut om: {0}</ThoughtFinishesExpiringIn>
-  <MentalBreakThresholdExtreme>Extreme break threshold</MentalBreakThresholdExtreme>
-  <MentalBreakThresholdMajor>Major break threshold</MentalBreakThresholdMajor>
-  <MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
+  <MentalBreakThresholdExtreme>Extrem sammanbrottsgräns</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>Stor sammanbrottsgräns</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>Mindre sammanbrottsgräns</MentalBreakThresholdMinor>
 
   
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
-  <PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{0} av {1}</PawnMainDescFactionedWrap>
   <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
-  <Faction>Anhang</Faction>
+  <Faction>Fraktion</Faction>
   <Equipped>Utrustat</Equipped>
   <EquippedNothing>Ingenting</EquippedNothing>
   <Incapacitated>Trasig</Incapacitated>
@@ -181,30 +181,30 @@
   <DefInfoTip>Se information om detta objekt.</DefInfoTip>
   
   
-  <HostilityReponseTip>Change how to react to nearby enemies when the colonist is not drafted.</HostilityReponseTip>
-  <HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
+  <HostilityReponseTip>Ändra hur en kolonist reagerar på fienden när den inte är kommenderad.</HostilityReponseTip>
+  <HostilityResponseCurrentMode>Nuvarande reaktion</HostilityResponseCurrentMode>
   
 	
 	<OfLower>av</OfLower>
 
 	
 	<PowerNotConnected>Ingen anslutning till ström.</PowerNotConnected>
-  <PowerConnectedRateStored>Connected rate/stored: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerConnectedRateStored>Ansluten takt/lagrad: {0} W / {1} Wd</PowerConnectedRateStored>
   <PowerNeeded>Behöver ström</PowerNeeded>
   <PowerOutput>Strömproduktion</PowerOutput>
   <PowerBatteryStored>Lagrat</PowerBatteryStored>
   <PowerBatteryEfficiency>Effektivitet</PowerBatteryEfficiency>
 
   
-  <TargetTemperature>Target temperature</TargetTemperature>
-  <PowerConsumptionMode>Current power use</PowerConsumptionMode>
-  <PowerConsumptionHigh>High</PowerConsumptionHigh>
-  <PowerConsumptionLow>Low</PowerConsumptionLow>
+  <TargetTemperature>Måltemperatur</TargetTemperature>
+  <PowerConsumptionMode>Nuvarande Effektanvändning</PowerConsumptionMode>
+  <PowerConsumptionHigh>Hög</PowerConsumptionHigh>
+  <PowerConsumptionLow>Låg</PowerConsumptionLow>
   
   
-  <Indoors>Indoors</Indoors>
-  <IndoorsUnroofed>Unroofed</IndoorsUnroofed>
-  <Outdoors>Outdoors</Outdoors>
+  <Indoors>Inomhus</Indoors>
+  <IndoorsUnroofed>Ej tak</IndoorsUnroofed>
+  <Outdoors>Utomhus</Outdoors>
   
   
 	<RotStateFresh>Färsk</RotStateFresh>
@@ -216,31 +216,31 @@
   <CannotHit>Kan inte träffa mål.</CannotHit>
 
   
-  <CurrentlyFrozen>Frozen (won't spoil)</CurrentlyFrozen>
-  <CurrentlyRefrigerated>Refrigerated (Spoils in {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>Not refrigerated (Spoils in {0})</NotRefrigerated>
-  <OverADecade>over a decade</OverADecade>
-  <LessThanADay>less than a day</LessThanADay>
+  <CurrentlyFrozen>Frusen (kommer ej förstöras)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Kylt (förstörs om {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Ej kylt (förstörs om {0})</NotRefrigerated>
+  <OverADecade>oöver ett årtionde</OverADecade>
+  <LessThanADay>mindre än ett år</LessThanADay>
   
   
   <Ingredients>Ingredienser</Ingredients>
 
   
   <PercentGrowth>{0}% tillväxt</PercentGrowth>
-  <GrowthRate>Growth rate</GrowthRate>
+  <GrowthRate>tillväxt</GrowthRate>
   <FullyGrownIn>Fullt tillväxt om {0} av tillväxt.</FullyGrownIn>
-  <PlantNeedsLightLevel>Needs light level</PlantNeedsLightLevel>
-  <PlantResting>Resting</PlantResting>
-  <OutOfIdealTemperatureRange>Out of ideal temperature range (growing at {0}% of normal speed)</OutOfIdealTemperatureRange>
-  <OutOfIdealTemperatureRangeNotGrowing>Out of ideal temperature range (not growing)</OutOfIdealTemperatureRangeNotGrowing>
+  <PlantNeedsLightLevel>Behöver ljus nivå</PlantNeedsLightLevel>
+  <PlantResting>Vilar</PlantResting>
+  <OutOfIdealTemperatureRange>Utanför ideal temperaturnivå (växer {0}% av normal hastighet)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Utanför ideal temperaturnivå (växer ej)</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>Redo för skörd.</ReadyToHarvest>
   <Mature>Mogen.</Mature>
-  <SeedLabel>{0} seed</SeedLabel>
-  <OutdoorGrowingPeriod>Growing period: {0}</OutdoorGrowingPeriod>
-  <NoGrowingPeriod>Never</NoGrowingPeriod>
-  <GrowYearRound>Year-round</GrowYearRound>
-  <GrowSeasonHereNow>Growing season here now.</GrowSeasonHereNow>
-  <CannotGrowTooCold>Cannot grow - cold season.</CannotGrowTooCold>
+  <SeedLabel>{0} frö</SeedLabel>
+  <OutdoorGrowingPeriod>Växtperiod: {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Aldrig</NoGrowingPeriod>
+  <GrowYearRound>Året runt</GrowYearRound>
+  <GrowSeasonHereNow>Nuvarande växtsäsong.</GrowSeasonHereNow>
+  <CannotGrowTooCold>Kan ej växa - för kallt.</CannotGrowTooCold>
 
   
   <Zone>Zon</Zone>
@@ -248,27 +248,27 @@
   <Stockpile>Förråd</Stockpile>
   <DumpingStockpile>Dumpingsplats</DumpingStockpile>
   <Priority>Prioritet</Priority>
-  <ClearAll>Clear all</ClearAll>
-  <AllowAll>Allow all</AllowAll>
+  <ClearAll>Rensa allt</ClearAll>
+  <AllowAll>Tillåt allt</AllowAll>
 
   
-	<HitPoints>{0} hit points</HitPoints>
-	<AnyQuality>any quality</AnyQuality>
-	<OnlyQuality>{0} only</OnlyQuality>
+	<HitPoints>{0} träffpoäng</HitPoints>
+	<AnyQuality>all kvalitet</AnyQuality>
+	<OnlyQuality>{0} endast</OnlyQuality>
 
 	
   <Undiscovered>Oupptäckt</Undiscovered>
   
   
-  <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
-  <ZoneVisibilityToggleButton>Växla visibilitet av zoner.</ZoneVisibilityToggleButton>
-  <ShowBeautyToggleButton>Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing.</ShowBeautyToggleButton>
-  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
-  <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.</ShowColonistBarToggleButton>
-  <AutoHomeAreaToggleButton>Toggle automatically expanding the home area around new constructions.</AutoHomeAreaToggleButton>
-  <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
-  <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
-  <ShowRoofOverlayToggleButton>Toggle visiblity of roofs.</ShowRoofOverlayToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton> Växla synlightet av lärohjälpen när den är tom\n\nLärohjälpen är alltid synlig om det finns ett begrepp aktiverat att lära sig om. Den här växeln gör så att den försvinner när begreppet inte är aktivt.</ShowLearningHelperWhenEmptyToggleButton>
+  <ZoneVisibilityToggleButton>Växla synlightet av zoner.</ZoneVisibilityToggleButton>
+  <ShowBeautyToggleButton>Växla skönhets vyn.\n\nVisar platsens skönhet utifrån om en person skulle stå där muspekarn pekar.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Växlar rumstatistik visare.\n\nVisar rummets statistik muspekarn pekar.</ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>Växlar kolonistfältet.\n\nVisar ikoner och grundläggande status för alla kolonister överst på sidan.</ShowColonistBarToggleButton>
+  <AutoHomeAreaToggleButton>Växlar att automatiskt expandera hemområdet runt nya konstruktioner.</AutoHomeAreaToggleButton>
+  <CategorizedResourceReadoutToggleButton>Växlar kategorisering vy av resurslistan överst till vänster.</CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>Växlar visa namn på tama djur.</ShowAnimalNamesToggleButton>
+  <ShowRoofOverlayToggleButton>Växlar synlighet av tak.</ShowRoofOverlayToggleButton>
 
   
   <Fire>Brand</Fire>
@@ -278,28 +278,28 @@
  
   
   <MapConditionsTip>Speciella förhållanden som påverkar området just nu.</MapConditionsTip>
-  <TimeLeft>time left</TimeLeft>
-  <ImpactDate>impact date</ImpactDate>
+  <TimeLeft>tid kvar</TimeLeft>
+  <ImpactDate>påverkar datum</ImpactDate>
 
   
-  <NoStuffsToBuildWith>You have no usable materials from which to build this.</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>Du har inga användbara material för att bygga detta.</NoStuffsToBuildWith>
 
   
   <MustPlaceUnroofed>Kan inte placeras under ett tak.</MustPlaceUnroofed>
   <MustPlaceHeadOnShipBeam>Måste placeras med huvud fastsatt till skepps strukturella balk.</MustPlaceHeadOnShipBeam>
   <MustPlaceNextToHopperAccepter>Måste placeras bredvid något som behöver en tratt.</MustPlaceNextToHopperAccepter>
   <MustPlaceOnSteamGeyser>Måste placeras på ång gejser.</MustPlaceOnSteamGeyser>
-  <MustPlaceCoolerWithFreeSpaces>Both the hot and cold sides of the cooler must be exposed.</MustPlaceCoolerWithFreeSpaces>
-	<MustPlaceVentWithFreeSpaces>Both the sides must be exposed for air to pass through.</MustPlaceVentWithFreeSpaces>
-	<MustPlaceAdjacentStandable>Must be placed with standable space on all sides.</MustPlaceAdjacentStandable>
+  <MustPlaceCoolerWithFreeSpaces>Både den varma och den kalla sidan av kylaren måste vara exponerad.</MustPlaceCoolerWithFreeSpaces>
+	<MustPlaceVentWithFreeSpaces>Båda sidor måste vara exponerade för att luft skall kunna passera igenom.</MustPlaceVentWithFreeSpaces>
+	<MustPlaceAdjacentStandable>Måste vara placerad med ståplats på alla sidor.</MustPlaceAdjacentStandable>
 	
 	
-  <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
-  <WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedBy>Blockerad av</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Blockerat av tak</WindTurbine_WindPathIsBlockedByRoof>
 
   
-  <CasketContains>Contains</CasketContains>
-  <CasketWarning>Warning!\n\nNAME is your last free-standing colonist! If you let HIM step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
+  <CasketContains>Innehåller</CasketContains>
+  <CasketWarning>Varning!\n\nNAME är din sista fristående kolonist! Om du låter HIM gå in i kistan kommer du inte kunna fortsätta spela. Är du säker på att du vill fullfölja?</CasketWarning>
 
   
   <ShipReportCannotLaunch>Kan inte starta.</ShipReportCannotLaunch>
@@ -308,88 +308,88 @@
   <ShipReportNoFullPods>Inga fulla cryptosömnkapslar</ShipReportNoFullPods>
 
   
-  <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
+  <NeurotrainerUsed>{0} använder {1} neurotränare att gå ifrån nivå {2} till nivå {3}.</NeurotrainerUsed>
   
   
-  <Installed>Installed</Installed>
-  <NotInstalled>Not installed</NotInstalled>
+  <Installed>Installerad</Installed>
+  <NotInstalled>Ej installerad</NotInstalled>
 
   
-  <Title>Title</Title>
-  <Untitled>Untitled</Untitled>
+  <Title>Titel</Title>
+  <Untitled>Odöpt</Untitled>
   
   
-  <UnfinishedItem>Unfinished {0}</UnfinishedItem>
-  <UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItem>Oavslutat {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Oavslutat {0} {1}</UnfinishedItemWithStuff>
 
   
-  <Quality>Quality</Quality>
-  <QualityDescription>An item's quality is how well-made it is.</QualityDescription>
-  <QualityIs>Quality: {0}</QualityIs>
+  <Quality>Kvalitet</Quality>
+  <QualityDescription>Ett föremåls kvalitet är hur välgjort det är.</QualityDescription>
+  <QualityIs>Kvalitet: {0}</QualityIs>
     
   
-  <Mood_MentalState>mental state</Mood_MentalState>
-  <Mood_AboutToBreak>about to break</Mood_AboutToBreak>
-  <Mood_OnEdge>on edge</Mood_OnEdge>
-  <Mood_Stressed>stressed</Mood_Stressed>
+  <Mood_MentalState>mentalt tillstånd</Mood_MentalState>
+  <Mood_AboutToBreak>påväg att få ett sammanbrott</Mood_AboutToBreak>
+  <Mood_OnEdge>på gränsen</Mood_OnEdge>
+  <Mood_Stressed>stressad</Mood_Stressed>
   <Mood_Neutral>neutral</Mood_Neutral>
-	<Mood_Content>content</Mood_Content>
-  <Mood_Happy>happy</Mood_Happy>
+	<Mood_Content>nöjd</Mood_Content>
+  <Mood_Happy>lycklig</Mood_Happy>
   
   
-  <GameOverEveryoneDead>Alla är döda eller borda. Denna historia är över.\n\nKanske någon annan kan ha behov av ruinerna du lämnar efter dig.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>Alla är döda eller bordade. Denna historia är över.\n\nKanske någon annan kan ha behov av ruinerna du lämnar efter dig.</GameOverEveryoneDead>
   <GameOverShipLaunched>Du har lyckats starta skeppet! Dessa kolonister klarade sig:\n\n{0}\nDessa kolonister lämnades kvar:\n\n{1}\nDitt AI kommer nu försöka vägleda skeppet till ett säkert ställe. Det kanske släpper av dig på en bättre planet i det här solsystemet. Eller så kanske det undergår en resa som kan ta flera århundranden till en annan stjärna. Det kanske till och med bestämmer sig för att gömma sig under is på en asteroid i ett par tusen år, i väntan på en bättre epok.\n\nDet får du reda på när du vaknar.</GameOverShipLaunched>
-  <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>Vid nära ljushastighet slår planetdödarens vapen ner i marken med kraften av flera biljoners atombomber. Likt en vattenbalong som skjutits med ett gevär, förvätskas denna värld under den kraftiga smällen och sprider sina smälta inälvor ut i kosmos.\n\nDen delen som var {0} är nu ett midre astreoidbälte. Resten är en smält, radioaktiv helvete, konstant porlande med kilometerhöga planetskälvningar.\n\nNi överlevde inte.</GameOverPlanetkillerImpact>
   <GameOverKeepPlaying>Fortsätt spela</GameOverKeepPlaying>
   <GameOverMainMenu>Huvudmeny</GameOverMainMenu>
   
   
-  <LifespanExpiry>Expires in:</LifespanExpiry>
+  <LifespanExpiry>Går ut om:</LifespanExpiry>
   
   
-  <TrapArmed>Armed</TrapArmed>
-  <TrapNotArmed>Not armed</TrapNotArmed>
-  <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
+  <TrapArmed>Väpnad</TrapArmed>
+  <TrapNotArmed>Ej väpnad</TrapNotArmed>
+  <TrapRearmingCost>Laddkostnad: {0}</TrapRearmingCost>
   
   
-  <InactiveFacility>inactive</InactiveFacility>
+  <InactiveFacility>inaktiv</InactiveFacility>
   
   
-  <DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
-  <DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
-  <DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Growing>{0}'s {1} växer nu.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{0}'s {1} är ej stabil.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>{0}'s {1} minskar nu.</DiseaseGrowthModeChanged_Remission>
   
   
-  <MarriageSpotUsable>Usable now.</MarriageSpotUsable>
-  <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
-  <MarriageSpotNotStandable>blocked</MarriageSpotNotStandable>
-  <MarriageSpotDangerous>too dangerous for {0}</MarriageSpotDangerous>
-  <MarriageSpotForbidden>forbidden for {0}</MarriageSpotForbidden>
-  <MarriageSpotReserved>reserved</MarriageSpotReserved>
-  <MarriageSpotUnreachable>unreachable for {0}</MarriageSpotUnreachable>
-  <MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
-  <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
+  <MarriageSpotUsable>Användbar nu.</MarriageSpotUsable>
+  <MarriageSpotNotUsable>Ej användbar: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>blockerad</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>För farlig för{0}</MarriageSpotDangerous>
+  <MarriageSpotForbidden>förbjuden för {0}</MarriageSpotForbidden>
+  <MarriageSpotReserved>reserverad</MarriageSpotReserved>
+  <MarriageSpotUnreachable>onåbar för {0}</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>i fängelse cell</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>obehaglig temperatur</NotEnjoyableOutsideTemperature>
   
   
-  <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
-  <ActivityIconSleeping>Sleeping</ActivityIconSleeping>
-  <ActivityIconFleeing>Fleeing</ActivityIconFleeing>
-  <ActivityIconAttacking>Fighting</ActivityIconAttacking>
-  <ActivityIconIdle>Idle</ActivityIconIdle>
-  <ActivityIconBurning>Burning</ActivityIconBurning>
+  <ActivityIconMedicalRest>Medicinsk vila</ActivityIconMedicalRest>
+  <ActivityIconSleeping>Sover</ActivityIconSleeping>
+  <ActivityIconFleeing>Flyr</ActivityIconFleeing>
+  <ActivityIconAttacking>Kämpar</ActivityIconAttacking>
+  <ActivityIconIdle>Sysslolös</ActivityIconIdle>
+  <ActivityIconBurning>Brinner</ActivityIconBurning>
 
   
-  <DueForMaintenance>Due for maintenance.</DueForMaintenance>
-  <DeterioratingDueToLackOfMaintenance>Deteriorating due to lack of maintenance.</DeterioratingDueToLackOfMaintenance>
+  <DueForMaintenance>Dags för underhåll.</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Försämras på grund av dåligt underhåll.</DeterioratingDueToLackOfMaintenance>
   
   
-  <ProgressToNextLump>Progress to next lump</ProgressToNextLump>
-  <ResourceBelow>Resource below</ResourceBelow>
+  <ProgressToNextLump>Framsteg till nästa klump</ProgressToNextLump>
+  <ResourceBelow>Resurser nedan</ResourceBelow>
   
   
-  <LearningHelper>Learning helper</LearningHelper>
-  <MarkLearned>Mark as learned</MarkLearned>
-  <AlreadyLearned>Already learned</AlreadyLearned>
+  <LearningHelper>Lärohjälpare</LearningHelper>
+  <MarkLearned>Markera som lärt</MarkLearned>
+  <AlreadyLearned>Rdan lärt</AlreadyLearned>
   <Filter>Filter</Filter>
   
 </LanguageData>

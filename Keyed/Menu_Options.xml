@@ -8,26 +8,26 @@
   <Antialiasing>Anti-aliasing</Antialiasing>
 
   
-  <EdgeScreenScroll>Skrämkant musskrollning</EdgeScreenScroll>
-  <PauseOnLoad>Pause on load</PauseOnLoad>
-  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
+  <EdgeScreenScroll>Skärmkant mus scrollning</EdgeScreenScroll>
+  <PauseOnLoad>Pausa vid laddning</PauseOnLoad>
+  <PauseOnUrgentLetter>Pausa vid akut information</PauseOnUrgentLetter>
   <CustomCursor>Speciell muspekare</CustomCursor>
-  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
+  <KeyboardConfig>Tangentbordskonfiguration</KeyboardConfig>
   <ChooseLanguage>Välj språk</ChooseLanguage>
   <ResetAdaptiveTutor>Starta om anpassande lärare</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Anpassande lärare är nu omstartad. Han kommer nu att att lära dig allt från början.</AdaptiveTutorIsReset>
   <RunInBackground>Kör i bakgrunden</RunInBackground>
   <DevelopmentMode>Utvecklarläge</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
-  <LogVerbose>Verbose logging</LogVerbose>
+  <ResetModsConfigOnCrash>Auto återställning av moddar vid krash</ResetModsConfigOnCrash>
+  <LogVerbose>Utökad logging</LogVerbose>
   <OpenSaveGameDataFolder>Öppna mappen med dina sparade kolonier</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Efternamn du vill see i spelet:</NamesYouWantToSee>
-  <ChangeStoryteller>Choose storyteller</ChangeStoryteller>
-  <AutosaveInterval>Autosave interval</AutosaveInterval>
-  <TemperatureMode>Temperature mode</TemperatureMode>
-  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
-  <PlantWindSway>Plant wind sway</PlantWindSway>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <NamesYouWantToSee>Efternamn du vill se i spelet:</NamesYouWantToSee>
+  <ChangeStoryteller>Välj Spelledare</ChangeStoryteller>
+  <AutosaveInterval>Autosparintervall</AutosaveInterval>
+  <TemperatureMode>Temperaturtyp</TemperatureMode>
+  <ShowRealtimeClock>Visa realtidsklocka</ShowRealtimeClock>
+  <PlantWindSway>Växter gungar i vinden</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Max automatisk sparintervall i permadeath läge är {0} dagar.</MaxPermadeathAutosaveIntervalInfo>
 
   
   <Resolution>Upplösning</Resolution>

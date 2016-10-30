@@ -3,12 +3,12 @@
 
   <Level>Nivå</Level>
   <ProgressToNextLevel>Utveckling till nästa nivå</ProgressToNextLevel>
-  <Experience>Experience</Experience>
+  <Experience>Erfarenhet</Experience>
   <Passion>Intresse</Passion>
-  <PassionNone>Inget (learns {0}x)</PassionNone>
-  <PassionMinor>Intersserad (learns {0}x)</PassionMinor>
-  <PassionMajor>Brinnande (learns {0}x)</PassionMajor>
-  <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
+  <PassionNone>Inget (Lär sig {0}x)</PassionNone>
+  <PassionMinor>Intresserad (Lär sig {0}x)</PassionMinor>
+  <PassionMajor>Brinnande (Lär sig {0}x)</PassionMajor>
+  <LearnedMaxToday>Lärt sig max idag ({0}/{1}, framtida lärande multipiceras med {2})</LearnedMaxToday>
   <EffectsAtLevel>Effekt vid nivå {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
 

@@ -9,27 +9,27 @@
   <ClickToJumpTo>Tryck för att hoppa till:</ClickToJumpTo>
   <CannotDoThisWork>{0} kan inte utföra den här sortens arbete.</CannotDoThisWork>
   <NoneBrackets>(inget)</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <IncapableOfWorkTypeBecauseOfCapacities>Denna kolonist kan inte arbeta med den här typen av arbete på grund av sitt hälsotillstånd.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   
   
-  <CurrentOutfit>Current outfit</CurrentOutfit>
-  <ManageOutfits>Manage outfits</ManageOutfits>
-  <ClearForcedApparel>Clear forced</ClearForcedApparel>
-  <ApparelForcedLower>forced</ApparelForcedLower>
-  <ForcedApparel>Forced apparel</ForcedApparel>
-  <AssignTabEdit>Edit...</AssignTabEdit>
-  <CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>
-  <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
+  <CurrentOutfit>Nuvarande utstyrsel</CurrentOutfit>
+  <ManageOutfits>Hantera utstyrsel</ManageOutfits>
+  <ClearForcedApparel>Töm tvång</ClearForcedApparel>
+  <ApparelForcedLower>Tvinga</ApparelForcedLower>
+  <ForcedApparel>Tvinga på kläder</ForcedApparel>
+  <AssignTabEdit>Redigera...</AssignTabEdit>
+  <CurrentDrugPolicies>Nuvarande drogpolicy</CurrentDrugPolicies>
+  <ManageDrugPolicies>Hantera drogpolicy</ManageDrugPolicies>
   
   
-  <Copy>Copy</Copy>
-  <Paste>Paste</Paste>
-  <AllowedArea>Allowed area</AllowedArea>
+  <Copy>Klipp</Copy>
+  <Paste>Klistra</Paste>
+  <AllowedArea>Tillåtet område</AllowedArea>
   
   
-  <Master>Master</Master>
-  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
+  <Master>Herre</Master>
+  <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
   
   
   <Hostile>Fientlig</Hostile>
@@ -37,8 +37,8 @@
   <CurrentGoodwill>Aktuell välvilja med detta anhang.</CurrentGoodwill>
   
   
-  <Graph>Graph</Graph>
-  <Statistics>Statistics</Statistics>
+  <Graph>Graf</Graph>
+  <Statistics>Statistik</Statistics>
   
   
   <SelectGraph>Välj graf</SelectGraph>
@@ -51,21 +51,21 @@
   <External>Extern</External>
 
   
-  <Playtime>Play time</Playtime>
-  <Storyteller>Storyteller</Storyteller>
+  <Playtime>Speltid</Playtime>
+  <Storyteller>Spelledare</Storyteller>
   <ColonyWealthTotal>Kolonins rikedom</ColonyWealthTotal>
   <ColonyWealthItems>Kolonins rikedom (saker)</ColonyWealthItems>
   <ColonyWealthBuildings>Kolonins rikedom (byggnader)</ColonyWealthBuildings>
-  <NumThreatBigs>Major threats</NumThreatBigs>
+  <NumThreatBigs>Huvudsakliga hot</NumThreatBigs>
   <NumEnemyRaids>Fientlig räd</NumEnemyRaids>
   <DamageTaken>Skada tagen</DamageTaken>
   <ColonistsKilled>Kolonister dödade</ColonistsKilled>
   <ColonistsLaunched>Kolonister uppskickade i rymden</ColonistsLaunched>
 
   
-  <ProjectTechLevel>project tech level</ProjectTechLevel>
-  <YourTechLevel>your tech level</YourTechLevel>
-  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
-  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+  <ProjectTechLevel>Projektets teknologiska nivå</ProjectTechLevel>
+  <YourTechLevel>din teknologiska nivå</YourTechLevel>
+  <ResearchCostMultiplier>kostnadsmultiplicerare</ResearchCostMultiplier>
+  <ResearchCostComparison>Projektets grundkostnad {0} blir {1} tack vare din teknologiska nivå.</ResearchCostComparison>
   
 </LanguageData>

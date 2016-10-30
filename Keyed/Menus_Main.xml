@@ -2,42 +2,42 @@
 <LanguageData>
 
   
-  <LearnToPlay>Learn to play</LearnToPlay>
+  <LearnToPlay>Lär dig spela</LearnToPlay>
   <NewColony>Ny koloni</NewColony>
   <BackToGame>Tillbaka till spelet</BackToGame>
-  <ReviewScenario>Review scenario</ReviewScenario>
+  <ReviewScenario>Se scenario</ReviewScenario>
   <Save>Spara</Save>
-  <LoadGame>Load game</LoadGame>
+  <LoadGame>Ladda spel</LoadGame>
   <Options>Inställningar</Options>
-  <Mods>Mods</Mods>
+  <Mods>Moddar</Mods>
   <Credits>Medverkare</Credits>
   <QuitToMainMenu>Avsluta till huvudmenyn</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Save and quit to Menu</SaveAndQuitToMainMenu>
-  <QuitToOS>Anvsluta till OS</QuitToOS>
-  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
+  <SaveAndQuitToMainMenu>Spara och avsluta till huvudmenyn</SaveAndQuitToMainMenu>
+  <QuitToOS>Avsluta till OS</QuitToOS>
+  <SaveAndQuitToOS>Spara och avsluta till OS</SaveAndQuitToOS>
   <FictionPrimer>Fiktionens grund</FictionPrimer>
-  <LudeonBlog>Ludeon blogg</LudeonBlog>
+  <LudeonBlog>Ludeons blogg</LudeonBlog>
   <Forums>Forum</Forums>
   <OfficialWiki>Officiell wiki</OfficialWiki>
   <TynansTwitter>Tynans twitter</TynansTwitter>
   <TynansDesignBook>Tynans design bok</TynansDesignBook>
   <HelpTranslate>Hjälp till att översätta RimWorld</HelpTranslate>
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
-  <CreateWorld>Create World</CreateWorld>
+  <BuySoundtrack>Köp musikspår</BuySoundtrack>
+  <CreateWorld>Tillverka egen Värld</CreateWorld>
 
   
-  <ReviewWorld>Review world</ReviewWorld>
-  <WorldGenerate>Generate</WorldGenerate>
-  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
-  <Reset>Reset</Reset>
-  <WorldSize>Size</WorldSize>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Randomize seed</RandomizeSeed>
+  <ReviewWorld>Se värld</ReviewWorld>
+  <WorldGenerate>Generera</WorldGenerate>
+  <WorldSaveAndFinish>Spara och avsluta</WorldSaveAndFinish>
+  <Reset>Återställ</Reset>
+  <WorldSize>Storlek</WorldSize>
+  <WorldSeed>Frö</WorldSeed>
+  <RandomizeSeed>Slumpa frö</RandomizeSeed>
 
   
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <SelectWorld>Välj värd</SelectWorld>
+  <WorldChooseButton>Välj</WorldChooseButton>
+  <NoWorldsFilesFound>Ingen världsfil hittad. Skapa en värld först.</NoWorldsFilesFound>
   
   
   <BuildNowAvailable>Struktur {0} finns tillgänglig. Kolla ludeon.com för mer information.</BuildNowAvailable>
@@ -46,85 +46,85 @@
 	<LoadingVersionInfo>Laddar versionsinformation...</LoadingVersionInfo>
 
   
-  <GenerateWorld>Generate world</GenerateWorld>
+  <GenerateWorld>Generera värld</GenerateWorld>
 
   
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
-  <OpenModsDataFolder>Öppna datamappen för mods</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärn-moddet? Spelet kommer inte att funka alls om du inte har ett annat mod som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra mods kan överskriva 'defs' i kärnmodet genom att använda samma 'defName'.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-  <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <OpenSteamWorkshop>Öppna Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Hämta moddar ifrån forum</GetModsFromForum>
+  <OpenModsDataFolder>Öppna datamappen för moddar</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärn-modden? Spelet kommer inte att funka alls om du inte har ett annat modd som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra moddar kan överskriva 'defs' i kärnmodden genom att använda samma 'defName'.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Är du säker på att du vill radera allt innehåll för {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Avprenumerera</Unsubscribe>
+  <ConfirmUnsubscribe>Är du säker på att du vill avprenumerera ifrån {0}?</ConfirmUnsubscribe>
   <Author>Författare</Author>
-  <WorkshopPage>Workshop page</WorkshopPage>
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <Downloading>Downloading</Downloading>
-  <Source>Source</Source>
-  <ModTargetVersion>For version: {0}</ModTargetVersion>
-  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
-  <DragToReorder>Drag to reorder</DragToReorder>
+  <WorkshopPage>Workshop sida</WorkshopPage>
+  <UploadToSteamWorkshop>Ladda upp till Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Uppdatera på Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Uppdatering körs redan.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop uppladdning gick fel.\n\nFelkod: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Lyckad uppladdning {0}.</WorkshopUploadSucceeded>
+  <Downloading>Nerladdning</Downloading>
+  <Source>Källa</Source>
+  <ModTargetVersion>För version: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Denna modden var inte tillverkad för denna versionen av RimWorld, och kommer troligtvis inte fungera korrekt.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: <targetVersion>{0}</targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Drag för att beställa igen</DragToReorder>
   
   
-  <ChooseScenario>Choose scenario</ChooseScenario>
-  <ScenariosCustom>Custom</ScenariosCustom>
+  <ChooseScenario>Välj scenario</ChooseScenario>
+  <ScenariosCustom>Special</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <ScenarioEditor>Scenario editor</ScenarioEditor>
-  <Delete>Delete</Delete>
+  <Delete>Radera</Delete>
   
   
-  <Seed>seed</Seed>
+  <Seed>frö</Seed>
   <Load>Ladda</Load>
-  <EditMode>edit mode</EditMode>
-  <Summary>Summary</Summary>
-  <AddPart>Add part</AddPart>
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-  <Incompatible>Incompatible</Incompatible>
-  <TooMany>Too many (max {0}): </TooMany>
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <EditMode>Välj mode</EditMode>
+  <Summary>Summering</Summary>
+  <AddPart>Lägg till del</AddPart>
+  <TextFieldsMustBeFilled>Alla text fält måste vara ifyllda.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Är du säker på att du vill ladda upp detta till Steam Workshop?\n\nDu måste godkänna Steam Workshop användarevillkor. Se villkoren här:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Du kan bara ladda upp saker du skapat själv.\n\nSkapade du detta innehåll själv?</ConfirmContentAuthor>
+  <Incompatible>Inkompatibelt</Incompatible>
+  <TooMany>För många (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Kan bli uppdaterat till Workshop, eftersom du är ägaren.</CanBeUpdatedOnWorkshop>
   
   
   <ChooseAIStoryteller>Välj AI berättare</ChooseAIStoryteller>
   <HowStorytellersWork>AI Berättaren skapar event som plundringståg av pirater, räddningsfall, eller djurattacker. Deras val kommer att påverka din kolonis historia.</HowStorytellersWork>
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
-  <Difficulty>Difficulty</Difficulty>
+  <MustChooseDifficulty>Välj en svårighetsnivå.</MustChooseDifficulty>
+  <Difficulty>Svårighetsnivå</Difficulty>
 
   
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-  <WorldRenderMode>Mode</WorldRenderMode>
-  <WorldRenderModeFull>Full</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Temperature</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Elevation</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Fertility</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Rainfall</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Biomes</WorldRenderModeBiomes>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-  <Biome>Biome</Biome>
-  <Terrain>Terrain</Terrain>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Avg Temp</AvgTemp>
-  <AvgWinterTemp>Avg Temp (winter): {0}</AvgWinterTemp>
-  <AvgSummerTemp>Avg Temp (summer): {0}</AvgSummerTemp>
-  <Rainfall>Rainfall</Rainfall>
-  <HasCoast0>Northern coast</HasCoast0>
-  <HasCoast1>Eastern coast</HasCoast1>
-  <HasCoast2>Southern coast</HasCoast2>
-  <HasCoast3>Western coast</HasCoast3>
-  <FactionBase>Faction base</FactionBase>
-  <StoneTypesHere>Stone types</StoneTypesHere>
+  <SelectLandingSite>Välj landingsplats</SelectLandingSite>
+  <SelectRandomSite>Välj slumpplats</SelectRandomSite>
+  <SelectSite>Välj plats</SelectSite>
+  <MustSelectLandingSite>Du måste välja en landningsplats.</MustSelectLandingSite>
+  <CannotLandBiome>Du kan inte landa i den här biomen: {0}</CannotLandBiome>
+  <WorldRenderMode>Visningsläge</WorldRenderMode>
+  <WorldRenderModeFull>Fullt</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Temperatur</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Höjd</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Fertilitet</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Nederbörd</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Biom</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Biom är ej implementerad</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} har redan en bas där.</BaseAlreadyThere>
+  <Biome>Biom</Biome>
+  <Terrain>Terräng</Terrain>
+  <Elevation>Höjd</Elevation>
+  <Fertility>Fertilitet</Fertility>
+  <AvgTemp>Medel Temp</AvgTemp>
+  <AvgWinterTemp>Medel Temp (vinter): {0}</AvgWinterTemp>
+  <AvgSummerTemp>Medel Temp (sommar): {0}</AvgSummerTemp>
+  <Rainfall>Nederbörd</Rainfall>
+  <HasCoast0>Norra kusten</HasCoast0>
+  <HasCoast1>Östra kusten</HasCoast1>
+  <HasCoast2>Södra kusten</HasCoast2>
+  <HasCoast3>Västra kusten</HasCoast3>
+  <FactionBase>Fraktionsbas</FactionBase>
+  <StoneTypesHere>Stentyper</StoneTypesHere>
 
   
   <CreateCharacters>Skapa karaktärer</CreateCharacters>
@@ -136,16 +136,16 @@
   <Backstory>Bakgrundshistoria</Backstory>
   <IncapableOf>Inkapabel av att</IncapableOf>
   <Traits>Persondrag</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
+  <PermanentMoodEffect>Permanent humöreffekt</PermanentMoodEffect>
   <Skills>Förmågor</Skills>
   <NoneLower>inga</NoneLower>
   <Adulthood>Vuxen ålder</Adulthood>
   <Childhood>Barndom</Childhood>
   <Male>Man</Male>
   <Female>Kvinna</Female>
-  <Pain>Pain</Pain>
+  <Pain>Smärta</Pain>
   <Health>Hälsa</Health>
-  <Relations>Relations</Relations>
+  <Relations>Relationer</Relations>
   
   
   <Start>Börja</Start>
@@ -160,6 +160,6 @@
   <EveryoneNeedsValidName>Varje person behöver ett giltigt namn.</EveryoneNeedsValidName>
 
   <GeneratingWorld>Genererar värld...</GeneratingWorld>
-  <GeneratingMap>Generating map</GeneratingMap>
+  <GeneratingMap>Genererar karta</GeneratingMap>
 
 </LanguageData>

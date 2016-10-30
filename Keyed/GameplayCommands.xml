@@ -88,7 +88,7 @@
 
   <!-- Pod -->
   <CommandPodEject>Skjut ut sovkapsel</CommandPodEject>
-  <CommandPodEjectDesc>Väck crypto-sovaren och skjut ut dem.</CommandPodEjectDesc>
+  <CommandPodEjectDesc>Väck kryo-sovaren och skjut ut dem.</CommandPodEjectDesc>
   <CommandPodEjectFailEmpty>Innehåller ingen.</CommandPodEjectFailEmpty>
 
   <!-- Door -->

@@ -3,10 +3,10 @@
 
   <JumpToLocation>Hoppa till aktuell plats</JumpToLocation>
   
-  <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store several days' worth of food now, while you still can.\n\nYou can build a walk-in refrigeration room to prevent food from spoiling.\n\nAnd try to buy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
+  <LetterLabelFirstSummerWarning>Sommar</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Sommaren är här men vintern är påväg.\n\nDina matgrödor kommer inte att växa i vinterns kyla. Se till att spara flera dagars matförråd nu, medans ni fortfarande kan.\n\nNi kan bygga en You can build a större kylrum för att förhindra mat ifrån att bli förstörd.\n\nSe även till att köp, stjäl eller tillverka några parkas, annars kommer ni att frysa när ni går ut.</FirstSummerWarning>
 
-  <RelationsBrokenDown>Relationen med {0} har fallit ihop. De är nu fientliga mot dig.</RelationsBrokenDown>
+  <RelationsBrokenDown>Relationen med {0} är nedbruten. De är nu fientliga mot dig.</RelationsBrokenDown>
   <RelationsWarmed>Relationen med {0} har blivit bättre. De är inte längre fientliga mot dig.</RelationsWarmed>
 
   <RelationsBrokenCapture>Eftersom du har fångat {0}, {1} är nu fientliga mot dig.</RelationsBrokenCapture>
@@ -16,101 +16,101 @@
 
   <ShortCircuitRain>A {0} har kortslutits i regnet och börjat brinna.</ShortCircuitRain>
 
-  <LetterLabelAreaRevealed>Area revealed</LetterLabelAreaRevealed>
-  <AreaRevealed>Ett nytt område har upptäkts.</AreaRevealed>
-  <AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
+  <LetterLabelAreaRevealed>Område upptäckts</LetterLabelAreaRevealed>
+  <AreaRevealed>Ett nytt område har upptäckts.</AreaRevealed>
+  <AreaRevealedWithMechanoids>Ett nytt område har upptäckts. Det innehåller fientliga mekanoider.</AreaRevealedWithMechanoids>
 
   <RoofCollapsed>Ett tak har kollapsat eftersom det inte hade tillräckligt med bärstöd.</RoofCollapsed>
   <TheseThingsCrushed>Detta blev krossat:</TheseThingsCrushed>
   <NothingCrushed>Inget krossades.</NothingCrushed>
-  <LetterLabelRoofCollapsed>Roof collapse</LetterLabelRoofCollapsed>
+  <LetterLabelRoofCollapsed>Tak kollapsade</LetterLabelRoofCollapsed>
   
   <RecruitSuccess>{0} lyckades rekytera {1} ({2} chans).</RecruitSuccess>
   <RecruitFail>{0} misslyckades med att rekrytera {1} ({2} chans).</RecruitFail>
 
-  <LetterLabelBirthday>Birthday</LetterLabelBirthday>
-  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
-  <BirthdayBiologicalAgeInjuries>{0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
+  <LetterLabelBirthday>Födelsedag</LetterLabelBirthday>
+  <BirthdayChronological>Det är {0}'s kronologiska födelsedag idag! Biologiskt är {1} {3} år gammal.\n\nKronologiskt är {1} {2} år.\n\nNotera arr efterom personer inte åldras i kryosömn så skiljer sig kronologisk födelsedag ifrån biologisk födelsedag.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} har blivit {1} år biologisk.\n\nTyvärr så har {0} fått följande sjukdom på grund av ålder :\n{2}</BirthdayBiologicalAgeInjuries>
 
-  <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
-  <NewDisease>{0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewDisease>
-  <NewPartDisease>{0} has gotten sick from {3}. The infection is in HIS {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
+  <LetterLabelNewDisease>Sjukdom</LetterLabelNewDisease>
+  <NewDisease>{0} har blivit sjuk av {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {2} för rätt behandling och spenderar så mycket td som möjlit i säng.</NewDisease>
+  <NewPartDisease>{0} har blivit sjuk av {3}. Infektionen är i HIS {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {2} för rätt behandling och spenderar så mycket td som möjlit i säng.</NewPartDisease>
 
-  <LetterLabelAncientShrineWarning>Ancient danger</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>As {0} draws near the ancient wall, a sense of foreboding overcomes HIM. HECAP isn't sure why, but HE feels that this dusty structure may contain great danger.</AncientShrineWarning>
+  <LetterLabelAncientShrineWarning>Uräldrig fara</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>När {0} närmar sig den uråldriga väggen, överväldigas HIM av en ond aning. HECAP är inte säger på varför, men HE känner att denna dammiga struktur kan innehålla en stor fara.</AncientShrineWarning>
 
-  <StruckMineable>We have struck {0}!</StruckMineable>
+  <StruckMineable>Vi har funnit {0}!</StruckMineable>
 
-  <LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>A {0} is attacking after being harmed!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Other {0}s nearby have also become enraged!</AnimalManhunterOthers>
+  <LetterLabelAnimalManhunterRevenge>{0} tar hämnd</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>En {0} attackerar efter den blivit skadad!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>En {0} attackerar på grund av ett misslyckat tämjnings försök!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Andra {0}s i närheter har också blivit uppretade!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{0} hit trap</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{0} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprungLabel>{0} Utlöst fälla</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} har av misstag utlöst en fälla och tagit skada av den.</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{0} has developed a health condition: {1}\n\nThis was as a complication from: {2}.</LetterHealthComplications>
+  <LetterHealthComplications>{0} har utvecklat ett hälsotillstånd: {1}\n\nDetta var en komplikation från: {2}.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
   
-  <LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>{0} har utvecklat ett hälsotillstånd: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
   
-  <LetterLeadersDeathLabel>Leader's death</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>Leader {0} of faction {1} has died and been replaced by {2}.</LetterLeadersDeath>
+  <LetterLeadersDeathLabel>Ledares död</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>Ledaren {0} från fraktionen {1} har dött och blivit ersatt av {2}.</LetterLeadersDeath>
   
-  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
-  <MentalBreakReason>The final straw was: {0}.</MentalBreakReason>
-  
-  
-  <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
-  <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
-  <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:</LetterRelatedPawnsRaidFriendly>
-  <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your colonists or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
-  <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradeShip>
-  
-  <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME has a relationship with a colonist. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME has a relationship with one of your prisoners. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <MentalBreakLetterLabel>Mentalt upbrått</MentalBreakLetterLabel>
+  <MentalBreakReason>Droppen för fick bägaren att rinna över var: {0}.</MentalBreakReason>
   
   
-  <LetterLabelAffair>Affair</LetterLabelAffair>
-  <LetterAffair>{0}, married to {1}, has begun an affair with {2}.</LetterAffair>
-  <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
-  <LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
-  <LetterNoLongerLovers>{0} and {1} are no longer in a relationship.</LetterNoLongerLovers>
-  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
-  <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
-  <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>{1} has accepted {0}'s marriage proposal.\n\nAt some point in the coming days or seasons, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
-  <LetterRejectedProposal>{1} has rejected {0}'s marriage proposal. {0} is going to be unhappy about this.</LetterRejectedProposal>
+  <LetterLabelNoticedRelatedPawns>Relation</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>Det finns personer som har en relation med din kolonister eller fångar i den anlända gruppen {0}.\n\nTänk på att trots att dom har en relation kommer dom fortfarande attackera varandra pågrund av deras fraktioners dåliga relation.\n\nDessa personer är:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>Det finns personer som har en relation med din kolonister eller fångar i den anlända vänliga gruppen {0}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>Det finns personer som har en relation med din kolonister eller fångar i den anlända gruppen:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Handlaren i omloppsbana säljer personer som har en relation med din kolonister eller fångar:</LetterRelatedPawnsTradeShip>
+  
+  <RelationshipAppendedLetterSuffix>(relationer)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME har en relation med en kolonist. HECAP är {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME har en relation med en av era fångar. HECAP är {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
   
   
-  <LetterLabelRelationsChangeGood>Good will</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>Bad will</LetterLabelRelationsChangeBad>
-  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
-  <LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
+  <LetterLabelAffair>Kärleksaffär</LetterLabelAffair>
+  <LetterAffair>{0} som är gift med {1}, har inlett en kärleksaffär med {2}.</LetterAffair>
+  <LetterLabelNewLovers>Nyförälskade</LetterLabelNewLovers>
+  <LetterNewLovers>{0} och {1} har blivit tilsammans och är nu älskare.</LetterNewLovers>
+  <LetterNoLongerLovers>{0} och {1} har inte längre en relation.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Gjort slut</LetterLabelBreakup>
+  <LetterLabelAcceptedProposal>Dags för giftemål!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Nekat frieri</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} har accepterat {0}'s frieri.\n\nInom några dagar eller säsonger kommer dom att ha en bröllopscermoni och bjuda in alla kolonister. Överväg att placera en bröllopsplats om ni vill kontrollera var bröllpet skall äga rum.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} har avvisat {0}'s frieri. {0} kommer vara olycklig över detta.</LetterRejectedProposal>
   
   
-  <LetterLabelBondedAnimalDied>Bonded animal's death</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, bonded to {1}, has died. It will affect {1}'s mood.</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} named {1}, bonded to {2}, has died. It will affect {2}'s mood.</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} has died. It will affect mood of the following people:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} named {1} has died. It will affect mood of the following people:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+  <LetterLabelRelationsChangeGood>Vänlig</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Ovänlig</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>Bzzztt...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>Mentalt upbrått</LetterLabelMentalBreakdown>
+  
+  
+  <LetterLabelBondedAnimalDied>Bunden djurs död</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, bunden till {1}, har dött. Det kommer att påverka {1}'s humör.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} vid namn {1}, bunden till {2}, har dött. Det kommer att påverka {2}'s humör.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} har dött. Det kommer påverka humöret för följande personer:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} vid namn {1} har dött. Det kommer påverka humöret för följande personer:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 
   
-  <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door lock and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are unhappy, numerous, and healthy.</LetterPrisonBreak>
+  <LetterLabelPrisonBreak>Flykt från fängelse</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Fångarna har iscensatt en utbrytning! Dom har på något sätt låst upp dörren och tar sig ut. Dom kan leta upp vapen, slåss, och försöka fly. Dessa fångar är inblandade:\n\n{0}\n\nDet är störra chans att fångar försöker fly som är olyckliga, många och friska.</LetterPrisonBreak>
   
   
   <LetterLabelNewParty>Party</LetterLabelNewParty>
-  <LetterNewParty>{0} is throwing a party! Everyone who goes will gain joy and social energy, and a lasting positive mood boost.</LetterNewParty>
+  <LetterNewParty>{0} arrangerar en fest! Alla som är med kommer få glädje och social energi, och en ihållande positivt humörlyft.</LetterNewParty>
 
   
-  <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\nHECAP now has a need for {1}, visible on HIS Needs tab. HECAP will automatically consume the drug to fulfil his need. If HE cannot get any {1}, HE will go into withdrawal.</LetterNewlyAddicted>
+  <LetterLabelNewlyAddicted>{0} missbruk</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0} har utvecklat ett missbruk till {1}.\n\nHECAP har nu ett behov av {1}, något som syns på HIS Behov flik. HECAP kommer automatiskt använda drogen för att uppfylla HIS behov. Mm HE inte kan få någon {1} kommer HE få abstinens.</LetterNewlyAddicted>
   
   
-  <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
-  <LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
+  <LetterLabelDrugBinge>{0} frossar</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0} frossar på {1}.</LetterDrugBinge>
   
 </LanguageData>

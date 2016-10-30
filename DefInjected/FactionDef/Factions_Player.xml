@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PlayerColony.label>colony</PlayerColony.label>
-    <PlayerColony.description>Your own community.</PlayerColony.description>
-    <PlayerColony.pawnsPlural>colonists</PlayerColony.pawnsPlural>
+    <PlayerColony.label>koloni</PlayerColony.label>
+    <PlayerColony.description>Din egen koloni.</PlayerColony.description>
+    <PlayerColony.pawnsPlural>kolonist</PlayerColony.pawnsPlural>
     
-    <PlayerTribe.label>tribe</PlayerTribe.label>
-    <PlayerTribe.description>Your own tribe.</PlayerTribe.description>
-    <PlayerTribe.pawnsPlural>tribespeople</PlayerTribe.pawnsPlural>
+    <PlayerTribe.label>stam</PlayerTribe.label>
+    <PlayerTribe.description>Din egen stam.</PlayerTribe.description>
+    <PlayerTribe.pawnsPlural>stammedlem</PlayerTribe.pawnsPlural>
     
 </LanguageData>
