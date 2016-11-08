@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <YayoHigh.label>high on yayo</YayoHigh.label>
-    
-    <PsychiteTolerance.label>psychite tolerance</PsychiteTolerance.label>
-    
-    <PsychiteAddiction.label>psychite addiction</PsychiteAddiction.label>
-    <PsychiteAddiction.stages.0>
-      </PsychiteAddiction.stages.0>
-    <PsychiteAddiction.stages.1.label>withdrawal</PsychiteAddiction.stages.1.label>
+  <YayoHigh.label>Hög på yayo</YayoHigh.label>
+
+  <!-- Psychite addiction -->
+
+  <PsychiteTolerance.label>Psychite tolerans</PsychiteTolerance.label>
+  <PsychiteTolerance.stages.1.label>liten</PsychiteTolerance.stages.1.label>
+  <PsychiteTolerance.stages.2.label>stor</PsychiteTolerance.stages.2.label>
+  <PsychiteTolerance.stages.3.label>enorm</PsychiteTolerance.stages.3.label>
+
+  <PsychiteAddiction.label>Psychite-missbruk</PsychiteAddiction.label>
+  <PsychiteAddiction.stages.1.label>abstinens</PsychiteAddiction.stages.1.label>
     
 </LanguageData>

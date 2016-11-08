@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Euthanasia.label>Avliva</Euthanasia.label>
-    
-    <ShutDown.label>Stäng ner</ShutDown.label>
+    <Euthanasia.label>avliva</Euthanasia.label>
+    <ShutDown.label>stäng ner</ShutDown.label>
     
 </LanguageData>

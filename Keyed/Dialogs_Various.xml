@@ -196,7 +196,7 @@
   <CancelButton>Avbryt</CancelButton>
   <CloseButton>Stäng</CloseButton>
   <YourTradeableSilver>Din omsättningsbara mängd silver: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>Du kan endast handla med silver som är nära en handelsfyr och inte ligger under ett tak.</YourTradeableSilverTip>
+  <YourTradeableSilverTip>Du kan endast handla med silver som är nära en handelsfyr och inte ligger under ett tak.</YourTradeableSilverTip>
   <TraderHasNoMore>Handelsmannen har inte mer.</TraderHasNoMore>
   <ColonyHasNoMore>Inget mer att sälja.</ColonyHasNoMore>
   <TraderWillNotTrade>Handelsmannen vill inte handla med detta.</TraderWillNotTrade>

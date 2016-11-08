@@ -2,23 +2,26 @@
 <LanguageData>
     
     <AlcoholHigh.label>alcohol</AlcoholHigh.label>
-    <AlcoholHigh.stages.0.label>buzzed-hidden</AlcoholHigh.stages.0.label>
-    <AlcoholHigh.stages.1.label>warm</AlcoholHigh.stages.1.label>
-    <AlcoholHigh.stages.2.label>tipsy</AlcoholHigh.stages.2.label>
-    <AlcoholHigh.stages.3.label>drunk</AlcoholHigh.stages.3.label>
-    <AlcoholHigh.stages.4.label>hammered</AlcoholHigh.stages.4.label>
-    <AlcoholHigh.stages.5.label>blackout</AlcoholHigh.stages.5.label>
+    <AlcoholHigh.stages.0.label>små-suddig</AlcoholHigh.stages.0.label>
+    <AlcoholHigh.stages.1.label>varm</AlcoholHigh.stages.1.label>
+    <AlcoholHigh.stages.2.label>berusad</AlcoholHigh.stages.2.label>
+    <AlcoholHigh.stages.3.label>full</AlcoholHigh.stages.3.label>
+    <AlcoholHigh.stages.4.label>kraftigt-berusad</AlcoholHigh.stages.4.label>
+    <AlcoholHigh.stages.5.label>medvetslös</AlcoholHigh.stages.5.label>
     
     <Hangover.label>Bakfull</Hangover.label>
     <Hangover.stages.0.label>lätt</Hangover.stages.0.label>
     <Hangover.stages.1.label>stark</Hangover.stages.1.label>
     <Hangover.stages.2.label>bultande</Hangover.stages.2.label>
     
-    <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
+	  <!-- Alcohol addiction -->
+	
+    <AlcoholTolerance.label>alkoholtolerans</AlcoholTolerance.label>
+	<AlcoholTolerance.stages.1.label>liten</AlcoholTolerance.stages.1.label>
+    <AlcoholTolerance.stages.2.label>stor</AlcoholTolerance.stages.2.label>
+    <AlcoholTolerance.stages.3.label>enorm</AlcoholTolerance.stages.3.label>
     
-    <AlcoholAddiction.label>alcohol addiction</AlcoholAddiction.label>
-    <AlcoholAddiction.stages.0>
-      </AlcoholAddiction.stages.0>
-    <AlcoholAddiction.stages.1.label>withdrawal</AlcoholAddiction.stages.1.label>
+    <AlcoholAddiction.label>alkoholmissbruk</AlcoholAddiction.label>
+    <AlcoholAddiction.stages.1.label>abstinens</AlcoholAddiction.stages.1.label>
     
 </LanguageData>

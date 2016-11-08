@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <WorldCameraMovement.label>World view camera movement</WorldCameraMovement.label>
-    <WorldCameraMovement.helpText>Zoom with the MOUSE WHEEL or {Key:MapZoomIn} and {Key:MapZoomOut} keys.\n\nPan with the {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} keys, or by MIDDLE-CLICKING and DRAGGING.</WorldCameraMovement.helpText>
+	<!-- Concepts taught in the entry screens -->
+	
+    <WorldCameraMovement.label>Kameraförlyttning i världen</WorldCameraMovement.label>
+    <WorldCameraMovement.helpText>Zooma med MOUSE WHEEL eller {Key:MapZoomIn} och {Key:MapZoomOut} tangenterna.\n\nFörflytta dig med  {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tangerner, eller genom att MIDDLE-CLICKING och DRAGGING.</WorldCameraMovement.helpText>
     
 </LanguageData>

@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Rescuing.label>Rescuing</Rescuing.label>
-    <Rescuing.helpText>To rescue a wounded person, select a healthy colonist and the right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them.</Rescuing.helpText>
+    <Rescuing.label>Rädda någon</Rescuing.label>
+    <Rescuing.helpText>För att rädda en skadad person behöver du välja en frisk kolonist och hörgerklicka på den skadade.\n\Om du räddar en person som inte är kolonist kommer den inte att gå med i kolonin. Dom kan helt enkelt gå sin väg efter dom är helade. För att förhindra detta ta tillfånga och sedan rekrytera dom.</Rescuing.helpText>
     
-    <Capturing.label>Capturing</Capturing.label>
-    <Capturing.helpText>When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</Capturing.helpText>
+    <Capturing.label>Ta tillfånga någon</Capturing.label>
+    <Capturing.helpText>Om en fiende är medvetslös kan du CAPTURE den.\n\nFör att ta tillfånga behöver du välja en kolonist och sedan höckerklicka på den medvetslöse fienden och sen välja "Ta till fånga".\n\nDu kommer behöve en extra säng märkts för fångar.</Capturing.helpText>
     
-    <PersonalShields.label>Personal shields</PersonalShields.label>
-    <PersonalShields.helpText>Personal shields stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against personal shields, either concentrate a lot of gunfire on the target, or fight hand-to-hand.</PersonalShields.helpText>
+    <PersonalShields.label>Personlig sköld</PersonalShields.label>
+    <PersonalShields.helpText>En personlig sköld stoppar inkommande avståndsattacker. Dom har ingen effekt i närstrid eller handgemäng.</PersonalShields.helpText>
     
-    <InteractingWithTraders.label>Interacting with traders</InteractingWithTraders.label>
-    <InteractingWithTraders.helpText>You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head.</InteractingWithTraders.helpText>
+    <InteractingWithTraders.label>Interagera med handelsmän</InteractingWithTraders.label>
+    <InteractingWithTraders.helpText>Du kan prata med personer med ett ? ovanför sitt huvud.\n\nVälj en kolonist och högerklicka sedan på personen med ett ? ovanför sitt huvud.</InteractingWithTraders.helpText>
     
-    <Drafting.label>Drafting for combat</Drafting.label>
-    <Drafting.helpText>To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy.</Drafting.helpText>
+    <Drafting.label>Kommendera för strid</Drafting.label>
+    <Drafting.helpText>För att direktkontrollera en kolonist i strid behöver du kommendera dom genom att klicka på DRAFT knappen.\n\nEn kommenderad kolonost kommer endast att göra vad du säger till den att göra och kan endast göra stridshandligan. De som har vapen kommer att använda dom om det är möjligt.\n\nLämna inte kolonister kommenderade för alltid - dom kommer att svöla och bli olyckiga.</Drafting.helpText>
     
     <BuildOrbitalTradeBeacon.label>Lär dig hur man bygger handelsfyrar</BuildOrbitalTradeBeacon.label>
-    <BuildOrbitalTradeBeacon.helpText>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it.</BuildOrbitalTradeBeacon.helpText>
+    <BuildOrbitalTradeBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en ORBITAL TRADE BEACON och placera den nära det förråd som har de föremål du vill sälja.</BuildOrbitalTradeBeacon.helpText>
     
-    <AnimalsDontAttackDoors.label>Animals don't attack doors</AnimalsDontAttackDoors.label>
-    <AnimalsDontAttackDoors.helpText>Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you.</AnimalsDontAttackDoors.helpText>
+    <AnimalsDontAttackDoors.label>Djur attackerar inte dörrar</AnimalsDontAttackDoors.label>
+    <AnimalsDontAttackDoors.helpText>Människojagande djur brukar inte attackera dörrar eller inaktiva kulsprutetorn.\n\nDu är säker om genom att stanna innomhus, men dom vänta på dig utanför.</AnimalsDontAttackDoors.helpText>
     
-    <BillsTab.label>Bills tab</BillsTab.label>
-    <BillsTab.helpText>To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher.</BillsTab.helpText>
+    <BillsTab.label>Beställningsflik</BillsTab.label>
+    <BillsTab.helpText>För att få en kolinist tillverka något behöver du öppna beställningsfliken. Här kan beställa mat att laga, saker att tillverka och djur att slakta.</BillsTab.helpText>
     
-    <OpeningComms.label>Using the comms console</OpeningComms.label>
-    <OpeningComms.helpText>To communicate, select a colonist and right-click on the comms console.</OpeningComms.helpText>
+    <OpeningComms.label>Användar kommikationskonsollen</OpeningComms.label>
+    <OpeningComms.helpText>För att anropa någon behöver du välja en kolonist och högerklicka på kommunikationskonsollen.</OpeningComms.helpText>
     
-    <DrugAddiction.label>Drug addiction</DrugAddiction.label>
-    <DrugAddiction.helpText>You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear.</DrugAddiction.helpText>
+    <DrugAddiction.label>Drogberoende</DrugAddiction.label>
+    <DrugAddiction.helpText>Du kan se dina kolonisters drogönskemål i behovsfliken.\n\nSå länge som deras behovsnivå är på noll kommer deras beroende förädras till "abstinens"-tillstånd vilket kan ha olika negativa sidoeffekter.\n\nHusomhelst efter en längre tid med abstinens kommer drogönskemålet att försvinna.</DrugAddiction.helpText>
     
-    <DrugPolicies.label>Drug policies</DrugPolicies.label>
-    <DrugPolicies.helpText>You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take anti-malaria drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires!</DrugPolicies.helpText>
+    <DrugPolicies.label>Drogpolicy</DrugPolicies.label>
+    <DrugPolicies.helpText>Du kan tilldela kolonister specifika droger på ett specipikt schema. Till exempel måste man ta anti-malaria droger regelbundet, eller dricka en öl om dagen för att vara glad.\n\nÖppna ASSIGN fliken och klicka på 'Hantera drogpolicy'. Skapa en ny drogpolicy sen tilldela det en kolonist. Kolinister kan fortfarande ta droger som inte är i policyn. Du kan säga till dom vad de skall göra, men de följer även sina egna begär!</DrugPolicies.helpText>
     
-    <TVForSickPeople.label>TV for sick people</TVForSickPeople.label>
-    <TVForSickPeople.helpText>Sick people can watch TV while laying in bed.</TVForSickPeople.helpText>
+    <TVForSickPeople.label>TV för sjuka personer</TVForSickPeople.label>
+    <TVForSickPeople.helpText>Sjuka personer kan titta på TV medans som ligger i sängen.</TVForSickPeople.helpText>
     
     <PrisonerTab.label>Lär dig om fängelse-fliken</PrisonerTab.label>
     <PrisonerTab.helpText>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner.</PrisonerTab.helpText>

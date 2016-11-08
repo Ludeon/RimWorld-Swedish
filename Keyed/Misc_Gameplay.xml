@@ -260,7 +260,7 @@
   <Undiscovered>Oupptäckt</Undiscovered>
   
   
-  <ShowLearningHelperWhenEmptyToggleButton> Växla synlightet av lärohjälpen när den är tom\n\nLärohjälpen är alltid synlig om det finns ett begrepp aktiverat att lära sig om. Den här växeln gör så att den försvinner när begreppet inte är aktivt.</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton> Växla synlightet av guiden när den är tom\n\Guiden är alltid synlig om det finns ett begrepp aktiverat att lära sig om. Den här växeln gör så att den försvinner när begreppet inte är aktivt.</ShowLearningHelperWhenEmptyToggleButton>
   <ZoneVisibilityToggleButton>Växla synlightet av zoner.</ZoneVisibilityToggleButton>
   <ShowBeautyToggleButton>Växla skönhets vyn.\n\nVisar platsens skönhet utifrån om en person skulle stå där muspekarn pekar.</ShowBeautyToggleButton>
   <ShowRoomStatsToggleButton>Växlar rumstatistik visare.\n\nVisar rummets statistik muspekarn pekar.</ShowRoomStatsToggleButton>
@@ -387,9 +387,9 @@
   <ResourceBelow>Resurser nedan</ResourceBelow>
   
   
-  <LearningHelper>Lärohjälpare</LearningHelper>
+  <LearningHelper>Guide</LearningHelper>
   <MarkLearned>Markera som lärt</MarkLearned>
-  <AlreadyLearned>Rdan lärt</AlreadyLearned>
+  <AlreadyLearned>Redan lärt</AlreadyLearned>
   <Filter>Filter</Filter>
   
 </LanguageData>

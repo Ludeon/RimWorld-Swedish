@@ -29,7 +29,7 @@
   <RecruitFail>{0} misslyckades med att rekrytera {1} ({2} chans).</RecruitFail>
 
   <LetterLabelBirthday>Födelsedag</LetterLabelBirthday>
-  <BirthdayChronological>Det är {0}'s kronologiska födelsedag idag! Biologiskt är {1} {3} år gammal.\n\nKronologiskt är {1} {2} år.\n\nNotera arr efterom personer inte åldras i kryosömn så skiljer sig kronologisk födelsedag ifrån biologisk födelsedag.</BirthdayChronological>
+  <BirthdayChronological>Det är {0}'s kronologiska födelsedag idag! Biologiskt är {1} {3} år gammal.\n\nKronologiskt är {1} {2} år.\n\nNotera arr efterom personer inte åldras i kryptosömn så skiljer sig kronologisk födelsedag ifrån biologisk födelsedag.</BirthdayChronological>
   <BirthdayBiologicalAgeInjuries>{0} har blivit {1} år biologisk.\n\nTyvärr så har {0} fått följande sjukdom på grund av ålder :\n{2}</BirthdayBiologicalAgeInjuries>
 
   <LetterLabelNewDisease>Sjukdom</LetterLabelNewDisease>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <TradeGoodsMustBeNearBeacon.label>Trade goods and trade beacons</TradeGoodsMustBeNearBeacon.label>
-    <TradeGoodsMustBeNearBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en HANDELSFYR och placera den nära det förråd som har de föremål du vill sälja.</TradeGoodsMustBeNearBeacon.helpText>
+    <TradeGoodsMustBeNearBeacon.label>Handlesvaror and Handelsfyr</TradeGoodsMustBeNearBeacon.label>
+    <TradeGoodsMustBeNearBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en ORBITAL TRADE BEACON och placera den nära det förråd som har de föremål du vill sälja.</TradeGoodsMustBeNearBeacon.helpText>
     
-    <ArrestingCreatesEnemies.label>Arresting worsens faction relations</ArrestingCreatesEnemies.label>
+    <ArrestingCreatesEnemies.label>Arestering förvärrar er relation till fraktionen</ArrestingCreatesEnemies.label>
     <ArrestingCreatesEnemies.helpText>Varning! Personen du försöker arrestera kanske inte ger upp frivilligt.\n\nOm du arresterar en icke-kolonist kan hela deras fraktion bli fientligt inställda.</ArrestingCreatesEnemies.helpText>
     
-    <SwitchFlickingDesignation.label>Flick designations only designate</SwitchFlickingDesignation.label>
+    <SwitchFlickingDesignation.label>Knapp angivning anger bara</SwitchFlickingDesignation.label>
     <SwitchFlickingDesignation.helpText>Obs! Detta betyder bara att en kolonist meddelas om att komma och trycka på knappen.\n\nInget kommer att hända förrän en kolonist (med arbetstypen Lyktgubbe) kommer och, för hand, trycker på strömbrytaren.</SwitchFlickingDesignation.helpText>
 
 </LanguageData>

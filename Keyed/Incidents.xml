@@ -54,7 +54,7 @@
   <WandererJoin>En {0} som heter NAME har anlätt och ansluter sig till din koloni. HECAP är en {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Människojagande flock</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>En flock människojagande {0} har siktas i området. Dom kommer att stanna i områded och jaga människor.\n\nDom kommer inte att passera igenom dörrar, så om ni stannan innomhus är ni säkra. Dom kommer intr att attackera inaktiva kulsprutetorn, så se till att stäng av dessa om du vill rädda dom.\n\nDom kommer att lämna området om några dagar.</ManhunterPackArrived>
+  <ManhunterPackArrived>En flock människojagande {0} har siktas i området. Dom kommer att stanna i områded och jaga människor.\n\nDom kommer inte att passera igenom dörrar, så om ni stannar innomhus är ni säkra. Dom kommer intr att attackera inaktiva kulsprutetorn, så se till att stäng av dessa om du vill rädda dom.\n\nDom kommer att lämna området om några dagar.</ManhunterPackArrived>
   
   
   <MessageAnimalInsanityPulse>Den antika strukturen har avgett en psykisk puls som har drivit djur i närheten till galenskap.</MessageAnimalInsanityPulse>

@@ -9,13 +9,9 @@
     <BloodLoss.stages.4.label>extrem</BloodLoss.stages.4.label>
     
     <Anesthetic.label>Narkos</Anesthetic.label>
-    
     <Concussion.label>Hjärnskakning</Concussion.label>
-    
     <PsychicShock.label>Psykisk Chock</PsychicShock.label>
-    
     <CryptosleepSickness.label>Kryptosömnsjuka</CryptosleepSickness.label>
-    
     <FoodPoisoning.label>Matförgiftning</FoodPoisoning.label>
     
     <ToxicBuildup.label>Förgiftning</ToxicBuildup.label>
@@ -38,11 +34,11 @@
     <HeartAttack.stages.1.label>försvagande</HeartAttack.stages.1.label>
     <HeartAttack.stages.2.label>dödlig</HeartAttack.stages.2.label>
     
-    <DrugOverdose.label>drug overdose</DrugOverdose.label>
-    <DrugOverdose.comps.1.discoverLetterLabel>Overdose: {0}</DrugOverdose.comps.1.discoverLetterLabel>
-    <DrugOverdose.comps.1.discoverLetterText>{0} is overdosing!</DrugOverdose.comps.1.discoverLetterText>
-    <DrugOverdose.stages.0.label>hidden</DrugOverdose.stages.0.label>
-    <DrugOverdose.stages.1.label>minor</DrugOverdose.stages.1.label>
-    <DrugOverdose.stages.2.label>major</DrugOverdose.stages.2.label>
+    <DrugOverdose.label>Drogöverdos</DrugOverdose.label>
+    <DrugOverdose.comps.1.discoverLetterLabel>Överdos: {0}</DrugOverdose.comps.1.discoverLetterLabel>
+    <DrugOverdose.comps.1.discoverLetterText>{0} överdoserar!</DrugOverdose.comps.1.discoverLetterText>
+    <DrugOverdose.stages.0.label>dold</DrugOverdose.stages.0.label>
+    <DrugOverdose.stages.1.label>lindrig</DrugOverdose.stages.1.label>
+    <DrugOverdose.stages.2.label>allvarlig</DrugOverdose.stages.2.label>
     
 </LanguageData>

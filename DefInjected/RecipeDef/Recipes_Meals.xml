@@ -5,6 +5,9 @@
     <CookMealSimple.description>Lagar en enkel maträtt av en ingrediens.</CookMealSimple.description>
     <CookMealSimple.jobString>Lagar enkel maträtt.</CookMealSimple.jobString>
     
+	<CookMealSimpleCampfire.label>Laga enkel maträtt</CookMealSimpleCampfire.label>
+    <CookMealSimpleCampfire.description>Lagar en enkel maträtt av en ingrediens.</CookMealSimpleCampfire.description>
+    <CookMealSimpleCampfire.jobString>Lagar enkel maträtt.</CookMealSimpleCampfire.jobString>
     
     <CookMealFine.label>Laga förfinad maträtt</CookMealFine.label>
     <CookMealFine.description>Lagar en något komplex maträtt ur en kombination av råa kött och växt ingredienser.</CookMealFine.description>

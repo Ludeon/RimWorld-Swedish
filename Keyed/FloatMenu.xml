@@ -98,8 +98,8 @@
   <CannotTrade>Kan inte handla</CannotTrade>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepCasket>Gå in i kryosömnkista</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Öppna kryosömnkista</OpenCryptosleepCasket>
+  <EnterCryptosleepCasket>Gå in i kryptosömnkista</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Öppna kryptosömnkista</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Kan inte {0} {1}</CannotGenericWork>

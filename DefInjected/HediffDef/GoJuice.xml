@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <GoJuiceHigh.label>high on go-juice</GoJuiceHigh.label>
-    
-    <GoJuiceTolerance.label>go-juice tolerance</GoJuiceTolerance.label>
-    
-    <GoJuiceAddiction.label>go-juice addiction</GoJuiceAddiction.label>
-    <GoJuiceAddiction.stages.0>
-      </GoJuiceAddiction.stages.0>
-    <GoJuiceAddiction.stages.1.label>withdrawal</GoJuiceAddiction.stages.1.label>
+  <GoJuiceHigh.label>hög på go-juice</GoJuiceHigh.label>
+
+  <!-- Go-juice addiction -->
+
+  <GoJuiceTolerance.label>go-juice tolerans</GoJuiceTolerance.label>
+  <GoJuiceTolerance.stages.1.label>liten</GoJuiceTolerance.stages.1.label>
+  <GoJuiceTolerance.stages.2.label>stor</GoJuiceTolerance.stages.2.label>
+  <GoJuiceTolerance.stages.3.label>enorm</GoJuiceTolerance.stages.3.label>
+
+  <GoJuiceAddiction.label>go-juice-missbruk</GoJuiceAddiction.label>
+  <GoJuiceAddiction.stages.1.label>abstinens</GoJuiceAddiction.stages.1.label>
+
     
 </LanguageData>
