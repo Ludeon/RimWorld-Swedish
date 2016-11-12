@@ -2,19 +2,17 @@
 <LanguageData>
     
     <UnfinishedSculpture.label>Unfinished sculpture</UnfinishedSculpture.label>
-    
     <UnfinishedGun.label>Unfinished gun</UnfinishedGun.label>
-    
     <UnfinishedWeapon.label>Unfinished weapon</UnfinishedWeapon.label>
-    
     <UnfinishedTechArmor.label>Unfinished armor</UnfinishedTechArmor.label>
-    
     <UnfinishedApparel.label>Unfinished apparel</UnfinishedApparel.label>
-    
     <UnfinishedComponent.label>unfinished component</UnfinishedComponent.label>
     
+	
+	<!-- Minified things -->
+	
     <MinifiedSculpture.label>Sculpture</MinifiedSculpture.label>
-    
     <MinifiedFurniture.label>Furniture</MinifiedFurniture.label>
     
+	
 </LanguageData>

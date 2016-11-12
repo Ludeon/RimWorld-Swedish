@@ -5,7 +5,7 @@
     <Rescuing.helpText>För att rädda en skadad person behöver du välja en frisk kolonist och hörgerklicka på den skadade.\n\Om du räddar en person som inte är kolonist kommer den inte att gå med i kolonin. Dom kan helt enkelt gå sin väg efter dom är helade. För att förhindra detta ta tillfånga och sedan rekrytera dom.</Rescuing.helpText>
     
     <Capturing.label>Ta tillfånga någon</Capturing.label>
-    <Capturing.helpText>Om en fiende är medvetslös kan du CAPTURE den.\n\nFör att ta tillfånga behöver du välja en kolonist och sedan höckerklicka på den medvetslöse fienden och sen välja "Ta till fånga".\n\nDu kommer behöve en extra säng märkts för fångar.</Capturing.helpText>
+    <Capturing.helpText>Om en fiende är medvetslös kan du TILLFÅNGATA den.\n\nFör att ta tillfånga behöver du välja en kolonist och sedan höckerklicka på den medvetslöse fienden och sen välja "Ta till fånga".\n\nDu kommer behöve en extra säng märkts för fångar.</Capturing.helpText>
     
     <PersonalShields.label>Personlig sköld</PersonalShields.label>
     <PersonalShields.helpText>En personlig sköld stoppar inkommande avståndsattacker. Dom har ingen effekt i närstrid eller handgemäng.</PersonalShields.helpText>
@@ -17,7 +17,7 @@
     <Drafting.helpText>För att direktkontrollera en kolonist i strid behöver du kommendera dom genom att klicka på DRAFT knappen.\n\nEn kommenderad kolonost kommer endast att göra vad du säger till den att göra och kan endast göra stridshandligan. De som har vapen kommer att använda dom om det är möjligt.\n\nLämna inte kolonister kommenderade för alltid - dom kommer att svöla och bli olyckiga.</Drafting.helpText>
     
     <BuildOrbitalTradeBeacon.label>Lär dig hur man bygger handelsfyrar</BuildOrbitalTradeBeacon.label>
-    <BuildOrbitalTradeBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en ORBITAL TRADE BEACON och placera den nära det förråd som har de föremål du vill sälja.</BuildOrbitalTradeBeacon.helpText>
+    <BuildOrbitalTradeBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en PLANETÄR HANDELSFYR och placera den nära det förråd som har de föremål du vill sälja.</BuildOrbitalTradeBeacon.helpText>
     
     <AnimalsDontAttackDoors.label>Djur attackerar inte dörrar</AnimalsDontAttackDoors.label>
     <AnimalsDontAttackDoors.helpText>Människojagande djur brukar inte attackera dörrar eller inaktiva kulsprutetorn.\n\nDu är säker om genom att stanna innomhus, men dom vänta på dig utanför.</AnimalsDontAttackDoors.helpText>
@@ -32,18 +32,18 @@
     <DrugAddiction.helpText>Du kan se dina kolonisters drogönskemål i behovsfliken.\n\nSå länge som deras behovsnivå är på noll kommer deras beroende förädras till "abstinens"-tillstånd vilket kan ha olika negativa sidoeffekter.\n\nHusomhelst efter en längre tid med abstinens kommer drogönskemålet att försvinna.</DrugAddiction.helpText>
     
     <DrugPolicies.label>Drogpolicy</DrugPolicies.label>
-    <DrugPolicies.helpText>Du kan tilldela kolonister specifika droger på ett specipikt schema. Till exempel måste man ta anti-malaria droger regelbundet, eller dricka en öl om dagen för att vara glad.\n\nÖppna ASSIGN fliken och klicka på 'Hantera drogpolicy'. Skapa en ny drogpolicy sen tilldela det en kolonist. Kolinister kan fortfarande ta droger som inte är i policyn. Du kan säga till dom vad de skall göra, men de följer även sina egna begär!</DrugPolicies.helpText>
+    <DrugPolicies.helpText>Du kan tilldela kolonister specifika droger på ett specipikt schema. Till exempel måste man ta anti-malaria droger regelbundet, eller dricka en öl om dagen för att vara glad.\n\nÖppna TILLDELA fliken och klicka på 'Hantera drogpolicy'. Skapa en ny drogpolicy sen tilldela det en kolonist. Kolinister kan fortfarande ta droger som inte är i policyn. Du kan säga till dom vad de skall göra, men de följer även sina egna begär!</DrugPolicies.helpText>
     
     <TVForSickPeople.label>TV för sjuka personer</TVForSickPeople.label>
     <TVForSickPeople.helpText>Sjuka personer kan titta på TV medans som ligger i sängen.</TVForSickPeople.helpText>
     
     <PrisonerTab.label>Lär dig om fängelse-fliken</PrisonerTab.label>
-    <PrisonerTab.helpText>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner.</PrisonerTab.helpText>
+    <PrisonerTab.helpText>Öppna en fånges 'Fånge' flik för att se hur dom kommer bli behandlade.\n\nDu kan ställa in huruvida de skall bli rekryterade, ignorerade, avrättade, om dom får äta och vilken typ av medicinsk vård dom skall få.\n\nKolonisterna med Vakt arbetstypen kommer att interagera med dem fångarna.</PrisonerTab.helpText>
     
     <SetGrowingZonePlant.label>Lär dig hur man ställer in odlingsmark</SetGrowingZonePlant.label>
-    <SetGrowingZonePlant.helpText>You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button.</SetGrowingZonePlant.helpText>
+    <SetGrowingZonePlant.helpText>Du kan ställa in vad du skall odla i en odlingzon. Du kan till och med odla träd!\n\nVälj bara oldingzonen. Öppna Odlingsfliken och klicka på 'Plantera' knappen.</SetGrowingZonePlant.helpText>
     
-    <DrugBurning.label>Drug burning</DrugBurning.label>
-    <DrugBurning.helpText>Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire.</DrugBurning.helpText>
+    <DrugBurning.label>Bränna droger</DrugBurning.label>
+    <DrugBurning.helpText>Droger kan var användbaramen kan även leda till farliga missbruk.\n\nOm du vill undvika droger i kolonin kan du bränna dom i lägerelden.</DrugBurning.helpText>
     
 </LanguageData>

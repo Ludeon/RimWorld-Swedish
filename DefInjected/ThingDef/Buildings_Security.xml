@@ -4,14 +4,17 @@
     <Sandbags.label>Sandsäckar</Sandbags.label>
     <Sandbags.description>Skydd från vapeneld.</Sandbags.description>
     
+	<!-- Improvised turret -->
+	
     <TurretGun.label>Improviserat kanontorn</TurretGun.label>
     <TurretGun.description>Ett ömtåligt improviserat kanontorn som automatiskt skjuter på fiender i närheten. Exploderar när det skadats.</TurretGun.description>
     
     <Bullet_TurretImprovised.label>improvised turret bullet</Bullet_TurretImprovised.label>
-    
     <Gun_TurretImprovised.label>improvised turret gun</Gun_TurretImprovised.label>
     <Gun_TurretImprovised.description>Jury-rigged gun attached to a turret.</Gun_TurretImprovised.description>
     
+	<!-- Mortar bomb turret -->
+	
     <Turret_MortarBomb.label>Granatkastare</Turret_MortarBomb.label>
     <Turret_MortarBomb.description>En granatkastare som kastar explosiva granater. Kräver bemanning. Exploderar när den skadats.</Turret_MortarBomb.description>
     
@@ -20,6 +23,8 @@
     
     <Bullet_MortarBomb.label>explosive mortar shell</Bullet_MortarBomb.label>
     
+	<!-- Mortar incendiary turret -->
+	
     <Turret_MortarIncendiary.label>Brandbombsgranatkastare</Turret_MortarIncendiary.label>
     <Turret_MortarIncendiary.description>En granatkastare som kastar brandbomber. Kräver bemanning. Exploderar när den skadats.</Turret_MortarIncendiary.description>
     
@@ -28,6 +33,8 @@
     
     <Bullet_MortarIncendiary.label>incendiary mortar shell</Bullet_MortarIncendiary.label>
     
+	<!-- Mortar EMP -->
+	
     <Turret_MortarEMP.label>EMP mortar</Turret_MortarEMP.label>
     <Turret_MortarEMP.description>A mortar that launches EMP bombs. Must be manned. Explodes when damaged.</Turret_MortarEMP.description>
     
@@ -36,6 +43,8 @@
     
     <Bullet_MortarEMP.label>EMP mortar bomb</Bullet_MortarEMP.label>
     
+	<!-- Traps -->
+	
     <TrapDeadfall.label>deadfall trap</TrapDeadfall.label>
     <TrapDeadfall.description>A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.</TrapDeadfall.description>
     

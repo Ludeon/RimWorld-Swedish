@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+	<!-- Pure stuffs: Basics -->
+	
     <Silver.label>silver</Silver.label>
     <Silver.description>This metal is mostly used as a commodity currency. It can also be used for making attractive decorations.</Silver.description>
     <Silver.stuffProps.stuffAdjective>silver</Silver.stuffProps.stuffAdjective>
@@ -29,6 +31,9 @@
     <Jade.description>A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. It's hardness and density also makes it a good material for blunt weapons.</Jade.description>
     <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
     
+	
+	<!-- Pure stuffs: Fabric, leather, etc -->
+	
     <Cloth.label>cloth</Cloth.label>
     <Cloth.description>Cloth woven from organic fibers.</Cloth.description>
     <Cloth.stuffProps.stuffAdjective>cloth</Cloth.stuffProps.stuffAdjective>
@@ -45,6 +50,9 @@
     <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</Hyperweave.description>
     <Hyperweave.stuffProps.stuffAdjective>hyperweave</Hyperweave.stuffProps.stuffAdjective>
     
+	
+	<!-- Wool -->
+	
     <MegatheriumWool.label>megatherium wool</MegatheriumWool.label>
     <MegatheriumWool.description>While somewhat coarse, megatherium wool's long fibers make it very strong. It is very warm.</MegatheriumWool.description>
     
@@ -57,4 +65,5 @@
     <AlpacaWool.label>alpaca wool</AlpacaWool.label>
     <AlpacaWool.description>The remarkably soft wool of an alpaca.</AlpacaWool.description>
     
+	
 </LanguageData>

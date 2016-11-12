@@ -2,17 +2,18 @@
 <LanguageData>
     
     <Deterioration.label>Förfall</Deterioration.label>
-    
     <Mining.label>Bryter</Mining.label>
-    
     <Rotting.label>Ruttnar</Rotting.label>
-    
     <Extinguish.label>Släcks</Extinguish.label>
     
-    <Stun.label>Betäubung</Stun.label>
+	
+	<!-- Stun -->
+	
+    <Stun.label>Bedöva</Stun.label>
     <Stun.deathMessage>{0} dog av chock.</Stun.deathMessage>
     
     <EMP.label>EMP</EMP.label>
     <EMP.deathMessage>{0} dog av en EMP.</EMP.deathMessage>
     
+	
 </LanguageData>

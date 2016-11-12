@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+	<!-- AI persona core -->
+	
     <AIPersonaCore.label>AI-personekärna</AIPersonaCore.label>
     <AIPersonaCore.description>En hyperavancerad datorkärna som innehåller en övermänsklig artificiell intelligens. I dess isolerade tillstånd är kärnan inaktiv. Installerad i en ordentlig stödstruktur däremot, kan den bli ett sinne med skrämmande kraft.</AIPersonaCore.description>
     
+	<!-- Neurotrainer -->
+	
     <Neurotrainer.label>neurotrainer</Neurotrainer.label>
     <Neurotrainer.description>A one-use nanotech trainer device. The neurotrainer is inserted through the orbit of the eye and releases nanomachines into the subject's brain, quickly improving their skills in a specific area.</Neurotrainer.description>
-    
+    <Neurotrainer.comps.1.useLabel>Use neurotrainer to learn {0}</Neurotrainer.comps.1.useLabel>
+	
+	<!-- Thrumbo horn -->
+	
     <ThrumboHorn.label>thrumbo horn</ThrumboHorn.label>
     <ThrumboHorn.description>A thrumbo's horn. It's razor-sharp, very hard and priceless in most markets. This is a true trophy.</ThrumboHorn.description>
     
+	<!-- Elephant tusk -->
+	
     <ElephantTusk.label>elephant tusk</ElephantTusk.label>
     <ElephantTusk.description>An elephant's tusk. Very durable and valuable. Deadly but somewhat unwieldy as a weapon.</ElephantTusk.description>
     

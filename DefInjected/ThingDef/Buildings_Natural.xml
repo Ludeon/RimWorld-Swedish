@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+	<!-- Simple mineables -->
+	
     <CollapsedRocks.label>Stenras</CollapsedRocks.label>
     <CollapsedRocks.description>En hög med stenar från ett ras. De är så tätt packade att de kan hålla uppe ett tak.</CollapsedRocks.description>
     
+	<!-- Resource rocks -->
+	
     <MineableSteel.label>Kompakt stål</MineableSteel.label>
     <MineableSteel.description>Resterna av en antik byggnad. Innehåller stora mängder stål.</MineableSteel.description>
     
@@ -29,7 +33,7 @@
     <SteamGeyser.description>Naturlig källa av ånga.</SteamGeyser.description>
     
     <Hive.label>Koloni</Hive.label>
-    <Hive.description>En koloni av insekter. Genererar ytterligare insekter och kolonier med tiden. </Hive.description>
+    <Hive.description>En koloni av insekter. Genererar ytterligare insekter och kolonier med tiden.</Hive.description>
     
     <GlowPod.label>glow pod</GlowPod.label>
     <GlowPod.description>A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.</GlowPod.description>

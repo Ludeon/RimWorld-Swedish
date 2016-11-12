@@ -28,13 +28,13 @@
     <Floors.label>Golv</Floors.label>
     <Floors.description>Golvläggning.</Floors.description>
     
-    <Joy.label>joy</Joy.label>
-    <Joy.description>Entertaining or pleasurable things for colonists to enjoy.</Joy.description>
+    <Joy.label>Underhållning</Joy.label>
+    <Joy.description>Undehållning och andra angeäma saker för kolonister att tycka om.</Joy.description>
     
     <Ship.label>Skepp</Ship.label>
     <Ship.description>Komponenter för ditt flyktskepp.</Ship.description>
     
-    <Temperature.label>temperature</Temperature.label>
-    <Temperature.description>Things for controlling temperature.</Temperature.description>
+    <Temperature.label>Temperaturemperatur</Temperature.label>
+    <Temperature.description>Saker för att kontrollera temperatur.</Temperature.description>
     
 </LanguageData>

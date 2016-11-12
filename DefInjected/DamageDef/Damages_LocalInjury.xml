@@ -33,16 +33,28 @@
     
     <Flame.label>Eld</Flame.label>
     <Flame.deathMessage>{0} omkom i en brand.</Flame.deathMessage>
+	
+	
+	<!-- Burn is like Flame, but doesn't ignite anything -->
     
     <Burn.label>Brännskada</Burn.label>
     
     <Frostbite.label>Frostskada</Frostbite.label>
     <Frostbite.deathMessage>{0} frös ihjäl.</Frostbite.deathMessage>
+	
+	
+	<!-- Surgical cut should not harm outer layers.
+         This makes it possible to remove inner organs without harming outer body parts -->
     
     <SurgicalCut.label>Kirurgiskt snitt</SurgicalCut.label>
     <SurgicalCut.deathMessage>{0} avled under ett kirurgiskt ingrepp.</SurgicalCut.deathMessage>
+	
+	
+    <!-- Execution cut
+         This makes it possible to distinguish execution damage from others -->
     
-    <ExecutionCut.label>execution cut</ExecutionCut.label>
-    <ExecutionCut.deathMessage>{0} has been executed.</ExecutionCut.deathMessage>
+    <ExecutionCut.label>Avrättningssår</ExecutionCut.label>
+    <ExecutionCut.deathMessage>{0} har blivit avrättad.</ExecutionCut.deathMessage>
+	
     
 </LanguageData>

@@ -3,6 +3,8 @@
     
     <CraftingSpot.label>crafting spot</CraftingSpot.label>
     <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
+	
+	<!-- Work tables -->
     
     <TableSculpting.label>sculptor's table</TableSculpting.label>
     <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
@@ -46,6 +48,8 @@
     <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
     <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
     
+	<!-- Non-standard work buildings -->
+	
     <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>
     <SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>
     
@@ -64,6 +68,8 @@
     <DeepDrill.label>deep drill</DeepDrill.label>
     <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill.description>
     
+	<!-- Nutrient dispenser -->
+	
     <NutrientPasteDispenser.label>Näringsmassmaskin</NutrientPasteDispenser.label>
     <NutrientPasteDispenser.description>Syntetiserar näringsmassa från organiska råvaror.</NutrientPasteDispenser.description>
     

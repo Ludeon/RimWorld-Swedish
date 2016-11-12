@@ -16,6 +16,8 @@
     <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
     <GroundPenetratingScanner.description>A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.</GroundPenetratingScanner.description>
     
+	<!-- Facilities -->
+	
     <MultiAnalyzer.label>Multianalysator</MultiAnalyzer.label>
     <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
     
@@ -25,11 +27,15 @@
     <ToolCabinet.label>Verktygsskåp</ToolCabinet.label>
     <ToolCabinet.description>Ökar arbetshastigheten. Måste placeras jämte en arbetsbänk. En arbetsbänk kan ha endast två verktygsskåp samtidigt.</ToolCabinet.description>
     
+	<!-- Graves -->
+	
     <Grave.label>Grav</Grave.label>
     <Grave.description>Lägg de döda i gravar för att ge dem en anständig slutlig viloplats. Kolonisatörer kan besöka gravar för meditativ glädje.</Grave.description>
     
-    <Sarcophagus.label>Tumba</Sarcophagus.label>
+    <Sarcophagus.label>Sarkofag</Sarcophagus.label>
     <Sarcophagus.description>Ett detaljerat gravmonument för att hedra den döda.</Sarcophagus.description>
+	
+	<!-- Cryptosleep caskets -->
     
     <CryptosleepCasket.label>Kryptokapsel</CryptosleepCasket.label>
     <CryptosleepCasket.description>En kryptokapsel med intern energiförsörjning. Skapad för att försätta en person i dvala och skendött tillstånd under en längre tid.</CryptosleepCasket.description>
@@ -37,6 +43,8 @@
     <AncientCryptosleepCasket.label>Gammal Kryptokapsel</AncientCryptosleepCasket.label>
     <AncientCryptosleepCasket.description>Det verkar som denna kryptokapseln har varit förseglad under väldigt lång tid. Vem vet vad den kan inehålla?</AncientCryptosleepCasket.description>
     
+	<!-- Spots -->
+	
     <MarriageSpot.label>Bröllopsplats</MarriageSpot.label>
     <MarriageSpot.description>En plats där bröllopscermonier kan hållas. Åskådare kan se på från båda sidorna.</MarriageSpot.description>
     

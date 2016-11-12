@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+	  <!-- Beds -->
+	
     <SleepingSpot.label>Sovplats</SleepingSpot.label>
     <SleepingSpot.description>Designerar en plats på marken där folk bör sova. Inte bekvämt.</SleepingSpot.description>
     
@@ -15,6 +17,8 @@
     
     <HospitalBed.label>Sjuksäng</HospitalBed.label>
     <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
+	
+	<!-- Animal beds -->
     
     <AnimalSleepingSpot.label>Sovplats för djur</AnimalSleepingSpot.label>
     <AnimalSleepingSpot.description>En designerad plats på marken där djur ska sova.</AnimalSleepingSpot.description>
@@ -24,6 +28,8 @@
     
     <AnimalBed.label>Djurbädd</AnimalBed.label>
     <AnimalBed.description>En mjuk säng för djur att sova i. Passar alla djur.</AnimalBed.description>
+	
+	<!-- Basic domestic furniture -->
     
     <Stool.label>Pall</Stool.label>
     <Stool.description>En enkel och plan konstruktion att sitta på.</Stool.description>
@@ -33,6 +39,8 @@
     
     <Armchair.label>Soffa</Armchair.label>
     <Armchair.description>En stor, mjuk, bekväm soffa. Bra om man vill slappna av.</Armchair.description>
+	
+	<!-- Table base -->
     
     <TableShort.label>Bord (Kort)</TableShort.label>
     <TableShort.description>Folk äter från bord, när stolar finns placerade vid dem.</TableShort.description>
@@ -42,6 +50,8 @@
     
     <PlantPot.label>Blomkruka</PlantPot.label>
     <PlantPot.description>Plantera en fin blomma och förbättra humöret hos alla i närheten.</PlantPot.description>
+	
+	<!-- Lighting -->
     
     <TorchLamp.label>torch lamp</TorchLamp.label>
     <TorchLamp.description>A wooden torch for lighting an area. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
@@ -60,6 +70,8 @@
     
     <SunLamp.label>Sollampa</SunLamp.label>
     <SunLamp.description>Belyser ett område starkt nog för att odla grödor.</SunLamp.description>
+	
+	<!-- Storage -->
     
     <EquipmentRack.label>Utrustningshylla</EquipmentRack.label>
     <EquipmentRack.description>Föremål som lagras här kommer inte att förfalla, även om de är utomhus.</EquipmentRack.description>

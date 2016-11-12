@@ -2,15 +2,11 @@
 <LanguageData>
     
     <WealthTotal.label>Rikedom (totalt)</WealthTotal.label>
-    
     <WealthItems.label>Rikedom (saker)</WealthItems.label>
-    
     <WealthBuildings.label>Rikedom (byggnader)</WealthBuildings.label>
-    
     <FreeColonists.label>Fria kolonister</FreeColonists.label>
-    
     <Prisoners.label>Fångar</Prisoners.label>
-    
     <ColonistMood.label>Humör</ColonistMood.label>
+
     
 </LanguageData>
