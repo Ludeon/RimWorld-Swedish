@@ -13,6 +13,7 @@ http://ludeon.com/forums/index.php?topic=4632.0
 - Joel Ahlgren
 - Christoffer Rydström
 - Mannen-Myten
+- Patrik Bohlin
 
 ### Initial translations, ~2014
 - zackiz
