@@ -1,50 +1,60 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+	<!-- Mental breaks: extreme -->
+	
     <Berserk.label>bärsärk</Berserk.label>
     <Berserk.beginLetterLabel>bärsärk</Berserk.beginLetterLabel>
     <Berserk.beginLetter>{0} går bärsärkargång!</Berserk.beginLetter>
     <Berserk.recoveryMessage>{0}'s bärsärkargång tar slut.</Berserk.recoveryMessage>
-    <Berserk.baseInspectLine>Mental state: Berserk</Berserk.baseInspectLine>
+    <Berserk.baseInspectLine>Mentalt tillstånd: Bärsärk</Berserk.baseInspectLine>
     
-    <FireStartingSpree.label>fire starting spree</FireStartingSpree.label>
-    <FireStartingSpree.beginLetterLabel>fire starting spree</FireStartingSpree.beginLetterLabel>
-    <FireStartingSpree.beginLetter>{0} is on a fire starting spree.</FireStartingSpree.beginLetter>
-    <FireStartingSpree.recoveryMessage>{0} is no longer on a fire starting spree.</FireStartingSpree.recoveryMessage>
-    <FireStartingSpree.baseInspectLine>Mental state: Fire starting spree</FireStartingSpree.baseInspectLine>
+    <FireStartingSpree.label>brandstartsupptåg</FireStartingSpree.label>
+    <FireStartingSpree.beginLetterLabel>Brandstartsupptåg</FireStartingSpree.beginLetterLabel>
+    <FireStartingSpree.beginLetter>{0} är på brandstartsupptåg.</FireStartingSpree.beginLetter>
+    <FireStartingSpree.recoveryMessage>{0} är inte längre på brandstartsupptåg.</FireStartingSpree.recoveryMessage>
+    <FireStartingSpree.baseInspectLine>Mentalt tillstånd: Brandstartsupptåg</FireStartingSpree.baseInspectLine>
     
     <GiveUpExit.label>ger upp och går</GiveUpExit.label>
     <GiveUpExit.beginLetterLabel>gav upp</GiveUpExit.beginLetterLabel>
     <GiveUpExit.beginLetter>{0} har gett upp och lämnar kolonin.</GiveUpExit.beginLetter>
     <GiveUpExit.recoveryMessage>{0} har ändrat sig och kommer tillbaks till kolonin.</GiveUpExit.recoveryMessage>
-    <GiveUpExit.baseInspectLine>Mental state: Given up and leaving</GiveUpExit.baseInspectLine>
+    <GiveUpExit.baseInspectLine>Mentalt tilltånd: Ger upp och går</GiveUpExit.baseInspectLine>
     
-    <BingingDrugExtreme.label>binging on drug</BingingDrugExtreme.label>
-    <BingingDrugExtreme.baseInspectLine>Mental state: Binging on {0}</BingingDrugExtreme.baseInspectLine>
+    <BingingDrugExtreme.label>frossar på droger</BingingDrugExtreme.label>
+    <BingingDrugExtreme.baseInspectLine>Mentalt tillstånd: Frossar på {0}</BingingDrugExtreme.baseInspectLine>
     
+	
+	<!-- Mental breaks: major -->
+	
+	<BingingDrugMajor.label>frossar på droger</BingingDrugMajor.label>
+    <BingingDrugMajor.baseInspectLine>Mentalt tilltånd: Frossar på {0}</BingingDrugMajor.baseInspectLine>
     
-    <WanderPsychotic.label>wandering in psychosis</WanderPsychotic.label>
-    <WanderPsychotic.beginLetterLabel>daze</WanderPsychotic.beginLetterLabel>
-    <WanderPsychotic.beginLetter>{0} is wandering around in a psychotic state.</WanderPsychotic.beginLetter>
-    <WanderPsychotic.recoveryMessage>{0} is no longer wandering in a psychotic state.</WanderPsychotic.recoveryMessage>
-    <WanderPsychotic.baseInspectLine>Mental state: Psychotic wandering</WanderPsychotic.baseInspectLine>
+    <WanderPsychotic.label>vandrar i en psykos</WanderPsychotic.label>
+    <WanderPsychotic.beginLetterLabel>förvirrad</WanderPsychotic.beginLetterLabel>
+    <WanderPsychotic.beginLetter>{0} vandrar runt i ett psykotiskt tillstånd.</WanderPsychotic.beginLetter>
+    <WanderPsychotic.recoveryMessage>{0} vandrar inte länge i ett psykotiskt tillstånd.</WanderPsychotic.recoveryMessage>
+    <WanderPsychotic.baseInspectLine>Mentalt tillstånd: Vandrar psykotiskt</WanderPsychotic.baseInspectLine>
+	
+	
+	<!-- Mental breaks: minor -->
     
-    <BingingFood.label>binging on food</BingingFood.label>
-    <BingingFood.beginLetterLabel>food binge</BingingFood.beginLetterLabel>
-    <BingingFood.beginLetter>{0} is pigging out on food.</BingingFood.beginLetter>
-    <BingingFood.recoveryMessage>{0} is no longer pigging out on food.</BingingFood.recoveryMessage>
-    <BingingFood.baseInspectLine>Mental state: Pigging out</BingingFood.baseInspectLine>
+    <BingingFood.label>frossar i mat</BingingFood.label>
+    <BingingFood.beginLetterLabel>matfrosseri</BingingFood.beginLetterLabel>
+    <BingingFood.beginLetter>{0} äter massor av mat.</BingingFood.beginLetter>
+    <BingingFood.recoveryMessage>{0} äter inte längre massor av mat.</BingingFood.recoveryMessage>
+    <BingingFood.baseInspectLine>Mentalt tillstånd: frossar i mat</BingingFood.baseInspectLine>
     
-    <WanderSad.label>sad wandering</WanderSad.label>
-    <WanderSad.beginLetterLabel>sad wander</WanderSad.beginLetterLabel>
-    <WanderSad.beginLetter>{0} is wandering around in sadness.</WanderSad.beginLetter>
-    <WanderSad.recoveryMessage>{0} is no longer wandering in sadness.</WanderSad.recoveryMessage>
-    <WanderSad.baseInspectLine>Mental state: Sad wandering</WanderSad.baseInspectLine>
+    <WanderSad.label>Vandrar ledsen</WanderSad.label>
+    <WanderSad.beginLetterLabel>vandrar ledsen</WanderSad.beginLetterLabel>
+    <WanderSad.beginLetter>{0} vandrar omkring och är ledsen.</WanderSad.beginLetter>
+    <WanderSad.recoveryMessage>{0} vandrar inte längre ledsen.</WanderSad.recoveryMessage>
+    <WanderSad.baseInspectLine>Mentalt tillstånd: Vandrar ledsen</WanderSad.baseInspectLine>
     
-    <WanderOwnRoom.label>sitting alone</WanderOwnRoom.label>
-    <WanderOwnRoom.beginLetterLabel>hide in room</WanderOwnRoom.beginLetterLabel>
-    <WanderOwnRoom.beginLetter>{0} is hiding in HIS room.</WanderOwnRoom.beginLetter>
-    <WanderOwnRoom.recoveryMessage>{0} is no longer hiding in HIS room.</WanderOwnRoom.recoveryMessage>
-    <WanderOwnRoom.baseInspectLine>Mental state: Hiding in room</WanderOwnRoom.baseInspectLine>
+    <WanderOwnRoom.label>Sitter ensam</WanderOwnRoom.label>
+    <WanderOwnRoom.beginLetterLabel>gömmer sig i ett rum</WanderOwnRoom.beginLetterLabel>
+    <WanderOwnRoom.beginLetter>{0} gömmer sig i sitt rum.</WanderOwnRoom.beginLetter>
+    <WanderOwnRoom.recoveryMessage>{0} gömmer sig inte längre i sitt rum.</WanderOwnRoom.recoveryMessage>
+    <WanderOwnRoom.baseInspectLine>Mentalt tillstånd: Gömmer sig i ett rum</WanderOwnRoom.baseInspectLine>
     
 </LanguageData>

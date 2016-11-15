@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Work.label>work</Work.label>
-    
-    <Meditative.label>meditative</Meditative.label>
-    
-    <Lewd.label>lewd</Lewd.label>
-    
+    <Work.label>arbete</Work.label>
+    <Meditative.label>meditativ</Meditative.label>
+    <Lewd.label>oanständig</Lewd.label>
     <Social.label>social</Social.label>
-    
-    <Chemical.label>chemical</Chemical.label>
-    
-    <Gluttonous.label>gluttonous</Gluttonous.label>
-    
-    <GamingDexterity.label>gaming (dexterity)</GamingDexterity.label>
-    
-    <GamingCerebral.label>gaming (cerebral)</GamingCerebral.label>
-    
-    <Passive.label>passive</Passive.label>
-    
-    <Study.label>study</Study.label>
+    <Chemical.label>kemisk</Chemical.label>
+    <Gluttonous.label>glupsk</Gluttonous.label>
+    <GamingDexterity.label>spel (smidighet)</GamingDexterity.label>
+    <GamingCerebral.label>spel (intelektuell)</GamingCerebral.label>
+    <Passive.label>passiv</Passive.label>
+    <Study.label>studera</Study.label>
     
 </LanguageData>

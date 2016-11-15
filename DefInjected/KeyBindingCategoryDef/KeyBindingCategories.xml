@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <GameMapCamera.label>camera controls</GameMapCamera.label>
-    <GameMapCamera.description>Controls for the camera.</GameMapCamera.description>
+    <GameMapCamera.label>Kamerakontroller</GameMapCamera.label>
+    <GameMapCamera.description>Kontroller för kameran.</GameMapCamera.description>
     
-    <Game.label>In-game global controls</Game.label>
-    <Game.description>Colony mode controls that apply in most situations.</Game.description>
+    <Game.label>Globala spelkontroller</Game.label>
+    <Game.description>Kolonitypkontroller för de flesta situationer.</Game.description>
     
-    <SelectionMisc.label>Misc controls</SelectionMisc.label>
-    <SelectionMisc.description>Generic controls that are re-used by many items and objects throughout the game.</SelectionMisc.description>
+    <SelectionMisc.label>Diversekontroller</SelectionMisc.label>
+    <SelectionMisc.description>Standardkontroller som används av flera föremål under spelet.</SelectionMisc.description>
     
-    <SelectionSpecial.label>Special controls</SelectionSpecial.label>
-    <SelectionSpecial.description>Special controls reserved for specific functions on specific objects.</SelectionSpecial.description>
+    <SelectionSpecial.label>Specialkontroller</SelectionSpecial.label>
+    <SelectionSpecial.description>Special kontroller reserverade för specifika funktioner på specifika föremål.</SelectionSpecial.description>
     
-    <Architect.label>Architect</Architect.label>
-    <Architect.description>General-use controls for the architect mode menu.</Architect.description>
+    <Architect.label>Arkitekt</Architect.label>
+    <Architect.description>Standardkontroller för arkitektläge.</Architect.description>
     
-    <MainTabs.label>Main tabs</MainTabs.label>
-    <MainTabs.description>Controls for the main tabs.</MainTabs.description>
+    <MainTabs.label>Huvudflikar</MainTabs.label>
+    <MainTabs.description>Kontroller för huvudflikarna.</MainTabs.description>
     
-    <Development.label>Development</Development.label>
-    <Development.description>Controls for developers and modders. Active in development mode only.</Development.description>
+    <Development.label>Utveckling</Development.label>
+    <Development.description>Kontroller för utvecklare och modd-skapare. Aktivera i utvecklarläge endast.</Development.description>
     
 </LanguageData>

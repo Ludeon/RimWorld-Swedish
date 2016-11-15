@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Skygaze.reportString>Skygazing.</Skygaze.reportString>
+    <!-- Meditative -->
+	
+    <Skygaze.reportString>Tittar på skyn.</Skygaze.reportString>
+    <Meditate.reportString>Mediterar.</Meditate.reportString>
+    <Pray.reportString>Ber.</Pray.reportString>
+    <GoForWalk.reportString>Går på en promenad.</GoForWalk.reportString>
+    <BuildSnowman.reportString>Bygger en snögubbe.</BuildSnowman.reportString>
+    <VisitGrave.reportString>Besöker en grav.</VisitGrave.reportString>
+    <ViewArt.reportString>tittar på konst.</ViewArt.reportString>
     
-    <Meditate.reportString>Meditating.</Meditate.reportString>
-    
-    <Pray.reportString>Praying.</Pray.reportString>
-    
-    <GoForWalk.reportString>Going for a walk.</GoForWalk.reportString>
-    
-    <BuildSnowman.reportString>Building snowman.</BuildSnowman.reportString>
-    
-    <VisitGrave.reportString>Visiting grave.</VisitGrave.reportString>
-    
-    <ViewArt.reportString>viewing art.</ViewArt.reportString>
-    
-    <SocialRelax.reportString>Relaxing socially.</SocialRelax.reportString>
-    
-    <VisitSickPawn.reportString>Cheering up patient TargetA.</VisitSickPawn.reportString>
-    
-    <PlayHorseshoes.reportString>Playing horseshoes.</PlayHorseshoes.reportString>
-    
-    <PlayChess.reportString>Playing chess.</PlayChess.reportString>
-    
-    <PlayBilliards.reportString>Playing billiards.</PlayBilliards.reportString>
-    
-    <WatchTelevision.reportString>Watching television.</WatchTelevision.reportString>
-    
-    <UseTelescope.reportString>Using telescope.</UseTelescope.reportString>
+	
+	<!-- Social -->
+	
+    <SocialRelax.reportString>Avkopplar socialt.</SocialRelax.reportString>
+    <VisitSickPawn.reportString>Muntrar upp patient TargetA.</VisitSickPawn.reportString>
+
+
+	<!-- Building interaction -->
+
+    <PlayHorseshoes.reportString>Kastar hästskor.</PlayHorseshoes.reportString>
+    <PlayChess.reportString>Spelar shack.</PlayChess.reportString>
+    <PlayBilliards.reportString>Spelar biljard.</PlayBilliards.reportString>
+    <WatchTelevision.reportString>Tittar på TV.</WatchTelevision.reportString>
+    <UseTelescope.reportString>Tittar i teleskop.</UseTelescope.reportString>
+
     
 </LanguageData>

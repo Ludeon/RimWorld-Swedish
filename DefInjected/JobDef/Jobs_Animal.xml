@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Nuzzle.reportString>Nuzzling TargetA.</Nuzzle.reportString>
+    <Nuzzle.reportString>Gosar TargetA.</Nuzzle.reportString>
     
-    <Mate.reportString>Mating with TargetA.</Mate.reportString>
+    <Mate.reportString>Parar sig med TargetA.</Mate.reportString>
     
-    <LayEgg.reportString>Laying egg.</LayEgg.reportString>
+    <LayEgg.reportString>Lägger ägg.</LayEgg.reportString>
     
-    <PredatorHunt.reportString>Hunting TargetA.</PredatorHunt.reportString>
+    <PredatorHunt.reportString>Jagar TargetA.</PredatorHunt.reportString>
     
-    <Maintain.reportString>maintaining TargetA.</Maintain.reportString>
+    <Maintain.reportString>upprätthåller TargetA.</Maintain.reportString>
     
 </LanguageData>

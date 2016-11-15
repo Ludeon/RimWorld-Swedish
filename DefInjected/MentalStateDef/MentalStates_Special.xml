@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <WanderConfused.label>confused wandering</WanderConfused.label>
-    <WanderConfused.beginLetterLabel>confusion</WanderConfused.beginLetterLabel>
-    <WanderConfused.beginLetter>{0} has broken down and is wandering around confused.</WanderConfused.beginLetter>
-    <WanderConfused.recoveryMessage>{0} is no longer confused.</WanderConfused.recoveryMessage>
-    <WanderConfused.baseInspectLine>Mental state: Confused and wandering</WanderConfused.baseInspectLine>
+    <WanderConfused.label>vandrar förvirrat</WanderConfused.label>
+    <WanderConfused.beginLetterLabel>förvirring</WanderConfused.beginLetterLabel>
+    <WanderConfused.beginLetter>{0} är nedbruten och vandrar runt förvirrad.</WanderConfused.beginLetter>
+    <WanderConfused.recoveryMessage>{0} är inte längre förvirrad.</WanderConfused.recoveryMessage>
+    <WanderConfused.baseInspectLine>Mentalt tillstånd: Vandrar och är förvirrad</WanderConfused.baseInspectLine>
     
     <PanicFlee.label>flyr i panik</PanicFlee.label>
     <PanicFlee.beginLetterLabel>flyr</PanicFlee.beginLetterLabel>
     <PanicFlee.beginLetter>{0} flyr i panik.</PanicFlee.beginLetter>
     <PanicFlee.recoveryMessage>{0} flyr inte längre i panik.</PanicFlee.recoveryMessage>
-    <PanicFlee.baseInspectLine>Mental state: Fleeing in panic</PanicFlee.baseInspectLine>
+    <PanicFlee.baseInspectLine>Mentalt tillstånd: Flyr i panik</PanicFlee.baseInspectLine>
     
     <Manhunter.label>Människojägare</Manhunter.label>
     <Manhunter.beginLetterLabel>människojägare</Manhunter.beginLetterLabel>
     <Manhunter.beginLetter>{0} har blivit en människojägare!</Manhunter.beginLetter>
     <Manhunter.recoveryMessage>{0}'s människojagande blodlust har kommit till sitt slut.</Manhunter.recoveryMessage>
-    <Manhunter.baseInspectLine>Maddened: Manhunter</Manhunter.baseInspectLine>
+    <Manhunter.baseInspectLine>Galen: Människojägare</Manhunter.baseInspectLine>
     
     
     <SocialFighting.label>grälar</SocialFighting.label>
-    <SocialFighting.baseInspectLine>Mental state: Social fighting</SocialFighting.baseInspectLine>
+    <SocialFighting.baseInspectLine>Mentalt tillstånd: Grälar</SocialFighting.baseInspectLine>
     
 </LanguageData>

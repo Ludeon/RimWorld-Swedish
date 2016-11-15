@@ -37,10 +37,10 @@
     <Flashstorm.description>Ett extremt blixtoväder drabbar ett lokalt område.</Flashstorm.description>
     <Flashstorm.endMessage>Blixtovädret tar slut.</Flashstorm.endMessage>
     
-    <ClimateCycle.label>climate cycle</ClimateCycle.label>
-    <ClimateCycle.description>A multi-year climate cycle due to an elliptical orbit.</ClimateCycle.description>
+    <ClimateCycle.label>Klimatcykel</ClimateCycle.label>
+    <ClimateCycle.description>En mångårig klimatcykel tack vare planetens elliptiska bana.</ClimateCycle.description>
     
-    <Planetkiller.label>planetkiller</Planetkiller.label>
-    <Planetkiller.description>An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.</Planetkiller.description>
+    <Planetkiller.label>Planetdödare</Planetkiller.label>
+    <Planetkiller.description>En interstellär planetdödarvapen närmar sig den här planeten. När den träffar planeten kommer den att utrota allt liv.</Planetkiller.description>
     
 </LanguageData>

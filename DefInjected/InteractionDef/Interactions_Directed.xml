@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <BuildRapport.label>try to get to know</BuildRapport.label>
-    <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Tried to build rapport with [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
-    <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->Listened to [other_nameShortIndef] build rapport with me.</BuildRapport.logRulesRecipient.rulesStrings.0>
+    <BuildRapport.label>försökte lära känna</BuildRapport.label>
+    <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Försökte bygga en relation med [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
+    <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->Lyssnade när [other_nameShortIndef] byggde en relation med mig.</BuildRapport.logRulesRecipient.rulesStrings.0>
     
-    <RecruitAttempt.label>recruit attempt</RecruitAttempt.label>
-    <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Attempted to recruit [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-    <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->Listened to a recruitment pitch from [other_nameShortIndef].</RecruitAttempt.logRulesRecipient.rulesStrings.0>
+    <RecruitAttempt.label>rekryteringförsök</RecruitAttempt.label>
+    <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Försökte rekrytera [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+    <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->Lyssnade på ett rekryteringstal från [other_nameShortIndef].</RecruitAttempt.logRulesRecipient.rulesStrings.0>
     
 </LanguageData>
