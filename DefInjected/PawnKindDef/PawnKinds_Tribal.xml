@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <TribalWarrior.label>Krigare</TribalWarrior.label>
+    <TribalWarrior.label>krigare</TribalWarrior.label>
+    <TribalTrader.label>handlare</TribalTrader.label>
+    <TribalArcher.label>pilbågsskytt</TribalArcher.label>
+    <TribalChief.label>hövding</TribalChief.label>
     
-    <TribalTrader.label>trader</TribalTrader.label>
-    
-    <TribalArcher.label>archer</TribalArcher.label>
-    
-    <TribalChief.label>Hövding</TribalChief.label>
-    
+	
 </LanguageData>

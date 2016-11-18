@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Cougar.label>cougar</Cougar.label>
-    
-    <Panther.label>panther</Panther.label>
-    
-    <Lynx.label>lynx</Lynx.label>
-    <Lynx.lifeStages.0.label>lynx kitten</Lynx.lifeStages.0.label>
+  <Cougar.label>puma</Cougar.label>
+  <Cougar.lifeStages.0.labelMale>pumaunge</Cougar.lifeStages.0.labelMale>
+  <Cougar.lifeStages.0.labelFemale>pumaunge</Cougar.lifeStages.0.labelFemale>
+  <Cougar.lifeStages.1.labelMale>puma</Cougar.lifeStages.1.labelMale>
+  <Cougar.lifeStages.1.labelFemale>puma</Cougar.lifeStages.1.labelFemale>
+  <Cougar.lifeStages.2.labelMale>puma</Cougar.lifeStages.2.labelMale>
+  <Cougar.lifeStages.2.labelFemale>puma</Cougar.lifeStages.2.labelFemale>
+
+  <Panther.label>panter</Panther.label>
+  <Panther.lifeStages.0.labelMale>panterunge</Panther.lifeStages.0.labelMale>
+  <Panther.lifeStages.0.labelFemale>panterunge</Panther.lifeStages.0.labelFemale>
+  <Panther.lifeStages.1.labelMale>panter</Panther.lifeStages.1.labelMale>
+  <Panther.lifeStages.1.labelFemale>panter</Panther.lifeStages.1.labelFemale>
+  <Panther.lifeStages.2.labelMale>panter</Panther.lifeStages.2.labelMale>
+  <Panther.lifeStages.2.labelFemale>panter</Panther.lifeStages.2.labelFemale>
+
+  <Lynx.label>lodjur</Lynx.label>
+  <Lynx.lifeStages.0.labelMale>lodjursunge</Lynx.lifeStages.0.labelMale>
+  <Lynx.lifeStages.0.labelFemale>lodjursunge</Lynx.lifeStages.0.labelFemale>
+  <Lynx.lifeStages.1.labelMale>lodjur</Lynx.lifeStages.1.labelMale>
+  <Lynx.lifeStages.1.labelFemale>lodjur</Lynx.lifeStages.1.labelFemale>
+  <Lynx.lifeStages.2.labelMale>lodjur</Lynx.lifeStages.2.labelMale>
+  <Lynx.lifeStages.2.labelFemale>lodjur</Lynx.lifeStages.2.labelFemale>
     
 </LanguageData>

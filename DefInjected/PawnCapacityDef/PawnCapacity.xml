@@ -5,24 +5,17 @@
     <Consciousness.labelMechanoids>Behandlar data</Consciousness.labelMechanoids>
     
     <Sight.label>syn</Sight.label>
-    
     <Hearing.label>hörsel</Hearing.label>
-    
     <Moving.label>förflyttning</Moving.label>
-    
     <Manipulation.label>manipulation</Manipulation.label>
     
     <Talking.label>pratar</Talking.label>
     <Talking.labelMechanoids>kommunikation</Talking.labelMechanoids>
     
     <Eating.label>äter</Eating.label>
-    
     <Breathing.label>andning</Breathing.label>
-    
     <BloodFiltration.label>blodfiltrering</BloodFiltration.label>
-    
-    <BloodPumping.label>blod pump</BloodPumping.label>
-    
+    <BloodPumping.label>blodpump</BloodPumping.label>
     <Metabolism.label>ämnesomsättning</Metabolism.label>
     
 </LanguageData>

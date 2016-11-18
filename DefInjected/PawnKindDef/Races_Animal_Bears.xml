@@ -2,7 +2,20 @@
 <LanguageData>
     
     <GrizzlyBear.label>grizzlybjörn</GrizzlyBear.label>
+    <GrizzlyBear.lifeStages.0.labelMale>grizzlybjörnunge</GrizzlyBear.lifeStages.0.labelMale>
+    <GrizzlyBear.lifeStages.0.labelFemale>grizzlybjörnunge</GrizzlyBear.lifeStages.0.labelFemale>
+    <GrizzlyBear.lifeStages.1.labelMale>grizzlybjörn</GrizzlyBear.lifeStages.1.labelMale>
+    <GrizzlyBear.lifeStages.1.labelFemale>grizzlybjörn</GrizzlyBear.lifeStages.1.labelFemale>
+    <GrizzlyBear.lifeStages.2.labelMale>grizzlybjörn</GrizzlyBear.lifeStages.2.labelMale>
+    <GrizzlyBear.lifeStages.2.labelFemale>grizzlybjörn</GrizzlyBear.lifeStages.2.labelFemale>
     
     <PolarBear.label>isbjörn</PolarBear.label>
-    
+    <PolarBear.lifeStages.0.labelMale>isbjörnsunge</PolarBear.lifeStages.0.labelMale>
+    <PolarBear.lifeStages.0.labelFemale>isbjörnsunge</PolarBear.lifeStages.0.labelFemale>
+    <PolarBear.lifeStages.1.labelMale>isbjörn</PolarBear.lifeStages.1.labelMale>
+    <PolarBear.lifeStages.1.labelFemale>isbjörn</PolarBear.lifeStages.1.labelFemale>
+    <PolarBear.lifeStages.2.labelMale>isbjörn</PolarBear.lifeStages.2.labelMale>
+    <PolarBear.lifeStages.2.labelFemale>isbjörn</PolarBear.lifeStages.2.labelFemale>
+ 
+ 
 </LanguageData>

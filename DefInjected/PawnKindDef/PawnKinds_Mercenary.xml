@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MercenaryGunner.label>mercenary gunner</MercenaryGunner.label>
-    
-    <MercenarySniper.label>Legosoldat, krypskytt</MercenarySniper.label>
-    
-    <GrenadierDestructive.label>grenadier</GrenadierDestructive.label>
-    
-    <GrenadierEMP.label>EMP grenadier</GrenadierEMP.label>
-    
-    <MercenarySlasher.label>mercenary slasher</MercenarySlasher.label>
-    
-    <MercenaryHeavy.label>heavy mercenary</MercenaryHeavy.label>
-    
+    <MercenaryGunner.label>legosoldat, skytt</MercenaryGunner.label>
+    <MercenarySniper.label>legosoldat, krypskytt</MercenarySniper.label>
+    <GrenadierDestructive.label>grenadjär</GrenadierDestructive.label>
+    <GrenadierEMP.label>EMP grenadjär</GrenadierEMP.label>
+    <MercenarySlasher.label>legosoldat, knivman</MercenarySlasher.label>
+    <MercenaryHeavy.label>legosoldat, tungt beväpnad</MercenaryHeavy.label>
     <PirateBoss.label>boss</PirateBoss.label>
-    
-    <MercenaryElite.label>elite mercenary</MercenaryElite.label>
+    <MercenaryElite.label>legosoldat, elit</MercenaryElite.label>
+
     
 </LanguageData>

@@ -2,19 +2,36 @@
 <LanguageData>
     
     <Chicken.label>kyckling</Chicken.label>
-    <Chicken.labelMale>tupp</Chicken.labelMale>
-    <Chicken.labelFemale>höna</Chicken.labelFemale>
-    <Chicken.lifeStages.0.label>kyckling</Chicken.lifeStages.0.label>
-    
+    <Chicken.lifeStages.0.labelMale>kyckling</Chicken.lifeStages.0.labelMale>
+    <Chicken.lifeStages.0.labelFemale>kyckling</Chicken.lifeStages.0.labelFemale>
+    <Chicken.lifeStages.1.labelMale>ungtupp</Chicken.lifeStages.1.labelMale>
+    <Chicken.lifeStages.1.labelFemale>kyckling</Chicken.lifeStages.1.labelFemale>
+    <Chicken.lifeStages.2.labelMale>tupp</Chicken.lifeStages.2.labelMale>
+    <Chicken.lifeStages.2.labelFemale>höna</Chicken.lifeStages.2.labelFemale>  
+
     <Pig.label>gris</Pig.label>
-    <Pig.labelFemale>sugga</Pig.labelFemale>
-    <Pig.lifeStages.0.label>griskulting</Pig.lifeStages.0.label>
-    
-    <Cow.label>ko</Cow.label>
-    <Cow.labelMale>tjur</Cow.labelMale>
-    <Cow.labelFemale>ko</Cow.labelFemale>
-    <Cow.lifeStages.0.label>kalv</Cow.lifeStages.0.label>
-    
+    <Pig.lifeStages.0.labelMale>griskulting</Pig.lifeStages.0.labelMale>
+    <Pig.lifeStages.0.labelFemale>griskulting</Pig.lifeStages.0.labelFemale>
+    <Pig.lifeStages.1.labelMale>gris</Pig.lifeStages.1.labelMale>
+    <Pig.lifeStages.1.labelFemale>gris</Pig.lifeStages.1.labelFemale>
+    <Pig.lifeStages.2.labelMale>galt</Pig.lifeStages.2.labelMale>
+    <Pig.lifeStages.2.labelFemale>sugga</Pig.lifeStages.2.labelFemale>
+
+    <Cow.label>cow</Cow.label>
+    <Cow.lifeStages.0.labelMale>tjurkalv</Cow.lifeStages.0.labelMale>
+    <Cow.lifeStages.0.labelFemale>kvigkalv</Cow.lifeStages.0.labelFemale>
+    <Cow.lifeStages.1.labelMale>stut</Cow.lifeStages.1.labelMale>
+    <Cow.lifeStages.1.labelFemale>kviga</Cow.lifeStages.1.labelFemale>
+    <Cow.lifeStages.2.labelMale>tjur</Cow.lifeStages.2.labelMale>
+    <Cow.lifeStages.2.labelFemale>ko</Cow.lifeStages.2.labelFemale>
+
     <Alpaca.label>alpacka</Alpaca.label>
-    
+    <Alpaca.lifeStages.0.labelMale>alpackaföl</Alpaca.lifeStages.0.labelMale>
+    <Alpaca.lifeStages.0.labelFemale>alpackaföl</Alpaca.lifeStages.0.labelFemale>
+    <Alpaca.lifeStages.1.labelMale>alpacka unghigst</Alpaca.lifeStages.1.labelMale>
+    <Alpaca.lifeStages.1.labelFemale>alpacka ungsto</Alpaca.lifeStages.1.labelFemale>
+    <Alpaca.lifeStages.2.labelMale>alpackahingst</Alpaca.lifeStages.2.labelMale>
+    <Alpaca.lifeStages.2.labelFemale>alpackasto</Alpaca.lifeStages.2.labelFemale>
+ 
+ 
 </LanguageData>

@@ -1,18 +1,62 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Squirrel.label>Ekorre</Squirrel.label>
-    
-    <Alphabeaver.label>alphabeaver</Alphabeaver.label>
-    
-    <Capybara.label>capybara</Capybara.label>
-    
+
+    <Squirrel.label>ekorre</Squirrel.label>
+    <Squirrel.lifeStages.0.labelMale>ekorrunge</Squirrel.lifeStages.0.labelMale>
+    <Squirrel.lifeStages.0.labelFemale>ekorrunge</Squirrel.lifeStages.0.labelFemale>
+    <Squirrel.lifeStages.1.labelMale>ekorre</Squirrel.lifeStages.1.labelMale>
+    <Squirrel.lifeStages.1.labelFemale>ekorre</Squirrel.lifeStages.1.labelFemale>
+    <Squirrel.lifeStages.2.labelMale>ekorre</Squirrel.lifeStages.2.labelMale>
+    <Squirrel.lifeStages.2.labelFemale>ekorre</Squirrel.lifeStages.2.labelFemale>
+
+    <Alphabeaver.label>alfabäver</Alphabeaver.label>
+    <Alphabeaver.lifeStages.0.labelMale>alfabäverunge</Alphabeaver.lifeStages.0.labelMale>
+    <Alphabeaver.lifeStages.0.labelFemale>alfabäverunge</Alphabeaver.lifeStages.0.labelFemale>
+    <Alphabeaver.lifeStages.1.labelMale>alfabäver</Alphabeaver.lifeStages.1.labelMale>
+    <Alphabeaver.lifeStages.1.labelFemale>alfabäver</Alphabeaver.lifeStages.1.labelFemale>
+    <Alphabeaver.lifeStages.2.labelMale>alfabäver</Alphabeaver.lifeStages.2.labelMale>
+    <Alphabeaver.lifeStages.2.labelFemale>alfabäver</Alphabeaver.lifeStages.2.labelFemale>
+
+    <Capybara.label>kapybara</Capybara.label>
+    <Capybara.lifeStages.0.labelMale>kapybaraunge</Capybara.lifeStages.0.labelMale>
+    <Capybara.lifeStages.0.labelFemale>kapybaraunge</Capybara.lifeStages.0.labelFemale>
+    <Capybara.lifeStages.1.labelMale>kapybara</Capybara.lifeStages.1.labelMale>
+    <Capybara.lifeStages.1.labelFemale>kapybara</Capybara.lifeStages.1.labelFemale>
+    <Capybara.lifeStages.2.labelMale>kapybara</Capybara.lifeStages.2.labelMale>
+    <Capybara.lifeStages.2.labelFemale>kapybara</Capybara.lifeStages.2.labelFemale>
+
     <Chinchilla.label>chinchilla</Chinchilla.label>
-    
-    <Boomrat.label>Boområtta</Boomrat.label>
-    
-    <Raccoon.label>raccoon</Raccoon.label>
-    
-    <Rat.label>rat</Rat.label>
-    
+    <Chinchilla.lifeStages.0.labelMale>chinchillaunge</Chinchilla.lifeStages.0.labelMale>
+    <Chinchilla.lifeStages.0.labelFemale>chinchillaunge</Chinchilla.lifeStages.0.labelFemale>
+    <Chinchilla.lifeStages.1.labelMale>chinchilla</Chinchilla.lifeStages.1.labelMale>
+    <Chinchilla.lifeStages.1.labelFemale>chinchilla</Chinchilla.lifeStages.1.labelFemale>
+    <Chinchilla.lifeStages.2.labelMale>chinchilla</Chinchilla.lifeStages.2.labelMale>
+    <Chinchilla.lifeStages.2.labelFemale>chinchilla</Chinchilla.lifeStages.2.labelFemale>
+
+    <Boomrat.label>bombråtta</Boomrat.label>
+    <Boomrat.lifeStages.0.labelMale>bombråtteunge</Boomrat.lifeStages.0.labelMale>
+    <Boomrat.lifeStages.0.labelFemale>bombråtteunge</Boomrat.lifeStages.0.labelFemale>
+    <Boomrat.lifeStages.1.labelMale>bombråtta</Boomrat.lifeStages.1.labelMale>
+    <Boomrat.lifeStages.1.labelFemale>bombråtta</Boomrat.lifeStages.1.labelFemale>
+    <Boomrat.lifeStages.2.labelMale>bombråtta</Boomrat.lifeStages.2.labelMale>
+    <Boomrat.lifeStages.2.labelFemale>bombråtta</Boomrat.lifeStages.2.labelFemale>
+
+    <Raccoon.label>tvättbjörn</Raccoon.label>
+    <Raccoon.lifeStages.0.labelMale>tvättbjörnsunge</Raccoon.lifeStages.0.labelMale>
+    <Raccoon.lifeStages.0.labelFemale>tvättbjörnsunge</Raccoon.lifeStages.0.labelFemale>
+    <Raccoon.lifeStages.1.labelMale>tvättbjörn</Raccoon.lifeStages.1.labelMale>
+    <Raccoon.lifeStages.1.labelFemale>tvättbjörn</Raccoon.lifeStages.1.labelFemale>
+    <Raccoon.lifeStages.2.labelMale>tvättbjörn</Raccoon.lifeStages.2.labelMale>
+    <Raccoon.lifeStages.2.labelFemale>tvättbjörn</Raccoon.lifeStages.2.labelFemale>
+
+    <Rat.label>råtta</Rat.label>
+    <Rat.lifeStages.0.labelMale>råttunge</Rat.lifeStages.0.labelMale>
+    <Rat.lifeStages.0.labelFemale>råttunge</Rat.lifeStages.0.labelFemale>
+    <Rat.lifeStages.1.labelMale>råtta</Rat.lifeStages.1.labelMale>
+    <Rat.lifeStages.1.labelFemale>råtta</Rat.lifeStages.1.labelFemale>
+    <Rat.lifeStages.2.labelMale>råtta</Rat.lifeStages.2.labelMale>
+    <Rat.lifeStages.2.labelFemale>råtta</Rat.lifeStages.2.labelFemale>
+   
+   
 </LanguageData>

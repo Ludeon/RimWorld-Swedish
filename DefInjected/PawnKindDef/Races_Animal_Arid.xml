@@ -1,18 +1,62 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Muffalo.label>Ökenko</Muffalo.label>
-    <Muffalo.lifeStages.0.label>muffalo kalv</Muffalo.lifeStages.0.label>
+    <Muffalo.label>muffel</Muffalo.label>
+    <Muffalo.lifeStages.0.labelMale>muffel tjurkalv</Muffalo.lifeStages.0.labelMale>
+    <Muffalo.lifeStages.0.labelFemale>muffel kvigkalv</Muffalo.lifeStages.0.labelFemale>
+    <Muffalo.lifeStages.1.labelMale>muffel tjur</Muffalo.lifeStages.1.labelMale>
+    <Muffalo.lifeStages.1.labelFemale>muffel kviga</Muffalo.lifeStages.1.labelFemale>
+    <Muffalo.lifeStages.2.labelMale>muffel tjur</Muffalo.lifeStages.2.labelMale>
+    <Muffalo.lifeStages.2.labelFemale>muffel kviga</Muffalo.lifeStages.2.labelFemale>
+	
+	<PackMuffalo.label>muffel</PackMuffalo.label>
+    <PackMuffalo.lifeStages.0.labelMale>muffel tjurkalv</PackMuffalo.lifeStages.0.labelMale>
+    <PackMuffalo.lifeStages.0.labelFemale>muffel kvigkalv</PackMuffalo.lifeStages.0.labelFemale>
+    <PackMuffalo.lifeStages.1.labelMale>muffel tjur</PackMuffalo.lifeStages.1.labelMale>
+    <PackMuffalo.lifeStages.1.labelFemale>muffel kviga</PackMuffalo.lifeStages.1.labelFemale>
+    <PackMuffalo.lifeStages.2.labelMale>muffel tjur</PackMuffalo.lifeStages.2.labelMale>
+    <PackMuffalo.lifeStages.2.labelFemale>muffel kviga</PackMuffalo.lifeStages.2.labelFemale>
     
     
-    <Gazelle.label>gazelle</Gazelle.label>
+    <Gazelle.label>gazell</Gazelle.label>
+    <Gazelle.lifeStages.0.labelMale>gazell</Gazelle.lifeStages.0.labelMale>
+    <Gazelle.lifeStages.0.labelFemale>gazell</Gazelle.lifeStages.0.labelFemale>
+    <Gazelle.lifeStages.1.labelMale>gazell</Gazelle.lifeStages.1.labelMale>
+    <Gazelle.lifeStages.1.labelFemale>gazell</Gazelle.lifeStages.1.labelFemale>
+    <Gazelle.lifeStages.2.labelMale>gazell</Gazelle.lifeStages.2.labelMale>
+    <Gazelle.lifeStages.2.labelFemale>gazell</Gazelle.lifeStages.2.labelFemale>
     
-    <Iguana.label>iguana</Iguana.label>
+    <Iguana.label>leguan</Iguana.label>
+    <Iguana.lifeStages.0.labelMale>leguan</Iguana.lifeStages.0.labelMale>
+    <Iguana.lifeStages.0.labelFemale>leguan</Iguana.lifeStages.0.labelFemale>
+    <Iguana.lifeStages.1.labelMale>leguan</Iguana.lifeStages.1.labelMale>
+    <Iguana.lifeStages.1.labelFemale>leguan</Iguana.lifeStages.1.labelFemale>
+    <Iguana.lifeStages.2.labelMale>leguan</Iguana.lifeStages.2.labelMale>
+    <Iguana.lifeStages.2.labelFemale>leguan</Iguana.lifeStages.2.labelFemale>
     
-    <Rhinoceros.label>rhinoceros</Rhinoceros.label>
+    <Rhinoceros.label>noshörning</Rhinoceros.label>
+    <Rhinoceros.lifeStages.0.labelMale>noshörning</Rhinoceros.lifeStages.0.labelMale>
+    <Rhinoceros.lifeStages.0.labelFemale>noshörning</Rhinoceros.lifeStages.0.labelFemale>
+    <Rhinoceros.lifeStages.1.labelMale>noshörning</Rhinoceros.lifeStages.1.labelMale>
+    <Rhinoceros.lifeStages.1.labelFemale>noshörning</Rhinoceros.lifeStages.1.labelFemale>
+    <Rhinoceros.lifeStages.2.labelMale>noshörning</Rhinoceros.lifeStages.2.labelMale>
+    <Rhinoceros.lifeStages.2.labelFemale>noshörning</Rhinoceros.lifeStages.2.labelFemale>
     
-    <Dromedary.label>dromedary</Dromedary.label>
-    <Dromedary.lifeStages.0.label>dromedar kalv</Dromedary.lifeStages.0.label>
+    <Dromedary.label>dromedar</Dromedary.label>
+    <Dromedary.lifeStages.0.labelMale>dromedarkalv</Dromedary.lifeStages.0.labelMale>
+    <Dromedary.lifeStages.0.labelFemale>dromedarkalv</Dromedary.lifeStages.0.labelFemale>
+    <Dromedary.lifeStages.1.labelMale>dromedar</Dromedary.lifeStages.1.labelMale>
+    <Dromedary.lifeStages.1.labelFemale>dromedar</Dromedary.lifeStages.1.labelFemale>
+    <Dromedary.lifeStages.2.labelMale>dromedar</Dromedary.lifeStages.2.labelMale>
+    <Dromedary.lifeStages.2.labelFemale>dromedar</Dromedary.lifeStages.2.labelFemale>
+
+    <PackDromedary.label>dromedar</PackDromedary.label>
+    <PackDromedary.lifeStages.0.labelMale>dromedarkalv</PackDromedary.lifeStages.0.labelMale>
+    <PackDromedary.lifeStages.0.labelFemale>dromedarkalv</PackDromedary.lifeStages.0.labelFemale>
+    <PackDromedary.lifeStages.1.labelMale>dromedar</PackDromedary.lifeStages.1.labelMale>
+    <PackDromedary.lifeStages.1.labelFemale>dromedar</PackDromedary.lifeStages.1.labelFemale>
+    <PackDromedary.lifeStages.2.labelMale>dromedar</PackDromedary.lifeStages.2.labelMale>
+    <PackDromedary.lifeStages.2.labelFemale>dromedar</PackDromedary.lifeStages.2.labelFemale>
     
     
 </LanguageData>

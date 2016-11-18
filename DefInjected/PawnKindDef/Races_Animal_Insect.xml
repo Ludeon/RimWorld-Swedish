@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Megascarab.label>megaskarabé</Megascarab.label>
-    
-    <Spelopede.label>speloped/e</Spelopede.label>
-    
-    <Megaspider.label>megaspindel</Megaspider.label>
-    
+  <Megascarab.label>jätteskalbagge</Megascarab.label>
+  <Megascarab.lifeStages.0.labelMale>jätteskalbagge</Megascarab.lifeStages.0.labelMale>
+  <Megascarab.lifeStages.0.labelFemale>jätteskalbagge</Megascarab.lifeStages.0.labelFemale>
+  <Megascarab.lifeStages.1.labelMale>jätteskalbagge</Megascarab.lifeStages.1.labelMale>
+  <Megascarab.lifeStages.1.labelFemale>jätteskalbagge</Megascarab.lifeStages.1.labelFemale>
+  <Megascarab.lifeStages.2.labelMale>jätteskalbagge</Megascarab.lifeStages.2.labelMale>
+  <Megascarab.lifeStages.2.labelFemale>jätteskalbagge</Megascarab.lifeStages.2.labelFemale>
+
+  <Spelopede.label>speloped</Spelopede.label>
+  <Spelopede.lifeStages.0.labelMale>speloped</Spelopede.lifeStages.0.labelMale>
+  <Spelopede.lifeStages.0.labelFemale>speloped</Spelopede.lifeStages.0.labelFemale>
+  <Spelopede.lifeStages.1.labelMale>speloped</Spelopede.lifeStages.1.labelMale>
+  <Spelopede.lifeStages.1.labelFemale>speloped</Spelopede.lifeStages.1.labelFemale>
+  <Spelopede.lifeStages.2.labelMale>speloped</Spelopede.lifeStages.2.labelMale>
+  <Spelopede.lifeStages.2.labelFemale>speloped</Spelopede.lifeStages.2.labelFemale>
+
+  <Megaspider.label>jättespindel</Megaspider.label>
+  <Megaspider.lifeStages.0.labelMale>jättespindel</Megaspider.lifeStages.0.labelMale>
+  <Megaspider.lifeStages.0.labelFemale>jättespindel</Megaspider.lifeStages.0.labelFemale>
+  <Megaspider.lifeStages.1.labelMale>jättespindel</Megaspider.lifeStages.1.labelMale>
+  <Megaspider.lifeStages.1.labelFemale>jättespindel</Megaspider.lifeStages.1.labelFemale>
+  <Megaspider.lifeStages.2.labelMale>jättespindel</Megaspider.lifeStages.2.labelMale>
+  <Megaspider.lifeStages.2.labelFemale>jättespindel</Megaspider.lifeStages.2.labelFemale>
+  
+  
 </LanguageData>

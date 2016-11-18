@@ -2,7 +2,19 @@
 <LanguageData>
     
     <Hare.label>hare</Hare.label>
+    <Hare.lifeStages.0.labelMale>harunge</Hare.lifeStages.0.labelMale>
+    <Hare.lifeStages.0.labelFemale>harunge</Hare.lifeStages.0.labelFemale>
+    <Hare.lifeStages.1.labelMale>hare</Hare.lifeStages.1.labelMale>
+    <Hare.lifeStages.1.labelFemale>hare</Hare.lifeStages.1.labelFemale>
+    <Hare.lifeStages.2.labelMale>hare</Hare.lifeStages.2.labelMale>
+    <Hare.lifeStages.2.labelFemale>hare</Hare.lifeStages.2.labelFemale>
     
     <Snowhare.label>snöhare</Snowhare.label>
+    <Snowhare.lifeStages.0.labelMale>snöhareunge</Snowhare.lifeStages.0.labelMale>
+    <Snowhare.lifeStages.0.labelFemale>snöhareunge</Snowhare.lifeStages.0.labelFemale>
+    <Snowhare.lifeStages.1.labelMale>snöhare</Snowhare.lifeStages.1.labelMale>
+    <Snowhare.lifeStages.1.labelFemale>snöhare</Snowhare.lifeStages.1.labelFemale>
+    <Snowhare.lifeStages.2.labelMale>snöhare</Snowhare.lifeStages.2.labelMale>
+    <Snowhare.lifeStages.2.labelFemale>snöhare</Snowhare.lifeStages.2.labelFemale>
     
 </LanguageData>

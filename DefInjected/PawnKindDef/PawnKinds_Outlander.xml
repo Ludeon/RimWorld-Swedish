@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Villager.label>Bybo</Villager.label>
-    
-    <TownCouncilman.label>town councilman</TownCouncilman.label>
-    
-    <TownTrader.label>town trader</TownTrader.label>
-    
-    <TownGuard.label>Stadsvakt</TownGuard.label>
+    <Villager.label>bybo</Villager.label>
+    <TownCouncilman.label>rådsman</TownCouncilman.label>
+    <TownTrader.label>handelsman</TownTrader.label>
+    <TownGuard.label>stadsvakt</TownGuard.label>
+
     
 </LanguageData>

@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Cobra.label>cobra</Cobra.label>
+  <Cobra.label>kobra</Cobra.label>
+  <Cobra.lifeStages.0.labelMale>kobraunge</Cobra.lifeStages.0.labelMale>
+  <Cobra.lifeStages.0.labelFemale>kobraunge</Cobra.lifeStages.0.labelFemale>
+  <Cobra.lifeStages.1.labelMale>kobra</Cobra.lifeStages.1.labelMale>
+  <Cobra.lifeStages.1.labelFemale>kobra</Cobra.lifeStages.1.labelFemale>
+  <Cobra.lifeStages.2.labelMale>kobra</Cobra.lifeStages.2.labelMale>
+  <Cobra.lifeStages.2.labelFemale>kobra</Cobra.lifeStages.2.labelFemale>
+
+  <Monkey.label>apa</Monkey.label>
+  <Monkey.lifeStages.0.labelMale>apunge</Monkey.lifeStages.0.labelMale>
+  <Monkey.lifeStages.0.labelFemale>apunge</Monkey.lifeStages.0.labelFemale>
+  <Monkey.lifeStages.1.labelMale>apa</Monkey.lifeStages.1.labelMale>
+  <Monkey.lifeStages.1.labelFemale>apa</Monkey.lifeStages.1.labelFemale>
+  <Monkey.lifeStages.2.labelMale>apa</Monkey.lifeStages.2.labelMale>
+  <Monkey.lifeStages.2.labelFemale>apa</Monkey.lifeStages.2.labelFemale>
+
+  <Boomalope.label>bombalop</Boomalope.label>
+  <Boomalope.lifeStages.0.labelMale>bombalopkalv</Boomalope.lifeStages.0.labelMale>
+  <Boomalope.lifeStages.0.labelFemale>bombalopkalv</Boomalope.lifeStages.0.labelFemale>
+  <Boomalope.lifeStages.1.labelMale>bombalop</Boomalope.lifeStages.1.labelMale>
+  <Boomalope.lifeStages.1.labelFemale>bombalop</Boomalope.lifeStages.1.labelFemale>
+  <Boomalope.lifeStages.2.labelMale>bombaloptjur</Boomalope.lifeStages.2.labelMale>
+  <Boomalope.lifeStages.2.labelFemale>bombalopko</Boomalope.lifeStages.2.labelFemale>
     
-    <Monkey.label>Apa</Monkey.label>
-    
-    <Boomalope.label>boomalope</Boomalope.label>
-    <Boomalope.lifeStages.0.label>boomalope calf</Boomalope.lifeStages.0.label>
-    
+	
 </LanguageData>

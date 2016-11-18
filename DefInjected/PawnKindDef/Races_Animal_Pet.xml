@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
-    <YorkshireTerrier.lifeStages.0.label>yorkshire terrier puppy</YorkshireTerrier.lifeStages.0.label>
+    <YorkshireTerrier.label>yorkshireterrier</YorkshireTerrier.label>
+    <YorkshireTerrier.lifeStages.0.labelMale>yorkshireterrier-valp</YorkshireTerrier.lifeStages.0.labelMale>
+    <YorkshireTerrier.lifeStages.0.labelFemale>yorkshireterrier-valp</YorkshireTerrier.lifeStages.0.labelFemale>
+    <YorkshireTerrier.lifeStages.1.labelMale>yorkshireterrier-unghund</YorkshireTerrier.lifeStages.1.labelMale>
+    <YorkshireTerrier.lifeStages.1.labelFemale>yorkshireterrier-unghund</YorkshireTerrier.lifeStages.1.labelFemale>
+    <YorkshireTerrier.lifeStages.2.labelMale>yorkshireterrier-hane</YorkshireTerrier.lifeStages.2.labelMale>
+    <YorkshireTerrier.lifeStages.2.labelFemale>yorkshireterrier-tik</YorkshireTerrier.lifeStages.2.labelFemale>
     
     <Husky.label>husky</Husky.label>
-    <Husky.lifeStages.0.label>husky puppy</Husky.lifeStages.0.label>
-    
-    <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
-    <LabradorRetriever.lifeStages.0.label>labrador puppy</LabradorRetriever.lifeStages.0.label>
-    
-    <Cat.label>cat</Cat.label>
-    <Cat.lifeStages.0.label>kitten</Cat.lifeStages.0.label>
+    <Husky.lifeStages.0.labelMale>huskyvalp</Husky.lifeStages.0.labelMale>
+    <Husky.lifeStages.0.labelFemale>huskyvalp</Husky.lifeStages.0.labelFemale>
+    <Husky.lifeStages.1.labelMale>husky-unghund</Husky.lifeStages.1.labelMale>
+    <Husky.lifeStages.1.labelFemale>husky-unghund</Husky.lifeStages.1.labelFemale>
+    <Husky.lifeStages.2.labelMale>huskyhane</Husky.lifeStages.2.labelMale>
+    <Husky.lifeStages.2.labelFemale>huskytik</Husky.lifeStages.2.labelFemale>
+
+    <LabradorRetriever.label>labrador</LabradorRetriever.label>
+    <LabradorRetriever.lifeStages.0.labelMale>labradorvalp</LabradorRetriever.lifeStages.0.labelMale>
+    <LabradorRetriever.lifeStages.0.labelFemale>labradorvalp</LabradorRetriever.lifeStages.0.labelFemale>
+    <LabradorRetriever.lifeStages.1.labelMale>labrador-unghund</LabradorRetriever.lifeStages.1.labelMale>
+    <LabradorRetriever.lifeStages.1.labelFemale>labrador-unghund</LabradorRetriever.lifeStages.1.labelFemale>
+    <LabradorRetriever.lifeStages.2.labelMale>labradorhane</LabradorRetriever.lifeStages.2.labelMale>
+    <LabradorRetriever.lifeStages.2.labelFemale>labradortik</LabradorRetriever.lifeStages.2.labelFemale>
+
+    <Cat.label>katt</Cat.label>
+    <Cat.lifeStages.0.labelMale>kattunge</Cat.lifeStages.0.labelMale>
+    <Cat.lifeStages.0.labelFemale>kattunge</Cat.lifeStages.0.labelFemale>
+    <Cat.lifeStages.1.labelMale>katt</Cat.lifeStages.1.labelMale>
+    <Cat.lifeStages.1.labelFemale>katt</Cat.lifeStages.1.labelFemale>
+    <Cat.lifeStages.2.labelMale>katthane</Cat.lifeStages.2.labelMale>
+    <Cat.lifeStages.2.labelFemale>katthona</Cat.lifeStages.2.labelFemale>
     
 </LanguageData>

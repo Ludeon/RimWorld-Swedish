@@ -1,22 +1,67 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Warg.label>warg</Warg.label>
-    <Warg.lifeStages.0.label>warg puppy</Warg.lifeStages.0.label>
+    <!-- Warg -->
+
+    <Warg.label>jättevarg</Warg.label>
+    <Warg.lifeStages.0.labelMale>jättevargvalp</Warg.lifeStages.0.labelMale>
+    <Warg.lifeStages.0.labelFemale>jättevargvalp</Warg.lifeStages.0.labelFemale>
+    <Warg.lifeStages.1.labelMale>jättevarg</Warg.lifeStages.1.labelMale>
+    <Warg.lifeStages.1.labelFemale>jättevarg</Warg.lifeStages.1.labelFemale>
+    <Warg.lifeStages.2.labelMale>jättevarghane</Warg.lifeStages.2.labelMale>
+    <Warg.lifeStages.2.labelFemale>jättevargtik</Warg.lifeStages.2.labelFemale>
+
+
+    <!-- Wolves -->
+
+    <WolfTimber.label>varg</WolfTimber.label>
+    <WolfTimber.lifeStages.0.labelMale>vargvalp</WolfTimber.lifeStages.0.labelMale>
+    <WolfTimber.lifeStages.0.labelFemale>vargvalp</WolfTimber.lifeStages.0.labelFemale>
+    <WolfTimber.lifeStages.1.labelMale>varg</WolfTimber.lifeStages.1.labelMale>
+    <WolfTimber.lifeStages.1.labelFemale>varg</WolfTimber.lifeStages.1.labelFemale>
+    <WolfTimber.lifeStages.2.labelMale>varghane</WolfTimber.lifeStages.2.labelMale>
+    <WolfTimber.lifeStages.2.labelFemale>vargtik</WolfTimber.lifeStages.2.labelFemale>
+
+    <WolfArctic.label>polarvarg</WolfArctic.label>
+    <WolfArctic.lifeStages.0.labelMale>polarvargvalp</WolfArctic.lifeStages.0.labelMale>
+    <WolfArctic.lifeStages.0.labelFemale>polarvargvalp</WolfArctic.lifeStages.0.labelFemale>
+    <WolfArctic.lifeStages.1.labelMale>polarvarg</WolfArctic.lifeStages.1.labelMale>
+    <WolfArctic.lifeStages.1.labelFemale>polarvarg</WolfArctic.lifeStages.1.labelFemale>
+    <WolfArctic.lifeStages.2.labelMale>polarvarghane</WolfArctic.lifeStages.2.labelMale>
+    <WolfArctic.lifeStages.2.labelFemale>polarvargtik</WolfArctic.lifeStages.2.labelFemale>
+
+
+    <!-- Fox fennec -->
+
+    <FoxFennec.label>fennek</FoxFennec.label>
+    <FoxFennec.lifeStages.0.labelMale>fennekvalp</FoxFennec.lifeStages.0.labelMale>
+    <FoxFennec.lifeStages.0.labelFemale>fennekvalp</FoxFennec.lifeStages.0.labelFemale>
+    <FoxFennec.lifeStages.1.labelMale>fennek</FoxFennec.lifeStages.1.labelMale>
+    <FoxFennec.lifeStages.1.labelFemale>fennek</FoxFennec.lifeStages.1.labelFemale>
+    <FoxFennec.lifeStages.2.labelMale>fennekhane</FoxFennec.lifeStages.2.labelMale>
+    <FoxFennec.lifeStages.2.labelFemale>fennektik</FoxFennec.lifeStages.2.labelFemale>
+
+
+    <!-- Fox red -->
+
+    <FoxRed.label>rödräv</FoxRed.label>
+    <FoxRed.lifeStages.0.labelMale>rödrävunge</FoxRed.lifeStages.0.labelMale>
+    <FoxRed.lifeStages.0.labelFemale>rödrävunge</FoxRed.lifeStages.0.labelFemale>
+    <FoxRed.lifeStages.1.labelMale>rödräv</FoxRed.lifeStages.1.labelMale>
+    <FoxRed.lifeStages.1.labelFemale>rödräv</FoxRed.lifeStages.1.labelFemale>
+    <FoxRed.lifeStages.2.labelMale>rödrävhane</FoxRed.lifeStages.2.labelMale>
+    <FoxRed.lifeStages.2.labelFemale>rödrävtik</FoxRed.lifeStages.2.labelFemale>
+
+
+    <!-- Fox arctic -->
+
+    <FoxArctic.label>fjällräv</FoxArctic.label>
+    <FoxArctic.lifeStages.0.labelMale>fjällrävunge</FoxArctic.lifeStages.0.labelMale>
+    <FoxArctic.lifeStages.0.labelFemale>fjällrävunge</FoxArctic.lifeStages.0.labelFemale>
+    <FoxArctic.lifeStages.1.labelMale>fjällräv</FoxArctic.lifeStages.1.labelMale>
+    <FoxArctic.lifeStages.1.labelFemale>fjällräv</FoxArctic.lifeStages.1.labelFemale>
+    <FoxArctic.lifeStages.2.labelMale>fjällrävhane</FoxArctic.lifeStages.2.labelMale>
+    <FoxArctic.lifeStages.2.labelFemale>fjällrävtik</FoxArctic.lifeStages.2.labelFemale>
     
-    <WolfTimber.label>timber wolf</WolfTimber.label>
-    <WolfTimber.lifeStages.0.label>timber wolf puppy</WolfTimber.lifeStages.0.label>
-    
-    <WolfArctic.label>arctic wolf</WolfArctic.label>
-    <WolfArctic.lifeStages.0.label>timber wolf puppy</WolfArctic.lifeStages.0.label>
-    
-    <FoxFennec.label>fennec fox</FoxFennec.label>
-    <FoxFennec.lifeStages.0.label>fennec fox puppy</FoxFennec.lifeStages.0.label>
-    
-    <FoxRed.label>red fox</FoxRed.label>
-    <FoxRed.lifeStages.0.label>red fox puppy</FoxRed.lifeStages.0.label>
-    
-    <FoxArctic.label>arctic fox</FoxArctic.label>
-    <FoxArctic.lifeStages.0.label>Arctic fox puppy</FoxArctic.lifeStages.0.label>
-    
+	
 </LanguageData>
