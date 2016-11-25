@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MakeStoneBlocks.label>Skapa stenblock</MakeStoneBlocks.label>
+    <MakeStoneBlocks.label>Hugga stenblock</MakeStoneBlocks.label>
     <MakeStoneBlocks.description>Hugger ner en stor stenbit till användbara stenblock.</MakeStoneBlocks.description>
-    <MakeStoneBlocks.jobString>Producerar stenblock.</MakeStoneBlocks.jobString>
+    <MakeStoneBlocks.jobString>Hugger stenblock.</MakeStoneBlocks.jobString>
     
     <ExtractMetalFromSlag.label>Extrahera metall från slagg.</ExtractMetalFromSlag.label>
-    <ExtractMetalFromSlag.description>Använd värme och starka elektromagneter för att separare användbara metaller från stora bitar slagg.</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.description>Använd värme och starka elektromagneter för att separera användbara metaller från stora bitar slagg.</ExtractMetalFromSlag.description>
     <ExtractMetalFromSlag.jobString>Extraherar metall från slagg.</ExtractMetalFromSlag.jobString>
     
-    <SmeltWeapon.label>smelt metal from weapon</SmeltWeapon.label>
-    <SmeltWeapon.description>Use heat and strong electromagnets to separate useful metal from weapons.</SmeltWeapon.description>
-    <SmeltWeapon.jobString>Smelting metal from weapon.</SmeltWeapon.jobString>
+    <SmeltWeapon.label>Extrahera metall från vapen</SmeltWeapon.label>
+    <SmeltWeapon.description>Använd värme och starka elektromagneter för att separera användbara metaller ifrån vapen.</SmeltWeapon.description>
+    <SmeltWeapon.jobString>Extraherar metall från vapen.</SmeltWeapon.jobString>
     
-    <MakeArtilleryShell.label>make artillery shell</MakeArtilleryShell.label>
-    <MakeArtilleryShell.description>Craft an artillery shell.</MakeArtilleryShell.description>
-    <MakeArtilleryShell.jobString>Making artillery shell.</MakeArtilleryShell.jobString>
+    <MakeArtilleryShell.label>Göra en artillerigranat</MakeArtilleryShell.label>
+    <MakeArtilleryShell.description>Göra en artillerigranat.</MakeArtilleryShell.description>
+    <MakeArtilleryShell.jobString>Gör en artillerigranat.</MakeArtilleryShell.jobString>
     
-    <MakeComponent.label>make component</MakeComponent.label>
-    <MakeComponent.description>Make a component.</MakeComponent.description>
-    <MakeComponent.jobString>Making component.</MakeComponent.jobString>
+    <MakeComponent.label>Göra en komponent</MakeComponent.label>
+    <MakeComponent.description>Göra en komponent.</MakeComponent.description>
+    <MakeComponent.jobString>Gör en komponent.</MakeComponent.jobString>
     
 </LanguageData>

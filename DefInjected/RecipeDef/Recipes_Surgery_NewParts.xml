@@ -3,59 +3,59 @@
     
     <!-- natural -->
 
-    <InstallNaturalHeart.label>install heart</InstallNaturalHeart.label>
-    <InstallNaturalHeart.description>Installs heart.</InstallNaturalHeart.description>
-    <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>
+    <InstallNaturalHeart.label>transplantera hjärta</InstallNaturalHeart.label>
+    <InstallNaturalHeart.description>Transplanterar hjärta.</InstallNaturalHeart.description>
+    <InstallNaturalHeart.jobString>Transplanterar hjärta.</InstallNaturalHeart.jobString>
 
-    <InstallNaturalLiver.label>install liver</InstallNaturalLiver.label>
-    <InstallNaturalLiver.description>Installs liver.</InstallNaturalLiver.description>
-    <InstallNaturalLiver.jobString>Installing liver.</InstallNaturalLiver.jobString>
+    <InstallNaturalLiver.label>transplantera lever</InstallNaturalLiver.label>
+    <InstallNaturalLiver.description>Transplanterar lever.</InstallNaturalLiver.description>
+    <InstallNaturalLiver.jobString>Transplanterar lever.</InstallNaturalLiver.jobString>
 
-    <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>
-    <InstallNaturalKidney.description>Installs kidney.</InstallNaturalKidney.description>
-    <InstallNaturalKidney.jobString>Installing kidney.</InstallNaturalKidney.jobString>
+    <InstallNaturalKidney.label>transplantera njure</InstallNaturalKidney.label>
+    <InstallNaturalKidney.description>Transplanterar njure.</InstallNaturalKidney.description>
+    <InstallNaturalKidney.jobString>Transplanterar njure.</InstallNaturalKidney.jobString>
 
-    <InstallNaturalLung.label>install lung</InstallNaturalLung.label>
-    <InstallNaturalLung.description>Installs lung.</InstallNaturalLung.description>
-    <InstallNaturalLung.jobString>Installing lung.</InstallNaturalLung.jobString>
+    <InstallNaturalLung.label>transplantera lunga</InstallNaturalLung.label>
+    <InstallNaturalLung.description>Transplanterar lunga.</InstallNaturalLung.description>
+    <InstallNaturalLung.jobString>Transplanterar lunga.</InstallNaturalLung.jobString>
 
 
     <!-- artificial -->
 
-    <InstallPegLeg.label>install peg leg</InstallPegLeg.label>
-    <InstallPegLeg.description>Installs peg leg.</InstallPegLeg.description>
-    <InstallPegLeg.jobString>Installing peg leg.</InstallPegLeg.jobString>
+    <InstallPegLeg.label>installera träben</InstallPegLeg.label>
+    <InstallPegLeg.description>Installerar träben.</InstallPegLeg.description>
+    <InstallPegLeg.jobString>Installerar träben.</InstallPegLeg.jobString>
 
-    <InstallBionicEye.label>install bionic eye</InstallBionicEye.label>
-    <InstallBionicEye.description>Installs bionic eye.</InstallBionicEye.description>
-    <InstallBionicEye.jobString>Installing bionic eye.</InstallBionicEye.jobString>
+    <InstallBionicEye.label>installera bioniskt öga</InstallBionicEye.label>
+    <InstallBionicEye.description>Installerar bioniskt öga.</InstallBionicEye.description>
+    <InstallBionicEye.jobString>Installerar bioniskt öga.</InstallBionicEye.jobString>
 
-    <InstallBionicArm.label>install bionic arm</InstallBionicArm.label>
-    <InstallBionicArm.description>Installs bionic arm.</InstallBionicArm.description>
-    <InstallBionicArm.jobString>Installing bionic arm.</InstallBionicArm.jobString>
+    <InstallBionicArm.label>installera bionisk arm</InstallBionicArm.label>
+    <InstallBionicArm.description>Installerar bionisk arm.</InstallBionicArm.description>
+    <InstallBionicArm.jobString>Installerar bionisk arm.</InstallBionicArm.jobString>
 
-    <InstallBionicLeg.label>install bionic leg</InstallBionicLeg.label>
-    <InstallBionicLeg.description>Installs bionic leg.</InstallBionicLeg.description>
-    <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
+    <InstallBionicLeg.label>installera bioniskt ben</InstallBionicLeg.label>
+    <InstallBionicLeg.description>Installerar bioniskt ben.</InstallBionicLeg.description>
+    <InstallBionicLeg.jobString>Installerar bioniskt ben.</InstallBionicLeg.jobString>
 
-    <InstallSimpleProstheticLeg.label>install simple prosthetic leg</InstallSimpleProstheticLeg.label>
-    <InstallSimpleProstheticLeg.description>Installs simple prosthetic leg.</InstallSimpleProstheticLeg.description>
-    <InstallSimpleProstheticLeg.jobString>Installing simple prostethic leg.</InstallSimpleProstheticLeg.jobString>
+    <InstallSimpleProstheticLeg.label>installera enkel benprotes</InstallSimpleProstheticLeg.label>
+    <InstallSimpleProstheticLeg.description>Installerar enkel benprotes.</InstallSimpleProstheticLeg.description>
+    <InstallSimpleProstheticLeg.jobString>Installerar enkel benprotes.</InstallSimpleProstheticLeg.jobString>
 
-    <InstallSimpleProstheticArm.label>install simple prosthetic arm</InstallSimpleProstheticArm.label>
-    <InstallSimpleProstheticArm.description>Installs simple prosthetic arm.</InstallSimpleProstheticArm.description>
-    <InstallSimpleProstheticArm.jobString>Installing simple prostethic arm.</InstallSimpleProstheticArm.jobString>
+    <InstallSimpleProstheticArm.label>installera enkel armprotes</InstallSimpleProstheticArm.label>
+    <InstallSimpleProstheticArm.description>Installerar enkel armprotes.</InstallSimpleProstheticArm.description>
+    <InstallSimpleProstheticArm.jobString>Installerar enkel armprotes.</InstallSimpleProstheticArm.jobString>
 
-    <InstallDenture.label>install denture</InstallDenture.label>
-    <InstallDenture.description>Installs denture.</InstallDenture.description>
-    <InstallDenture.jobString>Installing denture.</InstallDenture.jobString>
+    <InstallDenture.label>installera tandprotes</InstallDenture.label>
+    <InstallDenture.description>Installerar tandprotes.</InstallDenture.description>
+    <InstallDenture.jobString>Installerar tandprotes.</InstallDenture.jobString>
 
-    <InstallPowerClaw.label>install power claw</InstallPowerClaw.label>
-    <InstallPowerClaw.description>Installs power claw.</InstallPowerClaw.description>
-    <InstallPowerClaw.jobString>Installing power claw.</InstallPowerClaw.jobString>
+    <InstallPowerClaw.label>installera kraftklo</InstallPowerClaw.label>
+    <InstallPowerClaw.description>Installerar kraftklo.</InstallPowerClaw.description>
+    <InstallPowerClaw.jobString>Installerar kraftklo.</InstallPowerClaw.jobString>
 
-    <InstallScytherBlade.label>install scyther blade</InstallScytherBlade.label>
-    <InstallScytherBlade.description>Installs scyther blade.</InstallScytherBlade.description>
-    <InstallScytherBlade.jobString>Installing scyther blade.</InstallScytherBlade.jobString>
+    <InstallScytherBlade.label>installera liemansblad</InstallScytherBlade.label>
+    <InstallScytherBlade.description>Installerar liemansblad.</InstallScytherBlade.description>
+    <InstallScytherBlade.jobString>Installerar liemansblad.</InstallScytherBlade.jobString>
     
 </LanguageData>

@@ -17,11 +17,11 @@
     <StageThenAttack.arrivalTextFriendly>Dom behöver förbereda sig innan dom kommer och hjälper dig.</StageThenAttack.arrivalTextFriendly>
     
     <ImmediateAttackSappers.letterLabelEnemy>Räd</ImmediateAttackSappers.letterLabelEnemy>
-    <ImmediateAttackSappers.arrivalTextEnemy>Det ser ut som dom vill använda ingenjörssoldater för att tunnla runt ditt försvar.</ImmediateAttackSappers.arrivalTextEnemy>
+    <ImmediateAttackSappers.arrivalTextEnemy>Det ser ut som dom kommer att använda ingenjörssoldater för att tunnla runt ditt försvar.</ImmediateAttackSappers.arrivalTextEnemy>
     
     <Siege.letterLabelEnemy>Belägring</Siege.letterLabelEnemy>
-    <Siege.arrivalTextEnemy>Det ser ut som dom vill belägra din koloni och bombardera dig med artilleri. Du kan försöka vänta ut dom - eller attackera i förväg.</Siege.arrivalTextEnemy>
+    <Siege.arrivalTextEnemy>Det ser ut som dom kommer att belägra din koloni och bombardera dig med artilleri. Du kan försöka vänta ut dom - eller attackera i förväg.</Siege.arrivalTextEnemy>
     <Siege.letterLabelFriendly>Vänner</Siege.letterLabelFriendly>
-    <Siege.arrivalTextFriendly>Det ser ut som dom vill använda belägringstaktik för att hjälpa dig.</Siege.arrivalTextFriendly>
+    <Siege.arrivalTextFriendly>Det ser ut som dom kommer att använda belägringstaktik för att hjälpa dig.</Siege.arrivalTextFriendly>
     
 </LanguageData>

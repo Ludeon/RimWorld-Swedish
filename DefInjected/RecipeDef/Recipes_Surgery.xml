@@ -3,29 +3,29 @@
     
     <!-- removing body parts -->
 
-    <RemoveBodyPart.label>remove part</RemoveBodyPart.label>
-    <RemoveBodyPart.description>Removes body part.</RemoveBodyPart.description>
-    <RemoveBodyPart.jobString>Removing body part.</RemoveBodyPart.jobString>
+    <RemoveBodyPart.label>avlägnsa en del</RemoveBodyPart.label>
+    <RemoveBodyPart.description>Avlägsna en kroppsdel.</RemoveBodyPart.description>
+    <RemoveBodyPart.jobString>Avlägsnar en kroppsdel.</RemoveBodyPart.jobString>
 
-    <RemoveMechanoidBodyPart.label>remove part</RemoveMechanoidBodyPart.label>
-    <RemoveMechanoidBodyPart.description>Removes body part.</RemoveMechanoidBodyPart.description>
-    <RemoveMechanoidBodyPart.jobString>Removing body part.</RemoveMechanoidBodyPart.jobString>
+    <RemoveMechanoidBodyPart.label>avlägnsa en del</RemoveMechanoidBodyPart.label>
+    <RemoveMechanoidBodyPart.description>Avlägsna en kroppsdel.</RemoveMechanoidBodyPart.description>
+    <RemoveMechanoidBodyPart.jobString>Avlägsnar en kroppsdel.</RemoveMechanoidBodyPart.jobString>
 
     <!-- Euthanasia -->
 
-    <Euthanize.label>euthanize</Euthanize.label>
-    <Euthanize.description>Euthanizes.</Euthanize.description>
-    <Euthanize.jobString>Euthanizing.</Euthanize.jobString>
+    <Euthanize.label>Avliva</Euthanize.label>
+    <Euthanize.description>Avliva.</Euthanize.description>
+    <Euthanize.jobString>Avlivar.</Euthanize.jobString>
 
-    <ShutDownMechanoid.label>shut down</ShutDownMechanoid.label>
-    <ShutDownMechanoid.description>Shuts down.</ShutDownMechanoid.description>
-    <ShutDownMechanoid.jobString>Shutting down.</ShutDownMechanoid.jobString>
+    <ShutDownMechanoid.label>stäng av</ShutDownMechanoid.label>
+    <ShutDownMechanoid.description>Stänger av.</ShutDownMechanoid.description>
+    <ShutDownMechanoid.jobString>Stänger av.</ShutDownMechanoid.jobString>
 
     <!-- removing hediffs (e.g. diseases) -->
 
-    <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
-    <ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
-    <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
-    <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+    <ExciseCarcinoma.label>avlägsna karcinom</ExciseCarcinoma.label>
+    <ExciseCarcinoma.description>avlägsnar karcinom.</ExciseCarcinoma.description>
+    <ExciseCarcinoma.jobString>avlägsnar karcinom.</ExciseCarcinoma.jobString>
+    <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} har lyckats att avlägsna {1}'s karcinom.</ExciseCarcinoma.successfullyRemovedHediffMessage>
     
 </LanguageData>

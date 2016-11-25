@@ -18,7 +18,7 @@
   <MessageVisitorsTakingWounded>{0} från {1} tar med sig en skadad gäst.</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{0} från {1} har fastnat och gräver sig fria.</MessageVisitorsTrappedLeaving>
   
-  <MessageWornApparelDeterioratedAway>{0} som bäsr av {1} vittrar sönder till smulor.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{0} som bärs av {1} vittrar sönder till smulor.</MessageWornApparelDeterioratedAway>
   
   <MessageSeasonBegun>{0}en är här.</MessageSeasonBegun>
 
@@ -70,7 +70,7 @@
   
   <PawnDiedBecauseOf>{0} dog på grund av {1}.</PawnDiedBecauseOf>
 
-  <MessageNoLongerDowned>{0} kan inte gå längre.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{0} är uppe på fötterna igen.</MessageNoLongerDowned>
 
   <MessageInvoluntarySleep>{0} kollapsade på grund av extrem utmattning.</MessageInvoluntarySleep>
 
