@@ -1,136 +1,136 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Kills.label>kills</Kills.label>
-    <Kills.description>The number of creatures I have killed.</Kills.description>
+    <Kills.label>dödat</Kills.label>
+    <Kills.description>Antalet varelser jag har dödat.</Kills.description>
     
-    <KillsHumanlikes.label>kills (humanlikes)</KillsHumanlikes.label>
-    <KillsHumanlikes.description>The number of humanlike characters I have killed.</KillsHumanlikes.description>
+    <KillsHumanlikes.label>dödat (människolika)</KillsHumanlikes.label>
+    <KillsHumanlikes.description>Antalet människolika karaktärer jag har dödat.</KillsHumanlikes.description>
     
-    <KillsAnimals.label>kills (animals)</KillsAnimals.label>
-    <KillsAnimals.description>The number of animals I have killed.</KillsAnimals.description>
+    <KillsAnimals.label>dödat (djur)</KillsAnimals.label>
+    <KillsAnimals.description>Antalet djur jag har dödat.</KillsAnimals.description>
     
-    <KillsMechanoids.label>kills (mechanoids)</KillsMechanoids.label>
-    <KillsMechanoids.description>The number of mechanoids I have killed.</KillsMechanoids.description>
+    <KillsMechanoids.label>dödat (mekanoider)</KillsMechanoids.label>
+    <KillsMechanoids.description>Antalet mekanoider jag har dödat.</KillsMechanoids.description>
     
-    <PawnsDowned.label>enemies downed</PawnsDowned.label>
-    <PawnsDowned.description>The number of creatures downed.</PawnsDowned.description>
+    <PawnsDowned.label>nedtagna fiender</PawnsDowned.label>
+    <PawnsDowned.description>Antalet varelser jag har tagit ned.</PawnsDowned.description>
     
-    <PawnsDownedHumanlikes.label>enemies downed (humanlikes)</PawnsDownedHumanlikes.label>
-    <PawnsDownedHumanlikes.description>The number of humanlike creatures downed.</PawnsDownedHumanlikes.description>
+    <PawnsDownedHumanlikes.label>nedtagna fiender (människolika)</PawnsDownedHumanlikes.label>
+    <PawnsDownedHumanlikes.description>Antalet människolika karaktärer jag har tagit ned.</PawnsDownedHumanlikes.description>
     
-    <PawnsDownedAnimals.label>enemies downed (animals)</PawnsDownedAnimals.label>
-    <PawnsDownedAnimals.description>The number of animals downed.</PawnsDownedAnimals.description>
+    <PawnsDownedAnimals.label>nedtagna fiender (djur)</PawnsDownedAnimals.label>
+    <PawnsDownedAnimals.description>Antalet djur jag har tagit ned.</PawnsDownedAnimals.description>
     
-    <PawnsDownedMechanoids.label>enemies downed (mechanoids)</PawnsDownedMechanoids.label>
-    <PawnsDownedMechanoids.description>The number of mechanoids downed.</PawnsDownedMechanoids.description>
+    <PawnsDownedMechanoids.label>nedtagna fiender (mekanoider)</PawnsDownedMechanoids.label>
+    <PawnsDownedMechanoids.description>TAntalet mekanoider jag har tagit ned.</PawnsDownedMechanoids.description>
     
-    <ShotsFired.label>shots fired</ShotsFired.label>
-    <ShotsFired.description>The number of shots I have fired.</ShotsFired.description>
+    <ShotsFired.label>skott avlossade</ShotsFired.label>
+    <ShotsFired.description>Antalet skott jag har avlossat.</ShotsFired.description>
     
-    <Headshots.label>headshots</Headshots.label>
-    <Headshots.description>The number of headshots I have made.</Headshots.description>
+    <Headshots.label>huvudskottt</Headshots.label>
+    <Headshots.description>Antal skott mot huvudet.</Headshots.description>
     
-    <DamageDealt.label>damage dealt</DamageDealt.label>
-    <DamageDealt.description>The amount of damage I have dealt.</DamageDealt.description>
+    <DamageDealt.label>skada gjord</DamageDealt.label>
+    <DamageDealt.description>Total skada jag gjort.</DamageDealt.description>
     
-    <DamageTaken.label>damage taken</DamageTaken.label>
-    <DamageTaken.description>The amount of damage I have taken.</DamageTaken.description>
+    <DamageTaken.label>skada tagen</DamageTaken.label>
+    <DamageTaken.description>Total skada jag tagit.</DamageTaken.description>
     
-    <TimesInMentalState.label>times in mental state</TimesInMentalState.label>
-    <TimesInMentalState.description>How many times I have suffered a mental break.</TimesInMentalState.description>
+    <TimesInMentalState.label>gången i mantalt tillstånd</TimesInMentalState.label>
+    <TimesInMentalState.description>Hur många gånger jag har haft ett mentalt bryt.</TimesInMentalState.description>
     
-    <TimesOnFire.label>times on fire</TimesOnFire.label>
-    <TimesOnFire.description>How many times I have been on fire.</TimesOnFire.description>
+    <TimesOnFire.label>gånger brunnit</TimesOnFire.label>
+    <TimesOnFire.description>Hur många gånger jag har brunnit.</TimesOnFire.description>
     
-    <FiresExtinguished.label>fires extinguished</FiresExtinguished.label>
-    <FiresExtinguished.description>The number of fires I have extinguished.</FiresExtinguished.description>
+    <FiresExtinguished.label>släkta eld</FiresExtinguished.label>
+    <FiresExtinguished.description>Hur många gånger jag släkt en eld.</FiresExtinguished.description>
     
-    <OperationsReceived.label>operations received</OperationsReceived.label>
-    <OperationsReceived.description>How many times I have been medically operated on.</OperationsReceived.description>
+    <OperationsReceived.label>mottagna operationer</OperationsReceived.label>
+    <OperationsReceived.description>Hur många gånger jag har blivit opererad.</OperationsReceived.description>
     
-    <OperationsPerformed.label>operations performed</OperationsPerformed.label>
-    <OperationsPerformed.description>How many medical operations I have performed.</OperationsPerformed.description>
+    <OperationsPerformed.label>utförda operationer</OperationsPerformed.label>
+    <OperationsPerformed.description>Hur många medicinska operationer jag har utfört.</OperationsPerformed.description>
     
-    <TimesTendedTo.label>treatments received</TimesTendedTo.label>
-    <TimesTendedTo.description>How many times I have received medical treatment.</TimesTendedTo.description>
+    <TimesTendedTo.label>mottagna behandlingar</TimesTendedTo.label>
+    <TimesTendedTo.description>Hur många gånger jag fått medicinsk behandling.</TimesTendedTo.description>
     
-    <TimesTendedOther.label>treatments given</TimesTendedOther.label>
-    <TimesTendedOther.description>How many medical treatments I have given.</TimesTendedOther.description>
+    <TimesTendedOther.label>utförda behandlingar</TimesTendedOther.label>
+    <TimesTendedOther.description>Hur många medicinska behandlingar jag har utfört.</TimesTendedOther.description>
     
-    <PeopleCaptured.label>people captured</PeopleCaptured.label>
-    <PeopleCaptured.description>The number of people I have captured.</PeopleCaptured.description>
+    <PeopleCaptured.label>personer fångade</PeopleCaptured.label>
+    <PeopleCaptured.description>Antalet personer jag har fångat.</PeopleCaptured.description>
     
-    <PrisonersRecruited.label>prisoners recruited</PrisonersRecruited.label>
-    <PrisonersRecruited.description>The number of prisoners I have recruited.</PrisonersRecruited.description>
+    <PrisonersRecruited.label>fångar rekryterade</PrisonersRecruited.label>
+    <PrisonersRecruited.description>Antalet fångar jag har rekryterat.</PrisonersRecruited.description>
     
-    <PrisonersChatted.label>prisoners chatted</PrisonersChatted.label>
-    <PrisonersChatted.description>How many times I have chatted with a prisoner.</PrisonersChatted.description>
+    <PrisonersChatted.label>fångar pratade med</PrisonersChatted.label>
+    <PrisonersChatted.description>Antalet gånger jag har pratat med en fånge.</PrisonersChatted.description>
     
-    <AnimalsTamed.label>animals tamed</AnimalsTamed.label>
-    <AnimalsTamed.description>The number of animals I have tamed.</AnimalsTamed.description>
+    <AnimalsTamed.label>djur tämjda</AnimalsTamed.label>
+    <AnimalsTamed.description>Antalet djur jag har tämjt.</AnimalsTamed.description>
     
-    <AnimalsSlaughtered.label>animals slaughtered</AnimalsSlaughtered.label>
-    <AnimalsSlaughtered.description>The number of animals I have slaughtered.</AnimalsSlaughtered.description>
+    <AnimalsSlaughtered.label>djur slaktade</AnimalsSlaughtered.label>
+    <AnimalsSlaughtered.description>Antalet djur jag har slaktat.</AnimalsSlaughtered.description>
     
-    <MealsCooked.label>meals cooked</MealsCooked.label>
-    <MealsCooked.description>The number of meals I have cooked.</MealsCooked.description>
+    <MealsCooked.label>Måltid lagade</MealsCooked.label>
+    <MealsCooked.description>Antaöet måltide jag har lagat.</MealsCooked.description>
     
-    <ThingsConstructed.label>things constructed</ThingsConstructed.label>
-    <ThingsConstructed.description>The number of things I have constructed.</ThingsConstructed.description>
+    <ThingsConstructed.label>saker byggt</ThingsConstructed.label>
+    <ThingsConstructed.description>Antalet saker jag har byggt.</ThingsConstructed.description>
     
-    <ThingsInstalled.label>things installed</ThingsInstalled.label>
-    <ThingsInstalled.description>The number of things I have installed.</ThingsInstalled.description>
+    <ThingsInstalled.label>saker monterade</ThingsInstalled.label>
+    <ThingsInstalled.description>Antalet saker jag har monterat.</ThingsInstalled.description>
     
-    <ThingsRepaired.label>things repaired</ThingsRepaired.label>
-    <ThingsRepaired.description>The number of things I have repaired.</ThingsRepaired.description>
+    <ThingsRepaired.label>saker reparerade</ThingsRepaired.label>
+    <ThingsRepaired.description>Antal saker jag har reparerat.</ThingsRepaired.description>
     
-    <ThingsCrafted.label>things crafted</ThingsCrafted.label>
-    <ThingsCrafted.description>The number of things I have crafted.</ThingsCrafted.description>
+    <ThingsCrafted.label>saker skapade</ThingsCrafted.label>
+    <ThingsCrafted.description>Antalet saker jag har skapat.</ThingsCrafted.description>
     
-    <ThingsHauled.label>things hauled</ThingsHauled.label>
-    <ThingsHauled.description>The number of things I have hauled.</ThingsHauled.description>
+    <ThingsHauled.label>saker släpade</ThingsHauled.label>
+    <ThingsHauled.description>Antalet saker jag har släpat.</ThingsHauled.description>
     
-    <PlantsSown.label>plants sown</PlantsSown.label>
-    <PlantsSown.description>The number of plants I have sown.</PlantsSown.description>
+    <PlantsSown.label>växter sådda</PlantsSown.label>
+    <PlantsSown.description>Antalet växter jag sått.</PlantsSown.description>
     
-    <PlantsHarvested.label>plants harvested</PlantsHarvested.label>
-    <PlantsHarvested.description>The number of plants I have harvested.</PlantsHarvested.description>
+    <PlantsHarvested.label>växter skördade</PlantsHarvested.label>
+    <PlantsHarvested.description>Antalet växter jag har skördat.</PlantsHarvested.description>
     
-    <CellsMined.label>cells mined</CellsMined.label>
-    <CellsMined.description>The number of cells I have mined out.</CellsMined.description>
+    <CellsMined.label>Celler grävda</CellsMined.label>
+    <CellsMined.description>Antaler celler jag grävt ut.</CellsMined.description>
     
-    <MessesCleaned.label>messes cleaned</MessesCleaned.label>
-    <MessesCleaned.description>The number of messes I have cleaned up.</MessesCleaned.description>
+    <MessesCleaned.label>skräp städat</MessesCleaned.label>
+    <MessesCleaned.description>Antalet gånger jag städat upp skräp.</MessesCleaned.description>
     
-    <ResearchPointsResearched.label>research points researched</ResearchPointsResearched.label>
-    <ResearchPointsResearched.description>The number of research points I have researched.</ResearchPointsResearched.description>
+    <ResearchPointsResearched.label>forskningspoäng forskat</ResearchPointsResearched.label>
+    <ResearchPointsResearched.description>Antalet forskningspoäng jag har forskat fram.</ResearchPointsResearched.description>
     
-    <CorpsesBuried.label>corpses buried</CorpsesBuried.label>
-    <CorpsesBuried.description>The number of corpses I have buried.</CorpsesBuried.description>
+    <CorpsesBuried.label>kroppar begravda</CorpsesBuried.label>
+    <CorpsesBuried.description>Antalet korppar jag har begravt.</CorpsesBuried.description>
     
-    <NutritionEaten.label>nutrition eaten</NutritionEaten.label>
-    <NutritionEaten.description>The amount of nutrition I have eaten.</NutritionEaten.description>
+    <NutritionEaten.label>näringsmängd ätit</NutritionEaten.label>
+    <NutritionEaten.description>Total näringsmängd jag ätit.</NutritionEaten.description>
     
-    <TrapsRearmed.label>traps rearmed</TrapsRearmed.label>
-    <TrapsRearmed.description>The number of traps I have rearmed.</TrapsRearmed.description>
+    <TrapsRearmed.label>fällor gillrade</TrapsRearmed.label>
+    <TrapsRearmed.description>Antalet fällor jag gillrat.</TrapsRearmed.description>
     
-    <BodiesStripped.label>bodies stripped</BodiesStripped.label>
-    <BodiesStripped.description>The number of bodies I have stripped.</BodiesStripped.description>
+    <BodiesStripped.label>kroppar klätt av</BodiesStripped.label>
+    <BodiesStripped.description>Antalet kroppar jag klätt av.</BodiesStripped.description>
     
-    <ThingsUninstalled.label>things uninstalled</ThingsUninstalled.label>
-    <ThingsUninstalled.description>The number of things I have uninstalled.</ThingsUninstalled.description>
+    <ThingsUninstalled.label>saker nedmonterat</ThingsUninstalled.label>
+    <ThingsUninstalled.description>Antalet saker jag monterat ned.</ThingsUninstalled.description>
     
-    <ThingsDeconstructed.label>things deconstructed</ThingsDeconstructed.label>
-    <ThingsDeconstructed.description>The number of things I have deconstructed.</ThingsDeconstructed.description>
+    <ThingsDeconstructed.label>rivit saker</ThingsDeconstructed.label>
+    <ThingsDeconstructed.description>Antalet saker jag rivit.</ThingsDeconstructed.description>
     
-    <ArtifactsActivated.label>artifacts activated</ArtifactsActivated.label>
-    <ArtifactsActivated.description>The number of artifacts I have activated.</ArtifactsActivated.description>
+    <ArtifactsActivated.label>artifakter aktiverade</ArtifactsActivated.label>
+    <ArtifactsActivated.description>Antalet artifakter jag aktiverat.</ArtifactsActivated.description>
     
-    <ContainersOpened.label>containers opened</ContainersOpened.label>
-    <ContainersOpened.description>The number of containers I have opened.</ContainersOpened.description>
+    <ContainersOpened.label>behållare öppnade</ContainersOpened.label>
+    <ContainersOpened.description>Antalet behållare jag öppnat.</ContainersOpened.description>
     
-    <SwitchesFlicked.label>switches flicked</SwitchesFlicked.label>
-    <SwitchesFlicked.description>The number of switches I have flicked.</SwitchesFlicked.description>
+    <SwitchesFlicked.label>knappar klickade</SwitchesFlicked.label>
+    <SwitchesFlicked.description>Antalet knappar jag klickat på.</SwitchesFlicked.description>
     
 </LanguageData>

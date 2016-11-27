@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PsychiteRefining.label>psychite refining</PsychiteRefining.label>
-    <PsychiteRefining.description>Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite.</PsychiteRefining.description>
+    <PsychiteRefining.label>psychit raffinering</PsychiteRefining.label>
+    <PsychiteRefining.description>Lär dig hur man raffinerar psychit-blad till flake och yayo, olika former av den euforiska drogen psychit.</PsychiteRefining.description>
     
-    <WakeUpProduction.label>wake-up production</WakeUpProduction.label>
-    <WakeUpProduction.description>Your chemists learn the formulas and techniques for synthesizing wake-up, a work performance-enhancing drug.</WakeUpProduction.description>
+    <WakeUpProduction.label>vakna tillverkning</WakeUpProduction.label>
+    <WakeUpProduction.description>Dina kemister lär sig formler och tekniker för att syntisera vakns, en prestationshöjande drog.</WakeUpProduction.description>
     
-    <GoJuiceProduction.label>go-juice production</GoJuiceProduction.label>
-    <GoJuiceProduction.description>Learn to produce the synthetic combat-performance-enhancing drug go-juice.</GoJuiceProduction.description>
+    <GoJuiceProduction.label>go-juice tillverkning</GoJuiceProduction.label>
+    <GoJuiceProduction.description>Lär dig att tillverka den syntetiska drogen go-juice som förbättrar stridsprestandan.</GoJuiceProduction.description>
     
-    <MalariBlockProduction.label>malari-block production</MalariBlockProduction.label>
-    <MalariBlockProduction.description>Learn to produce malari-block, a malaria prevention drug.</MalariBlockProduction.description>
+    <MalariBlockProduction.label>malari-block tillverkning</MalariBlockProduction.label>
+    <MalariBlockProduction.description>Lär dig att tillverka malari-block, en drog för att förbygga malaria.</MalariBlockProduction.description>
     
-    <Batteries.label>batteries</Batteries.label>
-    <Batteries.description>Build batteries for storing electricity.</Batteries.description>
+    <Batteries.label>batterier</Batteries.label>
+    <Batteries.description>Bygg batteriar för att lagra elekticitet.</Batteries.description>
     
-    <NutrientPaste.label>nutrient paste</NutrientPaste.label>
-    <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.</NutrientPaste.description>
+    <NutrientPaste.label>näringsmassa</NutrientPaste.label>
+    <NutrientPaste.description>Bygg en näringsmassa-automat som gör ätbara måltidet från råa närande matarmaterial.</NutrientPaste.description>
     
-    <SolarPanels.label>solar panels</SolarPanels.label>
-    <SolarPanels.description>Build solar panels for electrical generation.</SolarPanels.description>
+    <SolarPanels.label>solpaneler</SolarPanels.label>
+    <SolarPanels.description>Bygg solpaneler för att generera energi ifrån solen.</SolarPanels.description>
     
-    <AirConditioning.label>air conditioning</AirConditioning.label>
-    <AirConditioning.description>Build air conditions to cool rooms in the heat, or to keep freezers.</AirConditioning.description>
+    <AirConditioning.label>luftkonditionering</AirConditioning.label>
+    <AirConditioning.description>Bygg luftkonditionering för att kyla varma rum eller för att hålla frysar kalla.</AirConditioning.description>
     
-    <Autodoors.label>autodoors</Autodoors.label>
-    <Autodoors.description>Build autodoors which open to permit movement without slowing anyone down.</Autodoors.description>
+    <Autodoors.label>automatdörrar</Autodoors.label>
+    <Autodoors.description>Bygg dörrar som öppnar sig automatiskt utan att sakta ner någon.</Autodoors.description>
     
-    <Hydroponics.label>Hydrokultur</Hydroponics.label>
+    <Hydroponics.label>hydrokultur</Hydroponics.label>
     <Hydroponics.description>Gör det möjligt att bygga hydrokulturbord för att kunna odla grödor snabbt inomhus.</Hydroponics.description>
     
-    <ElectricSmelting.label>electric smelting</ElectricSmelting.label>
-    <ElectricSmelting.description>Build electic smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelters uses heat and strong electromagnets to extract useful metal from slag chunks and other items.</ElectricSmelting.description>
+    <ElectricSmelting.label>elektrisk smältning</ElectricSmelting.label>
+    <ElectricSmelting.description>Bygg en elektrisk smästung och smedja.\n\nDen elektriska smedjan tillåter dig att smedja utan att använda bränsle. Den elektriska smältugnen använder hetta och starka magneter för att extrahera användbara metaller ifrån slaggbitar och andra föremål.</ElectricSmelting.description>
     
-    <ElectricCremation.label>electric cremation</ElectricCremation.label>
-    <ElectricCremation.description>Build crematoriums which can vaporize unwanted corpses.</ElectricCremation.description>
+    <ElectricCremation.label>elektrisk kremering</ElectricCremation.label>
+    <ElectricCremation.description>Bygg ett krematorium där du kan förånga oänskade kroppar.</ElectricCremation.description>
     
-    <ColoredLights.label>Färgade ljus</ColoredLights.label>
+    <ColoredLights.label>färgade ljus</ColoredLights.label>
     <ColoredLights.description>Gör det möjligt för kolonister att konstruera färgade ljus för dekorativa syften.</ColoredLights.description>
     
-    <Machining.label>Maskinering</Machining.label>
-    <Machining.description>Bygg maskineringsbord för att utvinna användbar metall ur döda mekanoider.</Machining.description>
+    <Machining.label>bearbetning</Machining.label>
+    <Machining.description>Bygg bearbetningsbord för att tillverka vapen och maskiner samt utvinna användbara metaller ur döda mekanoider.</Machining.description>
     
-    <Mortars.label>Granatkastare</Mortars.label>
+    <Mortars.label>granatkastare</Mortars.label>
     <Mortars.description>Lär dig bygga granatkastare som kan skjuta granater långa sträckor över murar.</Mortars.description>
     
-    <IEDBomb.label>Explosive IEDs</IEDBomb.label>
-    <IEDBomb.description>Allows colonists to build improvised explosive device-based traps from artillery shells.</IEDBomb.description>
+    <IEDBomb.label>Explosiva IEDs</IEDBomb.label>
+    <IEDBomb.description>Tillåter kolonister att bygga improviserade enhetsbaserade fällor från artillerigranater.</IEDBomb.description>
     
-    <IEDIncendiary.label>Incendiary IEDs</IEDIncendiary.label>
-    <IEDIncendiary.description>Allows colonists to build incendiary explosive traps from artillery shells.</IEDIncendiary.description>
+    <IEDIncendiary.label>Brandfarliga IEDs</IEDIncendiary.label>
+    <IEDIncendiary.description>Tillåter kolonister att bygga brandexplosiva fällor från artillerigranater.</IEDIncendiary.description>
     
-    <MicroelectronicsBasics.label>microelectronics basics</MicroelectronicsBasics.label>
-    <MicroelectronicsBasics.description>The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.</MicroelectronicsBasics.description>
+    <MicroelectronicsBasics.label>mikroelektronisk grund</MicroelectronicsBasics.label>
+    <MicroelectronicsBasics.description>Grunten till att arbeta med känslig och komplex elektronik. Detta låser upp högteknologisk forskningsbänk, kommunikationspanel och andra forskningsprojekt såsom Katodrör-TV och cryptosömn-kapslar.</MicroelectronicsBasics.description>
     
-    <TubeTelevision.label>Katodrör-TV</TubeTelevision.label>
+    <TubeTelevision.label>katodrör-TV</TubeTelevision.label>
     <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
     
-    <GunTurrets.label>gun turrets</GunTurrets.label>
-    <GunTurrets.description>Allows the production of automated gun turrets.</GunTurrets.description>
+    <GunTurrets.label>kanontorn</GunTurrets.label>
+    <GunTurrets.description>Tillåter tillverkning av automatiska kanontorn.</GunTurrets.description>
     
 </LanguageData>

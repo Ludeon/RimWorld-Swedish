@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <TimeAsColonist.label>time as a colonist</TimeAsColonist.label>
-    <TimeAsColonist.description>Total time spent as a colonist.</TimeAsColonist.description>
+    <TimeAsColonist.label>tid som kolonist</TimeAsColonist.label>
+    <TimeAsColonist.description>Total tid spenderad som kolonist.</TimeAsColonist.description>
     
-    <TimeAsPrisoner.label>time as a prisoner</TimeAsPrisoner.label>
-    <TimeAsPrisoner.description>Total time spent as a prisoner.</TimeAsPrisoner.description>
+    <TimeAsPrisoner.label>tid som fånge</TimeAsPrisoner.label>
+    <TimeAsPrisoner.description>Total tid spenderad som fånge.</TimeAsPrisoner.description>
     
-    <TimeInBed.label>time in a bed</TimeInBed.label>
-    <TimeInBed.description>Total time spent in a bed.</TimeInBed.description>
+    <TimeInBed.label>tid i säng</TimeInBed.label>
+    <TimeInBed.description>Total tid spenderad i säng.</TimeInBed.description>
     
-    <TimeInBedForMedicalReasons.label>time in a bed for medical reasons</TimeInBedForMedicalReasons.label>
-    <TimeInBedForMedicalReasons.description>Total time spent in a bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.</TimeInBedForMedicalReasons.description>
+    <TimeInBedForMedicalReasons.label>tid i säng av medicinska orsaker</TimeInBedForMedicalReasons.label>
+    <TimeInBedForMedicalReasons.description>Total tid spenderad i säng av medicinska orsaker såsom: väntar på behandling, återhämting ifrån skador eller blir opererad på.</TimeInBedForMedicalReasons.description>
     
-    <TimeDowned.label>time downed</TimeDowned.label>
-    <TimeDowned.description>Total time spent downed.</TimeDowned.description>
+    <TimeDowned.label>tid nere</TimeDowned.label>
+    <TimeDowned.description>Total tid spenderad avsvimmad.</TimeDowned.description>
     
-    <TimeGettingFood.label>time finding food and eating</TimeGettingFood.label>
-    <TimeGettingFood.description>Total time spent on finding food and eating.</TimeGettingFood.description>
+    <TimeGettingFood.label>tid letande efter mat eller äter</TimeGettingFood.label>
+    <TimeGettingFood.description>Total tid spenderad letandes efter mat eller ätandes.</TimeGettingFood.description>
     
-    <TimeGettingJoy.label>time spent on entertainment</TimeGettingJoy.label>
-    <TimeGettingJoy.description>Total time spent on entertainment.</TimeGettingJoy.description>
+    <TimeGettingJoy.label>tid spenderad på underhållning</TimeGettingJoy.label>
+    <TimeGettingJoy.description>Total tid spenderad på underhållning.</TimeGettingJoy.description>
     
-    <TimeUnderRoof.label>time under a roof</TimeUnderRoof.label>
-    <TimeUnderRoof.description>Total time spent under a roof.</TimeUnderRoof.description>
+    <TimeUnderRoof.label>tid under tak</TimeUnderRoof.label>
+    <TimeUnderRoof.description>Total tid spenderad under tak.</TimeUnderRoof.description>
     
-    <TimeDrafted.label>time drafted</TimeDrafted.label>
-    <TimeDrafted.description>Total time spent drafted.</TimeDrafted.description>
+    <TimeDrafted.label>tid kommenderad</TimeDrafted.label>
+    <TimeDrafted.description>Total tid spenderad kommenderad.</TimeDrafted.description>
     
-    <TimeOnFire.label>time on fire</TimeOnFire.label>
-    <TimeOnFire.description>Total time spent on fire.</TimeOnFire.description>
+    <TimeOnFire.label>tid brinnandes</TimeOnFire.label>
+    <TimeOnFire.description>Total tid spenderad i brinnandes.</TimeOnFire.description>
     
-    <TimeInMentalState.label>time in mental state</TimeInMentalState.label>
-    <TimeInMentalState.description>Total time spent in mental state.</TimeInMentalState.description>
+    <TimeInMentalState.label>tid i ett galet tillstånd</TimeInMentalState.label>
+    <TimeInMentalState.description>Total tid spenderad i ett galet tillstånd.</TimeInMentalState.description>
     
-    <TimeHauling.label>time hauling</TimeHauling.label>
-    <TimeHauling.description>Total time spent hauling things.</TimeHauling.description>
+    <TimeHauling.label>tid släpandes</TimeHauling.label>
+    <TimeHauling.description>Total tid spenderad med att släpa saker.</TimeHauling.description>
     
-    <TimeHandlingAnimals.label>time handling animals</TimeHandlingAnimals.label>
-    <TimeHandlingAnimals.description>Total time spent handling animals.</TimeHandlingAnimals.description>
+    <TimeHandlingAnimals.label>tid djurhantering</TimeHandlingAnimals.label>
+    <TimeHandlingAnimals.description>Total tid spenderad med att hantera djur.</TimeHandlingAnimals.description>
     
-    <TimeFirefighting.label>time firefighting</TimeFirefighting.label>
-    <TimeFirefighting.description>Total time spent firefighting.</TimeFirefighting.description>
+    <TimeFirefighting.label>tid brandbekämpning</TimeFirefighting.label>
+    <TimeFirefighting.description>Total tid spenderad med att bekämpa bränder.</TimeFirefighting.description>
     
-    <TimeWardening.label>time wardening</TimeWardening.label>
-    <TimeWardening.description>Total time spent wardening.</TimeWardening.description>
+    <TimeWardening.label>tid vaktande</TimeWardening.label>
+    <TimeWardening.description>Total tid spenderad med att vakta fångar.</TimeWardening.description>
     
-    <TimeHunting.label>time hunting</TimeHunting.label>
-    <TimeHunting.description>Total time spent hunting.</TimeHunting.description>
+    <TimeHunting.label>tid jagande</TimeHunting.label>
+    <TimeHunting.description>Total tid spenderad med att jaga.</TimeHunting.description>
     
-    <TimeConstructing.label>time constructing</TimeConstructing.label>
-    <TimeConstructing.description>Total time spent constructing and deconstructing.</TimeConstructing.description>
+    <TimeConstructing.label>tid byggande</TimeConstructing.label>
+    <TimeConstructing.description>Total tid spenderad med att bygga eller riva.</TimeConstructing.description>
     
-    <TimeTreatingAndFeeding.label>time treating and feeding</TimeTreatingAndFeeding.label>
-    <TimeTreatingAndFeeding.description>Total time spent treating and feeding patients.</TimeTreatingAndFeeding.description>
+    <TimeTreatingAndFeeding.label>tid ta hand om och mata</TimeTreatingAndFeeding.label>
+    <TimeTreatingAndFeeding.description>Total tid spenderad med att ta hand och och mata patienter.</TimeTreatingAndFeeding.description>
     
-    <TimeResearching.label>time researching</TimeResearching.label>
-    <TimeResearching.description>Total time spent researching.</TimeResearching.description>
+    <TimeResearching.label>tid forskande</TimeResearching.label>
+    <TimeResearching.description>Total tid spenderad med att forska.</TimeResearching.description>
     
-    <TimeCleaning.label>time cleaning</TimeCleaning.label>
-    <TimeCleaning.description>Total time spent cleaning.</TimeCleaning.description>
+    <TimeCleaning.label>tid städa</TimeCleaning.label>
+    <TimeCleaning.description>Total tid spenderad med att städa.</TimeCleaning.description>
     
-    <TimeRepairing.label>time repairing</TimeRepairing.label>
-    <TimeRepairing.description>Total time spent repairing.</TimeRepairing.description>
+    <TimeRepairing.label>tid reparera</TimeRepairing.label>
+    <TimeRepairing.description>Total tid spenderad med att reparera.</TimeRepairing.description>
     
-    <TimeMining.label>time mining</TimeMining.label>
-    <TimeMining.description>Total time spent mining.</TimeMining.description>
+    <TimeMining.label>tid gräva</TimeMining.label>
+    <TimeMining.description>Total tid spenderad med att gräva efter mineraler.</TimeMining.description>
     
-    <TimeSowingAndHarvesting.label>time sowing and harvesting</TimeSowingAndHarvesting.label>
-    <TimeSowingAndHarvesting.description>Total time spent sowing, harvesting and cutting plants.</TimeSowingAndHarvesting.description>
+    <TimeSowingAndHarvesting.label>tid så och skörda</TimeSowingAndHarvesting.label>
+    <TimeSowingAndHarvesting.description>Total tid spenderad med att så och skörda och klippa växter.</TimeSowingAndHarvesting.description>
     
 </LanguageData>

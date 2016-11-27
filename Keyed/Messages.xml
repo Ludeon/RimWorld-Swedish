@@ -99,7 +99,7 @@
   <MessageCantSelectDeadPawn>{0} är död.</MessageCantSelectDeadPawn>
   <MessageCantSelectOffMapPawn>{0} är utanför kartan.</MessageCantSelectOffMapPawn>
   
-  <MessageSocialFight>{0} startade ett gräl med {1}. Anledning: {2}.</MessageSocialFight>
+  <MessageSocialFight>{0} startade ett slagsmål med {1}. Anledning: {2}.</MessageSocialFight>
   
   <MessageNewMarriageCeremony>Kolonisterna samlas för att fira bröllpet mellan {0} och {1}.</MessageNewMarriageCeremony>
   <MessageMarriageCeremonyStarts>{0} och {1} börjar deras bröllopscermoni!</MessageMarriageCeremonyStarts>
@@ -127,7 +127,7 @@
 
   <MessageScreenshotSavedAs>Skärmdump sparad som: {0}</MessageScreenshotSavedAs>
   
-  <MessageNoLongerSocialFighting>{0} och {1} grälar inte längre.</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>{0} och {1} slåss inte längre.</MessageNoLongerSocialFighting>
   
   <MessageNoLongerBingingOnDrug>{0} frossar inte längre på {1}.</MessageNoLongerBingingOnDrug>
 

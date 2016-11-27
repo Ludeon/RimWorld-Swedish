@@ -6,50 +6,50 @@
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_GoJuice.label>Göra go-juice</Make_GoJuice.label>
-  <Make_GoJuice.description>Göra go-juice</Make_GoJuice.description>
+  <Make_GoJuice.label>Gör go-juice</Make_GoJuice.label>
+  <Make_GoJuice.description>Gör go-juice</Make_GoJuice.description>
   <Make_GoJuice.jobString>Gör go-juice.</Make_GoJuice.jobString>
 
-  <Make_MalariBlock.label>Göra malari-block</Make_MalariBlock.label>
-  <Make_MalariBlock.description>Göra malari-block</Make_MalariBlock.description>
+  <Make_MalariBlock.label>Gör malari-block</Make_MalariBlock.label>
+  <Make_MalariBlock.description>Gör malari-block</Make_MalariBlock.description>
   <Make_MalariBlock.jobString>Gör malari-block.</Make_MalariBlock.jobString>
 
-  <Make_Flake.label>Göra flake</Make_Flake.label>
-  <Make_Flake.description>Göra flake</Make_Flake.description>
+  <Make_Flake.label>Gör flake</Make_Flake.label>
+  <Make_Flake.description>Gör flake</Make_Flake.description>
   <Make_Flake.jobString>Gör flake.</Make_Flake.jobString>
 
-  <Make_Yayo.label>Göra yayo</Make_Yayo.label>
-  <Make_Yayo.description>Göra yayo</Make_Yayo.description>
+  <Make_Yayo.label>Gör yayo</Make_Yayo.label>
+  <Make_Yayo.description>Gör yayo</Make_Yayo.description>
   <Make_Yayo.jobString>Gör yayo.</Make_Yayo.jobString>
 
 
   <!-- Recipe Users: CraftingSpot -->
 
-  <Make_SmokeleafJoint.label>Göra smokeleaf joint</Make_SmokeleafJoint.label>
-  <Make_SmokeleafJoint.description>Göra smokeleaf joint</Make_SmokeleafJoint.description>
+  <Make_SmokeleafJoint.label>Gör smokeleaf joint</Make_SmokeleafJoint.label>
+  <Make_SmokeleafJoint.description>Gör smokeleaf joint</Make_SmokeleafJoint.description>
   <Make_SmokeleafJoint.jobString>Gör smokeleaf joint.</Make_SmokeleafJoint.jobString>
 
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_WakeUp.label>Göra wake-up</Make_WakeUp.label>
-  <Make_WakeUp.description>Göra wake-up</Make_WakeUp.description>
-  <Make_WakeUp.jobString>Gör wake-up.</Make_WakeUp.jobString>
+  <Make_WakeUp.label>Gör vakna</Make_WakeUp.label>
+  <Make_WakeUp.description>Gör vakna</Make_WakeUp.description>
+  <Make_WakeUp.jobString>Gör vakna.</Make_WakeUp.jobString>
 
 
   <!-- Recipe Users: TableSculpting -->
 
-  <Make_SculptureSmall.label>Göra liten skulptur</Make_SculptureSmall.label>
-  <Make_SculptureSmall.description>Göra liten skulptur</Make_SculptureSmall.description>
-  <Make_SculptureSmall.jobString>Gör en liten skulptur.</Make_SculptureSmall.jobString>
+  <Make_SculptureSmall.label>Tillverka liten skulptur</Make_SculptureSmall.label>
+  <Make_SculptureSmall.description>Tillverka liten skulptur</Make_SculptureSmall.description>
+  <Make_SculptureSmall.jobString>Tillverkar en liten skulptur.</Make_SculptureSmall.jobString>
 
-  <Make_SculptureLarge.label>Göra stor skulptur</Make_SculptureLarge.label>
-  <Make_SculptureLarge.description>Göra stor skulptur</Make_SculptureLarge.description>
-  <Make_SculptureLarge.jobString>Gör en stor skulptur.</Make_SculptureLarge.jobString>
+  <Make_SculptureLarge.label>Tillverka stor skulptur</Make_SculptureLarge.label>
+  <Make_SculptureLarge.description>Tillverka stor skulptur</Make_SculptureLarge.description>
+  <Make_SculptureLarge.jobString>Tillverkar en stor skulptur.</Make_SculptureLarge.jobString>
 
-  <Make_SculptureGrand.label>Göra storslagen skulptur</Make_SculptureGrand.label>
-  <Make_SculptureGrand.description>Göra storslagen skulptur</Make_SculptureGrand.description>
-  <Make_SculptureGrand.jobString>Gör en storslagen skulptur.</Make_SculptureGrand.jobString>
+  <Make_SculptureGrand.label>Tillverka storslagen skulptur</Make_SculptureGrand.label>
+  <Make_SculptureGrand.description>Tillverka storslagen skulptur</Make_SculptureGrand.description>
+  <Make_SculptureGrand.jobString>Tillverkar en storslagen skulptur.</Make_SculptureGrand.jobString>
 
 
   <!-- Recipe Users: DrugLab -->
@@ -72,17 +72,17 @@
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Apparel_MilitaryHelmet.label>Göra militärhjälm</Make_Apparel_MilitaryHelmet.label>
-  <Make_Apparel_MilitaryHelmet.description>Göra militärhjälm</Make_Apparel_MilitaryHelmet.description>
-  <Make_Apparel_MilitaryHelmet.jobString>Gör en militärhjälm.</Make_Apparel_MilitaryHelmet.jobString>
+  <Make_Apparel_MilitaryHelmet.label>Tillverka militärhjälm</Make_Apparel_MilitaryHelmet.label>
+  <Make_Apparel_MilitaryHelmet.description>Tillverka militärhjälm</Make_Apparel_MilitaryHelmet.description>
+  <Make_Apparel_MilitaryHelmet.jobString>Tillverkar en militärhjälm.</Make_Apparel_MilitaryHelmet.jobString>
 
-  <Make_Apparel_KevlarHelmet.label>Göra kevlarhjälp</Make_Apparel_KevlarHelmet.label>
-  <Make_Apparel_KevlarHelmet.description>Göra kevlarhjälp</Make_Apparel_KevlarHelmet.description>
-  <Make_Apparel_KevlarHelmet.jobString>Gör en kevlarhjälp.</Make_Apparel_KevlarHelmet.jobString>
+  <Make_Apparel_KevlarHelmet.label>Tillverka kevlarhjälm</Make_Apparel_KevlarHelmet.label>
+  <Make_Apparel_KevlarHelmet.description>Tillverka kevlarhjälm</Make_Apparel_KevlarHelmet.description>
+  <Make_Apparel_KevlarHelmet.jobString>Tillverkar en kevlarhjälm.</Make_Apparel_KevlarHelmet.jobString>
 
-  <Make_Apparel_PowerArmorHelmet.label>Göra kraftrustningshjälm</Make_Apparel_PowerArmorHelmet.label>
-  <Make_Apparel_PowerArmorHelmet.description>Göra kraftrustningshjälm</Make_Apparel_PowerArmorHelmet.description>
-  <Make_Apparel_PowerArmorHelmet.jobString>Gör en kraftrustningshjälm.</Make_Apparel_PowerArmorHelmet.jobString>
+  <Make_Apparel_PowerArmorHelmet.label>Tillverka kraftrustningshjälm</Make_Apparel_PowerArmorHelmet.label>
+  <Make_Apparel_PowerArmorHelmet.description>Tillverka kraftrustningshjälm</Make_Apparel_PowerArmorHelmet.description>
+  <Make_Apparel_PowerArmorHelmet.jobString>Tillverkar en kraftrustningshjälm.</Make_Apparel_PowerArmorHelmet.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench HandTailoringBench -->
@@ -121,111 +121,111 @@
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Apparel_VestPlate.label>Sy skyddsväst</Make_Apparel_VestPlate.label>
-  <Make_Apparel_VestPlate.description>Sy skyddsväst</Make_Apparel_VestPlate.description>
-  <Make_Apparel_VestPlate.jobString>Sy skyddsväst.</Make_Apparel_VestPlate.jobString>
+  <Make_Apparel_VestPlate.label>Tillverka skottsäker väst</Make_Apparel_VestPlate.label>
+  <Make_Apparel_VestPlate.description>Tillverka skottsäker väst</Make_Apparel_VestPlate.description>
+  <Make_Apparel_VestPlate.jobString>Tillverkar skottsäker väst.</Make_Apparel_VestPlate.jobString>
 
-  <Make_Apparel_PowerArmor.label>Göra kraftrusting</Make_Apparel_PowerArmor.label>
-  <Make_Apparel_PowerArmor.description>Göra kraftrusting</Make_Apparel_PowerArmor.description>
-  <Make_Apparel_PowerArmor.jobString>Gör kraftrusting.</Make_Apparel_PowerArmor.jobString>
+  <Make_Apparel_PowerArmor.label>Tillverka kraftrusting</Make_Apparel_PowerArmor.label>
+  <Make_Apparel_PowerArmor.description>Tillverka kraftrusting</Make_Apparel_PowerArmor.description>
+  <Make_Apparel_PowerArmor.jobString>Tillverkar kraftrusting.</Make_Apparel_PowerArmor.jobString>
 
-  <Make_Gun_Pistol.label>Göra pistol</Make_Gun_Pistol.label>
-  <Make_Gun_Pistol.description>Göra pistol</Make_Gun_Pistol.description>
-  <Make_Gun_Pistol.jobString>Gör en pistol.</Make_Gun_Pistol.jobString>
+  <Make_Gun_Pistol.label>Tillverka pistol</Make_Gun_Pistol.label>
+  <Make_Gun_Pistol.description>Tillverka pistol</Make_Gun_Pistol.description>
+  <Make_Gun_Pistol.jobString>Tillverkar en pistol.</Make_Gun_Pistol.jobString>
 
-  <Make_Gun_PumpShotgun.label>Göra pumphagelgevär</Make_Gun_PumpShotgun.label>
-  <Make_Gun_PumpShotgun.description>Göra pumphagelgevär</Make_Gun_PumpShotgun.description>
-  <Make_Gun_PumpShotgun.jobString>Gör ett pumphagelgevär.</Make_Gun_PumpShotgun.jobString>
+  <Make_Gun_PumpShotgun.label>Tillverka pumphagelgevär</Make_Gun_PumpShotgun.label>
+  <Make_Gun_PumpShotgun.description>Tillverka pumphagelgevär</Make_Gun_PumpShotgun.description>
+  <Make_Gun_PumpShotgun.jobString>Tillverkar ett pumphagelgevär.</Make_Gun_PumpShotgun.jobString>
 
-  <Make_Gun_SurvivalRifle.label>Göra överlevnadsgevär</Make_Gun_SurvivalRifle.label>
-  <Make_Gun_SurvivalRifle.description>Göra survival rifle</Make_Gun_SurvivalRifle.description>
-  <Make_Gun_SurvivalRifle.jobString>Gör ett survival rifle.</Make_Gun_SurvivalRifle.jobString>
+  <Make_Gun_SurvivalRifle.label>Tillverka överlevnadsgevär</Make_Gun_SurvivalRifle.label>
+  <Make_Gun_SurvivalRifle.description>Tillverka survival rifle</Make_Gun_SurvivalRifle.description>
+  <Make_Gun_SurvivalRifle.jobString>Tillverkar ett survival rifle.</Make_Gun_SurvivalRifle.jobString>
 
-  <Make_Gun_AssaultRifle.label>Make automatkarbin</Make_Gun_AssaultRifle.label>
-  <Make_Gun_AssaultRifle.description>Make automatkarbin</Make_Gun_AssaultRifle.description>
-  <Make_Gun_AssaultRifle.jobString>Making automatkarbin.</Make_Gun_AssaultRifle.jobString>
+  <Make_Gun_AssaultRifle.label>Tillverka automatkarbin</Make_Gun_AssaultRifle.label>
+  <Make_Gun_AssaultRifle.description>Tillverka automatkarbin</Make_Gun_AssaultRifle.description>
+  <Make_Gun_AssaultRifle.jobString>Tillverkar automatkarbin.</Make_Gun_AssaultRifle.jobString>
 
-  <Make_Gun_SniperRifle.label>Göra prickskyttegevär</Make_Gun_SniperRifle.label>
-  <Make_Gun_SniperRifle.description>Göra prickskyttegevär</Make_Gun_SniperRifle.description>
-  <Make_Gun_SniperRifle.jobString>Gör en prickskyttegevär.</Make_Gun_SniperRifle.jobString>
+  <Make_Gun_SniperRifle.label>Tillverka prickskyttegevär</Make_Gun_SniperRifle.label>
+  <Make_Gun_SniperRifle.description>Tillverka prickskyttegevär</Make_Gun_SniperRifle.description>
+  <Make_Gun_SniperRifle.jobString>Tillverkar en prickskyttegevär.</Make_Gun_SniperRifle.jobString>
 
-  <Make_Gun_MachinePistol.label>Göra maskinpistol</Make_Gun_MachinePistol.label>
-  <Make_Gun_MachinePistol.description>Göra maskinpistol</Make_Gun_MachinePistol.description>
-  <Make_Gun_MachinePistol.jobString>Gör en maskinpistol.</Make_Gun_MachinePistol.jobString>
+  <Make_Gun_MachinePistol.label>Tillverka maskinpistol</Make_Gun_MachinePistol.label>
+  <Make_Gun_MachinePistol.description>Tillverka maskinpistol</Make_Gun_MachinePistol.description>
+  <Make_Gun_MachinePistol.jobString>Tillverkar en maskinpistol.</Make_Gun_MachinePistol.jobString>
 
-  <Make_Gun_HeavySMG.label>Göra tung kulsprutepistol</Make_Gun_HeavySMG.label>
-  <Make_Gun_HeavySMG.description>Göra tung kulsprutepistol</Make_Gun_HeavySMG.description>
-  <Make_Gun_HeavySMG.jobString>Gör en tung kulsprutepistol.</Make_Gun_HeavySMG.jobString>
+  <Make_Gun_HeavySMG.label>Tillverka tung kulsprutepistol</Make_Gun_HeavySMG.label>
+  <Make_Gun_HeavySMG.description>Tillverka tung kulsprutepistol</Make_Gun_HeavySMG.description>
+  <Make_Gun_HeavySMG.jobString>Tillverkar en tung kulsprutepistol.</Make_Gun_HeavySMG.jobString>
 
-  <Make_Gun_IncendiaryLauncher.label>Göra eldkastare</Make_Gun_IncendiaryLauncher.label>
-  <Make_Gun_IncendiaryLauncher.description>Göra eldkastare</Make_Gun_IncendiaryLauncher.description>
-  <Make_Gun_IncendiaryLauncher.jobString>Gör eldkastare.</Make_Gun_IncendiaryLauncher.jobString>
+  <Make_Gun_IncendiaryLauncher.label>Tillverka eldkastare</Make_Gun_IncendiaryLauncher.label>
+  <Make_Gun_IncendiaryLauncher.description>Tillverka eldkastare</Make_Gun_IncendiaryLauncher.description>
+  <Make_Gun_IncendiaryLauncher.jobString>Tillverkar eldkastare.</Make_Gun_IncendiaryLauncher.jobString>
 
-  <Make_Gun_LMG.label>Göra Maskingevär</Make_Gun_LMG.label>
-  <Make_Gun_LMG.description>Göra Maskingevär</Make_Gun_LMG.description>
-  <Make_Gun_LMG.jobString>Gör Maskingevär.</Make_Gun_LMG.jobString>
+  <Make_Gun_LMG.label>Tillverka maskingevär</Make_Gun_LMG.label>
+  <Make_Gun_LMG.description>Tillverka maskingevär</Make_Gun_LMG.description>
+  <Make_Gun_LMG.jobString>Tillverkar maskingevär.</Make_Gun_LMG.jobString>
 
-  <Make_Gun_ChargeRifle.label>Göra energigevär</Make_Gun_ChargeRifle.label>
-  <Make_Gun_ChargeRifle.description>Göra energigevär</Make_Gun_ChargeRifle.description>
-  <Make_Gun_ChargeRifle.jobString>Gör energigevär.</Make_Gun_ChargeRifle.jobString>
+  <Make_Gun_ChargeRifle.label>Tillverka energigevär</Make_Gun_ChargeRifle.label>
+  <Make_Gun_ChargeRifle.description>Tillverka energigevär</Make_Gun_ChargeRifle.description>
+  <Make_Gun_ChargeRifle.jobString>Tillverkar energigevär.</Make_Gun_ChargeRifle.jobString>
 
-  <Make_Gun_Minigun.label>Göra minigun</Make_Gun_Minigun.label>
-  <Make_Gun_Minigun.description>Göra minigun</Make_Gun_Minigun.description>
-  <Make_Gun_Minigun.jobString>Gör minigun.</Make_Gun_Minigun.jobString>
+  <Make_Gun_Minigun.label>Tillverka minigun</Make_Gun_Minigun.label>
+  <Make_Gun_Minigun.description>Tillverka minigun</Make_Gun_Minigun.description>
+  <Make_Gun_Minigun.jobString>Tillverkar minigun.</Make_Gun_Minigun.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy FueledSmithy -->
 
-  <Make_MeleeWeapon_Gladius.label>Göra gladius</Make_MeleeWeapon_Gladius.label>
-  <Make_MeleeWeapon_Gladius.description>Göra gladius</Make_MeleeWeapon_Gladius.description>
-  <Make_MeleeWeapon_Gladius.jobString>Gör gladius.</Make_MeleeWeapon_Gladius.jobString>
+  <Make_MeleeWeapon_Gladius.label>Smida gladius</Make_MeleeWeapon_Gladius.label>
+  <Make_MeleeWeapon_Gladius.description>Smida gladius</Make_MeleeWeapon_Gladius.description>
+  <Make_MeleeWeapon_Gladius.jobString>Smider gladius.</Make_MeleeWeapon_Gladius.jobString>
 
-  <Make_MeleeWeapon_LongSword.label>Göra långsvärd</Make_MeleeWeapon_LongSword.label>
-  <Make_MeleeWeapon_LongSword.description>Göra långsvärd</Make_MeleeWeapon_LongSword.description>
-  <Make_MeleeWeapon_LongSword.jobString>Gör långsvärd.</Make_MeleeWeapon_LongSword.jobString>
+  <Make_MeleeWeapon_LongSword.label>Smida långsvärd</Make_MeleeWeapon_LongSword.label>
+  <Make_MeleeWeapon_LongSword.description>Smida långsvärd</Make_MeleeWeapon_LongSword.description>
+  <Make_MeleeWeapon_LongSword.jobString>Smider långsvärd.</Make_MeleeWeapon_LongSword.jobString>
 
-  <Make_MeleeWeapon_Knife.label>Göra kniv</Make_MeleeWeapon_Knife.label>
-  <Make_MeleeWeapon_Knife.description>Göra kniv</Make_MeleeWeapon_Knife.description>
-  <Make_MeleeWeapon_Knife.jobString>Gör kniv.</Make_MeleeWeapon_Knife.jobString>
+  <Make_MeleeWeapon_Knife.label>Smida kniv</Make_MeleeWeapon_Knife.label>
+  <Make_MeleeWeapon_Knife.description>Smida kniv</Make_MeleeWeapon_Knife.description>
+  <Make_MeleeWeapon_Knife.jobString>Smider kniv.</Make_MeleeWeapon_Knife.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy FueledSmithy ElectricSmithy FueledSmithy CraftingSpot -->
 
-  <Make_MeleeWeapon_Shiv.label>Göra provisorisk kniv</Make_MeleeWeapon_Shiv.label>
-  <Make_MeleeWeapon_Shiv.description>Göra provisorisk kniv</Make_MeleeWeapon_Shiv.description>
-  <Make_MeleeWeapon_Shiv.jobString>Gör provisorisk kniv.</Make_MeleeWeapon_Shiv.jobString>
+  <Make_MeleeWeapon_Shiv.label>Smida provisorisk kniv</Make_MeleeWeapon_Shiv.label>
+  <Make_MeleeWeapon_Shiv.description>Smida provisorisk kniv</Make_MeleeWeapon_Shiv.description>
+  <Make_MeleeWeapon_Shiv.jobString>Smider provisorisk kniv.</Make_MeleeWeapon_Shiv.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy FueledSmithy -->
 
-  <Make_MeleeWeapon_Spear.label>Göra spjut</Make_MeleeWeapon_Spear.label>
-  <Make_MeleeWeapon_Spear.description>Göra spjut</Make_MeleeWeapon_Spear.description>
-  <Make_MeleeWeapon_Spear.jobString>Gör spjut.</Make_MeleeWeapon_Spear.jobString>
+  <Make_MeleeWeapon_Spear.label>Smida spjut</Make_MeleeWeapon_Spear.label>
+  <Make_MeleeWeapon_Spear.description>Smida spjut</Make_MeleeWeapon_Spear.description>
+  <Make_MeleeWeapon_Spear.jobString>Smider spjut.</Make_MeleeWeapon_Spear.jobString>
 
-  <Make_MeleeWeapon_Mace.label>Göra spikklubba</Make_MeleeWeapon_Mace.label>
-  <Make_MeleeWeapon_Mace.description>Göra spikklubba</Make_MeleeWeapon_Mace.description>
-  <Make_MeleeWeapon_Mace.jobString>Gör spikklubba.</Make_MeleeWeapon_Mace.jobString>
+  <Make_MeleeWeapon_Mace.label>Smida spikklubba</Make_MeleeWeapon_Mace.label>
+  <Make_MeleeWeapon_Mace.description>Smida spikklubba</Make_MeleeWeapon_Mace.description>
+  <Make_MeleeWeapon_Mace.jobString>Smider spikklubba.</Make_MeleeWeapon_Mace.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy FueledSmithy ElectricSmithy FueledSmithy CraftingSpot -->
 
-  <Make_MeleeWeapon_Club.label>Göra klubba</Make_MeleeWeapon_Club.label>
-  <Make_MeleeWeapon_Club.description>Göra klubba</Make_MeleeWeapon_Club.description>
-  <Make_MeleeWeapon_Club.jobString>Gör klubba.</Make_MeleeWeapon_Club.jobString>
+  <Make_MeleeWeapon_Club.label>Tillverka klubba</Make_MeleeWeapon_Club.label>
+  <Make_MeleeWeapon_Club.description>Tillverka klubba</Make_MeleeWeapon_Club.description>
+  <Make_MeleeWeapon_Club.jobString>Tillverkar klubba.</Make_MeleeWeapon_Club.jobString>
 
-  <Make_Bow_Short.label>Göra kortbåge</Make_Bow_Short.label>
-  <Make_Bow_Short.description>Göra kortbåge</Make_Bow_Short.description>
-  <Make_Bow_Short.jobString>Gör kortbåge.</Make_Bow_Short.jobString>
+  <Make_Bow_Short.label>Tillverka kortbåge</Make_Bow_Short.label>
+  <Make_Bow_Short.description>Tillverka kortbåge</Make_Bow_Short.description>
+  <Make_Bow_Short.jobString>Tillverkar kortbåge.</Make_Bow_Short.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy FueledSmithy -->
 
-  <Make_Pila.label>Göra pilum</Make_Pila.label>
-  <Make_Pila.description>Göra pilum</Make_Pila.description>
-  <Make_Pila.jobString>Gör pilum.</Make_Pila.jobString>
+  <Make_Pila.label>Smida pilum</Make_Pila.label>
+  <Make_Pila.description>Smida pilum</Make_Pila.description>
+  <Make_Pila.jobString>Smider pilum.</Make_Pila.jobString>
 
-  <Make_Bow_Great.label>Göra långbåge</Make_Bow_Great.label>
-  <Make_Bow_Great.description>Göra långbåge</Make_Bow_Great.description>
-  <Make_Bow_Great.jobString>Göra långbåge.</Make_Bow_Great.jobString>
+  <Make_Bow_Great.label>Tillverka långbåge</Make_Bow_Great.label>
+  <Make_Bow_Great.description>Tillverka långbåge</Make_Bow_Great.description>
+  <Make_Bow_Great.jobString>Tillverkar långbåge.</Make_Bow_Great.jobString>
     
 </LanguageData>

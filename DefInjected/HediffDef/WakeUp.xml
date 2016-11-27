@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-  <WakeUpHigh.label>Hög på wake-up</WakeUpHigh.label>
+  <WakeUpHigh.label>Hög på vakna</WakeUpHigh.label>
 
   <!-- WakeUp addiction -->
 
-  <WakeUpTolerance.label>wake-up tolerans</WakeUpTolerance.label>
+  <WakeUpTolerance.label>vakna tolerans</WakeUpTolerance.label>
   <WakeUpTolerance.stages.1.label>liten</WakeUpTolerance.stages.1.label>
   <WakeUpTolerance.stages.2.label>stor</WakeUpTolerance.stages.2.label>
   <WakeUpTolerance.stages.3.label>enorm</WakeUpTolerance.stages.3.label>
 
-  <WakeUpAddiction.label>wake-up.missbruk</WakeUpAddiction.label>
+  <WakeUpAddiction.label>vakna missbruk</WakeUpAddiction.label>
   <WakeUpAddiction.stages.1.label>abstinens</WakeUpAddiction.stages.1.label>
     
 </LanguageData>

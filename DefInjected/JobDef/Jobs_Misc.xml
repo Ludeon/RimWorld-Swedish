@@ -13,7 +13,7 @@
     <WaitCombat.reportString>letar efter mål.</WaitCombat.reportString>
     <AttackStatic.reportString>attackerar TargetA.</AttackStatic.reportString>
     <AttackMelee.reportString>anfaller TargetA i närstrid.</AttackMelee.reportString>
-    <SocialFight.reportString>grälar med TargetA.</SocialFight.reportString>
+    <SocialFight.reportString>slåss med TargetA.</SocialFight.reportString>
     <Equip.reportString>utrustar sig med TargetA.</Equip.reportString>
     <TakeInventory.reportString>tar TargetA.</TakeInventory.reportString>
     <Wear.reportString>har på sig TargetA.</Wear.reportString>
