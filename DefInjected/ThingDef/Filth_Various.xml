@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <FilthDirt.label>Smuts</FilthDirt.label>
-    <FilthAnimalFilth.label>animal filth</FilthAnimalFilth.label>
-    <FilthSand.label>Sand</FilthSand.label>
-    <RockRubble.label>Stenspillror</RockRubble.label>
-    <BuildingRubble.label>building rubble</BuildingRubble.label>
-    <SandbagRubble.label>Spridda sandsäckar</SandbagRubble.label>
+    <FilthDirt.label>smuts</FilthDirt.label>
+    <FilthAnimalFilth.label>djursmuts</FilthAnimalFilth.label>
+    <FilthSand.label>sand</FilthSand.label>
+    <RockRubble.label>stenspillror</RockRubble.label>
+    <BuildingRubble.label>byggavfall</BuildingRubble.label>
+    <SandbagRubble.label>spridda sandsäckar</SandbagRubble.label>
     
+	
 	<!-- Fluids etc -->
 	
-    <FilthBlood.label>Blod</FilthBlood.label>
-    <FilthBloodInsect.label>bugblood</FilthBloodInsect.label>
-    <FilthAmnioticFluid.label>amniotic fluid</FilthAmnioticFluid.label>
-    <FilthSlime.label>slime</FilthSlime.label>
-    <FilthVomit.label>vomit</FilthVomit.label>
-    <FilthFireFoam.label>firefoam</FilthFireFoam.label>
+    <FilthBlood.label>blod</FilthBlood.label>
+    <FilthBloodInsect.label>insektsblod</FilthBloodInsect.label>
+    <FilthAmnioticFluid.label>fostervatten</FilthAmnioticFluid.label>
+    <FilthSlime.label>slem</FilthSlime.label>
+    <FilthVomit.label>spya</FilthVomit.label>
+    <FilthFireFoam.label>bandskum</FilthFireFoam.label>
 	
-    <FilthFuel.label>fuel puddle</FilthFuel.label>
-    <FilthFuel.description>Burns on the ground.</FilthFuel.description>
+    <FilthFuel.label>bränslepöl</FilthFuel.label>
+    <FilthFuel.description>brinner på marken.</FilthFuel.description>
     
 </LanguageData>

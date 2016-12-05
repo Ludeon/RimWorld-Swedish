@@ -18,13 +18,13 @@
   <FertShort>befr.</FertShort>
   <DyingLower>dör</DyingLower>
   <FilthOnFeet>Smuts på fötter:</FilthOnFeet>
-  <NotEnoughStoredLower>inte nog förvarat</NotEnoughStoredLower>
+  <NotEnoughStoredLower>inte tillräckligt förvarat</NotEnoughStoredLower>
   <NothingLower>ingenting</NothingLower>
   <Adapted>Anpassat</Adapted>
   <FreshMissingBodyPart>färskt</FreshMissingBodyPart>
   <UntreatedLower>obehandlat</UntreatedLower>
   <DevelopedImmunityLower>utvecklad immunitet</DevelopedImmunityLower>
-  <InjuryRequiresTreatment>Kräve behandling för att läka</InjuryRequiresTreatment>
+  <InjuryRequiresTreatment>Kräver behandling för att läka</InjuryRequiresTreatment>
   <NextTreatmentIn>Nästa behandling om {0}</NextTreatmentIn>
   <MissingMedicalBillIngredient>ingen {0}</MissingMedicalBillIngredient>
   <Immunity>Immunitet</Immunity>
@@ -220,7 +220,7 @@
   <CurrentlyRefrigerated>Kylt (förstörs om {0})</CurrentlyRefrigerated>
   <NotRefrigerated>Ej kylt (förstörs om {0})</NotRefrigerated>
   <OverADecade>oöver ett årtionde</OverADecade>
-  <LessThanADay>mindre än ett år</LessThanADay>
+  <LessThanADay>mindre än en dag</LessThanADay>
   
   
   <Ingredients>Ingredienser</Ingredients>

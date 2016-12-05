@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <LandedInPod.label>landed in pod</LandedInPod.label>
-    <LandedInPod.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s landing in a drop pod</LandedInPod.rulePack.rulesStrings.0>
-    <LandedInPod.rulePack.rulesStrings.1>image->[pawn_nameFull] landing in a drop pod [circumstance_group]</LandedInPod.rulePack.rulesStrings.1>
-    <LandedInPod.rulePack.rulesStrings.2>image->[pawn_nameFull] touching down in a drop pod [circumstance_group]</LandedInPod.rulePack.rulesStrings.2>
-    <LandedInPod.rulePack.rulesStrings.3>image->[pawn_nameFull] striking earth in a drop pod [circumstance_group]</LandedInPod.rulePack.rulesStrings.3>
-    <LandedInPod.rulePack.rulesStrings.4>image->[pawn_nameFull] riding in a drop pod [circumstance_group]</LandedInPod.rulePack.rulesStrings.4>
-    <LandedInPod.rulePack.rulesStrings.5>circumstance_phrase->in front of a [terrainfeature]</LandedInPod.rulePack.rulesStrings.5>
-    <LandedInPod.rulePack.rulesStrings.6>circumstance_phrase->with incredible force</LandedInPod.rulePack.rulesStrings.6>
-    <LandedInPod.rulePack.rulesStrings.7>circumstance_phrase->in a plume of dust and rocks</LandedInPod.rulePack.rulesStrings.7>
-    <LandedInPod.rulePack.rulesStrings.8>circumstance_phrase->with retro-rockets firing dramatically</LandedInPod.rulePack.rulesStrings.8>
-    <LandedInPod.rulePack.rulesStrings.9>circumstance_phrase->in a precision landing</LandedInPod.rulePack.rulesStrings.9>
-    <LandedInPod.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] is concentrating intently on the controls.</LandedInPod.rulePack.rulesStrings.10>
-    <LandedInPod.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] has [pawn_possessive] eyes closed and looks afraid.</LandedInPod.rulePack.rulesStrings.11>
-    <LandedInPod.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] is unconscious, [pawn_possessive] tongue lolling out, drool dripping.</LandedInPod.rulePack.rulesStrings.12>
-    <LandedInPod.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] is smiling with grim joy.</LandedInPod.rulePack.rulesStrings.13>
-    <LandedInPod.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] seems to have no idea what [pawn_pronoun] is doing.</LandedInPod.rulePack.rulesStrings.14>
-    <LandedInPod.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] is strapped in with [pawn_possessive] eyes closed, totally helpless.</LandedInPod.rulePack.rulesStrings.15>
-    <LandedInPod.rulePack.rulesStrings.16>desc_sentence->There is a flame trail licking off the back of the pod.</LandedInPod.rulePack.rulesStrings.16>
-    <LandedInPod.rulePack.rulesStrings.17>desc_sentence->A nearby [animal] is looking up, startled.</LandedInPod.rulePack.rulesStrings.17>
-    <LandedInPod.rulePack.rulesStrings.18>desc_sentence->A [animal] is fleeing the impact in fear.</LandedInPod.rulePack.rulesStrings.18>
-    <LandedInPod.rulePack.rulesStrings.19>desc_sentence->There is a [terrainfeature] in the background.</LandedInPod.rulePack.rulesStrings.19>
-    <LandedInPod.rulePack.rulesStrings.20>desc_sentence->A [outlander] watches silently from afar.</LandedInPod.rulePack.rulesStrings.20>
+    <LandedInPod.label>lander i en kapsen</LandedInPod.label>
+    <LandedInPod.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s landar i en räddningskapsel</LandedInPod.rulePack.rulesStrings.0>
+    <LandedInPod.rulePack.rulesStrings.1>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.1>
+    <LandedInPod.rulePack.rulesStrings.2>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.2>
+    <LandedInPod.rulePack.rulesStrings.3>image->[pawn_nameFull] träffar land med en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.3>
+    <LandedInPod.rulePack.rulesStrings.4>image->[pawn_nameFull] färdas i en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.4>
+    <LandedInPod.rulePack.rulesStrings.5>circumstance_phrase->framför en [terrainfeature]</LandedInPod.rulePack.rulesStrings.5>
+    <LandedInPod.rulePack.rulesStrings.6>circumstance_phrase->med enorm kraft</LandedInPod.rulePack.rulesStrings.6>
+    <LandedInPod.rulePack.rulesStrings.7>circumstance_phrase->i en plym av damm och stenar</LandedInPod.rulePack.rulesStrings.7>
+    <LandedInPod.rulePack.rulesStrings.8>circumstance_phrase->med retro-raketer skjuter dramatiskt</LandedInPod.rulePack.rulesStrings.8>
+    <LandedInPod.rulePack.rulesStrings.9>circumstance_phrase->i en precisionslandning</LandedInPod.rulePack.rulesStrings.9>
+    <LandedInPod.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] koncentrerar sig intensivt på kontrollerna.</LandedInPod.rulePack.rulesStrings.10>
+    <LandedInPod.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] har [pawn_possessive] ögona stängda och ser rädd ut.</LandedInPod.rulePack.rulesStrings.11>
+    <LandedInPod.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] är medvetslös, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</LandedInPod.rulePack.rulesStrings.12>
+    <LandedInPod.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] ler med bister glädje.</LandedInPod.rulePack.rulesStrings.13>
+    <LandedInPod.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] verkat inte ha en ide vad [pawn_pronoun] gör.</LandedInPod.rulePack.rulesStrings.14>
+    <LandedInPod.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] är inspännd med [pawn_possessive] ögona stängda, totalt hjälplös.</LandedInPod.rulePack.rulesStrings.15>
+    <LandedInPod.rulePack.rulesStrings.16>desc_sentence->En flamma slickar baksidan av kapseln.</LandedInPod.rulePack.rulesStrings.16>
+    <LandedInPod.rulePack.rulesStrings.17>desc_sentence->En närliggande [animal] ser upp, förskräckt.</LandedInPod.rulePack.rulesStrings.17>
+    <LandedInPod.rulePack.rulesStrings.18>desc_sentence->En [animal] flyr anslagsplatsen i förskräckelse.</LandedInPod.rulePack.rulesStrings.18>
+    <LandedInPod.rulePack.rulesStrings.19>desc_sentence->Det är en [terrainfeature] i bakgrunden.</LandedInPod.rulePack.rulesStrings.19>
+    <LandedInPod.rulePack.rulesStrings.20>desc_sentence->En [outlander] tittar tyst i fjärran.</LandedInPod.rulePack.rulesStrings.20>
     
-    <Vomited.label>vomited</Vomited.label>
-    <Vomited.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s vomiting</Vomited.rulePack.rulesStrings.0>
-    <Vomited.rulePack.rulesStrings.1>image->[pawn_nameFull] spewing vomit onto the ground [circumstance_group]</Vomited.rulePack.rulesStrings.1>
-    <Vomited.rulePack.rulesStrings.2>image->[pawn_nameFull] looking disgusted while covered with dried vomit [circumstance_group]</Vomited.rulePack.rulesStrings.2>
-    <Vomited.rulePack.rulesStrings.3>image->[pawn_nameFull] doubled over and retching onto the floor [circumstance_group]</Vomited.rulePack.rulesStrings.3>
-    <Vomited.rulePack.rulesStrings.4>image->[pawn_nameFull] on [pawn_possessive] knees, vomiting on the floor [circumstance_group]</Vomited.rulePack.rulesStrings.4>
-    <Vomited.rulePack.rulesStrings.5>circumstance_phrase->while looking pained</Vomited.rulePack.rulesStrings.5>
-    <Vomited.rulePack.rulesStrings.6>circumstance_phrase->with great shame</Vomited.rulePack.rulesStrings.6>
-    <Vomited.rulePack.rulesStrings.7>circumstance_phrase->as others look on</Vomited.rulePack.rulesStrings.7>
-    <Vomited.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</Vomited.rulePack.rulesStrings.8>
-    <Vomited.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] face itself seems to be swelling.</Vomited.rulePack.rulesStrings.9>
-    <Vomited.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] is nearly unconscious, [pawn_possessive] tongue lolling out, drool dripping.</Vomited.rulePack.rulesStrings.10>
-    <Vomited.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is convulsing violently.</Vomited.rulePack.rulesStrings.11>
-    <Vomited.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] looks ashamed.</Vomited.rulePack.rulesStrings.12>
-    <Vomited.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] seems to be trying to laugh, despite the circumstances.</Vomited.rulePack.rulesStrings.13>
-    <Vomited.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] looks almost deflated, as though totally emptied by the intense vomiting.</Vomited.rulePack.rulesStrings.14>
-    <Vomited.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] is surrounded by an artistically rendered halo of filth.</Vomited.rulePack.rulesStrings.15>
-    <Vomited.rulePack.rulesStrings.16>desc_sentence->A [animal] is eating from the trail of vomit in the background.</Vomited.rulePack.rulesStrings.16>
+    <Vomited.label>kräks</Vomited.label>
+    <Vomited.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s kräks</Vomited.rulePack.rulesStrings.0>
+    <Vomited.rulePack.rulesStrings.1>image->[pawn_nameFull] sprayar spya över marken [circumstance_group]</Vomited.rulePack.rulesStrings.1>
+    <Vomited.rulePack.rulesStrings.2>image->[pawn_nameFull] ser äcklad ut täckt med torkad spya [circumstance_group]</Vomited.rulePack.rulesStrings.2>
+    <Vomited.rulePack.rulesStrings.3>image->[pawn_nameFull] fördubblats under kväljningar på golvet [circumstance_group]</Vomited.rulePack.rulesStrings.3>
+    <Vomited.rulePack.rulesStrings.4>image->[pawn_nameFull] på [pawn_possessive] knäar och skyp på golvet [circumstance_group]</Vomited.rulePack.rulesStrings.4>
+    <Vomited.rulePack.rulesStrings.5>circumstance_phrase->när smärtan sprider sig i kroppen</Vomited.rulePack.rulesStrings.5>
+    <Vomited.rulePack.rulesStrings.6>circumstance_phrase->med enorm skam</Vomited.rulePack.rulesStrings.6>
+    <Vomited.rulePack.rulesStrings.7>circumstance_phrase->när andra ser på</Vomited.rulePack.rulesStrings.7>
+    <Vomited.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] verkar helt omedveten om vad som pågår [pawn_objective].</Vomited.rulePack.rulesStrings.8>
+    <Vomited.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] ansiktet verkar vara svullet.</Vomited.rulePack.rulesStrings.9>
+    <Vomited.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] är nära medveslöshet, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</Vomited.rulePack.rulesStrings.10>
+    <Vomited.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] har våldsamma kramper.</Vomited.rulePack.rulesStrings.11>
+    <Vomited.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] ser skamsen ut.</Vomited.rulePack.rulesStrings.12>
+    <Vomited.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] verkar att försöka skratta, trots omständigheterna.</Vomited.rulePack.rulesStrings.13>
+    <Vomited.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] ser nästan tömd, som tack vare det intensiva kräkandet.</Vomited.rulePack.rulesStrings.14>
+    <Vomited.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] är omgiven av en konstnärligt utförda gloria av smuts.</Vomited.rulePack.rulesStrings.15>
+    <Vomited.rulePack.rulesStrings.16>desc_sentence->En [animal] äter från rännilen av spya i bakgrunden.</Vomited.rulePack.rulesStrings.16>
     
-    <Drunk.label>drunk</Drunk.label>
+    <Drunk.label>fylla</Drunk.label>
     <Drunk.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s extreme drunkenness</Drunk.rulePack.rulesStrings.0>
     <Drunk.rulePack.rulesStrings.1>image->[pawn_nameFull] staggering around drunk [circumstance_group]</Drunk.rulePack.rulesStrings.1>
     <Drunk.rulePack.rulesStrings.2>image->[pawn_nameFull] tilting [pawn_possessive] head back and guzzling liquor [circumstance_group]</Drunk.rulePack.rulesStrings.2>

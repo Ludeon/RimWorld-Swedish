@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MeleeDPS.label>melee DPS</MeleeDPS.label>
-    <MeleeDPS.description>Average damage per second in melee combat.</MeleeDPS.description>
+    <MeleeDPS.label>Närstrids DPS</MeleeDPS.label>
+    <MeleeDPS.description>Standard skada per sekund (eng. Damage Per Second) i närstrid.</MeleeDPS.description>
     
-    <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
-    <ShootingAccuracy.description>Bas {0}%s chans att missa per ruta av skottavstånd.</ShootingAccuracy.description>
+    <ShootingAccuracy.label>träffsäkerhet skytte</ShootingAccuracy.label>
+    <ShootingAccuracy.description>Bas {0}%s chans att träffa per ruta av skottavstånd.</ShootingAccuracy.description>
     
-    <AimingDelayFactor.label>aiming time</AimingDelayFactor.label>
-    <AimingDelayFactor.description>How long it takes to strike after aiming.</AimingDelayFactor.description>
+    <AimingDelayFactor.label>sikttid</AimingDelayFactor.label>
+    <AimingDelayFactor.description>Hur lång tid det tar att slå efter att ha siktat.</AimingDelayFactor.description>
     
-    <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
+    <MeleeHitChance.label>träffchans närstrid</MeleeHitChance.label>
     <MeleeHitChance.description>Bas {0}%s chans att träffa i närstrid.</MeleeHitChance.description>
     
 </LanguageData>

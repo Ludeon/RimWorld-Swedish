@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <TileSandstone.label>sandstone tile</TileSandstone.label>
-    <TileSandstone.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSandstone.description>
+    <TileSandstone.label>sandstenkakel</TileSandstone.label>
+    <TileSandstone.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileSandstone.description>
     
-    <TileGranite.label>granite tile</TileGranite.label>
-    <TileGranite.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileGranite.description>
+    <TileGranite.label>granitkakel</TileGranite.label>
+    <TileGranite.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileGranite.description>
     
-    <TileLimestone.label>limestone tile</TileLimestone.label>
-    <TileLimestone.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileLimestone.description>
+    <TileLimestone.label>kalkstenskakel</TileLimestone.label>
+    <TileLimestone.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileLimestone.description>
     
-    <TileSlate.label>slate tile</TileSlate.label>
-    <TileSlate.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSlate.description>
+    <TileSlate.label>skifferkakel</TileSlate.label>
+    <TileSlate.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileSlate.description>
     
-    <TileMarble.label>marble tile</TileMarble.label>
-    <TileMarble.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileMarble.description>
+    <TileMarble.label>marmorkakel</TileMarble.label>
+    <TileMarble.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileMarble.description>
     
 </LanguageData>

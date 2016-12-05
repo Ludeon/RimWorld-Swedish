@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Clear.label>clear</Clear.label>
-    <Clear.description>A clear day. No penalties or modifiers.</Clear.description>
+    <Clear.label>klart</Clear.label>
+    <Clear.description>En klar dag. Inga avdrag eller modifieringar.</Clear.description>
     
-    <Fog.label>fog</Fog.label>
-    <Fog.description>Fog reduces the accuracy of ranged weapons.</Fog.description>
+    <Fog.label>dimma</Fog.label>
+    <Fog.description>Dimma minskar träffsäkerheten på avståndsvapen.</Fog.description>
     
-    <Rain.label>rain</Rain.label>
-    <Rain.description>Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</Rain.description>
+    <Rain.label>regn</Rain.label>
+    <Rain.description>Regn minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</Rain.description>
     
-    <DryThunderstorm.label>dry thunderstorm</DryThunderstorm.label>
-    <DryThunderstorm.description>Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out.</DryThunderstorm.description>
+    <DryThunderstorm.label>torrt åskväder</DryThunderstorm.label>
+    <DryThunderstorm.description>Torra åska är farliga eftersom blixten kan starta bränder och det finns inget regn att släcka dom med.</DryThunderstorm.description>
     
-    <RainyThunderstorm.label>rainy thunderstorm</RainyThunderstorm.label>
-    <RainyThunderstorm.description>The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy.</RainyThunderstorm.description>
+    <RainyThunderstorm.label>regnigt åskväder</RainyThunderstorm.label>
+    <RainyThunderstorm.description>Blixten kommer att starta bränder, men regnet kommer att släcka dom. Regnet minskar också träffsäkerheten på avståndsvapen och saktar ner folk.</RainyThunderstorm.description>
     
-    <FoggyRain.label>foggy rain</FoggyRain.label>
-    <FoggyRain.description>Reduces accuracy and movement speed.</FoggyRain.description>
+    <FoggyRain.label>dimmigt regn</FoggyRain.label>
+    <FoggyRain.description>Minskar träffsäkerheten på avståndsvapen och saktar ner folk.</FoggyRain.description>
     
-    <SnowHard.label>hard snow</SnowHard.label>
-    <SnowHard.description>Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</SnowHard.description>
+    <SnowHard.label>tung snö</SnowHard.label>
+    <SnowHard.description>>Snö minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</SnowHard.description>
     
     <SnowGentle.label>gentle snow</SnowGentle.label>
-    <SnowGentle.description>Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</SnowGentle.description>
+    <SnowGentle.description>Snö minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</SnowGentle.description>
     
 </LanguageData>

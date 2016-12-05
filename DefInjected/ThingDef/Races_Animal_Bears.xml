@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <GrizzlyBear.label>grizzly bear</GrizzlyBear.label>
-    <GrizzlyBear.description>Huge omnivorous mammals adapted for cold climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</GrizzlyBear.description>
-    <GrizzlyBear_Leather.label>bearskin</GrizzlyBear_Leather.label>
-    <GrizzlyBear_Leather.description>bearskin</GrizzlyBear_Leather.description>
-    <GrizzlyBear_Leather.stuffProps.stuffAdjective>bearskin</GrizzlyBear_Leather.stuffProps.stuffAdjective>
-    <GrizzlyBear_Meat.label>bear meat</GrizzlyBear_Meat.label>
-    <GrizzlyBear_Meat.description>bear meat</GrizzlyBear_Meat.description>
-    <GrizzlyBear_Corpse.label>grizzly bear corpse</GrizzlyBear_Corpse.label>
-    <GrizzlyBear_Corpse.description>grizzly bear corpse</GrizzlyBear_Corpse.description>
+    <GrizzlyBear.label>grizzlybjörn</GrizzlyBear.label>
+    <GrizzlyBear.description>Enorma allätande däggdjur anpassade för kalla klimat. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten vanligtvis består av fisk, bär, honung och döda djur kan grizzlyn ibland avnända sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</GrizzlyBear.description>
+    <GrizzlyBear_Leather.label>gilzzlybjörnfäll</GrizzlyBear_Leather.label>
+    <GrizzlyBear_Leather.description>gilzzlybjörnfäll</GrizzlyBear_Leather.description>
+    <GrizzlyBear_Leather.stuffProps.stuffAdjective>gilzzlybjörnfäll</GrizzlyBear_Leather.stuffProps.stuffAdjective>
+    <GrizzlyBear_Meat.label>björnkött</GrizzlyBear_Meat.label>
+    <GrizzlyBear_Meat.description>björnkött</GrizzlyBear_Meat.description>
+    <GrizzlyBear_Corpse.label>gilzzlybjörnskropp</GrizzlyBear_Corpse.label>
+    <GrizzlyBear_Corpse.description>gilzzlybjörnskropp</GrizzlyBear_Corpse.description>
 
-    <PolarBear.label>polar bear</PolarBear.label>
-    <PolarBear.description>A great white bear that lives in the far north. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear is more than capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</PolarBear.description>
-    <PolarBear_Leather.label>polarbearskin</PolarBear_Leather.label>
-    <PolarBear_Leather.description>polarbearskin</PolarBear_Leather.description>
-    <PolarBear_Leather.stuffProps.stuffAdjective>polarbearskin</PolarBear_Leather.stuffProps.stuffAdjective>
+    <PolarBear.label>isbjörn</PolarBear.label>
+    <PolarBear.description>En stor vit björn som bor i norr. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten består av fisk och döda djur, är isbjörnen mer än kapabel att använda sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</PolarBear.description>
+    <PolarBear_Leather.label>isbjörnfäll</PolarBear_Leather.label>
+    <PolarBear_Leather.description>isbjörnfäll</PolarBear_Leather.description>
+    <PolarBear_Leather.stuffProps.stuffAdjective>isbjörnfäll</PolarBear_Leather.stuffProps.stuffAdjective>
   
     <!-- Use Meat From: GrizzlyBear -->
-    <PolarBear_Corpse.label>polar bear corpse</PolarBear_Corpse.label>
-    <PolarBear_Corpse.description>polar bear corpse</PolarBear_Corpse.description>
+    <PolarBear_Corpse.label>isbjörnskropp</PolarBear_Corpse.label>
+    <PolarBear_Corpse.description>isbjörnskropp</PolarBear_Corpse.description>
     
 </LanguageData>

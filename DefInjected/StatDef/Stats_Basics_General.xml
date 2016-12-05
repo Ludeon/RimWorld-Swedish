@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MaxHitPoints.label>max hit points</MaxHitPoints.label>
-    <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+    <MaxHitPoints.label>max träffpöäng</MaxHitPoints.label>
+    <MaxHitPoints.description>Det maximala antalet träffpoäng ett föremål har. Detta representerar hur mycket skada det kan ta innan det förstörs.</MaxHitPoints.description>
     
-    <MarketValue.label>market value</MarketValue.label>
-    <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>
+    <MarketValue.label>marknadsvärde</MarketValue.label>
+    <MarketValue.description>Marknadsvärdet för ett föremål. Det faktiska försäljingspriset modifieras av ralationsnivån och förhandligsfärdigheten.</MarketValue.description>
     
-    <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
-    <SellPriceFactor.description>A multiplier on the price at which you can sell items.</SellPriceFactor.description>
+    <SellPriceFactor.label>multiplikator försäljningspris</SellPriceFactor.label>
+    <SellPriceFactor.description>En multiplikator på det pris som du kan sälja föremålet.</SellPriceFactor.description>
     
-    <Flammability.label>flammability</Flammability.label>
-    <Flammability.description>How easily an object catches fire and how strongly it burns.</Flammability.description>
+    <Flammability.label>lättantändlighet</Flammability.label>
+    <Flammability.description>Hur lätt ett föremål tar eld och hur starkt det brinner.</Flammability.description>
     
-    <WorkToMake.label>work to make</WorkToMake.label>
-    <WorkToMake.description>The base amount of work it takes to make this, once all materials and tools are gathered.</WorkToMake.description>
+    <WorkToMake.label>arbetsinsats</WorkToMake.label>
+    <WorkToMake.description>Grundtiden det tar att göra detta, när alla material och verktyg är insamlade.</WorkToMake.description>
     
-    <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
-    <DeteriorationRate.description>The rate at which this item deteriorates when left outside, especially in the rain.</DeteriorationRate.description>
+    <DeteriorationRate.label>försämringsgraden</DeteriorationRate.label>
+    <DeteriorationRate.description>Vilken hastighet detta fåremål försämras om det lämnas utomhus, speciellt i regn.</DeteriorationRate.description>
+	<DeteriorationRate.formatString>{0}/d</DeteriorationRate.formatString>
     
-    <Beauty.label>beauty</Beauty.label>
-    <Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>
+    <Beauty.label>skönhet</Beauty.label>
+    <Beauty.description>Hur njutningsbart ett föremål är att vara runt och titta på.</Beauty.description>
     
-    <Cleanliness.label>cleanliness</Cleanliness.label>
-    <Cleanliness.description>How clean an object is.</Cleanliness.description>
+    <Cleanliness.label>renlighet</Cleanliness.label>
+    <Cleanliness.description>Hur rent ett föremål är.</Cleanliness.description>
     
-    <Comfort.label>comfort</Comfort.label>
-    <Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>
+    <Comfort.label>komfort</Comfort.label>
+    <Comfort.description>Hur bekvämt ett föremål är att sitta och ligga på.</Comfort.description>
+	
     
 </LanguageData>

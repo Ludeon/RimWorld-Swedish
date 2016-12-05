@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Squirrel.label>squirrel</Squirrel.label>
-    <Squirrel.description>One of the many hardy, versatile rodent species that follows humankind everywhere it spreads.</Squirrel.description>
-    <Squirrel_Leather.label>squirrelskin</Squirrel_Leather.label>
-    <Squirrel_Leather.description>squirrelskin</Squirrel_Leather.description>
-    <Squirrel_Leather.stuffProps.stuffAdjective>squirrelskin</Squirrel_Leather.stuffProps.stuffAdjective>
-    <Squirrel_Meat.label>squirrel meat</Squirrel_Meat.label>
-    <Squirrel_Meat.description>squirrel meat</Squirrel_Meat.description>
-    <Squirrel_Corpse.label>squirrel corpse</Squirrel_Corpse.label>
-    <Squirrel_Corpse.description>squirrel corpse</Squirrel_Corpse.description>
+    <Squirrel.label>ekorre</Squirrel.label>
+    <Squirrel.description>En av de många härdiga mångsidiga gnagare som följer med överallt där mänskligheten sprider sig.</Squirrel.description>
+    <Squirrel_Leather.label>ekorrskinn</Squirrel_Leather.label>
+    <Squirrel_Leather.description>ekorrskinn</Squirrel_Leather.description>
+    <Squirrel_Leather.stuffProps.stuffAdjective>ekorrskinn</Squirrel_Leather.stuffProps.stuffAdjective>
+    <Squirrel_Meat.label>ekorrkött</Squirrel_Meat.label>
+    <Squirrel_Meat.description>ekorrkött</Squirrel_Meat.description>
+    <Squirrel_Corpse.label>ekorrkropp</Squirrel_Corpse.label>
+    <Squirrel_Corpse.description>ekorrkropp</Squirrel_Corpse.description>
 
-    <Alphabeaver.label>alphabeaver</Alphabeaver.label>
-    <Alphabeaver.description>A large beaver derivative genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole.</Alphabeaver.description>
-    <Alphabeaver_Leather.label>beaverskin</Alphabeaver_Leather.label>
-    <Alphabeaver_Leather.description>beaverskin</Alphabeaver_Leather.description>
-    <Alphabeaver_Leather.stuffProps.stuffAdjective>beaverskin</Alphabeaver_Leather.stuffProps.stuffAdjective>
-    <Alphabeaver_Meat.label>alphabeaver meat</Alphabeaver_Meat.label>
-    <Alphabeaver_Meat.description>alphabeaver meat</Alphabeaver_Meat.description>
-    <Alphabeaver_Corpse.label>alphabeaver corpse</Alphabeaver_Corpse.label>
-    <Alphabeaver_Corpse.description>alphabeaver corpse</Alphabeaver_Corpse.description>
+    <Alphabeaver.label>alfabäver</Alphabeaver.label>
+    <Alphabeaver.description>En stor bäver medvetet genetiskt tillverkad för att skörda trä med maskinliknande effektivitet. I avsaknad av specialiserat foder kommer dessa djur in i ett maniskt tillstånd som tvingar dem att äta träd hela.</Alphabeaver.description>
+    <Alphabeaver_Leather.label>bäverskinn</Alphabeaver_Leather.label>
+    <Alphabeaver_Leather.description>bäverskinn</Alphabeaver_Leather.description>
+    <Alphabeaver_Leather.stuffProps.stuffAdjective>bäverskinn</Alphabeaver_Leather.stuffProps.stuffAdjective>
+    <Alphabeaver_Meat.label>alfabäverkött</Alphabeaver_Meat.label>
+    <Alphabeaver_Meat.description>alfabäverkött</Alphabeaver_Meat.description>
+    <Alphabeaver_Corpse.label>alfabäverkropp</Alphabeaver_Corpse.label>
+    <Alphabeaver_Corpse.description>alfabäverkropp</Alphabeaver_Corpse.description>
 
     <Capybara.label>capybara</Capybara.label>
-    <Capybara.description>The largest natural rodent, the capybara is well-adapted for steaming jungle.</Capybara.description>
-    <Capybara_Leather.label>capybaraskin</Capybara_Leather.label>
-    <Capybara_Leather.description>capybaraskin</Capybara_Leather.description>
-    <Capybara_Leather.stuffProps.stuffAdjective>capybaraskin</Capybara_Leather.stuffProps.stuffAdjective>
-    <Capybara_Meat.label>capybara meat</Capybara_Meat.label>
-    <Capybara_Meat.description>capybara meat</Capybara_Meat.description>
-    <Capybara_Corpse.label>capybara corpse</Capybara_Corpse.label>
-    <Capybara_Corpse.description>capybara corpse</Capybara_Corpse.description>
+    <Capybara.description>Som den största naturliga gnagaren är kapybaran väl anpassad för ett liv i en ångande djungel.</Capybara.description>
+    <Capybara_Leather.label>capybaraskinn</Capybara_Leather.label>
+    <Capybara_Leather.description>capybaraskinn</Capybara_Leather.description>
+    <Capybara_Leather.stuffProps.stuffAdjective>capybaraskinn</Capybara_Leather.stuffProps.stuffAdjective>
+    <Capybara_Meat.label>capybarakött</Capybara_Meat.label>
+    <Capybara_Meat.description>capybarakött</Capybara_Meat.description>
+    <Capybara_Corpse.label>capybarakropp</Capybara_Corpse.label>
+    <Capybara_Corpse.description>capybarakropp</Capybara_Corpse.description>
 
     <Chinchilla.label>chinchilla</Chinchilla.label>
-    <Chinchilla.description>A small but quick rodent famous for its exceptionally soft fur.</Chinchilla.description>
-    <Chinchilla_Leather.label>chinchilla fur</Chinchilla_Leather.label>
-    <Chinchilla_Leather.description>chinchilla fur</Chinchilla_Leather.description>
-    <Chinchilla_Leather.stuffProps.stuffAdjective>chinchilla fur</Chinchilla_Leather.stuffProps.stuffAdjective>
-    <Chinchilla_Meat.label>chinchilla meat</Chinchilla_Meat.label>
-    <Chinchilla_Meat.description>chinchilla meat</Chinchilla_Meat.description>
-    <Chinchilla_Corpse.label>chinchilla corpse</Chinchilla_Corpse.label>
-    <Chinchilla_Corpse.description>chinchilla corpse</Chinchilla_Corpse.description>
+    <Chinchilla.description>En liten men snabb gnagare känd för sin ovanligt mjuk päls.</Chinchilla.description>
+    <Chinchilla_Leather.label>chinchillapäls</Chinchilla_Leather.label>
+    <Chinchilla_Leather.description>chinchillapäls</Chinchilla_Leather.description>
+    <Chinchilla_Leather.stuffProps.stuffAdjective>chinchillapäls</Chinchilla_Leather.stuffProps.stuffAdjective>
+    <Chinchilla_Meat.label>chinchillakött</Chinchilla_Meat.label>
+    <Chinchilla_Meat.description>chinchillakött</Chinchilla_Meat.description>
+    <Chinchilla_Corpse.label>chinchillakropp</Chinchilla_Corpse.label>
+    <Chinchilla_Corpse.description>chinchillakropp</Chinchilla_Corpse.description>
 
-    <Boomrat.label>boomrat</Boomrat.label>
-    <Boomrat.description>Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed.</Boomrat.description>
-    <Boomrat_Leather.label>boomrat leather</Boomrat_Leather.label>
-    <Boomrat_Leather.description>boomrat leather</Boomrat_Leather.description>
-    <Boomrat_Leather.stuffProps.stuffAdjective>boomrat leather</Boomrat_Leather.stuffProps.stuffAdjective>
-    <Boomrat_Meat.label>boomrat meat</Boomrat_Meat.label>
-    <Boomrat_Meat.description>boomrat meat</Boomrat_Meat.description>
-    <Boomrat_Corpse.label>boomrat corpse</Boomrat_Corpse.label>
-    <Boomrat_Corpse.description>boomrat corpse</Boomrat_Corpse.description>
+    <Boomrat.label>bombråtta</Boomrat.label>
+    <Boomrat.description>Antingen genom avsiktlig genetisk beväpning, eller som en ovanlig försvarsmekanism skapar dessa gnagare en kraftfull explosionsbrand när den dödas.</Boomrat.description>
+    <Boomrat_Leather.label>bombråtteläder</Boomrat_Leather.label>
+    <Boomrat_Leather.description>bombråtteläder</Boomrat_Leather.description>
+    <Boomrat_Leather.stuffProps.stuffAdjective>bombråtteläder</Boomrat_Leather.stuffProps.stuffAdjective>
+    <Boomrat_Meat.label>bombråttekött</Boomrat_Meat.label>
+    <Boomrat_Meat.description>bombråttekött</Boomrat_Meat.description>
+    <Boomrat_Corpse.label>bombråttekropp</Boomrat_Corpse.label>
+    <Boomrat_Corpse.description>bombråttekropp</Boomrat_Corpse.description>
 
-    <Raccoon.label>Raccoon</Raccoon.label>
-    <Raccoon.description>A small, hardy animal that ranges wide across forests and shrubland. Eats almost anything.</Raccoon.description>
-    <Raccoon_Leather.label>Raccoon leather</Raccoon_Leather.label>
-    <Raccoon_Leather.description>Raccoon leather</Raccoon_Leather.description>
-    <Raccoon_Leather.stuffProps.stuffAdjective>Raccoon leather</Raccoon_Leather.stuffProps.stuffAdjective>
-    <Raccoon_Meat.label>Raccoon meat</Raccoon_Meat.label>
-    <Raccoon_Meat.description>Raccoon meat</Raccoon_Meat.description>
-    <Raccoon_Corpse.label>Raccoon corpse</Raccoon_Corpse.label>
-    <Raccoon_Corpse.description>Raccoon corpse</Raccoon_Corpse.description>
+    <Raccoon.label>tvättbjörn</Raccoon.label>
+    <Raccoon.description>En liten, härdig djur som spänner vitt över skogar och buskländer. Äter nästan vad som helst.</Raccoon.description>
+    <Raccoon_Leather.label>Tvättbjörnskinn</Raccoon_Leather.label>
+    <Raccoon_Leather.description>Tvättbjörnskinn</Raccoon_Leather.description>
+    <Raccoon_Leather.stuffProps.stuffAdjective>Tvättbjörnskinn</Raccoon_Leather.stuffProps.stuffAdjective>
+    <Raccoon_Meat.label>Tvättbjörnskött</Raccoon_Meat.label>
+    <Raccoon_Meat.description>Tvättbjörnskött</Raccoon_Meat.description>
+    <Raccoon_Corpse.label>Tvättbjörnskropp</Raccoon_Corpse.label>
+    <Raccoon_Corpse.description>Tvättbjörnskropp</Raccoon_Corpse.description>
 
-    <Rat.label>rat</Rat.label>
-    <Rat.description>A rodent famous for soiling kitchens and spreading disease. Eats almost anything; lives almost anywhere.</Rat.description>
-    <Rat_Leather.label>rat leather</Rat_Leather.label>
-    <Rat_Leather.description>rat leather</Rat_Leather.description>
-    <Rat_Leather.stuffProps.stuffAdjective>rat leather</Rat_Leather.stuffProps.stuffAdjective>
-    <Rat_Meat.label>rat meat</Rat_Meat.label>
-    <Rat_Meat.description>rat meat</Rat_Meat.description>
-    <Rat_Corpse.label>rat corpse</Rat_Corpse.label>
-    <Rat_Corpse.description>rat corpse</Rat_Corpse.description>
+    <Rat.label>råtta</Rat.label>
+    <Rat.description>En gnagare känd för att sutsa ner kök och sprida sjukdomar. Äter nästan vad som helst; bor nästan var som helst.</Rat.description>
+    <Rat_Leather.label>råttskinn</Rat_Leather.label>
+    <Rat_Leather.description>råttskinn</Rat_Leather.description>
+    <Rat_Leather.stuffProps.stuffAdjective>råttskinn</Rat_Leather.stuffProps.stuffAdjective>
+    <Rat_Meat.label>råttkött</Rat_Meat.label>
+    <Rat_Meat.description>råttkött</Rat_Meat.description>
+    <Rat_Corpse.label>råttkropp</Rat_Corpse.label>
+    <Rat_Corpse.description>råttkropp</Rat_Corpse.description>
  
  
 </LanguageData>

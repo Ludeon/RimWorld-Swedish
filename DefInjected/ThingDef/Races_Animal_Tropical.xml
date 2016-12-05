@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Cobra.label>cobra</Cobra.label>
-    <Cobra.description>A large snake. Cobras can be highly aggressive if provoked - it's better to stay away from these creatures.</Cobra.description>
-    <Cobra_Leather.label>cobraskin</Cobra_Leather.label>
-    <Cobra_Leather.description>cobraskin</Cobra_Leather.description>
-    <Cobra_Leather.stuffProps.stuffAdjective>cobraskin</Cobra_Leather.stuffProps.stuffAdjective>
-    <Cobra_Meat.label>cobraflesh</Cobra_Meat.label>
-    <Cobra_Meat.description>cobraflesh</Cobra_Meat.description>
-    <Cobra_Corpse.label>cobra corpse</Cobra_Corpse.label>
-    <Cobra_Corpse.description>cobra corpse</Cobra_Corpse.description>
+    <Cobra.label>kobra</Cobra.label>
+    <Cobra.description>En stor orm. Kobror kan vara mycket aggressiv om provocerad - det är bättre att hålla sig borta från dessa varelser.</Cobra.description>
+    <Cobra_Leather.label>kobraskinn</Cobra_Leather.label>
+    <Cobra_Leather.description>kobraskinn</Cobra_Leather.description>
+    <Cobra_Leather.stuffProps.stuffAdjective>kobraskinn</Cobra_Leather.stuffProps.stuffAdjective>
+    <Cobra_Meat.label>kobrakött</Cobra_Meat.label>
+    <Cobra_Meat.description>kobrakött</Cobra_Meat.description>
+    <Cobra_Corpse.label>kobrakropp</Cobra_Corpse.label>
+    <Cobra_Corpse.description>kobrakropp</Cobra_Corpse.description>
 
-    <Monkey.label>monkey</Monkey.label>
-    <Monkey.description>This monkey can use its curly tail to grab on to branches, leaving its hands free to do other things.</Monkey.description>
-    <Monkey_Leather.label>monkeyhide</Monkey_Leather.label>
-    <Monkey_Leather.description>monkeyhide</Monkey_Leather.description>
-    <Monkey_Leather.stuffProps.stuffAdjective>monkeyhide</Monkey_Leather.stuffProps.stuffAdjective>
-    <Monkey_Meat.label>monkey meat</Monkey_Meat.label>
-    <Monkey_Meat.description>monkey meat</Monkey_Meat.description>
-    <Monkey_Corpse.label>monkey corpse</Monkey_Corpse.label>
-    <Monkey_Corpse.description>monkey corpse</Monkey_Corpse.description>
+    <Monkey.label>apa</Monkey.label>
+    <Monkey.description>Denna apa kan använda sin böjda svans för att ta tag i grenar vilket lämnar händerna fria att göra andra saker med.</Monkey.description>
+    <Monkey_Leather.label>apskinn</Monkey_Leather.label>
+    <Monkey_Leather.description>apskinn</Monkey_Leather.description>
+    <Monkey_Leather.stuffProps.stuffAdjective>apskinn</Monkey_Leather.stuffProps.stuffAdjective>
+    <Monkey_Meat.label>apkött</Monkey_Meat.label>
+    <Monkey_Meat.description>apkött</Monkey_Meat.description>
+    <Monkey_Corpse.label>apkropp</Monkey_Corpse.label>
+    <Monkey_Corpse.description>apkropp</Monkey_Corpse.description>
 
-    <Boomalope.label>boomalope</Boomalope.label>
-    <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies.</Boomalope.description>
-    <Boomalope_Leather.label>boomalope leather</Boomalope_Leather.label>
-    <Boomalope_Leather.description>boomalope leather</Boomalope_Leather.description>
-    <Boomalope_Leather.stuffProps.stuffAdjective>boomalope leather</Boomalope_Leather.stuffProps.stuffAdjective>
-    <Boomalope_Meat.label>boomalope meat</Boomalope_Meat.label>
-    <Boomalope_Meat.description>boomalope meat</Boomalope_Meat.description>
-    <Boomalope_Corpse.label>boomalope corpse</Boomalope_Corpse.label>
-    <Boomalope_Corpse.description>boomalope corpse</Boomalope_Corpse.description>
+    <Boomalope.label>bombalop</Boomalope.label>
+    <Boomalope.description>Konstruerad för kemikalier produktion, boomalopen växer en stor säck av flyktiga kemikalier på ryggen. Även om det är svaga och bräckliga för sin storlek, har andra djur lärt sig att undvika det på grund av den enorma explosionen den orsakar när den dör.</Boomalope.description>
+    <Boomalope_Leather.label>bombalophud</Boomalope_Leather.label>
+    <Boomalope_Leather.description>bombalophud</Boomalope_Leather.description>
+    <Boomalope_Leather.stuffProps.stuffAdjective>bombalophud</Boomalope_Leather.stuffProps.stuffAdjective>
+    <Boomalope_Meat.label>bombalopkött</Boomalope_Meat.label>
+    <Boomalope_Meat.description>bombalopkött</Boomalope_Meat.description>
+    <Boomalope_Corpse.label>bombalopkropp</Boomalope_Corpse.label>
+    <Boomalope_Corpse.description>bombalopkropp</Boomalope_Corpse.description>
  
  
 </LanguageData>

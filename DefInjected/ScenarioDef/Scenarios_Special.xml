@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <TheRichExplorer.label>The Rich Explorer</TheRichExplorer.label>
-    <TheRichExplorer.description>People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.</TheRichExplorer.description>
-    
-    <LostTribe.label>Lost Tribe</LostTribe.label>
-    <LostTribe.description>Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.</LostTribe.description>
+    <TheRichExplorer.label>Den Rika Upptäckaren</TheRichExplorer.label>
+    <TheRichExplorer.description>Folk kallade dig galen när du lämnade din glittervärldshem, men du har alltid längtat efter att få utforska stjärnorna - utanför neurosimulatorn. Nu är du i slutet av din långa resa i cryptosömn, landandes på en okänd rimwold för att se hur det är.</TheRichExplorer.description>
+    <TheRichExplorer.scenario.summary>En rik utforskare ute efter att uppleva universum.</TheRichExplorer.scenario.summary>
+    <TheRichExplorer.scenario.parts.12.text>Neurosimulatorerna, holo spelen och fri-orgierna var aldrig tillräckligt för dig. Du ville ha mer -  The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - kurage och följden av det verkliga livet, sånt dom skev om i historieböcker. Du ville veta vad verklig utmaning och konsekvenser känns som.\n\nNu, efter en resa i årtionden i cryptosömn landar du på en okänd rimword. Riktiga konsekvenser väntar dig.</TheRichExplorer.scenario.parts.12.text>
+    <TheRichExplorer.scenario.name>Den Rika Upptäckaren</TheRichExplorer.scenario.name>
+    <TheRichExplorer.scenario.description>Folk kallade dig galen när du lämnade din glittervärldshem, men du har alltid längtat efter att få utforska stjärnorna - utanför neurosimulatorn. Nu är du i slutet av din långa resa i cryptosömn, landandes på en okänd rimwold för att se hur det är.</TheRichExplorer.scenario.description>
+
+    <LostTribe.label>Den Förlorade Stammen</LostTribe.label>
+    <LostTribe.description>Din stam blev förstörd av den stora blodmskinen skickad av gudarna. Ni fem lyckades fly. Nu är det dags att bygga upp ett nytt hem.</LostTribe.description>
+    <LostTribe.scenario.summary>Five lost tribespeople attempt to rebuild.</LostTribe.scenario.summary>
+    <LostTribe.scenario.parts.14.text>Gudarna blev väldigt arga. Blodmaskierna kom en natt. Dom svepte genom din by, skar och brände ert folk med deras blad och djävulseld.\n\nEndast några få av er lyckades fly. Nu, efter en uppslitande resa till fots, utan några vänner att vänd sig till, måste ni bygga ett nytt hem i valdmarken, liksom era förfäder gjorde.</LostTribe.scenario.parts.14.text>
+    <LostTribe.scenario.name>Den Förlorade Stammen</LostTribe.scenario.name>
+    <LostTribe.scenario.description>Din stam blev förstörd av den stora blodmskinen skickad av gudarna. Ni fem lyckades fly. Nu är det dags att bygga upp ett nytt hem.</LostTribe.scenario.description>
+
     
 </LanguageData>

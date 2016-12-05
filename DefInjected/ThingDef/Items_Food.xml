@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MealSurvivalPack.label>Packeterad överlevnadsrätt</MealSurvivalPack.label>
+    <MealSurvivalPack.label>packeterad överlevnadsrätt</MealSurvivalPack.label>
     <MealSurvivalPack.description>Packeterad maträtt av hög kvalitet, tillverkad för användning i överlevnadssituationer.</MealSurvivalPack.description>
     
-    <MealNutrientPaste.label>Näringsmassrätt</MealNutrientPaste.label>
+    <MealNutrientPaste.label>näringsmassrätt</MealNutrientPaste.label>
     <MealNutrientPaste.description>En syntetisk blandning av protein, kolhydrater, vitaminer, aminosyror och mineraler. Allting kroppen behöver, och fullständigt motbjudande.</MealNutrientPaste.description>
     
-    <MealSimple.label>Enkel rätt</MealSimple.label>
+    <MealSimple.label>enkel rätt</MealSimple.label>
     <MealSimple.description>En enkel maträtt snabbt tillagad av få ingredienser.</MealSimple.description>
     
-    <MealFine.label>Förfinad rätt</MealFine.label>
+    <MealFine.label>förfinad rätt</MealFine.label>
     <MealFine.description>En komplex maträtt ihopsatt med omsorg från ett brett urval av ingredienser.</MealFine.description>
     
-    <MealLavish.label>Utsökt rätt</MealLavish.label>
+    <MealLavish.label>utsökt rätt</MealLavish.label>
     <MealLavish.description>Ett kulinariskt mästerverk, denna maträtt ger näring åt kropp, sinne och skäl.</MealLavish.description>
     
-    <Kibble.label>kibble</Kibble.label>
-    <Kibble.description>Kibble animal feed made from mixed meat and plant sources.</Kibble.description>
+    <Kibble.label>djurfoder</Kibble.label>
+    <Kibble.description>Djurfoder tillverkat av blandade kött och växtkällor.</Kibble.description>
     
-    <Pemmican.label>pemmican</Pemmican.label>
-    <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</Pemmican.description>
+    <Pemmican.label>pemmikan</Pemmican.label>
+    <Pemmican.description>En bevarad blandning av fett och vegetabiliska livsmedel. Smakar intetsägande, men inte stötande. Den varar en mycket lång tid utan kylning.</Pemmican.description>
     
 </LanguageData>

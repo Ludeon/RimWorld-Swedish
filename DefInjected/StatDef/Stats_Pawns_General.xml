@@ -1,43 +1,45 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MoveSpeed.label>move speed</MoveSpeed.label>
-    <MoveSpeed.description>Speed of movement through the world in cells per second.</MoveSpeed.description>
+    <MoveSpeed.label>förflyttningshastighet</MoveSpeed.label>
+    <MoveSpeed.description>Rörelsehastighet genom världen i celler per sekund.</MoveSpeed.description>
+	<MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
     
-    <MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
-    <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break.</MentalBreakThreshold.description>
+    <MentalBreakThreshold.label>mentaltbryt-tröskel</MentalBreakThreshold.label>
+    <MentalBreakThreshold.description>Så länge som någons humör är under denna nivå riskerar de att få en mentalt bryt.</MentalBreakThreshold.description>
     
-    <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
-    <PsychicSensitivity.description>Multiplier on the impact of psychic phenomena affecting this person.</PsychicSensitivity.description>
+    <PsychicSensitivity.label>psykisk känslighet</PsychicSensitivity.label>
+    <PsychicSensitivity.description>Multiplikator på hur effekterna av psykiska fenomen påverkar den här personen.</PsychicSensitivity.description>
     
-    <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
-    <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this character.</ToxicSensitivity.description>
+    <ToxicSensitivity.label>giftig känslighet</ToxicSensitivity.label>
+    <ToxicSensitivity.description>Multiplikator på hur effekterna av giftiga uppbyggnad påverkar den här personen.</ToxicSensitivity.description>
     
-    <GlobalLearningFactor.label>global learning factor</GlobalLearningFactor.label>
-    <GlobalLearningFactor.description>Global learning efficiency for all skills.</GlobalLearningFactor.description>
+    <GlobalLearningFactor.label>global inlärningsfaktor</GlobalLearningFactor.label>
+    <GlobalLearningFactor.description>Global inlärningseffektivitet för alla färdigheter.</GlobalLearningFactor.description>
     
-    <EatingSpeed.label>eating speed</EatingSpeed.label>
-    <EatingSpeed.description>Multiplier on eating speed.</EatingSpeed.description>
+    <EatingSpeed.label>äthastighet</EatingSpeed.label>
+    <EatingSpeed.description>Multiplikator på äthastighet.</EatingSpeed.description>
     
-    <ComfyTemperatureMin.label>Minimum comfortable temperature</ComfyTemperatureMin.label>
-    <ComfyTemperatureMin.description>Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die.</ComfyTemperatureMin.description>
+    <ComfyTemperatureMin.label>Minsta behaglig temperatur</ComfyTemperatureMin.label>
+    <ComfyTemperatureMin.description>Under denna temperatur kommer personen att vara olycklig. Betydligt under denna temperatur kommer de att utveckla hypotermi och förfrysning och så småningom dö.</ComfyTemperatureMin.description>
     
-    <ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
-    <ComfyTemperatureMax.description>Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
+    <ComfyTemperatureMax.label>Högsta behaglig temperatur</ComfyTemperatureMax.label>
+    <ComfyTemperatureMax.description>Ovanför denna temperatur kommer personen att vara olycklig. Betydligt högre än denna temperatur kommer de att utveckla värmeslag och så småningom dö.</ComfyTemperatureMax.description>
     
-    <ImmunityGainSpeed.label>immunity gain speed</ImmunityGainSpeed.label>
-    <ImmunityGainSpeed.description>Speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity.</ImmunityGainSpeed.description>
+    <ImmunityGainSpeed.label>immunitethastighet</ImmunityGainSpeed.label>
+    <ImmunityGainSpeed.description>Hastighet med vilken denna personen får immunitet mot sjukdomar. Om detta är för långsam, kommer personen att dö av sjukdomen innan den hinner utveckla immunitet.</ImmunityGainSpeed.description>
     
-    <CarryingCapacity.label>carrying capacity</CarryingCapacity.label>
-    <CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators.</CarryingCapacity.description>
+    <CarryingCapacity.label>bärförmåga</CarryingCapacity.label>
+    <CarryingCapacity.description>Mängden saker denna varelse kan bära i sin hand, mun, eller andra manipulatorer.</CarryingCapacity.description>
     
-    <MeatAmount.label>meat amount</MeatAmount.label>
-    <MeatAmount.description>The amount of meat you will get from butchering this creature.</MeatAmount.description>
+    <MeatAmount.label>köttmängd</MeatAmount.label>
+    <MeatAmount.description>Mängden kött du får om du slaktar denna varelse.</MeatAmount.description>
     
-    <LeatherAmount.label>leather amount</LeatherAmount.label>
-    <LeatherAmount.description>The amount of leather you will get from butchering this creature.</LeatherAmount.description>
+    <LeatherAmount.label>lädermängd</LeatherAmount.label>
+    <LeatherAmount.description>Mängden läder du får om du slaktar denna varelse.</LeatherAmount.description>
     
-    <MinimumHandlingSkill.label>minimum handling skill</MinimumHandlingSkill.label>
-    <MinimumHandlingSkill.description>This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals.</MinimumHandlingSkill.description>
+    <MinimumHandlingSkill.label>minsta hanteringsfärdighet</MinimumHandlingSkill.label>
+    <MinimumHandlingSkill.description>Denna varelse kan inte tämjas, utbildas eller kommenderas av någon med mindre än denna färdighet av djurträning.</MinimumHandlingSkill.description>
+	
     
 </LanguageData>

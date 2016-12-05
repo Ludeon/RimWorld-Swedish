@@ -2,24 +2,25 @@
 <LanguageData>
     
     <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
-    <MeleeWeapon_Gladius.description>A short sword of ancient design. Good for stabbing or slashing.</MeleeWeapon_Gladius.description>
+    <MeleeWeapon_Gladius.description>En kortsvärd i gammal design. Bra för att sticka eller skära.</MeleeWeapon_Gladius.description>
     
-    <MeleeWeapon_LongSword.label>longsword</MeleeWeapon_LongSword.label>
-    <MeleeWeapon_LongSword.description>The ancient weapon of kings, the longsword can be used for slashing or stabbing and is deadly in the right hands.</MeleeWeapon_LongSword.description>
+    <MeleeWeapon_LongSword.label>långsvärd</MeleeWeapon_LongSword.label>
+    <MeleeWeapon_LongSword.description>Ett antikt vapen för kungar. Långsvärdet kan användas för att skära eller sticka och är dödligt i rätt händer.</MeleeWeapon_LongSword.description>
     
-    <MeleeWeapon_Knife.label>knife</MeleeWeapon_Knife.label>
-    <MeleeWeapon_Knife.description>One of humankind's oldest tools, the knife is both an everyday tool and a deadly weapon.</MeleeWeapon_Knife.description>
+    <MeleeWeapon_Knife.label>kniv</MeleeWeapon_Knife.label>
+    <MeleeWeapon_Knife.description>En av mänsklighetens äldsta verktyg både ett verktyg i vardagen och ett dödligt vapen.</MeleeWeapon_Knife.description>
     
-    <MeleeWeapon_Shiv.label>shiv</MeleeWeapon_Shiv.label>
-    <MeleeWeapon_Shiv.description>An improvised knife-like weapon.</MeleeWeapon_Shiv.description>
+    <MeleeWeapon_Shiv.label>provisorisk kniv</MeleeWeapon_Shiv.label>
+    <MeleeWeapon_Shiv.description>Ett improviserat knivliknande vapen.</MeleeWeapon_Shiv.description>
     
-    <MeleeWeapon_Spear.label>spear</MeleeWeapon_Spear.label>
-    <MeleeWeapon_Spear.description>A polearm tipped with a sharp point for stabbing opponents in melee combat.</MeleeWeapon_Spear.description>
+    <MeleeWeapon_Spear.label>spjut</MeleeWeapon_Spear.label>
+    <MeleeWeapon_Spear.description>En trästav med en vass spets för att sticka motståndare i närstrid.</MeleeWeapon_Spear.description>
     
-    <MeleeWeapon_Mace.label>mace</MeleeWeapon_Mace.label>
-    <MeleeWeapon_Mace.description>A refined club, engineered for efficient swinging and deadly impacts.</MeleeWeapon_Mace.description>
+    <MeleeWeapon_Mace.label>spikklubba</MeleeWeapon_Mace.label>
+    <MeleeWeapon_Mace.description>En förfinad klubba konstruerad för effektivt svänga den med dödlig konsekvens.</MeleeWeapon_Mace.description>
     
-    <MeleeWeapon_Club.label>club</MeleeWeapon_Club.label>
-    <MeleeWeapon_Club.description>The oldest human weapon - a shaped piece of wood for bashing enemies to death. Primitive but effective.</MeleeWeapon_Club.description>
+    <MeleeWeapon_Club.label>klubba</MeleeWeapon_Club.label>
+    <MeleeWeapon_Club.description>Den äldsta mänskliga vapen - en formad träbit för att klubba fiender till döds. Primitiv men effektiv.</MeleeWeapon_Club.description>
+	
     
 </LanguageData>

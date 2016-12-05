@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Crashlanded.label>Crashlanded</Crashlanded.label>
-    <Crashlanded.description>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld.</Crashlanded.description>
-    
+    <Crashlanded.label>Krashlandning</Crashlanded.label>
+    <Crashlanded.description>Ni tre vaknar i cryptosömnkistan till ljudet av sirener och metall som slits tycken. Ni hinner knappt komma in i flyktkapslarna innan fartyget  slits sönder. En tid senare landar ni denna okända rimworld.</Crashlanded.description>
+    <Crashlanded.scenario.summary>Tre krashlandane överevare - Ten klassiska RimWold upplevelsen.</Crashlanded.scenario.summary>
+    <Crashlanded.scenario.name>Krashlandning</Crashlanded.scenario.name>
+    <Crashlanded.scenario.description>Ni tre vaknar i cryptosömnkistan till ljudet av sirener och metall som slits tycken. Ni hinner knappt komma in i flyktkapslarna innan fartyget  slits sönder. En tid senare landar ni denna okända rimworld.</Crashlanded.scenario.description>
+
+
 </LanguageData>

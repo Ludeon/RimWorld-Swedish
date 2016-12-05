@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Beer.label>beer</Beer.label>
-    <Beer.description>The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol addiction.</Beer.description>
-    <Beer.ingestible.ingestCommandString>Drink {0}</Beer.ingestible.ingestCommandString>
-    <Beer.ingestible.ingestReportString>Drinking {0}.</Beer.ingestible.ingestReportString>
+    <Beer.label>öl</Beer.label>
+    <Beer.description>Den första drycken förutom vatten någonsin konsumeras av människan. Öl kan smaka bra, men dess huvudsakliga effekt är berusning. Överdriven konsumtion kan leda till alkoholberoende.</Beer.description>
+    <Beer.ingestible.ingestCommandString>Dricker {0}</Beer.ingestible.ingestCommandString>
+    <Beer.ingestible.ingestReportString>Dricker {0}.</Beer.ingestible.ingestReportString>
 
-    <Wort.label>wort</Wort.label>
-    <Wort.description>Beer before fermentation. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer.</Wort.description>
+    <Wort.label>vört</Wort.label>
+    <Wort.description>Öl före jäsning. Detta ämne måste jäsa i en jäsande fat innan det blir drickbart öl.</Wort.description>
 
     
 </LanguageData>

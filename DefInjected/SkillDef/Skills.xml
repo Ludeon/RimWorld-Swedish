@@ -1,52 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Shooting.skillLabel>Skytte</Shooting.skillLabel>
-    <Shooting.description>Use of all kinds of ranged weapons.</Shooting.description>
+    <Shooting.label>Skytte</Shooting.label>
+    <Shooting.description>Använder alla typer av avståndsvapen.</Shooting.description>
+	<Shooting.skillLabel>Skytte</Shooting.skillLabel>
     <Shooting.pawnLabel>Skytt</Shooting.pawnLabel>
     
+    <Melee.label>Närstrid</Melee.label>
+    <Melee.description>Använder alla typer av närstridsvapen även inkluderat obeväpnad strid.</Melee.description>
     <Melee.skillLabel>Närstrid</Melee.skillLabel>
-    <Melee.description>Use of all kinds of melee weapons as well as unarmed combat.</Melee.description>
     <Melee.pawnLabel>Slagskämpe</Melee.pawnLabel>
     
+	<Social.label>Social</Social.label>
+    <Social.description>Förhandla, övertyga, manipulera, leda och gaska upp andra.</Social.description>
     <Social.skillLabel>Social</Social.skillLabel>
-    <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
     <Social.pawnLabel>Minglare</Social.pawnLabel>
     
-    <Animals.skillLabel>Animals</Animals.skillLabel>
-    <Animals.description>Taming, training, managing, and controlling animals.</Animals.description>
-    <Animals.pawnLabel>Handler</Animals.pawnLabel>
+	<Animals.label>Djurträning</Animals.label>
+    <Animals.description>Tämja, träna, hantera och kontrollera djur.</Animals.description>
+    <Animals.skillLabel>Djurträning</Animals.skillLabel>
+    <Animals.pawnLabel>Djurtränare</Animals.pawnLabel>
     
-    <Medicine.skillLabel>Medicin</Medicine.skillLabel>
-    <Medicine.description>Treating wounds and diseases and doing surgery.</Medicine.description>
+    <Medicine.label>Medicin</Medicine.label>
+    <Medicine.description>Behandling av sår och sjukdomar samt kirurgi.</Medicine.description>
+	<Medicine.skillLabel>Medicin</Medicine.skillLabel>
     <Medicine.pawnLabel>Läkare</Medicine.pawnLabel>
     
-    <Cooking.skillLabel>Matlagning</Cooking.skillLabel>
-    <Cooking.description>Creating meals from raw ingredients.</Cooking.description>
+    <Cooking.label>Matlagning</Cooking.label>
+    <Cooking.description>Laga mat av råa ingridienser.</Cooking.description>
+	<Cooking.skillLabel>Matlagning</Cooking.skillLabel>
     <Cooking.pawnLabel>Kock</Cooking.pawnLabel>
     
-    <Construction.skillLabel>Konstruktion</Construction.skillLabel>
-    <Construction.description>Better constructors build structures and furniture faster and of higher quality.</Construction.description>
+    <Construction.label>Konstruktion</Construction.label>
+    <Construction.description>Bättre kontruktörer bygger strukturer och möbler snabbare till bättre kvalitet.</Construction.description>
+	<Construction.skillLabel>Konstruktion</Construction.skillLabel>
     <Construction.pawnLabel>Konstruktör</Construction.pawnLabel>
     
-    <Growing.skillLabel>Odling</Growing.skillLabel>
-    <Growing.description>Sowing, caring for, and harvesting crops.</Growing.description>
+    <Growing.label>Odling</Growing.label>
+    <Growing.description>Så ta hand och och skörda gröda.</Growing.description>
+	<Growing.skillLabel>Odling</Growing.skillLabel>
     <Growing.pawnLabel>Odlare</Growing.pawnLabel>
     
-    <Mining.skillLabel>Gruvarbete</Mining.skillLabel>
-    <Mining.description>Digging tunnels and extracting mineral or buried resources.</Mining.description>
+    <Mining.label>Gruvarbete</Mining.label>
+    <Mining.description>Gräver tunnlar och extraherar mineraler och begravda resurser.</Mining.description>
+	<Mining.skillLabel>Gruvarbete</Mining.skillLabel>
     <Mining.pawnLabel>Gruvarbetare</Mining.pawnLabel>
     
-    <Artistic.skillLabel>Konstnärlig</Artistic.skillLabel>
-    <Artistic.description>Crafting art.</Artistic.description>
+    <Artistic.label>Konstnärlig</Artistic.label>
+    <Artistic.description>Tillverka konstverk.</Artistic.description>
+	<Artistic.skillLabel>Konstnärlig</Artistic.skillLabel>
     <Artistic.pawnLabel>Konstnär</Artistic.pawnLabel>
     
-    <Crafting.skillLabel>Hantverk</Crafting.skillLabel>
-    <Crafting.description>Crafting general items including weapons and tools.</Crafting.description>
+    <Crafting.label>Hantverk</Crafting.label>
+    <Crafting.description>Tillverka vanliga föremål såsom vapen och verktyg men även kläder.</Crafting.description>
+	<Crafting.skillLabel>Hantverk</Crafting.skillLabel>
     <Crafting.pawnLabel>Hantverkare</Crafting.pawnLabel>
     
-    <Research.skillLabel>Forskning</Research.skillLabel>
-    <Research.description>Investigating evidence, doing experiments, and learning.</Research.description>
+    <Research.label>Forskning</Research.label>
+    <Research.description>Undersöker bevis, utför experiment och studerar.</Research.description>
+	<Research.skillLabel>Forskning</Research.skillLabel>
     <Research.pawnLabel>Forskare</Research.pawnLabel>
     
 </LanguageData>

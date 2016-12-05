@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <WaterDeep.label>deep water</WaterDeep.label>
-    
-    <WaterShallow.label>shallow water</WaterShallow.label>
+    <WaterDeep.label>djupt vatten</WaterDeep.label>
+    <WaterShallow.label>grunt vatten</WaterShallow.label>
     
 </LanguageData>

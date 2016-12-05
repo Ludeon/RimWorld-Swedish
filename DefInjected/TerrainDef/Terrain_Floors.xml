@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MetalTile.label>Metallpanel</MetalTile.label>
-    <MetalTile.description>Metallpaneler, för den där rymdskeppslooken.</MetalTile.description>
+    <!-- Misc -->
+	
+    <MetalTile.label>metallplattor</MetalTile.label>
+    <MetalTile.description>Metallplattor, för den där rymdskeppslooken.</MetalTile.description>
     
-    <SilverTile.label>silver tile</SilverTile.label>
-    <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
+    <SilverTile.label>silverplattor</SilverTile.label>
+    <SilverTile.description>Dyrt och långsamt att bygga men väldgt snyggt. Passar perfekt i alla typer av lyxiga rum.</SilverTile.description>
     
-    <GoldTile.label>gold tile</GoldTile.label>
-    <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
+    <GoldTile.label>guldplattor</GoldTile.label>
+    <GoldTile.description>Den vackraste och mest imponerande typ av golv. Mycket dyrt och kräver en hel del arbete för att bygga.</GoldTile.description>
     
-    <SterileTile.label>sterile tile</SterileTile.label>
-    <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
+    <SterileTile.label>sterila plattor</SterileTile.label>
+    <SterileTile.description>Sterila plattor hjälper till att hålla rummet ren. Mycket användbart på sjukhus för att hindra patienter från att få olika infektioner. Neutral när det gäller utseende och mycket långsamt att bygga.</SterileTile.description>
     
-    <PavedTile.label>Gjuten kakel</PavedTile.label>
+    <PavedTile.label>gjutet kakel</PavedTile.label>
     <PavedTile.description>Funktionell betongkakel. Snabbt att ta sig fram över, men inte särskilt vackert.</PavedTile.description>
     
-    <Concrete.label>Betong</Concrete.label>
+    <Concrete.label>betong</Concrete.label>
     <Concrete.description>Snabbgjuten betong, snabb att ta sig fram över, men rätt ful. Du behöver kunna gräva ut marken för att gjuta denna.</Concrete.description>
     
     <WoodPlankFloor.label>Trägolv</WoodPlankFloor.label>
     <WoodPlankFloor.description>Golv av träplankor. För den där varma, hemlika känslan.</WoodPlankFloor.description>
+	
+	
+	<!-- Carpets -->
     
     <CarpetRed.label>Röd matta</CarpetRed.label>
-    <CarpetRed.description>Plyschmatta i en förtjusande rosa nyans.</CarpetRed.description>
+    <CarpetRed.description>Plyschmatta i en förtjusande rosnyans.</CarpetRed.description>
     
     <CarpetGreen.label>Grön matta</CarpetGreen.label>
     <CarpetGreen.description>Grön matta med en distinkt naturkänsla.</CarpetGreen.description>
@@ -31,10 +36,10 @@
     <CarpetBlue.label>Blå matta</CarpetBlue.label>
     <CarpetBlue.description>Tåkramande plyschmatta i en kylig blå färg.</CarpetBlue.description>
     
-    <CarpetCream.label>cream carpet</CarpetCream.label>
-    <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+    <CarpetCream.label>gräddfärgad matta</CarpetCream.label>
+    <CarpetCream.description>Inbjudande gräddfärgad matta.</CarpetCream.description>
     
-    <CarpetDark.label>dark carpet</CarpetDark.label>
-    <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+    <CarpetDark.label>mörk-grå matta</CarpetDark.label>
+    <CarpetDark.description>Proffsiga mörkgrå matta.</CarpetDark.description>
     
 </LanguageData>

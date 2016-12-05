@@ -3,41 +3,43 @@
     
 	  <!-- natural -->
 	
-    <Heart.label>Hjärta</Heart.label>
-    <Heart.description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.</Heart.description>
+    <Heart.label>hjärta</Heart.label>
+    <Heart.description>Förser blod och syre till alla delar av kroppen. Redo att hitta en ny ägare.</Heart.description>
     
-    <Lung.label>Lunga</Lung.label>
-    <Lung.description>Essential part of the respiratory system.</Lung.description>
+    <Lung.label>lunga</Lung.label>
+    <Lung.description>Väsentlig del av andningssystemet .</Lung.description>
     
-    <Kidney.label>Njure</Kidney.label>
-    <Kidney.description>Filters and removes waste products from the blood.</Kidney.description>
+    <Kidney.label>njure</Kidney.label>
+    <Kidney.description>Filterar och tar bort slaggprodukter från blodet.</Kidney.description>
     
-    <Liver.label>Lever</Liver.label>
-    <Liver.description>Plays an important role in metabolism.</Liver.description>
+    <Liver.label>lever</Liver.label>
+    <Liver.description>Pspelar en viktig roll i ämnesomsättningen.</Liver.description>
+	
 	
 	<!-- artificial - simple prosthetics -->
     
-    <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>
-    <SimpleProstheticLeg.description>Simple prosthesis made to replace missing leg. Not very comfortable but quite efficient.</SimpleProstheticLeg.description>
+    <SimpleProstheticLeg.label>enkel benprotes</SimpleProstheticLeg.label>
+    <SimpleProstheticLeg.description>Enkel protes för att ersätta saknade ben. Inte speciellt bekväm men ganska effektiv.</SimpleProstheticLeg.description>
     
-    <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>
-    <SimpleProstheticArm.description>Simple but durable arm prosthesis.</SimpleProstheticArm.description>
+    <SimpleProstheticArm.label>enkel armprotes</SimpleProstheticArm.label>
+    <SimpleProstheticArm.description>Enkel men slitstark armprotes.</SimpleProstheticArm.description>
     
+	
 	<!-- artificial - bionics -->
 	
-    <BionicEye.label>bionic eye</BionicEye.label>
-    <BionicEye.description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities.</BionicEye.description>
+    <BionicEye.label>bioniskt öga</BionicEye.label>
+    <BionicEye.description>Avancerad teknik görs inte bara för att helt ersätta naturliga ögat, men också att ge övernaturliga syn förmågor,</BionicEye.description>
     
-    <BionicArm.label>bionic arm</BionicArm.label>
-    <BionicArm.description>One of the most sophisticated arm replacements. Gives extreme strength to its user.</BionicArm.description>
+    <BionicArm.label>bioniskt arm</BionicArm.label>
+    <BionicArm.description>En av de mest sofistikerade armersättare som finns på marknaden. Ger extrem styrka för dess användare.</BionicArm.description>
     
-    <BionicLeg.label>bionic leg</BionicLeg.label>
-    <BionicLeg.description>Bionic leg uses cutting-edge technology to give its owner extreme walking comfort and strength.</BionicLeg.description>
+    <BionicLeg.label>bioniskt ben</BionicLeg.label>
+    <BionicLeg.description>Bioniskt ben använder avancerad teknik för att ge sin ägare extrem gångkomfort och styrka.</BionicLeg.description>
     
-    <PowerClaw.label>power claw</PowerClaw.label>
-    <PowerClaw.description>Powerful hand replacement consisting of three deadly claws.</PowerClaw.description>
+    <PowerClaw.label>Kraftklo</PowerClaw.label>
+    <PowerClaw.description>Kraftig hand ersättning bestående av tre dödliga klor.</PowerClaw.description>
     
-    <ScytherBlade.label>scyther blade</ScytherBlade.label>
-    <ScytherBlade.description>Hand replacement with a telescoping blade. Scavenged from a dead scyther mechanoid. Not very comfortable, but quite effective as a close-range weapon.</ScytherBlade.description>
+    <ScytherBlade.label>Liemanblad</ScytherBlade.label>
+    <ScytherBlade.description>Hand ersatt med en teleskopisk blad. Skördat från en död lieman mekanoid. Inte speciellt bekvämt, men ganska effektiv som ett närstridsvapen.</ScytherBlade.description>
     
 </LanguageData>

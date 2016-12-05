@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Campfire.label>campfire</Campfire.label>
-    <Campfire.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
+    <Campfire.label>lägereld</Campfire.label>
+    <Campfire.description>Lagar måltider och genererar värme. Bränner ut efter några dagar. Som med alla värmekällor måste den placeras inomhus så det har ett slutet utrymme att värma. påfyllningsbar.</Campfire.description>
     
-    <PassiveCooler.label>passive cooler</PassiveCooler.label>
-    <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</PassiveCooler.description>
+    <PassiveCooler.label>passiv kylare</PassiveCooler.label>
+    <PassiveCooler.description>En traditionell kylare som fungerar genom vattenavdunstning. Kommer att ta slut och självförstöra efter några dagar.</PassiveCooler.description>
     
-    <Heater.label>heater</Heater.label>
-    <Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>
+    <Heater.label>värmare</Heater.label>
+    <Heater.description>En elektrisk anordning som omvandlar elektricitet till värme. Den kan automatiskt stänga av sig själv när den når en specifikt måltemperatur.</Heater.description>
     
-    <Cooler.label>cooler</Cooler.label>
-    <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer. </Cooler.description>
+    <Cooler.label>luftkylare</Cooler.label>
+    <Cooler.description>En elektrisk anordning som monteras i en vägg och skjuter kall luft in i ett rum. Utblåset genererar en hel del värme. Kan användas för att kyla ner rum under sommarmånaderna eller att skapa ett kyl eller frysrum.</Cooler.description>
     
-    <Vent.label>vent</Vent.label>
-    <Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>
+    <Vent.label>ventil</Vent.label>
+    <Vent.description>En enkel ventil för att utjämna temperaturen mellan två rum utan att låta personer att gå mellan dem.</Vent.description>
     
+	
 </LanguageData>

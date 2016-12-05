@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Apparel_Pants.label>Byxor</Apparel_Pants.label>
+    <Apparel_Pants.label>byxor</Apparel_Pants.label>
     <Apparel_Pants.description>Ett enkelt par byxor.</Apparel_Pants.description>
     
-    <Apparel_BasicShirt.label>T-shirt</Apparel_BasicShirt.label>
+    <Apparel_BasicShirt.label>t-shirt</Apparel_BasicShirt.label>
     <Apparel_BasicShirt.description>En vanlig T-shirt.</Apparel_BasicShirt.description>
     
-    <Apparel_CollarShirt.label>Skjorta</Apparel_CollarShirt.label>
+    <Apparel_CollarShirt.label>skjorta</Apparel_CollarShirt.label>
     <Apparel_CollarShirt.description>En fin skjorta med krage och knappar.</Apparel_CollarShirt.description>
     
-    <Apparel_Duster.label>Rock</Apparel_Duster.label>
-    <Apparel_Duster.description>En lång rock som skyddar mot öknens sol och sand.</Apparel_Duster.description>
+    <Apparel_Duster.label>rock</Apparel_Duster.label>
+    <Apparel_Duster.description>En långrock som skyddar mot öknens sol och sand.</Apparel_Duster.description>
     
-    <Apparel_Jacket.label>Jacka</Apparel_Jacket.label>
-    <Apparel_Jacket.description>En tålig jacka som motverkar skrapsår och blåmärken.</Apparel_Jacket.description>
+    <Apparel_Jacket.label>jacka</Apparel_Jacket.label>
+    <Apparel_Jacket.description>En tålig jacka som motverkar skrapsår och blåmärken och för att hålla en varmt i kyligt väder.</Apparel_Jacket.description>
     
-    <Apparel_Parka.label>Parka</Apparel_Parka.label>
+    <Apparel_Parka.label>parka</Apparel_Parka.label>
     <Apparel_Parka.description>En tjock parka för att hålla sig varm även i de kallaste temperaturerna.</Apparel_Parka.description>
     
-    <Apparel_TribalA.label>Stamkläder</Apparel_TribalA.label>
-    <Apparel_TribalA.description>En utstyrsel gjord direkt från djurhudar med hjälp av stenåldersverktyg.</Apparel_TribalA.description>
+    <Apparel_TribalA.label>stamkläder</Apparel_TribalA.label>
+    <Apparel_TribalA.description>En utstyrsel gjord med hjälp av stenåldersverktyg.</Apparel_TribalA.description>
+ 
  
     <!-- Stuff-less apparel -->
  
-    <Apparel_VestPlate.label>Skottsäker väst</Apparel_VestPlate.label>
+    <Apparel_VestPlate.label>skottsäker väst</Apparel_VestPlate.label>
     <Apparel_VestPlate.description>En väst med pansarplattor för bröst och rygg. Skyddar mot vapeneld.</Apparel_VestPlate.description>
     
-    <Apparel_PowerArmor.label>Kraftrustning</Apparel_PowerArmor.label>
+    <Apparel_PowerArmor.label>kraftrustning</Apparel_PowerArmor.label>
     <Apparel_PowerArmor.description>Kraftdriven rustning, oftast använd av stormtrupper från avancerade glittervärldsplaneter.</Apparel_PowerArmor.description>
     
 </LanguageData>

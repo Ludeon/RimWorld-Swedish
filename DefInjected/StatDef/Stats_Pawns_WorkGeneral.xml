@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <WorkSpeedGlobal.label>global work speed</WorkSpeedGlobal.label>
-    <WorkSpeedGlobal.description>A multiplier on someone's speed at doing any work.</WorkSpeedGlobal.description>
+    <WorkSpeedGlobal.label>global arbetshastighet</WorkSpeedGlobal.label>
+    <WorkSpeedGlobal.description>En multiplikator på någons hastighet på att göra ett arbete.</WorkSpeedGlobal.description>
     
-    <MiningSpeed.label>mining speed</MiningSpeed.label>
-    <MiningSpeed.description>Gruvarbetar med {0}%s hastighet.</MiningSpeed.description>
+    <MiningSpeed.label>grävhastighet</MiningSpeed.label>
+    <MiningSpeed.description>En multiplikator på den hastighet med vilken denna person gräver sten.</MiningSpeed.description>
     
-    <SmoothingSpeed.label>smoothing speed</SmoothingSpeed.label>
-    <SmoothingSpeed.description>A multiplier on the speed at which this person smooths floors.</SmoothingSpeed.description>
+    <SmoothingSpeed.label>utjämningshastighet</SmoothingSpeed.label>
+    <SmoothingSpeed.description>En multiplikator på den hastighet med vilken denna person jämnar golv.</SmoothingSpeed.description>
     
-    <ResearchSpeed.label>research speed</ResearchSpeed.label>
-    <ResearchSpeed.description>Forskar med {0}%s hastighet.</ResearchSpeed.description>
+    <ResearchSpeed.label>forskningshastighet</ResearchSpeed.label>
+    <ResearchSpeed.description>Denna person forskar med denna hastighet.</ResearchSpeed.description>
     
-    <ConstructionSpeed.label>construction speed</ConstructionSpeed.label>
-    <ConstructionSpeed.description>Bygger och reparerar byggnader med {0}%s hastighet.</ConstructionSpeed.description>
+    <ConstructionSpeed.label>bygghastighet</ConstructionSpeed.label>
+    <ConstructionSpeed.description>Hastighet med vilken denna person bygger och reparerar byggnader.</ConstructionSpeed.description>
     
-    <PlantWorkSpeed.label>plant work speed</PlantWorkSpeed.label>
-    <PlantWorkSpeed.description>Speed at which this person sows and harvests plants.</PlantWorkSpeed.description>
+    <PlantWorkSpeed.label>växtarbetshastighet</PlantWorkSpeed.label>
+    <PlantWorkSpeed.description>Hastighet med vilken den här personen sår och skördar växter.</PlantWorkSpeed.description>
     
-    <HarvestFailChance.label>harvest fail chance</HarvestFailChance.label>
-    <HarvestFailChance.description>The chance that this person will accidentally destroy the harvest instead of collecting it.</HarvestFailChance.description>
+    <HarvestFailChance.label>chans för misslyckad skörd</HarvestFailChance.label>
+    <HarvestFailChance.description>Chansen att denna person av misstag kommer att förstöra skörden i stället för att samla in den.</HarvestFailChance.description>
     
-    <ConstructFailChance.label>construct fail chance</ConstructFailChance.label>
-    <ConstructFailChance.description>The chance that this person will fail in constructing something, wasting time and resources.</ConstructFailChance.description>
+    <ConstructFailChance.label>chans att misslyckas bygga</ConstructFailChance.label>
+    <ConstructFailChance.description>Chansen att denna person kommer att misslyckas i att bygga något, slösa tid och resurser.</ConstructFailChance.description>
     
-    <FixBrokenDownBuildingFailChance.label>repair fail chance</FixBrokenDownBuildingFailChance.label>
-    <FixBrokenDownBuildingFailChance.description>The chance that this person will fail to repair a broken down building.</FixBrokenDownBuildingFailChance.description>
+    <FixBrokenDownBuildingFailChance.label>chans att misslyckas med reparation</FixBrokenDownBuildingFailChance.label>
+    <FixBrokenDownBuildingFailChance.description>Chansen att denna person kommer att misslyckas med att reparera en trasig byggnad.</FixBrokenDownBuildingFailChance.description>
     
+	
 </LanguageData>

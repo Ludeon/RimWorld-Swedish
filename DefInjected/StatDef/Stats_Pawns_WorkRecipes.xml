@@ -1,43 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <SculptingSpeed.label>sculpting speed</SculptingSpeed.label>
-    <SculptingSpeed.description>Speed at which this person sculpts.</SculptingSpeed.description>
+	<!-- Artistic recipes - speed not affected by skill. -->
+	
+    <SculptingSpeed.label>hastighet att skulptera</SculptingSpeed.label>
+    <SculptingSpeed.description>Hur snabbt denna person skulpterar.</SculptingSpeed.description>
     
-    <TailoringSpeed.label>tailoring speed</TailoringSpeed.label>
-    <TailoringSpeed.description>Speed at which this person makes clothes.</TailoringSpeed.description>
+    <TailoringSpeed.label>hastighet att sy</TailoringSpeed.label>
+    <TailoringSpeed.description>Hur snabbt denna person syr kläder.</TailoringSpeed.description>
     
-    <SmithingSpeed.label>smithing speed</SmithingSpeed.label>
-    <SmithingSpeed.description>Speed at which this person smiths or crafts weapons, machines, ammunition, and tools.</SmithingSpeed.description>
+    <SmithingSpeed.label>hastighet att smeda</SmithingSpeed.label>
+    <SmithingSpeed.description>Hur snabbt denna person smider, tillverkar vapen, maskiner, ammunition och verktyg.</SmithingSpeed.description>
     
-    <DrugProductionSpeed.label>drug production speed</DrugProductionSpeed.label>
-    <DrugProductionSpeed.description>How fast this character produces drugs.</DrugProductionSpeed.description>
+    <DrugProductionSpeed.label>hastighet att tillverka droger</DrugProductionSpeed.label>
+    <DrugProductionSpeed.description>Hur snabbt denna person tillverkar droger.</DrugProductionSpeed.description>
+	
+	
+	<!-- Production recipes - speed affected by skill. -->
     
-    <CookSpeed.label>cooking speed</CookSpeed.label>
-    <CookSpeed.description>Speed at which this person cooks meals.</CookSpeed.description>
+    <CookSpeed.label>matlagningshastighet</CookSpeed.label>
+    <CookSpeed.description>Hur snabbt denna person lagar måltider.</CookSpeed.description>
     
-    <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
-    <FoodPoisonChance.description>The probability that this character will inadvertently poison a meal they cook.</FoodPoisonChance.description>
+    <FoodPoisonChance.label>chans att matförgifta</FoodPoisonChance.label>
+    <FoodPoisonChance.description>Sannolikheten för att denna person oavsiktligt kommer att förgifta en måltid de lagar.</FoodPoisonChance.description>
     
-    <BrewingSpeed.label>brewing speed</BrewingSpeed.label>
-    <BrewingSpeed.description>Speed at which this person brews beer.</BrewingSpeed.description>
+    <BrewingSpeed.label>brygghastighet</BrewingSpeed.label>
+    <BrewingSpeed.description>Hur snabbt denna person brygger öl.</BrewingSpeed.description>
     
-    <ButcheryFleshSpeed.label>butchery speed</ButcheryFleshSpeed.label>
-    <ButcheryFleshSpeed.description>Speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
+    <ButcheryFleshSpeed.label>slakthastighet</ButcheryFleshSpeed.label>
+    <ButcheryFleshSpeed.description>Hur snabbt denna person styckar kött från kreatur.</ButcheryFleshSpeed.description>
     
-    <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
-    <ButcheryFleshEfficiency.description>Producerar {0}% av den normala mängden kött vid slakt.</ButcheryFleshEfficiency.description>
+    <ButcheryFleshEfficiency.label>slaakteffektivitet</ButcheryFleshEfficiency.label>
+    <ButcheryFleshEfficiency.description>Multiplikator på mängden kött som produceras vid slakt.</ButcheryFleshEfficiency.description>
     
-    <ButcheryMechanoidSpeed.label>mechanoid disassembly speed</ButcheryMechanoidSpeed.label>
-    <ButcheryMechanoidSpeed.description>Speed at which this person can disassemble a mechanoid.</ButcheryMechanoidSpeed.description>
+    <ButcheryMechanoidSpeed.label>hastighet att demontera en mekaniod</ButcheryMechanoidSpeed.label>
+    <ButcheryMechanoidSpeed.description>Hur snabbt denna person demonterar en mekaniod.</ButcheryMechanoidSpeed.description>
     
-    <ButcheryMechanoidEfficiency.label>mechanoid disassembly efficiency</ButcheryMechanoidEfficiency.label>
-    <ButcheryMechanoidEfficiency.description>Producerar {0}% av den normala mängden material vid isärplockning av mekanoider.</ButcheryMechanoidEfficiency.description>
+    <ButcheryMechanoidEfficiency.label>effektivitet av mekanoid demontering</ButcheryMechanoidEfficiency.label>
+    <ButcheryMechanoidEfficiency.description>Multiplikator på mängden av material som räddas när denna person tar isär en död mekanoid.</ButcheryMechanoidEfficiency.description>
     
-    <StonecuttingSpeed.label>stonecutting speed</StonecuttingSpeed.label>
-    <StonecuttingSpeed.description>Speed at which this person cuts rough stone into blocks.</StonecuttingSpeed.description>
+    <StonecuttingSpeed.label>stenarbeteshastighet</StonecuttingSpeed.label>
+    <StonecuttingSpeed.description>Hur snabbt denna person hugger ut stenblock till block.</StonecuttingSpeed.description>
     
-    <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
-    <SmeltingSpeed.description>Speed at which this person smelts things.</SmeltingSpeed.description>
+    <SmeltingSpeed.label>smölthastighet</SmeltingSpeed.label>
+    <SmeltingSpeed.description>Hur snabbt denna person smälter saker.</SmeltingSpeed.description>
+	
     
 </LanguageData>

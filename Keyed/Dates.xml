@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <ClockTime>Tid</ClockTime>
@@ -6,9 +6,9 @@
   <ClockYear>År</ClockYear>
   <DateReadoutTip>Antal dagar sen du kom hit: {0}\nDet går {1} dagar per årstid.\nNuvarande årstid: {2}</DateReadoutTip>
 
-  <FullDate>{1}dag {0}, {2}</FullDate>
-	<DateReadout>{1}dag {0}, {2}</DateReadout>
-  <SeasonFullDate>{1}dag {0}</SeasonFullDate>
+  <FullDate>den {0} {1}, {2}</FullDate>
+	<DateReadout>den {0} {1}, {2}</DateReadout>
+  <SeasonFullDate>den {0} {1}</SeasonFullDate>
   <WholeYear>Helt år</WholeYear>
   
 </LanguageData>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Mechanoid_Centipede.label>centipede</Mechanoid_Centipede.label>
-    <Mechanoid_Centipede.description>Heavy combat mechanoids that glide on dozens of tiny legs. Their heavy armor and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics.</Mechanoid_Centipede.description>
+    <Mechanoid_Centipede.label>tusenfoting</Mechanoid_Centipede.label>
+    <Mechanoid_Centipede.description>Tunga stridsmekanoider som glider på dussintals små ben. Deras tunga rustning och eldkraft gör dem mycket effektiva mot ihopsamlade statiska försvarare. De är något känsliga för rörliga skjut-och-spring taktiker.</Mechanoid_Centipede.description>
     <!-- Flesh Type: Mechanoid -->
-    <Mechanoid_Centipede_Corpse.label>centipede corpse</Mechanoid_Centipede_Corpse.label>
-    <Mechanoid_Centipede_Corpse.description>centipede corpse</Mechanoid_Centipede_Corpse.description>
+    <Mechanoid_Centipede_Corpse.label>tusenfotingkropp</Mechanoid_Centipede_Corpse.label>
+    <Mechanoid_Centipede_Corpse.description>tusenfotingkropp</Mechanoid_Centipede_Corpse.description>
 
 
     <!-- Scyther -->
 
-    <Mechanoid_Scyther.label>scyther</Mechanoid_Scyther.label>
-    <Mechanoid_Scyther.description>Fast, spindly, human-sized combat mechanoids. They usually carry one primary ranged weapon, and their bodies are adorned with two articulated blades to make them deadly in melee combat. They don't use cover. Best handled by concentrated, overwhelming force.</Mechanoid_Scyther.description>
+    <Mechanoid_Scyther.label>lieman</Mechanoid_Scyther.label>
+    <Mechanoid_Scyther.description>Snabba spindellika stridsmekanoider i mänsklig storlek. De bär vanligtvis ett primärt avståndsvapen och deras kroppar är prydda med två ledade blad för att göra dem dödliga i närstrid. De använder inte skydd. Bästa sättet att hantera dom är med hjälp av koncentrerad, överväldigande våld.</Mechanoid_Scyther.description>
     <!-- Flesh Type: Mechanoid -->
-    <Mechanoid_Scyther_Corpse.label>scyther corpse</Mechanoid_Scyther_Corpse.label>
-    <Mechanoid_Scyther_Corpse.description>scyther corpse</Mechanoid_Scyther_Corpse.description>
+    <Mechanoid_Scyther_Corpse.label>liemanskropp</Mechanoid_Scyther_Corpse.label>
+    <Mechanoid_Scyther_Corpse.description>liemanskropp</Mechanoid_Scyther_Corpse.description>
     
 	
 </LanguageData>

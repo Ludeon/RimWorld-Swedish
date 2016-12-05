@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PowerConduit.label>Kraftledning</PowerConduit.label>
-    <PowerConduit.description>En bunt kablar som leder ström. Kan placeras under väggar och andra föremål.</PowerConduit.description>
+    <PowerConduit.label>kraftledning</PowerConduit.label>
+    <PowerConduit.description>En bunt kablar som leder ström. Kan placeras under väggar och andra byggnader.</PowerConduit.description>
     
-    <PowerSwitch.label>Strömbrytare</PowerSwitch.label>
+    <PowerSwitch.label>strömbrytare</PowerSwitch.label>
     <PowerSwitch.description>Stänger av och på strömmen.</PowerSwitch.description>
     
-    <FueledGenerator.label>Gengas-generator</FueledGenerator.label>
+    <FueledGenerator.label>gengas-generator</FueledGenerator.label>
     <FueledGenerator.description>Produceras ström genom att använda trä som bränsle. Måste fyllas på för hand.</FueledGenerator.description>
     
-    <Battery.label>Ackumulator</Battery.label>
+    <Battery.label>ackumulator</Battery.label>
     <Battery.description>Lagrar överflödig elektricitet som senare distributeras vid ett eventuellt energibortfall. Varning - Uppladdade ackumulatorer kan explodera vid kontakt med eld eller vatten.</Battery.description>
     
-    <SolarGenerator.label>Solpanel</SolarGenerator.label>
+    <SolarGenerator.label>solpanel</SolarGenerator.label>
     <SolarGenerator.description>Producerar elektricitet från solljus. Fungerar inte i mörkret.</SolarGenerator.description>
     
-    <GeothermalGenerator.label>Geotermisk generator</GeothermalGenerator.label>
+    <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>
     <GeothermalGenerator.description>Producerar elektricitet från geotermiska ånggejsrar. Måste placeras på en gejser.</GeothermalGenerator.description>
     
+	
 </LanguageData>

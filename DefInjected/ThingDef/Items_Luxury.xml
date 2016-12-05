@@ -3,7 +3,8 @@
     
 	<!-- Luxury -->
 	
-    <Chocolate.label>chocolate</Chocolate.label>
-    <Chocolate.description>A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious.</Chocolate.description>
+    <Chocolate.label>choklad</Chocolate.label>
+    <Chocolate.description>En läcker beredning av kakaofrön malet tillsammans med socker och vanilj. Mycket angenämt att äta, men inte speciellt näringsrikt.</Chocolate.description>
     
+	
 </LanguageData>

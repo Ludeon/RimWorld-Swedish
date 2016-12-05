@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <RawPotatoes.label>potatoes</RawPotatoes.label>
-    <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
+    <RawPotatoes.label>potatis</RawPotatoes.label>
+    <RawPotatoes.description>Rå potatis.</RawPotatoes.description>
     
-    <RawRice.label>rice</RawRice.label>
-    <RawRice.description>Raw rice.</RawRice.description>
+    <RawRice.label>ris</RawRice.label>
+    <RawRice.description>Rå ris.</RawRice.description>
     
-    <RawAgave.label>agave fruit</RawAgave.label>
-    <RawAgave.description>Raw agave fruit.</RawAgave.description>
+    <RawAgave.label>agavefrukt</RawAgave.label>
+    <RawAgave.description>Rå avgavefrukt.</RawAgave.description>
     
-    <RawCorn.label>corn</RawCorn.label>
-    <RawCorn.description>Raw corn. Nice to eat, even when raw.</RawCorn.description>
+    <RawCorn.label>majs</RawCorn.label>
+    <RawCorn.description>Rå majs. Trevligt att äta även rå</RawCorn.description>
     
-    <RawBerries.label>berries</RawBerries.label>
-    <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
+    <RawBerries.label>bär</RawBerries.label>
+    <RawBerries.description>Blandade bär. Trevligt att äta även råa.</RawBerries.description>
     
 	
 	<!-- Plant matter (inedible by people) -->
 	
-    <Hay.label>hay</Hay.label>
-    <Hay.description>Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.</Hay.description>
+    <Hay.label>hö</Hay.label>
+    <Hay.description>Näringsrika gräs och skott, skördas och sammanpressas för lagring. Hö är bra foder, men oätliga för människor.</Hay.description>
     
-    <RawHops.label>hops</RawHops.label>
-    <RawHops.description>Raw hops. A flavoring and preserving agent that is necessary for making beer.</RawHops.description>
+    <RawHops.label>humle</RawHops.label>
+    <RawHops.description>Rå humle. En smakämnen och konserveringsmedel som är nödvändigt för att göra öl.</RawHops.description>
     
-    <PsychoidLeaves.label>psychoid leaves</PsychoidLeaves.label>
-    <PsychoidLeaves.description>Raw cut leaves of a psychoid plant.</PsychoidLeaves.description>
+    <PsychoidLeaves.label>psychitlöv</PsychoidLeaves.label>
+    <PsychoidLeaves.description>Råa löv skördare ifrån psychitplantan.</PsychoidLeaves.description>
     
-    <SmokeleafLeaves.label>smokeleaf leaves</SmokeleafLeaves.label>
-    <SmokeleafLeaves.description>Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joint at a crafting spot.</SmokeleafLeaves.description>
+    <SmokeleafLeaves.label>rökbladslöv</SmokeleafLeaves.label>
+    <SmokeleafLeaves.description>Råa löv skördade från rökbladsplantan. Kan rullas till en rökbar joint vid en tillverkningsplats.</SmokeleafLeaves.description>
     
 	
 </LanguageData>

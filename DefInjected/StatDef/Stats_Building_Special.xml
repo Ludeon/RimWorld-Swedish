@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
-    <DoorOpenSpeed.description>The speed at which the door opens.</DoorOpenSpeed.description>
+    <DoorOpenSpeed.label>dörröppnings-hastighet</DoorOpenSpeed.label>
+    <DoorOpenSpeed.description>Den hastighet med vilken dörren öppnas</DoorOpenSpeed.description>
     
-    <BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
-    <BedRestEffectiveness.description>How fast people sleeping on this gain rest.</BedRestEffectiveness.description>
+    <BedRestEffectiveness.label>vila effektivitet</BedRestEffectiveness.label>
+    <BedRestEffectiveness.description>Hur snabbt folk som sover på denna återfår ork.</BedRestEffectiveness.description>
     
-    <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
-    <TrapMeleeDamage.description>How much damage this trap typically does. The actual damage may vary somewhat.</TrapMeleeDamage.description>
+    <TrapMeleeDamage.label>fällans skada</TrapMeleeDamage.label>
+    <TrapMeleeDamage.description>Hur mycket skada denna fälla per standard gör. Den faktiska skadan kan variera något.</TrapMeleeDamage.description>
     
-    <TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
-    <TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>
+    <TrapSpringChance.label>fällans aktiveringschans</TrapSpringChance.label>
+    <TrapSpringChance.description>ur stor chans det är att fällan aktiveras när ett oönskat kreatur går över den.</TrapSpringChance.description>
     
-    <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-    <ResearchSpeedFactor.description>Speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
-    <ResearchSpeedFactor.parts.1.customLabel>Room cleanliness</ResearchSpeedFactor.parts.1.customLabel>
+    <ResearchSpeedFactor.label>hastighetsfaktor för forskning</ResearchSpeedFactor.label>
+    <ResearchSpeedFactor.description>Hastighet med vilken personer gör forskning multipliceras med detta värde.</ResearchSpeedFactor.description>
+    <ResearchSpeedFactor.parts.1.customLabel>Städning</ResearchSpeedFactor.parts.1.customLabel>
     
-    <MedicalTreatmentQualityFactor.label>medical treatment quality factor</MedicalTreatmentQualityFactor.label>
-    <MedicalTreatmentQualityFactor.description>Medical treatment quality is multiplied by this value.</MedicalTreatmentQualityFactor.description>
+    <MedicalTreatmentQualityFactor.label>kvalitetsfaktor för medicinsk behandling</MedicalTreatmentQualityFactor.label>
+    <MedicalTreatmentQualityFactor.description>Medicinsk behandlingskvalitet multipliceras med detta värde.</MedicalTreatmentQualityFactor.description>
     
-    <ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
-    <ImmunityGainSpeedFactor.description>Immunity gain speed is multiplied by this value.</ImmunityGainSpeedFactor.description>
+    <ImmunityGainSpeedFactor.label>hastighetsfaktor för immunitetsförstärknings</ImmunityGainSpeedFactor.label>
+    <ImmunityGainSpeedFactor.description>Immunitethastighet multipliceras med detta värde.</ImmunityGainSpeedFactor.description>
     
-    <WorkTableWorkSpeedFactor.label>work speed factor</WorkTableWorkSpeedFactor.label>
-    <WorkTableWorkSpeedFactor.description>Work speed is multiplied by this value.</WorkTableWorkSpeedFactor.description>
+    <WorkTableWorkSpeedFactor.label>hastighetsfaktor för arbete</WorkTableWorkSpeedFactor.label>
+    <WorkTableWorkSpeedFactor.description>Arbetshastighet multipliceras med detta värde.</WorkTableWorkSpeedFactor.description>
     
-    <EntertainmentStrengthFactor.label>entertainment strength factor</EntertainmentStrengthFactor.label>
-    <EntertainmentStrengthFactor.description>How effectively this item entertains people and gives them joy.</EntertainmentStrengthFactor.description>
+    <EntertainmentStrengthFactor.label>styrkefaktor för underhållning</EntertainmentStrengthFactor.label>
+    <EntertainmentStrengthFactor.description>Hur effektivt detta föremål underhåller persone och ger dem glädje.</EntertainmentStrengthFactor.description>
+	
     
 </LanguageData>

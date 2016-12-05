@@ -3,44 +3,44 @@
     
 	<!-- Food crops -->
 	
-    <PlantPotato.label>potato plant</PlantPotato.label>
-    <PlantPotato.description>A simple, highly nutritious tuber. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop.</PlantPotato.description>
+    <PlantPotato.label>potatisplanta</PlantPotato.label>
+    <PlantPotato.description>En enkel, mycket näringsrik knöl. Växer bra även i lite dålig jord. Skördar snabbt. En stark, mångsidig gröda.</PlantPotato.description>
     
-    <PlantCorn.label>corn plant</PlantCorn.label>
-    <PlantCorn.description>A large grain plant which produces ears of delicious yellow seeds. Takes a relatively long time to grow, but yields lots of food, takes a long time to spoil, and can be happily eaten raw. Needs fertile soil to grow well.</PlantCorn.description>
+    <PlantCorn.label>majsplanta</PlantCorn.label>
+    <PlantCorn.description>En stor majsplanta som producerar massor av läckra gula frön. Tar relativt lång tid att växa, men ger massor av mat, tar lång tid att förstöra, och kan enkelt ätas råa. Behöver bördig jord att växa bra.</PlantCorn.description>
     
-    <PlantRice.label>rice plant</PlantRice.label>
-    <PlantRice.description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</PlantRice.description>
+    <PlantRice.label>risplanta</PlantRice.label>
+    <PlantRice.description>En låg kornväxt som trivs i bördig jord och ger mat snabbt, men är inte trevligt att äta rå.</PlantRice.description>
     
-    <PlantStrawberry.label>strawberry plant</PlantStrawberry.label>
-    <PlantStrawberry.description>A fragile but tasty fruit. Delicious even when raw.</PlantStrawberry.description>
+    <PlantStrawberry.label>jordubbsplanta</PlantStrawberry.label>
+    <PlantStrawberry.description>En bräcklig men välsmakande frukt. Läcker även rå.</PlantStrawberry.description>
     
-    <PlantHaygrass.label>haygrass</PlantHaygrass.label>
-    <PlantHaygrass.description>A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.</PlantHaygrass.description>
+    <PlantHaygrass.label>högräs</PlantHaygrass.label>
+    <PlantHaygrass.description>En blandning av näringsrikt gräs som ger stora mängder hö. Hö är ätlig för djur, men inte för människor.</PlantHaygrass.description>
     
 	
 	<!-- Production crops -->
 	
-    <PlantCotton.label>cotton plant</PlantCotton.label>
-    <PlantCotton.description>Yields cotton, a fine plant fiber used to make cloth.</PlantCotton.description>
+    <PlantCotton.label>bomullsplanta</PlantCotton.label>
+    <PlantCotton.description>Ger bomull, ett fint växtfibrer används för att göra tyg.</PlantCotton.description>
     
-    <PlantDevilstrand.label>devilstrand</PlantDevilstrand.label>
-    <PlantDevilstrand.description>This fragile mushroom was genetically engineered to produce a silk net of the highest grade. Long rumored to have mystical properties, it owes its name to the greed it inspires in people.</PlantDevilstrand.description>
+    <PlantDevilstrand.label>djävulshår</PlantDevilstrand.label>
+    <PlantDevilstrand.description>Denna bräckliga svamp genetiskt framtagen för att producera en siden av högsta kvalitet. Länge ryktades den ha mystiska egenskaper med den har förtjänat sitt namn på grund av girighet det inspirerar i folk.</PlantDevilstrand.description>
     
-    <PlantHealroot.label>healroot</PlantHealroot.label>
-    <PlantHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</PlantHealroot.description>
+    <PlantHealroot.label>helande rötter</PlantHealroot.label>
+    <PlantHealroot.description>En långsamt växande planta som ger örtmedicin när den skördats.\n\nHhelande rötter har selektivt blivit uppfödd av århundraden av bosättare. Den har ibland också kallas "helarens hand" av stamfolk - ett smeknamn man är skyldig till dess fem stora medecina dygder.</PlantHealroot.description>
     
 	
 	<!-- Drug crops -->
 	
-    <PlantHops.label>hop plant</PlantHops.label>
-    <PlantHops.description>A flowering plant that yields hops, and essential ingredient in beer.</PlantHops.description>
+    <PlantHops.label>humleplanta</PlantHops.label>
+    <PlantHops.description>En blommande växt som ger humle, och viktig ingrediens i öl.</PlantHops.description>
     
-    <PlantPsychoid.label>psychoid plant</PlantPsychoid.label>
-    <PlantPsychoid.description>A leafy plant. Its leaves can be refined into various forms of the psychoid drug.</PlantPsychoid.description>
+    <PlantPsychoid.label>psychitplanta</PlantPsychoid.label>
+    <PlantPsychoid.description>En lummig planta. Löven kan förädlas till olika former av psychitläkemedel.</PlantPsychoid.description>
     
-    <PlantSmokeleaf.label>smokeleaf plant</PlantSmokeleaf.label>
-    <PlantSmokeleaf.description>A leafy plant cultivated for its psychological effects. Smokeleaf leaves can be prepared into joints at the crafting spot.</PlantSmokeleaf.description>
+    <PlantSmokeleaf.label>rökbladsplanta</PlantSmokeleaf.label>
+    <PlantSmokeleaf.description>En lövrik växt som odlas för sina psykologiska effekter. Rökbladslöven kan rulla till en join vid en tillverkningsplats.</PlantSmokeleaf.description>
     
 	
 </LanguageData>

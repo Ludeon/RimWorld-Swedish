@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PlantRose.label>rose</PlantRose.label>
-    <PlantRose.description>A beautiful cultivated flower, symbolic of love and romance since ancient times.</PlantRose.description>
+    <PlantRose.label>ros</PlantRose.label>
+    <PlantRose.description>En vacker odlad blomma, en symbol för kärlek och romantik sedan urminnes tider.</PlantRose.description>
     
-    <PlantDaylily.label>daylily</PlantDaylily.label>
-    <PlantDaylily.description>A beautiful cultivated flower - great for brightening up a drab yard. Must be replanted often.</PlantDaylily.description>
+    <PlantDaylily.label>daglilja</PlantDaylily.label>
+    <PlantDaylily.description>En vacker odlad blomma - perfekt för att piggar upp en dyster utegård. Måste omplanteras ofta.</PlantDaylily.description>
     
 	
 </LanguageData>

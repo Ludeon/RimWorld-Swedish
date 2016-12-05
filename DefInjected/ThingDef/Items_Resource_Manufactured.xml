@@ -3,32 +3,32 @@
     
     <!-- Medicine -->
 
-    <HerbalMedicine.label>herbal medicine</HerbalMedicine.label>
-    <HerbalMedicine.description>A pack of herbal concoctions typically extracted from the healroot plant. Less potent than industrial pharmaceuticals, but much better than nothing.</HerbalMedicine.description>
+    <HerbalMedicine.label>örtmedicin</HerbalMedicine.label>
+    <HerbalMedicine.description>Ett paket av växtbaserade hopkok typiskt extraheras från helande rötter. Mindre potent än industriläkemedel men mycket bättre än ingenting.</HerbalMedicine.description>
 
-    <Medicine.label>medicine</Medicine.label>
-    <Medicine.description>Medical staff use these supplies to heal the wounded.</Medicine.description>
+    <Medicine.label>medicin</Medicine.label>
+    <Medicine.description>Medicinska personalen använder dessa paket att läka de sårade.</Medicine.description>
 
-    <GlitterworldMedicine.label>glitterworld medicine</GlitterworldMedicine.label>
-    <GlitterworldMedicine.description>Advanced medical supplies from a high-tech glitterworld.</GlitterworldMedicine.description>
+    <GlitterworldMedicine.label>glitterväldsmedicin</GlitterworldMedicine.label>
+    <GlitterworldMedicine.description>Avancerade medicinska förnödenheter från ett högteknologiskt glitterväld.</GlitterworldMedicine.description>
 
 
     <!-- Shells -->
 
-    <ArtilleryShell.label>artillery shell</ArtilleryShell.label>
-    <ArtilleryShell.description>Fired from artillery cannons.</ArtilleryShell.description>
+    <ArtilleryShell.label>artillerigranat</ArtilleryShell.label>
+    <ArtilleryShell.description>Skjuts från artillerikanoner.</ArtilleryShell.description>
 
 
     <!-- Component -->
 
-    <Component.label>component</Component.label>
-    <Component.description>Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.</Component.description>
+    <Component.label>komponenter</Component.label>
+    <Component.description>Diverse kugghjul, kondensatorer, kretskort, rör, hjul, sensorer, kablar, chips, processorer och andra elektroniska och industriella delar. Nödvändig för montering komplexa maskiner eller elektronik.</Component.description>
 
 
     <!-- Neutroamine -->
 
-    <Neutroamine.label>neutroamine</Neutroamine.label>
-    <Neutroamine.description>A synthetic precursor chemical. Useless on its own, many drugs require neutroamine as an ingredient.</Neutroamine.description>
+    <Neutroamine.label>neutroamin</Neutroamine.label>
+    <Neutroamine.description>En syntetisk prekursur kemikalie. Värdelös för sig själv men många läkemedel kräver neutroamine som en ingrediens.</Neutroamine.description>
 
     
 </LanguageData>

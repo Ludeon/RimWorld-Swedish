@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <AccuracyTouch.label>Accuracy (touch)</AccuracyTouch.label>
-    <AccuracyTouch.description>Accuracy multiplier at touch range.</AccuracyTouch.description>
+    <AccuracyTouch.label>Träffsäkerhet (närstrid)</AccuracyTouch.label>
+    <AccuracyTouch.description>Träffsäkerhet multiplikator vid närstridsavstånd.</AccuracyTouch.description>
     
-    <AccuracyShort.label>Accuracy (short)</AccuracyShort.label>
-    <AccuracyShort.description>Accuracy multiplier at short range.</AccuracyShort.description>
+    <AccuracyShort.label>Träffsäkerhet (kort)</AccuracyShort.label>
+    <AccuracyShort.description>Träffsäkerhet multiplikator vid kort avstånd.</AccuracyShort.description>
     
-    <AccuracyMedium.label>Accuracy (medium)</AccuracyMedium.label>
-    <AccuracyMedium.description>Accuracy multiplier at medium range.</AccuracyMedium.description>
+    <AccuracyMedium.label>Träffsäkerhet (medel)</AccuracyMedium.label>
+    <AccuracyMedium.description>Träffsäkerhet multiplikator vid medelavstånd.</AccuracyMedium.description>
     
-    <AccuracyLong.label>Accuracy (long)</AccuracyLong.label>
-    <AccuracyLong.description>Accuracy multiplier at long range.</AccuracyLong.description>
+    <AccuracyLong.label>Träffsäkerhet (lång)</AccuracyLong.label>
+    <AccuracyLong.description>Träffsäkerhet multiplikator vid långt avstånd.</AccuracyLong.description>
     
-    <RangedWeapon_Cooldown.label>ranged cooldown</RangedWeapon_Cooldown.label>
-    <RangedWeapon_Cooldown.description>How long it takes to recover after firing this weapon.</RangedWeapon_Cooldown.description>
+    <RangedWeapon_Cooldown.label>skytteårethämtning</RangedWeapon_Cooldown.label>
+    <RangedWeapon_Cooldown.description>Hur lång tid det tar att återhämta sig efter att ha skjutit med detta vapen.</RangedWeapon_Cooldown.description>
     
+	
 </LanguageData>

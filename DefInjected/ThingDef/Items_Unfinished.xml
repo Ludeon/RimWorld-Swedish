@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <UnfinishedSculpture.label>Unfinished sculpture</UnfinishedSculpture.label>
-    <UnfinishedGun.label>Unfinished gun</UnfinishedGun.label>
-    <UnfinishedWeapon.label>Unfinished weapon</UnfinishedWeapon.label>
-    <UnfinishedTechArmor.label>Unfinished armor</UnfinishedTechArmor.label>
-    <UnfinishedApparel.label>Unfinished apparel</UnfinishedApparel.label>
-    <UnfinishedComponent.label>unfinished component</UnfinishedComponent.label>
+    <UnfinishedSculpture.label>ofärdig skulptur</UnfinishedSculpture.label>
+    <UnfinishedGun.label>ofärdig pistol</UnfinishedGun.label>
+    <UnfinishedWeapon.label>ofärdigt vapen</UnfinishedWeapon.label>
+    <UnfinishedTechArmor.label>ofärdig rustning</UnfinishedTechArmor.label>
+    <UnfinishedApparel.label>ofärdiga kläder</UnfinishedApparel.label>
+    <UnfinishedComponent.label>ofrädig komponent</UnfinishedComponent.label>
     
 	
 	<!-- Minified things -->
 	
-    <MinifiedSculpture.label>Sculpture</MinifiedSculpture.label>
-    <MinifiedFurniture.label>Furniture</MinifiedFurniture.label>
+    <MinifiedSculpture.label>skulptur</MinifiedSculpture.label>
+    <MinifiedFurniture.label>möbel</MinifiedFurniture.label>
     
 	
 </LanguageData>

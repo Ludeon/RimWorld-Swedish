@@ -2,21 +2,14 @@
 <LanguageData>
     
     <Sand.label>Sand</Sand.label>
-    
     <Soil.label>Jord</Soil.label>
-    
-    <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
-    
-    <SoilRich.label>Bördig jord</SoilRich.label>
-    
-    <Mud.label>mud</Mud.label>
-    
-    <Marsh.label>marsh</Marsh.label>
-    
-    <Gravel.label>Grus</Gravel.label>
-    
-    <MossyTerrain.label>lichen-covered dirt</MossyTerrain.label>
-    
-    <Ice.label>Ice</Ice.label>
+    <MarshyTerrain.label>träskmark</MarshyTerrain.label>
+    <SoilRich.label>bördig jord</SoilRich.label>
+    <Mud.label>lera</Mud.label>
+    <Marsh.label>sumpmark</Marsh.label>
+    <Gravel.label>grus</Gravel.label>
+    <MossyTerrain.label>lavtäckt mark</MossyTerrain.label>
+    <Ice.label>Is</Ice.label>
+
     
 </LanguageData>

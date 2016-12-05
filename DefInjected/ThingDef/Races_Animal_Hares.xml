@@ -2,24 +2,23 @@
 <LanguageData>
     
     <Hare.label>hare</Hare.label>
-    <Hare.description>This small, solitary herbivore can swiftly hop away from danger.</Hare.description>
-    <Hare_Leather.label>hare leather</Hare_Leather.label>
-    <Hare_Leather.description>hare leather</Hare_Leather.description>
-    <Hare_Leather.stuffProps.stuffAdjective>hare leather</Hare_Leather.stuffProps.stuffAdjective>
-    <Hare_Meat.label>hare meat</Hare_Meat.label>
-    <Hare_Meat.description>hare meat</Hare_Meat.description>
-    <Hare_Corpse.label>hare corpse</Hare_Corpse.label>
-    <Hare_Corpse.description>hare corpse</Hare_Corpse.description>
+    <Hare.description>Detta lilla ensamma växtätare kan snabbt hoppa iväg från fara.</Hare.description>
+    <Hare_Leather.label>harskinn</Hare_Leather.label>
+    <Hare_Leather.description>harskinn</Hare_Leather.description>
+    <Hare_Leather.stuffProps.stuffAdjective>harskinn</Hare_Leather.stuffProps.stuffAdjective>
+    <Hare_Meat.label>harkött</Hare_Meat.label>
+    <Hare_Meat.description>harkött</Hare_Meat.description>
+    <Hare_Corpse.label>harkropp</Hare_Corpse.label>
+    <Hare_Corpse.description>harkropp</Hare_Corpse.description>
 
-    <Snowhare.label>snowhare</Snowhare.label>
-    <Snowhare.description>This hardy, animal survives the brutal winters of the north by burrowing through snow and finding prey underneath, or hibernating the worst months away.</Snowhare.description>
-    <Snowhare_Leather.label>snowhare leather</Snowhare_Leather.label>
-    <Snowhare_Leather.description>snowhare leather</Snowhare_Leather.description>
-    <Snowhare_Leather.stuffProps.stuffAdjective>snowhare leather</Snowhare_Leather.stuffProps.stuffAdjective>
-  
+    <Snowhare.label>snöhare</Snowhare.label>
+    <Snowhare.description>Detta härdiga djur överlever de brutala vintrar i norr genom att tunnla genom snön för att finna byte eller hibernerar bort de värsta månaderna.</Snowhare.description>
+    <Snowhare_Leather.label>snöhareskinn</Snowhare_Leather.label>
+    <Snowhare_Leather.description>snöhareskinn</Snowhare_Leather.description>
+    <Snowhare_Leather.stuffProps.stuffAdjective>snöhareskinn</Snowhare_Leather.stuffProps.stuffAdjective>
     <!-- Use Meat From: Hare -->
-  
-    <Snowhare_Corpse.label>snowhare corpse</Snowhare_Corpse.label>
-    <Snowhare_Corpse.description>snowhare corpse</Snowhare_Corpse.description>
+    <Snowhare_Corpse.label>snöharekropp</Snowhare_Corpse.label>
+    <Snowhare_Corpse.description>snöharekropp</Snowhare_Corpse.description>
+	
     
 </LanguageData>

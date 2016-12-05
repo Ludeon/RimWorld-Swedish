@@ -2,9 +2,9 @@
 <LanguageData>
     
     <Yayo.label>yayo</Yayo.label>
-    <Yayo.description>A fine white powder snorted to produce a euphoric high. Yayo reducing the user's need for rest, and suppresses pain. It is, however, addictive.</Yayo.description>
-    <Yayo.ingestible.ingestCommandString>Snort {0}</Yayo.ingestible.ingestCommandString>
-    <Yayo.ingestible.ingestReportString>Snorting {0}.</Yayo.ingestible.ingestReportString>
+    <Yayo.description>Ett fint vitt pulver man snortar för att skapa ett euforisk tillstånd. Yayo minska användarens behov av vila, och undertrycker smärta. Det är emellertid beroendeframkallande.</Yayo.description>
+    <Yayo.ingestible.ingestCommandString>Snorta {0}</Yayo.ingestible.ingestCommandString>
+    <Yayo.ingestible.ingestReportString>Snortar {0}.</Yayo.ingestible.ingestReportString>
 	
 	
 </LanguageData>

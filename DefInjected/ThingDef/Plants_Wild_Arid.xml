@@ -4,15 +4,15 @@
 	<!-- Wild - clustering bushes (some harvestable) -->
 	
     <PlantAgave.label>agave</PlantAgave.label>
-    <PlantAgave.description>A large-leafed desert plant with edible flowers and stalks.</PlantAgave.description>
+    <PlantAgave.description>En stor-bladad ökenväxt med ätbara blommor och stjälkar.</PlantAgave.description>
     
 	
 	<!-- Wild - Cacti -->
 	
-    <PlantSaguaroCactus.label>saguaro cactus</PlantSaguaroCactus.label>
-    <PlantSaguaroCactus.description>A large cactus native to arid Earth environments.</PlantSaguaroCactus.description>
+    <PlantSaguaroCactus.label>saguarokaktus</PlantSaguaroCactus.label>
+    <PlantSaguaroCactus.description>En stor kaktus utvecklad för torra miljöer.</PlantSaguaroCactus.description>
     
-    <PlantPincushionCactus.label>pincushion cactus</PlantPincushionCactus.label>
-    <PlantPincushionCactus.description>A short cactus. So named because it resembles a pincushion.</PlantPincushionCactus.description>
+    <PlantPincushionCactus.label>nåldynekaktus</PlantPincushionCactus.label>
+    <PlantPincushionCactus.description>En kort kaktus. namngiven eftersom den liknar en nåldyna.</PlantPincushionCactus.description>
     
 </LanguageData>

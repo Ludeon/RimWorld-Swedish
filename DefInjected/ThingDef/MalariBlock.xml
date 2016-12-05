@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MalariBlock.label>malari-block</MalariBlock.label>
-    <MalariBlock.description>A drug for blocking malaria. Take every five days to keep malaria away.</MalariBlock.description>
-    <MalariBlock.ingestible.ingestCommandString>Take {0}</MalariBlock.ingestible.ingestCommandString>
-    <MalariBlock.ingestible.ingestReportString>Taking {0}.</MalariBlock.ingestible.ingestReportString>
+    <MalariBlock.label>malaria-block</MalariBlock.label>
+    <MalariBlock.description>Ett läkemedel för att blockera malaria. Ta ett piller var femte dag för att hålla malaria borta.</MalariBlock.description>
+    <MalariBlock.ingestible.ingestCommandString>Ta {0}</MalariBlock.ingestible.ingestCommandString>
+    <MalariBlock.ingestible.ingestReportString>Tar {0}.</MalariBlock.ingestible.ingestReportString>
 	
 
 </LanguageData>

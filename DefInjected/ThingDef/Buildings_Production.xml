@@ -1,79 +1,82 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <CraftingSpot.label>crafting spot</CraftingSpot.label>
-    <CraftingSpot.description>A place for crafting simple things like shivs or bows.</CraftingSpot.description>
+    <CraftingSpot.label>tillverkningsplats</CraftingSpot.label>
+    <CraftingSpot.description>En plats för tillverka enkla saker som provisoriska knivar eller bågar.</CraftingSpot.description>
+	
 	
 	<!-- Work tables -->
     
-    <TableSculpting.label>sculptor's table</TableSculpting.label>
-    <TableSculpting.description>A workbench equipped for artistic sculpting.</TableSculpting.description>
+    <TableSculpting.label>skulptörbord</TableSculpting.label>
+    <TableSculpting.description>En arbetsbänk utrustad för att konstnärligt skulptera.</TableSculpting.description>
     
-    <TableButcher.label>Slaktbord</TableButcher.label>
+    <TableButcher.label>slaktbord</TableButcher.label>
     <TableButcher.description>Ett tungt bord till för att slakta döda varelser och utvinna råa köttbitar.</TableButcher.description>
     
-    <HandTailoringBench.label>hand-tailoring bench</HandTailoringBench.label>
-    <HandTailoringBench.description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.description>
+    <HandTailoringBench.label>handarbetesbänk</HandTailoringBench.label>
+    <HandTailoringBench.description>En arbetsbänk för att skräddarsy kläder för hand. Arbetet sker till 40% av hastigheten till skillnad mot en elektrisk symaskinsbänk.</HandTailoringBench.description>
     
-    <ElectricTailoringBench.label>electric tailoring bench</ElectricTailoringBench.label>
-    <ElectricTailoringBench.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.description>
+    <ElectricTailoringBench.label>elektrisk symaskinsbänk</ElectricTailoringBench.label>
+    <ElectricTailoringBench.description>En arbetsbänk med en symaskin för snabb sömnad av kläder. Kan arbeta utan el vid 40% av normal hastighet.</ElectricTailoringBench.description>
     
-    <FueledSmithy.label>fueled smithy</FueledSmithy.label>
-    <FueledSmithy.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+    <FueledSmithy.label>vedeldad smedja</FueledSmithy.label>
+    <FueledSmithy.description>En vedeldad smedja utrustad för smide av icke-mekaniska vapen och verktyg.</FueledSmithy.description>
     
-    <ElectricSmithy.label>electric smithy</ElectricSmithy.label>
-    <ElectricSmithy.description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.description>
+    <ElectricSmithy.label>elektrisk smedja</ElectricSmithy.label>
+    <ElectricSmithy.description>En eldriven smedja utrustad för smide av icke-mekaniska vapen och verktyg.</ElectricSmithy.description>
     
-    <TableMachining.label>Maskinbearbetningsbord</TableMachining.label>
-    <TableMachining.description>Ett bord och verktyg för att sätta ihop och plocka isär maskinkomponenter.</TableMachining.description>
+    <TableMachining.label>maskinbearbetningsbord</TableMachining.label>
+    <TableMachining.description>En arbetsstation för montering och demontering av maskiner såsom vapen eller mekanoidkroppar.</TableMachining.description>
     
-    <ElectricStove.label>electric stove</ElectricStove.label>
-    <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
+    <ElectricStove.label>elektrisk spis</ElectricStove.label>
+    <ElectricStove.description>En eldriven spis med en bifogad bänkskivan för att förbereda måltider.</ElectricStove.description>
     
-    <FueledStove.label>fueled stove</FueledStove.label>
-    <FueledStove.description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+    <FueledStove.label>vedeldad spis</FueledStove.label>
+    <FueledStove.description>En enkel vedeldade spis med en bifogad bänkskivan för att förbereda måltider.</FueledStove.description>
     
-    <TableStonecutter.label>Stenhuggningsbord</TableStonecutter.label>
+    <TableStonecutter.label>stenhuggningsbord</TableStonecutter.label>
     <TableStonecutter.description>En arbetsbänk utrustad för att hugga användbara block ur grov sten.</TableStonecutter.description>
     
-    <Brewery.label>brewery</Brewery.label>
-    <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
+    <Brewery.label>bryggeri</Brewery.label>
+    <Brewery.description>En arbetsstation med all den utrustning som behövs för att brygga öl.</Brewery.description>
     
-    <DrugLab.label>drug lab</DrugLab.label>
-    <DrugLab.description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.description>
+    <DrugLab.label>droglabb</DrugLab.label>
+    <DrugLab.description>En arbetsbänk utrustad med olika behållare, värmare, och mätutrustning för att producera en mängd olika läkemedel och droger.</DrugLab.description>
     
-    <ElectricSmelter.label>electric smelter</ElectricSmelter.label>
-    <ElectricSmelter.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.description>
+    <ElectricSmelter.label>elektrisk smältugn</ElectricSmelter.label>
+    <ElectricSmelter.description>Extraherar användbara metall från slagg bitar och andra blandade metallföremål. Förbrukar mycket ström.</ElectricSmelter.description>
     
-    <ComponentAssemblyBench.label>component assembly bench</ComponentAssemblyBench.label>
-    <ComponentAssemblyBench.description>A workbench equipped with advanced tools for producing components from simpler materials.</ComponentAssemblyBench.description>
+    <ComponentAssemblyBench.label>komponentmonteringsbänk</ComponentAssemblyBench.label>
+    <ComponentAssemblyBench.description>En arbetsbänk utrustad med avancerade verktyg för produktion av komponenter från enklare material.</ComponentAssemblyBench.description>
+	
     
 	<!-- Non-standard work buildings -->
 	
-    <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>
-    <SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>
+    <SimpleResearchBench.label>enkel forskarsbänk</SimpleResearchBench.label>
+    <SimpleResearchBench.description>En enkel bänk med skrivdon och lågteknologiska vetenskapliga verktyg. Forskare arbetar här för att upptäcka nya saker.</SimpleResearchBench.description>
     
-    <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>
-    <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>
+    <HiTechResearchBench.label>högteknologisk forskarsbänk</HiTechResearchBench.label>
+    <HiTechResearchBench.description>En högteknologisk bänk med datorer och elektronisk mätutrustning. Forskningen påskyndas av högteknologiska verktyg. Kräver ström.</HiTechResearchBench.description>
     
-    <ElectricCrematorium.label>electric crematorium</ElectricCrematorium.label>
-    <ElectricCrematorium.description>Cremates corpses. Electrically-powered.</ElectricCrematorium.description>
+    <ElectricCrematorium.label>elektrisk krematorie</ElectricCrematorium.label>
+    <ElectricCrematorium.description>Kremerar kroppar. Eldriven.</ElectricCrematorium.description>
     
-    <HydroponicsBasin.label>Hydrokultursbassäng</HydroponicsBasin.label>
-    <HydroponicsBasin.description>Till för att odla mat. Hydrokultursbassänger kan snabbt odla ett fåtal plantor.</HydroponicsBasin.description>
+    <HydroponicsBasin.label>hydrokultursbassäng</HydroponicsBasin.label>
+    <HydroponicsBasin.description>Till för att odla mat. Hydrokultursbassänger kan snabbt odla ett fåtal plantor. Kräver ström, växter kommer att dö om strömmen bryts.</HydroponicsBasin.description>
     
-    <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
-    <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+    <FermentingBarrel.label>jäsningsfat</FermentingBarrel.label>
+    <FermentingBarrel.description>Ett fat för jäsning av rå vört till öl.</FermentingBarrel.description>
     
-    <DeepDrill.label>deep drill</DeepDrill.label>
-    <DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill.description>
+    <DeepDrill.label>djupborr</DeepDrill.label>
+    <DeepDrill.description>En djup borrigg för att utvinna mineraler från djupt under marken. Använda ett markpenetrerande scanner att detektera resurser.</DeepDrill.description>
     
+	
 	<!-- Nutrient dispenser -->
 	
-    <NutrientPasteDispenser.label>Näringsmassmaskin</NutrientPasteDispenser.label>
-    <NutrientPasteDispenser.description>Syntetiserar näringsmassa från organiska råvaror.</NutrientPasteDispenser.description>
+    <NutrientPasteDispenser.label>näringsmassmaskin</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.description>Syntetiserar näringsmassa från organiska råvaror. Den förbrukar mindre ingredienser och tid än någon annan måltid produktionsmetoden - men ingen gillar att äta näringsmassa. Accepterar rå mat, men inte grov växtmaterial såsom hö.</NutrientPasteDispenser.description>
     
-    <Hopper.label>Silo</Hopper.label>
+    <Hopper.label>silo</Hopper.label>
     <Hopper.description>Behållare för resurser som används av t.ex näringsmassmaskiner.</Hopper.description>
     
 </LanguageData>

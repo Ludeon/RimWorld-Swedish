@@ -3,23 +3,26 @@
     
 	<!-- AI persona core -->
 	
-    <AIPersonaCore.label>AI-personekärna</AIPersonaCore.label>
+    <AIPersonaCore.label>AI-personkärna</AIPersonaCore.label>
     <AIPersonaCore.description>En hyperavancerad datorkärna som innehåller en övermänsklig artificiell intelligens. I dess isolerade tillstånd är kärnan inaktiv. Installerad i en ordentlig stödstruktur däremot, kan den bli ett sinne med skrämmande kraft.</AIPersonaCore.description>
     
+	
 	<!-- Neurotrainer -->
 	
-    <Neurotrainer.label>neurotrainer</Neurotrainer.label>
-    <Neurotrainer.description>A one-use nanotech trainer device. The neurotrainer is inserted through the orbit of the eye and releases nanomachines into the subject's brain, quickly improving their skills in a specific area.</Neurotrainer.description>
-    <Neurotrainer.comps.1.useLabel>Use neurotrainer to learn {0}</Neurotrainer.comps.1.useLabel>
+    <Neurotrainer.label>neurotränare</Neurotrainer.label>
+    <Neurotrainer.description>En engångs nanoträningsenhet. Neurotränaren förs in genom ögonbanan och släpper nanomaskiner in i patientens hjärna som snabbt kan förbättra sina färdigheter inom ett visst område.</Neurotrainer.description>
+    <Neurotrainer.comps.1.useLabel>Använd neurotränare för att lära dig {0}</Neurotrainer.comps.1.useLabel>
+	
 	
 	<!-- Thrumbo horn -->
 	
-    <ThrumboHorn.label>thrumbo horn</ThrumboHorn.label>
-    <ThrumboHorn.description>A thrumbo's horn. It's razor-sharp, very hard and priceless in most markets. This is a true trophy.</ThrumboHorn.description>
+    <ThrumboHorn.label>thrumbohorn</ThrumboHorn.label>
+    <ThrumboHorn.description>En thrumbo's horn. Det är knivskarp, mycket hårt och ovärderliga på de flesta marknader. Detta är en sann trofé.</ThrumboHorn.description>
     
+	
 	<!-- Elephant tusk -->
 	
-    <ElephantTusk.label>elephant tusk</ElephantTusk.label>
-    <ElephantTusk.description>An elephant's tusk. Very durable and valuable. Deadly but somewhat unwieldy as a weapon.</ElephantTusk.description>
+    <ElephantTusk.label>elefantbete</ElephantTusk.label>
+    <ElephantTusk.description>En elefantbete. Mycket slitstark och värdefullt. Dödliga men något otymplig som ett vapen.</ElephantTusk.description>
     
 </LanguageData>

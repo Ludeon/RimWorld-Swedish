@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <RecruitPrisonerChance.label>recruit prisoner chance</RecruitPrisonerChance.label>
-    <RecruitPrisonerChance.description>Base chance this person will recruit a prisoner.</RecruitPrisonerChance.description>
+    <RecruitPrisonerChance.label>chans att rekrytera fånge</RecruitPrisonerChance.label>
+    <RecruitPrisonerChance.description>Baschans den här personen har för att rekrytera en fånge.</RecruitPrisonerChance.description>
     
-    <TameAnimalChance.label>tame animal chance</TameAnimalChance.label>
-    <TameAnimalChance.description>Base chance this person will tame an animal.</TameAnimalChance.description>
+    <TameAnimalChance.label>chans att tämja ett djur</TameAnimalChance.label>
+    <TameAnimalChance.description>Baschans den här personen har för att tämja ett djur.</TameAnimalChance.description>
     
-    <TrainAnimalChance.label>train animal chance</TrainAnimalChance.label>
-    <TrainAnimalChance.description>Base chance this person will make progress training an animal on a given attempt. May change based on the animal.</TrainAnimalChance.description>
+    <TrainAnimalChance.label>chans att träna ett djur</TrainAnimalChance.label>
+    <TrainAnimalChance.description>Baschans den här personen har för göra framsteg i att träna ett djur vid ett givet försök. kan ändras beroende på djuret.</TrainAnimalChance.description>
     
-    <SocialImpact.label>social chat impact</SocialImpact.label>
-    <SocialImpact.description>Social interaktion har {0}%s påverkan på humör.</SocialImpact.description>
+    <SocialImpact.label>inverkan på social interaktion</SocialImpact.label>
+    <SocialImpact.description>När denne interagerar socialt, är detta hur mycket den andra personen påverkas.</SocialImpact.description>
     
-    <GiftImpact.label>diplomatic gift impact</GiftImpact.label>
-    <GiftImpact.description>Gåvor har {0}%s påverkan på grupprelationer.</GiftImpact.description>
+    <GiftImpact.label>inverkan på diplomatisk gåva</GiftImpact.label>
+    <GiftImpact.description>När den här personen ger gåvor till en annan fraktion, är denna multiplikator på deras inverkan på fraktionens relationer.</GiftImpact.description>
     
-    <TradePriceImprovement.label>trade price improvement</TradePriceImprovement.label>
-    <TradePriceImprovement.description>Handelspriser är {0}% bättre vid både inköp och försäljning.</TradePriceImprovement.description>
+    <TradePriceImprovement.label>förbättring på handelspriset</TradePriceImprovement.label>
+    <TradePriceImprovement.description>När denne förhandlar priser, köp- och säljkurser förbättras det av denna procentsats.</TradePriceImprovement.description>
+	
     
 </LanguageData>

@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <AllowCorpsesColonist.label>Tillåt kolonisters kroppar</AllowCorpsesColonist.label>
+    <AllowCorpsesColonist.label>tillåt kolonisters kroppar</AllowCorpsesColonist.label>
     <AllowCorpsesColonist.description>Tillåt döda före detta kolonister.</AllowCorpsesColonist.description>
     
-    <AllowCorpsesStranger.label>Tillåt främlingars kroppar</AllowCorpsesStranger.label>
+    <AllowCorpsesStranger.label>tillåt främlingars kroppar</AllowCorpsesStranger.label>
     <AllowCorpsesStranger.description>Tillåt döda före detta främlingar och fiender.</AllowCorpsesStranger.description>
     
-    <AllowRotten.label>allow rotten</AllowRotten.label>
-    <AllowRotten.description>Allow organic things which have started to rot.</AllowRotten.description>
+    <AllowRotten.label>tillåt förruttnade saker</AllowRotten.label>
+    <AllowRotten.description>Tillåt organiska saker som har börjat ruttna.</AllowRotten.description>
     
-    <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
-    <AllowNonSmeltableWeapons.description>Allow weapons which can't be smelted.</AllowNonSmeltableWeapons.description>
+    <AllowNonSmeltableWeapons.label>tillåt ej smältbara</AllowNonSmeltableWeapons.label>
+    <AllowNonSmeltableWeapons.description>Tillåt vapen som ej kan smältas.</AllowNonSmeltableWeapons.description>
     
-    <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
-    <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
+    <AllowPlantFood.label>tillåt växtföda</AllowPlantFood.label>
+    <AllowPlantFood.description>Tillåt föda som är av samma typ som icke skördade växter, som hö.</AllowPlantFood.description>
     
+	
 </LanguageData>
