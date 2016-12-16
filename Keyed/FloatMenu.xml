@@ -8,6 +8,7 @@
   <CannotUseNoPath>Kan inte använda (ingen väg)</CannotUseNoPath>
   <CannotUseReserved>Kan inte använda (reserverad)</CannotUseReserved>
   <CannotUseFull>Kan inte använda (fullt)</CannotUseFull>
+  <LeaderUnavailable>ledare {0} är inte tillgänglig</LeaderUnavailable>
   
   <FireAt>Skjut mot {0}</FireAt>
 
@@ -25,6 +26,7 @@
 
   <ForbiddenLower>förbjuden</ForbiddenLower>
   <ForbiddenOutsideAllowedAreaLower>utanför tillåtet område</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>ej i hemområde</NotInHomeArea>
   <SociallyImproperLower>socialt olämpligt</SociallyImproperLower>
   <PrisonerRoomLower>fängelsesrum</PrisonerRoomLower>
   <BurningLower>brinner</BurningLower>
@@ -56,16 +58,17 @@
   <Rescue>Rädda {0}</Rescue>
   <CannotRescue>Kan inte rädda</CannotRescue>
 
-  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Bär {0} till kryposömnkapsel</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Kan inte bära till kryposömnkapsel</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
+  <NoCryptosleepCasket>Ingen tillgänglig kryptosömnkapsel.</NoCryptosleepCasket>
   <NoPrisonerBed>Ingen instängd fängelsesäng tillgänglig.</NoPrisonerBed>
   <NoNonPrisonerBed>Ingen icke-fängelsesäng tillgänglig.</NoNonPrisonerBed>
   <NoAnimalBed>Ingen nåbar, icke-reserverad djursäng.</NoAnimalBed>
   <Reserved>Reserverad av någon annan.</Reserved>
   <ReservedBy>Reserverad av {0}.</ReservedBy>
   <IsReservedBy>{0} är reserverad av {1}.</IsReservedBy>
+  <TooHeavy>För tung</TooHeavy>
 
   <Incapable>oförmögen</Incapable>
   <IncapableOfCapacity>oförmögen att {0}</IncapableOfCapacity>
@@ -80,11 +83,25 @@
   <CannotWear>Kan inte bära {0}</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>saknade kroppsdelar</CannotWearBecauseOfMissingBodyParts>
   
+  <CannotPickUp>Kan inte ta upp {0}</CannotPickUp>
+  <CannotPickUpAll>Kan inte ta upp {0} (allt)</CannotPickUpAll>
+  <PickUp>Ta upp {0}</PickUp>
+  <PickUpAll>Ta upp {0} (allt)</PickUpAll>
+  <PickUpSome>Ta upp {0}...</PickUpSome>
+  <PickUpCount>Ta upp {0} x{{0}}</PickUpCount>
+
+  <CannotGiveToPackAnimal>Kan inte lasta {0} på packdjur</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Kan inte lasta {0} (allt) på packdjur</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Lasta {0} på packdjur</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Lasta {0} (all) på packdjur</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Lasta {0} på packdjur...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>Lasta {0} x{{0}}</GiveToPackAnimalCount>
+
+  <CannotCarryToExit>Kan inte bära {0} och lämna området</CannotCarryToExit>
+  <CarryToExit>Bär {0} och lämna området</CarryToExit>
+  
   <Strip>Klä av {0}</Strip>
   <CannotStrip>Kan inte klä av {0}</CannotStrip>
-
-  <Deposit>Placera {0} i {1}</Deposit>
-  <CannotDeposit>Kan inte placera {0} i {1}</CannotDeposit>
 
   <SelfDestructHere>Självförstör här</SelfDestructHere>
   
@@ -96,6 +113,10 @@
   
   <TradeWith>Handla med {0}</TradeWith>
   <CannotTrade>Kan inte handla</CannotTrade>
+  
+  <EnterMap>Gå till {0}</EnterMap>
+  <VisitFactionBase>Besök {0}</VisitFactionBase>
+  <AttackFactionBase>Attackera {0}</AttackFactionBase>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Gå in i kryptosömnkista</EnterCryptosleepCasket>
@@ -120,5 +141,8 @@
   
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Prioritera {0} {1}</PrioritizeGeneric>
+  
+  <DropAtEdge>Släpp vid kanten</DropAtEdge>
+  <DropInCenter>Släpp vid centrum</DropInCenter>
   
 </LanguageData>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CommandForbiddenDesc>Förbjudet - kolonister kommer inte att interagera med detta.</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>Inte förbjudet - kolonister kommer att interagera med detta.</CommandNotForbiddenDesc>
+  <!-- Forbid -->
+  <CommandForbid>Förbjud</CommandForbid>
+  <CommandForbiddenDesc>Förbjudet - kolonister kommer inte att interagera med detta.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Inte förbjudet - kolonister kommer att interagera med detta.</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <CommandTogglePowerLabel>Växla ström</CommandTogglePowerLabel>
@@ -24,6 +26,9 @@
   <CommandUndraftLabel>Upphäv kommendering</CommandUndraftLabel>
   <CommandToggleDraftDesc>Växla Kommendering.\n\nKommenderade personer tar direkta order och slåss. De kommer inte arbeta, äta eller vila.</CommandToggleDraftDesc>
   <IsIncapped>{0} är handikappad.</IsIncapped>
+  
+  <CommandAllowFiringLabel>Tillåt elgivning</CommandAllowFiringLabel>
+  <CommandAllowFiringDesc>Växla tillåt elgivning.\n\nNär detta är inaktiverat kommer denna person inte automatiskt skjuta på avståndsmål. Detta påverkar inte närstrid.</CommandAllowFiringDesc>
 
   <CommandClearPrioritizedWork>Rensa prioriterat arbete</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>Rensar alla prioriterade uppgifter du har satt. Karaktären kommer gå tillbaka till sina vanliga, självstyrda, uppgifter.</CommandClearPrioritizedWorkDesc>
@@ -141,5 +146,86 @@
   <!-- Build copy -->
   <CommandBuildCopy>Bygg kopia</CommandBuildCopy>
   <CommandBuildCopyDesc>Bygg en kopia av den här byggnaden.</CommandBuildCopyDesc>
+  
+   <!-- Form caravan -->
+  <CommandFormCaravan>Forma karavan</CommandFormCaravan>
+  <CommandFormCaravanDesc>Forma en grupp av kolonisatörer som kan resa till nya områden. Kolonisterna kommer att samla in alla tilldelade föremål och medföljande djur, lämnar sitt nuvarande område, och invänta vidare order.</CommandFormCaravanDesc>
+
+  <!-- Reform caravan -->
+  <CommandReformCaravan>Återforma karavan</CommandReformCaravan>
+  <CommandReformCaravanDesc>Återforma en grupp av kolonisatörer. Kolonisterna kommer att lämna sitt nuvarande område och invänta vidare order.</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>Det finns fortfarande fiender i området.</CommandReformCaravanFailHostilePawns>
+
+  <!-- Split caravan -->
+  <CommandSplitCaravan>Dela</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>Dela denna karavan i två. Karavanerna kan senare slås samman tillbaka in en så länge som de är nära varandra.</CommandSplitCaravanDesc>
+
+  <!-- Merge caravan -->
+  <CommandMergeCaravans>Slå samman</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>Slå samman karavaner.</CommandMergeCaravansDesc>
+
+  <!-- Settle -->
+  <CommandSettle>Bosätt</CommandSettle>
+  <CommandSettleDesc>Bosätt dätta område. Dina kolonister går in i detta område och du kommer att kunna börja bygga ett nytt hem.</CommandSettleDesc>
+  <CommandSettleFailOtherWorldObjectsHere>Din karavan måste vara det enda föremålet i detta område på denna ruta för att bosätta sig i området.</CommandSettleFailOtherWorldObjectsHere>
+  <CommandSettleFailAlreadyHaveBase>Din fraktion kan bara ha en bas.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>Nått maximala antalet kolonier.</CommandSettleFailReachedMaximumNumberOfBases>
+
+  <!-- Abandon home -->
+  <CommandAbandonHome>Överge</CommandAbandonHome>
+  <CommandAbandonHomeDesc>Överge detta område. Området blir otillgängliga och du kommer inte att kunna återvända hit någonsin igen. Efter att du överge ditt hem, kommer du att kunna beordra en av dina karavaner att bosätta sig i ett nytt område.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>Alla dina kolonister är där.</CommandAbandonHomeFailAllColonistsThere>
+
+  <!-- Cancel forming caravan -->
+  <CommandCancelFormingCaravan>Avbryt forma karavan</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>Avbryt karavanbildningsprocessen.</CommandCancelFormingCaravanDesc>
+
+  <!-- Show map -->
+  <CommandShowMap>Zooma in</CommandShowMap>
+  <CommandShowMapDesc>Zooma in på detta område.</CommandShowMapDesc>
+
+  <!-- Trade -->
+  <CommandTrade>Handla</CommandTrade>
+  <CommandTradeDesc>Handla med den här fraktionen.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>Det finns inte någon medveten, inte bruten förhandlare.</CommandTradeFailNoNegotiator>
+
+  <!-- Take off -->
+  <CommandTakeOff>Skjut upp</CommandTakeOff>
+  <CommandTakeOffDesc>Stig ombord på fartyget och fly planeten.</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>Är du säker på att du vill starta fartyget?\n\nAlla i detta område kommer att fly planeten. Alla andra kommer att vara kvar.</CommandTakeOffConfirmation>
+
+  <!-- Set target fuel level -->
+  <CommandSetTargetFuelLevel>Ställ målbränslenivå</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>Ställ målbränslenivå. Kolonisterna kommer att försöka fylla detta till målbränslenivån.</CommandSetTargetFuelLevelDesc>
+
+  <!-- Cancel load -->
+  <CommandCancelLoad>Avbryta lastning</CommandCancelLoad>
+  <CommandCancelLoadDesc>Avbryt lastning av detta med personer eller föremål och mata ut allt som redan är lastat.</CommandCancelLoadDesc>
+
+  <!-- Launch group -->
+  <CommandLaunchGroup>Skjut iväg grupp</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>Initierar riktningsprocessen för att skjuta iväg en grupp transportkapslar. Nästa steg är att välja ett mål. Kapslarna kommer att flyga och landa tillsammans.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Vissa transportkapslar i denna grupp är inte anslutna till en tankningsport.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNoFuel>Några transportkapslar i denna grupp har ingen bränsle.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailUnderRoof>Några transportkapslar är under tak.</CommandLaunchGroupFailUnderRoof>
+
+  <!-- Load transporter -->
+  <CommandLoadTransporter>Lasta avfyringsgrupp av {0}</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>Definierar vald transportör(er) som en avfyringsgrupp. Öppnar dialogrutan lastning så att du kan bestämma vem och vad som ska lastas i.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Transportkapseln är inte ansluten till en bränslepåfyllningsport.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>Transportavfyraren har ingen bränsle.</CommandLoadTransporterFailNoFuel>
+
+  <!-- Select previous transporter -->
+  <CommandSelectPreviousTransporter>Välj föregående avfyringsgrupp</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>Välj föregående transportkapsel i denna avfyringsgrupp.</CommandSelectPreviousTransporterDesc>
+
+  <!-- Select all transporters -->
+  <CommandSelectAllTransporters>Välj avfyringsgrupp</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>Välj alla transportkapslar i denna avfyringsgrupp.</CommandSelectAllTransportersDesc>
+
+  <!-- Select next transporter -->
+  <CommandSelectNextTransporter>Välj nästa avfyringsgrupp</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>Välj nästa transportkapsel i denna avfyringsgrupp.</CommandSelectNextTransporterDesc>
+
   
 </LanguageData>

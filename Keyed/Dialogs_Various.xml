@@ -40,6 +40,7 @@
   <LoadingMap>Laddar karta</LoadingMap>
   <InitializingMap>Initialiserar karta</InitializingMap>
   <SpawningAllThings>Återskapar alla objekt</SpawningAllThings>
+  <SpawningColonists>Återskapar kolonister</SpawningColonists>
   
   <!-- Save/load -->
   <SaveGameButton>Spara</SaveGameButton>
@@ -59,10 +60,19 @@
   <ProblemSavingFile>Ett fel uppstod när filen {0} sparades:\n\n{1}</ProblemSavingFile>
   <LoadAnyway>Ladda ändå</LoadAnyway>
   
-  <!-- Colony naming-->
-  <NameColonyMessage>Det verkar som du kommer vara tvungen att stanna här ett tag. {0} föreslår att du ger kolonin ett namn.\n\nVad ska vi döpa den till?</NameColonyMessage>
-  <ColonyGainsName>Kolonin är numera känd som {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>Det namnet är ogiltigt.</ColonyNameIsInvalid>
+  <!-- Player faction naming -->
+  <NamePlayerFactionMessage>{0} föreslår att du ger din fraktion ett namn. Vad skall din fraktion heta?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>Din fraktion är numera känd som {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>Det namnet är ogiltigt.</PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <NamePlayerFactionBaseMessage>Det verkar som du kommer vara tvungen att stanna här ett tag. {0} föreslår att du ger din lokala kolonin ett namn.\n\nVad ska vi döpa den till?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>Den här kolonin är numera känd som {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>Det namnet är ogiltigt.</PlayerFactionBaseNameIsInvalid>
+
+  <!-- Player faction and faction base naming -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Det verkar som du kommer vara tvungen att stanna här ett tag. {0} föreslår också att du skall ge kolonin ett namn.Vad ska vi döpa den här lokala kolonin till?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>Din fraktion är numera känd som {0} och denna kolonin är numera känd som {1}.</PlayerFactionAndBaseGainsName>
 
   <!-- Renaming -->
   <NameIsInvalid>Ange ett giltigt namn.</NameIsInvalid>
@@ -203,12 +213,75 @@
   <NegotiatorTalkingImpaired>Din förhandlare {0} kan inte tala ordentligt på grund av sin dåliga hälsa.\n\nDetta kommer att påverka priserna.\n\nÖverväg att byta till en förhandlare som är friskare.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>Handelsmannen har inte tillräckligt med silver för att täcka sina kostnader. Fortsätt ändå?</ConfirmTraderShortFunds>
   <SortBy>Sortera efter</SortBy>
+  <TraderTypePrice>typ av handelsman</TraderTypePrice>
+  <Selling>säljer</Selling>
+  <Buying>köper</Buying>
+  <ItemSellPriceFactor>föremålts säljkursmultiplikator</ItemSellPriceFactor>
+  <DifficultyLevel>svårighetsgrad</DifficultyLevel>
+  <PostCurve>global post-processkurva</PostCurve>
+  <YourNegotiatorBonus>Din förhandlingsbonus</YourNegotiatorBonus>
+  <TradeWithFactionBaseBonus>Handel med fraktionens basbonus</TradeWithFactionBaseBonus>
+  <minimum>minst</minimum>
+  <FinalPrice>Slutgiltigt pris</FinalPrice>
+  <TradeMassUsageTooltip>Den totala viktutnyttjandet och viktkapaciteten.</TradeMassUsageTooltip>
   
+  <!-- Form caravan -->
+  <FormCaravan>Forma en karavan</FormCaravan>
+  <FormCaravanColonyThingCountTip>Hur många av dessa föremål kolonin har redo att ge till karavanen.</FormCaravanColonyThingCountTip>
+  <PawnsTab>Personer och djur</PawnsTab>
+  <ItemsTab>Föremål</ItemsTab>
+  <CaravanConfigTab>Konfiguration</CaravanConfigTab>
+  <CaravanMustHaveAtLeastOneColonist>Du måste tilldela minst en ej däckad kolonist.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>Det gick inte att hitta någon giltig utgång.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>Varning: några av de tilldelade kolonisterna inte kan nå utgången.</CaravanCouldNotFindReachableExitSpot>
+  <CaravanPawnIsUnreachable>{0} är onåbar av några av de tilldelade kolonisterna.</CaravanPawnIsUnreachable>
+  <CaravanItemIsUnreachableSingle>Ingen av de tilldelade koloniserna har möjlighet att nå {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>Ingen av de tilldelade kolonis kan nå {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>Karavanen är inte kunna bära så mycket.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>Nuvarande viktanvändning och viktkapacitet.\n\nViktanvändning innefattar den tilldelade karavanes varor samt kolonisatörernas nuvarande utrustning.\n\nDu kommer inte att kunna skicka karavanen om viktanvändningen överstiger kapaciteten.</CaravanMassUsageTooltip>
+  <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
+  <DaysWorthOfFoodInfo>{0} dagsransoner mat</DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>Ett ungefärligt antal dagar innan karavanen får slut på mat.\n\nDetta tar hänsyn till både människor och djur och visar det värsta scenariot. Detta innebär att efter detta antal dagar kommer åtminstone en person eller ett djur vara utan mat.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodWarningDialog>Karavanen har endast {0} dagar med mat och kommer bli hungriga mycket snabbt.\n\nÄr du säker på att du vill bilda denna karavanen?</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>Din karavan har ingen mat med sig och kommer bli hungriga väldigt snabbt.\n\nÄr du säker på att du vill bilda denna karavanen?</DaysWorthOfFoodWarningDialog_NoFood>
+  <NoExitDirectionForCaravanChosen>Du måste välja en utgångsriktning för karavanen.</NoExitDirectionForCaravanChosen>
+  <NoCaravanExitDirectionAvailable>(Ingen utgångsriktning tillgänglig)</NoCaravanExitDirectionAvailable>
+  <ExitDirection>Utgångsriktning</ExitDirection>
+  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+  <ItemWeightTip>Föremålets vikt.</ItemWeightTip>
+  <MarketValueTip>Marknadsvärde</MarketValueTip>
+  <MassCapacity>Viktkapacitet</MassCapacity>
+  <Mass>Vikt</Mass>
+  <EquipmentAndApparelMass>Utrustning och kläders vikt</EquipmentAndApparelMass>
+  <InventoryMass>Utrustningsvikt</InventoryMass>
+  <CaravanFormationProcessStarted>Dina kolonister kommer nu att ta de tilldelade föremålen och lämna området så fort som möjligt.</CaravanFormationProcessStarted>
+  <ReformCaravan>Återskapa karavan</ReformCaravan>
+  <ColonistsSection>Kolonister</ColonistsSection>
+  <PrisonersSection>Fångar</PrisonersSection>
+  <AnimalsSection>Sjur</AnimalsSection>
+
+  <!-- Split caravan -->
+  <SplitCaravan>Dela karavan</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>Du måste lämna åtminstone en ej däckad nybyggare.</SourceCaravanMustHaveAtLeastOneColonist>
+  <CaravanSplitSourceLabel>Nuvarande</CaravanSplitSourceLabel>
+  <CaravanSplitDestLabel>Ny</CaravanSplitDestLabel>
+  <SplitCaravanThingCountTip>Hur många av dessa föremål karavanen har redo att ge till den nya karavanen.</SplitCaravanThingCountTip>
+  <SplitCaravanMassUsageTooltip>Nuvarande viktanvändning och kapacitet.</SplitCaravanMassUsageTooltip>
+
+  <!-- Load transporters -->
+  <LoadTransporters>Lasta {0}</LoadTransporters>
+  <TooBigTransportersMassUsage>De tilldelade människor och föremål är för tunga för transportkapslarna.</TooBigTransportersMassUsage>
+  <CantSendEmptyTransportPods>Du kan inte skicka tomma transportkapslar.</CantSendEmptyTransportPods>
+  <PawnCantReachTransporters>{0} kan inte nå transportkapslarna.</PawnCantReachTransporters>
+  <TransporterItemIsUnreachableSingle>Det finns ingen väg mellan transportkapseln och {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>Det finns ingen väg mellan transportkapseln och {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransportersMassUsageTooltip>Nuvarande viktanvändning och kapacitet.\n\nDu kommer inte att kunna skicka transportkapslar om viktanvändningen överskrider kapaciteten.</TransportersMassUsageTooltip>
+
   <!-- Comms -->
   <SocialSkillIs>Sociala färdigheter: {0}</SocialSkillIs>
   
   <!--Research-->
-  <ResearchFinished>Förskningsfärdigheter: {0}</ResearchFinished>
+  <ResearchFinished>Förskning färdig: {0}</ResearchFinished>
   <ResearchScreen>Forskningsfönster</ResearchScreen>
   
   <!--HistoryUpload-->
@@ -230,12 +303,12 @@
   <!-- Drug policy management -->
   <DrugPolicy>Riktlinjer för droger</DrugPolicy>
   <SelectDrugPolicy>Välj riktlinjer...</SelectDrugPolicy>
-  <NewDrugPolicy>Nya riktlinjer</NewDrugPolicy>
+  <NewDrugPolicy>Ny riktlinje</NewDrugPolicy>
   <DeleteDrugPolicy>Ta bort riktlinjer...</DeleteDrugPolicy>
   <DrugPolicyInUse>Riktlinjerna används av {0}.</DrugPolicyInUse>
   <SocialDrugs>Sociala droger</SocialDrugs>
   <NoDrugs>Inga droger</NoDrugs>
-  <OneDrinkPerDay>En drink per dag</OneDrinkPerDay>
+  <OneDrinkPerDay>En drink om dagen</OneDrinkPerDay>
   <Unrestricted>Obegränsat</Unrestricted>
   <NoDrugPolicySelected>Inga riktlinjer för droger valda</NoDrugPolicySelected>
   <AddDrug>Lägg till drog...</AddDrug>
@@ -257,10 +330,28 @@
   <MoodThresholdColumnDesc>Kolonisterna kommer bara ta denna drog om deras humörnivå är under denna gräns.</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>Kolonisterna kommer bara ta denna drog om deras glädjenivå är under denna gräns.</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>En mängd droger som ska tas med när de hämtas upp för konsumption, så kolonisten inte behöver gå till drogförrådet varje gång.</TakeToInventoryColumnDesc>
+  <DrugUsageTipForAddiction>För missbruk\n\nAnvänd denna drog för att tillfredställa ett redan etablerat missbruksbehov.\n\NÄven om denna inställning är avaktiverad, kommer kolonister med vissa persondrag, eller som har fått ett sammanbrott, använda drogen ändå.</DrugUsageTipForAddiction>
   <DrugUsageTipForJoy>För glädje\n\nAnvänd den här drogen för glädje och sociala orsaker, och för att stilla eventuella beroenden.\n\nÄven om denna inställning är avaktiverad, kommer kolonister med vissa persondrag, eller som har fått ett sammanbrott, använda drogen ändå.</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>Schemalagd\n\nAnvänd den här drogen på ett definierat schema, när vissa villkor är uppfyllda.</DrugUsageTipScheduled>
   
   <!-- Growing -->
   <NoGrowerCanPlant>{0} kräver {1} i Odlingsskicklighet för att plantera.\n\nIngen av dina friska odlare har den här skickligheten, så den här växten kommer inte planteras.</NoGrowerCanPlant>
+  
+  <!-- Abandon home -->
+  <ConfirmAbandonHomeWithColonyPawns>Några av dina kolonister eller djur finns fortfarande i detta område. Är du säker på att du vill överge det?\n\nFöljande personer och djur kommer att överges:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <ConfirmLeavePrisonersOrAnimalsBehind>Det finns fortfarande några fångar eller djur kvar i detta område och detta är det enda karavanen de kan ansluta till just nu.\n\nOm du flyttar din karavan kommer de inte att kunna lämna området förrän du är tillbaka. Fångarna kommer fly men djuren kommer att vänta på dig.\n\nOm du väljer att vänta kommer de att försöka att ansluta din karavan så snart som möjligt.\n\nÄr du säker på att du vill flytta din karavan?</ConfirmLeavePrisonersOrAnimalsBehind>
+
+  <!-- Abandon pawn -->
+  <ConfirmAbandonPawnDialog>Vill du verkligen överge {0}?</ConfirmAbandonPawnDialog>
+  <ConfirmAbandonPawnDialog_LeftToDie>{0} kommer troligtvis att dö.</ConfirmAbandonPawnDialog_LeftToDie>
+  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} kommer ta följande föremål med sig:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+  <ConfirmAbandonPawnDialog_AllColonistsThoughts>Alla kolonister får följande tankar:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
+  <ConfirmAbandonPawnDialog_IndividualThoughts>Överge {0} kommer att orsaka att följande personer får följande tankar:</ConfirmAbandonPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <ConfirmSendNotCompletelyLoadedPods>Kapselgrupp är inte helt lastad. {0} saknas. Vill du skicka ändå?</ConfirmSendNotCompletelyLoadedPods>
+
 
 </LanguageData>

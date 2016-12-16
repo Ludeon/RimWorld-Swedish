@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Klicka för att se problemet</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Klicka för att se problemet</ClickToJumpToProblem>
 
   <BreakRiskMinor>Liten risk för sammanbrott</BreakRiskMinor>
   <BreakRiskMajor>Stor risk för sammanbrott</BreakRiskMajor>
@@ -13,7 +13,7 @@
   
   <ColonistNeedsRescue>Kolonist behöver räddas</ColonistNeedsRescue>
   <ColonistsNeedRescue>Kolonister behöver räddas</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  Kolonister ligger handikappade på marken:\n\n{0}\nSkicka en annan kolonist för att rädda och bära dem tillbaka till sina sängar.\n\n(För att rädda någon; klicka på en annan kolonist och högerklicka sedan på offret, klicka därefter på Rädda.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>  Dessa kolonister ligger handikappade på marken:\n\n{0}\nSkicka en annan kolonist för att rädda och bära dem tillbaka till sina sängar.\n\n(För att rädda någon; klicka på en annan kolonist och högerklicka sedan på offret, klicka därefter på Rädda.</ColonistsNeedRescueDesc>
 
   <NeedDefenses>Behöver försvar</NeedDefenses>
   <NeedDefensesDesc>Du har varit här ett tag nu och har troligtvis redan blivit upptäckt av andra. Förbered dig för kommande räder.\n\nDu borde förbereda försvar.\n\nBygg några Vaktposter.</NeedDefensesDesc>
@@ -65,10 +65,10 @@
   <NeedBatteriesDesc>Du har bara solpaneler men inga batterier. Detta betyder att du kommer att drabbas av strömavbrott varje gång solen går ner.\n\nBygg ett batteri eller två som kan försörja dig över natten.</NeedBatteriesDesc>
 
   <BrawlerHasRangedWeapon>En slagskämpe har ett projektilvapen</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>En av dina kolonister har Slagskämpe som personlighetstyp men bär ett projektilvapen. Detta kommer att göra hen väldigt olycklig.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>En av dina kolonister har Slagskämpe som personlighetstyp men bär ett projektilvapen. Detta kommer att göra HIM väldigt olycklig.</BrawlerHasRangedWeaponDesc>
 
   <ShieldUserHasRangedWeapon>En kolonist med sköld har ett projektilvapen</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>En av dina kolonister har en personlig sköld och bär ett projektilvapen. Hen kommer inte att kunna skjuta genom skölden (förutom mot mål som redan rör hen).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>En av dina kolonister har en personlig sköld och bär ett projektilvapen. HE kommer inte att kunna skjuta genom skölden (förutom mot mål som redan rör HIM).</ShieldUserHasRangedWeaponDesc>
 
   <NeedResearchProject>Behöver forskningsprojekt</NeedResearchProject>
   <NeedResearchProjectDesc>Du har utrustning för att kunna forska, men inget valt projekt.\n\nÖppna forskningsmenyn och välj ett projekt.</NeedResearchProjectDesc>
@@ -102,5 +102,8 @@
   <NeedWarmClothesDesc1>Minst {0} av dina kolonister kommer sakna varma kläder när den kalla årstiden börjar.</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>Alla dina kolonister kommer sakna varma kläder när den kalla årstiden börjar.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>Utomhustemperaturen kommer nå {0}.\n\nDu kan sy varma kläder vid skräddarbordet, eller köpa det från handelsmän.</NeedWarmClothesDesc2>
+  
+  <ImmobileCaravan>Överlastad karavan</ImmobileCaravan>
+  <ImmobileCaravanDesc>En av dina karavaner är orörlig eftersom den är överlastad.\n\nDu kan göra karavanen mobil igen genom att överge vissa föremål i fliken Föremål.</ImmobileCaravanDesc>
   
 </LanguageData>

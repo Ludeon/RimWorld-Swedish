@@ -37,7 +37,7 @@
   <FoodTypeFlags_Meal>måltider</FoodTypeFlags_Meal>
   <FoodTypeFlags_Processed>processerad mat</FoodTypeFlags_Processed>
   <FoodTypeFlags_Liquor>alkohol</FoodTypeFlags_Liquor>
-  <FoodTypeFlags_Kibble>torrfoder</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_Kibble>djurfoder</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <QualityCategory_Awful>förfärlig</QualityCategory_Awful>
@@ -76,6 +76,7 @@
   <Hilliness_SmallHills>små kullar</Hilliness_SmallHills>
   <Hilliness_LargeHills>stora kullar</Hilliness_LargeHills>
   <Hilliness_Mountainous>bergigt</Hilliness_Mountainous>
+  <Hilliness_Impassable>oframkomligt</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Skapar</WorkshopInteractStage_CreatingItem>
@@ -124,8 +125,8 @@
   <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
 
   <!-- Player pawns arrive method -->
-  <PlayerPawnsArriveMethod_Standing>Ställning</PlayerPawnsArriveMethod_Standing>
-  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_Standing>Stående</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Räddningskapsel</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <PawnGenerationContext_All>alla karaktärer</PawnGenerationContext_All>
@@ -141,9 +142,15 @@
   <Celsius>Celsius</Celsius>
   <Fahrenheit>Fahrenheit</Fahrenheit>
   <Kelvin>Kelvin</Kelvin>
-  
-  <!-- Spoil reason -->
-  <SpoilReason_Freezing>Skämd genom frysning.</SpoilReason_Freezing>
-  <SpoilReason_HighTemperature>Skämd genom hög temperatur.</SpoilReason_HighTemperature>
+ 
+  <!-- Direction8Way -->
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>NÖ</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>Ö</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>SÖ</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>SV</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>V</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>NV</Direction8Way_NorthWest_Short>
   
 </LanguageData>
