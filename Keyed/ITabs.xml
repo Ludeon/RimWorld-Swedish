@@ -20,7 +20,7 @@
   <TabSocial>Socialt</TabSocial>
 
   
-  
+  <!-- Bills tab  -->
   <AddBill>Lägg till beställning</AddBill>
   <RecipeRequiresSkills>Receptet {0} kräver nedanstående färdigheter. Ingen av dina kolonister har dessa färdigheter, så ingen kommer att göra denna beställning.</RecipeRequiresSkills>
   <MinimumSkill>Min färdighet</MinimumSkill>
@@ -29,7 +29,7 @@
   <PlantVerb>Plantera</PlantVerb>
 
 
-  
+  <!-- Guest/prisoner tab -->
   <RecruitmentDifficulty>Svårighetsgrad av rekrytering</RecruitmentDifficulty>
   <GetsFood>Hämtar mat</GetsFood>
   <DoctorsCare>Doctors care</DoctorsCare>
@@ -40,9 +40,10 @@
   <PrisonerAttemptRecruit>Samtal and rektytering</PrisonerAttemptRecruit>
   <PrisonerRelease>Frige</PrisonerRelease>
   <PrisonerExecution>Avrättning</PrisonerExecution>
+  <ConsideredGuilty>Anses skyldig (går ut om {0})</ConsideredGuilty>
 
 
-  
+  <!-- Medical - general -->
   <MoveSpeed>Rörelsehastighet</MoveSpeed>
   <Efficiency>Effektivitet</Efficiency>
   <MissingBodyPart>Borta</MissingBodyPart>
@@ -52,9 +53,6 @@
   <Healthy>Hälsosam</Healthy>
   <InPain>Har smärta</InPain>
   <PainLevel>Smärta</PainLevel>
-  <Dead>Död</Dead>
-  <Unconscious>Medvetslös</Unconscious>
-  <PainShock>I shock</PainShock>
   <Injured>Skadad</Injured>
   <NoInjuries>(inga skador)</NoInjuries>
   <WholeBody>Hela kroppen</WholeBody>
@@ -62,6 +60,8 @@
   <Communication>Kommunikation</Communication>
   <Affects>Berör</Affects>
   <BleedingRate>blödningshastighet</BleedingRate>
+  <TimeToDeath>död om {0}</TimeToDeath>
+  <WontBleedOutSoon>ingen omedelbar fara</WontBleedOutSoon>
   <HealthOverview>Översikt</HealthOverview>
   <MedicalOperationsShort>Operationer ({0})</MedicalOperationsShort>
   <MedicalOperationsMechanoidsShort>Modifikationer ({0})</MedicalOperationsMechanoidsShort>
@@ -75,9 +75,9 @@
   <Tiredness>Trötthet</Tiredness>
   <PainFactor>Smärta</PainFactor>
   <PreventsInfection>Förhindra infektion</PreventsInfection>
-  
 
-  
+
+  <!-- Medical - Body and activities condition -->
   <None>Ingen</None>
   <VeryPoor>Uselt</VeryPoor>
   <Poor>Dåligt</Poor>
@@ -94,14 +94,14 @@
   <ExtremePain>Extrem</ExtremePain>
 
 
-  
+  <!-- Training tab-->
   <TrainableIntelligence>Träningsbar intelligens</TrainableIntelligence>
   <CannotTrainNotSmartEnough>Kräver träningsbar intelligens {0}.</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} är för liten för att kunna träna detta.</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Förutsättning behövs: {0}</TrainingNeedsPrerequisite>
   
-  
+  <!-- Social tab -->
   <NoRelationships>(ingen relation)</NoRelationships>
   <Kidnapped>Kidnappad</Kidnapped>
   <Slave>Slav</Slave>
@@ -111,8 +111,9 @@
   <IAmDead>Jag är död</IAmDead>
   <IAmPsychopath>Jag är en psykopat</IAmPsychopath>
   
-  
+  <!-- Gear tab -->
   <AverageArmor>Medelskydd mot:</AverageArmor>
+  <MassCarried>Vikt buren: {0} / {1} kg</MassCarried>
   <ComfyTemperatureRange>Komfortabel temperaturzon</ComfyTemperatureRange>
   <ArmorBlunt>Trubbigt</ArmorBlunt>
   <ArmorSharp>Skarpt</ArmorSharp>

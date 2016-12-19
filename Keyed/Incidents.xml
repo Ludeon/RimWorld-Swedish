@@ -12,30 +12,30 @@
   <LetterLabelMiracleHeal>Mirakel</LetterLabelMiracleHeal>
   <MiracleHeal>{0} upplevde en mirakulös återhämtning!</MiracleHeal>
 
-  
-  <EnemyRaidWalkIn>En grupp av {0} från {1} anledde i närheten.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>En grupp av {0} från {1} har anlett i fall-kapslar i närheten.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>En grupp av {0} från {1} har fallit rätt på dig!</EnemyRaidCenterDrop>
-  <EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>En grupp av {0} från {1} anlände i närheten.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>En grupp av {0} från {1} har anlänt i last-kapslar i närheten.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>En grupp av {0} från {1} har landat rätt på dig!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>En av {0} - {1} är fraktionens ledare.</EnemyRaidLeaderPresent>
 
-  
-  <FriendlyRaidWalkIn>En grupp vänliga {0} från {1} har anlett i närheten.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>En grupp vänliga {0} från {1} har anlett i fall-kapslar i närheten.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>En grupp vänliga {0} från {1} har fallit rätt på dig!</FriendlyRaidCenterDrop>
-  <FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>En grupp vänliga {0} från {1} har anlänt i närheten.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>En grupp vänliga {0} från {1} har anlämk i last-kapslar i närheten.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>En grupp vänliga {0} från {1} har landat rätt på dig!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>En av {0} - {1} är fraktionens ledare.</FriendlyRaidLeaderPresent>
 
   <LetterLabelRefugeePodCrash>Flyktkapsel</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>Du har upptäckt en flyktkapsel som krashade hårt i närheten.\n\nOm någon överlevde impakten så är de svårt skadade.</RefugeePodCrash>
 
   <LetterLabelCargoPodCrash>Fraktkapslar</LetterLabelCargoPodCrash>
-  <CargoPodCrash>Du har upptäck ett kluster av flyglast som krashade intill.\n\nDu kanske hittar något användbart bland vraken.</CargoPodCrash>
+  <CargoPodCrash>Du har upptäck ett kluster av lastkapslar som krashade intill.\n\nDu kanske hittar något användbart bland vraken.</CargoPodCrash>
 
   <AnElectricalConduit>en elektrisk ledning</AnElectricalConduit>
   <ShortCircuit>Ett fel i {0} har orsakat en kortslutning.\n\nAlla {1} Wd av energi i anslutna batterin har urladdats i en elektrisk explosion.</ShortCircuit>
   <ShortCircuitWasLarge>Denna mängd ström har skapat en avsevärt stor explosion.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>Det där är verkligen en stor explosion. Wow.</ShortCircuitWasHuge>
 
-  <TraderArrival>Ett förhandlingsskepp passerar i närheten.\n\nDe är kända som {0}. De är en {1}.</TraderArrival>
+  <TraderArrival>Ett handelsskepp passerar i närheten.\n\nDe är kända som {0}. De är en {1}.</TraderArrival>
 
   <SingleTravelerPassing>En {0} från {1} passerar i närheten. HECAP heter {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>En grupp resenärer från {0} passerar i närheten.</GroupTravelersPassing>
@@ -56,7 +56,7 @@
   <LetterLabelManhunterPackArrived>Människojagande flock</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>En flock människojagande {0} har siktas i området. Dom kommer att stanna i områded och jaga människor.\n\nDom kommer inte att passera igenom dörrar, så om ni stannar innomhus är ni säkra. Dom kommer intr att attackera inaktiva kulsprutetorn, så se till att stäng av dessa om du vill rädda dom.\n\nDom kommer att lämna området om några dagar.</ManhunterPackArrived>
   
-  
+   <!-- Crashed ship part-->
   <MessageAnimalInsanityPulse>Den antika strukturen har avgett en psykisk puls som har drivit djur i närheten till galenskap.</MessageAnimalInsanityPulse>
   <LetterShipPartDroveColonistInsane>Den krashade skeppsdelen har avgett en fokuserad psykisk puls som har drivit kolonisten {0} galen.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Vaknade {0} dagar sedan</AwokeDaysAgo>
@@ -68,52 +68,61 @@
   <LetterLabelPsychicDroneLevelIncreased>Drönarens nivå ökar</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>Den krashade skeppsdelen skickar nu ut en kraftigare sorts psykisk drönare. Alla mänskliga varelser i närheten känner sig nu mer störda, skrämda, och paranoida.</LetterPsychicDroneLevelIncreased>
   
-  
+  <!-- Agent revealed -->
   <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
   <LetterAgentRevealed>{0} har blivit avslöjad att vara en agent för din fiende {1}.\n\nDenna försöker nu fly.</LetterAgentRevealed>
 
-  
+  <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>Psykisk drönare</LetterLabelPsychicDrone>
   <LetterIncidentPsychicDrone>En kraftig huvudvärk genomborrar ditt huvud som en spik!\n\nEn fjärran maskin av hat har gått igång. Den projicerar en kraftig psykisk drönare över hela området. Allas humör kommer vara mycket sämre i ett par dagar.</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>Psykiskt lugn</LetterLabelPsychicSoothe>
   <LetterIncidentPsychicSoothe>Alla kolonister som är {0} känner sig extra belåtna!\n\nEn fjärran maskin av lycka har gått igång. Den projicerar en kraftfull psykisk drönare över hela området, på en frekvens som bara påverkar {0}. Under några dagar så kommer vissa personers ha ett något föbättrat humör.</LetterIncidentPsychicSoothe>
 
-  
+  <!-- Beavers -->
   <LetterLabelBeaversArrived>Bävrar!</LetterLabelBeaversArrived>
   <BeaversArrived>En grupp hungriga alfabävrar har blivit siktade i området.\n\nFörsök eliminra som innan dom äter upp alla träden i regionen.</BeaversArrived>
   
-  
-  <RefugeeChasedInitial>En {1} vid namn {0} anropar på hjälp. HECAP bir jagad av {2} från {3}!\n\nHECAP ber om säkerhet och erbjuder sig att ansluta sig till er koloni. Biologiskt är HE {4} år gammal.\n\nWarning - Om ni accepterar kommer ni får strida mot {2} som är hack i häl på HIS.</RefugeeChasedInitial>
+  <!-- Refugee chased -->
+  <RefugeeChasedInitial>En {1} vid namn {0} anropar på hjälp. HECAP bir jagad av {2} från {3}!\n\nHECAP ber om säkerhet och erbjuder sig att ansluta sig till er koloni. Biologiskt är HE {4} år gammal.\n\nVarning - Om ni accepterar kommer ni får strida mot {2} som är hack i häl på HIM.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Erbjud säkerhet</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Strunta i meddelandet</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} skriker i panik genom den metalliska högtalaren innan du stänger av sändningen.</RefugeeChasedRejected>
 
-  
+  <!-- Self-tame -->
   <LetterLabelAnimalSelfTame>{0} själv tämjd</LetterLabelAnimalSelfTame>
   <LetterAnimalSelfTame>{0} har blivid tam.</LetterAnimalSelfTame>
   <LetterAnimalSelfTameAndNameNumerical>{0} har blivid tam. Den har nu fått namn {1}.</LetterAnimalSelfTameAndNameNumerical>
   <LetterAnimalSelfTameAndName>{0} har blivid tam. En kolonist har bestämt att drn skall heta {1}.</LetterAnimalSelfTameAndName>
 
-  
+  <!-- Farm animals wander in -->
   <LetterLabelFarmAnimalsWanderIn>{0} ansluter</LetterLabelFarmAnimalsWanderIn>
   <LetterFarmAnimalsWanderIn>En grupp {0}, övergivna eller vilse, har vandrat in i området.\n\nDom verkar vara vana vid mänsklig kontakt och ansluter sig till kolonin.</LetterFarmAnimalsWanderIn>
   
-  
+  <!-- Thrumbo passes -->
   <LetterLabelThrumboPasses>En sällsynt flock Thrumbos</LetterLabelThrumboPasses>
   <LetterThrumboPasses>En mindre flock Thrumbos har vandrat in i området.\n\nTrots att dom är fredfulla djur kan dessa extremt ovanliga djur vara väldigt farliga om man konfronterar dom. Vissa handelsmän är villiga att betala mycket pengar för deras dyrbara horn och päls.\n\Flocken kommer att lämna området inom några få dagar.</LetterThrumboPasses>
   
-  
+  <!-- Trader caravan -->
   <LetterLabelTraderCaravanArrival>Handelsmän från {0}</LetterLabelTraderCaravanArrival>
   <LetterTraderCaravanArrival>En handelskaravan ifrån {0} närmar sig.\n\nDom kommer att vara runt kolonin nåra dagar innan dom beger sig vidare. Ni kan attackera dom - med detta kommer förarga deras fraktion!</LetterTraderCaravanArrival>
   
-  
+  <!-- Building breaks down -->
   <LetterLabelBuildingBrokenDown>Haveri: {0}</LetterLabelBuildingBrokenDown>
   <LetterBuildingBrokenDown>En av era maskiner ({0}) har havererat. Den kommer inte att fungera förrän en kolonist har med reparationkunskap lagar den.</LetterBuildingBrokenDown>
   
-  
+  <!-- Ransom demand -->
   <RansomDemand>{1} kontaktar er via radio. Dom håller en föredetta kolonist {0} gisslan.\n\nDom är villiga att frige HIM i utbyte mot {2} silver.</RansomDemand>
   <RansomDemand_Accept>Acceptera</RansomDemand_Accept>
   <RansomDemand_Reject>Avvisa</RansomDemand_Reject>
+  
+    <!-- Journey -->
+  <JourneyOffer>E vänlig AI från ditt förflutna som heter Charlon Whitestone har skickat ett meddelande!\n\nHan avslöjar att han har ett rymdskepp gömt på den här planeten och skickar dess koordinater.\n\nOm du reser till fartyget kommer Charlon ta dig utanför denna RimWorld, till stjärnorna.</JourneyOffer>
+
+  <!-- Caravan meeting -->
+  <CaravanMeeting>Din karavan har mött en annan fredlig karavan från {0}. Den andra karavanen består av:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting_Trade>Handla</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Attackera</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>Gå vidare</CaravanMeeting_MoveOn>
   
 </LanguageData>
