@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Autosaving>Autosaving</Autosaving>
-  
+  <Autosaving>Autosparning</Autosaving>
   <GameStartDialog>Ni tre vaknar från er cryptosömn av ljudet från sirener och gnisslande metal. Ni hinner precis till nödkapslarna innan ert skepp slits isär. \n\nEn tid senare landar ni på denna, för er okända värld.\n\nMedan delarna från ert sönderslitna skepp faller runt er, börjar ni att planera för att överleva.</GameStartDialog>
-
   <Colony>Koloni</Colony>
-  
   <ChangeLanguageFromMainMenu>Du kan bara ändra språket från inställningarna från startmenyn.</ChangeLanguageFromMainMenu>
-
   <AndLower>och</AndLower>
   <DisabledLower>avstängd</DisabledLower>
 
@@ -18,7 +14,7 @@
   <CompiledOn>Kompillerad {0}</CompiledOn>
   <LoggedIntoSteamAs>Inloggad i Steam som {0}</LoggedIntoSteamAs>
 
-  
+  <!-- General-use words -->
   <Yes>Ja</Yes>
   <No>Nej</No>
   <min>min</min>
@@ -32,16 +28,16 @@
   <intervalDays>intervall (dagar)</intervalDays>
   <repeat>upprepa</repeat>
 
+  <!-- Content generation-->
   
-  
-	<MeatLabel>{0} kött</MeatLabel>
-  <MeatDesc>Rått kött från en {0}.</MeatDesc>
+  <MeatLabel>{0} kött</MeatLabel>
+  <MeatDesc>Rått kött från en {0}. Kan bli lagad till mat eller ätas rå.</MeatDesc>
 
   <LeatherLabel>{0} läder</LeatherLabel>
-  <LeatherDesc>läder tillverkat av skinn ifrån {0}.</LeatherDesc>
+  <LeatherDesc>Garvat, torkat oxh skrapad hud. Ett bra traditionellt material för att göra kläder och väskor.</LeatherDesc>
 
   <CorpseLabel>{0} kadaver</CorpseLabel>
-	<CorpseDesc>{0}'s döda kropp.</CorpseDesc>
+  <CorpseDesc>{0}'s döda kropp.</CorpseDesc>
   <DeadLabel>{0} (död)</DeadLabel>
 
   <RoughStoneTerrainLabel>ojämn {0}</RoughStoneTerrainLabel>
@@ -55,8 +51,8 @@
   <FrameLabelExtra> (byggnad)</FrameLabelExtra>
 
 
-  
-  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->  
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
@@ -64,9 +60,14 @@
   
   <VariousLabel>(diverse)</VariousLabel>
 
-  
+  <!-- History events -->
   <ColonistDied>Kolonist dog</ColonistDied>
   
-  
+  <!-- Rotation -->
+  <North>Nord</North>
+  <South>Syd</South>
+  <West>Väst</West>
+  <East>Öst</East>
+
   
 </LanguageData>

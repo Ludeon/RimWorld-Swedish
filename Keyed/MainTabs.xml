@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  
+  <!-- Work tab -->
   <ManualPriorities>Manuella prioriteringar</ManualPriorities>
   <HigherPriority>Högre prioritet</HigherPriority>
   <LowerPriority>Lägre prioritet</LowerPriority>
@@ -12,7 +12,7 @@
   <IncapableOfWorkTypeBecauseOfCapacities>Denna kolonist kan inte arbeta med den här typen av arbete på grund av sitt hälsotillstånd.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   
-  
+  <!-- Assign tab -->
   <CurrentOutfit>Nuvarande utstyrsel</CurrentOutfit>
   <ManageOutfits>Hantera utstyrsel</ManageOutfits>
   <ClearForcedApparel>Töm tvång</ClearForcedApparel>
@@ -22,25 +22,33 @@
   <CurrentDrugPolicies>Nuvarande drogpolicy</CurrentDrugPolicies>
   <ManageDrugPolicies>Hantera drogpolicy</ManageDrugPolicies>
   
-  
+  <!-- Restrictions tab -->
   <Copy>Klipp</Copy>
   <Paste>Klistra</Paste>
   <AllowedArea>Tillåtet område</AllowedArea>
   
-  
+  <!-- Animals tab -->
   <Master>Herre</Master>
   <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
+  <FollowDraftedTip>Följ herren medans HE är kommenderad.</FollowDraftedTip>
+  <FollowFieldworkTip>Följ herren medans HE gör fältarbete (jagar eller tämjer djur).</FollowFieldworkTip>
   
-  
+  <!-- Factions tab -->
   <Hostile>Fientlig</Hostile>
+  <DefeatedLower>besegrad</DefeatedLower>
   <HostileTo>Fiende av {0}</HostileTo>
   <CurrentGoodwill>Aktuell välvilja med detta anhang.</CurrentGoodwill>
   
+  <!-- Social tab -->
+  <Friend>Vän</Friend>
+  <Rival>Rival</Rival>
+  <Acquaintance>Bekanta</Acquaintance> 
   
+  <!-- History tab - subtabs -->
   <Graph>Graf</Graph>
   <Statistics>Statistik</Statistics>
   
-  
+  <!-- History tab - Graphs -->
   <SelectGraph>Välj graf</SelectGraph>
   <Last30Days>Senaste 30 dagarna</Last30Days>
   <Last100Days>Senaste 100 dagarna</Last100Days>
@@ -50,7 +58,7 @@
   <Value>Värde</Value>
   <External>Extern</External>
 
-  
+  <!-- History tab - Statistics -->
   <Playtime>Speltid</Playtime>
   <Storyteller>Spelledare</Storyteller>
   <ColonyWealthTotal>Kolonins rikedom</ColonyWealthTotal>
@@ -62,10 +70,10 @@
   <ColonistsKilled>Kolonister dödade</ColonistsKilled>
   <ColonistsLaunched>Kolonister uppskickade i rymden</ColonistsLaunched>
 
-  
+  <!-- Research tab -->
   <ProjectTechLevel>Projektets teknologiska nivå</ProjectTechLevel>
   <YourTechLevel>din teknologiska nivå</YourTechLevel>
-  <ResearchCostMultiplier>kostnadsmultiplicerare</ResearchCostMultiplier>
+  <ResearchCostMultiplier>kostnadsmultiplikator</ResearchCostMultiplier>
   <ResearchCostComparison>Projektets grundkostnad {0} blir {1} tack vare din teknologiska nivå.</ResearchCostComparison>
   
 </LanguageData>

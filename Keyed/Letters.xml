@@ -54,25 +54,30 @@
   
   <LetterHediffFromRandomHediffGiver>{0} har utvecklat ett hälsotillstånd: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+
+  <LetterLeadersDeathLabel>{1} död: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{0}, {3} av {1}, har Dött.\n\nDen nya {3} är {2}.</LetterLeadersDeath>
+
+  <LetterLeaderChangedLabel>Nya {1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChanged>{0} är inte längre {3} av {1}.\n\nde nya {3} är {2}.</LetterLeaderChanged>
   
-  <LetterLeadersDeathLabel>Ledares död</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>Ledaren {0} från fraktionen {1} har dött och blivit ersatt av {2}.</LetterLeadersDeath>
-  
-  <MentalBreakLetterLabel>Mentalt upbrått</MentalBreakLetterLabel>
+  <MentalBreakLetterLabel>Mentalt bryt</MentalBreakLetterLabel>
   <MentalBreakReason>Droppen för fick bägaren att rinna över var: {0}.</MentalBreakReason>
   
-  
+  <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Relation</LetterLabelNoticedRelatedPawns>
   <LetterRelatedPawnsRaidEnemy>Det finns personer som har en relation med din kolonister eller fångar i den anlända gruppen {0}.\n\nTänk på att trots att dom har en relation kommer dom fortfarande attackera varandra pågrund av deras fraktioners dåliga relation.\n\nDessa personer är:</LetterRelatedPawnsRaidEnemy>
   <LetterRelatedPawnsRaidFriendly>Det finns personer som har en relation med din kolonister eller fångar i den anlända vänliga gruppen {0}:</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>Det finns personer som har en relation med din kolonister eller fångar i den anlända gruppen:</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>Handlaren i omloppsbana säljer personer som har en relation med din kolonister eller fångar:</LetterRelatedPawnsTradeShip>
-  
+  <LetterRelatedPawnsTradingWithFactionBase>Huvudfraktionen säljer personer som har relationer med dina kolonister eller fångar:</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithOtherCaravan>Karavanen säljer personer som har relationer med dina kolonister eller fångar:</LetterRelatedPawnsTradingWithOtherCaravan>
+
   <RelationshipAppendedLetterSuffix>(relationer)</RelationshipAppendedLetterSuffix>
   <RelationshipAppendedLetterTextColonist>NAME har en relation med en kolonist. HECAP är {0}'s {1}.</RelationshipAppendedLetterTextColonist>
   <RelationshipAppendedLetterTextPrisoner>NAME har en relation med en av era fångar. HECAP är {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
   
-  
+  <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Kärleksaffär</LetterLabelAffair>
   <LetterAffair>{0} som är gift med {1}, har inlett en kärleksaffär med {2}.</LetterAffair>
   <LetterLabelNewLovers>Nyförälskade</LetterLabelNewLovers>
@@ -84,33 +89,60 @@
   <LetterAcceptedProposal>{1} har accepterat {0}'s frieri.\n\nInom några dagar eller säsonger kommer dom att ha en bröllopscermoni och bjuda in alla kolonister. Överväg att placera en bröllopsplats om ni vill kontrollera var bröllpet skall äga rum.</LetterAcceptedProposal>
   <LetterRejectedProposal>{1} har avvisat {0}'s frieri. {0} kommer vara olycklig över detta.</LetterRejectedProposal>
   
-  
+  <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>Vänlig</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>Ovänlig</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Bzzztt...</LetterLabelShortCircuit>
-  <LetterLabelMentalBreakdown>Mentalt upbrått</LetterLabelMentalBreakdown>
+  <LetterLabelMentalBreakdown>Mentalt bryt</LetterLabelMentalBreakdown>
   
-  
+  <!-- Bonded animals -->
   <LetterLabelBondedAnimalDied>Bunden djurs död</LetterLabelBondedAnimalDied>
   <LetterBondedAnimalDied>{0}, bunden till {1}, har dött. Det kommer att påverka {1}'s humör.</LetterBondedAnimalDied>
   <LetterNamedBondedAnimalDied>{0} vid namn {1}, bunden till {2}, har dött. Det kommer att påverka {2}'s humör.</LetterNamedBondedAnimalDied>
   <LetterBondedAnimalDiedMulti>{0} har dött. Det kommer påverka humöret för följande personer:\n\n{1}</LetterBondedAnimalDiedMulti>
   <LetterNamedBondedAnimalDiedMulti>{0} vid namn {1} har dött. Det kommer påverka humöret för följande personer:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
 
-  
+  <!-- Prison break -->
   <LetterLabelPrisonBreak>Flykt från fängelse</LetterLabelPrisonBreak>
   <LetterPrisonBreak>Fångarna har iscensatt en utbrytning! Dom har på något sätt låst upp dörren och tar sig ut. Dom kan leta upp vapen, slåss, och försöka fly. Dessa fångar är inblandade:\n\n{0}\n\nDet är störra chans att fångar försöker fly som är olyckliga, många och friska.</LetterPrisonBreak>
   
-  
+  <!-- Party -->
   <LetterLabelNewParty>Party</LetterLabelNewParty>
   <LetterNewParty>{0} arrangerar en fest! Alla som är med kommer få glädje och social energi, och en ihållande positivt humörlyft.</LetterNewParty>
 
-  
+  <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} missbruk</LetterLabelNewlyAddicted>
   <LetterNewlyAddicted>{0} har utvecklat ett missbruk till {1}.\n\nHECAP har nu ett behov av {1}, något som syns på HIS Behov flik. HECAP kommer automatiskt använda drogen för att uppfylla HIS behov. Mm HE inte kan få någon {1} kommer HE få abstinens.</LetterNewlyAddicted>
   
-  
+  <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} frossar</LetterLabelDrugBinge>
   <LetterDrugBinge>{0} frossar på {1}.</LetterDrugBinge>
+  
+    <!-- Formed caravan -->
+  <LetterLabelFormedCaravan>Karavan redo</LetterLabelFormedCaravan>
+  <LetterFormedCaravan>Your caravan has formed and awaits orders on the world map.</LetterFormedCaravan>
+
+  <!-- Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>All members of your caravan have died.</LetterAllCaravanColonistsDied>
+
+  <!-- Caravan entered ambush map -->
+  <LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
+  <LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
+
+  <!-- Caravan entered enemy base -->
+  <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} has arrived at {1} and is ready to begin the attack.\n\nBecause of your hostile approach, {2} is now hostile to you.</LetterCaravanEnteredEnemyBaseBecameHostile>
+
+  <!-- Faction base defeated -->
+  <LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} hours to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means the faction does not exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+
+  <!-- Pawns lost due to map countdown -->
+  <LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
+  <LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+
   
 </LanguageData>

@@ -9,7 +9,7 @@
   <MessageRaidersStealing>{0} från {1} har bestämt sig för att själa vad de kan pch sedan lämna.</MessageRaidersStealing>
 
   <MessageRaidersLeaving>{0} från {1} lämnar.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} från {1} har gett upp och lämnar.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersGivenUpLeaving>{0} från {1} har gett upp och lämnar.</MessageRaidersGivenUpLeaving>
   <MessageRaidersSatisfiedLeaving>{0} från {1} är nöjda med den skada de gjorde och lämnar.</MessageRaidersSatisfiedLeaving>
 
   <MessageFightersFleeing>{0} från {1} flyr.</MessageFightersFleeing>
@@ -20,11 +20,11 @@
   
   <MessageWornApparelDeterioratedAway>{0} som bärs av {1} vittrar sönder till smulor.</MessageWornApparelDeterioratedAway>
   
-  <MessageSeasonBegun>{0}en är här.</MessageSeasonBegun>
+  <MessageSeasonBegun>{0}säsongen är här.</MessageSeasonBegun>
 
   <MessageShipHasLeftCommsRange>{0} har lämnat kommunikationräckvidden.</MessageShipHasLeftCommsRange>
 	
-	<MessageNeedBeaconToTradeWithShip>Du behöver en orbital förhandlingssignalerare för att förhandla med ett skepp.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Du behöver en planetär handelsfyr för att handla med ett skepp.</MessageNeedBeaconToTradeWithShip>
 	
   <MessageBillComplete>Beställning avklarad: {0}.</MessageBillComplete>
   
@@ -76,7 +76,8 @@
 
   <MessageMedicalOperationFailureCatastrophic>{0} misslyckades katastofalt när HIM opererade på {1}.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{0} misslyckades något när HIM opererade på {1}.</MessageMedicalOperationFailureMinor>
-
+  <MessageMedicalOperationFailureRidiculous>{0} misslyckades på ett löjligt sätt när HIM opererade på {1}.</MessageMedicalOperationFailureRidiculous>
+  
   <MessageMedicalOperationWillAngerFaction>Den här operationen kommer att förarga {0}.</MessageMedicalOperationWillAngerFaction>
 
   <MessagePawnExitMapRelationsGain>Eftersom {0} lämnade kartan frisk har relationen med {1} blivit förbättrad med {2}.</MessagePawnExitMapRelationsGain>
@@ -105,7 +106,7 @@
   <MessageMarriageCeremonyStarts>{0} och {1} börjar deras bröllopscermoni!</MessageMarriageCeremonyStarts>
   <MessageMarriageCeremonyCalledOff>Bröllopscemonin mellan {0} och {1} har avblåsts.</MessageMarriageCeremonyCalledOff>
   <MessageNewlyMarried>{0} och {1} har gift sig. Kolonisterna firar nu det speciella händelsen.</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>Bröllopsfesten för {0} och {1} har nu avslutats.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMarriageCeremonyAfterPartyFinished>Bröllopscemonin för {0} och {1} har nu avslutats.</MessageMarriageCeremonyAfterPartyFinished>
   
   <MessageNewBondRelation>{0} och {1} håller nu ihop.</MessageNewBondRelation>
   <MessageNewBondRelationNewName>{0} och {1} håller nu ihop. {0} har gett namnet {1} {2}.</MessageNewBondRelationNewName>
@@ -134,5 +135,75 @@
   <MessageRottedAwayInStorage>{0} har ruttnat bort i förrådet.</MessageRottedAwayInStorage>
   
   <MessageFoodPoisoning>{0} har fått matförgiftning från: {1}.</MessageFoodPoisoning>
+  
+  <MessageFailedToSendCaravanBecausePawnLost>Det gick inte att skicka vagnen eftersom en av kolonisterna, fångar eller djur har försvunnit.</MessageFailedToSendCaravanBecausePawnLost>
+  <MessageCaravanFormationPaused>Karavanens formningsprocessen kommer att fortsätta när alla återhämtar sig från mentala bryt.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationUnpaused>Dina kolonister fortsätter nu att forma en karavan.</MessageCaravanFormationUnpaused>
+
+  <MessageCaravanMemberHasExtremeMentalBreak>En av karavanmedlemmarna har fått ett mentalt bryt.</MessageCaravanMemberHasExtremeMentalBreak>
+
+  <MessageMaxPlanetCoveragePerformanceWarning>Varning: Det kan ta mycket lång tid att generera en hel planet.</MessageMaxPlanetCoveragePerformanceWarning>
+
+  <MessagePlantDiedOfCold>{0} har dött på grund av kyla.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfRot>{0} har dött av röta på grund av att lämnas oskördad.</MessagePlantDiedOfRot>
+
+  <MessagePawnBeingBurned>{0} bränns av överhettad luft!</MessagePawnBeingBurned>
+
+  <MessageAccidentalOverdose>{0} har av misstag överdoserat när HE förbrukar {1}!</MessageAccidentalOverdose>
+
+  <MessageCaravanArrivedAtDestination>{0} har anlänt till sin destination.</MessageCaravanArrivedAtDestination>
+
+  <MessageCaravanIsVisitingFaction>{0} har anlänt {1}.</MessageCaravanIsVisitingFaction>
+
+  <MessageCaravanEnteredWorldObject>{0} har anlänt {1}.</MessageCaravanEnteredWorldObject>
+
+  <MessagePawnLeftMapAndCreatedCaravan>{0} har lämnat området och format en karavan.</MessagePawnLeftMapAndCreatedCaravan>
+
+  <MessageSettledInExistingMap>Du har bosatt ett nytt område.</MessageSettledInExistingMap>
+
+  <MessageAmbushVictory>Seger! Om {0} timmar kommer karavanen automatiskt ombildas. Du kan ombilda karavanen nu i världsskärmen.</MessageAmbushVictory>
+
+  <MessageAutomaticallyReformedCaravan>Dina kolonister har ombildat karavanen.</MessageAutomaticallyReformedCaravan>
+
+  <MessageOldWoundHealed>Tack vare {0}, {1}'s {2} har läkt.</MessageOldWoundHealed>
+
+  <MessageRescueeJoined>Eftersom du räddade HIM, har {0} anslutit till din grupp!</MessageRescueeJoined>
+
+  <MessageAttackedCaravanIsNowHostile>Eftersom du attackerade en karavan från {0}, är detta fraktion nu fientligt inställda till dig.</MessageAttackedCaravanIsNowHostile>
+
+  <MessageTransporterUnreachable>Vissa transportkapslar inte kan nås.</MessageTransporterUnreachable>
+  <MessageTransportersNotAdjacent>Alla kapselutskjutare som är anslutna till de utvalda transportkapslarna skall ligga intill varandra.</MessageTransportersNotAdjacent>
+
+  <MessageTransportersLoadCanceled_TransporterDestroyed>Lastningen har avbrutits eftersom en av transportkapslarna har förstörts.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Lastningen har avbrutits eftersom en av kapselutskjutarna har förstörts.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+
+  <MessageTransportersLoadingProcessStarted>Dina kolonisatörer kommer nu lasta de tilldelade föremålen i transportkapslarna.</MessageTransportersLoadingProcessStarted>
+
+  <MessageTransportPodsArrived>Dina transportkapslar har anlänt.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrivedAndLost>Dina transportkapslar har anlänt men eftersom det inte fanns några kolonister med, är innehållet förlorat.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrived_BecameHostile>{0} är nu fientligt inställda till dig.</MessageTransportPodsArrived_BecameHostile>
+
+  <MessageFailedToLoadTransportersBecauseColonistLost>Lastningen har avbrutits eftersom en av kolonisterna har försvunnit.</MessageFailedToLoadTransportersBecauseColonistLost>
+
+  <MessageFinishedLoadingTransporters>Dina koloni har lastat färdigt transportkapslarna.</MessageFinishedLoadingTransporters>
+
+  <MessageTransportPodsDestinationIsInvalid>Den valda destinationen är ogiltig.</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsTooFar>Varje kapselutskjutare skulle behöva minst {0} x kemisk bränsle för att skicka transportkapseln så långt.</MessageTransportPodsDestinationIsTooFar>
+
+  <MessageReformedCaravan>Karavanen har ombildats.</MessageReformedCaravan>
+
+  <MessageCantAbandonLastColonist>Du kan inte överge den sista kolonisten.</MessageCantAbandonLastColonist>
+
+  <MessageCantEquipIncapableOfViolence>Det går inte att utrusta: {0} är oförmögen till våld.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfManipulation>Det går inte att utrusta: oförmögen.</MessageCantEquipIncapableOfManipulation>
+
+  <MessageSlaughteringBondedAnimal>Eftersom dom har ett band, slakta {0} kommer att göra {1} olycklig.</MessageSlaughteringBondedAnimal>
+
+  <MessageCaravanRunOutOfFood>{0} har fått slut på mat ({1}).</MessageCaravanRunOutOfFood>
+
+  <MessageSelectOwnBaseToFormCaravan>För att bilda en karavan, välj din egen koloni eller en plats där du har folk.</MessageSelectOwnBaseToFormCaravan>
+
+  <MessageScreenResTooSmallForUIScale>Vid denna upplösning och gränsnittsskala, skulle spelets eget gränssnittet inte få plats på skärmen. Minska gränsnittsskalan eller öka upplösningen.</MessageScreenResTooSmallForUIScale>
+
   
 </LanguageData>

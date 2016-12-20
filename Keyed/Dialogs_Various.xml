@@ -167,8 +167,7 @@
   <Days>dagar</Days>
   <MinGrowingSkillToSow>Minsta odlingsskicklighet för att plantera</MinGrowingSkillToSow>
   <FertilityRequirement>Bördighetskrav</FertilityRequirement>
-  <SoilFertilitySensitivityGrowthRate>Känslighet för jordens bördighet (växthastighet)</SoilFertilitySensitivityGrowthRate>
-  <SoilFertilitySensitivityPlantChance>Känslighet för jordens bördighet (planteringschans)</SoilFertilitySensitivityPlantChance>
+  <FertilitySensitivity>Bördighetskänslighet</FertilitySensitivity>
   <LightRequirement>Ljuskrav</LightRequirement>
   <Attributes>Attribut</Attributes>
   <LifeSpan>Livslängd</LifeSpan>
@@ -178,11 +177,12 @@
   <WalkSpeedProperty>Gånghastighet</WalkSpeedProperty>
   <MinFoodQuality>Min. livsmedelskvalitét</MinFoodQuality>
   <Diet>Kost</Diet>
+  <BodySize>Kroppsstorlek</BodySize>
   <RecruitDifficulty>Rekryteringssvårighet</RecruitDifficulty>
   <MarketValue>Baspris</MarketValue>
   <Covers>Skydd</Covers>
   <CoverEffectiveness>Skyddseffektivitet</CoverEffectiveness>
-  <CoverEffectivenessExplanation>Hur effektivt detta är som skyudd i en eldstrid. Högre procenttal kommer blockera fler skott.</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>Hur effektivt detta är som skydd i en eldstrid. Högre procenttal kommer blockera fler skott.</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>Erfarenhetsmultiplikator</MedicineXpGainFactor>
   <BodyPartEfficiency>Kroppsdelens effektivitet</BodyPartEfficiency>
   <MoodChange>Humörföränding</MoodChange>
@@ -193,6 +193,8 @@
   <TimeRecordsCategory>Tid</TimeRecordsCategory>
   <MiscRecordsCategory>Övrigt</MiscRecordsCategory>
   <Addictiveness>Risk för att bli beroende</Addictiveness>
+  <PackAnimal>Packdjur</PackAnimal>
+  <PackAnimalExplanation>Huruvida detta djur är lämpligt att använda för att bära föremål i en karavaan över långa avstånd.</PackAnimalExplanation>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Positiva tal köper.\nNegativa tal säljer.</PositiveBuysNegativeSells>
@@ -241,6 +243,7 @@
   <CaravanMassUsageTooltip>Nuvarande viktanvändning och viktkapacitet.\n\nViktanvändning innefattar den tilldelade karavanes varor samt kolonisatörernas nuvarande utrustning.\n\nDu kommer inte att kunna skicka karavanen om viktanvändningen överstiger kapaciteten.</CaravanMassUsageTooltip>
   <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
   <DaysWorthOfFoodInfo>{0} dagsransoner mat</DaysWorthOfFoodInfo>
+  <InfiniteDaysWorthOfFoodInfo>Kommer aldrig få slut på mat</InfiniteDaysWorthOfFoodInfo>
   <DaysWorthOfFoodTooltip>Ett ungefärligt antal dagar innan karavanen får slut på mat.\n\nDetta tar hänsyn till både människor och djur och visar det värsta scenariot. Detta innebär att efter detta antal dagar kommer åtminstone en person eller ett djur vara utan mat.</DaysWorthOfFoodTooltip>
   <DaysWorthOfFoodWarningDialog>Karavanen har endast {0} dagar med mat och kommer bli hungriga mycket snabbt.\n\nÄr du säker på att du vill bilda denna karavanen?</DaysWorthOfFoodWarningDialog>
   <DaysWorthOfFoodWarningDialog_NoFood>Din karavan har ingen mat med sig och kommer bli hungriga väldigt snabbt.\n\nÄr du säker på att du vill bilda denna karavanen?</DaysWorthOfFoodWarningDialog_NoFood>
@@ -258,7 +261,7 @@
   <ReformCaravan>Återskapa karavan</ReformCaravan>
   <ColonistsSection>Kolonister</ColonistsSection>
   <PrisonersSection>Fångar</PrisonersSection>
-  <AnimalsSection>Sjur</AnimalsSection>
+  <AnimalsSection>Djur</AnimalsSection>
 
   <!-- Split caravan -->
   <SplitCaravan>Dela karavan</SplitCaravan>
@@ -352,6 +355,5 @@
 
   <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>Kapselgrupp är inte helt lastad. {0} saknas. Vill du skicka ändå?</ConfirmSendNotCompletelyLoadedPods>
-
 
 </LanguageData>

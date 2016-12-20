@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <TabTerrain>Terräng</TabTerrain>
+  <TabPlanet>Planet</TabPlanet>
+  <TabCaravanSocial>Social</TabCaravanSocial>
+  <TabCaravanHealth>Hälsa</TabCaravanHealth>
+  <TabCaravanNeeds>Behov</TabCaravanNeeds>
+  <TabCaravanGear>Utrustning</TabCaravanGear>
+  <TabCaravanItems>Föremål</TabCaravanItems>
+
+  <!-- Misc -->
+  <AbandonSliderText>Överge {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Vill du verkligen överge {0}?\n\nÖvergivna föremål försvinner och kan aldrig återfås igen.</ConfirmAbandonItemDialog>
+  <AbandonTip>Överge</AbandonTip>
+  <AbandonSpecificCountTip>Överge ett antal</AbandonSpecificCountTip>
+  <AbandonAllTip>Överge (allt)</AbandonAllTip>
+  <AbandonItemTipExtraText>Övergivna föremål försvinner och kan aldrig återfås igen.</AbandonItemTipExtraText>
+  <AbandonTipWillDie>{0} kommer triligtvis att dö.</AbandonTipWillDie>
+
+  <!-- Caravan inspect -->
+  <CaravanColonists>Kolonister</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Fångar och djur</CaravanPrisonersAndAnimals>
+  <CaravanItems>Lager</CaravanItems>
+  <OpenSpecificTabButtonTip>Klicka för att öppna en flik med mer information.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Fångar</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>Lager</CaravanWeaponsAndApparel>
+
+  <!-- Caravan gear -->
+  <DragToRearrange>Dra för att ordna.</DragToRearrange>
+
+  <!-- Planet -->
+  <PlanetSeed>frö</PlanetSeed>
+  <PlanetCoverageShort>Rapportering</PlanetCoverageShort>
+
+</LanguageData>
