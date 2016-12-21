@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <TimeAsColonist.label>tid som kolonist</TimeAsColonist.label>
-    <TimeAsColonist.description>Total tid spenderad som kolonist.</TimeAsColonist.description>
+    <TimeAsColonistOrColonyAnimal.label>tid som kolonist</TimeAsColonistOrColonyAnimal.label>
+    <TimeAsColonistOrColonyAnimal.description>Total tid spenderad som kolonist.</TimeAsColonistOrColonyAnimal.description>
     
     <TimeAsPrisoner.label>tid som fånge</TimeAsPrisoner.label>
     <TimeAsPrisoner.description>Total tid spenderad som fånge.</TimeAsPrisoner.description>
@@ -70,4 +70,5 @@
     <TimeSowingAndHarvesting.label>tid så och skörda</TimeSowingAndHarvesting.label>
     <TimeSowingAndHarvesting.description>Total tid spenderad med att så och skörda och klippa växter.</TimeSowingAndHarvesting.description>
     
+	
 </LanguageData>

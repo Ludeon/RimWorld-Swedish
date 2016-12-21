@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+	<!-- Tier 4: Hi-tech research bench with multi-analyzer -->
+	
     <GroundPenetratingScanner.label>markpenetrerande radar</GroundPenetratingScanner.label>
     <GroundPenetratingScanner.description>Tillåter dig att bygga en markpenetrerande radar som upptäcker gruvbara resurser djupt under markytan.</GroundPenetratingScanner.description>
     
@@ -25,4 +27,5 @@
     <ChargedShot.label>energiskott</ChargedShot.label>
     <ChargedShot.description>Hemligheten bakom pulsladdat energi/projektil-ammunition. Tillåter dig att bygga energigevär.</ChargedShot.description>
     
+	
 </LanguageData>

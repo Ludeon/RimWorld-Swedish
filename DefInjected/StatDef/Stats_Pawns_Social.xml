@@ -8,7 +8,7 @@
     <TameAnimalChance.description>Baschans den här personen har för att tämja ett djur.</TameAnimalChance.description>
     
     <TrainAnimalChance.label>chans att träna ett djur</TrainAnimalChance.label>
-    <TrainAnimalChance.description>Baschans den här personen har för göra framsteg i att träna ett djur vid ett givet försök. kan ändras beroende på djuret.</TrainAnimalChance.description>
+    <TrainAnimalChance.description>Baschans den här personen har för göra framsteg i att träna ett djur vid ett givet försök. Själva chansen för ett givet försök kommer också att bero på djurets vildhet, oavsett om det är bunden med tränaren.</TrainAnimalChance.description>
     
     <SocialImpact.label>inverkan på social interaktion</SocialImpact.label>
     <SocialImpact.description>När denne interagerar socialt, är detta hur mycket den andra personen påverkas.</SocialImpact.description>

@@ -13,22 +13,23 @@
     <Brewing.label>bryggning</Brewing.label>
     <Brewing.description>Ger möjlighet för dig att bygga ett bryggeri som omvandlar humle till välsmakande, gott öl.</Brewing.description>
     
-    <Stonecutting.label>stenhuggning</Stonecutting.label>
-    <Stonecutting.description>Bygg stenhuggningsbord, vilka gör det möjligt att hugga stenbitar till stenblock, som kan användas till konstruktion.</Stonecutting.description>
-    
     <CarpetMaking.label>mattvävning</CarpetMaking.label>
     <CarpetMaking.description>Gör det möjligt för kolonister att väva mattor för att öka kvaliteten på deras omgivning.</CarpetMaking.description>
     
     <Smithing.label>smide</Smithing.label>
     <Smithing.description>Bygg en smedja för att tillverka vapen och verktyg.</Smithing.description>
+
+    <Stonecutting.label>stenhuggning</Stonecutting.label>
+    <Stonecutting.description>Bygg stenhuggningsbord, vilka gör det möjligt att hugga stenbitar till stenblock, som kan användas till konstruktion.</Stonecutting.description>
     
     <ComplexClothing.label>avancerade kläder</ComplexClothing.label>
     <ComplexClothing.description>Sy avancerade kläder såsom byxor, överrockar och cowboyhattar.</ComplexClothing.description>
     
+    <DrugProduction.label>drogtillverkning</DrugProduction.label>
+    <DrugProduction.description>Grunden till förberedelse och syntes av droger. Tillåter att bygga ett droglabb. Fortsatt forskning behövs för att tillverka mer specifika droger.</DrugProduction.description>
+	
     <Electricity.label>elektricitet</Electricity.label>
     <Electricity.description>Generera och använd elekticitet för att laga mat och andra enkla arbetsuppgifter.</Electricity.description>
     
-    <DrugProduction.label>drogtillverkning</DrugProduction.label>
-    <DrugProduction.description>Grunden till förberedelse och syntes av droger. Tillåter att bygga ett droglabb. Fortsatt forskning behövs för att tillverka mer specifika droger.</DrugProduction.description>
-    
+	
 </LanguageData>

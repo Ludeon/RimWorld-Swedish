@@ -8,12 +8,10 @@
     <Impressiveness.scoreStages.3.label>mediokert</Impressiveness.scoreStages.3.label>
     <Impressiveness.scoreStages.4.label>intressant</Impressiveness.scoreStages.4.label>
     <Impressiveness.scoreStages.5.label>något imponerande</Impressiveness.scoreStages.5.label>
-    <Impressiveness.scoreStages.6.label>imponerande</Impressiveness.scoreStages.6.label>
-    <Impressiveness.scoreStages.7.label>väldigt imponerande</Impressiveness.scoreStages.7.label>
-    <Impressiveness.scoreStages.8.label>extremt imponerande</Impressiveness.scoreStages.8.label>
-    <Impressiveness.scoreStages.9.label>otroligt imponerande</Impressiveness.scoreStages.9.label>
-    <Impressiveness.scoreStages.10.label>mirakulöst underbart</Impressiveness.scoreStages.10.label>
-    <Impressiveness.scoreStages.11.label>världsunder</Impressiveness.scoreStages.11.label>
+    <Impressiveness.scoreStages.6.label>väldigt imponerande</Impressiveness.scoreStages.6.label>
+    <Impressiveness.scoreStages.7.label>extremt imponerande</Impressiveness.scoreStages.7.label>
+    <Impressiveness.scoreStages.8.label>otroligt imponerande</Impressiveness.scoreStages.8.label>
+    <Impressiveness.scoreStages.9.label>mirakulöst imponerande</Impressiveness.scoreStages.9.label>
     
     <Wealth.label>rikedom</Wealth.label>
     <Wealth.scoreStages.0.label>urfattigt</Wealth.scoreStages.0.label>

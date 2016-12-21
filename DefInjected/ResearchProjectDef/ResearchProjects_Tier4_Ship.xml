@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <ShipBasics.label>skeppsbyggningsgrunder</ShipBasics.label>
+	<!-- Tier 4: Hi-tech research bench with multi-analyzer -->
+	
+    <ShipBasics.label>grunläggande skeppsbyggning</ShipBasics.label>
     <ShipBasics.description>Gör det möjligt att utveckla mer avancerad skeppsbyggningsteknologi, och eventuellt bygga ett skepp för att undkomma planeten.</ShipBasics.description>
     
     <ShipCryptosleep.label>skeppsbaserade kryptosömnskapslar</ShipCryptosleep.label>
@@ -14,6 +16,7 @@
     <ShipEngine.description>Gör det möjligt att använda en antimaterieinslutningskärna, för att bygga en antimaterieenhet till ett skepp.</ShipEngine.description>
     
     <ShipComputerCore.label>skeppsdatorkärna</ShipComputerCore.label>
-    <ShipComputerCore.description>Gör det möjligt att tvinga en existerande AI persona till en användbar AI datorkärna för skeppsvägledning.</ShipComputerCore.description>
+    <ShipComputerCore.description>Gör det möjligt att tvinga en existerande AI persona till en användbar AI datorkärna för skeppsstyrning.</ShipComputerCore.description>
     
+	
 </LanguageData>
