@@ -1,143 +1,107 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-	  <!-- Injuries -->
+  <!-- Missing body part -->
+
+  <MissingBodyPart.label>saknad kroppsdel</MissingBodyPart.label>
+
+  
+	<!-- Injuries -->
 	
-    <Misc.label>Diverse</Misc.label>
+    <Misc.label>diverse</Misc.label>
     <Misc.comps.0.labelTendedWell>bandagerad</Misc.comps.0.labelTendedWell>
-    <Misc.comps.0.labelTended>illa bandagerad</Misc.comps.0.labelTended>
     <Misc.comps.0.labelTendedWellInner>sytt</Misc.comps.0.labelTendedWellInner>
-    <Misc.comps.0.labelTendedInner>illa sytt</Misc.comps.0.labelTendedInner>
     <Misc.comps.0.labelSolidTendedWell>spjälad</Misc.comps.0.labelSolidTendedWell>
-    <Misc.comps.0.labelSolidTended>illa spjälad</Misc.comps.0.labelSolidTended>
     <Misc.injuryProps.destroyedLabel>förlorad</Misc.injuryProps.destroyedLabel>
     
-    <Burn.label>Brännskada</Burn.label>
+    <Burn.label>brännskada</Burn.label>
     <Burn.comps.0.labelTendedWell>bandagerad</Burn.comps.0.labelTendedWell>
-    <Burn.comps.0.labelTended>illa bandagerad</Burn.comps.0.labelTended>
     <Burn.comps.0.labelTendedWellInner>sytt</Burn.comps.0.labelTendedWellInner>
-    <Burn.comps.0.labelTendedInner>illa sytt</Burn.comps.0.labelTendedInner>
     <Burn.comps.0.labelSolidTendedWell>spjälad</Burn.comps.0.labelSolidTendedWell>
-    <Burn.comps.0.labelSolidTended>illa spjälad</Burn.comps.0.labelSolidTended>
     <Burn.comps.2.oldLabel>Ärr från brännskada</Burn.comps.2.oldLabel>
-    <Burn.injuryProps.destroyedLabel>bränd</Burn.injuryProps.destroyedLabel>
-    <Burn.injuryProps.destroyedOutLabel>bränd</Burn.injuryProps.destroyedOutLabel>
+    <Burn.injuryProps.destroyedLabel>avbränd</Burn.injuryProps.destroyedLabel>
+    <Burn.injuryProps.destroyedOutLabel>avbränd</Burn.injuryProps.destroyedOutLabel>
     
-    <Crush.label>Krossskada</Crush.label>
+    <Crush.label>krossskada</Crush.label>
     <Crush.comps.0.labelTendedWell>bandagerad</Crush.comps.0.labelTendedWell>
-    <Crush.comps.0.labelTended>illa bandagerad</Crush.comps.0.labelTended>
     <Crush.comps.0.labelTendedWellInner>sytt</Crush.comps.0.labelTendedWellInner>
-    <Crush.comps.0.labelTendedInner>illa sytt</Crush.comps.0.labelTendedInner>
     <Crush.comps.0.labelSolidTendedWell>spjälad</Crush.comps.0.labelSolidTendedWell>
-    <Crush.comps.0.labelSolidTended>illa spjälad</Crush.comps.0.labelSolidTended>
     <Crush.comps.2.oldLabel>Ärr från krosskada</Crush.comps.2.oldLabel>
     <Crush.injuryProps.destroyedLabel>krossad</Crush.injuryProps.destroyedLabel>
     
-    <Crack.label>Benbrott</Crack.label>
+    <Crack.label>benbrott</Crack.label>
     <Crack.comps.0.labelTendedWell>läkt</Crack.comps.0.labelTendedWell>
-    <Crack.comps.0.labelTended>illa läkt</Crack.comps.0.labelTended>
     <Crack.comps.0.labelTendedWellInner>läkt</Crack.comps.0.labelTendedWellInner>
-    <Crack.comps.0.labelTendedInner>illa läkt</Crack.comps.0.labelTendedInner>
     <Crack.comps.0.labelSolidTendedWell>läkt</Crack.comps.0.labelSolidTendedWell>
-    <Crack.comps.0.labelSolidTended>illa läkt</Crack.comps.0.labelSolidTended>
     <Crack.injuryProps.destroyedLabel>krossad</Crack.injuryProps.destroyedLabel>
     
-    <Cut.label>Snitt</Cut.label>
+    <Cut.label>snitt</Cut.label>
     <Cut.comps.0.labelTendedWell>bandagerad</Cut.comps.0.labelTendedWell>
-    <Cut.comps.0.labelTended>illa bandagerad</Cut.comps.0.labelTended>
     <Cut.comps.0.labelTendedWellInner>sytt</Cut.comps.0.labelTendedWellInner>
-    <Cut.comps.0.labelTendedInner>illa sytt</Cut.comps.0.labelTendedInner>
     <Cut.comps.0.labelSolidTendedWell>spjälad</Cut.comps.0.labelSolidTendedWell>
-    <Cut.comps.0.labelSolidTended>illa spjälad</Cut.comps.0.labelSolidTended>
     <Cut.comps.2.oldLabel>Ärr från skärskada</Cut.comps.2.oldLabel>
     <Cut.injuryProps.destroyedLabel>avskuren</Cut.injuryProps.destroyedLabel>
     <Cut.injuryProps.destroyedOutLabel>utskuren</Cut.injuryProps.destroyedOutLabel>
     
-    <SurgicalCut.label>Kirurgiskt snitt</SurgicalCut.label>
+    <SurgicalCut.label>kirurgiskt snitt</SurgicalCut.label>
     <SurgicalCut.comps.0.labelTendedWell>bandagerad</SurgicalCut.comps.0.labelTendedWell>
-    <SurgicalCut.comps.0.labelTended>illa bandagerad</SurgicalCut.comps.0.labelTended>
     <SurgicalCut.comps.0.labelTendedWellInner>suturerad</SurgicalCut.comps.0.labelTendedWellInner>
-    <SurgicalCut.comps.0.labelTendedInner>illa suturerad</SurgicalCut.comps.0.labelTendedInner>
     <SurgicalCut.comps.0.labelSolidTendedWell>spjälad</SurgicalCut.comps.0.labelSolidTendedWell>
-    <SurgicalCut.comps.0.labelSolidTended>illa spjälad</SurgicalCut.comps.0.labelSolidTended>
     <SurgicalCut.comps.1.oldLabel>Kirurgiskt ärr</SurgicalCut.comps.1.oldLabel>
     
-    <Scratch.label>Rivsår</Scratch.label>
+    <Scratch.label>rivsår</Scratch.label>
     <Scratch.comps.0.labelTendedWell>bandagerad</Scratch.comps.0.labelTendedWell>
-    <Scratch.comps.0.labelTended>illa bandagerad</Scratch.comps.0.labelTended>
     <Scratch.comps.0.labelTendedWellInner>sytt</Scratch.comps.0.labelTendedWellInner>
-    <Scratch.comps.0.labelTendedInner>illa sytt</Scratch.comps.0.labelTendedInner>
     <Scratch.comps.0.labelSolidTendedWell>spjälad</Scratch.comps.0.labelSolidTendedWell>
-    <Scratch.comps.0.labelSolidTended>illa spjälad</Scratch.comps.0.labelSolidTended>
     <Scratch.comps.2.oldLabel>Ärr från rivsår</Scratch.comps.2.oldLabel>
     <Scratch.injuryProps.destroyedLabel>Avriven</Scratch.injuryProps.destroyedLabel>
     <Scratch.injuryProps.destroyedOutLabel>Utriven</Scratch.injuryProps.destroyedOutLabel>
     
-    <Bite.label>Bett</Bite.label>
+    <Bite.label>bett</Bite.label>
     <Bite.comps.0.labelTendedWell>bandagerad</Bite.comps.0.labelTendedWell>
-    <Bite.comps.0.labelTended>illa bandagerad</Bite.comps.0.labelTended>
     <Bite.comps.0.labelTendedWellInner>sytt</Bite.comps.0.labelTendedWellInner>
-    <Bite.comps.0.labelTendedInner>illa sytt</Bite.comps.0.labelTendedInner>
     <Bite.comps.0.labelSolidTendedWell>spjälad</Bite.comps.0.labelSolidTendedWell>
-    <Bite.comps.0.labelSolidTended>illa spjälad</Bite.comps.0.labelSolidTended>
     <Bite.comps.2.oldLabel>Ärr från bett</Bite.comps.2.oldLabel>
     <Bite.injuryProps.destroyedLabel>Avbiten</Bite.injuryProps.destroyedLabel>
     <Bite.injuryProps.destroyedOutLabel>Urbitet</Bite.injuryProps.destroyedOutLabel>
     
-    <Stab.label>Stick</Stab.label>
+    <Stab.label>stick</Stab.label>
     <Stab.comps.0.labelTendedWell>bandagerad</Stab.comps.0.labelTendedWell>
-    <Stab.comps.0.labelTended>illa bandagiert</Stab.comps.0.labelTended>
     <Stab.comps.0.labelTendedWellInner>sytt</Stab.comps.0.labelTendedWellInner>
-    <Stab.comps.0.labelTendedInner>illa sytt</Stab.comps.0.labelTendedInner>
     <Stab.comps.0.labelSolidTendedWell>spjälad</Stab.comps.0.labelSolidTendedWell>
-    <Stab.comps.0.labelSolidTended>illa spjälad</Stab.comps.0.labelSolidTended>
     <Stab.comps.2.oldLabel>Ärr från sticksår</Stab.comps.2.oldLabel>
     <Stab.injuryProps.destroyedLabel>Avstucken</Stab.injuryProps.destroyedLabel>
     <Stab.injuryProps.destroyedOutLabel>Urstucken</Stab.injuryProps.destroyedOutLabel>
     
-    <Gunshot.label>Skottskada</Gunshot.label>
+    <Gunshot.label>skottskada</Gunshot.label>
     <Gunshot.comps.0.labelTendedWell>bandagerad</Gunshot.comps.0.labelTendedWell>
-    <Gunshot.comps.0.labelTended>illa bandagerad</Gunshot.comps.0.labelTended>
     <Gunshot.comps.0.labelTendedWellInner>sytt</Gunshot.comps.0.labelTendedWellInner>
-    <Gunshot.comps.0.labelTendedInner>illa sytt</Gunshot.comps.0.labelTendedInner>
     <Gunshot.comps.0.labelSolidTendedWell>spjälad</Gunshot.comps.0.labelSolidTendedWell>
-    <Gunshot.comps.0.labelSolidTended>illa spjälad</Gunshot.comps.0.labelSolidTended>
-    <Gunshot.comps.2.oldLabel>Ärr från skottskada</Gunshot.comps.2.oldLabel>
+    <Gunshot.comps.2.oldLabel>gammal skottskada</Gunshot.comps.2.oldLabel>
+	<Gunshot.comps.2.instantlyOldLabel>permanent skottskada</Gunshot.comps.2.instantlyOldLabel>
     <Gunshot.injuryProps.destroyedLabel>Avskjuten</Gunshot.injuryProps.destroyedLabel>
     <Gunshot.injuryProps.destroyedOutLabel>Avskjuten</Gunshot.injuryProps.destroyedOutLabel>
     
-    <Shredded.label>Sprängskada</Shredded.label>
+    <Shredded.label>sprängskada</Shredded.label>
     <Shredded.comps.0.labelTendedWell>bandagerad</Shredded.comps.0.labelTendedWell>
-    <Shredded.comps.0.labelTended>illa bandagerad</Shredded.comps.0.labelTended>
     <Shredded.comps.0.labelTendedWellInner>sytt</Shredded.comps.0.labelTendedWellInner>
-    <Shredded.comps.0.labelTendedInner>illa sytt</Shredded.comps.0.labelTendedInner>
     <Shredded.comps.0.labelSolidTendedWell>spjälad</Shredded.comps.0.labelSolidTendedWell>
-    <Shredded.comps.0.labelSolidTended>illa spjälad</Shredded.comps.0.labelSolidTended>
     <Shredded.comps.2.oldLabel>Ärr</Shredded.comps.2.oldLabel>
     <Shredded.injuryProps.destroyedLabel>Förlorad i en explosion</Shredded.injuryProps.destroyedLabel>
     <Shredded.injuryProps.destroyedOutLabel>Förlorad i en explosion</Shredded.injuryProps.destroyedOutLabel>
     
-    <Bruise.label>Kontusion</Bruise.label>
+    <Bruise.label>kontusion</Bruise.label>
     <Bruise.comps.0.labelTendedWell>bandagerad</Bruise.comps.0.labelTendedWell>
-    <Bruise.comps.0.labelTended>illa bandagerad</Bruise.comps.0.labelTended>
     <Bruise.comps.0.labelTendedWellInner>sytt</Bruise.comps.0.labelTendedWellInner>
-    <Bruise.comps.0.labelTendedInner>illa sytt</Bruise.comps.0.labelTendedInner>
     <Bruise.comps.0.labelSolidTendedWell>spjälad</Bruise.comps.0.labelSolidTendedWell>
-    <Bruise.comps.0.labelSolidTended>illa spjälad</Bruise.comps.0.labelSolidTended>
     <Bruise.injuryProps.destroyedLabel>Avslagen</Bruise.injuryProps.destroyedLabel>
     
-    <Frostbite.label>Förfrysning</Frostbite.label>
+    <Frostbite.label>förfrysning</Frostbite.label>
     <Frostbite.comps.0.labelTendedWell>bandagerad</Frostbite.comps.0.labelTendedWell>
-    <Frostbite.comps.0.labelTended>illa bandagerad</Frostbite.comps.0.labelTended>
     <Frostbite.comps.0.labelTendedWellInner>sytt</Frostbite.comps.0.labelTendedWellInner>
-    <Frostbite.comps.0.labelTendedInner>illa sytt</Frostbite.comps.0.labelTendedInner>
     <Frostbite.comps.0.labelSolidTendedWell>spjälad</Frostbite.comps.0.labelSolidTendedWell>
-    <Frostbite.comps.0.labelSolidTended>illa spjälad</Frostbite.comps.0.labelSolidTended>
     <Frostbite.comps.2.oldLabel>Ärrvävnad från frostskada</Frostbite.comps.2.oldLabel>
     <Frostbite.injuryProps.destroyedLabel>Förfrusen</Frostbite.injuryProps.destroyedLabel>
-    
-	<!-- Missing body part -->
-	
-    <MissingBodyPart.label>saknad kroppsdel</MissingBodyPart.label>
+
     
 </LanguageData>

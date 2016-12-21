@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Sandstone -->
+
+  <MakeStoneBlocksSandstone.label>Hugg sandstenblock</MakeStoneBlocksSandstone.label>
+  <MakeStoneBlocksSandstone.description>Hugger sandstenbitar till användbara block.</MakeStoneBlocksSandstone.description>
+  <MakeStoneBlocksSandstone.jobString>Hugger stenblock ifrån bitar.</MakeStoneBlocksSandstone.jobString>
+
+
+  <!-- Granite -->
+
+  <MakeStoneBlocksGranite.label>Hugg granitblock</MakeStoneBlocksGranite.label>
+  <MakeStoneBlocksGranite.description>Hugger granitbitar till användbara block.</MakeStoneBlocksGranite.description>
+  <MakeStoneBlocksGranite.jobString>Hugger stenblock ifrån bitar.</MakeStoneBlocksGranite.jobString>
+
+
+  <!-- Limestone -->
+
+  <MakeStoneBlocksLimestone.label>Hugg pimpstenblock</MakeStoneBlocksLimestone.label>
+  <MakeStoneBlocksLimestone.description>Hugger pimpstenbitar till användbara block.</MakeStoneBlocksLimestone.description>
+  <MakeStoneBlocksLimestone.jobString>Hugger stenblock ifrån bitar.</MakeStoneBlocksLimestone.jobString>
+
+
+  <!-- Slate -->
+
+  <MakeStoneBlocksSlate.label>Hugg skifferblock</MakeStoneBlocksSlate.label>
+  <MakeStoneBlocksSlate.description>Hugger skifferbitar till användbara block.</MakeStoneBlocksSlate.description>
+  <MakeStoneBlocksSlate.jobString>Hugger stenblock ifrån bitar.</MakeStoneBlocksSlate.jobString>
+
+
+  <!-- Marble -->
+
+  <MakeStoneBlocksMarble.label>Hugg marmorblock</MakeStoneBlocksMarble.label>
+  <MakeStoneBlocksMarble.description>Hugger marmorbitar till användbara block.</MakeStoneBlocksMarble.description>
+  <MakeStoneBlocksMarble.jobString>Hugger stenblock ifrån bitar.</MakeStoneBlocksMarble.jobString>
+
+
+</LanguageData>

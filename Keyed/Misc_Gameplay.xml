@@ -66,7 +66,7 @@
   <Permanent>permanent</Permanent>
   <CaravanResting>Vilar.</CaravanResting>
   <CaravanEstimatedTimeToDestination>Est. tid till destinationen: {0}</CaravanEstimatedTimeToDestination>
-  <CaravanImmobilizedByMass>Immobil: alltför mycket vikt </.CaravanImmobilizedByMass>
+  <CaravanImmobilizedByMass>Immobil: alltför mycket vikt.</CaravanImmobilizedByMass>
   <CaravanOutOfFood>Slut på mat.</CaravanOutOfFood>
   <CaravanDaysOfFood>Dagar av mat: {0}</CaravanDaysOfFood>
   <CaravanMemberMentalBreak>Stannade på grund av: {0} fick ett mentalt bryt.</CaravanMemberMentalBreak>

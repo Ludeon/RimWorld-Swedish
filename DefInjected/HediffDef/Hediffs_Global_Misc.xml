@@ -9,7 +9,6 @@
     <BloodLoss.stages.4.label>extrem</BloodLoss.stages.4.label>
     
     <Anesthetic.label>Narkos</Anesthetic.label>
-    <Concussion.label>Hjärnskakning</Concussion.label>
     <PsychicShock.label>Psykisk Chock</PsychicShock.label>
     <CryptosleepSickness.label>Kryptosömnsjuka</CryptosleepSickness.label>
     <FoodPoisoning.label>Matförgiftning</FoodPoisoning.label>

@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MakeStoneBlocks.label>Hugga stenblock</MakeStoneBlocks.label>
-    <MakeStoneBlocks.description>Hugger ner en stor stenbit till användbara stenblock.</MakeStoneBlocks.description>
-    <MakeStoneBlocks.jobString>Hugger stenblock.</MakeStoneBlocks.jobString>
+  <MakeStoneBlocksAny.label>Hugga stenblock</MakeStoneBlocksAny.label>
+  <MakeStoneBlocksAny.description>Hugger ner en stor stenbit till användbara stenblock.</MakeStoneBlocksAny.description>
+  <MakeStoneBlocksAny.jobString>Hugger stenblock.</MakeStoneBlocksAny.jobString>
     
-    <ExtractMetalFromSlag.label>Extrahera metall från slagg.</ExtractMetalFromSlag.label>
-    <ExtractMetalFromSlag.description>Använd värme och starka elektromagneter för att separera användbara metaller från stora bitar slagg.</ExtractMetalFromSlag.description>
-    <ExtractMetalFromSlag.jobString>Extraherar metall från slagg.</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.label>Extrahera metall från slagg.</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Använd värme och starka elektromagneter för att separera användbara metaller från stora bitar slagg.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Extraherar metall från slagg.</ExtractMetalFromSlag.jobString>
     
-    <SmeltWeapon.label>Extrahera metall från vapen</SmeltWeapon.label>
-    <SmeltWeapon.description>Använd värme och starka elektromagneter för att separera användbara metaller ifrån vapen.</SmeltWeapon.description>
-    <SmeltWeapon.jobString>Extraherar metall från vapen.</SmeltWeapon.jobString>
+  <SmeltWeapon.label>Extrahera metall från vapen</SmeltWeapon.label>
+  <SmeltWeapon.description>Använd värme och starka elektromagneter för att separera användbara metaller ifrån vapen.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Extraherar metall från vapen.</SmeltWeapon.jobString>
+	
+  <DestroyWeapon.label>förstör vapen</DestroyWeapon.label>
+  <DestroyWeapon.description>Använd värme och förstör oönskade vapen. Snabbare än att smälta och fungerar på icke smältbara vapen men ger inga resurser.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>Förstör vapen.</DestroyWeapon.jobString>
+
+  <MakeMortarShell.label>tillverka en granat</MakeMortarShell.label>
+  <MakeMortarShell.description>Tillverka en granat.</MakeMortarShell.description>
+  <MakeMortarShell.jobString>Tillverkar en granat.</MakeMortarShell.jobString>
+  
+  <MakeChemfuelFromWood.label>tillverka kemiskt bränsle från trä</MakeChemfuelFromWood.label>
+  <MakeChemfuelFromWood.description>Gör ett parti kemiskt bränsle genom förgasning av ved.</MakeChemfuelFromWood.description>
+  <MakeChemfuelFromWood.jobString>Raffinerar kemiskt bränsle från trä.</MakeChemfuelFromWood.jobString>
+  
+  <MakeChemfuelFromOrganics.label>tillverka kemiskt bränsle från organiskt material</MakeChemfuelFromOrganics.label>
+  <MakeChemfuelFromOrganics.description>Gör ett parti kemiskt bränsle genom att extrahera biobränsle från organiska råvaror.</MakeChemfuelFromOrganics.description>
+  <MakeChemfuelFromOrganics.jobString>Tillverka kemiskt bränsle från organiskt material.</MakeChemfuelFromOrganics.jobString>
     
-    <MakeArtilleryShell.label>Göra en artillerigranat</MakeArtilleryShell.label>
-    <MakeArtilleryShell.description>Göra en artillerigranat.</MakeArtilleryShell.description>
-    <MakeArtilleryShell.jobString>Gör en artillerigranat.</MakeArtilleryShell.jobString>
+  <MakeComponent.label>Göra en komponent</MakeComponent.label>
+  <MakeComponent.description>Göra en komponent.</MakeComponent.description>
+  <MakeComponent.jobString>Gör en komponent.</MakeComponent.jobString>
     
-    <MakeComponent.label>Göra en komponent</MakeComponent.label>
-    <MakeComponent.description>Göra en komponent.</MakeComponent.description>
-    <MakeComponent.jobString>Gör en komponent.</MakeComponent.jobString>
-    
+	
 </LanguageData>

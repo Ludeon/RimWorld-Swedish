@@ -9,13 +9,13 @@
     <Elephant.lifeStages.2.labelMale>elefanttjur</Elephant.lifeStages.2.labelMale>
     <Elephant.lifeStages.2.labelFemale>elefantko</Elephant.lifeStages.2.labelFemale>
     
-    <Megatherium.label>jättesengångare</Megatherium.label>
-    <Megatherium.lifeStages.0.labelMale>jättesengångare</Megatherium.lifeStages.0.labelMale>
-    <Megatherium.lifeStages.0.labelFemale>jättesengångare</Megatherium.lifeStages.0.labelFemale>
-    <Megatherium.lifeStages.1.labelMale>jättesengångare</Megatherium.lifeStages.1.labelMale>
-    <Megatherium.lifeStages.1.labelFemale>jättesengångare</Megatherium.lifeStages.1.labelFemale>
-    <Megatherium.lifeStages.2.labelMale>jättesengångare</Megatherium.lifeStages.2.labelMale>
-    <Megatherium.lifeStages.2.labelFemale>jättesengångare</Megatherium.lifeStages.2.labelFemale>
+    <Megasloth.label>Jättesengångare</Megasloth.label>
+    <Megasloth.lifeStages.0.labelMale>Jättesengångare</Megasloth.lifeStages.0.labelMale>
+    <Megasloth.lifeStages.0.labelFemale>Jättesengångare</Megasloth.lifeStages.0.labelFemale>
+    <Megasloth.lifeStages.1.labelMale>Jättesengångare</Megasloth.lifeStages.1.labelMale>
+    <Megasloth.lifeStages.1.labelFemale>Jättesengångare</Megasloth.lifeStages.1.labelFemale>
+    <Megasloth.lifeStages.2.labelMale>Jättesengångare</Megasloth.lifeStages.2.labelMale>
+    <Megasloth.lifeStages.2.labelFemale>Jättesengångare</Megasloth.lifeStages.2.labelFemale>
     
     <Thrumbo.label>thrumbo</Thrumbo.label>
     <Thrumbo.lifeStages.0.label>thrumbokalv</Thrumbo.lifeStages.0.label>
@@ -24,5 +24,6 @@
     <Thrumbo.lifeStages.1.labelFemale>thrumbo</Thrumbo.lifeStages.1.labelFemale>
     <Thrumbo.lifeStages.2.labelMale>thrumbotjur</Thrumbo.lifeStages.2.labelMale>
     <Thrumbo.lifeStages.2.labelFemale>thrumboko</Thrumbo.lifeStages.2.labelFemale>
-    
+  
+  
 </LanguageData>
