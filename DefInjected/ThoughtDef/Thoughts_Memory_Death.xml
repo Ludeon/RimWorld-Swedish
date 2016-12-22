@@ -1,93 +1,110 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <KnowGuestExecuted.stages.0.label>someone put to death</KnowGuestExecuted.stages.0.label>
-    <KnowGuestExecuted.stages.0.description>A prisoner or guest was put to death.</KnowGuestExecuted.stages.0.description>
-    <KnowGuestExecuted.stages.1.label>someone was executed</KnowGuestExecuted.stages.1.label>
-    <KnowGuestExecuted.stages.1.description>A prisoner or guest was killed in cold blood. This colony seems more evil by the day.</KnowGuestExecuted.stages.1.description>
-    <KnowGuestExecuted.stages.2.label>organ harvested and killed</KnowGuestExecuted.stages.2.label>
-    <KnowGuestExecuted.stages.2.description>A prisoner or guest died because the colony took body parts from him. It's horrible.</KnowGuestExecuted.stages.2.description>
-    
-    <KnowColonistExecuted.stages.0.label>colonist put to death</KnowColonistExecuted.stages.0.label>
-    <KnowColonistExecuted.stages.0.description>A colonist was put to death.</KnowColonistExecuted.stages.0.description>
-    <KnowColonistExecuted.stages.1.label>colonist was executed</KnowColonistExecuted.stages.1.label>
-    <KnowColonistExecuted.stages.1.description>A colonist was killed in cold blood. This colony seems more evil by the day.</KnowColonistExecuted.stages.1.description>
-    <KnowColonistExecuted.stages.2.label>colonist's organ harvested, killed</KnowColonistExecuted.stages.2.label>
-    <KnowColonistExecuted.stages.2.description>A colonist died because someone took body parts from him. It's horrible.</KnowColonistExecuted.stages.2.description>
-    
-    <KnowPrisonerDiedInnocent.stages.0.label>innocent prisoner died</KnowPrisonerDiedInnocent.stages.0.label>
-    <KnowPrisonerDiedInnocent.stages.0.description>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</KnowPrisonerDiedInnocent.stages.0.description>
-    
-    <KnowColonistDied.stages.0.label>colonist died</KnowColonistDied.stages.0.label>
-    <KnowColonistDied.stages.0.description>One of our people died. We should be able to take care of our people.</KnowColonistDied.stages.0.description>
-    
-    <BondedAnimalDied.stages.0.label>bonded animal died</BondedAnimalDied.stages.0.label>
-    <BondedAnimalDied.stages.0.description>Such a tender, unique animal. This universe is evil!</BondedAnimalDied.stages.0.description>
-    
-    <PawnWithGoodOpinionDied.stages.0.label>my friend died</PawnWithGoodOpinionDied.stages.0.label>
-    <PawnWithGoodOpinionDied.stages.0.description>Such a wonderful person. The universe gets darker every day.</PawnWithGoodOpinionDied.stages.0.description>
-    
-    <PawnWithBadOpinionDied.stages.0.label>my rival died</PawnWithBadOpinionDied.stages.0.label>
-    <PawnWithBadOpinionDied.stages.0.description>Serves them right. Things are looking up.</PawnWithBadOpinionDied.stages.0.description>
-    
-    <MySonDied.stages.0.label>my son died</MySonDied.stages.0.label>
-    <MySonDied.stages.0.description>My son is dead. My own flesh and blood...</MySonDied.stages.0.description>
-    
-    <MyDaughterDied.stages.0.label>my daughter died</MyDaughterDied.stages.0.label>
-    <MyDaughterDied.stages.0.description>My daughter is dead. My own flesh and blood...</MyDaughterDied.stages.0.description>
-    
-    <MyHusbandDied.stages.0.label>my husband died</MyHusbandDied.stages.0.label>
-    <MyHusbandDied.stages.0.description>My husband is dead. I am alone.</MyHusbandDied.stages.0.description>
-    
-    <MyWifeDied.stages.0.label>my wife died</MyWifeDied.stages.0.label>
-    <MyWifeDied.stages.0.description>My wife is dead. I am alone.</MyWifeDied.stages.0.description>
-    
-    <MyFianceDied.stages.0.label>my fiance died</MyFianceDied.stages.0.label>
-    <MyFianceDied.stages.0.description>My fiance died. Such a man... my future is gone.</MyFianceDied.stages.0.description>
-    
-    <MyFianceeDied.stages.0.label>my fiancée died</MyFianceeDied.stages.0.label>
-    <MyFianceeDied.stages.0.description>My fiancée died. Such a woman... my future is gone.</MyFianceeDied.stages.0.description>
-    
-    <MyLoverDied.stages.0.label>my lover died</MyLoverDied.stages.0.label>
-    <MyLoverDied.stages.0.description>My lover died. I am so alone.</MyLoverDied.stages.0.description>
-    
-    <MyBrotherDied.stages.0.label>my brother died</MyBrotherDied.stages.0.label>
-    <MyBrotherDied.stages.0.description>My brother died. My own flesh and blood...</MyBrotherDied.stages.0.description>
-    
-    <MySisterDied.stages.0.label>my sister died</MySisterDied.stages.0.label>
-    <MySisterDied.stages.0.description>My sister died. My own flesh and blood...</MySisterDied.stages.0.description>
-    
-    <MyGrandchildDied.stages.0.label>my grandchild died</MyGrandchildDied.stages.0.label>
-    <MyGrandchildDied.stages.0.description>My grandchild died. My own flesh and blood...</MyGrandchildDied.stages.0.description>
-    
-    <MyFatherDied.stages.0.label>my father died</MyFatherDied.stages.0.label>
-    <MyFatherDied.stages.0.description>My father died. He's gone forever.</MyFatherDied.stages.0.description>
-    
-    <MyMotherDied.stages.0.label>my mother died</MyMotherDied.stages.0.label>
-    <MyMotherDied.stages.0.description>My mother died. She's gone forever.</MyMotherDied.stages.0.description>
-    
-    <MyNieceDied.stages.0.label>my niece died</MyNieceDied.stages.0.label>
-    <MyNieceDied.stages.0.description>My niece died. Such a wonderful child.</MyNieceDied.stages.0.description>
-    
-    <MyNephewDied.stages.0.label>my nephew died</MyNephewDied.stages.0.label>
-    <MyNephewDied.stages.0.description>My nephew died. Such a wonderful child.</MyNephewDied.stages.0.description>
-    
-    <MyHalfSiblingDied.stages.0.label>my half-sibling died</MyHalfSiblingDied.stages.0.label>
-    <MyHalfSiblingDied.stages.0.description>My half-sibling died. My own flesh and blood...</MyHalfSiblingDied.stages.0.description>
-    
-    <MyAuntDied.stages.0.label>my aunt died</MyAuntDied.stages.0.label>
-    <MyAuntDied.stages.0.description>My aunt died.</MyAuntDied.stages.0.description>
-    
-    <MyUncleDied.stages.0.label>my uncle died</MyUncleDied.stages.0.label>
-    <MyUncleDied.stages.0.description>My uncle died.</MyUncleDied.stages.0.description>
-    
-    <MyGrandparentDied.stages.0.label>my grandparent died</MyGrandparentDied.stages.0.label>
-    <MyGrandparentDied.stages.0.description>My grandparent died.</MyGrandparentDied.stages.0.description>
-    
-    <MyCousinDied.stages.0.label>my cousin died</MyCousinDied.stages.0.label>
-    <MyCousinDied.stages.0.description>My cousin died. My own flesh and blood...</MyCousinDied.stages.0.description>
-    
-    <MyKinDied.stages.0.label>my kin died</MyKinDied.stages.0.label>
-    <MyKinDied.stages.0.description>My kin died.</MyKinDied.stages.0.description>
+
+  <!-- executions and prisoner deaths -->
+
+  <KnowGuestExecuted.stages.0.label>motiverad avrättning</KnowGuestExecuted.stages.0.label>
+  <KnowGuestExecuted.stages.0.description>En skyldig fånge eller gäst avrättades. Det var motiverat, men ändå tråkigt.</KnowGuestExecuted.stages.0.description>
+  <KnowGuestExecuted.stages.1.label>någon avlivades</KnowGuestExecuted.stages.1.label>
+  <KnowGuestExecuted.stages.1.description>En fånge eller gäst avlivades. Det var humant, men ändå tråkigt.</KnowGuestExecuted.stages.1.description>
+  <KnowGuestExecuted.stages.2.label>någon avrättades</KnowGuestExecuted.stages.2.label>
+  <KnowGuestExecuted.stages.2.description>En fånge eller gäst dödades kallblodigt. Det verkade aningen ondskefullt.</KnowGuestExecuted.stages.2.description>
+  <KnowGuestExecuted.stages.3.label>någon organskördades</KnowGuestExecuted.stages.3.label>
+  <KnowGuestExecuted.stages.3.description>En fånge eller gäst dog på grund av att kolonin tog kroppsdelar från honom. Det är hemskt.</KnowGuestExecuted.stages.3.description>
+
+  <KnowColonistExecuted.stages.0.label>motiverad avrättning av kolonist</KnowColonistExecuted.stages.0.label>
+  <KnowColonistExecuted.stages.0.description>En skyldig kolonist avrättades. Det var motiverat, men ändå tråkigt.</KnowColonistExecuted.stages.0.description>
+  <KnowColonistExecuted.stages.1.label>kolonist avlivades</KnowColonistExecuted.stages.1.label>
+  <KnowColonistExecuted.stages.1.description>En kolonist avlivades. Det var humant, men ändå tråkigt.</KnowColonistExecuted.stages.1.description>
+  <KnowColonistExecuted.stages.2.label>kolonist avrättades</KnowColonistExecuted.stages.2.label>
+  <KnowColonistExecuted.stages.2.description>En kolonist dödades kallblodigt. Det verkade aningen ondskefullt.</KnowColonistExecuted.stages.2.description>
+  <KnowColonistExecuted.stages.3.label>kolonist organskördades</KnowColonistExecuted.stages.3.label>
+  <KnowColonistExecuted.stages.3.description>En kolonist dog på grund av att kolonin tog kroppsdelar från honom. Det är hemskt.</KnowColonistExecuted.stages.3.description>
+
+  <KnowPrisonerDiedInnocent.stages.0.label>oskyldig fånge dog</KnowPrisonerDiedInnocent.stages.0.label>
+  <KnowPrisonerDiedInnocent.stages.0.description>En av våra fångar dog trots att HE var harmlös. Vi borde kunna ta hand om våra fångar. Om vi ville ha dem döda, skulle vi ha åtminstone gjort en ordnad avrättning snarare än tillåta detta barbari.</KnowPrisonerDiedInnocent.stages.0.description>
+
+  <KnowColonistDied.stages.0.label>kolonist dog</KnowColonistDied.stages.0.label>
+  <KnowColonistDied.stages.0.description>En av vårt folk dog. Vi borde kunna ta hand om vårt folk.</KnowColonistDied.stages.0.description>
+
+
+  <!-- bonded animal died -->
+
+  <BondedAnimalDied.stages.0.label>bundet djur {0} dog</BondedAnimalDied.stages.0.label>
+  <BondedAnimalDied.stages.0.description>Sådant ömt och unikt djur. Detta universum är ont!</BondedAnimalDied.stages.0.description>
+
+
+  <!-- friend/rival died -->
+
+  <PawnWithGoodOpinionDied.stages.0.label>min vän {0} dog</PawnWithGoodOpinionDied.stages.0.label>
+  <PawnWithGoodOpinionDied.stages.0.description>En sådan underbar person. Universum blir mörkare varje dag.</PawnWithGoodOpinionDied.stages.0.description>
+
+  <PawnWithBadOpinionDied.stages.0.label>min rival {0} dog</PawnWithBadOpinionDied.stages.0.label>
+  <PawnWithBadOpinionDied.stages.0.description>Rätt åt dom. Saker ser ljust ut.</PawnWithBadOpinionDied.stages.0.description>
+
+
+  <!-- Family member died thoughts -->
+
+  <MySonDied.stages.0.label>min son {0} dog</MySonDied.stages.0.label>
+  <MySonDied.stages.0.description>Min son är död. Mitt eget kött och blod...</MySonDied.stages.0.description>
+
+  <MyDaughterDied.stages.0.label>min dotter {0} dog</MyDaughterDied.stages.0.label>
+  <MyDaughterDied.stages.0.description>Min dotter är död. Mitt eget kött och blod...</MyDaughterDied.stages.0.description>
+
+  <MyHusbandDied.stages.0.label>min man {0} dog</MyHusbandDied.stages.0.label>
+  <MyHusbandDied.stages.0.description>Min make är död. Jag är ensam.</MyHusbandDied.stages.0.description>
+
+  <MyWifeDied.stages.0.label>min fru {0} dog</MyWifeDied.stages.0.label>
+  <MyWifeDied.stages.0.description>Min fru är död. Jag är ensam.</MyWifeDied.stages.0.description>
+
+  <MyFianceDied.stages.0.label>min fästman {0} dog</MyFianceDied.stages.0.label>
+  <MyFianceDied.stages.0.description>Min fästman dog. En sådan man ... min framtid är borta.</MyFianceDied.stages.0.description>
+
+  <MyFianceeDied.stages.0.label>min fästmö {0} dog</MyFianceeDied.stages.0.label>
+  <MyFianceeDied.stages.0.description>Min fästmö dog. En sådan kvinna ... min framtid är borta.</MyFianceeDied.stages.0.description>
+
+  <MyLoverDied.stages.0.label>min älskare {0} dog</MyLoverDied.stages.0.label>
+  <MyLoverDied.stages.0.description>Min älskare dog. Jag är ensam.</MyLoverDied.stages.0.description>
+
+  <MyBrotherDied.stages.0.label>min bror {0} dog</MyBrotherDied.stages.0.label>
+  <MyBrotherDied.stages.0.description>Min bror dog. Mitt eget kött och blod...</MyBrotherDied.stages.0.description>
+
+  <MySisterDied.stages.0.label>min syster {0} dog</MySisterDied.stages.0.label>
+  <MySisterDied.stages.0.description>Min syster dog. Mitt eget kött och blod...</MySisterDied.stages.0.description>
+
+  <MyGrandchildDied.stages.0.label>mitt barnbarn {0} dog</MyGrandchildDied.stages.0.label>
+  <MyGrandchildDied.stages.0.description>Mitt barnbarn dog. Mitt eget kött och blod...</MyGrandchildDied.stages.0.description>
+
+  <MyFatherDied.stages.0.label>min far {0} dog</MyFatherDied.stages.0.label>
+  <MyFatherDied.stages.0.description>Min far dog. Han är borta för alltid.</MyFatherDied.stages.0.description>
+
+  <MyMotherDied.stages.0.label>min mor {0} dog</MyMotherDied.stages.0.label>
+  <MyMotherDied.stages.0.description>Min mor dog. Hon är borta för alltid.</MyMotherDied.stages.0.description>
+
+  <MyNieceDied.stages.0.label>min niece {0} dog</MyNieceDied.stages.0.label>
+  <MyNieceDied.stages.0.description>Min niece dog. Ett sådant underbart barn.</MyNieceDied.stages.0.description>
+
+  <MyNephewDied.stages.0.label>min brorson {0} dog</MyNephewDied.stages.0.label>
+  <MyNephewDied.stages.0.description>Min brorson died. Ett sådant underbart barn.</MyNephewDied.stages.0.description>
+
+  <MyHalfSiblingDied.stages.0.label>mitt halvsyskon {0} dog</MyHalfSiblingDied.stages.0.label>
+  <MyHalfSiblingDied.stages.0.description>Mitt halvsyskon dog. Mitt eget kött och blod...</MyHalfSiblingDied.stages.0.description>
+
+  <MyAuntDied.stages.0.label>min tant {0} dog</MyAuntDied.stages.0.label>
+  <MyAuntDied.stages.0.description>Min tant dog.</MyAuntDied.stages.0.description>
+
+  <MyUncleDied.stages.0.label>min onkel {0} dog</MyUncleDied.stages.0.label>
+  <MyUncleDied.stages.0.description>Min onkel dog.</MyUncleDied.stages.0.description>
+
+  <MyGrandparentDied.stages.0.label>min farförälder {0} dog</MyGrandparentDied.stages.0.label>
+  <MyGrandparentDied.stages.0.description>Min farförälder dog, Jag önskar jag lärt känna HIM bättre.</MyGrandparentDied.stages.0.description>
+
+  <MyCousinDied.stages.0.label>min kusin {0} dog</MyCousinDied.stages.0.label>
+  <MyCousinDied.stages.0.description>Min kusin dog. Mitt eget kött och blod...</MyCousinDied.stages.0.description>
+
+  <MyKinDied.stages.0.label>min släkting {0} dog</MyKinDied.stages.0.label>
+  <MyKinDied.stages.0.description>Min släkting dog.</MyKinDied.stages.0.description>
+
+
     
 </LanguageData>

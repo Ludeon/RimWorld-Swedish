@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <InstallJoywire.label>installera joywire</InstallJoywire.label>
-    <InstallJoywire.description>installerar joywire.</InstallJoywire.description>
-    <InstallJoywire.jobString>installerar joywire.</InstallJoywire.jobString>
+    <InstallJoywire.label>installera glädjetråd</InstallJoywire.label>
+    <InstallJoywire.description>installerar glädjetråd.</InstallJoywire.description>
+    <InstallJoywire.jobString>installerar glädjetråd.</InstallJoywire.jobString>
     
     <InstallPainstopper.label>installera painstopper</InstallPainstopper.label>
     <InstallPainstopper.description>installerar painstopper.</InstallPainstopper.description>

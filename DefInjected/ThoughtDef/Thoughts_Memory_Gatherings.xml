@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <GotMarried.stages.0.label>got married</GotMarried.stages.0.label>
-    <GotMarried.stages.0.description>I got married! Life is full of possibility!</GotMarried.stages.0.description>
+    <GotMarried.stages.0.label>gifte sig</GotMarried.stages.0.label>
+    <GotMarried.stages.0.description>Jag gifte mig! Livet är fullt av möjligheter!</GotMarried.stages.0.description>
     
-    <AttendedWedding.stages.0.label>attended wedding</AttendedWedding.stages.0.label>
-    <AttendedWedding.stages.0.description>It was great to see two people come together to build a future like that.</AttendedWedding.stages.0.description>
+    <AttendedWedding.stages.0.label>gick på bröllop</AttendedWedding.stages.0.label>
+    <AttendedWedding.stages.0.description>Det var bra att se två människor slpr sig ihop för att bygga en framtid tillsammans.</AttendedWedding.stages.0.description>
     
-    <AttendedParty.stages.0.label>attended party</AttendedParty.stages.0.label>
-    <AttendedParty.stages.0.description>I had a good time at that party.</AttendedParty.stages.0.description>
+    <AttendedParty.stages.0.label>varit på fest</AttendedParty.stages.0.label>
+    <AttendedParty.stages.0.description>Jag hade det trevligt på festen.</AttendedParty.stages.0.description>
     
+	
 </LanguageData>
