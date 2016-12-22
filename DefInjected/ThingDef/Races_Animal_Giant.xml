@@ -11,15 +11,15 @@
     <Elephant_Corpse.label>elefantkropp</Elephant_Corpse.label>
     <Elephant_Corpse.description>elefantkropp</Elephant_Corpse.description>
 
-    <Megatherium.label>jättesengångare</Megatherium.label>
-    <Megatherium.description>En typ av mark sengångare, Jättesengångaren är stor ensamgående växtätare. För länge sedan utrotad av de infödda i den gamla jordens Amerika kontinent, blev marksendgångaren återställd med hjälp av avancerad kloning och artificiell bioteknik.</Megatherium.description>
-    <Megatherium_Leather.label>jättesengångarhud</Megatherium_Leather.label>
-    <Megatherium_Leather.description>jättesengångarhud</Megatherium_Leather.description>
-    <Megatherium_Leather.stuffProps.stuffAdjective>jättesengångarhud</Megatherium_Leather.stuffProps.stuffAdjective>
-    <Megatherium_Meat.label>jättesengångarkött</Megatherium_Meat.label>
-    <Megatherium_Meat.description>jättesengångarkött</Megatherium_Meat.description>
-    <Megatherium_Corpse.label>jättesengångarkropp</Megatherium_Corpse.label>
-    <Megatherium_Corpse.description>jättesengångarkropp</Megatherium_Corpse.description>
+    <Megasloth.label>jättesengångare</Megasloth.label>
+    <Megasloth.description>En typ av mark sengångare, Jättesengångaren är stor ensamgående växtätare. För länge sedan utrotad av de infödda i den gamla jordens Amerika kontinent, blev marksendgångaren återställd med hjälp av avancerad kloning och artificiell bioteknik.</Megasloth.description>
+    <Megasloth_Leather.label>jättesengångarhud</Megasloth_Leather.label>
+    <Megasloth_Leather.description>jättesengångarhud</Megasloth_Leather.description>
+    <Megasloth_Leather.stuffProps.stuffAdjective>jättesengångarhud</Megasloth_Leather.stuffProps.stuffAdjective>
+    <Megasloth_Meat.label>jättesengångarkött</Megasloth_Meat.label>
+    <Megasloth_Meat.description>jättesengångarkött</Megasloth_Meat.description>
+    <Megasloth_Corpse.label>jättesengångarkropp</Megasloth_Corpse.label>
+    <Megasloth_Corpse.description>jättesengångarkropp</Megasloth_Corpse.description>
 
     <Thrumbo.label>thrumbo</Thrumbo.label>
     <Thrumbo.description>En gigantisk varelse av okänt ursprung. Den thrumbo är mild av naturen, men extremt farligt när den är förargad. Dess långa päls är ovanligt vacker och värdefull, och dess knivskarpa horn är mycket värdefull i de flesta marknader. Legender säger att en gammal thrumbo är den klokaste varelsen i universum - den väljer helt enkelt enkelt att inte tala.</Thrumbo.description>

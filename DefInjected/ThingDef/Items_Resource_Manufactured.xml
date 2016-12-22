@@ -15,8 +15,8 @@
 
     <!-- Shells -->
 
-    <ArtilleryShell.label>artillerigranat</ArtilleryShell.label>
-    <ArtilleryShell.description>Skjuts från artillerikanoner.</ArtilleryShell.description>
+    <MortarShell.label>granat</MortarShell.label>
+    <MortarShell.description>Skjuts från granatkastare. Exploderar när den skadas.</MortarShell.description>
 
 
     <!-- Component -->
@@ -29,6 +29,12 @@
 
     <Neutroamine.label>neutroamin</Neutroamine.label>
     <Neutroamine.description>En syntetisk prekursur kemikalie. Värdelös för sig själv men många läkemedel kräver neutroamine som en ingrediens.</Neutroamine.description>
+	
+	
+	<!-- Chemfuel -->
+
+    <Chemfuel.label>kemiskt bränsle</Chemfuel.label>
+    <Chemfuel.description>Flyktig vätska av kemisk förening. Används för bränsle till raketer och andra maskiner.</Chemfuel.description>
 
     
 </LanguageData>

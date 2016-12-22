@@ -3,7 +3,8 @@
     
     <RectTrigger.label>Avtryckare</RectTrigger.label>
     <DropPodIncoming.label>räddningskapsel (inkommande)</DropPodIncoming.label>
-    <DropPod.label>räddningskapsel</DropPod.label>
+	<DropPodLeaving.label>räddningskapsel (lämnar)</DropPodLeaving.label>
+	<ActiveDropPod.label>räddningskapsel</ActiveDropPod.label>
     <Fire.label>eld</Fire.label>
     <Spark.label>gnista</Spark.label>
     <TemporaryRegionBarrier.label>tillfällig regionbarriär</TemporaryRegionBarrier.label>

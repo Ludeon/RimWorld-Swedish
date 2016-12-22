@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
-    <MeleeWeapon_Gladius.description>En kortsvärd i gammal design. Bra för att sticka eller skära.</MeleeWeapon_Gladius.description>
-    
-    <MeleeWeapon_LongSword.label>långsvärd</MeleeWeapon_LongSword.label>
-    <MeleeWeapon_LongSword.description>Ett antikt vapen för kungar. Långsvärdet kan användas för att skära eller sticka och är dödligt i rätt händer.</MeleeWeapon_LongSword.description>
-    
-    <MeleeWeapon_Knife.label>kniv</MeleeWeapon_Knife.label>
-    <MeleeWeapon_Knife.description>En av mänsklighetens äldsta verktyg både ett verktyg i vardagen och ett dödligt vapen.</MeleeWeapon_Knife.description>
-    
     <MeleeWeapon_Shiv.label>provisorisk kniv</MeleeWeapon_Shiv.label>
     <MeleeWeapon_Shiv.description>Ett improviserat knivliknande vapen.</MeleeWeapon_Shiv.description>
-    
-    <MeleeWeapon_Spear.label>spjut</MeleeWeapon_Spear.label>
-    <MeleeWeapon_Spear.description>En trästav med en vass spets för att sticka motståndare i närstrid.</MeleeWeapon_Spear.description>
-    
-    <MeleeWeapon_Mace.label>spikklubba</MeleeWeapon_Mace.label>
-    <MeleeWeapon_Mace.description>En förfinad klubba konstruerad för effektivt svänga den med dödlig konsekvens.</MeleeWeapon_Mace.description>
-    
+	    
     <MeleeWeapon_Club.label>klubba</MeleeWeapon_Club.label>
     <MeleeWeapon_Club.description>Den äldsta mänskliga vapen - en formad träbit för att klubba fiender till döds. Primitiv men effektiv.</MeleeWeapon_Club.description>
 	
-    
+    <MeleeWeapon_Knife.label>kniv</MeleeWeapon_Knife.label>
+    <MeleeWeapon_Knife.description>En av mänsklighetens äldsta verktyg både ett verktyg i vardagen och ett dödligt vapen.</MeleeWeapon_Knife.description>
+	
+    <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
+    <MeleeWeapon_Gladius.description>En kortsvärd i gammal design. Bra för att sticka eller skära.</MeleeWeapon_Gladius.description>
+	
+    <MeleeWeapon_Mace.label>spikklubba</MeleeWeapon_Mace.label>
+    <MeleeWeapon_Mace.description>En förfinad klubba konstruerad för effektivt svänga den med dödlig konsekvens.</MeleeWeapon_Mace.description>
+
+    <MeleeWeapon_Spear.label>spjut</MeleeWeapon_Spear.label>
+    <MeleeWeapon_Spear.description>En trästav med en vass spets för att sticka motståndare i närstrid.</MeleeWeapon_Spear.description>
+   
+    <MeleeWeapon_LongSword.label>långsvärd</MeleeWeapon_LongSword.label>
+    <MeleeWeapon_LongSword.description>Ett antikt vapen för kungar. Långsvärdet kan användas för att skära eller sticka och är dödligt i rätt händer.</MeleeWeapon_LongSword.description>
+ 
+ 
 </LanguageData>

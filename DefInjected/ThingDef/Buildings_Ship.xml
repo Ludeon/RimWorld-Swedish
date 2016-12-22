@@ -28,6 +28,6 @@
 	<!-- Engine -->
 	
     <Ship_Engine.label>skeppsmotor</Ship_Engine.label>
-    <Ship_Engine.description>En antimateriedriven motor kapabel till att slunga ett skepp in i omloppsbana och i kurs mot andra stjärnor.</Ship_Engine.description>
+    <Ship_Engine.description>En motor kapabel till att slunga ett skepp in i omloppsbana och i kurs mot andra stjärnor.</Ship_Engine.description>
     
 </LanguageData>

@@ -9,14 +9,25 @@
     
     <FirefoamPopper.label>brandskumssmällare</FirefoamPopper.label>
     <FirefoamPopper.description>När eld kommer nära denna smällare, eller den aktiveras manuellt, sprejas ett stort cikulärt område med brandskum.</FirefoamPopper.description>
+	<FirefoamPopper.comps.1.useLabel>Aktivera brandskumssmällare</FirefoamPopper.comps.1.useLabel>
     
     <MoisturePump.label>fuktpump</MoisturePump.label>
     <MoisturePump.description>Pumpar mycket långsamt bort fukt från närliggande terräng, konverterar kärr eller grunt vatten till torrmark. Påverkar inte djupt vatten.</MoisturePump.description>
     
     <GroundPenetratingScanner.label>markpenetrerande skanner</GroundPenetratingScanner.label>
-    <GroundPenetratingScanner.description>En nedåtvänd radar, kombinerat med sonar och magnetiska kameror kan du upptäcka (men inte identifiera) mineraler begravd djupt under ytan. Kräver en enorm mängd el.</GroundPenetratingScanner.description>
-    
+    <GroundPenetratingScanner.description>En nedåtvänd radar, kombinerat med sonar och magnetiska kameror kan du upptäcka (men inte identifiera) mineraler begravd djupt under ytan. Kräverryck en enorm mängd el.</GroundPenetratingScanner.description>
+    	
 	
+  <!-- Transport pods -->
+
+  <PodLauncher.label>kapselskjutare</PodLauncher.label>
+  <PodLauncher.description>En tanknings port för att skjuta iväg en transportkapsel. kapselskjutare kan skjutas iväg som en grupp - men utskjutningsanordningar måste isäfall placeras intill varandra.</PodLauncher.description>
+
+  <TransportPod.label>transportkapsel</TransportPod.label>
+  <TransportPod.description>En utskjutningsbar transportkapsel som kan bära människor, föremål eller djur. Kan användas för transport, överraskningsanfall eller som förstärkning i strid.</TransportPod.description>
+
+
+  
 	<!-- Facilities -->
 	
     <MultiAnalyzer.label>multianalysator</MultiAnalyzer.label>

@@ -17,8 +17,8 @@
   <ResearchSpeedFactor.description>Hastighet med vilken personer gör forskning multipliceras med detta värde.</ResearchSpeedFactor.description>
   <ResearchSpeedFactor.parts.1.customLabel>Rumments renhet</ResearchSpeedFactor.parts.1.customLabel>
     
-  <MedicalTreatmentQualityFactor.label>kvalitetsfaktor för medicinsk behandling</MedicalTreatmentQualityFactor.label>
-  <MedicalTreatmentQualityFactor.description>Medicinsk behandlingskvalitet multipliceras med detta värde.</MedicalTreatmentQualityFactor.description>
+  <MedicalTendQualityOffset.label>kvalitetsförskjutning för medicinsk behandling</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Medicinsk behandlingskvalitet förskjuts med detta värde.</MedicalTendQualityOffset.description>
     
   <ImmunityGainSpeedFactor.label>hastighetsfaktor för immunitetsförstärknings</ImmunityGainSpeedFactor.label>
   <ImmunityGainSpeedFactor.description>Immunitethastighet multipliceras med detta värde.</ImmunityGainSpeedFactor.description>

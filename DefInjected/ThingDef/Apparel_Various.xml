@@ -4,7 +4,7 @@
     <Apparel_Pants.label>byxor</Apparel_Pants.label>
     <Apparel_Pants.description>Ett enkelt par byxor.</Apparel_Pants.description>
     
-    <Apparel_BasicShirt.label>t-shirt</Apparel_BasicShirt.label>
+    <Apparel_BasicShirt.label>T-shirt</Apparel_BasicShirt.label>
     <Apparel_BasicShirt.description>En vanlig T-shirt.</Apparel_BasicShirt.description>
     
     <Apparel_CollarShirt.label>skjorta</Apparel_CollarShirt.label>
@@ -31,4 +31,5 @@
     <Apparel_PowerArmor.label>kraftrustning</Apparel_PowerArmor.label>
     <Apparel_PowerArmor.description>Kraftdriven rustning, oftast använd av stormtrupper från avancerade glittervärldsplaneter.</Apparel_PowerArmor.description>
     
+	
 </LanguageData>

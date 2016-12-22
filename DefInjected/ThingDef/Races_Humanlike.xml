@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-  <!-- Human -->
-
   <Human.label>människa</Human.label>
   <Human.description>En standardmänniska, mestadels omodifierad genom genteknik och mestadels oförändrad genom evolutionära tryck på icke-Jord planeter.</Human.description>
   <Human_Leather.label>människohud</Human_Leather.label>

@@ -54,7 +54,7 @@
     <TrapDeadfall.description>En upphängd spetsig vikt hålls upp av en avtryckare. När offret stör avtryckaren släpps vikten och den faller på hans huvud eller överkropp.</TrapDeadfall.description>
     
     <TrapIEDBomb.label>trampfälla</TrapIEDBomb.label>
-    <TrapIEDBomb.description>En artillerigranat ansluten till en hemmagjord utlösare. När någon stör utlösaren kommer skalet att exploderar. Den improviserade utlösaren har en slumpmässig fördröjning som kan ge en smidig fiende chans att fly.</TrapIEDBomb.description>
+    <TrapIEDBomb.description>En granat ansluten till en hemmagjord utlösare. När någon stör utlösaren kommer skalet att exploderar. Den improviserade utlösaren har en slumpmässig fördröjning som kan ge en smidig fiende chans att fly.</TrapIEDBomb.description>
     
     <TrapIEDIncendiary.label>brandfälla</TrapIEDIncendiary.label>
     <TrapIEDIncendiary.description>Sprängämnen blandas in i en brandfarlig smet med en kemisk utlösare för spridning. Dess kemiska utlösare är enkel och tillförlitlig.</TrapIEDIncendiary.description>

@@ -7,8 +7,8 @@
     <SurgerySuccessChance.label>chans för lyckad kirurgi</SurgerySuccessChance.label>
     <SurgerySuccessChance.description>Sannolikheten för att en personen kommer att lyckas när man försöker att utföra en operation. Misslyckanden kan resultera i bortkastad tid och medicin, eller katastrofal skada på patienten.</SurgerySuccessChance.description>
     
-    <BaseHealingQuality.label>grundbehandlingskvalitet</BaseHealingQuality.label>
-    <BaseHealingQuality.description>Grundbehandlingskvalitet ges till patienter när de agerar som en läkare.</BaseHealingQuality.description>
+    <HealingQuality.label>behandlingskvalitet</HealingQuality.label>
+    <HealingQuality.description>Behandlingskvalitet ges till patienter när de agerar som en läkare.</HealingQuality.description>
     
     <HealingSpeed.label>läkningshastighet</HealingSpeed.label>
     <HealingSpeed.description>Hastighet med vilken personen läker sår som läkare.</HealingSpeed.description>

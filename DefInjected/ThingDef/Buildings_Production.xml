@@ -14,7 +14,7 @@
     <TableButcher.description>Ett tungt bord till för att slakta döda varelser och utvinna råa köttbitar.</TableButcher.description>
     
     <HandTailoringBench.label>handarbetesbänk</HandTailoringBench.label>
-    <HandTailoringBench.description>En arbetsbänk för att skräddarsy kläder för hand. Arbetet sker till 40% av hastigheten till skillnad mot en elektrisk symaskinsbänk.</HandTailoringBench.description>
+    <HandTailoringBench.description>En arbetsbänk för att skräddarsy kläder för hand. Arbetet sker till 50% av hastigheten till skillnad mot en elektrisk symaskinsbänk.</HandTailoringBench.description>
     
     <ElectricTailoringBench.label>elektrisk symaskinsbänk</ElectricTailoringBench.label>
     <ElectricTailoringBench.description>En arbetsbänk med en symaskin för snabb sömnad av kläder. Kan arbeta utan el vid 40% av normal hastighet.</ElectricTailoringBench.description>
@@ -46,6 +46,9 @@
     <ElectricSmelter.label>elektrisk smältugn</ElectricSmelter.label>
     <ElectricSmelter.description>Extraherar användbara metall från slagg bitar och andra blandade metallföremål. Förbrukar mycket ström.</ElectricSmelter.description>
     
+	<Refinery.label>raffinaderi</Refinery.label>
+    <Refinery.description>En kemisk raffineringsanläggning. Används för att förånga trä till kemiskt bränsle.</Refinery.description>
+	
     <ComponentAssemblyBench.label>komponentmonteringsbänk</ComponentAssemblyBench.label>
     <ComponentAssemblyBench.description>En arbetsbänk utrustad med avancerade verktyg för produktion av komponenter från enklare material.</ComponentAssemblyBench.description>
 	

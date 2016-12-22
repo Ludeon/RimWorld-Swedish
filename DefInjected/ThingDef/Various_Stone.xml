@@ -6,7 +6,7 @@
     <ChunkSlagSteel.label>bit stålslagg</ChunkSlagSteel.label>
 
 
-    <!-- Stone solids, chunks, and blocks -->
+    <!-- Sandstone -->
 
     <Sandstone.label>sandsten</Sandstone.label>
     <Sandstone.description>En sedimentär bergart sammansatt av sandpartiklar som pressats samman.</Sandstone.description>
@@ -17,6 +17,9 @@
     <BlocksSandstone.description>Block av solid sandsten. Sandsten är en relativt mjuk sten och flisas lätt.</BlocksSandstone.description>
     <BlocksSandstone.stuffProps.stuffAdjective>sandsten</BlocksSandstone.stuffProps.stuffAdjective>
 
+	
+	<!-- Granite -->
+	
     <Granite.label>granit</Granite.label>
     <Granite.description>En mycket hård magmatisk bergart.</Granite.description>
 
@@ -25,6 +28,9 @@
     <BlocksGranite.label>granitblock</BlocksGranite.label>
     <BlocksGranite.description>Block av solid granit. Granit är en mycket hård sten.</BlocksGranite.description>
     <BlocksGranite.stuffProps.stuffAdjective>granit</BlocksGranite.stuffProps.stuffAdjective>
+	
+	
+	<!-- Limestone -->
 
     <Limestone.label>kalksten</Limestone.label>
     <Limestone.description>En sedimentär bergart som bildas från de sammanpressade resterna av gamla snäckskal.</Limestone.description>
@@ -34,6 +40,9 @@
     <BlocksLimestone.label>kalkstensblock</BlocksLimestone.label>
     <BlocksLimestone.description>Block av solid kalksten.</BlocksLimestone.description>
     <BlocksLimestone.stuffProps.stuffAdjective>kalksten</BlocksLimestone.stuffProps.stuffAdjective>
+	
+	
+	<!-- Slate -->
 
     <Slate.label>skiffer</Slate.label>
     <Slate.description>En mörk metamorf rock. Dess fina skikt är symboliska av slaty klyvning.</Slate.description>
@@ -43,6 +52,9 @@
     <BlocksSlate.label>skifferblock</BlocksSlate.label>
     <BlocksSlate.description>Block av solid skiffer. En tråkig sten som flisas lätt.</BlocksSlate.description>
     <BlocksSlate.stuffProps.stuffAdjective>skiffer</BlocksSlate.stuffProps.stuffAdjective>
+	
+	
+	<!-- Marble -->
 
     <Marble.label>marmor</Marble.label>
     <Marble.description>En mjuk metamorf sten.</Marble.description>

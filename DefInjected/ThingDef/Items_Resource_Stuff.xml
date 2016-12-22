@@ -53,17 +53,20 @@
 	
 	<!-- Wool -->
 	
-    <MegatheriumWool.label>ull från jättesengångare</MegatheriumWool.label>
-    <MegatheriumWool.description>Något grovt men tack vare jättesengångarens långa ullfibrer är det både mycket stark och varmt.</MegatheriumWool.description>
+    <MegaslothWool.label>ull från jättesengångare</MegaslothWool.label>
+    <MegaslothWool.description>Något grovt men tack vare jättesengångarens långa ullfibrer är det både mycket stark och varmt.</MegaslothWool.description>
+	<MegaslothWool.stuffProps.stuffAdjective>ull från jättesengångare</MegaslothWool.stuffProps.stuffAdjective>
     
     <MuffaloWool.label>muffelull</MuffaloWool.label>
     <MuffaloWool.description>Mjukt, lätt och ger mycket god isolering. Ull kläder kan hålla kroppen varm även under extrema förhållanden.</MuffaloWool.description>
+	<MuffaloWool.stuffProps.stuffAdjective>muffelull</MuffaloWool.stuffProps.stuffAdjective>
     
     <CamelHair.label>kamelhår</CamelHair.label>
     <CamelHair.description>Kamelhårskläder bärs vanligtvis av ökenresenärer för att skydda dem från värmen. Det ger utmärkt isolering på grund av dess termostatiska egenskaper.</CamelHair.description>
+	<CamelHair.stuffProps.stuffAdjective>kamelhår</CamelHair.stuffProps.stuffAdjective>
     
     <AlpacaWool.label>alpackaull</AlpacaWool.label>
     <AlpacaWool.description>Den anmärkningsvärda mjuka ullen från en alpacka.</AlpacaWool.description>
-    
+    <AlpacaWool.stuffProps.stuffAdjective>alpackaull</AlpacaWool.stuffProps.stuffAdjective>
 	
 </LanguageData>
