@@ -39,7 +39,8 @@
   <BondedAnimalMaster.stages.0.label>{0}'s herre</BondedAnimalMaster.stages.0.label>
   <BondedAnimalMaster.stages.0.description>Att får vara tillsammans med min bundna djur får mig att må bättre.</BondedAnimalMaster.stages.0.description>
 
-  <NotBondedAnimalMaster.stages.0.label>inte {0}'s borde vara tillsammans med min bundna djur.</NotBondedAnimalMaster.stages.0.description>
+  <NotBondedAnimalMaster.stages.0.label>inte {0}'s herre</NotBondedAnimalMaster.stages.0.label>
+  <NotBondedAnimalMaster.stages.0.description>inte {0}'s borde vara tillsammans med min bundna djur.</NotBondedAnimalMaster.stages.0.description>
 
   <WantToSleepWithSpouseOrLover.stages.0.label>wvill sova med {0}</WantToSleepWithSpouseOrLover.stages.0.label>
   <WantToSleepWithSpouseOrLover.stages.0.description>Jag gillar inte att sova iväg ifrån min partner.</WantToSleepWithSpouseOrLover.stages.0.description>
