@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+ 
+  <Caravan.label>karavan</Caravan.label>
+  <Caravan.description>En grupp av resande personer.</Caravan.description>
+
+  <FactionBase.label>fraktionsbas</FactionBase.label>
+  <FactionBase.description>En bas till en av fraktionerna.</FactionBase.description>
+
+  <AbandonedFactionBase.label>övergiven fraktionsbas</AbandonedFactionBase.label>
+  <AbandonedFactionBase.description>En övergiven bas till en av fraktionerna.</AbandonedFactionBase.description>
+
+  <DestroyedFactionBase.label>förstörd fraktionsbas</DestroyedFactionBase.label>
+  <DestroyedFactionBase.description>En förstörd fraktionsbas.</DestroyedFactionBase.description>
+
+  <JourneyDestination.label>resans destination</JourneyDestination.label>
+  <JourneyDestination.description>Placeringen av ett dolt skepp som kan hjälpa dig att fly planeten.</JourneyDestination.description>
+
+  <AttackedCaravan.label>attackerad karavan</AttackedCaravan.label>
+  <AttackedCaravan.description>En karavan under attack.</AttackedCaravan.description>
+
+  <TravelingTransportPods.label>transportkaplsar</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Flygande transportkapslar.</TravelingTransportPods.description>
+
+	
+</LanguageData>

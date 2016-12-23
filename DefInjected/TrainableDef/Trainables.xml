@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Obedience.label>obedience</Obedience.label>
-    <Obedience.description>The animal can be assigned a master who it will follow and defend.</Obedience.description>
-    
-    <Release.label>release</Release.label>
-    <Release.description>The animal can be released to attack distant targets instead of just defending the master.</Release.description>
-    
-    <Rescue.label>rescue</Rescue.label>
-    <Rescue.description>The animal can rescue wounded allies and drag them to safety.</Rescue.description>
-    
-    <Haul.label>haul</Haul.label>
-    <Haul.description>The animal can haul items.</Haul.description>
+  <Obedience.label>lydnad</Obedience.label>
+  <Obedience.description>Djuret kan tilldelas en herre som den kommer att följa och försvara.</Obedience.description>
+
+  <Release.label>släpp loss</Release.label>
+  <Release.description>Djuret kan släppas loss för att attackera avlägsna mål i stället för att bara försvara herren.</Release.description>
+
+  <Rescue.label>rädda</Rescue.label>
+  <Rescue.description>Djuret kommer att rädda sårade allierade och släpa dem till säkerhet.</Rescue.description>
+
+  <Haul.label>släpa</Haul.label>
+  <Haul.description>Djuret kommer slumpmässigt släpa objekt då och då (även om det inte kan riktas att släpa specifika objekt).</Haul.description>
+	
     
 </LanguageData>

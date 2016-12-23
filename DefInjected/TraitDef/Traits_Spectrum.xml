@@ -55,28 +55,19 @@
     <PsychicSensitivity.degreeDatas.2.description>NAME är psykiskt avtrubbad jämfört med andra. HECAP är inte särskilt känsliga för psykiska fenomen.</PsychicSensitivity.degreeDatas.2.description>
     <PsychicSensitivity.degreeDatas.3.label>Psykiskt döv</PsychicSensitivity.degreeDatas.3.label>
     <PsychicSensitivity.degreeDatas.3.description>NAMEs psyke verkar arbeta på en helt annan frekvens än andra. HECAP kan inte bli påverkad av psykiska fenomen.</PsychicSensitivity.degreeDatas.3.description>
-    
-    <TemperaturePreference.degreeDatas.0.label>Älskar kyla</TemperaturePreference.degreeDatas.0.label>
-    <TemperaturePreference.degreeDatas.0.description>NAMEs kropp alstrar stora mängder värme. HECAP är bekväm i temperaturer som andra inte skulle stå ut i. Men HE ogillar värme.</TemperaturePreference.degreeDatas.0.description>
-    <TemperaturePreference.degreeDatas.1.label>Tolererar kyla</TemperaturePreference.degreeDatas.1.label>
-    <TemperaturePreference.degreeDatas.1.description>NAME klarar av kyla bättre än andra.</TemperaturePreference.degreeDatas.1.description>
-    <TemperaturePreference.degreeDatas.2.label>Tolererar värme</TemperaturePreference.degreeDatas.2.label>
-    <TemperaturePreference.degreeDatas.2.description>NAME klarar av värme bättre än andra.</TemperaturePreference.degreeDatas.2.description>
-    <TemperaturePreference.degreeDatas.3.label>Älskar värme</TemperaturePreference.degreeDatas.3.label>
-    <TemperaturePreference.degreeDatas.3.description>NAME älskar varmt väder - men HE klarar inte av kyla lika bra.</TemperaturePreference.degreeDatas.3.description>
-    
+       
     <ShootingAccuracy.degreeDatas.0.label>Försiktig skytt</ShootingAccuracy.degreeDatas.0.label>
     <ShootingAccuracy.degreeDatas.0.description>NAME är en bra skytt, men HE behöver mer tid på sig när HE siktar.</ShootingAccuracy.degreeDatas.0.description>
     <ShootingAccuracy.degreeDatas.1.label>Skjutglad</ShootingAccuracy.degreeDatas.1.label>
     <ShootingAccuracy.degreeDatas.1.description>Pang! Pang! Pang! NAME är en förskräklig skytt, men det bryr han sig inte om... för vapen är FANTASTISKA!</ShootingAccuracy.degreeDatas.1.description>
     
-    <Beauty.degreeDatas.0.label>beautiful</Beauty.degreeDatas.0.label>
-    <Beauty.degreeDatas.0.description>NAME is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to HIM before HE even opens HIS mouth.</Beauty.degreeDatas.0.description>
-    <Beauty.degreeDatas.1.label>pretty</Beauty.degreeDatas.1.label>
-    <Beauty.degreeDatas.1.description>NAME has a pretty face, which predisposes people to like HIM.</Beauty.degreeDatas.1.description>
-    <Beauty.degreeDatas.2.label>ugly</Beauty.degreeDatas.2.label>
-    <Beauty.degreeDatas.2.description>NAME is somewhat ugly. This subtly repels others during social interactions.</Beauty.degreeDatas.2.description>
-    <Beauty.degreeDatas.3.label>staggeringly ugly</Beauty.degreeDatas.3.label>
-    <Beauty.degreeDatas.3.description>NAME is staggeringly ugly. HISCAP face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at HIM while conversing.</Beauty.degreeDatas.3.description>
+    <Beauty.degreeDatas.0.label>vacker</Beauty.degreeDatas.0.label>
+    <Beauty.degreeDatas.0.description>NAME är ovanligt vacker med ett exotiskt men ändp välbekant ansiksform och en fänglslande blick. Personer dras till HIM innan HE ens öppnad sin mun.</Beauty.degreeDatas.0.description>
+    <Beauty.degreeDatas.1.label>söt</Beauty.degreeDatas.1.label>
+    <Beauty.degreeDatas.1.description>NAME har ett sött ansikte vilket gör att personer brukar gilla HIM.</Beauty.degreeDatas.1.description>
+    <Beauty.degreeDatas.2.label>ful</Beauty.degreeDatas.2.label>
+    <Beauty.degreeDatas.2.description>NAME är aningen ful. Detta repellerar subtilt andra från sociala interaktioner.</Beauty.degreeDatas.2.description>
+    <Beauty.degreeDatas.3.label>förbluffande ful</Beauty.degreeDatas.3.label>
+    <Beauty.degreeDatas.3.description>NAME är förbluffande ful. HISCAP ansikte ser ut som en korsning mellan en teckning av en obegåvad barn, ett felaktigt foster i en burk av formaldehyd och en bit av modern konst. Andra måste medvetet anstränga sig för att titta på HIM under en konversation.</Beauty.degreeDatas.3.description>
     
 </LanguageData>
