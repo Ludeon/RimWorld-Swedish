@@ -1,62 +1,69 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <Hungry.stages.0.label>hungry</Hungry.stages.0.label>
-    <Hungry.stages.0.description>I haven't eaten in a while.</Hungry.stages.0.description>
-    <Hungry.stages.1.label>urgently hungry</Hungry.stages.1.label>
-    <Hungry.stages.1.description>The hunger pangs are clawing my insides. I need food or I'll starve soon.</Hungry.stages.1.description>
-    <Hungry.stages.2.label>starving</Hungry.stages.2.label>
-    <Hungry.stages.2.description>I just want something - anything - to eat. I can feel my body wasting away. It hurts...</Hungry.stages.2.description>
-    
-    <Tired.stages.0.label>tired</Tired.stages.0.label>
-    <Tired.stages.0.description>I haven't slept in a while.</Tired.stages.0.description>
-    <Tired.stages.1.label>very tired</Tired.stages.1.label>
-    <Tired.stages.1.description>I'm so tired. I just want to lay down and rest for a few minutes...</Tired.stages.1.description>
-    <Tired.stages.2.label>exhausted</Tired.stages.2.label>
-    <Tired.stages.2.description>I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep...</Tired.stages.2.description>
-    
-    <JoyLevel.stages.0.label>totally joy-deprived</JoyLevel.stages.0.label>
-    <JoyLevel.stages.0.description>It's been so long since I did anything I truly enjoyed.</JoyLevel.stages.0.description>
-    <JoyLevel.stages.1.label>very joy-deprived</JoyLevel.stages.1.label>
-    <JoyLevel.stages.1.description>I never get to relax and enjoy myself around here.</JoyLevel.stages.1.description>
-    <JoyLevel.stages.2.label>joy-deprived</JoyLevel.stages.2.label>
-    <JoyLevel.stages.2.description>I could really use a break for something enjoyable.</JoyLevel.stages.2.description>
-    <JoyLevel.stages.3.label>joy-filled</JoyLevel.stages.3.label>
-    <JoyLevel.stages.3.description>I've been having a great time here recently.</JoyLevel.stages.3.description>
-    <JoyLevel.stages.4.label>tons o' joy</JoyLevel.stages.4.label>
-    <JoyLevel.stages.4.description>I've been enjoying myself so much, I love it!</JoyLevel.stages.4.description>
-    
-    <ComfortLevel.stages.0.label>uncomfortable</ComfortLevel.stages.0.label>
-    <ComfortLevel.stages.0.description>I've been kind of uncomfortable recently. We need to get something soft to sit on around here.</ComfortLevel.stages.0.description>
-    <ComfortLevel.stages.1.label>comfortable</ComfortLevel.stages.1.label>
-    <ComfortLevel.stages.1.description>I've been comfortable recently.</ComfortLevel.stages.1.description>
-    <ComfortLevel.stages.2.label>very comfortable</ComfortLevel.stages.2.label>
-    <ComfortLevel.stages.2.description>I've been very comfortable recently.</ComfortLevel.stages.2.description>
-    <ComfortLevel.stages.3.label>extremely comfortable</ComfortLevel.stages.3.label>
-    <ComfortLevel.stages.3.description>I've been extremely comfortable recently. This place is so cushy!</ComfortLevel.stages.3.description>
-    <ComfortLevel.stages.4.label>luxuriantly comfortable</ComfortLevel.stages.4.label>
-    <ComfortLevel.stages.4.description>I am resting on clouds of heaven.</ComfortLevel.stages.4.description>
-    
-    <EnvironmentUgly.stages.0.label>ugly environment</EnvironmentUgly.stages.0.label>
-    <EnvironmentUgly.stages.0.description>This place is unpleasant to be in.</EnvironmentUgly.stages.0.description>
-    <EnvironmentUgly.stages.1.label>very ugly environment</EnvironmentUgly.stages.1.label>
-    <EnvironmentUgly.stages.1.description>This place is really unpleasant. I don't want to be here.</EnvironmentUgly.stages.1.description>
-    <EnvironmentUgly.stages.2.label>hideous environment</EnvironmentUgly.stages.2.label>
-    <EnvironmentUgly.stages.2.description>This place is unbearable. Get me out of here...</EnvironmentUgly.stages.2.description>
-    
-    <EnvironmentPretty.stages.0.label>pleasant environment</EnvironmentPretty.stages.0.label>
-    <EnvironmentPretty.stages.0.description>This place is nice.</EnvironmentPretty.stages.0.description>
-    <EnvironmentPretty.stages.1.label>very pleasant environment</EnvironmentPretty.stages.1.label>
-    <EnvironmentPretty.stages.1.description>I really like this place. It's beautiful.</EnvironmentPretty.stages.1.description>
-    <EnvironmentPretty.stages.2.label>beautiful environment</EnvironmentPretty.stages.2.label>
-    <EnvironmentPretty.stages.2.description>This place is beautiful. It lifts me up and makes me love life.</EnvironmentPretty.stages.2.description>
-    
-    <EnvironmentCramped.stages.0.label>cramped environment</EnvironmentCramped.stages.0.label>
-    <EnvironmentCramped.stages.0.description>This place is really closed-in. I feel like I have no space to breathe.</EnvironmentCramped.stages.0.description>
-    <EnvironmentCramped.stages.1.label>very cramped environment</EnvironmentCramped.stages.1.label>
-    <EnvironmentCramped.stages.1.description>It's claustrophobic in here. I have nowhere to move. I feel like a rat in a tiny cage.</EnvironmentCramped.stages.1.description>
-    
-    <EnvironmentSpaciousInterior.stages.0.label>spacious interior</EnvironmentSpaciousInterior.stages.0.label>
-    <EnvironmentSpaciousInterior.stages.0.description>This is a really comfortably open indoor space.</EnvironmentSpaciousInterior.stages.0.description>
-    
+
+  <NeedFood.stages.0.label>hungrig</NeedFood.stages.0.label>
+  <NeedFood.stages.0.description>Jag är verkligen hungrig.</NeedFood.stages.0.description>
+  <NeedFood.stages.1.label>akut hungrig</NeedFood.stages.1.label>
+  <NeedFood.stages.1.description>Dessa hungerkval är svåra att ignorera.</NeedFood.stages.1.description>
+  <NeedFood.stages.2.label>svälter (trivialt)</NeedFood.stages.2.label>
+  <NeedFood.stages.2.description>Det har varit så länge sedan jag åt. Jag är helt suddig och det är svårt att fokusera.</NeedFood.stages.2.description>
+  <NeedFood.stages.3.label>svälter (mindre)</NeedFood.stages.3.label>
+  <NeedFood.stages.3.description>Jag kan känna min kropp försvinner bort. Min mage gör ont som aldrig förr.</NeedFood.stages.3.description>
+  <NeedFood.stages.4.label>svälter (medel)</NeedFood.stages.4.label>
+  <NeedFood.stages.4.description>Jag kan knappt tänka på något annat än mat. Min hud sträcker sig över mina ben. Kommer jag att dö?</NeedFood.stages.4.description>
+  <NeedFood.stages.5.label>svälter (allvarligt)</NeedFood.stages.5.label>
+  <NeedFood.stages.5.description>Jag kan knappt röra eller tänka på något men mat. Min mage gör ont som aldrig förr. Det känns som jag kommer att svimma.</NeedFood.stages.5.description>
+  <NeedFood.stages.6.label>svälter (extremt)</NeedFood.stages.6.label>
+  <NeedFood.stages.6.description>Mat...mat...bara en bit att äta...något...snälla...</NeedFood.stages.6.description>
+
+  <NeedRest.stages.0.label>trött</NeedRest.stages.0.label>
+  <NeedRest.stages.0.description>Jag har inte sovit på ett tag.</NeedRest.stages.0.description>
+  <NeedRest.stages.1.label>väldigt trött</NeedRest.stages.1.label>
+  <NeedRest.stages.1.description>Jag är så trött. Jag vill bara lägga ner och vila i några minuter ...</NeedRest.stages.1.description>
+  <NeedRest.stages.2.label>utmattad</NeedRest.stages.2.label>
+  <NeedRest.stages.2.description>Jag är så trött jag kan knappt stå. Mina ögonlock har blyvikter på sig. Låt mig sova...</NeedRest.stages.2.description>
+
+  <NeedJoy.stages.0.label>total glädjebrist</NeedJoy.stages.0.label>
+  <NeedJoy.stages.0.description>Det har varit så länge sedan jag gjorde något jag verkligen tyckte om.</NeedJoy.stages.0.description>
+  <NeedJoy.stages.1.label>väldig glädjebrist</NeedJoy.stages.1.label>
+  <NeedJoy.stages.1.description>Jag får aldrig slappna av och njuta här.</NeedJoy.stages.1.description>
+  <NeedJoy.stages.2.label>glädjebrist</NeedJoy.stages.2.label>
+  <NeedJoy.stages.2.description>Jag skulle verkligen behöva en paus för något roligt.</NeedJoy.stages.2.description>
+  <NeedJoy.stages.3.label>glädjefull</NeedJoy.stages.3.label>
+  <NeedJoy.stages.3.description>Jag har haft en fantastisk tid här nyligen.</NeedJoy.stages.3.description>
+  <NeedJoy.stages.4.label>ton av glädje</NeedJoy.stages.4.label>
+  <NeedJoy.stages.4.description>Jag har havt väldigt roligt det senaste, jag älskar det!</NeedJoy.stages.4.description>
+
+  <NeedComfort.stages.0.label>obekvämt</NeedComfort.stages.0.label>
+  <NeedComfort.stages.0.description>Jag har varit lite obekvämt det senaste. Vi måste få något mjukt att sitta på här.</NeedComfort.stages.0.description>
+  <NeedComfort.stages.1.label>bekvämt</NeedComfort.stages.1.label>
+  <NeedComfort.stages.1.description>Det har varit bekvämt det senaste.</NeedComfort.stages.1.description>
+  <NeedComfort.stages.2.label>väldigt bekvämt</NeedComfort.stages.2.label>
+  <NeedComfort.stages.2.description>Det har varit väldigt bekvämt det senaste.</NeedComfort.stages.2.description>
+  <NeedComfort.stages.3.label>extremt bekvämt</NeedComfort.stages.3.label>
+  <NeedComfort.stages.3.description>Det har varit extremt bekvämt det senaste. Den här platsen är så behagligt!</NeedComfort.stages.3.description>
+  <NeedComfort.stages.4.label>otroligt bekvämt</NeedComfort.stages.4.label>
+  <NeedComfort.stages.4.description>Jag vilar på himmelens moln.</NeedComfort.stages.4.description>
+
+  <NeedBeauty.stages.0.label>förfärlig miljö</NeedBeauty.stages.0.label>
+  <NeedBeauty.stages.0.description>Den här platsen är outhärdlig. Få mig härifrån...</NeedBeauty.stages.0.description>
+  <NeedBeauty.stages.1.label>väldigt ful miljö</NeedBeauty.stages.1.label>
+  <NeedBeauty.stages.1.description>Den här platsen är verkligen obehagligt. Jag vill inte vara här.</NeedBeauty.stages.1.description>
+  <NeedBeauty.stages.2.label>ful miljö</NeedBeauty.stages.2.label>
+  <NeedBeauty.stages.2.description>Den här platsen är obehagligt att vara i.</NeedBeauty.stages.2.description>
+  <NeedBeauty.stages.3.label>trevlig miljö</NeedBeauty.stages.3.label>
+  <NeedBeauty.stages.3.description>Den här platsen är trevlig.</NeedBeauty.stages.3.description>
+  <NeedBeauty.stages.4.label>väldigt trevlig miljö</NeedBeauty.stages.4.label>
+  <NeedBeauty.stages.4.description>Jag gillar verkligen det här stället. Det är vackert.</NeedBeauty.stages.4.description>
+  <NeedBeauty.stages.5.label>vacker miljö</NeedBeauty.stages.5.label>
+  <NeedBeauty.stages.5.description>Denna plats är vacker. Det lyfter upp mig och gör att jag älskar livet.</NeedBeauty.stages.5.description>
+
+  <NeedSpace.stages.0.label>mycket trång interiör</NeedSpace.stages.0.label>
+  <NeedSpace.stages.0.description>Jag känner mig som en råtta i en liten bur.</NeedSpace.stages.0.description>
+  <NeedSpace.stages.1.label>trång interiör</NeedSpace.stages.1.label>
+  <NeedSpace.stages.1.description>Jag önskar att jag hade mer utrymme att röra sig och andas.</NeedSpace.stages.1.description>
+  <NeedSpace.stages.2.label>rymlig interiör</NeedSpace.stages.2.label>
+  <NeedSpace.stages.2.description>Detta är ett riktigt bekvämt öppen utrymme inomhus.</NeedSpace.stages.2.description>
+
+
 </LanguageData>
