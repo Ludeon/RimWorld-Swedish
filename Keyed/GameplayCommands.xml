@@ -148,8 +148,8 @@
   <CommandBuildCopyDesc>Bygg en kopia av den här byggnaden.</CommandBuildCopyDesc>
   
    <!-- Form caravan -->
-  <CommandFormCaravan>Forma karavan</CommandFormCaravan>
-  <CommandFormCaravanDesc>Forma en grupp av kolonisatörer som kan resa till nya områden. Kolonisterna kommer att samla in alla tilldelade föremål och medföljande djur, lämnar sitt nuvarande område, och invänta vidare order.</CommandFormCaravanDesc>
+  <CommandFormCaravan>Bilda karavan</CommandFormCaravan>
+  <CommandFormCaravanDesc>Bilda en grupp av kolonister som kan resa till nya områden. Kolonisterna kommer att samla in alla tilldelade föremål och medföljande djur, lämnar sitt nuvarande område, och invänta vidare order.</CommandFormCaravanDesc>
 
   <!-- Reform caravan -->
   <CommandReformCaravan>Återforma karavan</CommandReformCaravan>

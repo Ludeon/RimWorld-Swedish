@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
+	<!-- Concepts taught through the learning readout, with no opportunity needed -->
+	
     <CameraDolly.label>Kameravagn</CameraDolly.label>
     <CameraDolly.helpText>Flytta karmeran genom att klicka och dra MUSKNAPP 3 (mittersta eller högra knappen) eller med  {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tangenter.</CameraDolly.helpText>
     
@@ -40,6 +42,9 @@
     <CoverAndShooting.label>Skjuta ifrån skydd</CoverAndShooting.label>
     <CoverAndShooting.helpText>Den viktigaste saken i avståndstrid är att använda skydd. Skydd fungerar endast om kolonisten rör vid det, och endast om skyddet är mellan kolonisten och en fiende.\n\nDu kan ochså placera kolonisten bakom en väggkant. Do kommer i så fall luta sig ut och skjuta.\n\nDe mesta kan användas som skydd, men vissa saker är bättre än andra. Att gömma sig bakom ett träd är bättre än ingenting, men att gömma sig bakom sandsäckar är bättre än träd.</CoverAndShooting.helpText>
     
+	<FormCaravan.label>Bilda karavaner</FormCaravan.label>
+    <FormCaravan.helpText>Du kan bilda en karavan för att skicka grupper av människor som reser över hela planeten!\n\nI fliken Värld välj din hemmabas och klicka på "bilda karavan" -knappen.</FormCaravan.helpText>
+	
     <AnimalTaming.label>Tämja Djur</AnimalTaming.label>
     <AnimalTaming.helpText>Du kan anvisa en kolonist att tämja vilda djur med TÄMJ valet.\n\nKolonisten kommer erbjuda djuret mat och försöka tämja det.\n\nVarning: vissa djur svarar våldsamt mot misslyckade tämjningsförsök.</AnimalTaming.helpText>
     
@@ -104,4 +109,5 @@
     <FriendlyFireSafety.label>Säkerhet med vådaskott</FriendlyFireSafety.label>
     <FriendlyFireSafety.helpText>Vådaskott kommer ej inträffa om skyyen är nära sin allierad.\n\nTill exempel kan du utan fara placera en svärdsvingande kolonist direkt framför en pistolförsedd kolonist. Skytten kommer skjuta över sin aliierads axel.\n\nDetta är ett bra sätt att kombinera avståndsstrid med närstrid.</FriendlyFireSafety.helpText>
     
+	
 </LanguageData>

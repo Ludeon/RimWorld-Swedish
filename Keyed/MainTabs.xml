@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- Work tab -->
-  <ManualPriorities>Manuella prioriteringar</ManualPriorities>
+  <ManualPriorities>Prioritera manuellt</ManualPriorities>
   <HigherPriority>Högre prioritet</HigherPriority>
   <LowerPriority>Lägre prioritet</LowerPriority>
   <RelevantSkills>Relevanta förmågor: {0}\nGenomsnitt av relevanta förmågor: {1} / {2}</RelevantSkills>

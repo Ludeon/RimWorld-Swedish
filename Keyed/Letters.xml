@@ -4,7 +4,7 @@
   <JumpToLocation>Hoppa till aktuell plats</JumpToLocation>
   
   <LetterLabelFirstSummerWarning>Sommar</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Sommaren är här men vintern är påväg.\n\nDina matgrödor kommer inte att växa i vinterns kyla. Se till att spara flera dagars matförråd nu, medans ni fortfarande kan.\n\nNi kan bygga en You can build a större kylrum för att förhindra mat ifrån att bli förstörd.\n\nSe även till att köp, stjäl eller tillverka några parkas, annars kommer ni att frysa när ni går ut.</FirstSummerWarning>
+  <FirstSummerWarning>Sommaren är här men vintern är påväg.\n\nDina matgrödor kommer inte att växa i vinterns kyla. Se till att spara flera dagars matförråd nu, medans ni fortfarande kan.\n\nNi kan bygga ett större kylrum för att förhindra mat ifrån att bli förstörd.\n\nSe även till att köp, stjäl eller tillverka några parkas, annars kommer ni att frysa när ni går ut.</FirstSummerWarning>
 
   <RelationsBrokenDown>Relationen med {0} är nedbruten. De är nu fientliga mot dig.</RelationsBrokenDown>
   <RelationsWarmed>Relationen med {0} har blivit bättre. De är inte längre fientliga mot dig.</RelationsWarmed>

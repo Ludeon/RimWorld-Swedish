@@ -228,12 +228,12 @@
   <TradeMassUsageTooltip>Den totala viktutnyttjandet och viktkapaciteten.</TradeMassUsageTooltip>
   
   <!-- Form caravan -->
-  <FormCaravan>Forma en karavan</FormCaravan>
+  <FormCaravan>Bilda en karavan</FormCaravan>
   <FormCaravanColonyThingCountTip>Hur många av dessa föremål kolonin har redo att ge till karavanen.</FormCaravanColonyThingCountTip>
   <PawnsTab>Personer och djur</PawnsTab>
   <ItemsTab>Föremål</ItemsTab>
   <CaravanConfigTab>Konfiguration</CaravanConfigTab>
-  <CaravanMustHaveAtLeastOneColonist>Du måste tilldela minst en ej däckad kolonist.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanMustHaveAtLeastOneColonist>Du måste tilldela minst en ej avsvimmad kolonist.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>Det gick inte att hitta någon giltig utgång.</CaravanCouldNotFindExitSpot>
   <CaravanCouldNotFindReachableExitSpot>Varning: några av de tilldelade kolonisterna inte kan nå utgången.</CaravanCouldNotFindReachableExitSpot>
   <CaravanPawnIsUnreachable>{0} är onåbar av några av de tilldelade kolonisterna.</CaravanPawnIsUnreachable>

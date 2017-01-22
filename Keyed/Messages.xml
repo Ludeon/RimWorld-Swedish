@@ -137,8 +137,8 @@
   <MessageFoodPoisoning>{0} har fått matförgiftning från: {1}.</MessageFoodPoisoning>
   
   <MessageFailedToSendCaravanBecausePawnLost>Det gick inte att skicka vagnen eftersom en av kolonisterna, fångar eller djur har försvunnit.</MessageFailedToSendCaravanBecausePawnLost>
-  <MessageCaravanFormationPaused>Karavanens formningsprocessen kommer att fortsätta när alla återhämtar sig från mentala bryt.</MessageCaravanFormationPaused>
-  <MessageCaravanFormationUnpaused>Dina kolonister fortsätter nu att forma en karavan.</MessageCaravanFormationUnpaused>
+  <MessageCaravanFormationPaused>Karavanens bildningsprocessen kommer att fortsätta när alla återhämtar sig från mentala bryt.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationUnpaused>Dina kolonister fortsätter nu att bilda en karavan.</MessageCaravanFormationUnpaused>
 
   <MessageCaravanMemberHasExtremeMentalBreak>En av karavanmedlemmarna har fått ett mentalt bryt.</MessageCaravanMemberHasExtremeMentalBreak>
 

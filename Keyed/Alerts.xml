@@ -77,7 +77,7 @@
   <ColonistsIdleDesc>Dessa kolonister är syssolösa:\n\n{0}\nSe om du kan sätta dem i arbete.</ColonistsIdleDesc>
 
   <ColonistNeedsTreatment>Kolonist behöver vård</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>En kolonist behöver medicinsk vård. Utan det riskerar personen att dö från sina skador, eller att skadorna blir permanenta.\n\n{0}\nBehandla hen genom att ta hen till en sjuksäng.\n\n(Först, avsätt en sjuksäng genom att markera valfri säng och ange att den ska vara en sjuksäng. Därefter, markera den skadade kolonisten och högerklicka på sjuksängen för att göra hen till en patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>En kolonist behöver medicinsk vård. Utan det riskerar personen att dö från sina skador, eller att skadorna blir permanenta.\n\n{0}\nBehandla kolonisten genom att ta kolonisten till en sjuksäng.\n\n(Först, avsätt en sjuksäng genom att markera valfri säng och ange att den ska vara en sjuksäng. Därefter, markera den skadade kolonisten och högerklicka på sjuksängen för att göra kolonisten till en patient.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Frostskada</AlertHypothermia>
   <AlertHypothermiaDesc>Kolonisterna riskerar få frostskador och kan i värsta fall frysa ihjäl.\n\n{0}\Se till att de klär sig varmt och att rummen är tillräckligt uppvärmda.</AlertHypothermiaDesc>
