@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <RoofConstructed.label>Monterat tak</RoofConstructed.label>
-    
-    <RoofRockThin.label>Stentak (tunt)</RoofRockThin.label>
-    
-    <RoofRockThick.label>Överhängande berg</RoofRockThick.label>
-    
+
+  <RoofConstructed.label>monterat tak</RoofConstructed.label>
+  <RoofRockThin.label>stentak (tunt)</RoofRockThin.label>
+  <RoofRockThick.label>överhängande berg</RoofRockThick.label>
+
+
 </LanguageData>

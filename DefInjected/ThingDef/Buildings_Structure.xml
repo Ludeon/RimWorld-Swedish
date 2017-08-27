@@ -1,18 +1,28 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Doors -->
-	
-    <Door.label>dörr</Door.label>
-    <Door.description>Delar rum. Måste manuellt öppnas och stängas, vilket saktar ner folk.</Door.description>
-    
-    <Autodoor.label>automatisk dörr</Autodoor.label>
-    <Autodoor.description>Delar rum. Automatisk dörröppning tillåter personer att gå in genom dörren utan att sakta ner.</Autodoor.description>
-    
-	
-	<!-- Walls -->
-	
-    <Wall.label>vägg</Wall.label>
-    <Wall.description>En oframkomlig vägg. Förmåga att hålla upp ett tak.</Wall.description>
-    
+
+  <!-- Doors -->
+
+  <Door.label>dörr</Door.label>
+  <Door.description>Delar rum. Måste manuellt öppnas och stängas, vilket saktar ner folk.</Door.description>
+  <Door_Blueprint.label>dörr (ritning)</Door_Blueprint.label>
+  <Door_Frame.label>dörr (byggnad)</Door_Frame.label>
+  <Door_Frame.description>Delar rum. Måste manuellt öppnas och stängas, vilket saktar ner folk.</Door_Frame.description>
+
+  <Autodoor.label>automatisk dörr</Autodoor.label>
+  <Autodoor.description>Delar rum. Automatisk dörröppning tillåter personer att gå in genom dörren utan att sakta ner.</Autodoor.description>
+  <Autodoor_Blueprint.label>automatisk dörr (ritning)</Autodoor_Blueprint.label>
+  <Autodoor_Frame.label>automatisk dörr (byggnad)</Autodoor_Frame.label>
+  <Autodoor_Frame.description>Delar rum. Automatisk dörröppning tillåter personer att gå in genom dörren utan att sakta ner.</Autodoor_Frame.description>
+
+
+  <!-- Walls -->
+
+  <Wall.label>vägg</Wall.label>
+  <Wall.description>En oframkomlig vägg. Förmåga att hålla upp ett tak.</Wall.description>
+  <Wall_Blueprint.label>vägg (ritning)</Wall_Blueprint.label>
+  <Wall_Frame.label>vägg (byggnad)</Wall_Frame.label>
+  <Wall_Frame.description>En oframkomlig vägg. Förmåga att hålla upp ett tak.</Wall_Frame.description>
+
+
 </LanguageData>

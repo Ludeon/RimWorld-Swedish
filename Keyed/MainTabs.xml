@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Work tab -->
@@ -11,43 +11,39 @@
   <NoneBrackets>(inget)</NoneBrackets>
   <IncapableOfWorkTypeBecauseOfCapacities>Denna kolonist kan inte arbeta med den här typen av arbete på grund av sitt hälsotillstånd.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
-  
+
   <!-- Assign tab -->
-  <CurrentOutfit>Nuvarande utstyrsel</CurrentOutfit>
   <ManageOutfits>Hantera utstyrsel</ManageOutfits>
   <ClearForcedApparel>Töm tvång</ClearForcedApparel>
   <ApparelForcedLower>Tvinga</ApparelForcedLower>
   <ForcedApparel>Tvinga på kläder</ForcedApparel>
   <AssignTabEdit>Redigera...</AssignTabEdit>
-  <CurrentDrugPolicies>Nuvarande drogpolicy</CurrentDrugPolicies>
   <ManageDrugPolicies>Hantera drogpolicy</ManageDrugPolicies>
-  
+
   <!-- Restrictions tab -->
   <Copy>Klipp</Copy>
   <Paste>Klistra</Paste>
   <AllowedArea>Tillåtet område</AllowedArea>
-  
+
   <!-- Animals tab -->
   <Master>Herre</Master>
   <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
-  <FollowDraftedTip>Följ herren medans HE är kommenderad.</FollowDraftedTip>
-  <FollowFieldworkTip>Följ herren medans HE gör fältarbete (jagar eller tämjer djur).</FollowFieldworkTip>
-  
+
   <!-- Factions tab -->
   <Hostile>Fientlig</Hostile>
   <DefeatedLower>besegrad</DefeatedLower>
   <HostileTo>Fiende av {0}</HostileTo>
   <CurrentGoodwill>Aktuell välvilja med detta anhang.</CurrentGoodwill>
-  
+
   <!-- Social tab -->
   <Friend>Vän</Friend>
   <Rival>Rival</Rival>
-  <Acquaintance>Bekanta</Acquaintance> 
-  
+  <Acquaintance>Bekanta</Acquaintance>
+
   <!-- History tab - subtabs -->
   <Graph>Graf</Graph>
   <Statistics>Statistik</Statistics>
-  
+
   <!-- History tab - Graphs -->
   <SelectGraph>Välj graf</SelectGraph>
   <Last30Days>Senaste 30 dagarna</Last30Days>
@@ -61,19 +57,19 @@
   <!-- History tab - Statistics -->
   <Playtime>Speltid</Playtime>
   <Storyteller>Spelledare</Storyteller>
-  <ColonyWealthTotal>Kolonins rikedom</ColonyWealthTotal>
-  <ColonyWealthItems>Kolonins rikedom (saker)</ColonyWealthItems>
-  <ColonyWealthBuildings>Kolonins rikedom (byggnader)</ColonyWealthBuildings>
+  <ThisMapColonyWealthTotal>Kolonins rikedom (denna karta)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Kolonins rikedom (föremål) (denna karta)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Kolonins rikedom (byggnader) (denna karta)</ThisMapColonyWealthBuildings>
   <NumThreatBigs>Huvudsakliga hot</NumThreatBigs>
   <NumEnemyRaids>Fientlig räd</NumEnemyRaids>
-  <DamageTaken>Skada tagen</DamageTaken>
+  <ThisMapDamageTaken>SKada tagen (denna karta)</ThisMapDamageTaken>
   <ColonistsKilled>Kolonister dödade</ColonistsKilled>
   <ColonistsLaunched>Kolonister uppskickade i rymden</ColonistsLaunched>
 
   <!-- Research tab -->
-  <ProjectTechLevel>Projektets teknologiska nivå</ProjectTechLevel>
+  <ProjectTechLevel>projektets teknologiska nivå</ProjectTechLevel>
   <YourTechLevel>din teknologiska nivå</YourTechLevel>
   <ResearchCostMultiplier>kostnadsmultiplikator</ResearchCostMultiplier>
   <ResearchCostComparison>Projektets grundkostnad {0} blir {1} tack vare din teknologiska nivå.</ResearchCostComparison>
-  
+
 </LanguageData>

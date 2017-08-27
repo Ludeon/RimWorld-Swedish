@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Good -->
+
+  <ResourcePodCrash.label>resurskapsel krashar</ResourcePodCrash.label>
+  <PsychicSoothe.label>psykisk lugn</PsychicSoothe.label>
+  <SelfTame.label>Självtämjd</SelfTame.label>
+
+  <AmbrosiaSprout.label>ambrosia groddar</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterText>En lund av den mystiska ambrosibusken har grott i närheten! Om du väntar på att växterna växer, kommer du att kunna skörda den läckra, njutbara och lite beroendeframkallande frukten.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterLabel>Ambrosia groddar</AmbrosiaSprout.letterLabel>
+
+  <FarmAnimalsWanderIn.label>bondgårdsdjur vandrar in</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>vandrare ansluter</WandererJoin.label>
+  <RefugeePodCrash.label>flyktingkapsel krashar</RefugeePodCrash.label>
+
+
+  <!-- Neutral -->
+
+  <RefugeeChased.label>jagad flykting</RefugeeChased.label>
+  <ThrumboPasses.label>thrumbos passerar</ThrumboPasses.label>
+
+  <RansomDemand.label>lösenkrav</RansomDemand.label>
+  <RansomDemand.letterLabel>Lösenkrav</RansomDemand.letterLabel>
+
+  <CaravanRequest.label>Karavanförfrågan</CaravanRequest.label>
+
+
+  <!-- Bad -->
+
+  <PsychicDrone.label>Psykisk drönare</PsychicDrone.label>
+
+  <ToxicFallout.label>giftigt nedfall</ToxicFallout.label>
+  <ToxicFallout.letterText>En avlägsen kemisk eld har släppt ut en plym av gift över hela området.\n\nAlla personer och djur ej under tak kommer sakta förgiftas av det giftiga dammet som fälls ut atmosfären.\n\nDet kommer vara mellan några dagar till över en månad.</ToxicFallout.letterText>
+  <ToxicFallout.letterLabel>Giftigt nedfall</ToxicFallout.letterLabel>
+
+  <VolcanicWinter.label>vulkanisk vinter</VolcanicWinter.label>
+  <VolcanicWinter.letterText>En avlägsen supervulkan har fått ett utbrott och har börjat sprida ut miljoner kubik kilometer av aska in i atmosfären.\n\nAska i atmosfären kommer att fördunka solen. Temperaturen kommer att sjunka och växter kommer att lida av för dåligt med solsken. Det kommer att försvinna inom några veckor till några månader.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterLabel>Vulkanisk vinter</VolcanicWinter.letterLabel>
+
+  <HeatWave.label>värmebölja</HeatWave.label>
+  <HeatWave.letterText>En ovanligt värmebölja har startat. Se upp för värmeslag.</HeatWave.letterText>
+  <HeatWave.letterLabel>Värmebölja</HeatWave.letterLabel>
+
+  <ColdSnap.label>köldknäpp</ColdSnap.label>
+  <ColdSnap.letterText>En ovanligt köldknäpp har startat. Se upp för hypotermi och döende grödor.</ColdSnap.letterText>
+  <ColdSnap.letterLabel>Köldknäpp</ColdSnap.letterLabel>
+
+  <Flashstorm.label>blixtoväder</Flashstorm.label>
+  <Flashstorm.letterText>Extreme amounts of lightning are hitting a small region. This can cause massive fires.</Flashstorm.letterText>
+  <Flashstorm.letterLabel>Blixtoväder</Flashstorm.letterLabel>
+
+  <ShortCircuit.label>kortslutning</ShortCircuit.label>
+  <CropBlight.label>grödeförstörelse</CropBlight.label>
+  <Alphabeavers.label>alfabävrar</Alphabeavers.label>
+
+
+</LanguageData>

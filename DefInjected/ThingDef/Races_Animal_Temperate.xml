@@ -1,60 +1,62 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Deer.label>rådjur</Deer.label>
-    <Deer.description>En medelstor gräsätande. Generellt fred om den inte blir störd.</Deer.description>
-    <Deer_Leather.label>rådjurshud</Deer_Leather.label>
-    <Deer_Leather.description>rådjurshud</Deer_Leather.description>
-    <Deer_Leather.stuffProps.stuffAdjective>rådjurshud</Deer_Leather.stuffProps.stuffAdjective>
-    <Deer_Meat.label>rådjurskött</Deer_Meat.label>
-    <Deer_Meat.description>rådjurskött</Deer_Meat.description>
-    <Deer_Corpse.label>rådjurskropp</Deer_Corpse.label>
-    <Deer_Corpse.description>rådjurskropp</Deer_Corpse.description>
 
-    <Ibex.label>stenbock</Ibex.label>
-    <Ibex.description>Den härdad vilda anfader till vår domesticerade get. Stenbockar bor på små område som de flesta antiloper inte skulle kunna överleva, ätandes lavar och glesa fjällväxter. De är kända för vigt hoppande över kala klippor och för deras våldsamma ramattack.</Ibex.description>
-    <Ibex_Leather.label>gethud</Ibex_Leather.label>
-    <Ibex_Leather.description>gethud</Ibex_Leather.description>
-    <Ibex_Leather.stuffProps.stuffAdjective>gethud</Ibex_Leather.stuffProps.stuffAdjective>
-    <Ibex_Meat.label>stenbockskött</Ibex_Meat.label>
-    <Ibex_Meat.description>stenbockskött</Ibex_Meat.description>
-    <Ibex_Corpse.label>stenbockskropp</Ibex_Corpse.label>
-    <Ibex_Corpse.description>stenbockskropp</Ibex_Corpse.description>
+  <Deer.label>rådjur</Deer.label>
+  <Deer.description>En medelstor gräsätande. Generellt fred om den inte blir störd.</Deer.description>
+  <Deer_Leather.label>rådjurshud</Deer_Leather.label>
+  <Deer_Leather.description>rådjurshud</Deer_Leather.description>
+  <Deer_Leather.stuffProps.stuffAdjective>rådjurshud</Deer_Leather.stuffProps.stuffAdjective>
+  <Deer_Meat.label>rådjurskött</Deer_Meat.label>
+  <Deer_Meat.description>rådjurskött</Deer_Meat.description>
+  <Deer_Corpse.label>rådjurskropp</Deer_Corpse.label>
+  <Deer_Corpse.description>rådjurskropp</Deer_Corpse.description>
 
-    <Elk.label>älg</Elk.label>
-    <Elk.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Elk.description>
-    <Elk_Leather.label>älghud</Elk_Leather.label>
-    <Elk_Leather.description>älghud</Elk_Leather.description>
-    <Elk_Leather.stuffProps.stuffAdjective>älghud</Elk_Leather.stuffProps.stuffAdjective>
-    <Elk_Meat.label>älgkött</Elk_Meat.label>
-    <Elk_Meat.description>älgkött</Elk_Meat.description>
-    <Elk_Corpse.label>älgkropp</Elk_Corpse.label>
-    <Elk_Corpse.description>älgkropp</Elk_Corpse.description>
+  <Ibex.label>stenbock</Ibex.label>
+  <Ibex.description>Den härdad vilda anfader till vår domesticerade get. Stenbockar bor på små område som de flesta antiloper inte skulle kunna överleva, ätandes lavar och glesa fjällväxter. De är kända för vigt hoppande över kala klippor och för deras våldsamma ramattack.</Ibex.description>
+  <Ibex_Leather.label>gethud</Ibex_Leather.label>
+  <Ibex_Leather.description>gethud</Ibex_Leather.description>
+  <Ibex_Leather.stuffProps.stuffAdjective>gethud</Ibex_Leather.stuffProps.stuffAdjective>
+  <Ibex_Meat.label>stenbockskött</Ibex_Meat.label>
+  <Ibex_Meat.description>stenbockskött</Ibex_Meat.description>
+  <Ibex_Corpse.label>stenbockskropp</Ibex_Corpse.label>
+  <Ibex_Corpse.description>stenbockskropp</Ibex_Corpse.description>
 
-    <Caribou.label>caribou</Caribou.label>
-    <Caribou.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Caribou.description>
-    <Caribou_Leather.label>caribouläder</Caribou_Leather.label>
-    <Caribou_Leather.description>caribouläder</Caribou_Leather.description>
-    <Caribou_Leather.stuffProps.stuffAdjective>caribouläder</Caribou_Leather.stuffProps.stuffAdjective>
-    <Caribou_Meat.label>cariboukött</Caribou_Meat.label>
-    <Caribou_Meat.description>cariboukött</Caribou_Meat.description>
-    <Caribou_Corpse.label>cariboukropp</Caribou_Corpse.label>
-    <Caribou_Corpse.description>cariboukropp</Caribou_Corpse.description>
+  <Elk.label>älg</Elk.label>
+  <Elk.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Elk.description>
+  <Elk_Leather.label>älghud</Elk_Leather.label>
+  <Elk_Leather.description>älghud</Elk_Leather.description>
+  <Elk_Leather.stuffProps.stuffAdjective>älghud</Elk_Leather.stuffProps.stuffAdjective>
+  <Elk_Meat.label>älgkött</Elk_Meat.label>
+  <Elk_Meat.description>älgkött</Elk_Meat.description>
+  <Elk_Corpse.label>älgkropp</Elk_Corpse.label>
+  <Elk_Corpse.description>älgkropp</Elk_Corpse.description>
 
-    <WildBoar.label>vildsvin</WildBoar.label>
-    <WildBoar.description>Trots att det anses orent i vissa kulturer anses denna håriga förfader till den tama grisen vara prisad för den vilda smaken på köttet.</WildBoar.description>
-    <WildBoar_Corpse.label>vildsvinskropp</WildBoar_Corpse.label>
-    <WildBoar_Corpse.description>vildsvinskropp</WildBoar_Corpse.description>
+  <Caribou.label>caribou</Caribou.label>
+  <Caribou.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Caribou.description>
+  <Caribou_Leather.label>caribouläder</Caribou_Leather.label>
+  <Caribou_Leather.description>caribouläder</Caribou_Leather.description>
+  <Caribou_Leather.stuffProps.stuffAdjective>caribouläder</Caribou_Leather.stuffProps.stuffAdjective>
+  <Caribou_Meat.label>cariboukött</Caribou_Meat.label>
+  <Caribou_Meat.description>cariboukött</Caribou_Meat.description>
+  <Caribou_Corpse.label>cariboukropp</Caribou_Corpse.label>
+  <Caribou_Corpse.description>cariboukropp</Caribou_Corpse.description>
 
-    <Tortoise.label>sköldpadda</Tortoise.label>
-    <Tortoise.description>Detta tungt bepansrade landlevande reptil är känd för sin långsamma hastighet och sitt förvånansvärt onda bett.</Tortoise.description>
-    <Tortoise_Leather.label>sköldpaddsläder</Tortoise_Leather.label>
-    <Tortoise_Leather.description>sköldpaddsläder</Tortoise_Leather.description>
-    <Tortoise_Leather.stuffProps.stuffAdjective>sköldpaddsläder</Tortoise_Leather.stuffProps.stuffAdjective>
-    <Tortoise_Meat.label>sköldpaddskött</Tortoise_Meat.label>
-    <Tortoise_Meat.description>sköldpaddskött</Tortoise_Meat.description>
-    <Tortoise_Corpse.label>sköldpaddskropp</Tortoise_Corpse.label>
-    <Tortoise_Corpse.description>sköldpaddskropp</Tortoise_Corpse.description>
-	
-    
+  <WildBoar.label>vildsvin</WildBoar.label>
+  <WildBoar.description>Trots att det anses orent i vissa kulturer anses denna håriga förfader till den tama grisen vara prisad för den vilda smaken på köttet.</WildBoar.description>
+  <!-- Use Leather From: Pig -->
+  <!-- Use Meat From: Pig -->
+  <WildBoar_Corpse.label>vildsvinskropp</WildBoar_Corpse.label>
+  <WildBoar_Corpse.description>vildsvinskropp</WildBoar_Corpse.description>
+
+  <Tortoise.label>sköldpadda</Tortoise.label>
+  <Tortoise.description>Detta tungt bepansrade landlevande reptil är känd för sin långsamma hastighet och sitt förvånansvärt onda bett.</Tortoise.description>
+  <Tortoise_Leather.label>sköldpaddsläder</Tortoise_Leather.label>
+  <Tortoise_Leather.description>sköldpaddsläder</Tortoise_Leather.description>
+  <Tortoise_Leather.stuffProps.stuffAdjective>sköldpaddsläder</Tortoise_Leather.stuffProps.stuffAdjective>
+  <Tortoise_Meat.label>sköldpaddskött</Tortoise_Meat.label>
+  <Tortoise_Meat.description>sköldpaddskött</Tortoise_Meat.description>
+  <Tortoise_Corpse.label>sköldpaddskropp</Tortoise_Corpse.label>
+  <Tortoise_Corpse.description>sköldpaddskropp</Tortoise_Corpse.description>
+
+
 </LanguageData>

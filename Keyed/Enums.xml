@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- glow -->
   <Dark>Mörkt</Dark>
   <Lit>Upplyst</Lit>
   <LitBrightly>Välbelyst</LitBrightly>
-  
+
   <!-- history upload pref -->
   <Unspecified>Obestämt</Unspecified>
   <Always>Tillåt</Always>
   <Never>Tillåt ej</Never>
-  
+
   <!-- Price types -->
   <PriceTypeVeryCheap>väldigt billigt</PriceTypeVeryCheap>
   <PriceTypeCheap>billigt</PriceTypeCheap>
@@ -30,7 +30,7 @@
   <FoodTypeFlags_VegetableOrFruit>grönsaker</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>rått kött</FoodTypeFlags_Meat>
   <FoodTypeFlags_Corpse>lik</FoodTypeFlags_Corpse>
-  <FoodTypeFlags_Seeds>frön</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
   <FoodTypeFlags_AnimalProduct>djurprodukter</FoodTypeFlags_AnimalProduct>
   <FoodTypeFlags_Plant>levande växter</FoodTypeFlags_Plant>
   <FoodTypeFlags_Tree>levande träd</FoodTypeFlags_Tree>
@@ -58,7 +58,7 @@
   <QualityCategoryShort_Excellent>utmä</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>mäst</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
-  
+
   <!-- Hunger -->
   <HungerLevel_Starving>Svälter</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>Akut hungrig</HungerLevel_UrgentlyHungry>
@@ -77,7 +77,7 @@
   <Hilliness_LargeHills>stora kullar</Hilliness_LargeHills>
   <Hilliness_Mountainous>bergigt</Hilliness_Mountainous>
   <Hilliness_Impassable>oframkomligt</Hilliness_Impassable>
-  
+
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Skapar</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Skickar in</WorkshopInteractStage_SubmittingItem>
@@ -91,7 +91,7 @@
   <!-- Mod sources -->
   <ContentSource_LocalFolder>lokal mapp</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
-  
+
   <!-- Trainable intelligence -->
   <TrainableIntelligence_None>ingen</TrainableIntelligence_None>
   <TrainableIntelligence_Simple>enkel</TrainableIntelligence_Simple>
@@ -109,7 +109,7 @@
   <HostilityResponseMode_Ignore>Ignorera</HostilityResponseMode_Ignore>
   <HostilityResponseMode_Attack>Attackera</HostilityResponseMode_Attack>
   <HostilityResponseMode_Flee>Fly</HostilityResponseMode_Flee>
-  
+
   <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>ökande</HediffGrowthMode_Growing>
   <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
@@ -132,17 +132,17 @@
   <PawnGenerationContext_All>alla karaktärer</PawnGenerationContext_All>
   <PawnGenerationContext_PlayerStarter>spelarens startkaraktärer</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>icke-spelarkaraktärer</PawnGenerationContext_NonPlayer>
-  
+
   <!-- Animal name display mode -->
   <ShowAnimalNames>Visa djurnamn</ShowAnimalNames>
   <AnimalNameDisplayMode_TameNamed>Tama (bara döpta)</AnimalNameDisplayMode_TameNamed>
   <AnimalNameDisplayMode_TameAll>Tama (alla)</AnimalNameDisplayMode_TameAll>
-  
+
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
   <Fahrenheit>Fahrenheit</Fahrenheit>
   <Kelvin>Kelvin</Kelvin>
- 
+
   <!-- Direction8Way -->
   <Direction8Way_North_Short>N</Direction8Way_North_Short>
   <Direction8Way_NorthEast_Short>NÖ</Direction8Way_NorthEast_Short>
@@ -152,5 +152,5 @@
   <Direction8Way_SouthWest_Short>SV</Direction8Way_SouthWest_Short>
   <Direction8Way_West_Short>V</Direction8Way_West_Short>
   <Direction8Way_NorthWest_Short>NV</Direction8Way_NorthWest_Short>
-  
+
 </LanguageData>

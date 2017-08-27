@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Chemical_Psychite.label>psychite</Chemical_Psychite.label>
-    <Chemical_Psychite.description>På grund av ett psychiteberoende behöver den här personen regelbundet konsumera psychite för att undvika abstinens symptom.</Chemical_Psychite.description>
-    
+
+  <!-- Psychite addiction -->
+
+  <Chemical_Psychite.label>psychite</Chemical_Psychite.label>
+  <Chemical_Psychite.description>På grund av ett psychiteberoende behöver den här personen regelbundet konsumera psychite för att undvika abstinens symptom.</Chemical_Psychite.description>
+
+
 </LanguageData>

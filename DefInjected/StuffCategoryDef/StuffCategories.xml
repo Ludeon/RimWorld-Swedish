@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Metallic.label>metallisk</Metallic.label>
-    
-    <Woody.label>träig</Woody.label>
-    
-    <Stony.label>stenig</Stony.label>
-    
-    <Fabric.label>tyg</Fabric.label>
-    
-    <Leathery.label>läderaktig</Leathery.label>
-    
+
+  <Metallic.label>metallisk</Metallic.label>
+  <Woody.label>träig</Woody.label>
+  <Stony.label>stenig</Stony.label>
+  <Fabric.label>tyg</Fabric.label>
+  <Leathery.label>läderaktig</Leathery.label>
+
+
 </LanguageData>

@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <BadBack.label>Ryggsmärtor</BadBack.label>
-    <Frail.label>Skör</Frail.label>
-    <Cataract.label>Gråstarr</Cataract.label>
-    <HearingLoss.label>Lomhörd</HearingLoss.label>
-    <Dementia.label>Dement</Dementia.label>
-    
-    <Alzheimers.label>Alzheimers</Alzheimers.label>
-    <Alzheimers.stages.0.label>lindrig</Alzheimers.stages.0.label>
-    <Alzheimers.stages.1.label>lindrig</Alzheimers.stages.1.label>
-    <Alzheimers.stages.2.label>allvarlig</Alzheimers.stages.2.label>
-    <Alzheimers.stages.3.label>allvarlig</Alzheimers.stages.3.label>
-    
-    <Asthma.label>Astma</Asthma.label>
-    <Asthma.stages.0.label>lindrig</Asthma.stages.0.label>
-    <Asthma.stages.1.label>allvarlig</Asthma.stages.1.label>
-    <Asthma.stages.2.label>allvarlig</Asthma.stages.2.label>
-    
-    <HeartArteryBlockage.label>Kranskärlssjukdom</HeartArteryBlockage.label>
-    <HeartArteryBlockage.stages.0.label>lindrig</HeartArteryBlockage.stages.0.label>
-    <HeartArteryBlockage.stages.1.label>lindrig</HeartArteryBlockage.stages.1.label>
-    <HeartArteryBlockage.stages.2.label>allvarlig</HeartArteryBlockage.stages.2.label>
-    <HeartArteryBlockage.stages.3.label>allvarlig</HeartArteryBlockage.stages.3.label>
-    <HeartArteryBlockage.stages.4.label>extrem</HeartArteryBlockage.stages.4.label>
-    
-    <Carcinoma.label>Cancer</Carcinoma.label>
-    <Carcinoma.stages.0.label>in situ</Carcinoma.stages.0.label>
-    <Carcinoma.stages.1.label>in situ</Carcinoma.stages.1.label>
-    <Carcinoma.stages.2.label>metastaserar</Carcinoma.stages.2.label>
-    <Carcinoma.stages.3.label>metastaserar</Carcinoma.stages.3.label>
-    <Carcinoma.stages.4.label>invasiv</Carcinoma.stages.4.label>
-    <Carcinoma.stages.5.label>invasiv</Carcinoma.stages.5.label>
-    
-	
+
+  <BadBack.label>Ryggsmärtor</BadBack.label>
+  <Frail.label>Skör</Frail.label>
+  <Cataract.label>Gråstarr</Cataract.label>
+  <HearingLoss.label>Lomhörd</HearingLoss.label>
+  <Dementia.label>Dement</Dementia.label>
+
+  <Alzheimers.label>Alzheimers</Alzheimers.label>
+  <Alzheimers.stages.0.label>lindrig</Alzheimers.stages.0.label>
+  <Alzheimers.stages.1.label>lindrig</Alzheimers.stages.1.label>
+  <Alzheimers.stages.2.label>allvarlig</Alzheimers.stages.2.label>
+  <Alzheimers.stages.3.label>allvarlig</Alzheimers.stages.3.label>
+
+  <Asthma.label>Astma</Asthma.label>
+  <Asthma.stages.0.label>lindrig</Asthma.stages.0.label>
+  <Asthma.stages.1.label>allvarlig</Asthma.stages.1.label>
+  <Asthma.stages.2.label>allvarlig</Asthma.stages.2.label>
+
+  <HeartArteryBlockage.label>Kranskärlssjukdom</HeartArteryBlockage.label>
+  <HeartArteryBlockage.stages.0.label>lindrig</HeartArteryBlockage.stages.0.label>
+  <HeartArteryBlockage.stages.1.label>lindrig</HeartArteryBlockage.stages.1.label>
+  <HeartArteryBlockage.stages.2.label>allvarlig</HeartArteryBlockage.stages.2.label>
+  <HeartArteryBlockage.stages.3.label>allvarlig</HeartArteryBlockage.stages.3.label>
+  <HeartArteryBlockage.stages.4.label>extrem</HeartArteryBlockage.stages.4.label>
+
+  <Carcinoma.label>Cancer</Carcinoma.label>
+  <Carcinoma.stages.0.label>in situ</Carcinoma.stages.0.label>
+  <Carcinoma.stages.1.label>in situ</Carcinoma.stages.1.label>
+  <Carcinoma.stages.2.label>metastaserar</Carcinoma.stages.2.label>
+  <Carcinoma.stages.3.label>metastaserar</Carcinoma.stages.3.label>
+  <Carcinoma.stages.4.label>invasiv</Carcinoma.stages.4.label>
+  <Carcinoma.stages.5.label>invasiv</Carcinoma.stages.5.label>
+
+
 </LanguageData>

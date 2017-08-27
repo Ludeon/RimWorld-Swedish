@@ -1,70 +1,74 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Nudist.degreeDatas.0.label>Nudist</Nudist.degreeDatas.0.label>
-    <Nudist.degreeDatas.0.description>NAME njuter av frihetskänslan som kommer av att vara naken. HECAP kan bära kläder, men är gladare utan.</Nudist.degreeDatas.0.description>
-    
-    <Bloodlust.degreeDatas.0.label>Blodtörstig</Bloodlust.degreeDatas.0.label>
-    <Bloodlust.degreeDatas.0.description>NAME får en kick av att skada andra personer och skyr inte åsynen av blod och död. Risken är dubbelt så stor att HE startar ett slagsmål.</Bloodlust.degreeDatas.0.description>
-	
-	<Kind.degreeDatas.0.label>snäll</Kind.degreeDatas.0.label>
-    <Kind.degreeDatas.0.description>NAME är en snäll person. HECAP har en tendens att lysa upp andras vardag och aldrig förolämpa någon.</Kind.degreeDatas.0.description>
 
-    <Psychopath.degreeDatas.0.label>Psykopat</Psychopath.degreeDatas.0.label>
-    <Psychopath.degreeDatas.0.description>NAME saknar empati, andras lidande rör inte HIM ett dugg. HECAP bryr sig inte om någon blir slaktad, lämnas obegravd, fängslas, eller säljs som slav - såvidare detta inte påverkar HIM personligen. HISCAP humör förbättras inte om HE att umgås med andra.  </Psychopath.degreeDatas.0.description>
-    
-    <Cannibal.degreeDatas.0.label>kannibal</Cannibal.degreeDatas.0.label>
-    <Cannibal.degreeDatas.0.description>NAME fick lära sig att det är fel att äta människokött. Men en gång, för länge sedan, provade HE... och gillade det.</Cannibal.degreeDatas.0.description>
-    
-    <Abrasive.degreeDatas.0.label>burdus</Abrasive.degreeDatas.0.label>
-    <Abrasive.degreeDatas.0.description>NAME säger alltid vad HE tycker, särskilt om det stör HIM. Detta är något som brukar irritera andra.</Abrasive.degreeDatas.0.description>
-    
-    <TooSmart.degreeDatas.0.label>för smart</TooSmart.degreeDatas.0.label>
-    <TooSmart.degreeDatas.0.description>NAME är för smart för HIS eget bästa. HECAP är snabblärd jämfört med andra, men kan vara lite excentrisk.</TooSmart.degreeDatas.0.description>
-    
-    <Brawler.degreeDatas.0.label>slagskämpe</Brawler.degreeDatas.0.label>
-    <Brawler.degreeDatas.0.description>NAME gillar när ett slagsmål är intimt och personligt. HISCAP sikte förbättras avsevärt i närkamp, men HE blir väldigt olycklig om HE måste bära ett handeldvapen.</Brawler.degreeDatas.0.description>
-    
-    <Masochist.degreeDatas.0.label>självplågare</Masochist.degreeDatas.0.label>
-    <Masochist.degreeDatas.0.description>För NAME är det något upphetsande om att bli skadad. HECAP vet inte varför, HE är bara annorlunda på något sätt.</Masochist.degreeDatas.0.description>
-    
-    <Prosthophile.degreeDatas.0.label>protesofil</Prosthophile.degreeDatas.0.label>
-    <Prosthophile.degreeDatas.0.description>NAME känner sig begränsad av sin svaga och bräckliga människokropp. HECAP drömmer ofta om att byta ut sina naturliga kroppsdelar mot bioniska.</Prosthophile.degreeDatas.0.description>
-    
-    <Prosthophobe.degreeDatas.0.label>protesofob</Prosthophobe.degreeDatas.0.label>
-    <Prosthophobe.degreeDatas.0.description>NAME anser att människokroppen är begränsad av en anledning. För HIM är bioniska kroppsdelar oetiskt.</Prosthophobe.degreeDatas.0.description>
-    
-    <GreenThumb.degreeDatas.0.label>gröna fingrar</GreenThumb.degreeDatas.0.label>
-    <GreenThumb.degreeDatas.0.description>NAMEs passion är trädgårdsarbete. HECAPs humör förbättras för varje växt HE sår.</GreenThumb.degreeDatas.0.description>
-    
-    <NightOwl.degreeDatas.0.label>nattuggla</NightOwl.degreeDatas.0.label>
-    <NightOwl.degreeDatas.0.description>NAMEs humör förbättras när HE är uppe om nätterna, och försämras när HE är vaken på dagarna.</NightOwl.degreeDatas.0.description>
-    
-    <Greedy.degreeDatas.0.label>girig</Greedy.degreeDatas.0.label>
-    <Greedy.degreeDatas.0.description>NAME behöver ett riktigt imponerande sovrum. HISCAP humör försämras om inte HE får som HE vill.</Greedy.degreeDatas.0.description>
-    
-    <Jealous.degreeDatas.0.label>avundsjuk</Jealous.degreeDatas.0.label>
-    <Jealous.degreeDatas.0.description>NAME tycker att det är förnedrande att ha ett mindre imponerande sovrum än någon annan. HISCAPs humör försämras om en annan kolonist har ett mer imponerande sovrum.</Jealous.degreeDatas.0.description>
-    
-    <Ascetic.degreeDatas.0.label>asket</Ascetic.degreeDatas.0.label>
-    <Ascetic.degreeDatas.0.description>NAME föredrar att leva asketiskt. HECAP humör försämras om HEs sovrum är för imponerande. HECAP ogillar också lyxig mat och föredrar att äta rå mat - vilket inte att störa HIM alls. </Ascetic.degreeDatas.0.description>
-    
-    <Gay.degreeDatas.0.label>homosexuell</Gay.degreeDatas.0.label>
-    <Gay.degreeDatas.0.description>NAME dras till personer av samma kön som HIM.</Gay.degreeDatas.0.description>
-    
-    <DislikesMen.degreeDatas.0.label>ogillar män</DislikesMen.degreeDatas.0.label>
-    <DislikesMen.degreeDatas.0.description>NAME ogillar och misstror män.</DislikesMen.degreeDatas.0.description>
-    
-    <DislikesWomen.degreeDatas.0.label>ogillar kvinnor</DislikesWomen.degreeDatas.0.label>
-    <DislikesWomen.degreeDatas.0.description>NAME ogillar och misstror kvinnor.</DislikesWomen.degreeDatas.0.description>
-    
-    <AnnoyingVoice.degreeDatas.0.label>irriterande röst</AnnoyingVoice.degreeDatas.0.label>
-    <AnnoyingVoice.degreeDatas.0.description>NAME's röst har en särskilt gäll, nasal kvalitet till den, och HE tenderar att prata i skällande, förvrängda fraser. Detta orsakar ofta att andra ogillar HIM.</AnnoyingVoice.degreeDatas.0.description>
-    
-    <CreepyBreathing.degreeDatas.0.label>obehagligt andning</CreepyBreathing.degreeDatas.0.label>
-    <CreepyBreathing.degreeDatas.0.description>NAME andas tungt hela tiden och svettningar konstant. Folk tycker att detta är obehagligt.</CreepyBreathing.degreeDatas.0.description>
-    
-    <Pyromaniac.degreeDatas.0.label>pyroman</Pyromaniac.degreeDatas.0.label>
-    <Pyromaniac.degreeDatas.0.description>NAME älskar eld. HECAP kommer då och då starta bränder och kommer aldrig att släcka dem.</Pyromaniac.degreeDatas.0.description>
-    
+  <Nudist.degreeDatas.0.label>Nudist</Nudist.degreeDatas.0.label>
+  <Nudist.degreeDatas.0.description>NAME njuter av frihetskänslan som kommer av att vara naken. HECAP kan bära kläder, men är gladare utan.</Nudist.degreeDatas.0.description>
+
+  <Bloodlust.degreeDatas.0.label>Blodtörstig</Bloodlust.degreeDatas.0.label>
+  <Bloodlust.degreeDatas.0.description>NAME får en kick av att skada andra personer och skyr inte åsynen av blod och död. Risken är dubbelt så stor att HE startar ett slagsmål.</Bloodlust.degreeDatas.0.description>
+
+  <Kind.degreeDatas.0.label>snäll</Kind.degreeDatas.0.label>
+  <Kind.degreeDatas.0.description>NAME är en snäll person. HECAP har en tendens att lysa upp andras vardag och aldrig förolämpa någon.</Kind.degreeDatas.0.description>
+
+  <Psychopath.degreeDatas.0.label>Psykopat</Psychopath.degreeDatas.0.label>
+  <Psychopath.degreeDatas.0.description>NAME saknar empati, andras lidande rör inte HIM ett dugg. HECAP bryr sig inte om någon blir slaktad, lämnas obegravd, fängslas, eller säljs som slav - såvidare detta inte påverkar HIM personligen. HISCAP humör förbättras inte om HE att umgås med andra.  </Psychopath.degreeDatas.0.description>
+
+  <Cannibal.degreeDatas.0.label>kannibal</Cannibal.degreeDatas.0.label>
+  <Cannibal.degreeDatas.0.description>NAME fick lära sig att det är fel att äta människokött. Men en gång, för länge sedan, provade HE... och gillade det.</Cannibal.degreeDatas.0.description>
+
+  <Abrasive.degreeDatas.0.label>burdus</Abrasive.degreeDatas.0.label>
+  <Abrasive.degreeDatas.0.description>NAME säger alltid vad HE tycker, särskilt om det stör HIM. Detta är något som brukar irritera andra.</Abrasive.degreeDatas.0.description>
+
+  <TooSmart.degreeDatas.0.label>för smart</TooSmart.degreeDatas.0.label>
+  <TooSmart.degreeDatas.0.description>NAME är för smart för HIS eget bästa. HECAP är snabblärd jämfört med andra, men kan vara lite excentrisk.</TooSmart.degreeDatas.0.description>
+
+  <Brawler.degreeDatas.0.label>slagskämpe</Brawler.degreeDatas.0.label>
+  <Brawler.degreeDatas.0.description>NAME gillar när ett slagsmål är intimt och personligt. HISCAP sikte förbättras avsevärt i närkamp, men HE blir väldigt olycklig om HE måste bära ett handeldvapen.</Brawler.degreeDatas.0.description>
+
+  <Masochist.degreeDatas.0.label>självplågare</Masochist.degreeDatas.0.label>
+  <Masochist.degreeDatas.0.description>För NAME är det något upphetsande om att bli skadad. HECAP vet inte varför, HE är bara annorlunda på något sätt.</Masochist.degreeDatas.0.description>
+
+  <Prosthophile.degreeDatas.0.label>protesofil</Prosthophile.degreeDatas.0.label>
+  <Prosthophile.degreeDatas.0.description>NAME känner sig begränsad av sin svaga och bräckliga människokropp. HECAP drömmer ofta om att byta ut sina naturliga kroppsdelar mot bioniska.</Prosthophile.degreeDatas.0.description>
+
+  <Prosthophobe.degreeDatas.0.label>protesofob</Prosthophobe.degreeDatas.0.label>
+  <Prosthophobe.degreeDatas.0.description>NAME anser att människokroppen är begränsad av en anledning. För HIM är bioniska kroppsdelar oetiskt.</Prosthophobe.degreeDatas.0.description>
+
+  <GreenThumb.degreeDatas.0.label>gröna fingrar</GreenThumb.degreeDatas.0.label>
+  <GreenThumb.degreeDatas.0.description>NAMEs passion är trädgårdsarbete. HECAPs humör förbättras för varje växt HE sår.</GreenThumb.degreeDatas.0.description>
+
+  <NightOwl.degreeDatas.0.label>nattuggla</NightOwl.degreeDatas.0.label>
+  <NightOwl.degreeDatas.0.description>NAMEs humör förbättras när HE är uppe om nätterna, och försämras när HE är vaken på dagarna.</NightOwl.degreeDatas.0.description>
+
+  <Greedy.degreeDatas.0.label>girig</Greedy.degreeDatas.0.label>
+  <Greedy.degreeDatas.0.description>NAME behöver ett riktigt imponerande sovrum. HISCAP humör försämras om inte HE får som HE vill.</Greedy.degreeDatas.0.description>
+
+  <Jealous.degreeDatas.0.label>avundsjuk</Jealous.degreeDatas.0.label>
+  <Jealous.degreeDatas.0.description>NAME tycker att det är förnedrande att ha ett mindre imponerande sovrum än någon annan. HISCAPs humör försämras om en annan kolonist har ett mer imponerande sovrum.</Jealous.degreeDatas.0.description>
+
+  <Ascetic.degreeDatas.0.label>asket</Ascetic.degreeDatas.0.label>
+  <Ascetic.degreeDatas.0.description>NAME föredrar att leva asketiskt. HECAP humör försämras om HEs sovrum är för imponerande. HECAP ogillar också lyxig mat och föredrar att äta rå mat - vilket inte att störa HIM alls. </Ascetic.degreeDatas.0.description>
+
+  <Gay.degreeDatas.0.label>homosexuell</Gay.degreeDatas.0.label>
+  <Gay.degreeDatas.0.description>NAME dras till personer av samma kön som HIM.</Gay.degreeDatas.0.description>
+
+  <DislikesMen.degreeDatas.0.label>ogillar män</DislikesMen.degreeDatas.0.label>
+  <DislikesMen.degreeDatas.0.description>NAME ogillar och misstror män.</DislikesMen.degreeDatas.0.description>
+
+  <DislikesWomen.degreeDatas.0.label>ogillar kvinnor</DislikesWomen.degreeDatas.0.label>
+  <DislikesWomen.degreeDatas.0.description>NAME ogillar och misstror kvinnor.</DislikesWomen.degreeDatas.0.description>
+
+  <AnnoyingVoice.degreeDatas.0.label>irriterande röst</AnnoyingVoice.degreeDatas.0.label>
+  <AnnoyingVoice.degreeDatas.0.description>NAME's röst har en särskilt gäll, nasal kvalitet till den, och HE tenderar att prata i skällande, förvrängda fraser. Detta orsakar ofta att andra ogillar HIM.</AnnoyingVoice.degreeDatas.0.description>
+
+  <CreepyBreathing.degreeDatas.0.label>obehagligt andning</CreepyBreathing.degreeDatas.0.label>
+  <CreepyBreathing.degreeDatas.0.description>NAME andas tungt hela tiden och svettningar konstant. Folk tycker att detta är obehagligt.</CreepyBreathing.degreeDatas.0.description>
+
+  <Pyromaniac.degreeDatas.0.label>pyroman</Pyromaniac.degreeDatas.0.label>
+  <Pyromaniac.degreeDatas.0.description>NAME älskar eld. HECAP kommer då och då starta bränder och kommer aldrig att släcka dem.</Pyromaniac.degreeDatas.0.description>
+
+  <Wimp.degreeDatas.0.label>mes</Wimp.degreeDatas.0.label>
+  <Wimp.degreeDatas.0.description>NAME är svag och feg. Även lite smärta kommer att immobilisera HIM.</Wimp.degreeDatas.0.description>
+
+
 </LanguageData>

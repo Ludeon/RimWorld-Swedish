@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    		
+
   <!-- Added body parts -->
-  
-    <PegLeg.label>Träben</PegLeg.label>
-    <Denture.label>Tandprotes</Denture.label>
-    <SimpleProstheticLeg.label>Enkel Benprotes</SimpleProstheticLeg.label>
-    <SimpleProstheticArm.label>Enkel Armprotes</SimpleProstheticArm.label>
-    <BionicEye.label>Bioniskt Öga</BionicEye.label>
-    <BionicArm.label>Bionisk Arm</BionicArm.label>
-    <BionicLeg.label>Bioniskt Ben</BionicLeg.label>
-    <PowerClaw.label>Kraftklo</PowerClaw.label>
-    <ScytherBlade.label>Scyther-klinga</ScytherBlade.label>
-    
+
+  <PegLeg.label>Träben</PegLeg.label>
+  <Denture.label>Tandprotes</Denture.label>
+  <SimpleProstheticLeg.label>Enkel Benprotes</SimpleProstheticLeg.label>
+  <SimpleProstheticArm.label>Enkel Armprotes</SimpleProstheticArm.label>
+  <BionicEye.label>Bioniskt Öga</BionicEye.label>
+  <BionicArm.label>Bionisk Arm</BionicArm.label>
+  <BionicLeg.label>Bioniskt Ben</BionicLeg.label>
+  <PowerClaw.label>Kraftklo</PowerClaw.label>
+  <ScytherBlade.label>Liemansklinga</ScytherBlade.label>
+
+
 </LanguageData>

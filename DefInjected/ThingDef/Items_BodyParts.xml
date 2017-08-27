@@ -1,45 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	  <!-- natural -->
-	
-    <Heart.label>hjärta</Heart.label>
-    <Heart.description>Förser blod och syre till alla delar av kroppen. Redo att hitta en ny ägare.</Heart.description>
-    
-    <Lung.label>lunga</Lung.label>
-    <Lung.description>Väsentlig del av andningssystemet .</Lung.description>
-    
-    <Kidney.label>njure</Kidney.label>
-    <Kidney.description>Filterar och tar bort slaggprodukter från blodet.</Kidney.description>
-    
-    <Liver.label>lever</Liver.label>
-    <Liver.description>Pspelar en viktig roll i ämnesomsättningen.</Liver.description>
-	
-	
-	<!-- artificial - simple prosthetics -->
-    
-    <SimpleProstheticLeg.label>enkel benprotes</SimpleProstheticLeg.label>
-    <SimpleProstheticLeg.description>Enkel protes för att ersätta saknade ben. Inte speciellt bekväm men ganska effektiv.</SimpleProstheticLeg.description>
-    
-    <SimpleProstheticArm.label>enkel armprotes</SimpleProstheticArm.label>
-    <SimpleProstheticArm.description>Enkel men slitstark armprotes.</SimpleProstheticArm.description>
-    
-	
-	<!-- artificial - bionics -->
-	
-    <BionicEye.label>bioniskt öga</BionicEye.label>
-    <BionicEye.description>Avancerad teknik görs inte bara för att helt ersätta naturliga ögat, men också att ge övernaturliga syn förmågor,</BionicEye.description>
-    
-    <BionicArm.label>bioniskt arm</BionicArm.label>
-    <BionicArm.description>En av de mest sofistikerade armersättare som finns på marknaden. Ger extrem styrka för dess användare.</BionicArm.description>
-    
-    <BionicLeg.label>bioniskt ben</BionicLeg.label>
-    <BionicLeg.description>Bioniskt ben använder avancerad teknik för att ge sin ägare extrem gångkomfort och styrka.</BionicLeg.description>
-    
-    <PowerClaw.label>Kraftklo</PowerClaw.label>
-    <PowerClaw.description>Kraftig hand ersättning bestående av tre dödliga klor.</PowerClaw.description>
-    
-    <ScytherBlade.label>Liemanblad</ScytherBlade.label>
-    <ScytherBlade.description>Hand ersatt med en teleskopisk blad. Skördat från en död lieman mekanoid. Inte speciellt bekvämt, men ganska effektiv som ett närstridsvapen.</ScytherBlade.description>
-    
+
+  <!-- natural -->
+
+  <Heart.label>hjärta</Heart.label>
+  <Heart.description>Förser blod och syre till alla delar av kroppen. Redo att hitta en ny ägare.</Heart.description>
+
+  <Lung.label>lunga</Lung.label>
+  <Lung.description>Väsentlig del av andningssystemet .</Lung.description>
+
+  <Kidney.label>njure</Kidney.label>
+  <Kidney.description>Filterar och tar bort slaggprodukter från blodet.</Kidney.description>
+
+  <Liver.label>lever</Liver.label>
+  <Liver.description>Pspelar en viktig roll i ämnesomsättningen.</Liver.description>
+
+
+  <!-- artificial - simple prosthetics -->
+
+  <SimpleProstheticLeg.label>enkel benprotes</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Enkel protes för att ersätta saknade ben. Inte speciellt bekväm men ganska effektiv.</SimpleProstheticLeg.description>
+
+  <SimpleProstheticArm.label>enkel armprotes</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>Enkel men slitstark armprotes.</SimpleProstheticArm.description>
+
+
+  <!-- artificial - bionics -->
+
+  <BionicEye.label>bioniskt öga</BionicEye.label>
+  <BionicEye.description>Avancerad teknik görs inte bara för att helt ersätta naturliga ögat, men också att ge övernaturliga syn förmågor,</BionicEye.description>
+
+  <BionicArm.label>bioniskt arm</BionicArm.label>
+  <BionicArm.description>En av de mest sofistikerade armersättare som finns på marknaden. Ger extrem styrka för dess användare.</BionicArm.description>
+
+  <BionicLeg.label>bioniskt ben</BionicLeg.label>
+  <BionicLeg.description>Bioniskt ben använder avancerad teknik för att ge sin ägare extrem gångkomfort och styrka.</BionicLeg.description>
+
+  <PowerClaw.label>Kraftklo</PowerClaw.label>
+  <PowerClaw.description>Kraftig hand ersättning bestående av tre dödliga klor.</PowerClaw.description>
+
+  <ScytherBlade.label>Liemanblad</ScytherBlade.label>
+  <ScytherBlade.description>Hand ersatt med en teleskopisk blad. Skördat från en död lieman mekanoid. Inte speciellt bekvämt, men ganska effektiv som ett närstridsvapen.</ScytherBlade.description>
+
+
 </LanguageData>

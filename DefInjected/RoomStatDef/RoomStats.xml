@@ -1,60 +1,60 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Impressiveness.label>imponerande</Impressiveness.label>
-    <Impressiveness.scoreStages.0.label>förfärligt</Impressiveness.scoreStages.0.label>
-    <Impressiveness.scoreStages.1.label>motbjudande</Impressiveness.scoreStages.1.label>
-    <Impressiveness.scoreStages.2.label>tråkigt</Impressiveness.scoreStages.2.label>
-    <Impressiveness.scoreStages.3.label>mediokert</Impressiveness.scoreStages.3.label>
-    <Impressiveness.scoreStages.4.label>intressant</Impressiveness.scoreStages.4.label>
-    <Impressiveness.scoreStages.5.label>något imponerande</Impressiveness.scoreStages.5.label>
-    <Impressiveness.scoreStages.6.label>väldigt imponerande</Impressiveness.scoreStages.6.label>
-    <Impressiveness.scoreStages.7.label>extremt imponerande</Impressiveness.scoreStages.7.label>
-    <Impressiveness.scoreStages.8.label>otroligt imponerande</Impressiveness.scoreStages.8.label>
-    <Impressiveness.scoreStages.9.label>mirakulöst imponerande</Impressiveness.scoreStages.9.label>
-    
-    <Wealth.label>rikedom</Wealth.label>
-    <Wealth.scoreStages.0.label>urfattigt</Wealth.scoreStages.0.label>
-    <Wealth.scoreStages.1.label>fattigt</Wealth.scoreStages.1.label>
-    <Wealth.scoreStages.2.label>mediokert</Wealth.scoreStages.2.label>
-    <Wealth.scoreStages.3.label>smårikt</Wealth.scoreStages.3.label>
-    <Wealth.scoreStages.4.label>rikt</Wealth.scoreStages.4.label>
-    <Wealth.scoreStages.5.label>lyxit</Wealth.scoreStages.5.label>
-    <Wealth.scoreStages.6.label>väldigt lyxit</Wealth.scoreStages.6.label>
-    <Wealth.scoreStages.7.label>extremt lyxit</Wealth.scoreStages.7.label>
-    <Wealth.scoreStages.8.label>otroligt lyxit</Wealth.scoreStages.8.label>
-    
-    <Space.label>utrymme</Space.label>
-    <Space.scoreStages.0.label>trångt</Space.scoreStages.0.label>
-    <Space.scoreStages.1.label>ganska snävt</Space.scoreStages.1.label>
-    <Space.scoreStages.2.label>lagom</Space.scoreStages.2.label>
-    <Space.scoreStages.3.label>ganska rymligt</Space.scoreStages.3.label>
-    <Space.scoreStages.4.label>rymligt</Space.scoreStages.4.label>
-    <Space.scoreStages.5.label>väldigt rymligt</Space.scoreStages.5.label>
-    <Space.scoreStages.6.label>extremt rymligt</Space.scoreStages.6.label>
-    
-    <Beauty.label>skönhet</Beauty.label>
-    <Beauty.scoreStages.0.label>otäckt</Beauty.scoreStages.0.label>
-    <Beauty.scoreStages.1.label>fult</Beauty.scoreStages.1.label>
-    <Beauty.scoreStages.2.label>normalt</Beauty.scoreStages.2.label>
-    <Beauty.scoreStages.3.label>fint</Beauty.scoreStages.3.label>
-    <Beauty.scoreStages.4.label>vackert</Beauty.scoreStages.4.label>
-    <Beauty.scoreStages.5.label>väldigt vackert</Beauty.scoreStages.5.label>
-    <Beauty.scoreStages.6.label>extremt vackert</Beauty.scoreStages.6.label>
-    <Beauty.scoreStages.7.label>otroligt vackert</Beauty.scoreStages.7.label>
-    
-    <Cleanliness.label>rent</Cleanliness.label>
-    <Cleanliness.scoreStages.0.label>väldigt smutsigt</Cleanliness.scoreStages.0.label>
-    <Cleanliness.scoreStages.1.label>smutsigt</Cleanliness.scoreStages.1.label>
-    <Cleanliness.scoreStages.2.label>lite smutsigt</Cleanliness.scoreStages.2.label>
-    <Cleanliness.scoreStages.3.label>rent</Cleanliness.scoreStages.3.label>
-    <Cleanliness.scoreStages.4.label>sterilt</Cleanliness.scoreStages.4.label>
-    
-    <InfectionChanceFactor.label>infektionsrisk-faktor</InfectionChanceFactor.label>
-    <SurgerySuccessChanceFactor.label>lyckad kirurgichans-faktor</SurgerySuccessChanceFactor.label>
-    <ResearchSpeedFactor.label>förskingshastighets-faktor</ResearchSpeedFactor.label>
-    <GraveVisitingJoyGainFactor.label>gravbesök glädje-faktor</GraveVisitingJoyGainFactor.label>
-    <FoodPoisonChanceFactor.label>matförgiftningschans-faktor</FoodPoisonChanceFactor.label>
 
-    
+  <Impressiveness.label>imponerande</Impressiveness.label>
+  <Impressiveness.scoreStages.0.label>förfärligt</Impressiveness.scoreStages.0.label>
+  <Impressiveness.scoreStages.1.label>motbjudande</Impressiveness.scoreStages.1.label>
+  <Impressiveness.scoreStages.2.label>tråkigt</Impressiveness.scoreStages.2.label>
+  <Impressiveness.scoreStages.3.label>mediokert</Impressiveness.scoreStages.3.label>
+  <Impressiveness.scoreStages.4.label>intressant</Impressiveness.scoreStages.4.label>
+  <Impressiveness.scoreStages.5.label>något imponerande</Impressiveness.scoreStages.5.label>
+  <Impressiveness.scoreStages.6.label>väldigt imponerande</Impressiveness.scoreStages.6.label>
+  <Impressiveness.scoreStages.7.label>extremt imponerande</Impressiveness.scoreStages.7.label>
+  <Impressiveness.scoreStages.8.label>otroligt imponerande</Impressiveness.scoreStages.8.label>
+  <Impressiveness.scoreStages.9.label>mirakulöst imponerande</Impressiveness.scoreStages.9.label>
+
+  <Wealth.label>rikedom</Wealth.label>
+  <Wealth.scoreStages.0.label>urfattigt</Wealth.scoreStages.0.label>
+  <Wealth.scoreStages.1.label>fattigt</Wealth.scoreStages.1.label>
+  <Wealth.scoreStages.2.label>mediokert</Wealth.scoreStages.2.label>
+  <Wealth.scoreStages.3.label>smårikt</Wealth.scoreStages.3.label>
+  <Wealth.scoreStages.4.label>rikt</Wealth.scoreStages.4.label>
+  <Wealth.scoreStages.5.label>lyxit</Wealth.scoreStages.5.label>
+  <Wealth.scoreStages.6.label>väldigt lyxit</Wealth.scoreStages.6.label>
+  <Wealth.scoreStages.7.label>extremt lyxit</Wealth.scoreStages.7.label>
+  <Wealth.scoreStages.8.label>otroligt lyxit</Wealth.scoreStages.8.label>
+
+  <Space.label>utrymme</Space.label>
+  <Space.scoreStages.0.label>trångt</Space.scoreStages.0.label>
+  <Space.scoreStages.1.label>ganska snävt</Space.scoreStages.1.label>
+  <Space.scoreStages.2.label>lagom</Space.scoreStages.2.label>
+  <Space.scoreStages.3.label>ganska rymligt</Space.scoreStages.3.label>
+  <Space.scoreStages.4.label>rymligt</Space.scoreStages.4.label>
+  <Space.scoreStages.5.label>väldigt rymligt</Space.scoreStages.5.label>
+  <Space.scoreStages.6.label>extremt rymligt</Space.scoreStages.6.label>
+
+  <Beauty.label>skönhet</Beauty.label>
+  <Beauty.scoreStages.0.label>otäckt</Beauty.scoreStages.0.label>
+  <Beauty.scoreStages.1.label>fult</Beauty.scoreStages.1.label>
+  <Beauty.scoreStages.2.label>normalt</Beauty.scoreStages.2.label>
+  <Beauty.scoreStages.3.label>fint</Beauty.scoreStages.3.label>
+  <Beauty.scoreStages.4.label>vackert</Beauty.scoreStages.4.label>
+  <Beauty.scoreStages.5.label>väldigt vackert</Beauty.scoreStages.5.label>
+  <Beauty.scoreStages.6.label>extremt vackert</Beauty.scoreStages.6.label>
+  <Beauty.scoreStages.7.label>otroligt vackert</Beauty.scoreStages.7.label>
+
+  <Cleanliness.label>rent</Cleanliness.label>
+  <Cleanliness.scoreStages.0.label>väldigt smutsigt</Cleanliness.scoreStages.0.label>
+  <Cleanliness.scoreStages.1.label>smutsigt</Cleanliness.scoreStages.1.label>
+  <Cleanliness.scoreStages.2.label>lite smutsigt</Cleanliness.scoreStages.2.label>
+  <Cleanliness.scoreStages.3.label>rent</Cleanliness.scoreStages.3.label>
+  <Cleanliness.scoreStages.4.label>sterilt</Cleanliness.scoreStages.4.label>
+
+  <InfectionChanceFactor.label>infektionsrisk-faktor</InfectionChanceFactor.label>
+  <SurgerySuccessChanceFactor.label>lyckad kirurgichans-faktor</SurgerySuccessChanceFactor.label>
+  <ResearchSpeedFactor.label>förskingshastighets-faktor</ResearchSpeedFactor.label>
+  <GraveVisitingJoyGainFactor.label>gravbesök glädje-faktor</GraveVisitingJoyGainFactor.label>
+  <FoodPoisonChanceFactor.label>matförgiftningschans-faktor</FoodPoisonChanceFactor.label>
+
+
 </LanguageData>

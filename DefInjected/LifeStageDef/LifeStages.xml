@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
 
-    <MechanoidFullyFormed.label>fullt utveckad</MechanoidFullyFormed.label>
-    <HumanlikeBaby.label>bäbis</HumanlikeBaby.label>
-    <HumanlikeToddler.label>småbarn</HumanlikeToddler.label>
-    <HumanlikeChild.label>barn</HumanlikeChild.label>
-	
-    <HumanlikeTeenager.label>tonåring</HumanlikeTeenager.label>
-    <HumanlikeTeenager.adjective>tonåren</HumanlikeTeenager.adjective>
-    
-    <HumanlikeAdult.label>vuxen</HumanlikeAdult.label>
-    <EusocialInsectLarva.label>larv</EusocialInsectLarva.label>
-    <EusocialInsectJuvenile.label>omogen</EusocialInsectJuvenile.label>
-    <EusocialInsectAdult.label>vuxen</EusocialInsectAdult.label>
-    <AnimalBaby.label>unge</AnimalBaby.label>
-    <AnimalJuvenile.label>ungt djur</AnimalJuvenile.label>
-    <AnimalAdult.label>vuxen</AnimalAdult.label>
-    
+  <MechanoidFullyFormed.label>fullt utveckad</MechanoidFullyFormed.label>
+  <HumanlikeBaby.label>baby</HumanlikeBaby.label>
+  <HumanlikeToddler.label>småbarn</HumanlikeToddler.label>
+  <HumanlikeChild.label>barn</HumanlikeChild.label>
+
+  <HumanlikeTeenager.label>tonåring</HumanlikeTeenager.label>
+  <HumanlikeTeenager.adjective>tonåren</HumanlikeTeenager.adjective>
+
+  <HumanlikeAdult.label>vuxen</HumanlikeAdult.label>
+  <EusocialInsectLarva.label>larv</EusocialInsectLarva.label>
+  <EusocialInsectJuvenile.label>omogen</EusocialInsectJuvenile.label>
+  <EusocialInsectAdult.label>vuxen</EusocialInsectAdult.label>
+  <AnimalBaby.label>unge</AnimalBaby.label>
+  <AnimalBabyTiny.label>baby</AnimalBabyTiny.label>
+  <AnimalJuvenile.label>ungt djur</AnimalJuvenile.label>
+  <AnimalAdult.label>vuxen</AnimalAdult.label>
+
+
 </LanguageData>

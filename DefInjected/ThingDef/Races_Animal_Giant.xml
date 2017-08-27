@@ -1,34 +1,35 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Elephant.label>elefant</Elephant.label>
-    <Elephant.description>Den största omodifierade landdjur . Den kan använda sina betar som verktyg för att flytta på objekt - eller som dödliga vapen.</Elephant.description>
-    <Elephant_Leather.label>elefanthud</Elephant_Leather.label>
-    <Elephant_Leather.description>elefanthud</Elephant_Leather.description>
-    <Elephant_Leather.stuffProps.stuffAdjective>elefanthud</Elephant_Leather.stuffProps.stuffAdjective>
-    <Elephant_Meat.label>elefantkött</Elephant_Meat.label>
-    <Elephant_Meat.description>elefantkött</Elephant_Meat.description>
-    <Elephant_Corpse.label>elefantkropp</Elephant_Corpse.label>
-    <Elephant_Corpse.description>elefantkropp</Elephant_Corpse.description>
 
-    <Megasloth.label>jättesengångare</Megasloth.label>
-    <Megasloth.description>En typ av mark sengångare, Jättesengångaren är stor ensamgående växtätare. För länge sedan utrotad av de infödda i den gamla jordens Amerika kontinent, blev marksendgångaren återställd med hjälp av avancerad kloning och artificiell bioteknik.</Megasloth.description>
-    <Megasloth_Leather.label>jättesengångarhud</Megasloth_Leather.label>
-    <Megasloth_Leather.description>jättesengångarhud</Megasloth_Leather.description>
-    <Megasloth_Leather.stuffProps.stuffAdjective>jättesengångarhud</Megasloth_Leather.stuffProps.stuffAdjective>
-    <Megasloth_Meat.label>jättesengångarkött</Megasloth_Meat.label>
-    <Megasloth_Meat.description>jättesengångarkött</Megasloth_Meat.description>
-    <Megasloth_Corpse.label>jättesengångarkropp</Megasloth_Corpse.label>
-    <Megasloth_Corpse.description>jättesengångarkropp</Megasloth_Corpse.description>
+  <Elephant.label>elefant</Elephant.label>
+  <Elephant.description>Den största omodifierade landdjur .Den kan använda sina betar som verktyg för att flytta på objekt - eller som dödliga vapen.</Elephant.description>
+  <Elephant_Leather.label>elefanthud</Elephant_Leather.label>
+  <Elephant_Leather.description>elefanthud</Elephant_Leather.description>
+  <Elephant_Leather.stuffProps.stuffAdjective>elefanthud</Elephant_Leather.stuffProps.stuffAdjective>
+  <Elephant_Meat.label>elefantkött</Elephant_Meat.label>
+  <Elephant_Meat.description>elefantkött</Elephant_Meat.description>
+  <Elephant_Corpse.label>elefantkropp</Elephant_Corpse.label>
+  <Elephant_Corpse.description>elefantkropp</Elephant_Corpse.description>
 
-    <Thrumbo.label>thrumbo</Thrumbo.label>
-    <Thrumbo.description>En gigantisk varelse av okänt ursprung. Den thrumbo är mild av naturen, men extremt farligt när den är förargad. Dess långa päls är ovanligt vacker och värdefull, och dess knivskarpa horn är mycket värdefull i de flesta marknader. Legender säger att en gammal thrumbo är den klokaste varelsen i universum - den väljer helt enkelt enkelt att inte tala.</Thrumbo.description>
-    <Thrumbo_Leather.label>thrumbopäls</Thrumbo_Leather.label>
-    <Thrumbo_Leather.description>thrumbopäls</Thrumbo_Leather.description>
-    <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbopäls</Thrumbo_Leather.stuffProps.stuffAdjective>
-    <Thrumbo_Meat.label>thrumbokött</Thrumbo_Meat.label>
-    <Thrumbo_Meat.description>thrumbokött</Thrumbo_Meat.description>
-    <Thrumbo_Corpse.label>thrumbokropp</Thrumbo_Corpse.label>
-    <Thrumbo_Corpse.description>thrumbokropp</Thrumbo_Corpse.description>
-    
+  <Megasloth.label>jättesengångare</Megasloth.label>
+  <Megasloth.description>En typ av mark sengångare, jättesengångaren är stor ensamgående växtätare. För länge sedan utrotad av de infödda i den gamla jordens Amerika kontinent, blev marksendgångaren återställd med hjälp av avancerad kloning och artificiell bioteknik.</Megasloth.description>
+  <Megasloth_Leather.label>jättesengångarhud</Megasloth_Leather.label>
+  <Megasloth_Leather.description>jättesengångarhud</Megasloth_Leather.description>
+  <Megasloth_Leather.stuffProps.stuffAdjective>jättesengångarhud</Megasloth_Leather.stuffProps.stuffAdjective>
+  <Megasloth_Meat.label>jättesengångarkött</Megasloth_Meat.label>
+  <Megasloth_Meat.description>jättesengångarkött</Megasloth_Meat.description>
+  <Megasloth_Corpse.label>jättesengångarkropp</Megasloth_Corpse.label>
+  <Megasloth_Corpse.description>jättesengångarkropp</Megasloth_Corpse.description>
+
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.description>En gigantisk varelse av okänt ursprung. Den thrumbo är mild av naturen, men extremt farligt när den är förargad. Dess långa päls är ovanligt vacker och värdefull, och dess knivskarpa horn är mycket värdefull i de flesta marknader. Legender säger att en gammal thrumbo är den klokaste varelsen i universum - den väljer helt enkelt enkelt att inte tala.</Thrumbo.description>
+  <Thrumbo_Leather.label>thrumbopäls</Thrumbo_Leather.label>
+  <Thrumbo_Leather.description>thrumbopäls</Thrumbo_Leather.description>
+  <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbopäls</Thrumbo_Leather.stuffProps.stuffAdjective>
+  <Thrumbo_Meat.label>thrumbokött</Thrumbo_Meat.label>
+  <Thrumbo_Meat.description>thrumbokött</Thrumbo_Meat.description>
+  <Thrumbo_Corpse.label>thrumbokropp</Thrumbo_Corpse.label>
+  <Thrumbo_Corpse.description>thrumbokropp</Thrumbo_Corpse.description>
+
+
 </LanguageData>

@@ -1,12 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Drifter.label>Luffare</Drifter.label>
-    
-    <Scavenger.label>Sopletare</Scavenger.label>
-    
-    <Thrasher.label>Skräpletare</Thrasher.label>
-    
-    <Pirate.label>Pirat</Pirate.label>
-    
+
+  <Drifter.label>Luffare</Drifter.label>
+  <Drifter.labelPlural>Luffare</Drifter.labelPlural>
+
+  <Scavenger.label>Sopletare</Scavenger.label>
+  <Scavenger.labelPlural>Sopletare</Scavenger.labelPlural>
+
+  <Thrasher.label>Skräpletare</Thrasher.label>
+  <Thrasher.labelPlural>Skräpletare</Thrasher.labelPlural>
+
+  <Pirate.label>Pirat</Pirate.label>
+  <Pirate.labelPlural>Pirater</Pirate.labelPlural>
+
+
 </LanguageData>

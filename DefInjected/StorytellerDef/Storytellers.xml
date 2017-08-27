@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Cassandra.label>Cassandra Classic</Cassandra.label>
-    <Cassandra.description>Cassandra skapar berättelsehändelser på en stadigt ökande kurva av utmaning och spänning.</Cassandra.description>
-    
-    <Phoebe.label>Phoebe Friendly</Phoebe.label>
-    <Phoebe.description>Phoebe vill inte skada någon. Hon vill bara ha en lugnande saga om folk som bygger en koloni, så hon kommer vara väldigt snäll.</Phoebe.description>
-    
-    <Randy.label>Randy Random</Randy.label>
-    <Randy.description>Randy följer inga regler. Han kommer generera slumpmässiga händelser, och han bryr sig inte om de bildar en historia om triumf eller fullkomlig hopplöshet. Det är drama alltihop för honom.</Randy.description>
-    
-    <Tutor.label>Tutor Hidden</Tutor.label>
-    
+
+  <Cassandra.label>Cassandra Classic</Cassandra.label>
+  <Cassandra.description>Cassandra skapar berättelsehändelser på en stadigt ökande kurva av utmaning och spänning.</Cassandra.description>
+
+  <Phoebe.label>Phoebe Friendly</Phoebe.label>
+  <Phoebe.description>Phoebe vill inte skada någon. Hon vill bara ha en lugnande saga om folk som bygger en koloni, så hon kommer vara väldigt snäll.</Phoebe.description>
+
+  <Randy.label>Randy Random</Randy.label>
+  <Randy.description>Randy följer inga regler. Han kommer generera slumpmässiga händelser, och han bryr sig inte om de bildar en historia om triumf eller fullkomlig hopplöshet. Det är drama alltihop för honom.</Randy.description>
+
+  <Tutor.label>Lärare gömd</Tutor.label>
+
+
 </LanguageData>

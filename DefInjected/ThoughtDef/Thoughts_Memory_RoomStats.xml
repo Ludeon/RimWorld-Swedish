@@ -1,35 +1,73 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AteInImpressiveDiningRoom.stages.3.label>anständigt matsal</AteInImpressiveDiningRoom.stages.3.label>
-  <AteInImpressiveDiningRoom.stages.3.description>Jag åt min måltid i en anständig matsal.</AteInImpressiveDiningRoom.stages.3.description>
-  <AteInImpressiveDiningRoom.stages.4.label>något imponerande matsal</AteInImpressiveDiningRoom.stages.4.label>
-  <AteInImpressiveDiningRoom.stages.4.description>Jag åt min måltid i en något imponerande matsal.</AteInImpressiveDiningRoom.stages.4.description>
-  <AteInImpressiveDiningRoom.stages.5.label>imponerande matsal</AteInImpressiveDiningRoom.stages.5.label>
-  <AteInImpressiveDiningRoom.stages.5.description>Jag åt min måltid i en imponerande matsal.</AteInImpressiveDiningRoom.stages.5.description>
-  <AteInImpressiveDiningRoom.stages.6.label>väldigt imponerande matsal</AteInImpressiveDiningRoom.stages.6.label>
-  <AteInImpressiveDiningRoom.stages.6.description>Jag åt min måltid i en väldigt imponerande matsal.</AteInImpressiveDiningRoom.stages.6.description>
-  <AteInImpressiveDiningRoom.stages.7.label>extremt imponerande matsal</AteInImpressiveDiningRoom.stages.7.label>
-  <AteInImpressiveDiningRoom.stages.7.description>Jag åt min måltid i en extremt imponerande matsal. Jag skulle kunna stanna kvar där för alltid.</AteInImpressiveDiningRoom.stages.7.description>
-  <AteInImpressiveDiningRoom.stages.8.label>otroligt imponerande matsal</AteInImpressiveDiningRoom.stages.8.label>
-  <AteInImpressiveDiningRoom.stages.8.description>Jag åt min måltid i en otroligt imponerande matsal. Jag skulle kunna stanna kvar där för alltid.</AteInImpressiveDiningRoom.stages.8.description>
-  <AteInImpressiveDiningRoom.stages.9.label>underbart imponerande matsal</AteInImpressiveDiningRoom.stages.9.label>
-  <AteInImpressiveDiningRoom.stages.9.description>Jag åt min måltid i en underbar matsal. Jag skulle kunna stanna kvar där för alltid.</AteInImpressiveDiningRoom.stages.9.description>
+  <AteInimponerandeDiningRoom.stages.3.label>anständigt matsal</AteInimponerandeDiningRoom.stages.3.label>
+  <AteInimponerandeDiningRoom.stages.3.description>Jag åt min måltid i en anständig matsal.</AteInimponerandeDiningRoom.stages.3.description>
+  <AteInimponerandeDiningRoom.stages.4.label>något imponerande matsal</AteInimponerandeDiningRoom.stages.4.label>
+  <AteInimponerandeDiningRoom.stages.4.description>Jag åt min måltid i en något imponerande matsal.</AteInimponerandeDiningRoom.stages.4.description>
+  <AteInimponerandeDiningRoom.stages.5.label>imponerande matsal</AteInimponerandeDiningRoom.stages.5.label>
+  <AteInimponerandeDiningRoom.stages.5.description>Jag åt min måltid i en imponerande matsal.</AteInimponerandeDiningRoom.stages.5.description>
+  <AteInimponerandeDiningRoom.stages.6.label>väldigt imponerande matsal</AteInimponerandeDiningRoom.stages.6.label>
+  <AteInimponerandeDiningRoom.stages.6.description>Jag åt min måltid i en väldigt imponerande matsal.</AteInimponerandeDiningRoom.stages.6.description>
+  <AteInimponerandeDiningRoom.stages.7.label>extremt imponerande matsal</AteInimponerandeDiningRoom.stages.7.label>
+  <AteInimponerandeDiningRoom.stages.7.description>Jag åt min måltid i en extremt imponerande matsal. Jag skulle kunna stanna kvar där för alltid.</AteInimponerandeDiningRoom.stages.7.description>
+  <AteInimponerandeDiningRoom.stages.8.label>otroligt imponerande matsal</AteInimponerandeDiningRoom.stages.8.label>
+  <AteInimponerandeDiningRoom.stages.8.description>Jag åt min måltid i en otroligt imponerande matsal. Jag skulle kunna stanna kvar där för alltid.</AteInimponerandeDiningRoom.stages.8.description>
+  <AteInimponerandeDiningRoom.stages.9.label>underbart imponerande matsal</AteInimponerandeDiningRoom.stages.9.label>
+  <AteInimponerandeDiningRoom.stages.9.description>Jag åt min måltid i en underbar matsal. Jag skulle kunna stanna kvar där för alltid.</AteInimponerandeDiningRoom.stages.9.description>
 
-  <JoyActivityInImpressiveRecRoom.stages.3.label>anständigt vardagsrum</JoyActivityInImpressiveRecRoom.stages.3.label>
-  <JoyActivityInImpressiveRecRoom.stages.3.description>Jag hade trevligt i ett anständig vardagsrum.</JoyActivityInImpressiveRecRoom.stages.3.description>
-  <JoyActivityInImpressiveRecRoom.stages.4.label>något imponerande vardagsrum</JoyActivityInImpressiveRecRoom.stages.4.label>
-  <JoyActivityInImpressiveRecRoom.stages.4.description>Jag hade trevligt i ett vardagsrum.</JoyActivityInImpressiveRecRoom.stages.4.description>
-  <JoyActivityInImpressiveRecRoom.stages.5.label>imponerande vardagsrum</JoyActivityInImpressiveRecRoom.stages.5.label>
-  <JoyActivityInImpressiveRecRoom.stages.5.description>Jag hade roligt i ett imponerande vardagsrum.</JoyActivityInImpressiveRecRoom.stages.5.description>
-  <JoyActivityInImpressiveRecRoom.stages.6.label>väldigt imponerande vardagsrum</JoyActivityInImpressiveRecRoom.stages.6.label>
-  <JoyActivityInImpressiveRecRoom.stages.6.description>Jag hade jättetrevligt i ett väldigt imponerande vardagsrum.</JoyActivityInImpressiveRecRoom.stages.6.description>
-  <JoyActivityInImpressiveRecRoom.stages.7.label>extremt imponerande vardagsrum</JoyActivityInImpressiveRecRoom.stages.7.label>
-  <JoyActivityInImpressiveRecRoom.stages.7.description>Jag hade jättetrevligt i ett extremt imponerande vardagsrum. Jag skulle kunna stanna kvar där för alltid.</JoyActivityInImpressiveRecRoom.stages.7.description>
-  <JoyActivityInImpressiveRecRoom.stages.8.label>otroligt imponerande vardagsrum</JoyActivityInImpressiveRecRoom.stages.8.label>
-  <JoyActivityInImpressiveRecRoom.stages.8.description>Jag hade jättetrevligt i ett otroligt imponerande vardagsrum. Jag skulle kunna stanna kvar där för alltid.</JoyActivityInImpressiveRecRoom.stages.8.description>
-  <JoyActivityInImpressiveRecRoom.stages.9.label>underbart imponerande vardagsrum</JoyActivityInImpressiveRecRoom.stages.9.label>
-  <JoyActivityInImpressiveRecRoom.stages.9.description>Jag hade jättetrevligt i ett underbart vardagsrum. Jag skulle kunna stanna kvar där för alltid.</JoyActivityInImpressiveRecRoom.stages.9.description>
+  <JoyActivityInimponerandeRecRoom.stages.3.label>anständigt vardagsrum</JoyActivityInimponerandeRecRoom.stages.3.label>
+  <JoyActivityInimponerandeRecRoom.stages.3.description>Jag hade trevligt i ett anständig vardagsrum.</JoyActivityInimponerandeRecRoom.stages.3.description>
+  <JoyActivityInimponerandeRecRoom.stages.4.label>något imponerande vardagsrum</JoyActivityInimponerandeRecRoom.stages.4.label>
+  <JoyActivityInimponerandeRecRoom.stages.4.description>Jag hade trevligt i ett vardagsrum.</JoyActivityInimponerandeRecRoom.stages.4.description>
+  <JoyActivityInimponerandeRecRoom.stages.5.label>imponerande vardagsrum</JoyActivityInimponerandeRecRoom.stages.5.label>
+  <JoyActivityInimponerandeRecRoom.stages.5.description>Jag hade roligt i ett imponerande vardagsrum.</JoyActivityInimponerandeRecRoom.stages.5.description>
+  <JoyActivityInimponerandeRecRoom.stages.6.label>väldigt imponerande vardagsrum</JoyActivityInimponerandeRecRoom.stages.6.label>
+  <JoyActivityInimponerandeRecRoom.stages.6.description>Jag hade jättetrevligt i ett väldigt imponerande vardagsrum.</JoyActivityInimponerandeRecRoom.stages.6.description>
+  <JoyActivityInimponerandeRecRoom.stages.7.label>extremt imponerande vardagsrum</JoyActivityInimponerandeRecRoom.stages.7.label>
+  <JoyActivityInimponerandeRecRoom.stages.7.description>Jag hade jättetrevligt i ett extremt imponerande vardagsrum. Jag skulle kunna stanna kvar där för alltid.</JoyActivityInimponerandeRecRoom.stages.7.description>
+  <JoyActivityInimponerandeRecRoom.stages.8.label>otroligt imponerande vardagsrum</JoyActivityInimponerandeRecRoom.stages.8.label>
+  <JoyActivityInimponerandeRecRoom.stages.8.description>Jag hade jättetrevligt i ett otroligt imponerande vardagsrum. Jag skulle kunna stanna kvar där för alltid.</JoyActivityInimponerandeRecRoom.stages.8.description>
+  <JoyActivityInimponerandeRecRoom.stages.9.label>underbart imponerande vardagsrum</JoyActivityInimponerandeRecRoom.stages.9.label>
+  <JoyActivityInimponerandeRecRoom.stages.9.description>Jag hade jättetrevligt i ett underbart vardagsrum. Jag skulle kunna stanna kvar där för alltid.</JoyActivityInimponerandeRecRoom.stages.9.description>
 
-    
+  <SleptInBedroom.stages.0.label>fruktansvärt sängkammare</SleptInBedroom.stages.0.label>
+  <SleptInBedroom.stages.0.description>Min sängkammare är en fruktansvärd plats.</SleptInBedroom.stages.0.description>
+  <SleptInBedroom.stages.3.label>hyffsad sängkammare</SleptInBedroom.stages.3.label>
+  <SleptInBedroom.stages.3.description>Min sängkammare är mycket intressant. Jag gillar det.</SleptInBedroom.stages.3.description>
+  <SleptInBedroom.stages.4.label>något imponerande sängkammare</SleptInBedroom.stages.4.label>
+  <SleptInBedroom.stages.4.description>Min sängkammare är faktiskt lite imponerande. jag gillar det.</SleptInBedroom.stages.4.description>
+  <SleptInBedroom.stages.5.label>imponerande sängkammare</SleptInBedroom.stages.5.label>
+  <SleptInBedroom.stages.5.description>Min sängkammare är imponerande. Jag älskar det!</SleptInBedroom.stages.5.description>
+  <SleptInBedroom.stages.6.label>väldigt imponerande sängkammare</SleptInBedroom.stages.6.label>
+  <SleptInBedroom.stages.6.description>Min sängkammare är väldigt imponerande. Detta är det bästa stället någonsin!</SleptInBedroom.stages.6.description>
+  <SleptInBedroom.stages.7.label>extremt imponerande sängkammare</SleptInBedroom.stages.7.label>
+  <SleptInBedroom.stages.7.description>Min sängkammare är extremt imponerande. Detta är det bästa stället någonsin!</SleptInBedroom.stages.7.description>
+  <SleptInBedroom.stages.8.label>otroligt imponerande sängkammare</SleptInBedroom.stages.8.label>
+  <SleptInBedroom.stages.8.description>Min sängkammare är otroligt imponerande. Detta är det bästa stället någonsin!</SleptInBedroom.stages.8.description>
+  <SleptInBedroom.stages.9.label>underbart imponerande sängkammare</SleptInBedroom.stages.9.label>
+  <SleptInBedroom.stages.9.description>Min sängkammare är det bästa stället man någonsin kan föreställa sig. Det är underbart.</SleptInBedroom.stages.9.description>
+
+  <SleptInkaserns.stages.0.label>fruktansvärt kasern</SleptInkaserns.stages.0.label>
+  <SleptInkaserns.stages.0.description>Min kasern är en hemsk plats, och jag måste dela den!</SleptInkaserns.stages.0.description>
+  <SleptInkaserns.stages.1.label>tråkig kasern</SleptInkaserns.stages.1.label>
+  <SleptInkaserns.stages.1.description>Jag lever i en tråkig kasern med andra människor.</SleptInkaserns.stages.1.description>
+  <SleptInkaserns.stages.2.label>medioker kasern</SleptInkaserns.stages.2.label>
+  <SleptInkaserns.stages.2.description>Min kasern är medioker, och jag måste dela den också. Jag tycker verkligen inte om det här.</SleptInkaserns.stages.2.description>
+  <SleptInkaserns.stages.3.label>hyffsad kasern</SleptInkaserns.stages.3.label>
+  <SleptInkaserns.stages.3.description>Min kasern är anständigt, men jag gillar verkligen inte att dela ett sovutrymme.</SleptInkaserns.stages.3.description>
+  <SleptInkaserns.stages.4.label>något imponerande kasern</SleptInkaserns.stages.4.label>
+  <SleptInkaserns.stages.4.description>Min kasern är ett trevligt ställe. Men jag gillar verkligen inte att dela ett rum med andra.</SleptInkaserns.stages.4.description>
+  <SleptInkaserns.stages.5.label>imponerande kasern</SleptInkaserns.stages.5.label>
+  <SleptInkaserns.stages.5.description>Min kasern är imponerande. Det suger att jag måste dela den.</SleptInkaserns.stages.5.description>
+  <SleptInkaserns.stages.6.label>väldigt imponerande kasern</SleptInkaserns.stages.6.label>
+  <SleptInkaserns.stages.6.description>Min kasern är väldigt imponerande. Jag är irriterad över att jag måste dela den.</SleptInkaserns.stages.6.description>
+  <SleptInkaserns.stages.7.label>extremt imponerande kasern</SleptInkaserns.stages.7.label>
+  <SleptInkaserns.stages.7.description>Min kasern är extremt imponerande. Det gör det nästan ok att behöva dela den.</SleptInkaserns.stages.7.description>
+  <SleptInkaserns.stages.8.label>otroligt imponerande kasern</SleptInkaserns.stages.8.label>
+  <SleptInkaserns.stages.8.description>Min kasern är otroligt imponerande. Det gör nästan inget att behöva dela den.</SleptInkaserns.stages.8.description>
+  <SleptInkaserns.stages.9.label>underbart imponerande kasern</SleptInkaserns.stages.9.label>
+  <SleptInkaserns.stages.9.description>Min kasern är det bästa stället man någonsin kan föreställa sig. Det gör mig glad, även trots jag delar den med andra.</SleptInkaserns.stages.9.description>
+
+
 </LanguageData>

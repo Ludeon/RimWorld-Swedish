@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <SmokeleafHigh.stages.0.label>hög på rökblad</SmokeleafHigh.stages.0.label>
-    <SmokeleafHigh.stages.0.description>Jag är, liksom, stenad, typ.</SmokeleafHigh.stages.0.description>
-    
-	
-	<!-- Smokeleaf addiction -->
-	
-    <SmokeleafWithdrawal.stages.1.label>Rökbladsabtinans</SmokeleafWithdrawal.stages.1.label>
-    <SmokeleafWithdrawal.stages.1.description>Jag önskar verkligen att jag kunde röka nu.</SmokeleafWithdrawal.stages.1.description>
-    
+
+  <SmokeleafHigh.stages.0.label>hög på rökblad</SmokeleafHigh.stages.0.label>
+  <SmokeleafHigh.stages.0.description>Jag är, liksom, stenad, typ.</SmokeleafHigh.stages.0.description>
+
+
+  <!-- Smokeleaf addiction -->
+
+  <SmokeleafWithdrawal.stages.1.label>Rökbladsabtinans</SmokeleafWithdrawal.stages.1.label>
+  <SmokeleafWithdrawal.stages.1.description>Jag önskar verkligen att jag kunde röka nu.</SmokeleafWithdrawal.stages.1.description>
+
+
 </LanguageData>

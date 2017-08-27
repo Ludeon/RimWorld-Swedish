@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MessageSiegersAssaulting>Belägrande {0} från {1} attackerar kolonin.</MessageSiegersAssaulting>
@@ -17,17 +17,18 @@
 
   <MessageVisitorsTakingWounded>{0} från {1} tar med sig en skadad gäst.</MessageVisitorsTakingWounded>
   <MessageVisitorsTrappedLeaving>{0} från {1} har fastnat och gräver sig fria.</MessageVisitorsTrappedLeaving>
-  
+  <MessageVisitorsDangerousTemperature>{0} från {1} lämnar kartan för att undfly farlig temperatur.</MessageVisitorsDangerousTemperature>
+
   <MessageWornApparelDeterioratedAway>{0} som bärs av {1} vittrar sönder till smulor.</MessageWornApparelDeterioratedAway>
-  
+
   <MessageSeasonBegun>{0}säsongen är här.</MessageSeasonBegun>
 
   <MessageShipHasLeftCommsRange>{0} har lämnat kommunikationräckvidden.</MessageShipHasLeftCommsRange>
-	
+
   <MessageNeedBeaconToTradeWithShip>Du behöver en planetär handelsfyr för att handla med ett skepp.</MessageNeedBeaconToTradeWithShip>
-	
+
   <MessageBillComplete>Beställning avklarad: {0}.</MessageBillComplete>
-  
+
   <MessageFullyHealed>{0} är fullt frisk.</MessageFullyHealed>
 
   <MessagePrisonerIsEscaping>Fånge {0} flyr.</MessagePrisonerIsEscaping>
@@ -36,7 +37,7 @@
 
   <MessageAnimalsGoPsychoHunted>Varning: En {0} kommer ofta attackera om den blir skadad.</MessageAnimalsGoPsychoHunted>
   <MessageAnimalManhuntsOnTameFailed>Varning: En {0} kan attackera om tämjningsfösöket misslyckas ({1} chans).</MessageAnimalManhuntsOnTameFailed>
-  
+
   <LetterLabelMessageRecruitSuccess>Ny rekryt</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} har rekryterat {1} ({2} chans).</MessageRecruitSuccess>
   <MessageTameSuccess>{0} lyckades tämja {1} ({2} chans).</MessageTameSuccess>
@@ -63,21 +64,21 @@
   <MessageMustDesignateOpenable>Du måste ange en full grav eller kista.</MessageMustDesignateOpenable>
 
   <MessageRefusedArrest>{0} vägrar bli arresterad!</MessageRefusedArrest>
-  
+
   <MessageNoMedicalBeds>Det finns inga sjukhussängar tillgängliga.</MessageNoMedicalBeds>
   <MessageNoAnimalBeds>Det finns inga djurbäddar tillgängliga.</MessageNoAnimalBeds>
   <MessageTooLowMedCare>Operationen kräver {0} eller bättre, men {1}'s nuvarande medecinska nivå är "{2}".</MessageTooLowMedCare>
-  
+
   <PawnDiedBecauseOf>{0} dog på grund av {1}.</PawnDiedBecauseOf>
 
   <MessageNoLongerDowned>{0} är uppe på fötterna igen.</MessageNoLongerDowned>
 
   <MessageInvoluntarySleep>{0} kollapsade på grund av extrem utmattning.</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureCatastrophic>{0} misslyckades katastofalt när HIM opererade på {1}.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureMinor>{0} misslyckades något när HIM opererade på {1}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{0} misslyckades katastofalt när HIM opererade på {1}.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureRidiculous>{0} misslyckades på ett löjligt sätt när HIM opererade på {1}.</MessageMedicalOperationFailureRidiculous>
-  
+
   <MessageMedicalOperationWillAngerFaction>Den här operationen kommer att förarga {0}.</MessageMedicalOperationWillAngerFaction>
 
   <MessagePawnExitMapRelationsGain>Eftersom {0} lämnade kartan frisk har relationen med {1} blivit förbättrad med {2}.</MessagePawnExitMapRelationsGain>
@@ -89,36 +90,36 @@
   <MessageNuzzledPawnGaveNameTo>{0} Har gett namn till {1} {2} efter blivit kramad.</MessageNuzzledPawnGaveNameTo>
 
   <MessageNoHandlerSkilledEnough>Ingen hanterare kan tämja {0} (det kräver nivå {1} i {2}, den bästa hanteraren {3} har {4}).</MessageNoHandlerSkilledEnough>
-  
+
   <MessageEatenByPredator>{0} har blivit uppäten av {1}.</MessageEatenByPredator>
   <MessageAttackedByPredator>{0} blir attackerad av {1}!</MessageAttackedByPredator>
-  
+
   <MessageHiveReproduced>En insektsvärm har fortplantat sig.</MessageHiveReproduced>
-  
+
   <MessageTraderCaravanLeaving>Handelskaravanen ifrån {0} lämnar området nu.</MessageTraderCaravanLeaving>
-  
+
   <MessageCantSelectDeadPawn>{0} är död.</MessageCantSelectDeadPawn>
   <MessageCantSelectOffMapPawn>{0} är utanför kartan.</MessageCantSelectOffMapPawn>
-  
+
   <MessageSocialFight>{0} startade ett slagsmål med {1}. Anledning: {2}.</MessageSocialFight>
-  
+
   <MessageNewMarriageCeremony>Kolonisterna samlas för att fira bröllpet mellan {0} och {1}.</MessageNewMarriageCeremony>
   <MessageMarriageCeremonyStarts>{0} och {1} börjar deras bröllopscermoni!</MessageMarriageCeremonyStarts>
   <MessageMarriageCeremonyCalledOff>Bröllopscemonin mellan {0} och {1} har avblåsts.</MessageMarriageCeremonyCalledOff>
   <MessageNewlyMarried>{0} och {1} har gift sig. Kolonisterna firar nu det speciella händelsen.</MessageNewlyMarried>
   <MessageMarriageCeremonyAfterPartyFinished>Bröllopscemonin för {0} och {1} har nu avslutats.</MessageMarriageCeremonyAfterPartyFinished>
-  
+
   <MessageNewBondRelation>{0} och {1} håller nu ihop.</MessageNewBondRelation>
   <MessageNewBondRelationNewName>{0} och {1} håller nu ihop. {0} har gett namnet {1} {2}.</MessageNewBondRelationNewName>
-  
+
   <MessageBondedAnimalMentalBreak>{0} har fått ett mentalt sammanbrott på grund av {1}'s dödsfall.</MessageBondedAnimalMentalBreak>
   <MessageNamedBondedAnimalMentalBreak>{0} vid namn {1} har fått ett mentalt sammanbrott på grund av {2}'s dödsfall.</MessageNamedBondedAnimalMentalBreak>
   <MessageBondedAnimalsMentalBreak>{0} djur har fått ett mentalt sammanbrott animals på grund av {1}'s dödsfall.</MessageBondedAnimalsMentalBreak>
-  
+
   <MessageSuccessfullyRemovedHediff>{0} har lyckats avlägnsa {1}'s {2}.</MessageSuccessfullyRemovedHediff>
-  
+
   <MessageShipChunkDrop>En rymskeppsbit har fallit ner ifrån rymden och landat i närheten.</MessageShipChunkDrop>
-  
+
   <MessagePartyCalledOff>Festen har avbrutits.</MessagePartyCalledOff>
   <MessagePartyFinished>Festen är slut.</MessagePartyFinished>
 
@@ -127,15 +128,15 @@
   <MessageConstructionFailed>{1} har misslyckats tillverka {0}. Några resurser har blivit förlorade.</MessageConstructionFailed>
 
   <MessageScreenshotSavedAs>Skärmdump sparad som: {0}</MessageScreenshotSavedAs>
-  
+
   <MessageNoLongerSocialFighting>{0} och {1} slåss inte längre.</MessageNoLongerSocialFighting>
-  
+
   <MessageNoLongerBingingOnDrug>{0} frossar inte längre på {1}.</MessageNoLongerBingingOnDrug>
 
   <MessageRottedAwayInStorage>{0} har ruttnat bort i förrådet.</MessageRottedAwayInStorage>
-  
+
   <MessageFoodPoisoning>{0} har fått matförgiftning från: {1}.</MessageFoodPoisoning>
-  
+
   <MessageFailedToSendCaravanBecausePawnLost>Det gick inte att skicka vagnen eftersom en av kolonisterna, fångar eller djur har försvunnit.</MessageFailedToSendCaravanBecausePawnLost>
   <MessageCaravanFormationPaused>Karavanens bildningsprocessen kommer att fortsätta när alla återhämtar sig från mentala bryt.</MessageCaravanFormationPaused>
   <MessageCaravanFormationUnpaused>Dina kolonister fortsätter nu att bilda en karavan.</MessageCaravanFormationUnpaused>
@@ -153,7 +154,7 @@
 
   <MessageCaravanArrivedAtDestination>{0} har anlänt till sin destination.</MessageCaravanArrivedAtDestination>
 
-  <MessageCaravanIsVisitingFaction>{0} har anlänt {1}.</MessageCaravanIsVisitingFaction>
+  <MessageCaravanIsVisitingSettlement>{0} has arrived in {1}.</MessageCaravanIsVisitingSettlement>
 
   <MessageCaravanEnteredWorldObject>{0} har anlänt {1}.</MessageCaravanEnteredWorldObject>
 
@@ -170,6 +171,8 @@
   <MessageRescueeJoined>Eftersom du räddade HIM, har {0} anslutit till din grupp!</MessageRescueeJoined>
 
   <MessageAttackedCaravanIsNowHostile>Eftersom du attackerade en karavan från {0}, är detta fraktion nu fientligt inställda till dig.</MessageAttackedCaravanIsNowHostile>
+  <MessageFactionPawnCrushed>{0} förlorade personer i en tak-kollaps. Fraktionens relation: {1}</MessageFactionPawnCrushed>
+  <MessageFactionPawnLost>{0} har förlorat {1}. Fraktionens relation: {2}</MessageFactionPawnLost>
 
   <MessageTransporterUnreachable>Vissa transportkapslar inte kan nås.</MessageTransporterUnreachable>
   <MessageTransportersNotAdjacent>Alla kapselutskjutare som är anslutna till de utvalda transportkapslarna skall ligga intill varandra.</MessageTransportersNotAdjacent>
@@ -181,6 +184,7 @@
 
   <MessageTransportPodsArrived>Dina transportkapslar har anlänt.</MessageTransportPodsArrived>
   <MessageTransportPodsArrivedAndLost>Dina transportkapslar har anlänt men eftersom det inte fanns några kolonister med, är innehållet förlorat.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Dina transportkapslar har anlänt. Innehållet har lagts till i din karavan.</MessageTransportPodsArrivedAndAddedToCaravan>
   <MessageTransportPodsArrived_BecameHostile>{0} är nu fientligt inställda till dig.</MessageTransportPodsArrived_BecameHostile>
 
   <MessageFailedToLoadTransportersBecauseColonistLost>Lastningen har avbrutits eftersom en av kolonisterna har försvunnit.</MessageFailedToLoadTransportersBecauseColonistLost>
@@ -205,5 +209,21 @@
 
   <MessageScreenResTooSmallForUIScale>Vid denna upplösning och gränsnittsskala, skulle spelets eget gränssnittet inte få plats på skärmen. Minska gränsnittsskalan eller öka upplösningen.</MessageScreenResTooSmallForUIScale>
 
-  
+  <MessageYouHaveToReformCaravanNow>Du behöver skapa om karavanen nu. Alla som blir lämnade kommer bli övergivna</MessageYouHaveToReformCaravanNow>
+
+  <MessageDefendersAttacking>{0} från {1} attackerar er {2}.</MessageDefendersAttacking>
+
+  <MessageSelfTendUnsatisfied>För att kunna självbehandla måste {0} vara tilldelad som Doktor.</MessageSelfTendUnsatisfied>
+  <MessageCannotSelfTendEver>{0} är ej kapabel att göra Doktorsabete och kan därmed ej självbehandla sig.</MessageCannotSelfTendEver>
+
+  <MessageCantAddWaypointBecauseImpassable>Denna ruta är ogenomtränglig.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>Det är inte möjligt att nå den här rutan ifrån den senaste vägpunkten.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>Du kan inte lägga till mer än {0} vägpunkter.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>Du kan inte ta bort den här vägpunkten.</MessageCantRemoveWaypointBecauseFirst>
+
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Ingen av era vakter är kapabla till våld. Avrättningen kommer inte att utföras.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+
+  <MessageSiteCountdownBecauseNoMoreEnemies>Ni har besegrat alla fiender. Om {0} kommer karavanen automatiskt omformeras.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>Om {0} kommer karavanen automatiskt omformas. Du kan omformera karavanen nu i världskartan.</MessageSiteCountdownBecauseNoEnemiesInitially>
+
 </LanguageData>

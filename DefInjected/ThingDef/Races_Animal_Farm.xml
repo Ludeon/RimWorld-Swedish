@@ -1,42 +1,43 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Chicken.label>höns</Chicken.label>
-    <Chicken.description>Den mest traditionella gårdfågeln. Höns föds upp för ägg och kött.</Chicken.description>
-    <!-- Leather Amount: 0 -->
-    <Chicken_Meat.label>kycklingkött</Chicken_Meat.label>
-    <Chicken_Meat.description>kycklingkött</Chicken_Meat.description>
-    <Chicken_Corpse.label>hönskropp</Chicken_Corpse.label>
-    <Chicken_Corpse.description>hönskropp</Chicken_Corpse.description>
 
-    <Pig.label>gris</Pig.label>
-    <Pig.description>Grisen var en av de första djuren som tämjdes av människorna. Den uppföds vanligtvis för kött och läder och är lätt att utfodra på grund av sin allätande diet.</Pig.description>
-    <Pig_Leather.label>svinläder</Pig_Leather.label>
-    <Pig_Leather.description>svinläder</Pig_Leather.description>
-    <Pig_Leather.stuffProps.stuffAdjective>svinläder</Pig_Leather.stuffProps.stuffAdjective>
-    <Pig_Meat.label>fläsk</Pig_Meat.label>
-    <Pig_Meat.description>fläsk</Pig_Meat.description>
-    <Pig_Corpse.label>griskropp</Pig_Corpse.label>
-    <Pig_Corpse.description>griskropp</Pig_Corpse.description>
+  <Chicken.label>höns</Chicken.label>
+  <Chicken.description>Den mest traditionella gårdfågeln. Höns föds upp för ägg och kött.</Chicken.description>
+  <!-- Leather Amount: 0 -->
+  <Chicken_Meat.label>kycklingkött</Chicken_Meat.label>
+  <Chicken_Meat.description>kycklingkött</Chicken_Meat.description>
+  <Chicken_Corpse.label>hönskropp</Chicken_Corpse.label>
+  <Chicken_Corpse.description>hönskropp</Chicken_Corpse.description>
 
-    <Cow.label>ko</Cow.label>
-    <Cow.description>Ett mycket vanligt tamdjur. Det kan producera stora mängder mjölk, eller slaktas för god mat.</Cow.description>
-    <Cow_Leather.label>kohud</Cow_Leather.label>
-    <Cow_Leather.description>kohud</Cow_Leather.description>
-    <Cow_Leather.stuffProps.stuffAdjective>kohud</Cow_Leather.stuffProps.stuffAdjective>
-    <Cow_Meat.label>nätkött</Cow_Meat.label>
-    <Cow_Meat.description>nätkött</Cow_Meat.description>
-    <Cow_Corpse.label>kokropp</Cow_Corpse.label>
-    <Cow_Corpse.description>kokropp</Cow_Corpse.description>
+  <Pig.label>gris</Pig.label>
+  <Pig.description>Grisen var en av de första djuren som tämjdes av människorna. Den uppföds vanligtvis för kött och läder och är lätt att utfodra på grund av sin allätande diet.</Pig.description>
+  <Pig_Leather.label>svinläder</Pig_Leather.label>
+  <Pig_Leather.description>svinläder</Pig_Leather.description>
+  <Pig_Leather.stuffProps.stuffAdjective>svinläder</Pig_Leather.stuffProps.stuffAdjective>
+  <Pig_Meat.label>fläsk</Pig_Meat.label>
+  <Pig_Meat.description>fläsk</Pig_Meat.description>
+  <Pig_Corpse.label>griskropp</Pig_Corpse.label>
+  <Pig_Corpse.description>griskropp</Pig_Corpse.description>
 
-    <Alpaca.label>alpacka</Alpaca.label>
-    <Alpaca.description>En medelstor hovdjur nära besläktad med lamadjur. Alpackan föds ofta upp för sin anmärkningsvärt mjuka ull.</Alpaca.description>
-    <Alpaca_Leather.label>alpackahud</Alpaca_Leather.label>
-    <Alpaca_Leather.description>alpackahud</Alpaca_Leather.description>
-    <Alpaca_Leather.stuffProps.stuffAdjective>alpackahud</Alpaca_Leather.stuffProps.stuffAdjective>
-    <Alpaca_Meat.label>alpackakött</Alpaca_Meat.label>
-    <Alpaca_Meat.description>alpackakött</Alpaca_Meat.description>
-    <Alpaca_Corpse.label>alpackakropp</Alpaca_Corpse.label>
-    <Alpaca_Corpse.description>alpackakropp</Alpaca_Corpse.description>
-    
+  <Cow.label>ko</Cow.label>
+  <Cow.description>Ett mycket vanligt tamdjur. Det kan producera stora mängder mjölk, eller slaktas för god mat.</Cow.description>
+  <Cow_Leather.label>kohud</Cow_Leather.label>
+  <Cow_Leather.description>kohud</Cow_Leather.description>
+  <Cow_Leather.stuffProps.stuffAdjective>kohud</Cow_Leather.stuffProps.stuffAdjective>
+  <Cow_Meat.label>nätkött</Cow_Meat.label>
+  <Cow_Meat.description>nätkött</Cow_Meat.description>
+  <Cow_Corpse.label>kokropp</Cow_Corpse.label>
+  <Cow_Corpse.description>kokropp</Cow_Corpse.description>
+
+  <Alpaca.label>alpacka</Alpaca.label>
+  <Alpaca.description>En medelstor hovdjur nära besläktad med lamadjur. Alpackan föds ofta upp för sin anmärkningsvärt mjuka ull.</Alpaca.description>
+  <Alpaca_Leather.label>alpackahud</Alpaca_Leather.label>
+  <Alpaca_Leather.description>alpackahud</Alpaca_Leather.description>
+  <Alpaca_Leather.stuffProps.stuffAdjective>alpackahud</Alpaca_Leather.stuffProps.stuffAdjective>
+  <Alpaca_Meat.label>alpackakött</Alpaca_Meat.label>
+  <Alpaca_Meat.description>alpackakött</Alpaca_Meat.description>
+  <Alpaca_Corpse.label>alpackakropp</Alpaca_Corpse.label>
+  <Alpaca_Corpse.description>alpackakropp</Alpaca_Corpse.description>
+
+
 </LanguageData>

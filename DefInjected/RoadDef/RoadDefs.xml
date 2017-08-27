@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DirtPath.label>smutsväg</DirtPath.label>
+  <DirtRoad.label>grusväg</DirtRoad.label>
+  <StoneRoad.label>stenväg</StoneRoad.label>
+  <AncientAsphaltRoad.label>forntida asfaltväg</AncientAsphaltRoad.label>
+  <AncientAsphaltHighway.label>forntida asfaltsmotorväg</AncientAsphaltHighway.label>
+
+
+</LanguageData>

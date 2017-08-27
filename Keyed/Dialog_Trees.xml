@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <FactionGreetingHostile>{0} häver ur sig ett par tillmälen mot skärmen och lägger på.</FactionGreetingHostile>
@@ -19,6 +19,7 @@
   <ChooseTraderKind>{0} frågar vilken sorts handelskaravan du vill ha.</ChooseTraderKind>
   <TraderSent>{0} går med på att skicka en handelskaravan. Den dyker upp inom ett par dagar.</TraderSent>
   <WaitTime>väntetid {0}</WaitTime>
+
 
   <!-- military aid request -->
   <RequestMilitaryAid>Begär omdelbart militärt understöd(kostar: {0} välvilja)</RequestMilitaryAid>

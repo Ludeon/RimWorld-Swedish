@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <MoveSpeed.label>förflyttningshastighet</MoveSpeed.label>
-    <MoveSpeed.description>Rörelsehastighet genom världen i celler per sekund.</MoveSpeed.description>
-	<MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
-    
-    <MentalBreakThreshold.label>mentaltbryt-tröskel</MentalBreakThreshold.label>
-    <MentalBreakThreshold.description>Så länge som någons humör är under denna nivå riskerar de att få en mentalt bryt.</MentalBreakThreshold.description>
-    
-    <PsychicSensitivity.label>psykisk känslighet</PsychicSensitivity.label>
-    <PsychicSensitivity.description>Multiplikator på hur effekterna av psykiska fenomen påverkar den här personen.</PsychicSensitivity.description>
-    
-    <ToxicSensitivity.label>giftig känslighet</ToxicSensitivity.label>
-    <ToxicSensitivity.description>Multiplikator på hur effekterna av giftiga uppbyggnad påverkar den här personen.</ToxicSensitivity.description>
-    
-    <GlobalLearningFactor.label>global inlärningsfaktor</GlobalLearningFactor.label>
-    <GlobalLearningFactor.description>Global inlärningseffektivitet för alla färdigheter.</GlobalLearningFactor.description>
-    
-    <EatingSpeed.label>äthastighet</EatingSpeed.label>
-    <EatingSpeed.description>Multiplikator på äthastighet.</EatingSpeed.description>
-    
-    <ComfyTemperatureMin.label>Minsta behaglig temperatur</ComfyTemperatureMin.label>
-    <ComfyTemperatureMin.description>Under denna temperatur kommer personen att vara olycklig. Betydligt under denna temperatur kommer de att utveckla hypotermi och förfrysning och så småningom dö.</ComfyTemperatureMin.description>
-    
-    <ComfyTemperatureMax.label>Högsta behaglig temperatur</ComfyTemperatureMax.label>
-    <ComfyTemperatureMax.description>Ovanför denna temperatur kommer personen att vara olycklig. Betydligt högre än denna temperatur kommer de att utveckla värmeslag och så småningom dö.</ComfyTemperatureMax.description>
-    
-    <ImmunityGainSpeed.label>immunitethastighet</ImmunityGainSpeed.label>
-    <ImmunityGainSpeed.description>Hastighet med vilken denna personen får immunitet mot sjukdomar. Om detta är för långsam, kommer personen att dö av sjukdomen innan den hinner utveckla immunitet.</ImmunityGainSpeed.description>
-    
-    <CarryingCapacity.label>bärförmåga</CarryingCapacity.label>
-    <CarryingCapacity.description>Mängden saker denna varelse kan bära i sin hand, mun, eller andra manipulatorer.</CarryingCapacity.description>
-    
-    <MeatAmount.label>köttmängd</MeatAmount.label>
-    <MeatAmount.description>Mängden kött du får om du slaktar denna varelse.</MeatAmount.description>
-    
-    <LeatherAmount.label>lädermängd</LeatherAmount.label>
-    <LeatherAmount.description>Mängden läder du får om du slaktar denna varelse.</LeatherAmount.description>
-    
-    <MinimumHandlingSkill.label>minsta hanteringsfärdighet</MinimumHandlingSkill.label>
-    <MinimumHandlingSkill.description>Denna varelse kan inte tämjas, utbildas eller kommenderas av någon med mindre än denna färdighet av djurträning.</MinimumHandlingSkill.description>
-	
-    
+
+  <MoveSpeed.label>förflyttningshastighet</MoveSpeed.label>
+  <MoveSpeed.description>Rörelsehastighet genom världen i celler per sekund.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+
+  <MentalBreakThreshold.label>mentaltbryt-tröskel</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>Så länge som någons humör är under denna nivå riskerar de att få en mentalt bryt.</MentalBreakThreshold.description>
+
+  <PsychicSensitivity.label>psykisk känslighet</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Multiplikator på hur effekterna av psykiska fenomen påverkar den här personen.</PsychicSensitivity.description>
+
+  <ToxicSensitivity.label>giftig känslighet</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Multiplikator på hur effekterna av giftiga uppbyggnad påverkar den här personen.</ToxicSensitivity.description>
+
+  <GlobalLearningFactor.label>global inlärningsfaktor</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>Global inlärningseffektivitet för alla färdigheter.</GlobalLearningFactor.description>
+
+  <EatingSpeed.label>äthastighet</EatingSpeed.label>
+  <EatingSpeed.description>Multiplikator på äthastighet.</EatingSpeed.description>
+
+  <ComfyTemperatureMin.label>Minsta behaglig temperatur</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>Under denna temperatur kommer personen att vara olycklig. Betydligt under denna temperatur kommer de att utveckla hypotermi och förfrysning och så småningom dö.</ComfyTemperatureMin.description>
+
+  <ComfyTemperatureMax.label>Högsta behaglig temperatur</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>Ovanför denna temperatur kommer personen att vara olycklig. Betydligt högre än denna temperatur kommer de att utveckla värmeslag och så småningom dö.</ComfyTemperatureMax.description>
+
+  <ImmunityGainSpeed.label>immunitethastighet</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>Hastighet med vilken denna personen får immunitet mot sjukdomar. Om detta är för långsam, kommer personen att dö av sjukdomen innan den hinner utveckla immunitet.</ImmunityGainSpeed.description>
+
+  <CarryingCapacity.label>bärförmåga</CarryingCapacity.label>
+  <CarryingCapacity.description>Mängden saker denna varelse kan bära i sin hand, mun, eller andra manipulatorer.</CarryingCapacity.description>
+
+  <MeatAmount.label>köttmängd</MeatAmount.label>
+  <MeatAmount.description>Mängden kött du får om du slaktar denna varelse.</MeatAmount.description>
+
+  <LeatherAmount.label>lädermängd</LeatherAmount.label>
+  <LeatherAmount.description>Mängden läder du får om du slaktar denna varelse.</LeatherAmount.description>
+
+  <MinimumHandlingSkill.label>minsta hanteringsfärdighet</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>Denna varelse kan inte tämjas, utbildas eller kommenderas av någon med mindre än denna färdighet av djurträning.</MinimumHandlingSkill.description>
+
+
 </LanguageData>

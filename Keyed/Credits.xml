@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MainPageCredit>En kolonisimulator av Tynan Sylvester</MainPageCredit>
-  
+
   <Credits_Developers>Utvecklare</Credits_Developers>
-  <Credit_DirectionVarious>Lead, design, kod, grafik</Credit_DirectionVarious>
+  <Credit_DirectionVarious>Styrning, design, kod, grafik</Credit_DirectionVarious>
   <Credit_MusicAndSound>Musik och ljud</Credit_MusicAndSound>
   <Credit_Code>Kodning</Credit_Code>
   <Credit_GameArt>Spelgrafik</Credit_GameArt>
   <Credit_MenuArt>Menygrafik</Credit_MenuArt>
   <Credit_AdditionalCode>Övrig kodning</Credit_AdditionalCode>
-  
+
   <Credit_SpecialThanks>Särskilt tack</Credit_SpecialThanks>
 
   <Credits_TitleCommunity>Volontärer</Credits_TitleCommunity>

@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Wild plants - carpets -->
-	
-    <PlantTallGrass.label>högt gräs</PlantTallGrass.label>
-    <PlantTallGrass.description>Wild högt gräs. Saktar ned de som rör sig över det.</PlantTallGrass.description>
-    
-	
-	<!-- Wild - Trees -->
-	
-    <PlantTreeTeak.label>teakträ</PlantTreeTeak.label>
-    <PlantTreeTeak.description>En mycket stark lövträd, användes i gamla tider för att bygga segelfartyg.</PlantTreeTeak.description>
-    
-    <PlantTreeCecropia.label>cecropia träd</PlantTreeCecropia.label>
-    <PlantTreeCecropia.description>En av de vanligaste trädet i en regnskog. Växer mycket snabbt, men ger lite användbar trä.</PlantTreeCecropia.description>
-    
+
+  <!-- Wild plants - carpets -->
+
+  <PlantTallGrass.label>högt gräs</PlantTallGrass.label>
+  <PlantTallGrass.description>Wild högt gräs. Saktar ned de som rör sig över det.</PlantTallGrass.description>
+
+
+  <!-- Wild - Trees -->
+
+  <PlantTreeTeak.label>teakträ</PlantTreeTeak.label>
+  <PlantTreeTeak.description>En mycket stark lövträd, användes i gamla tider för att bygga segelfartyg.</PlantTreeTeak.description>
+
+  <PlantTreeCecropia.label>cecropia träd</PlantTreeCecropia.label>
+  <PlantTreeCecropia.description>En av de vanligaste trädet i en regnskog. Växer mycket snabbt, men ger lite användbar trä.</PlantTreeCecropia.description>
+
+
 </LanguageData>

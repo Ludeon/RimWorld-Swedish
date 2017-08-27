@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <WorkTagNone>Inget</WorkTagNone>
@@ -8,7 +8,6 @@
   <WorkTagViolent>Våldsam</WorkTagViolent>
   <WorkTagCaring>Omtänksam</WorkTagCaring>
   <WorkTagSocial>Social</WorkTagSocial>
-  <WorkTagScary>Läskig</WorkTagScary>
   <WorkTagAnimals>Djurvan</WorkTagAnimals>
   <WorkTagArtistic>Konstnärlig</WorkTagArtistic>
   <WorkTagCrafting>Tillverkning</WorkTagCrafting>

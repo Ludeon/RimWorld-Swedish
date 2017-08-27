@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QuestBanditCamp.label>banditläger</QuestBanditCamp.label>
+  <QuestBanditCamp.letterText>{0}, {1} från {2}, har skickat ett meddelande.\n\nUppenbarligen har banditer som är baserade i ett närliggande läger raidat deras karavaner. De har bett oss att förstöra det, vilket innebär att eliminera alla fiender och kanontorn.\n\nOm vi ​​lyckas kommer våra relationer att förbättras, och de skickar oss denna belöning:\n\n{3}</QuestBanditCamp.letterText>
+  <QuestBanditCamp.letterLabel>Banditläger</QuestBanditCamp.letterLabel>
+
+  <QuestItemStash.label>skattgömma</QuestItemStash.label>
+  <QuestItemStash.letterText>{0}, {1} från {2}, har skickat ett meddelande.\n\nDe har fått reda på att en samling värdefulla saker har övergivits inte långt ifrån oss. Samlingen består av:\n\n{3}\n\nTyvärr kommer det inte att vara kvar länge - andra kommer att ta föremålen om {4} dagar om vi inte gör det.\n\nVärderingar tenderar att locka till sig fara, så akta er.\n\n{5}</QuestItemStash.letterText>
+  <QuestItemStash.letterLabel>Skattgömma</QuestItemStash.letterLabel>
+
+
+</LanguageData>

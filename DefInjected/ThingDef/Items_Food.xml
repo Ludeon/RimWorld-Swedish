@@ -1,25 +1,26 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <MealSurvivalPack.label>packeterad överlevnadsrätt</MealSurvivalPack.label>
-    <MealSurvivalPack.description>Packeterad maträtt av hög kvalitet, tillverkad för användning i överlevnadssituationer.</MealSurvivalPack.description>
-    
-    <MealNutrientPaste.label>näringsmassrätt</MealNutrientPaste.label>
-    <MealNutrientPaste.description>En syntetisk blandning av protein, kolhydrater, vitaminer, aminosyror och mineraler. Allting kroppen behöver, och fullständigt motbjudande.</MealNutrientPaste.description>
-    
-    <MealSimple.label>enkel rätt</MealSimple.label>
-    <MealSimple.description>En enkel maträtt snabbt tillagad av få ingredienser.</MealSimple.description>
-    
-    <MealFine.label>förfinad rätt</MealFine.label>
-    <MealFine.description>En komplex maträtt ihopsatt med omsorg från ett brett urval av ingredienser.</MealFine.description>
-    
-    <MealLavish.label>utsökt rätt</MealLavish.label>
-    <MealLavish.description>Ett kulinariskt mästerverk, denna maträtt ger näring åt kropp, sinne och skäl.</MealLavish.description>
-    
-    <Kibble.label>djurfoder</Kibble.label>
-    <Kibble.description>Djurfoder tillverkat av blandade kött och växtkällor. Människor kan äta det, men gillar det verkligen, verkligen inte.</Kibble.description>
-    
-    <Pemmican.label>pemmikan</Pemmican.label>
-    <Pemmican.description>En bevarad blandning av fett och vegetabiliska livsmedel. Smakar intetsägande, men inte stötande. Den varar en mycket lång tid utan kylning.</Pemmican.description>
-    
+
+  <MealSurvivalPack.label>packeterad överlevnadsrätt</MealSurvivalPack.label>
+  <MealSurvivalPack.description>Packeterad maträtt av hög kvalitet, tillverkad för användning i överlevnadssituationer.</MealSurvivalPack.description>
+
+  <MealNutrientPaste.label>näringsmassrätt</MealNutrientPaste.label>
+  <MealNutrientPaste.description>En syntetisk blandning av protein, kolhydrater, vitaminer, aminosyror och mineraler. Allting kroppen behöver, och fullständigt motbjudande.</MealNutrientPaste.description>
+
+  <MealSimple.label>enkel rätt</MealSimple.label>
+  <MealSimple.description>En enkel maträtt snabbt tillagad av få ingredienser.</MealSimple.description>
+
+  <MealFine.label>förfinad rätt</MealFine.label>
+  <MealFine.description>En komplex maträtt ihopsatt med omsorg från ett brett urval av ingredienser.</MealFine.description>
+
+  <MealLavish.label>utsökt rätt</MealLavish.label>
+  <MealLavish.description>Ett kulinariskt mästerverk, denna maträtt ger näring åt kropp, sinne och skäl.</MealLavish.description>
+
+  <Kibble.label>djurfoder</Kibble.label>
+  <Kibble.description>Djurfoder tillverkat av blandade kött och växtkällor. Människor kan äta det, men gillar det verkligen, verkligen inte.</Kibble.description>
+
+  <Pemmican.label>pemmikan</Pemmican.label>
+  <Pemmican.description>En bevarad blandning av fett och vegetabiliska livsmedel. Smakar intetsägande, men inte stötande. Den varar en mycket lång tid utan kylning.</Pemmican.description>
+
+
 </LanguageData>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <IndefiniteArticle>en</IndefiniteArticle>
-  <!-- Swedish doens't work the same way as English, no standalone translation of 'the' -->
   <DefiniteArticle></DefiniteArticle>
   <IndefiniteForm>en {0}</IndefiniteForm>
-  <!-- Swedish doens't work the same way as English, no standalone translation of 'the' -->
   <DefiniteForm>{0}</DefiniteForm>
 
   <Proits>dess</Proits>
@@ -28,5 +26,7 @@
   <ProheCap>Han</ProheCap>
   <ProsheCap>Hon</ProsheCap>
   <ProitCap>Det</ProitCap>
+
+  <!-- Swedish doens't work the same way as English, no standalone translation of 'the' -->
 
 </LanguageData>

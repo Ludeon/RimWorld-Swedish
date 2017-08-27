@@ -1,20 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <CookMealSimple.label>Laga enkel maträtt</CookMealSimple.label>
-    <CookMealSimple.description>Lagar en enkel maträtt av en ingrediens.</CookMealSimple.description>
-    <CookMealSimple.jobString>Lagar enkel maträtt.</CookMealSimple.jobString>
-    
-	<CookMealSimpleCampfire.label>Laga enkel maträtt</CookMealSimpleCampfire.label>
-    <CookMealSimpleCampfire.description>Lagar en enkel maträtt av en ingrediens.</CookMealSimpleCampfire.description>
-    <CookMealSimpleCampfire.jobString>Lagar enkel maträtt.</CookMealSimpleCampfire.jobString>
-    
-    <CookMealFine.label>Laga förfinad maträtt</CookMealFine.label>
-    <CookMealFine.description>Lagar en något komplex maträtt ur en kombination av råa kött och växt ingredienser.</CookMealFine.description>
-    <CookMealFine.jobString>Lagar förfinad maträtt.</CookMealFine.jobString>
-    
-    <CookMealLavish.label>Laga utsökt maträtt</CookMealLavish.label>
-    <CookMealLavish.description>Lagar en väldigt komplex maträtt ur en kombination av råa kött och växt ingredienser. Många av ingredienserna slösas bort.</CookMealLavish.description>
-    <CookMealLavish.jobString>Lagar utsökt maträtt.</CookMealLavish.jobString>
-    
+
+  <CookMealSimple.label>laga enkel maträtt</CookMealSimple.label>
+  <CookMealSimple.description>Lagar en enkel maträtt av en ingrediens.</CookMealSimple.description>
+  <CookMealSimple.jobString>Lagar enkel maträtt.</CookMealSimple.jobString>
+
+  <CookMealSimpleCampfire.label>laga enkel maträtt</CookMealSimpleCampfire.label>
+  <CookMealSimpleCampfire.description>Lagar en enkel maträtt av en ingrediens.</CookMealSimpleCampfire.description>
+  <CookMealSimpleCampfire.jobString>Lagar enkel maträtt.</CookMealSimpleCampfire.jobString>
+
+  <CookMealFine.label>laga förfinad maträtt</CookMealFine.label>
+  <CookMealFine.description>Lagar en något komplex maträtt ur en kombination av råa kött och växt ingredienser.</CookMealFine.description>
+  <CookMealFine.jobString>Lagar förfinad maträtt.</CookMealFine.jobString>
+
+  <CookMealLavish.label>laga utsökt maträtt</CookMealLavish.label>
+  <CookMealLavish.description>Lagar en väldigt komplex maträtt ur en kombination av råa kött och växt ingredienser. Många av ingredienserna slösas bort.</CookMealLavish.description>
+  <CookMealLavish.jobString>Lagar utsökt maträtt.</CookMealLavish.jobString>
+
+  <CookMealSurvival.label>laga förpackad överlevnadsmåltid</CookMealSurvival.label>
+  <CookMealSurvival.description>Lagar en förpackad överlevnadsmåltid från en kombination av rå kött och råa vegetabiliska ingredienser. Många av ingredienserna slösas bort.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>Lagar överlevnadsmåltid.</CookMealSurvival.jobString>
+
+
 </LanguageData>

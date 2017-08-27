@@ -1,46 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Food crops -->
-	
-    <PlantPotato.label>potatisplanta</PlantPotato.label>
-    <PlantPotato.description>En enkel, mycket näringsrik knöl. Växer bra även i lite dålig jord. Skördar snabbt. En stark, mångsidig gröda.</PlantPotato.description>
-    
-    <PlantCorn.label>majsplanta</PlantCorn.label>
-    <PlantCorn.description>En stor majsplanta som producerar massor av läckra gula frön. Tar relativt lång tid att växa, men ger massor av mat, tar lång tid att förstöra, och kan enkelt ätas råa. Behöver bördig jord att växa bra.</PlantCorn.description>
-    
-    <PlantRice.label>risplanta</PlantRice.label>
-    <PlantRice.description>En låg kornväxt som trivs i bördig jord och ger mat snabbt, men är inte trevligt att äta rå.</PlantRice.description>
-    
-    <PlantStrawberry.label>jordubbsplanta</PlantStrawberry.label>
-    <PlantStrawberry.description>En bräcklig men välsmakande frukt. Läcker även rå.</PlantStrawberry.description>
-    
-    <PlantHaygrass.label>högräs</PlantHaygrass.label>
-    <PlantHaygrass.description>En blandning av näringsrikt gräs som ger stora mängder hö. Hö är ätlig för djur, men inte för människor.</PlantHaygrass.description>
-    
-	
-	<!-- Production crops -->
-	
-    <PlantCotton.label>bomullsplanta</PlantCotton.label>
-    <PlantCotton.description>Ger bomull, ett fint växtfibrer används för att göra tyg.</PlantCotton.description>
-    
-    <PlantDevilstrand.label>djävulshår</PlantDevilstrand.label>
-    <PlantDevilstrand.description>Denna bräckliga svamp genetiskt framtagen för att producera en siden av högsta kvalitet. Länge ryktades den ha mystiska egenskaper med den har förtjänat sitt namn på grund av girighet det inspirerar i folk.</PlantDevilstrand.description>
-    
-    <PlantHealroot.label>helande rötter</PlantHealroot.label>
-    <PlantHealroot.description>En långsamt växande planta som ger örtmedicin när den skördats.\n\nHhelande rötter har selektivt blivit uppfödd av århundraden av bosättare. Den har ibland också kallas "helarens hand" av stamfolk - ett smeknamn man är skyldig till dess fem stora medecina dygder.</PlantHealroot.description>
-    
-	
-	<!-- Drug crops -->
-	
-    <PlantHops.label>humleplanta</PlantHops.label>
-    <PlantHops.description>En blommande växt som ger humle, och viktig ingrediens i öl.</PlantHops.description>
-    
-    <PlantPsychoid.label>psychitplanta</PlantPsychoid.label>
-    <PlantPsychoid.description>En lummig planta. Löven kan förädlas till olika former av psychitläkemedel.</PlantPsychoid.description>
-    
-    <PlantSmokeleaf.label>rökbladsplanta</PlantSmokeleaf.label>
-    <PlantSmokeleaf.description>En lövrik växt som odlas för sina psykologiska effekter. Rökbladslöven kan rulla till en join vid en tillverkningsplats.</PlantSmokeleaf.description>
-    
-	
+
+  <!-- Food crops -->
+
+  <PlantRice.label>risplanta</PlantRice.label>
+  <PlantRice.description>En låg kornväxt som trivs i bördig jord och ger mat snabbt, men är inte trevligt att äta rå.</PlantRice.description>
+
+  <PlantPotato.label>potatisplanta</PlantPotato.label>
+  <PlantPotato.description>En enkel, mycket näringsrik knöl. Växer bra även i lite dålig jord. Skördar snabbt. En stark, mångsidig gröda.</PlantPotato.description>
+
+  <PlantCorn.label>majsplanta</PlantCorn.label>
+  <PlantCorn.description>En stor majsplanta som producerar massor av läckra gula frön. Tar relativt lång tid att växa, men ger massor av mat, tar lång tid att förstöra, och kan enkelt ätas råa. Behöver bördig jord att växa bra.</PlantCorn.description>
+
+  <PlantStrawberry.label>jordubbsplanta</PlantStrawberry.label>
+  <PlantStrawberry.description>En bräcklig men välsmakande frukt. Läcker även rå.</PlantStrawberry.description>
+
+  <PlantHaygrass.label>högräs</PlantHaygrass.label>
+  <PlantHaygrass.description>En blandning av näringsrikt gräs som ger stora mängder hö. Hö är ätlig för djur, men inte för människor.</PlantHaygrass.description>
+
+
+  <!-- Production crops -->
+
+  <PlantCotton.label>bomullsplanta</PlantCotton.label>
+  <PlantCotton.description>Ger bomull, ett fint växtfibrer används för att göra tyg.</PlantCotton.description>
+
+  <PlantDevilstrand.label>djävulshår</PlantDevilstrand.label>
+  <PlantDevilstrand.description>Denna bräckliga svamp genetiskt framtagen för att producera en siden av högsta kvalitet. Länge ryktades den ha mystiska egenskaper men den har förtjänat sitt namn på grund av girighet det inspirerar i folk.</PlantDevilstrand.description>
+
+  <PlantHealroot.label>helande rötter</PlantHealroot.label>
+  <PlantHealroot.description>En långsamt växande planta som ger örtmedicin när den skördats.\n\nHelande rötter har selektivt blivit uppfödd av århundraden av bosättare. Den har ibland också kallas "helarens hand" av stamfolk - ett smeknamn som syftar till dess fem stora medicinska dygder.</PlantHealroot.description>
+
+
+  <!-- Drug crops -->
+
+  <PlantHops.label>humleplanta</PlantHops.label>
+  <PlantHops.description>En blommande växt som ger humle, och viktig ingrediens i öl.</PlantHops.description>
+
+  <PlantSmokeleaf.label>rökbladsplanta</PlantSmokeleaf.label>
+  <PlantSmokeleaf.description>En lövrik växt som odlas för sina psykologiska effekter. Rökbladslöven kan rulla till en cigarr vid en tillverkningsplats.</PlantSmokeleaf.description>
+
+  <PlantPsychoid.label>psychitplanta</PlantPsychoid.label>
+  <PlantPsychoid.description>En lummig planta. Löven kan förädlas till olika former av psychitdroger.</PlantPsychoid.description>
+
+
 </LanguageData>

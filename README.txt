@@ -1,4 +1,4 @@
-A Swedish translation for RimWorld.
+﻿A Swedish translation for RimWorld.
 
 See this page for license info:
 http://ludeon.com/forums/index.php?topic=2933.0
@@ -9,11 +9,13 @@ http://ludeon.com/forums/index.php?topic=4632.0
 ##Translators:
 
 ### Currently active translators
+- Patrik Bohlin
+
+### Archived translations, 2016
 - Rocksummit
 - Joel Ahlgren
 - Christoffer Rydström
 - Mannen-Myten
-- Patrik Bohlin
 
 ### Initial translations, ~2014
 - zackiz

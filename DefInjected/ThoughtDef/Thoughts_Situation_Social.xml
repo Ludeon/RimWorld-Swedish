@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- affecting opinion -->
@@ -45,5 +45,5 @@
   <WantToSleepWithSpouseOrLover.stages.0.label>wvill sova med {0}</WantToSleepWithSpouseOrLover.stages.0.label>
   <WantToSleepWithSpouseOrLover.stages.0.description>Jag gillar inte att sova iväg ifrån min partner.</WantToSleepWithSpouseOrLover.stages.0.description>
 
-    
+
 </LanguageData>

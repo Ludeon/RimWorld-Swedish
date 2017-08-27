@@ -4,15 +4,12 @@
   <friendlyNameEnglish>Swedish</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <credits>
-  	<li Class="CreditRecord_Role">
-  	  <!-- Contributed 2016-09-07 to ... -->
+
+
+	<li Class="CreditRecord_Role">
+      <!-- Contributed 2016-10-27 to ... -->
       <roleKey>Credit_Translator</roleKey>
-      <creditee>Rocksummit</creditee>
-    </li>
-    <li Class="CreditRecord_Role">
-      <!-- Contributed 2016-09-29 to ... -->
-      <roleKey>Credit_Translator</roleKey>
-      <creditee>Joel Ahlgren</creditee>
+      <creditee>Patrik Bohlin</creditee>
     </li>
 
     <!-- "Archived translators" -->
@@ -21,6 +18,16 @@
       <!-- Contributed 2016-04-24 to 2016-05-03 -->
       <roleKey>Credit_Translator</roleKey>
       <creditee>Christoffer Rydström</creditee>
+    </li>
+	  	<li Class="CreditRecord_Role">
+  	  <!-- Contributed 2016-09-06 to 2016-09-10 -->
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Rocksummit</creditee>
+    </li>
+	<li Class="CreditRecord_Role">
+      <!-- Contributed 2016-08-21 to 2017-02-27 -->
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Joel Ahlgren</creditee>
     </li>
     
     <!-- The original group, contributed during July 2014. -->

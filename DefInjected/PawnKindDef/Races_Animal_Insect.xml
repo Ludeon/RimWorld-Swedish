@@ -1,29 +1,80 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
+
   <Megascarab.label>jätteskalbagge</Megascarab.label>
-  <Megascarab.lifeStages.0.labelMale>jätteskalbagge</Megascarab.lifeStages.0.labelMale>
-  <Megascarab.lifeStages.0.labelFemale>jätteskalbagge</Megascarab.lifeStages.0.labelFemale>
-  <Megascarab.lifeStages.1.labelMale>jätteskalbagge</Megascarab.lifeStages.1.labelMale>
-  <Megascarab.lifeStages.1.labelFemale>jätteskalbagge</Megascarab.lifeStages.1.labelFemale>
-  <Megascarab.lifeStages.2.labelMale>jätteskalbagge</Megascarab.lifeStages.2.labelMale>
-  <Megascarab.lifeStages.2.labelFemale>jätteskalbagge</Megascarab.lifeStages.2.labelFemale>
+  <Megascarab.labelPlural>jätteskalbaggar</Megascarab.labelPlural>
+  <Megascarab.lifeStages.0.label>jätteskalbagge</Megascarab.lifeStages.0.label>
+  <Megascarab.lifeStages.0.labelPlural>jätteskalbaggar</Megascarab.lifeStages.0.labelPlural>
+  <Megascarab.lifeStages.0.labelMale>jätteskalbaggehane</Megascarab.lifeStages.0.labelMale>
+  <Megascarab.lifeStages.0.labelMalePlural>jätteskalbaggehanar</Megascarab.lifeStages.0.labelMalePlural>
+  <Megascarab.lifeStages.0.labelFemale>jätteskalbaggehona</Megascarab.lifeStages.0.labelFemale>
+  <Megascarab.lifeStages.0.labelFemalePlural>jätteskalbaggehonor</Megascarab.lifeStages.0.labelFemalePlural>
+  <Megascarab.lifeStages.1.label>jätteskalbagge</Megascarab.lifeStages.1.label>
+  <Megascarab.lifeStages.1.labelPlural>jätteskalbaggar</Megascarab.lifeStages.1.labelPlural>
+  <Megascarab.lifeStages.1.labelMale>jätteskalbaggehane</Megascarab.lifeStages.1.labelMale>
+  <Megascarab.lifeStages.1.labelMalePlural>jätteskalbaggehanar</Megascarab.lifeStages.1.labelMalePlural>
+  <Megascarab.lifeStages.1.labelFemale>jätteskalbaggehona</Megascarab.lifeStages.1.labelFemale>
+  <Megascarab.lifeStages.1.labelFemalePlural>jätteskalbaggehonor</Megascarab.lifeStages.1.labelFemalePlural>
+  <Megascarab.lifeStages.2.label>jätteskalbagge</Megascarab.lifeStages.2.label>
+  <Megascarab.lifeStages.2.labelPlural>jätteskalbaggar</Megascarab.lifeStages.2.labelPlural>
+  <Megascarab.lifeStages.2.labelMale>jätteskalbaggehane</Megascarab.lifeStages.2.labelMale>
+  <Megascarab.lifeStages.2.labelMalePlural>jätteskalbaggehanar</Megascarab.lifeStages.2.labelMalePlural>
+  <Megascarab.lifeStages.2.labelFemale>jätteskalbaggehona</Megascarab.lifeStages.2.labelFemale>
+  <Megascarab.lifeStages.2.labelFemalePlural>jätteskalbaggehonor</Megascarab.lifeStages.2.labelFemalePlural>
+  <Megascarab.labelMale>jätteskalbaggehane</Megascarab.labelMale>
+  <Megascarab.labelMalePlural>jätteskalbaggehanar</Megascarab.labelMalePlural>
+  <Megascarab.labelFemale>jätteskalbaggehona</Megascarab.labelFemale>
+  <Megascarab.labelFemalePlural>jätteskalbaggehonor</Megascarab.labelFemalePlural>
 
   <Spelopede.label>speloped</Spelopede.label>
-  <Spelopede.lifeStages.0.labelMale>speloped</Spelopede.lifeStages.0.labelMale>
-  <Spelopede.lifeStages.0.labelFemale>speloped</Spelopede.lifeStages.0.labelFemale>
-  <Spelopede.lifeStages.1.labelMale>speloped</Spelopede.lifeStages.1.labelMale>
-  <Spelopede.lifeStages.1.labelFemale>speloped</Spelopede.lifeStages.1.labelFemale>
-  <Spelopede.lifeStages.2.labelMale>speloped</Spelopede.lifeStages.2.labelMale>
-  <Spelopede.lifeStages.2.labelFemale>speloped</Spelopede.lifeStages.2.labelFemale>
+  <Spelopede.labelPlural>spelopeder</Spelopede.labelPlural>
+  <Spelopede.lifeStages.0.label>spelopede</Spelopede.lifeStages.0.label>
+  <Spelopede.lifeStages.0.labelPlural>spelopeder</Spelopede.lifeStages.0.labelPlural>
+  <Spelopede.lifeStages.0.labelMale>spelopedehane</Spelopede.lifeStages.0.labelMale>
+  <Spelopede.lifeStages.0.labelMalePlural>spelopedhanar</Spelopede.lifeStages.0.labelMalePlural>
+  <Spelopede.lifeStages.0.labelFemale>spelopedehona</Spelopede.lifeStages.0.labelFemale>
+  <Spelopede.lifeStages.0.labelFemalePlural>spelopedhonor</Spelopede.lifeStages.0.labelFemalePlural>
+  <Spelopede.lifeStages.1.label>spelopede</Spelopede.lifeStages.1.label>
+  <Spelopede.lifeStages.1.labelPlural>spelopeder</Spelopede.lifeStages.1.labelPlural>
+  <Spelopede.lifeStages.1.labelMale>spelopedehane</Spelopede.lifeStages.1.labelMale>
+  <Spelopede.lifeStages.1.labelMalePlural>spelopedhanar</Spelopede.lifeStages.1.labelMalePlural>
+  <Spelopede.lifeStages.1.labelFemale>spelopedehona</Spelopede.lifeStages.1.labelFemale>
+  <Spelopede.lifeStages.1.labelFemalePlural>spelopedhonor</Spelopede.lifeStages.1.labelFemalePlural>
+  <Spelopede.lifeStages.2.label>spelopede</Spelopede.lifeStages.2.label>
+  <Spelopede.lifeStages.2.labelPlural>spelopeder</Spelopede.lifeStages.2.labelPlural>
+  <Spelopede.lifeStages.2.labelMale>spelopedehane</Spelopede.lifeStages.2.labelMale>
+  <Spelopede.lifeStages.2.labelMalePlural>spelopedhanar</Spelopede.lifeStages.2.labelMalePlural>
+  <Spelopede.lifeStages.2.labelFemale>spelopedehona</Spelopede.lifeStages.2.labelFemale>
+  <Spelopede.lifeStages.2.labelFemalePlural>spelopedhonor</Spelopede.lifeStages.2.labelFemalePlural>
+  <Spelopede.labelMale>spelopedehane</Spelopede.labelMale>
+  <Spelopede.labelMalePlural>spelopedhanar</Spelopede.labelMalePlural>
+  <Spelopede.labelFemale>spelopedehona</Spelopede.labelFemale>
+  <Spelopede.labelFemalePlural>spelopedhonor</Spelopede.labelFemalePlural>
 
   <Megaspider.label>jättespindel</Megaspider.label>
-  <Megaspider.lifeStages.0.labelMale>jättespindel</Megaspider.lifeStages.0.labelMale>
-  <Megaspider.lifeStages.0.labelFemale>jättespindel</Megaspider.lifeStages.0.labelFemale>
-  <Megaspider.lifeStages.1.labelMale>jättespindel</Megaspider.lifeStages.1.labelMale>
-  <Megaspider.lifeStages.1.labelFemale>jättespindel</Megaspider.lifeStages.1.labelFemale>
-  <Megaspider.lifeStages.2.labelMale>jättespindel</Megaspider.lifeStages.2.labelMale>
-  <Megaspider.lifeStages.2.labelFemale>jättespindel</Megaspider.lifeStages.2.labelFemale>
-  
-  
+  <Megaspider.labelPlural>jättespindlar</Megaspider.labelPlural>
+  <Megaspider.lifeStages.0.label>jättespindel</Megaspider.lifeStages.0.label>
+  <Megaspider.lifeStages.0.labelPlural>jättespindlar</Megaspider.lifeStages.0.labelPlural>
+  <Megaspider.lifeStages.0.labelMale>jättespindelhane</Megaspider.lifeStages.0.labelMale>
+  <Megaspider.lifeStages.0.labelMalePlural>jättespindelhanar</Megaspider.lifeStages.0.labelMalePlural>
+  <Megaspider.lifeStages.0.labelFemale>jättespindelhona</Megaspider.lifeStages.0.labelFemale>
+  <Megaspider.lifeStages.0.labelFemalePlural>jättespindelhonor</Megaspider.lifeStages.0.labelFemalePlural>
+  <Megaspider.lifeStages.1.label>jättespindel</Megaspider.lifeStages.1.label>
+  <Megaspider.lifeStages.1.labelPlural>jättespindlar</Megaspider.lifeStages.1.labelPlural>
+  <Megaspider.lifeStages.1.labelMale>jättespindelhane</Megaspider.lifeStages.1.labelMale>
+  <Megaspider.lifeStages.1.labelMalePlural>jättespindelhanar</Megaspider.lifeStages.1.labelMalePlural>
+  <Megaspider.lifeStages.1.labelFemale>jättespindelhona</Megaspider.lifeStages.1.labelFemale>
+  <Megaspider.lifeStages.1.labelFemalePlural>jättespindelhonor</Megaspider.lifeStages.1.labelFemalePlural>
+  <Megaspider.lifeStages.2.label>jättespindel</Megaspider.lifeStages.2.label>
+  <Megaspider.lifeStages.2.labelPlural>jättespindlar</Megaspider.lifeStages.2.labelPlural>
+  <Megaspider.lifeStages.2.labelMale>jättespindelhane</Megaspider.lifeStages.2.labelMale>
+  <Megaspider.lifeStages.2.labelMalePlural>jättespindelhanar</Megaspider.lifeStages.2.labelMalePlural>
+  <Megaspider.lifeStages.2.labelFemale>jättespindelhona</Megaspider.lifeStages.2.labelFemale>
+  <Megaspider.lifeStages.2.labelFemalePlural>jättespindelhonor</Megaspider.lifeStages.2.labelFemalePlural>
+  <Megaspider.labelMale>jättespindelhane</Megaspider.labelMale>
+  <Megaspider.labelMalePlural>jättespindelhanar</Megaspider.labelMalePlural>
+  <Megaspider.labelFemale>jättespindelhona</Megaspider.labelFemale>
+  <Megaspider.labelFemalePlural>jättespindelhonor</Megaspider.labelFemalePlural>
+
+
 </LanguageData>

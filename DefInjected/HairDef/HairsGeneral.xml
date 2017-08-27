@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Afro.label>Afro</Afro.label>
-    <Bob.label>Bob</Bob.label>
-    <Burgundy.label>Burgund</Burgundy.label>
-    <Flowy.label>Lockigt</Flowy.label>
-    <Long.label>Långt</Long.label>
-    <Mohawk.label>Tuppkam</Mohawk.label>
-    <Mop.label>Mopp</Mop.label>
-    <Pigtails.label>Flätor</Pigtails.label>
-    <Shaved.label>Rakat</Shaved.label>
-    <Spikes.label>Piggar</Spikes.label>
-    <Tuft.label>Tufsigt</Tuft.label>
-    <Wavy.label>Vågigt</Wavy.label>
-    <BraidedKnot.label>Flätad knut</BraidedKnot.label>
-    <Topdog.label>Boss</Topdog.label>
-    <Senorita.label>Senorita</Senorita.label>
-    <ScorpionTail.label>Skorpionsvans</ScorpionTail.label>
-    <BriefPonytail.label>Kort hästsvans</BriefPonytail.label>
-    <Troubadour.label>Trubadur</Troubadour.label>
-    <Messy.label>Rufsigt</Messy.label>
-    <Princess.label>Prinsessa</Princess.label>
-    <Firestarter.label>Firestarter</Firestarter.label>
-    <GreasySwoop.label>Oljigt</GreasySwoop.label>
-    <Curly.label>Lockigt</Curly.label>
-    <Scatman.label>Scatman</Scatman.label>
-	
-    
+
+  <Afro.label>Afro</Afro.label>
+  <Bob.label>Bob</Bob.label>
+  <Burgundy.label>Burgund</Burgundy.label>
+  <Flowy.label>Lockigt</Flowy.label>
+  <Long.label>Långt</Long.label>
+  <Mohawk.label>Tuppkam</Mohawk.label>
+  <Mop.label>Mopp</Mop.label>
+  <Pigtails.label>Flätor</Pigtails.label>
+  <Shaved.label>Rakat</Shaved.label>
+  <Spikes.label>Piggar</Spikes.label>
+  <Tuft.label>Tufsigt</Tuft.label>
+  <Wavy.label>Vågigt</Wavy.label>
+  <BraidedKnot.label>Flätad knut</BraidedKnot.label>
+  <Topdog.label>Boss</Topdog.label>
+  <Senorita.label>Senorita</Senorita.label>
+  <ScorpionTail.label>Skorpionsvans</ScorpionTail.label>
+  <BriefPonytail.label>Kort hästsvans</BriefPonytail.label>
+  <Troubadour.label>Trubadur</Troubadour.label>
+  <Messy.label>Rufsigt</Messy.label>
+  <Princess.label>Prinsessa</Princess.label>
+  <Firestarter.label>Eldigt</Firestarter.label>
+  <GreasySwoop.label>Oljigt</GreasySwoop.label>
+  <Curly.label>Lockigt</Curly.label>
+  <Scatman.label>Scatman</Scatman.label>
+
+
 </LanguageData>

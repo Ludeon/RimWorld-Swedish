@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <TribalWarrior.label>krigare</TribalWarrior.label>
-    <TribalTrader.label>handlare</TribalTrader.label>
-    <TribalArcher.label>pilbågsskytt</TribalArcher.label>
-    <TribalChief.label>hövding</TribalChief.label>
-    
-	
+
+  <TribalWarrior.label>krigare</TribalWarrior.label>
+  <TribalWarrior.labelPlural>krigare</TribalWarrior.labelPlural>
+
+  <TribalTrader.label>handlare</TribalTrader.label>
+  <TribalTrader.labelPlural>handlare</TribalTrader.labelPlural>
+
+  <TribalArcher.label>pilbågsskytt</TribalArcher.label>
+  <TribalArcher.labelPlural>pilbågsskyttar</TribalArcher.labelPlural>
+
+  <TribalChief.label>hövding</TribalChief.label>
+  <TribalChief.labelPlural>hövdingar</TribalChief.labelPlural>
+
+
 </LanguageData>

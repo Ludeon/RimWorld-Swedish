@@ -1,27 +1,31 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Tier 3: Hi-tech research bench -->
-	
-    <Firefoam.label>bandskum</Firefoam.label>
-    <Firefoam.description>Tillåter tillverkning av brandskumsmällare; bandskyddsföremål som sprider ut en bransläckande skum till försvar mot inkommande bränder.</Firefoam.description>
-    
-    <MoisturePump.label>fuktpump</MoisturePump.label>
-    <MoisturePump.description>Tillåter tillverkning av fuktpumpar, för att avfukta marken omkring dom.</MoisturePump.description>
-    
-    <GeothermalPower.label>geotermisk kraft</GeothermalPower.label>
-    <GeothermalPower.description>Tillåter dig att tillverka ett geotermisk kraftverk på en ånggejser, för att få oavbruten energi.</GeothermalPower.description>
-    
-    <HospitalBed.label>sjuksäng</HospitalBed.label>
-    <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
-    
-    <TransportPod.label>transportkapsel</TransportPod.label>
-    <TransportPod.description>Tillverka uppskjutningsbara transportkapslar som du kan använda för att transportera personer och varor långa sträckor över planetens yta.</TransportPod.description>
 
-    <MedicineProduction.label>medecintillverkning</MedicineProduction.label>
-    <MedicineProduction.description>Tillverkar medecin från örtmedicin, neutroamin och tyg.</MedicineProduction.description>
-    
-    <MultiAnalyzer.label>multianalysator</MultiAnalyzer.label>
-    <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
-    
+  <!-- Tier 3: Hi-tech research bench -->
+
+  <Firefoam.label>bandskum</Firefoam.label>
+  <Firefoam.description>Tillåter tillverkning av brandskumsmällare; bandskyddsföremål som sprider ut en bransläckande skum till försvar mot inkommande bränder.</Firefoam.description>
+
+  <MoisturePump.label>fuktpump</MoisturePump.label>
+  <MoisturePump.description>Tillåter tillverkning av fuktpumpar, för att avfukta marken omkring dom.</MoisturePump.description>
+
+  <GeothermalPower.label>geotermisk kraft</GeothermalPower.label>
+  <GeothermalPower.description>Tillåter dig att tillverka ett geotermisk kraftverk på en ånggejser, för att få oavbruten energi.</GeothermalPower.description>
+
+  <HospitalBed.label>sjuksäng</HospitalBed.label>
+  <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
+
+  <TransportPod.label>transportkapsel</TransportPod.label>
+  <TransportPod.description>Tillverka uppskjutningsbara transportkapslar som du kan använda för att transportera personer och varor långa sträckor över planetens yta.</TransportPod.description>
+
+  <MedicineProduction.label>medecintillverkning</MedicineProduction.label>
+  <MedicineProduction.description>Tillverkar medecin från örtmedicin, neutroamin och tyg.</MedicineProduction.description>
+
+  <MultiAnalyzer.label>multianalysator</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan länkas samman med endast en multianalysator.</MultiAnalyzer.description>
+
+  <LongRangeMineralScanner.label>långdistans mineral scanner</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>Tillåter byggandet av långdistansminneskannrar som automatiskt upptäcker värdefulla mineraler som guld eller jade i de närliggande områdena (men inte där skannrarna byggdes).\n\nKlumparna återfinns i genomsnitt en gång per 30 dagar inom en radie av 30 rutor.\n\nAtt bygga mer än en skanner i samma eller närliggande områden har liten eller ingen effekt.</LongRangeMineralScanner.description>
+
+
 </LanguageData>

@@ -1,44 +1,45 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <YorkshireTerrier.label>yorkshireterrier</YorkshireTerrier.label>
-    <YorkshireTerrier.description>En liten hund med jämnt humör. Ursprungligen uppfödd för att jaga råttor men har senare blivt använt mer för show och kamratskap.</YorkshireTerrier.description>
-    <YorkshireTerrier_Leather.label>yorkshireskinn</YorkshireTerrier_Leather.label>
-    <YorkshireTerrier_Leather.description>yorkshireskinn</YorkshireTerrier_Leather.description>
-    <YorkshireTerrier_Leather.stuffProps.stuffAdjective>yorkshireskinn</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
-    <YorkshireTerrier_Meat.label>yorkshireterrierkött</YorkshireTerrier_Meat.label>
-    <YorkshireTerrier_Meat.description>yorkshireterrierkött</YorkshireTerrier_Meat.description>
-    <YorkshireTerrier_Corpse.label>yorkshireterrierkropp</YorkshireTerrier_Corpse.label>
-    <YorkshireTerrier_Corpse.description>yorkshireterrierkropp</YorkshireTerrier_Corpse.description>
 
-    <Husky.label>husky</Husky.label>
-    <Husky.description>En stor, energisk hund med en tjock päls för att kunna vara bekväm i arktiska miljöer.</Husky.description>
-    <Husky_Leather.label>huskypäls</Husky_Leather.label>
-    <Husky_Leather.description>huskypäls</Husky_Leather.description>
-    <Husky_Leather.stuffProps.stuffAdjective>huskypäls</Husky_Leather.stuffProps.stuffAdjective>
-    <Husky_Meat.label>huskykött</Husky_Meat.label>
-    <Husky_Meat.description>huskykött</Husky_Meat.description>
-    <Husky_Corpse.label>huskykropp</Husky_Corpse.label>
-    <Husky_Corpse.description>huskykropp</Husky_Corpse.description>
+  <YorkshireTerrier.label>yorkshireterrier</YorkshireTerrier.label>
+  <YorkshireTerrier.description>En liten hund med jämnt humör. Ursprungligen uppfödd för att jaga råttor men har senare blivt använt mer för show och kamratskap.</YorkshireTerrier.description>
+  <YorkshireTerrier_Leather.label>yorkshireskinn</YorkshireTerrier_Leather.label>
+  <YorkshireTerrier_Leather.description>yorkshireskinn</YorkshireTerrier_Leather.description>
+  <YorkshireTerrier_Leather.stuffProps.stuffAdjective>yorkshireskinn</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
+  <YorkshireTerrier_Meat.label>yorkshireterrierkött</YorkshireTerrier_Meat.label>
+  <YorkshireTerrier_Meat.description>yorkshireterrierkött</YorkshireTerrier_Meat.description>
+  <YorkshireTerrier_Corpse.label>yorkshireterrierkropp</YorkshireTerrier_Corpse.label>
+  <YorkshireTerrier_Corpse.description>yorkshireterrierkropp</YorkshireTerrier_Corpse.description>
 
-    <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
-    <LabradorRetriever.description>En mycket mångsidig medelstor hund. Ursprungligen framavlade för att hämta fåglar vid jakt, men labradoren är också en utmärkt vakthund, lekvän, och vän till familjen.</LabradorRetriever.description>
-    <LabradorRetriever_Leather.label>labradorpäls</LabradorRetriever_Leather.label>
-    <LabradorRetriever_Leather.description>labradorpäls</LabradorRetriever_Leather.description>
-    <LabradorRetriever_Leather.stuffProps.stuffAdjective>labradorpäls</LabradorRetriever_Leather.stuffProps.stuffAdjective>
-    <LabradorRetriever_Meat.label>labradorkött</LabradorRetriever_Meat.label>
-    <LabradorRetriever_Meat.description>labradorkött</LabradorRetriever_Meat.description>
-    <LabradorRetriever_Corpse.label>labradorkropp</LabradorRetriever_Corpse.label>
-    <LabradorRetriever_Corpse.description>labradorkropp</LabradorRetriever_Corpse.description>
+  <Husky.label>husky</Husky.label>
+  <Husky.description>En stor, energisk hund med en tjock päls för att kunna vara bekväm i arktiska miljöer.</Husky.description>
+  <Husky_Leather.label>huskypäls</Husky_Leather.label>
+  <Husky_Leather.description>huskypäls</Husky_Leather.description>
+  <Husky_Leather.stuffProps.stuffAdjective>huskypäls</Husky_Leather.stuffProps.stuffAdjective>
+  <Husky_Meat.label>huskykött</Husky_Meat.label>
+  <Husky_Meat.description>huskykött</Husky_Meat.description>
+  <Husky_Corpse.label>huskykropp</Husky_Corpse.label>
+  <Husky_Corpse.description>huskykropp</Husky_Corpse.description>
 
-    <Cat.label>katt</Cat.label>
-    <Cat.description>En av mänsklighetens första husdjur. Katten är ett litet däggdjur som jagar ohyra. Känd för sin distansiering är katter ändå en populär följeslagare på grund av deras lugn, självständighet, och fina, klappbara päls.</Cat.description>
-    <Cat_Leather.label>kattskinn</Cat_Leather.label>
-    <Cat_Leather.description>kattskinn</Cat_Leather.description>
-    <Cat_Leather.stuffProps.stuffAdjective>kattskinn</Cat_Leather.stuffProps.stuffAdjective>
-    <Cat_Meat.label>kattkött</Cat_Meat.label>
-    <Cat_Meat.description>kattkött</Cat_Meat.description>
-    <Cat_Corpse.label>kattkropp</Cat_Corpse.label>
-    <Cat_Corpse.description>kattkropp</Cat_Corpse.description>
-    
+  <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
+  <LabradorRetriever.description>En mycket mångsidig medelstor hund. Ursprungligen framavlade för att hämta fåglar vid jakt, men labradoren är också en utmärkt vakthund, lekvän, och vän till familjen.</LabradorRetriever.description>
+  <LabradorRetriever_Leather.label>labradorpäls</LabradorRetriever_Leather.label>
+  <LabradorRetriever_Leather.description>labradorpäls</LabradorRetriever_Leather.description>
+  <LabradorRetriever_Leather.stuffProps.stuffAdjective>labradorpäls</LabradorRetriever_Leather.stuffProps.stuffAdjective>
+  <LabradorRetriever_Meat.label>labradorkött</LabradorRetriever_Meat.label>
+  <LabradorRetriever_Meat.description>labradorkött</LabradorRetriever_Meat.description>
+  <LabradorRetriever_Corpse.label>labradorkropp</LabradorRetriever_Corpse.label>
+  <LabradorRetriever_Corpse.description>labradorkropp</LabradorRetriever_Corpse.description>
+
+  <Cat.label>katt</Cat.label>
+  <Cat.description>En av mänsklighetens första husdjur. Katten är ett litet däggdjur som jagar ohyra. Känd för sin distansiering är katter ändå en populär följeslagare på grund av deras lugn, självständighet, och fina, klappbara päls.</Cat.description>
+  <Cat_Leather.label>kattskinn</Cat_Leather.label>
+  <Cat_Leather.description>kattskinn</Cat_Leather.description>
+  <Cat_Leather.stuffProps.stuffAdjective>kattskinn</Cat_Leather.stuffProps.stuffAdjective>
+  <Cat_Meat.label>kattkött</Cat_Meat.label>
+  <Cat_Meat.description>kattkött</Cat_Meat.description>
+  <Cat_Corpse.label>kattkropp</Cat_Corpse.label>
+  <Cat_Corpse.description>kattkropp</Cat_Corpse.description>
+
+
 </LanguageData>

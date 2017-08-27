@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <None.label>ingen</None.label>
-    <Room.label>rum</Room.label>
-    <Bedroom.label>sovrum</Bedroom.label>
-    <PrisonCell.label>fängelsecell</PrisonCell.label>
-    <DiningRoom.label>matsal</DiningRoom.label>
-    <RecRoom.label>gillestuga</RecRoom.label>
-    <Hospital.label>sjukhus</Hospital.label>
-    <Laboratory.label>laboratorium</Laboratory.label>
-    <Workshop.label>verkstad</Workshop.label>
-    <Barracks.label>kasern</Barracks.label>
-    <PrisonBarracks.label>fängelse baracker</PrisonBarracks.label>
-    <Kitchen.label>kök</Kitchen.label>
-    <Tomb.label>grav</Tomb.label>
-    <Barn.label>lada</Barn.label>
-	
-    
+
+  <None.label>ingen</None.label>
+  <Room.label>rum</Room.label>
+  <Bedroom.label>sovrum</Bedroom.label>
+  <PrisonCell.label>fängelsecell</PrisonCell.label>
+  <DiningRoom.label>matsal</DiningRoom.label>
+  <RecRoom.label>gillestuga</RecRoom.label>
+  <Hospital.label>sjukhus</Hospital.label>
+  <Laboratory.label>laboratorium</Laboratory.label>
+  <Workshop.label>verkstad</Workshop.label>
+  <Barracks.label>kasern</Barracks.label>
+  <PrisonBarracks.label>fängelse baracker</PrisonBarracks.label>
+  <Kitchen.label>kök</Kitchen.label>
+  <Tomb.label>grav</Tomb.label>
+  <Barn.label>lada</Barn.label>
+
+
 </LanguageData>

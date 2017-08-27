@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <MeleeDPS.label>Närstrids DPS</MeleeDPS.label>
-    <MeleeDPS.description>Standard skada per sekund (eng. Damage Per Second) i närstrid.</MeleeDPS.description>
-    
-    <ShootingAccuracy.label>träffsäkerhet skytte</ShootingAccuracy.label>
-    <ShootingAccuracy.description>Bas {0}%s chans att träffa per ruta av skottavstånd.</ShootingAccuracy.description>
-    
-    <AimingDelayFactor.label>sikttid</AimingDelayFactor.label>
-    <AimingDelayFactor.description>Hur lång tid det tar att slå efter att ha siktat.</AimingDelayFactor.description>
-    
-    <MeleeHitChance.label>träffchans närstrid</MeleeHitChance.label>
-    <MeleeHitChance.description>Bas {0}%s chans att träffa i närstrid.</MeleeHitChance.description>
-    
+
+  <!-- Shooting -->
+
+  <MeleeDPS.label>Närstrids DPS</MeleeDPS.label>
+  <MeleeDPS.description>Standard skada per sekund (eng. Damage Per Second) i närstrid.</MeleeDPS.description>
+
+  <MeleeHitChance.label>träffchans närstrid</MeleeHitChance.label>
+  <MeleeHitChance.description>Bas {0}%s chans att träffa i närstrid.</MeleeHitChance.description>
+
+  <MeleeDodgeChance.label>chans att ducka i närstrid</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Chans att undvika en närstrids attack som annars skulle ha träffat. Karaktärerna kan inte ducka när den siktar eller skjuter med ett avståndsvapen.</MeleeDodgeChance.description>
+
+  <ShootingAccuracy.label>träffsäkerhet skytte</ShootingAccuracy.label>
+  <ShootingAccuracy.description>Bas {0}%s chans att träffa per ruta av skottavstånd.</ShootingAccuracy.description>
+
+  <AimingDelayFactor.label>sikttid</AimingDelayFactor.label>
+  <AimingDelayFactor.description>Hur lång tid det tar att attackera efter att ha siktat.</AimingDelayFactor.description>
+
+
 </LanguageData>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
+
   <!-- In-game camera -->
 
   <MapDollyUp.label>kameravagn upp</MapDollyUp.label>
@@ -46,6 +46,8 @@
   <CommandTogglePower.label>växla ström</CommandTogglePower.label>
   <CommandItemForbid.label>växla förbjuden</CommandItemForbid.label>
   <CommandColonistDraft.label>kommendera</CommandColonistDraft.label>
+  <ModifierIncrement10x.label>öka 10x</ModifierIncrement10x.label>
+  <ModifierIncrement100x.label>öka 100x</ModifierIncrement100x.label>
 
 
   <!-- Architect: Common -->
@@ -65,5 +67,6 @@
   <ToggleDebugLogMenu.label>växla debuglogg-meny</ToggleDebugLogMenu.label>
   <ToggleDebugInspector.label>växla debuggranskning</ToggleDebugInspector.label>
   <ToggleDebugSettingsMenu.label>växla debuginställnings-meny</ToggleDebugSettingsMenu.label>
-    
+
+
 </LanguageData>

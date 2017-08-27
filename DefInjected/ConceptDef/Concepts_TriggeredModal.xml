@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <TradeGoodsMustBeNearBeacon.label>Handlesvaror and Handelsfyr</TradeGoodsMustBeNearBeacon.label>
-    <TradeGoodsMustBeNearBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en ORBITAL TRADE BEACON och placera den nära det förråd som har de föremål du vill sälja.</TradeGoodsMustBeNearBeacon.helpText>
-    
-    <ArrestingCreatesEnemies.label>Arestering förvärrar er relation till fraktionen</ArrestingCreatesEnemies.label>
-    <ArrestingCreatesEnemies.helpText>Varning! Personen du försöker arrestera kanske inte ger upp frivilligt.\n\nOm du arresterar en icke-kolonist kan hela deras fraktion bli fientligt inställda.</ArrestingCreatesEnemies.helpText>
-    
-    <SwitchFlickingDesignation.label>Knapp angivning anger bara</SwitchFlickingDesignation.label>
-    <SwitchFlickingDesignation.helpText>Obs! Detta betyder bara att en kolonist meddelas om att komma och trycka på knappen.\n\nInget kommer att hända förrän en kolonist (med arbetstypen Lyktgubbe) kommer och, för hand, trycker på strömbrytaren.</SwitchFlickingDesignation.helpText>
+
+  <!-- Concepts taught in modal dialogs -->
+
+  <TradeGoodsMustBeNearBeacon.label>Handlesvaror and Handelsfyr</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en HANDELSFYR och placera den nära det förråd som har de föremål du vill sälja.</TradeGoodsMustBeNearBeacon.helpText>
+
+  <ArrestingCreatesEnemies.label>Arrestering förvärrar er relation till fraktionen</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.helpText>Varning! Personen du försöker arrestera kanske inte ger upp frivilligt.\n\nOm du arresterar en icke-kolonist kan hela deras fraktion bli fientligt inställda.</ArrestingCreatesEnemies.helpText>
+
+  <SwitchFlickingDesignation.label>Knapp angivning anger bara</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.helpText>Obs! Detta betyder bara att en kolonist meddelas om att komma och trycka på knappen.\n\nInget kommer att hända förrän en kolonist (med arbetstypen Lyktgubbe) kommer och, för hand, trycker på strömbrytaren.</SwitchFlickingDesignation.helpText>
+
+  <MaxNumberOfPlayerHomes.label>Max antal spelarkolonier</MaxNumberOfPlayerHomes.label>
+  <MaxNumberOfPlayerHomes.helpText>Varning: RimWorld är designat för att spela med en koloni i taget. Även om det är möjligt att ha fler kolonier kommer det troligtvis att orsaka prestandaförsämringar och ojämnheter i spelupplevelsen. Vi rekommenderar att du åtminstone först spelar spelet med en koloni max</MaxNumberOfPlayerHomes.helpText>
+
 
 </LanguageData>

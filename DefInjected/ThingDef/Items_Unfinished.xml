@@ -1,18 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <UnfinishedSculpture.label>ofärdig skulptur</UnfinishedSculpture.label>
-    <UnfinishedGun.label>ofärdig pistol</UnfinishedGun.label>
-    <UnfinishedWeapon.label>ofärdigt vapen</UnfinishedWeapon.label>
-    <UnfinishedTechArmor.label>ofärdig rustning</UnfinishedTechArmor.label>
-    <UnfinishedApparel.label>ofärdiga kläder</UnfinishedApparel.label>
-    <UnfinishedComponent.label>ofrädig komponent</UnfinishedComponent.label>
-    
-	
-	<!-- Minified things -->
-	
-    <MinifiedSculpture.label>skulptur</MinifiedSculpture.label>
-    <MinifiedFurniture.label>möbel</MinifiedFurniture.label>
-    
-	
+
+  <UnfinishedSculpture.label>ofärdig skulptur</UnfinishedSculpture.label>
+  <UnfinishedGun.label>ofärdig pistol</UnfinishedGun.label>
+  <UnfinishedWeapon.label>ofärdigt vapen</UnfinishedWeapon.label>
+  <UnfinishedTechArmor.label>ofärdig rustning</UnfinishedTechArmor.label>
+  <UnfinishedMetallicTechArmor.label>ofärdig rustning</UnfinishedMetallicTechArmor.label>
+  <UnfinishedApparel.label>ofärdiga kläder</UnfinishedApparel.label>
+  <UnfinishedBelt.label>ofärdigt bälte</UnfinishedBelt.label>
+  <UnfinishedComponent.label>ofärdig komponent</UnfinishedComponent.label>
+
+
+  <!-- Minified things -->
+
+  <MinifiedSculpture.label>skulptur</MinifiedSculpture.label>
+  <MinifiedFurniture.label>möbel</MinifiedFurniture.label>
+
+
 </LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RandomGeneralGoods.label>almänna varor</RandomGeneralGoods.label>
+  <Apparel.label>kläder</Apparel.label>
+  <Weapons.label>vapen</Weapons.label>
+  <Artifacts.label>artefakter</Artifacts.label>
+  <RawResources.label>råa resurser</RawResources.label>
+  <AIPersonaCores.label>AI peronlighetskärnor</AIPersonaCores.label>
+  <Neurotrainers.label>neurotränare</Neurotrainers.label>
+
+
+</LanguageData>

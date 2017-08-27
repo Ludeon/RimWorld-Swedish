@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
-  
+  <!-- ======================== Non-grouped ========================-->
+
   <ScenPart_PlayerFaction>Din fraktion kommer bli en {0}.</ScenPart_PlayerFaction>
 
   <ScenPart_StartWithPawns>Du startar med {0} personer.</ScenPart_StartWithPawns>
   <RandomPet>slumpat husdjur</RandomPet>
 
   <ScenPart_StartingResearchFinished>Börjar med forskning: {0}</ScenPart_StartingResearchFinished>
-  
+
   <ScenPart_ArriveInDropPods>Anländer i räddningskapsel.</ScenPart_ArriveInDropPods>
 
   <ScenPart_StatFactor>"{0}" kommer bli universiellt multiplicerat med {1}.</ScenPart_StatFactor>
 
 
-  
+  <!-- Pawn modifiers -->
   <ScenPart_PawnsHaveHediff>{0} har en {1} chans att starta med {2}.</ScenPart_PawnsHaveHediff>
   <ConfigurableSeverity>stränghet: {0}</ConfigurableSeverity>
 
@@ -25,17 +25,17 @@
   <ScenPart_PawnsHaveTrait>{0} har en {1} chans att starta med karaktärsdrag: {2}</ScenPart_PawnsHaveTrait>
   <ScenPart_OnPawnDeathExplode>karaktärer och varelser explorerar när dom dör ({0}, radie {1}).</ScenPart_OnPawnDeathExplode>
 
-  
+  <!-- Pawn filters -->
   <ScenPart_StartingPawnAgeMin>Dina personer kommer vara lägst {0} år gamala.</ScenPart_StartingPawnAgeMin>
   <ScenPart_StartingPawnAgeMax>Dina personer kommer att vara högst {0} år gamla.</ScenPart_StartingPawnAgeMax>
   <ScenPart_StartingPawnAgeRange>Dina personer kommer att vara mellan {0} och {1} år gamla.</ScenPart_StartingPawnAgeRange>
 
 
-  
+  <!-- ======================== Grouped ========================-->
 
   <ScenPart_StartWith>Startar med</ScenPart_StartWith>
   <ScenPart_MapScatteredWith>Kartan är strödd med</ScenPart_MapScatteredWith>
-  <ScenPart_PermaMapCondition>Permanent karttillstånd</ScenPart_PermaMapCondition>
+  <ScenPart_PermaGameCondition>Permanenta spelvillkor</ScenPart_PermaGameCondition>
   <ScenPart_DisableIncident>Händelse inaktiverad</ScenPart_DisableIncident>
   <ScenPart_CreateIncident>Händelse skapad</ScenPart_CreateIncident>
   <ScenPart_DisallowBuilding>Kan aldrig bli byggt</ScenPart_DisallowBuilding>

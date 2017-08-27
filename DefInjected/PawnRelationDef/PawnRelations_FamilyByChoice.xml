@@ -1,29 +1,43 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Spouse.label>man</Spouse.label>
-    <Spouse.labelFemale>fru</Spouse.labelFemale>
-    
-    <Fiance.label>fästman</Fiance.label>
-    <Fiance.labelFemale>fästmö</Fiance.labelFemale>
-    
-    <Lover.label>älskare</Lover.label>
-    
-    <Stepparent.label>styvfar</Stepparent.label>
-    <Stepparent.labelFemale>styvmor</Stepparent.labelFemale>
-    
-    <Stepchild.label>styvson</Stepchild.label>
-    <Stepchild.labelFemale>styvdotter</Stepchild.labelFemale>
-    
-    <ParentInLaw.label>svärfar</ParentInLaw.label>
-    <ParentInLaw.labelFemale>svärmor</ParentInLaw.labelFemale>
-    
-    <ChildInLaw.label>svärson</ChildInLaw.label>
-    <ChildInLaw.labelFemale>svärdotter</ChildInLaw.labelFemale>
-    
-    <ExSpouse.label>före detta make</ExSpouse.label>
-    <ExSpouse.labelFemale>före detta fru</ExSpouse.labelFemale>
-    
-    <ExLover.label>före detta älskare</ExLover.label>
-    
+
+  <!-- spouse / lover -->
+
+  <Spouse.label>man</Spouse.label>
+  <Spouse.labelFemale>fru</Spouse.labelFemale>
+
+  <Fiance.label>fästman</Fiance.label>
+  <Fiance.labelFemale>fästmö</Fiance.labelFemale>
+
+  <Lover.label>älskare</Lover.label>
+  <Lover.labelFemale>älskarinna</Lover.labelFemale>
+
+
+  <!-- step family -->
+
+  <Stepparent.label>styvfar</Stepparent.label>
+  <Stepparent.labelFemale>styvmor</Stepparent.labelFemale>
+
+  <Stepchild.label>styvson</Stepchild.label>
+  <Stepchild.labelFemale>styvdotter</Stepchild.labelFemale>
+
+
+  <!-- in-law -->
+
+  <ParentInLaw.label>svärfar</ParentInLaw.label>
+  <ParentInLaw.labelFemale>svärmor</ParentInLaw.labelFemale>
+
+  <ChildInLaw.label>svärson</ChildInLaw.label>
+  <ChildInLaw.labelFemale>svärdotter</ChildInLaw.labelFemale>
+
+
+  <!-- ex-lover / ex-spouse -->
+
+  <ExSpouse.label>före detta make</ExSpouse.label>
+  <ExSpouse.labelFemale>före detta fru</ExSpouse.labelFemale>
+
+  <ExLover.label>före detta älskare</ExLover.label>
+  <ExLover.labelFemale>före detta älskarinna</ExLover.labelFemale>
+
+
 </LanguageData>

@@ -1,28 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- AI persona core -->
-	
-    <AIPersonaCore.label>AI-personkärna</AIPersonaCore.label>
-    <AIPersonaCore.description>En hyperavancerad datorkärna som innehåller en övermänsklig artificiell intelligens. I dess isolerade tillstånd är kärnan inaktiv. Installerad i en ordentlig stödstruktur däremot, kan den bli ett sinne med skrämmande kraft.</AIPersonaCore.description>
-    
-	
-	<!-- Neurotrainer -->
-	
-    <Neurotrainer.label>neurotränare</Neurotrainer.label>
-    <Neurotrainer.description>En engångs nanoträningsenhet. Neurotränaren förs in genom ögonbanan och släpper nanomaskiner in i patientens hjärna som snabbt kan förbättra sina färdigheter inom ett visst område.</Neurotrainer.description>
-    <Neurotrainer.comps.1.useLabel>Använd neurotränare för att lära dig {0}</Neurotrainer.comps.1.useLabel>
-	
-	
-	<!-- Thrumbo horn -->
-	
-    <ThrumboHorn.label>thrumbohorn</ThrumboHorn.label>
-    <ThrumboHorn.description>En thrumbo's horn. Det är knivskarp, mycket hårt och ovärderliga på de flesta marknader. Detta är en sann trofé.</ThrumboHorn.description>
-    
-	
-	<!-- Elephant tusk -->
-	
-    <ElephantTusk.label>elefantbete</ElephantTusk.label>
-    <ElephantTusk.description>En elefantbete. Mycket slitstark och värdefullt. Dödliga men något otymplig som ett vapen.</ElephantTusk.description>
-    
+
+  <!-- AI persona core -->
+
+  <AIPersonaCore.label>AI-personkärna</AIPersonaCore.label>
+  <AIPersonaCore.description>En hyperavancerad datorkärna som innehåller en övermänsklig artificiell intelligens. I dess isolerade tillstånd är kärnan inaktiv. Installerad i en ordentlig stödstruktur däremot, kan den bli ett sinne med skrämmande kraft.</AIPersonaCore.description>
+
+
+  <!-- Neurotrainer -->
+
+  <Neurotrainer.label>neurotränare</Neurotrainer.label>
+  <Neurotrainer.description>En engångs nanoträningsenhet. Neurotränaren förs in genom ögonbanan och släpper nanomaskiner in i patientens hjärna som snabbt kan förbättra sina färdigheter inom ett visst område.</Neurotrainer.description>
+  <Neurotrainer.comps.1.useLabel>Använd neurotränare för att lära dig {0}</Neurotrainer.comps.1.useLabel>
+
+
+  <!-- Thrumbo horn -->
+
+  <ThrumboHorn.label>thrumbohorn</ThrumboHorn.label>
+  <ThrumboHorn.description>En thrumbo's horn. Det är knivskarp, mycket hårt och ovärderliga på de flesta marknader. Detta är en sann trofé.</ThrumboHorn.description>
+
+
+  <!-- Elephant tusk -->
+
+  <ElephantTusk.label>elefantbete</ElephantTusk.label>
+  <ElephantTusk.description>En elefantbete. Mycket slitstark och värdefullt. Dödliga men något otymplig som ett vapen.</ElephantTusk.description>
+
+
 </LanguageData>

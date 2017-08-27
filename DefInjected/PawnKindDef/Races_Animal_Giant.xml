@@ -1,29 +1,80 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Elephant.label>elefant</Elephant.label>
-    <Elephant.lifeStages.0.labelMale>elefantkalv</Elephant.lifeStages.0.labelMale>
-    <Elephant.lifeStages.0.labelFemale>elefantkalv</Elephant.lifeStages.0.labelFemale>
-    <Elephant.lifeStages.1.labelMale>elefant</Elephant.lifeStages.1.labelMale>
-    <Elephant.lifeStages.1.labelFemale>elefant</Elephant.lifeStages.1.labelFemale>
-    <Elephant.lifeStages.2.labelMale>elefanttjur</Elephant.lifeStages.2.labelMale>
-    <Elephant.lifeStages.2.labelFemale>elefantko</Elephant.lifeStages.2.labelFemale>
-    
-    <Megasloth.label>Jättesengångare</Megasloth.label>
-    <Megasloth.lifeStages.0.labelMale>Jättesengångare</Megasloth.lifeStages.0.labelMale>
-    <Megasloth.lifeStages.0.labelFemale>Jättesengångare</Megasloth.lifeStages.0.labelFemale>
-    <Megasloth.lifeStages.1.labelMale>Jättesengångare</Megasloth.lifeStages.1.labelMale>
-    <Megasloth.lifeStages.1.labelFemale>Jättesengångare</Megasloth.lifeStages.1.labelFemale>
-    <Megasloth.lifeStages.2.labelMale>Jättesengångare</Megasloth.lifeStages.2.labelMale>
-    <Megasloth.lifeStages.2.labelFemale>Jättesengångare</Megasloth.lifeStages.2.labelFemale>
-    
-    <Thrumbo.label>thrumbo</Thrumbo.label>
-    <Thrumbo.lifeStages.0.label>thrumbokalv</Thrumbo.lifeStages.0.label>
-    <Thrumbo.lifeStages.0.labelMale>thrumbokalv</Thrumbo.lifeStages.0.labelMale>
-    <Thrumbo.lifeStages.1.labelMale>thrumbo</Thrumbo.lifeStages.1.labelMale>
-    <Thrumbo.lifeStages.1.labelFemale>thrumbo</Thrumbo.lifeStages.1.labelFemale>
-    <Thrumbo.lifeStages.2.labelMale>thrumbotjur</Thrumbo.lifeStages.2.labelMale>
-    <Thrumbo.lifeStages.2.labelFemale>thrumboko</Thrumbo.lifeStages.2.labelFemale>
-  
-  
+
+  <Elephant.label>elefant</Elephant.label>
+  <Elephant.labelPlural>elefanter</Elephant.labelPlural>
+  <Elephant.lifeStages.0.label>elefantkalv</Elephant.lifeStages.0.label>
+  <Elephant.lifeStages.0.labelPlural>elefantkalvar</Elephant.lifeStages.0.labelPlural>
+  <Elephant.lifeStages.0.labelMale>elefantkalv</Elephant.lifeStages.0.labelMale>
+  <Elephant.lifeStages.0.labelMalePlural>elefantkalvar</Elephant.lifeStages.0.labelMalePlural>
+  <Elephant.lifeStages.0.labelFemale>elefantkalv</Elephant.lifeStages.0.labelFemale>
+  <Elephant.lifeStages.0.labelFemalePlural>elefantkalvar</Elephant.lifeStages.0.labelFemalePlural>
+  <Elephant.lifeStages.1.label>elefant</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.1.labelPlural>elefanter</Elephant.lifeStages.1.labelPlural>
+  <Elephant.lifeStages.1.labelMale>elefantungtjur</Elephant.lifeStages.1.labelMale>
+  <Elephant.lifeStages.1.labelMalePlural>elefantungtjurar</Elephant.lifeStages.1.labelMalePlural>
+  <Elephant.lifeStages.1.labelFemale>elefantungkviga</Elephant.lifeStages.1.labelFemale>
+  <Elephant.lifeStages.1.labelFemalePlural>elefantungkvigor</Elephant.lifeStages.1.labelFemalePlural>
+  <Elephant.lifeStages.2.label>elefant</Elephant.lifeStages.2.label>
+  <Elephant.lifeStages.2.labelPlural>elefanter</Elephant.lifeStages.2.labelPlural>
+  <Elephant.lifeStages.2.labelMale>elefanttjur</Elephant.lifeStages.2.labelMale>
+  <Elephant.lifeStages.2.labelMalePlural>elefanttjurar</Elephant.lifeStages.2.labelMalePlural>
+  <Elephant.lifeStages.2.labelFemale>elefantkviga</Elephant.lifeStages.2.labelFemale>
+  <Elephant.lifeStages.2.labelFemalePlural>elefantkvigor</Elephant.lifeStages.2.labelFemalePlural>
+  <Elephant.labelMale>elefanttjur</Elephant.labelMale>
+  <Elephant.labelMalePlural>elefanttjurar</Elephant.labelMalePlural>
+  <Elephant.labelFemale>elefantko</Elephant.labelFemale>
+  <Elephant.labelFemalePlural>elefantkor</Elephant.labelFemalePlural>
+
+  <Megasloth.label>jättesengångare</Megasloth.label>
+  <Megasloth.labelPlural>jättesengångare</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>jättesengångarunge</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.0.labelPlural>jättesengångarungar</Megasloth.lifeStages.0.labelPlural>
+  <Megasloth.lifeStages.0.labelMale>jättesengångarunge</Megasloth.lifeStages.0.labelMale>
+  <Megasloth.lifeStages.0.labelMalePlural>jättesengångarungar</Megasloth.lifeStages.0.labelMalePlural>
+  <Megasloth.lifeStages.0.labelFemale>jättesengångarunge</Megasloth.lifeStages.0.labelFemale>
+  <Megasloth.lifeStages.0.labelFemalePlural>jättesengångarungar</Megasloth.lifeStages.0.labelFemalePlural>
+  <Megasloth.lifeStages.1.label>jättesengångare</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.1.labelPlural>jättesengångare</Megasloth.lifeStages.1.labelPlural>
+  <Megasloth.lifeStages.1.labelMale>jättesengångarhane</Megasloth.lifeStages.1.labelMale>
+  <Megasloth.lifeStages.1.labelMalePlural>jättesengångarhanar</Megasloth.lifeStages.1.labelMalePlural>
+  <Megasloth.lifeStages.1.labelFemale>jättesengångarhona</Megasloth.lifeStages.1.labelFemale>
+  <Megasloth.lifeStages.1.labelFemalePlural>jättesengångarhonor</Megasloth.lifeStages.1.labelFemalePlural>
+  <Megasloth.lifeStages.2.label>jättesengångare</Megasloth.lifeStages.2.label>
+  <Megasloth.lifeStages.2.labelPlural>jättesengångare</Megasloth.lifeStages.2.labelPlural>
+  <Megasloth.lifeStages.2.labelMale>jättesengångarhane</Megasloth.lifeStages.2.labelMale>
+  <Megasloth.lifeStages.2.labelMalePlural>jättesengångarhanar</Megasloth.lifeStages.2.labelMalePlural>
+  <Megasloth.lifeStages.2.labelFemale>jättesengångarhona</Megasloth.lifeStages.2.labelFemale>
+  <Megasloth.lifeStages.2.labelFemalePlural>jättesengångarhonor</Megasloth.lifeStages.2.labelFemalePlural>
+  <Megasloth.labelMale>jättesengångarhane</Megasloth.labelMale>
+  <Megasloth.labelMalePlural>jättesengångarhanar</Megasloth.labelMalePlural>
+  <Megasloth.labelFemale>jättesengångarhona</Megasloth.labelFemale>
+  <Megasloth.labelFemalePlural>jättesengångarhonor</Megasloth.labelFemalePlural>
+
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.labelPlural>thrumbos</Thrumbo.labelPlural>
+  <Thrumbo.lifeStages.0.label>thrumbokalv</Thrumbo.lifeStages.0.label>
+  <Thrumbo.lifeStages.0.labelPlural>thrumbokalvar</Thrumbo.lifeStages.0.labelPlural>
+  <Thrumbo.lifeStages.0.labelMale>thrumbokalv</Thrumbo.lifeStages.0.labelMale>
+  <Thrumbo.lifeStages.0.labelMalePlural>thrumbokalvar</Thrumbo.lifeStages.0.labelMalePlural>
+  <Thrumbo.lifeStages.0.labelFemale>thrumbokalv</Thrumbo.lifeStages.0.labelFemale>
+  <Thrumbo.lifeStages.0.labelFemalePlural>thrumbokalvar</Thrumbo.lifeStages.0.labelFemalePlural>
+  <Thrumbo.lifeStages.1.label>thrumbounge</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.1.labelPlural>thrumboungar</Thrumbo.lifeStages.1.labelPlural>
+  <Thrumbo.lifeStages.1.labelMale>thrumbounge</Thrumbo.lifeStages.1.labelMale>
+  <Thrumbo.lifeStages.1.labelMalePlural>thrumboungar</Thrumbo.lifeStages.1.labelMalePlural>
+  <Thrumbo.lifeStages.1.labelFemale>thrumbounge</Thrumbo.lifeStages.1.labelFemale>
+  <Thrumbo.lifeStages.1.labelFemalePlural>thrumboungar</Thrumbo.lifeStages.1.labelFemalePlural>
+  <Thrumbo.lifeStages.2.label>thrumbo</Thrumbo.lifeStages.2.label>
+  <Thrumbo.lifeStages.2.labelPlural>thrumbos</Thrumbo.lifeStages.2.labelPlural>
+  <Thrumbo.lifeStages.2.labelMale>thrumbotjur</Thrumbo.lifeStages.2.labelMale>
+  <Thrumbo.lifeStages.2.labelMalePlural>thrumbotjurar</Thrumbo.lifeStages.2.labelMalePlural>
+  <Thrumbo.lifeStages.2.labelFemale>thrumbokviga</Thrumbo.lifeStages.2.labelFemale>
+  <Thrumbo.lifeStages.2.labelFemalePlural>thrumbokvigor</Thrumbo.lifeStages.2.labelFemalePlural>
+  <Thrumbo.labelMale>thrumbotjur</Thrumbo.labelMale>
+  <Thrumbo.labelMalePlural>thrumbotjurar</Thrumbo.labelMalePlural>
+  <Thrumbo.labelFemale>thrumboko</Thrumbo.labelFemale>
+  <Thrumbo.labelFemalePlural>thrumbokor</Thrumbo.labelFemalePlural>
+
+
 </LanguageData>

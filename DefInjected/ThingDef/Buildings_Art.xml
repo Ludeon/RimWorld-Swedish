@@ -1,21 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Sculptures -->
 
-    <!-- Sculptures -->
-    
-    <SculptureSmall.label>liten skulptur</SculptureSmall.label>
-    <SculptureSmall.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en byst.</SculptureSmall.description>
-    
-    <SculptureLarge.label>stor skulptur</SculptureLarge.label>
-    <SculptureLarge.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en människa.</SculptureLarge.description>
-    
-    <SculptureGrand.label>enorm skulptur</SculptureGrand.label>
-    <SculptureGrand.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en medelstor bil.</SculptureGrand.description>
-    
-	<!-- Snowman -->
-	
-    <Snowman.label>snögubbe</Snowman.label>
-    <Snowman.description>Ett uttryck för allts förgänglighet i en förnimbar mänsklig skepnad, skapad av snö.</Snowman.description>
-    
+  <SculptureSmall.label>liten skulptur</SculptureSmall.label>
+  <SculptureSmall.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en byst.</SculptureSmall.description>
+  <SculptureSmall_Blueprint_Install.label>liten skulptur (ritning)</SculptureSmall_Blueprint_Install.label>
+
+  <SculptureLarge.label>stor skulptur</SculptureLarge.label>
+  <SculptureLarge.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en människa.</SculptureLarge.description>
+  <SculptureLarge_Blueprint_Install.label>stor skulptur (ritning)</SculptureLarge_Blueprint_Install.label>
+
+  <SculptureGrand.label>enorm skulptur</SculptureGrand.label>
+  <SculptureGrand.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en medelstor bil.</SculptureGrand.description>
+  <SculptureGrand_Blueprint_Install.label>enorm skulptur (ritning)</SculptureGrand_Blueprint_Install.label>
+
+
+  <!-- Snowman -->
+
+  <Snowman.label>snögubbe</Snowman.label>
+  <Snowman.description>Ett uttryck för allts förgänglighet i en förnimbar mänsklig skepnad, skapad av snö.</Snowman.description>
+
+
 </LanguageData>

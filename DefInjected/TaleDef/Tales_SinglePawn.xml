@@ -1,253 +1,254 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <LandedInPod.label>lander i en kapsen</LandedInPod.label>
-    <LandedInPod.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s landar i en räddningskapsel</LandedInPod.rulePack.rulesStrings.0>
-    <LandedInPod.rulePack.rulesStrings.1>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.1>
-    <LandedInPod.rulePack.rulesStrings.2>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.2>
-    <LandedInPod.rulePack.rulesStrings.3>image->[pawn_nameFull] träffar land med en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.3>
-    <LandedInPod.rulePack.rulesStrings.4>image->[pawn_nameFull] färdas i en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.4>
-    <LandedInPod.rulePack.rulesStrings.5>circumstance_phrase->framför en [terrainfeature]</LandedInPod.rulePack.rulesStrings.5>
-    <LandedInPod.rulePack.rulesStrings.6>circumstance_phrase->med enorm kraft</LandedInPod.rulePack.rulesStrings.6>
-    <LandedInPod.rulePack.rulesStrings.7>circumstance_phrase->i en plym av damm och stenar</LandedInPod.rulePack.rulesStrings.7>
-    <LandedInPod.rulePack.rulesStrings.8>circumstance_phrase->med retro-raketer skjuter dramatiskt</LandedInPod.rulePack.rulesStrings.8>
-    <LandedInPod.rulePack.rulesStrings.9>circumstance_phrase->i en precisionslandning</LandedInPod.rulePack.rulesStrings.9>
-    <LandedInPod.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] koncentrerar sig intensivt på kontrollerna.</LandedInPod.rulePack.rulesStrings.10>
-    <LandedInPod.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] har [pawn_possessive] ögona stängda och ser rädd ut.</LandedInPod.rulePack.rulesStrings.11>
-    <LandedInPod.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] är medvetslös, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</LandedInPod.rulePack.rulesStrings.12>
-    <LandedInPod.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] ler med bister glädje.</LandedInPod.rulePack.rulesStrings.13>
-    <LandedInPod.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] verkat inte ha en ide vad [pawn_pronoun] gör.</LandedInPod.rulePack.rulesStrings.14>
-    <LandedInPod.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] är inspännd med [pawn_possessive] ögona stängda, totalt hjälplös.</LandedInPod.rulePack.rulesStrings.15>
-    <LandedInPod.rulePack.rulesStrings.16>desc_sentence->En flamma slickar baksidan av kapseln.</LandedInPod.rulePack.rulesStrings.16>
-    <LandedInPod.rulePack.rulesStrings.17>desc_sentence->En närliggande [animal] ser upp, förskräckt.</LandedInPod.rulePack.rulesStrings.17>
-    <LandedInPod.rulePack.rulesStrings.18>desc_sentence->En [animal] flyr anslagsplatsen i förskräckelse.</LandedInPod.rulePack.rulesStrings.18>
-    <LandedInPod.rulePack.rulesStrings.19>desc_sentence->Det är en [terrainfeature] i bakgrunden.</LandedInPod.rulePack.rulesStrings.19>
-    <LandedInPod.rulePack.rulesStrings.20>desc_sentence->En [outlander] tittar tyst i fjärran.</LandedInPod.rulePack.rulesStrings.20>
-    
-    <Vomited.label>kräks</Vomited.label>
-    <Vomited.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s kräks</Vomited.rulePack.rulesStrings.0>
-    <Vomited.rulePack.rulesStrings.1>image->[pawn_nameFull] sprayar spya över marken [circumstance_group]</Vomited.rulePack.rulesStrings.1>
-    <Vomited.rulePack.rulesStrings.2>image->[pawn_nameFull] ser äcklad ut täckt med torkad spya [circumstance_group]</Vomited.rulePack.rulesStrings.2>
-    <Vomited.rulePack.rulesStrings.3>image->[pawn_nameFull] fördubblats under kväljningar på golvet [circumstance_group]</Vomited.rulePack.rulesStrings.3>
-    <Vomited.rulePack.rulesStrings.4>image->[pawn_nameFull] på [pawn_possessive] knäar och skyp på golvet [circumstance_group]</Vomited.rulePack.rulesStrings.4>
-    <Vomited.rulePack.rulesStrings.5>circumstance_phrase->när smärtan sprider sig i kroppen</Vomited.rulePack.rulesStrings.5>
-    <Vomited.rulePack.rulesStrings.6>circumstance_phrase->med enorm skam</Vomited.rulePack.rulesStrings.6>
-    <Vomited.rulePack.rulesStrings.7>circumstance_phrase->när andra ser på</Vomited.rulePack.rulesStrings.7>
-    <Vomited.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] verkar helt omedveten om vad som pågår [pawn_objective].</Vomited.rulePack.rulesStrings.8>
-    <Vomited.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] ansiktet verkar vara svullet.</Vomited.rulePack.rulesStrings.9>
-    <Vomited.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] är nära medveslöshet, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</Vomited.rulePack.rulesStrings.10>
-    <Vomited.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] har våldsamma kramper.</Vomited.rulePack.rulesStrings.11>
-    <Vomited.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] ser skamsen ut.</Vomited.rulePack.rulesStrings.12>
-    <Vomited.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] verkar att försöka skratta, trots omständigheterna.</Vomited.rulePack.rulesStrings.13>
-    <Vomited.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] ser nästan tömd, som tack vare det intensiva kräkandet.</Vomited.rulePack.rulesStrings.14>
-    <Vomited.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] är omgiven av en konstnärligt utförda gloria av smuts.</Vomited.rulePack.rulesStrings.15>
-    <Vomited.rulePack.rulesStrings.16>desc_sentence->En [animal] äter från rännilen av spya i bakgrunden.</Vomited.rulePack.rulesStrings.16>
-    
-    <Drunk.label>fylla</Drunk.label>
-    <Drunk.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s extreme drunkenness</Drunk.rulePack.rulesStrings.0>
-    <Drunk.rulePack.rulesStrings.1>image->[pawn_nameFull] staggering around drunk [circumstance_group]</Drunk.rulePack.rulesStrings.1>
-    <Drunk.rulePack.rulesStrings.2>image->[pawn_nameFull] tilting [pawn_possessive] head back and guzzling liquor [circumstance_group]</Drunk.rulePack.rulesStrings.2>
-    <Drunk.rulePack.rulesStrings.3>image->[pawn_nameFull] greedily collecting bottles of liquor [circumstance_group]</Drunk.rulePack.rulesStrings.3>
-    <Drunk.rulePack.rulesStrings.4>image->[pawn_nameFull] drinking heavily [circumstance_group]</Drunk.rulePack.rulesStrings.4>
-    <Drunk.rulePack.rulesStrings.5>circumstance_phrase->oblivious to [pawn_possessive] surroundings</Drunk.rulePack.rulesStrings.5>
-    <Drunk.rulePack.rulesStrings.6>circumstance_phrase->in a brooding stupor</Drunk.rulePack.rulesStrings.6>
-    <Drunk.rulePack.rulesStrings.7>circumstance_phrase->while questioning [pawn_possessive] own existence</Drunk.rulePack.rulesStrings.7>
-    <Drunk.rulePack.rulesStrings.8>circumstance_phrase->with tears in [pawn_possessive] eyes</Drunk.rulePack.rulesStrings.8>
-    <Drunk.rulePack.rulesStrings.9>circumstance_phrase->while chuckling madly</Drunk.rulePack.rulesStrings.9>
-    <Drunk.rulePack.rulesStrings.10>circumstance_phrase->while sobbing</Drunk.rulePack.rulesStrings.10>
-    <Drunk.rulePack.rulesStrings.11>circumstance_phrase->while looking pathetic</Drunk.rulePack.rulesStrings.11>
-    <Drunk.rulePack.rulesStrings.12>circumstance_phrase->while glaring angrily at people around [pawn_objective]</Drunk.rulePack.rulesStrings.12>
-    <Drunk.rulePack.rulesStrings.13>circumstance_phrase->while leering at someone nearby</Drunk.rulePack.rulesStrings.13>
-    <Drunk.rulePack.rulesStrings.14>circumstance_phrase->while attempting to disrobe</Drunk.rulePack.rulesStrings.14>
-    <Drunk.rulePack.rulesStrings.15>circumstance_phrase->with a finger in [pawn_possessive] mouth</Drunk.rulePack.rulesStrings.15>
-    <Drunk.rulePack.rulesStrings.16>circumstance_phrase->while holding back vomit</Drunk.rulePack.rulesStrings.16>
-    <Drunk.rulePack.rulesStrings.17>circumstance_phrase->without a care in the world</Drunk.rulePack.rulesStrings.17>
-    <Drunk.rulePack.rulesStrings.18>circumstance_phrase->with a lustful glint in [pawn_possessive] eye</Drunk.rulePack.rulesStrings.18>
-    <Drunk.rulePack.rulesStrings.19>circumstance_phrase->while reviewing the ghosts of [pawn_possessive] past</Drunk.rulePack.rulesStrings.19>
-    <Drunk.rulePack.rulesStrings.20>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</Drunk.rulePack.rulesStrings.20>
-    <Drunk.rulePack.rulesStrings.21>desc_sentence->[pawn_possessive] face itself seems to be swelling.</Drunk.rulePack.rulesStrings.21>
-    <Drunk.rulePack.rulesStrings.22>desc_sentence->[pawn_pronoun] is nearly unconscious, [pawn_possessive] tongue lolling out, drool dripping.</Drunk.rulePack.rulesStrings.22>
-    <Drunk.rulePack.rulesStrings.23>desc_sentence->[pawn_pronoun] looks happy and sad at the same time.</Drunk.rulePack.rulesStrings.23>
-    <Drunk.rulePack.rulesStrings.24>desc_sentence->[pawn_pronoun] has stains down [pawn_possessive] front.</Drunk.rulePack.rulesStrings.24>
-    <Drunk.rulePack.rulesStrings.25>desc_sentence->There is a trail of discarded beverage containers behind [pawn_objective].</Drunk.rulePack.rulesStrings.25>
-    <Drunk.rulePack.rulesStrings.26>desc_sentence->There is a white substance on [pawn_possessive] pants.</Drunk.rulePack.rulesStrings.26>
-    <Drunk.rulePack.rulesStrings.27>desc_sentence->[pawn_pronoun] seems to have lost a shoe.</Drunk.rulePack.rulesStrings.27>
-    <Drunk.rulePack.rulesStrings.28>desc_sentence->[pawn_possessive] hair is totally mussed up.</Drunk.rulePack.rulesStrings.28>
-    
-    <WasOnFire.label>on fire</WasOnFire.label>
-    <WasOnFire.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] catching fire</WasOnFire.rulePack.rulesStrings.0>
-    <WasOnFire.rulePack.rulesStrings.1>image->[pawn_nameFull] frantically beating out a fire attached to [pawn_possessive] body [circumstance_group]</WasOnFire.rulePack.rulesStrings.1>
-    <WasOnFire.rulePack.rulesStrings.2>image->[pawn_nameFull] enveloped by flame [circumstance_group]</WasOnFire.rulePack.rulesStrings.2>
-    <WasOnFire.rulePack.rulesStrings.3>image->[pawn_nameFull] kneeling, hands over head, trying to extinguish flames on [pawn_possessive] body [circumstance_group]</WasOnFire.rulePack.rulesStrings.3>
-    <WasOnFire.rulePack.rulesStrings.4>image->[pawn_nameFull] rolling on the floor while burning [circumstance_group]</WasOnFire.rulePack.rulesStrings.4>
-    <WasOnFire.rulePack.rulesStrings.5>circumstance_phrase->while others look on</WasOnFire.rulePack.rulesStrings.5>
-    <WasOnFire.rulePack.rulesStrings.6>circumstance_phrase->while nearly naked</WasOnFire.rulePack.rulesStrings.6>
-    <WasOnFire.rulePack.rulesStrings.7>circumstance_phrase->with focused intent</WasOnFire.rulePack.rulesStrings.7>
-    <WasOnFire.rulePack.rulesStrings.8>desc_sentence->[pawn_possessive] flesh is visibly charring.</WasOnFire.rulePack.rulesStrings.8>
-    <WasOnFire.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] eyes are wide with panic.</WasOnFire.rulePack.rulesStrings.9>
-    <WasOnFire.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] seems to be barely conscious; [pawn_possessive] eyes are lifeless.</WasOnFire.rulePack.rulesStrings.10>
-    <WasOnFire.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] mouth is open as [pawn_pronoun] screams for help.</WasOnFire.rulePack.rulesStrings.11>
-    <WasOnFire.rulePack.rulesStrings.12>desc_sentence->The flames are about to envelope his head.</WasOnFire.rulePack.rulesStrings.12>
-    <WasOnFire.rulePack.rulesStrings.13>desc_sentence->A symbolic halo of fire surrounds his face.</WasOnFire.rulePack.rulesStrings.13>
-    <WasOnFire.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] is laughing maniacally.</WasOnFire.rulePack.rulesStrings.14>
-    <WasOnFire.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] seems to be losing [pawn_objective]self.</WasOnFire.rulePack.rulesStrings.15>
-    <WasOnFire.rulePack.rulesStrings.16>desc_sentence->A plume of smoke is rising off [pawn_objective].</WasOnFire.rulePack.rulesStrings.16>
-    <WasOnFire.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] is rendered artistically in a corpse-like way.</WasOnFire.rulePack.rulesStrings.17>
-    
-    <MentalStateBerserk.label>berserk rage</MentalStateBerserk.label>
-    <MentalStateBerserk.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] going berserk</MentalStateBerserk.rulePack.rulesStrings.0>
-    <MentalStateBerserk.rulePack.rulesStrings.1>image->[pawn_nameFull] flying into a berserk rage [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.1>
-    <MentalStateBerserk.rulePack.rulesStrings.2>image->[pawn_nameFull] becoming madly, violently insane [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.2>
-    <MentalStateBerserk.rulePack.rulesStrings.3>image->[pawn_nameFull] stumbling forward with a psychotic look on [pawn_possessive] face [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.3>
-    <MentalStateBerserk.rulePack.rulesStrings.4>circumstance_phrase->while attempting to disrobe</MentalStateBerserk.rulePack.rulesStrings.4>
-    <MentalStateBerserk.rulePack.rulesStrings.5>circumstance_phrase->seemingly without reason</MentalStateBerserk.rulePack.rulesStrings.5>
-    <MentalStateBerserk.rulePack.rulesStrings.6>circumstance_phrase->as others cower in fear</MentalStateBerserk.rulePack.rulesStrings.6>
-    <MentalStateBerserk.rulePack.rulesStrings.7>circumstance_phrase->as a friend flees</MentalStateBerserk.rulePack.rulesStrings.7>
-    <MentalStateBerserk.rulePack.rulesStrings.8>circumstance_phrase->because of the stress</MentalStateBerserk.rulePack.rulesStrings.8>
-    <MentalStateBerserk.rulePack.rulesStrings.9>circumstance_phrase->as a last step</MentalStateBerserk.rulePack.rulesStrings.9>
-    <MentalStateBerserk.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] is shaking with ungovernable rage.</MentalStateBerserk.rulePack.rulesStrings.10>
-    <MentalStateBerserk.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] teeth are bared in a deadly snarl.</MentalStateBerserk.rulePack.rulesStrings.11>
-    <MentalStateBerserk.rulePack.rulesStrings.12>desc_sentence->[pawn_possessive] eyes are dead pools of madness.</MentalStateBerserk.rulePack.rulesStrings.12>
-    <MentalStateBerserk.rulePack.rulesStrings.13>desc_sentence->Spittle is flying from [pawn_possessive] mouth as [pawn_possessive] screams with insane rage.</MentalStateBerserk.rulePack.rulesStrings.13>
-    <MentalStateBerserk.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] has lost part of [pawn_possessive] clothing.</MentalStateBerserk.rulePack.rulesStrings.14>
-    <MentalStateBerserk.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] is grimacing in misery.</MentalStateBerserk.rulePack.rulesStrings.15>
-    <MentalStateBerserk.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] seems smiling maniacally.</MentalStateBerserk.rulePack.rulesStrings.16>
-    <MentalStateBerserk.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] is depicted with the snarling face of a [animal].</MentalStateBerserk.rulePack.rulesStrings.17>
-    <MentalStateBerserk.rulePack.rulesStrings.18>desc_sentence->[animal]s symbolically surround [pawn_possessive] head.</MentalStateBerserk.rulePack.rulesStrings.18>
-    <MentalStateBerserk.rulePack.rulesStrings.19>desc_sentence->[pawn_pronoun] has a murderous glint in [pawn_possessive] eye.</MentalStateBerserk.rulePack.rulesStrings.19>
-    <MentalStateBerserk.rulePack.rulesStrings.20>desc_sentence->[pawn_possessive] entire body seems to be trembling with hatred.</MentalStateBerserk.rulePack.rulesStrings.20>
-    <MentalStateBerserk.rulePack.rulesStrings.21>desc_sentence->[pawn_possessive] face is set in a look of twisted serenity.</MentalStateBerserk.rulePack.rulesStrings.21>
-    <MentalStateBerserk.rulePack.rulesStrings.22>desc_sentence->A single tear rolls down [pawn_possessive] face.</MentalStateBerserk.rulePack.rulesStrings.22>
-    
-    <MentalStateGaveUp.label>gave up</MentalStateGaveUp.label>
-    <MentalStateGaveUp.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] giving up in despair</MentalStateGaveUp.rulePack.rulesStrings.0>
-    <MentalStateGaveUp.rulePack.rulesStrings.1>image->[pawn_nameFull] finally giving up under stress [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.1>
-    <MentalStateGaveUp.rulePack.rulesStrings.2>image->[pawn_nameFull] sobbing uncontrollably [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.2>
-    <MentalStateGaveUp.rulePack.rulesStrings.3>image->[pawn_nameFull] stumbling around with a completely broken expression on [pawn_possessive] face [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.3>
-    <MentalStateGaveUp.rulePack.rulesStrings.4>circumstance_phrase->while attempting to disrobe</MentalStateGaveUp.rulePack.rulesStrings.4>
-    <MentalStateGaveUp.rulePack.rulesStrings.5>circumstance_phrase->seemingly without reason</MentalStateGaveUp.rulePack.rulesStrings.5>
-    <MentalStateGaveUp.rulePack.rulesStrings.6>circumstance_phrase->as others offer sympathy</MentalStateGaveUp.rulePack.rulesStrings.6>
-    <MentalStateGaveUp.rulePack.rulesStrings.7>circumstance_phrase->as a friend cries</MentalStateGaveUp.rulePack.rulesStrings.7>
-    <MentalStateGaveUp.rulePack.rulesStrings.8>circumstance_phrase->because of the stress</MentalStateGaveUp.rulePack.rulesStrings.8>
-    <MentalStateGaveUp.rulePack.rulesStrings.9>circumstance_phrase->as a last step</MentalStateGaveUp.rulePack.rulesStrings.9>
-    <MentalStateGaveUp.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] has tears streaming down [pawn_possessive] face.</MentalStateGaveUp.rulePack.rulesStrings.10>
-    <MentalStateGaveUp.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is laughing in the depths of [pawn_possessive] depression.</MentalStateGaveUp.rulePack.rulesStrings.11>
-    <MentalStateGaveUp.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] is looking upward, as if to ask for help from above.</MentalStateGaveUp.rulePack.rulesStrings.12>
-    <MentalStateGaveUp.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] is tearing at [pawn_possessive] own clothes.</MentalStateGaveUp.rulePack.rulesStrings.13>
-    <MentalStateGaveUp.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</MentalStateGaveUp.rulePack.rulesStrings.14>
-    <MentalStateGaveUp.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] looks happy and sad at the same time.</MentalStateGaveUp.rulePack.rulesStrings.15>
-    <MentalStateGaveUp.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] has stains down [pawn_possessive] front.</MentalStateGaveUp.rulePack.rulesStrings.16>
-    <MentalStateGaveUp.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] seems to have lost a shoe.</MentalStateGaveUp.rulePack.rulesStrings.17>
-    <MentalStateGaveUp.rulePack.rulesStrings.18>desc_sentence->[pawn_possessive] hair is totally mussed up.</MentalStateGaveUp.rulePack.rulesStrings.18>
-    
-    <WalkedNaked.label>walked naked</WalkedNaked.label>
-    <WalkedNaked.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] walking around naked</WalkedNaked.rulePack.rulesStrings.0>
-    <WalkedNaked.rulePack.rulesStrings.1>image->[pawn_nameFull] [nude_action] while in a state of nature [circumstance_group]</WalkedNaked.rulePack.rulesStrings.1>
-    <WalkedNaked.rulePack.rulesStrings.2>image->[pawn_nameFull] [nude_action] in the nude [circumstance_group]</WalkedNaked.rulePack.rulesStrings.2>
-    <WalkedNaked.rulePack.rulesStrings.3>image->[pawn_nameFull] [nude_action], naked, [circumstance_group]</WalkedNaked.rulePack.rulesStrings.3>
-    <WalkedNaked.rulePack.rulesStrings.4>image->[pawn_nameFull] [nude_action] without any clothes on [circumstance_group]</WalkedNaked.rulePack.rulesStrings.4>
-    <WalkedNaked.rulePack.rulesStrings.5>nude_action->prancing</WalkedNaked.rulePack.rulesStrings.5>
-    <WalkedNaked.rulePack.rulesStrings.6>nude_action->frolicking</WalkedNaked.rulePack.rulesStrings.6>
-    <WalkedNaked.rulePack.rulesStrings.7>nude_action->gambolling</WalkedNaked.rulePack.rulesStrings.7>
-    <WalkedNaked.rulePack.rulesStrings.8>nude_action->walking</WalkedNaked.rulePack.rulesStrings.8>
-    <WalkedNaked.rulePack.rulesStrings.9>nude_action->strutting [pawn_possessive] stuff</WalkedNaked.rulePack.rulesStrings.9>
-    <WalkedNaked.rulePack.rulesStrings.10>nude_action->sashaying</WalkedNaked.rulePack.rulesStrings.10>
-    <WalkedNaked.rulePack.rulesStrings.11>nude_action->tiptoeing</WalkedNaked.rulePack.rulesStrings.11>
-    <WalkedNaked.rulePack.rulesStrings.12>nude_action->promenading</WalkedNaked.rulePack.rulesStrings.12>
-    <WalkedNaked.rulePack.rulesStrings.13>nude_action->surveying the area</WalkedNaked.rulePack.rulesStrings.13>
-    <WalkedNaked.rulePack.rulesStrings.14>circumstance_phrase->with a sense of purpose</WalkedNaked.rulePack.rulesStrings.14>
-    <WalkedNaked.rulePack.rulesStrings.15>circumstance_phrase->with no hint of shame</WalkedNaked.rulePack.rulesStrings.15>
-    <WalkedNaked.rulePack.rulesStrings.16>circumstance_phrase->while others look on</WalkedNaked.rulePack.rulesStrings.16>
-    <WalkedNaked.rulePack.rulesStrings.17>circumstance_phrase->for no apparent reason</WalkedNaked.rulePack.rulesStrings.17>
-    <WalkedNaked.rulePack.rulesStrings.18>circumstance_phrase->while confused animals look on</WalkedNaked.rulePack.rulesStrings.18>
-    <WalkedNaked.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] is visibly aroused.</WalkedNaked.rulePack.rulesStrings.19>
-    <WalkedNaked.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef] is covered in unexplained moisture.</WalkedNaked.rulePack.rulesStrings.20>
-    <WalkedNaked.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] is breathing heavily for no obvious reason.</WalkedNaked.rulePack.rulesStrings.21>
-    <WalkedNaked.rulePack.rulesStrings.22>desc_sentence->[pawn_nameShortDef] is fondling a shrub.</WalkedNaked.rulePack.rulesStrings.22>
-    
-    <AteRawHumanlikeMeat.label>raw humanlike meat eaten</AteRawHumanlikeMeat.label>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s eating of human meat</AteRawHumanlikeMeat.rulePack.rulesStrings.0>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.1>image->[pawn_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.1>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.2>image->[pawn_nameFull] [eat_gerund] meat from a humanlike arm [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.2>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.3>image->[pawn_nameFull] [eat_gerund] flesh of a humanoid [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.3>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.4>eat_gerund->eating</AteRawHumanlikeMeat.rulePack.rulesStrings.4>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.5>eat_gerund->ingesting</AteRawHumanlikeMeat.rulePack.rulesStrings.5>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.6>eat_gerund->chewing</AteRawHumanlikeMeat.rulePack.rulesStrings.6>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.7>eat_gerund->chowing down on</AteRawHumanlikeMeat.rulePack.rulesStrings.7>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.8>eat_gerund->consuming</AteRawHumanlikeMeat.rulePack.rulesStrings.8>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.9>eat_gerund->swallowing</AteRawHumanlikeMeat.rulePack.rulesStrings.9>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.10>eat_gerund->cannibalizing</AteRawHumanlikeMeat.rulePack.rulesStrings.10>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.11>circumstance_phrase->with a sense of purpose</AteRawHumanlikeMeat.rulePack.rulesStrings.11>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.12>circumstance_phrase->with no hint of shame</AteRawHumanlikeMeat.rulePack.rulesStrings.12>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.13>circumstance_phrase->with a look of shame</AteRawHumanlikeMeat.rulePack.rulesStrings.13>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.14>circumstance_phrase->while others look on</AteRawHumanlikeMeat.rulePack.rulesStrings.14>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.15>circumstance_phrase->with gusto</AteRawHumanlikeMeat.rulePack.rulesStrings.15>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.16>circumstance_phrase->frantically, like [pawn_possessive] life depended on it</AteRawHumanlikeMeat.rulePack.rulesStrings.16>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.17>desc_sentence->[pawn_nameShortDef]'s face is covered with blood and fluid.</AteRawHumanlikeMeat.rulePack.rulesStrings.17>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.18>desc_sentence->[pawn_nameShortDef] is licking [pawn_possessive] fingers.</AteRawHumanlikeMeat.rulePack.rulesStrings.18>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] has blood and gore bits all down [pawn_possessive] front.</AteRawHumanlikeMeat.rulePack.rulesStrings.19>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef] is in the middle of a large pool of blood.</AteRawHumanlikeMeat.rulePack.rulesStrings.20>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] is eyeing someone else nearby with dark interest.</AteRawHumanlikeMeat.rulePack.rulesStrings.21>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.22>desc_sentence->The meat is glistening and appears very succulent.</AteRawHumanlikeMeat.rulePack.rulesStrings.22>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.23>desc_sentence->The meat is spilling all over [pawn_nameShortDef]'s body.</AteRawHumanlikeMeat.rulePack.rulesStrings.23>
-    
-    <CraftedArt.label>art crafted</CraftedArt.label>
-    <CraftedArt.rulePack.rulesStrings.0>tale_noun->the time [pawn_nameShortDef] crafted [thing_labelIndefinite]</CraftedArt.rulePack.rulesStrings.0>
-    <CraftedArt.rulePack.rulesStrings.1>image->[pawn_nameFull] crafting [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.1>
-    <CraftedArt.rulePack.rulesStrings.2>image->[pawn_nameFull] completing [pawn_possessive] work on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.2>
-    <CraftedArt.rulePack.rulesStrings.3>image->[pawn_nameFull] working on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.3>
-    <CraftedArt.rulePack.rulesStrings.4>image->[pawn_nameFull] making [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.4>
-    <CraftedArt.rulePack.rulesStrings.5>circumstance_phrase->with total concentration</CraftedArt.rulePack.rulesStrings.5>
-    <CraftedArt.rulePack.rulesStrings.6>circumstance_phrase->with a look of satisfaction on [pawn_possessive] face</CraftedArt.rulePack.rulesStrings.6>
-    <CraftedArt.rulePack.rulesStrings.7>circumstance_phrase->at [pawn_possessive] work bench</CraftedArt.rulePack.rulesStrings.7>
-    <CraftedArt.rulePack.rulesStrings.8>circumstance_phrase->with great intensity</CraftedArt.rulePack.rulesStrings.8>
-    <CraftedArt.rulePack.rulesStrings.9>desc_sentence->There are tools scattered all around.</CraftedArt.rulePack.rulesStrings.9>
-    <CraftedArt.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] is scratched and scarred from work injuries.</CraftedArt.rulePack.rulesStrings.10>
-    <CraftedArt.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] is covered in sweat.</CraftedArt.rulePack.rulesStrings.11>
-    <CraftedArt.rulePack.rulesStrings.12>desc_sentence->The work area is highly organized, with every tool in its proper place.</CraftedArt.rulePack.rulesStrings.12>
-    <CraftedArt.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] is rendered in an exaggerated way to appear more powerful.</CraftedArt.rulePack.rulesStrings.13>
-    <CraftedArt.rulePack.rulesStrings.14>desc_sentence->The size of [thing_labelDefinite] is exaggerated to emphasize its importance.</CraftedArt.rulePack.rulesStrings.14>
-    <CraftedArt.rulePack.rulesStrings.15>desc_sentence->[thing_labelDefinite] has an artistic glow added to it. It seems almost angelic.</CraftedArt.rulePack.rulesStrings.15>
-    <CraftedArt.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDef] is faded into the background to emphasize [pawn_possessive] new creation.</CraftedArt.rulePack.rulesStrings.16>
-    <CraftedArt.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] onlookers surround [pawn_objective].</CraftedArt.rulePack.rulesStrings.17>
-    <CraftedArt.rulePack.rulesStrings.18>desc_sentence->A crowd cheers from the background.</CraftedArt.rulePack.rulesStrings.18>
-    <CraftedArt.rulePack.rulesStrings.19>quality_sentence->[thing_labelDefinite] looks to be of [thing_quality] quality</CraftedArt.rulePack.rulesStrings.19>
-    <CraftedArt.rulePack.rulesStrings.20>quality_sentence->[thing_labelDefinite] is of [thing_quality] quality</CraftedArt.rulePack.rulesStrings.20>
-    <CraftedArt.rulePack.rulesStrings.21>quality_sentence->[pawn_nameShortDef]'s work is of [thing_quality] quality</CraftedArt.rulePack.rulesStrings.21>
-    <CraftedArt.rulePack.rulesStrings.22>title_sentence->[pawn_nameShortDef]'s title for [thing_labelDefinite] is written underneath: [thing_title]</CraftedArt.rulePack.rulesStrings.22>
-    <CraftedArt.rulePack.rulesStrings.23>title_sentence->[thing_labelDefinite] is emblazoned with its title: [thing_title]</CraftedArt.rulePack.rulesStrings.23>
-    <CraftedArt.rulePack.rulesStrings.24>title_sentence->The title of [thing_labelDefinite], [thing_title], hangs in the background</CraftedArt.rulePack.rulesStrings.24>
-    
-    <StruckMineable.label>struck mineable</StruckMineable.label>
-    <StruckMineable.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] striking [thing_label]</StruckMineable.rulePack.rulesStrings.0>
-    <StruckMineable.rulePack.rulesStrings.1>image->[pawn_nameFull] striking [thing_label] [circumstance_group]</StruckMineable.rulePack.rulesStrings.1>
-    <StruckMineable.rulePack.rulesStrings.2>circumstance_phrase->while mining</StruckMineable.rulePack.rulesStrings.2>
-    <StruckMineable.rulePack.rulesStrings.3>circumstance_phrase->while digging</StruckMineable.rulePack.rulesStrings.3>
-    <StruckMineable.rulePack.rulesStrings.4>circumstance_phrase->while tunnelling</StruckMineable.rulePack.rulesStrings.4>
-    <StruckMineable.rulePack.rulesStrings.5>circumstance_phrase->with a look of surprise</StruckMineable.rulePack.rulesStrings.5>
-    <StruckMineable.rulePack.rulesStrings.6>circumstance_phrase->with a satisfied expression</StruckMineable.rulePack.rulesStrings.6>
-    <StruckMineable.rulePack.rulesStrings.7>desc_sentence->[pawn_nameShortDef] is wiping [pawn_possessive] brow.</StruckMineable.rulePack.rulesStrings.7>
-    <StruckMineable.rulePack.rulesStrings.8>desc_sentence->[pawn_nameShortDef] is jumping for joy.</StruckMineable.rulePack.rulesStrings.8>
-    <StruckMineable.rulePack.rulesStrings.9>desc_sentence->[pawn_nameShortDef] is high-fiving a friend.</StruckMineable.rulePack.rulesStrings.9>
-    <StruckMineable.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] is screaming with happiness.</StruckMineable.rulePack.rulesStrings.10>
-    <StruckMineable.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] is laughing uncontrollably.</StruckMineable.rulePack.rulesStrings.11>
-    <StruckMineable.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.</StruckMineable.rulePack.rulesStrings.12>
-    <StruckMineable.rulePack.rulesStrings.13>desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.</StruckMineable.rulePack.rulesStrings.13>
-    
-    <FinishedResearchProject.label>research project finished</FinishedResearchProject.label>
-    <FinishedResearchProject.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] finishing research on [project_label]</FinishedResearchProject.rulePack.rulesStrings.0>
-    <FinishedResearchProject.rulePack.rulesStrings.1>image->[pawn_nameFull] working on [project_label] research project [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.1>
-    <FinishedResearchProject.rulePack.rulesStrings.2>image->[pawn_nameFull] studying the secrets of [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.2>
-    <FinishedResearchProject.rulePack.rulesStrings.3>image->[pawn_nameFull] researching [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.3>
-    <FinishedResearchProject.rulePack.rulesStrings.4>circumstance_phrase->with great intensity</FinishedResearchProject.rulePack.rulesStrings.4>
-    <FinishedResearchProject.rulePack.rulesStrings.5>circumstance_phrase->alone at [pawn_possessive] bench</FinishedResearchProject.rulePack.rulesStrings.5>
-    <FinishedResearchProject.rulePack.rulesStrings.6>circumstance_phrase->while holding papers in [pawn_possessive] hand</FinishedResearchProject.rulePack.rulesStrings.6>
-    <FinishedResearchProject.rulePack.rulesStrings.7>circumstance_phrase->with a look of gleeful fascination</FinishedResearchProject.rulePack.rulesStrings.7>
-    <FinishedResearchProject.rulePack.rulesStrings.8>desc_sentence->[pawn_nameShortDef] is sweating.</FinishedResearchProject.rulePack.rulesStrings.8>
-    <FinishedResearchProject.rulePack.rulesStrings.9>desc_sentence->The work appears to be exceptionally complex.</FinishedResearchProject.rulePack.rulesStrings.9>
-    <FinishedResearchProject.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] is completely surrounded by an array of tools and apparatuses.</FinishedResearchProject.rulePack.rulesStrings.10>
-    <FinishedResearchProject.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] is staring at [pawn_possessive] discovery with a sense of wonder.</FinishedResearchProject.rulePack.rulesStrings.11>
-    
-    <ButcheredHumanlikeCorpse.label>humanlike corpse butchered</ButcheredHumanlikeCorpse.label>
-    
+
+  <LandedInPod.label>lander i en kapsen</LandedInPod.label>
+  <LandedInPod.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s landar i en räddningskapsel</LandedInPod.rulePack.rulesStrings.0>
+  <LandedInPod.rulePack.rulesStrings.1>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.1>
+  <LandedInPod.rulePack.rulesStrings.2>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.2>
+  <LandedInPod.rulePack.rulesStrings.3>image->[pawn_nameFull] träffar land med en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.3>
+  <LandedInPod.rulePack.rulesStrings.4>image->[pawn_nameFull] färdas i en räddningskapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.4>
+  <LandedInPod.rulePack.rulesStrings.5>circumstance_phrase->framför en [terrainfeature]</LandedInPod.rulePack.rulesStrings.5>
+  <LandedInPod.rulePack.rulesStrings.6>circumstance_phrase->med enorm kraft</LandedInPod.rulePack.rulesStrings.6>
+  <LandedInPod.rulePack.rulesStrings.7>circumstance_phrase->i en plym av damm och stenar</LandedInPod.rulePack.rulesStrings.7>
+  <LandedInPod.rulePack.rulesStrings.8>circumstance_phrase->med retro-raketer skjuter dramatiskt</LandedInPod.rulePack.rulesStrings.8>
+  <LandedInPod.rulePack.rulesStrings.9>circumstance_phrase->i en precisionslandning</LandedInPod.rulePack.rulesStrings.9>
+  <LandedInPod.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] koncentrerar sig intensivt på kontrollerna.</LandedInPod.rulePack.rulesStrings.10>
+  <LandedInPod.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] har [pawn_possessive] ögona stängda och ser rädd ut.</LandedInPod.rulePack.rulesStrings.11>
+  <LandedInPod.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] är medvetslös, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</LandedInPod.rulePack.rulesStrings.12>
+  <LandedInPod.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] ler med bister glädje.</LandedInPod.rulePack.rulesStrings.13>
+  <LandedInPod.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] verkat inte ha en ide vad [pawn_pronoun] gör.</LandedInPod.rulePack.rulesStrings.14>
+  <LandedInPod.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] är inspännd med [pawn_possessive] ögona stängda, totalt hjälplös.</LandedInPod.rulePack.rulesStrings.15>
+  <LandedInPod.rulePack.rulesStrings.16>desc_sentence->En flamma slickar baksidan av kapseln.</LandedInPod.rulePack.rulesStrings.16>
+  <LandedInPod.rulePack.rulesStrings.17>desc_sentence->En närliggande [animal] ser upp, förskräckt.</LandedInPod.rulePack.rulesStrings.17>
+  <LandedInPod.rulePack.rulesStrings.18>desc_sentence->En [animal] flyr anslagsplatsen i förskräckelse.</LandedInPod.rulePack.rulesStrings.18>
+  <LandedInPod.rulePack.rulesStrings.19>desc_sentence->Det är en [terrainfeature] i bakgrunden.</LandedInPod.rulePack.rulesStrings.19>
+  <LandedInPod.rulePack.rulesStrings.20>desc_sentence->En [outlander] tittar tyst i fjärran.</LandedInPod.rulePack.rulesStrings.20>
+
+  <Vomited.label>kräks</Vomited.label>
+  <Vomited.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s kräks</Vomited.rulePack.rulesStrings.0>
+  <Vomited.rulePack.rulesStrings.1>image->[pawn_nameFull] sprayar spya över marken [circumstance_group]</Vomited.rulePack.rulesStrings.1>
+  <Vomited.rulePack.rulesStrings.2>image->[pawn_nameFull] ser äcklad ut täckt med torkad spya [circumstance_group]</Vomited.rulePack.rulesStrings.2>
+  <Vomited.rulePack.rulesStrings.3>image->[pawn_nameFull] fördubblats under kväljningar på golvet [circumstance_group]</Vomited.rulePack.rulesStrings.3>
+  <Vomited.rulePack.rulesStrings.4>image->[pawn_nameFull] på [pawn_possessive] knäar och spyr på golvet [circumstance_group]</Vomited.rulePack.rulesStrings.4>
+  <Vomited.rulePack.rulesStrings.5>circumstance_phrase->när smärtan sprider sig i kroppen</Vomited.rulePack.rulesStrings.5>
+  <Vomited.rulePack.rulesStrings.6>circumstance_phrase->med enorm skam</Vomited.rulePack.rulesStrings.6>
+  <Vomited.rulePack.rulesStrings.7>circumstance_phrase->när andra ser på</Vomited.rulePack.rulesStrings.7>
+  <Vomited.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] verkar helt omedveten om vad som pågår [pawn_objective].</Vomited.rulePack.rulesStrings.8>
+  <Vomited.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] ansiktet verkar vara svullet.</Vomited.rulePack.rulesStrings.9>
+  <Vomited.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] är nära medveslöshet, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</Vomited.rulePack.rulesStrings.10>
+  <Vomited.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] har våldsamma kramper.</Vomited.rulePack.rulesStrings.11>
+  <Vomited.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] ser skamsen ut.</Vomited.rulePack.rulesStrings.12>
+  <Vomited.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] verkar att försöka skratta, trots omständigheterna.</Vomited.rulePack.rulesStrings.13>
+  <Vomited.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] ser nästan tömd, som tack vare det intensiva kräkandet.</Vomited.rulePack.rulesStrings.14>
+  <Vomited.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] är omgiven av en konstnärligt utförda gloria av smuts.</Vomited.rulePack.rulesStrings.15>
+  <Vomited.rulePack.rulesStrings.16>desc_sentence->En [animal] äter från rännilen av spya i bakgrunden.</Vomited.rulePack.rulesStrings.16>
+
+  <Drunk.label>fylla</Drunk.label>
+  <Drunk.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s extrem fylla</Drunk.rulePack.rulesStrings.0>
+  <Drunk.rulePack.rulesStrings.1>image->[pawn_nameFull] ragglar omkring full [circumstance_group]</Drunk.rulePack.rulesStrings.1>
+  <Drunk.rulePack.rulesStrings.2>image->[pawn_nameFull] lutar [pawn_possessive] huvudet tillbaka och halsar sprit [circumstance_group]</Drunk.rulePack.rulesStrings.2>
+  <Drunk.rulePack.rulesStrings.3>image->[pawn_nameFull] girigt samlar ihop flaskor av sprit [circumstance_group]</Drunk.rulePack.rulesStrings.3>
+  <Drunk.rulePack.rulesStrings.4>image->[pawn_nameFull] dricker tungt [circumstance_group]</Drunk.rulePack.rulesStrings.4>
+  <Drunk.rulePack.rulesStrings.5>circumstance_phrase->obekymrad av [pawn_possessive] omgivning</Drunk.rulePack.rulesStrings.5>
+  <Drunk.rulePack.rulesStrings.6>circumstance_phrase->i en sur fylla</Drunk.rulePack.rulesStrings.6>
+  <Drunk.rulePack.rulesStrings.7>circumstance_phrase->ifrågasättande [pawn_possessive] egna existens</Drunk.rulePack.rulesStrings.7>
+  <Drunk.rulePack.rulesStrings.8>circumstance_phrase->med tårar i [pawn_possessive] ögon</Drunk.rulePack.rulesStrings.8>
+  <Drunk.rulePack.rulesStrings.9>circumstance_phrase->skrattandes galet</Drunk.rulePack.rulesStrings.9>
+  <Drunk.rulePack.rulesStrings.10>circumstance_phrase->gråtandes</Drunk.rulePack.rulesStrings.10>
+  <Drunk.rulePack.rulesStrings.11>circumstance_phrase->patetiskt</Drunk.rulePack.rulesStrings.11>
+  <Drunk.rulePack.rulesStrings.12>circumstance_phrase->stirrandes arg på folk omkring [pawn_objective]</Drunk.rulePack.rulesStrings.12>
+  <Drunk.rulePack.rulesStrings.13>circumstance_phrase->leende åt någon i närheten</Drunk.rulePack.rulesStrings.13>
+  <Drunk.rulePack.rulesStrings.14>circumstance_phrase->försöker att klä av</Drunk.rulePack.rulesStrings.14>
+  <Drunk.rulePack.rulesStrings.15>circumstance_phrase->med ett finger i [pawn_possessive] mun</Drunk.rulePack.rulesStrings.15>
+  <Drunk.rulePack.rulesStrings.16>circumstance_phrase->hållandes tillbaka spya</Drunk.rulePack.rulesStrings.16>
+  <Drunk.rulePack.rulesStrings.17>circumstance_phrase->utan minsta gnutta omsorg</Drunk.rulePack.rulesStrings.17>
+  <Drunk.rulePack.rulesStrings.18>circumstance_phrase->med ett elakt grin i [pawn_possessive] öga</Drunk.rulePack.rulesStrings.18>
+  <Drunk.rulePack.rulesStrings.19>circumstance_phrase->funderande över [pawn_possessive] förflutna</Drunk.rulePack.rulesStrings.19>
+  <Drunk.rulePack.rulesStrings.20>desc_sentence->[pawn_pronoun] verkar totalt ovetande vad som är runt [pawn_objective].</Drunk.rulePack.rulesStrings.20>
+  <Drunk.rulePack.rulesStrings.21>desc_sentence->[pawn_possessive] ansikte verkade som de svällde.</Drunk.rulePack.rulesStrings.21>
+  <Drunk.rulePack.rulesStrings.22>desc_sentence->[pawn_pronoun] är nästan medvetslös, [pawn_possessive] tunkan utanför munnen, saliv droppande.</Drunk.rulePack.rulesStrings.22>
+  <Drunk.rulePack.rulesStrings.23>desc_sentence->[pawn_pronoun] ser glad och ledsen ut samtidigt.</Drunk.rulePack.rulesStrings.23>
+  <Drunk.rulePack.rulesStrings.24>desc_sentence->[pawn_pronoun] har fläckar nere på [pawn_possessive] kläder.</Drunk.rulePack.rulesStrings.24>
+  <Drunk.rulePack.rulesStrings.25>desc_sentence->Det finns ett spår av kasserade dryckesbehållare bakom [pawn_objective].</Drunk.rulePack.rulesStrings.25>
+  <Drunk.rulePack.rulesStrings.26>desc_sentence->Det finns en vit substans på [pawn_possessive] byxor.</Drunk.rulePack.rulesStrings.26>
+  <Drunk.rulePack.rulesStrings.27>desc_sentence->[pawn_pronoun] verkar ha förlorat sina skor.</Drunk.rulePack.rulesStrings.27>
+  <Drunk.rulePack.rulesStrings.28>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</Drunk.rulePack.rulesStrings.28>
+
+  <WasOnFire.label>brinner</WasOnFire.label>
+  <WasOnFire.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] brinner</WasOnFire.rulePack.rulesStrings.0>
+  <WasOnFire.rulePack.rulesStrings.1>image->[pawn_nameFull] slår frenetiskt ut elden på [pawn_possessive] kropp [circumstance_group]</WasOnFire.rulePack.rulesStrings.1>
+  <WasOnFire.rulePack.rulesStrings.2>image->[pawn_nameFull] är uppsluken helt i eld [circumstance_group]</WasOnFire.rulePack.rulesStrings.2>
+  <WasOnFire.rulePack.rulesStrings.3>image->[pawn_nameFull] knäböjer, händerna över huvudet, försöker desperat släcka flammor på [pawn_possessive] kropp [circumstance_group]</WasOnFire.rulePack.rulesStrings.3>
+  <WasOnFire.rulePack.rulesStrings.4>image->[pawn_nameFull] rullar på golvet brinnandes [circumstance_group]</WasOnFire.rulePack.rulesStrings.4>
+  <WasOnFire.rulePack.rulesStrings.5>circumstance_phrase->medans andra ser på</WasOnFire.rulePack.rulesStrings.5>
+  <WasOnFire.rulePack.rulesStrings.6>circumstance_phrase->nästan naken</WasOnFire.rulePack.rulesStrings.6>
+  <WasOnFire.rulePack.rulesStrings.7>circumstance_phrase->med fokuserad avsikt</WasOnFire.rulePack.rulesStrings.7>
+  <WasOnFire.rulePack.rulesStrings.8>desc_sentence->[pawn_possessive] huden är synbart förkolnad.</WasOnFire.rulePack.rulesStrings.8>
+  <WasOnFire.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] ögonen är uppspärrade av panik.</WasOnFire.rulePack.rulesStrings.9>
+  <WasOnFire.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] verkar knappt vara medveten; [pawn_possessive] ögon är livlösa.</WasOnFire.rulePack.rulesStrings.10>
+  <WasOnFire.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] munnen är öppen och [pawn_pronoun] skriker på hjälp.</WasOnFire.rulePack.rulesStrings.11>
+  <WasOnFire.rulePack.rulesStrings.12>desc_sentence->flammorna håller på att täcka huvudet.</WasOnFire.rulePack.rulesStrings.12>
+  <WasOnFire.rulePack.rulesStrings.13>desc_sentence->En symbolisk halo av eld omger [pawn_possessive] ansikte.</WasOnFire.rulePack.rulesStrings.13>
+  <WasOnFire.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] kacklar maniskt.</WasOnFire.rulePack.rulesStrings.14>
+  <WasOnFire.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] verkar förlora sig själv.</WasOnFire.rulePack.rulesStrings.15>
+  <WasOnFire.rulePack.rulesStrings.16>desc_sentence->En plym av rök stiger ifrån [pawn_objective].</WasOnFire.rulePack.rulesStrings.16>
+  <WasOnFire.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] görs konstnärligt på ett likformigt sätt.</WasOnFire.rulePack.rulesStrings.17>
+
+  <MentalStateBerserk.label>bärsärk ilska</MentalStateBerserk.label>
+  <MentalStateBerserk.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] går bärsärk</MentalStateBerserk.rulePack.rulesStrings.0>
+  <MentalStateBerserk.rulePack.rulesStrings.1>image->[pawn_nameFull] flyger in i bärsärk ilska [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.1>
+  <MentalStateBerserk.rulePack.rulesStrings.2>image->[pawn_nameFull] blir våldsamt galen [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.2>
+  <MentalStateBerserk.rulePack.rulesStrings.3>image->[pawn_nameFull] snubblar omgring med en psykotisk blick i [pawn_possessive] ansikte [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.3>
+  <MentalStateBerserk.rulePack.rulesStrings.4>circumstance_phrase->medans [pawn_pronoun] försöker klä av</MentalStateBerserk.rulePack.rulesStrings.4>
+  <MentalStateBerserk.rulePack.rulesStrings.5>circumstance_phrase->utan uppenbar anledning</MentalStateBerserk.rulePack.rulesStrings.5>
+  <MentalStateBerserk.rulePack.rulesStrings.6>circumstance_phrase->när andra duckar av rädlsla</MentalStateBerserk.rulePack.rulesStrings.6>
+  <MentalStateBerserk.rulePack.rulesStrings.7>circumstance_phrase->när vänner flyr</MentalStateBerserk.rulePack.rulesStrings.7>
+  <MentalStateBerserk.rulePack.rulesStrings.8>circumstance_phrase->tack vare stress</MentalStateBerserk.rulePack.rulesStrings.8>
+  <MentalStateBerserk.rulePack.rulesStrings.9>circumstance_phrase->som ett sista steg</MentalStateBerserk.rulePack.rulesStrings.9>
+  <MentalStateBerserk.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] skakar med okontrollerad vrede.</MentalStateBerserk.rulePack.rulesStrings.10>
+  <MentalStateBerserk.rulePack.rulesStrings.11>desc_sentence->[pawn_possessive] tänkterna är blottade i ett dödligt morrande.</MentalStateBerserk.rulePack.rulesStrings.11>
+  <MentalStateBerserk.rulePack.rulesStrings.12>desc_sentence->[pawn_possessive] ögon är som döda bassänger av galenskap.</MentalStateBerserk.rulePack.rulesStrings.12>
+  <MentalStateBerserk.rulePack.rulesStrings.13>desc_sentence->spott flyger ifrån [pawn_possessive] mun när [pawn_possessive] skriker av galen ilska.</MentalStateBerserk.rulePack.rulesStrings.13>
+  <MentalStateBerserk.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] har förlirat delar av [pawn_possessive] kläder.</MentalStateBerserk.rulePack.rulesStrings.14>
+  <MentalStateBerserk.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] grimaserar i sorg.</MentalStateBerserk.rulePack.rulesStrings.15>
+  <MentalStateBerserk.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] verkar le maniskt.</MentalStateBerserk.rulePack.rulesStrings.16>
+  <MentalStateBerserk.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] är bildat med ett morrande ansikte likt en [animal].</MentalStateBerserk.rulePack.rulesStrings.17>
+  <MentalStateBerserk.rulePack.rulesStrings.18>desc_sentence->[animal] omringa symboliskt [pawn_possessive] huvud.</MentalStateBerserk.rulePack.rulesStrings.18>
+  <MentalStateBerserk.rulePack.rulesStrings.19>desc_sentence->[pawn_pronoun] har en mordisk glimt i [pawn_possessive] öga.</MentalStateBerserk.rulePack.rulesStrings.19>
+  <MentalStateBerserk.rulePack.rulesStrings.20>desc_sentence->[pawn_possessive] hela kropp verkar darra av ilska.</MentalStateBerserk.rulePack.rulesStrings.20>
+  <MentalStateBerserk.rulePack.rulesStrings.21>desc_sentence->[pawn_possessive] ansiktet verkar fast i en blick av vridet lugn.</MentalStateBerserk.rulePack.rulesStrings.21>
+  <MentalStateBerserk.rulePack.rulesStrings.22>desc_sentence->En ensam tår droppar ifrån [pawn_possessive] kind.</MentalStateBerserk.rulePack.rulesStrings.22>
+
+  <MentalStateGaveUp.label>ger upp</MentalStateGaveUp.label>
+  <MentalStateGaveUp.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] se rupp i förtvivlan</MentalStateGaveUp.rulePack.rulesStrings.0>
+  <MentalStateGaveUp.rulePack.rulesStrings.1>image->[pawn_nameFull] ger till slut upp under stress [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.1>
+  <MentalStateGaveUp.rulePack.rulesStrings.2>image->[pawn_nameFull] gråter okontrollerat [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.2>
+  <MentalStateGaveUp.rulePack.rulesStrings.3>image->[pawn_nameFull] snubblar runt med ett fullständigt trasigt uttryck i [pawn_possessive] ansikte [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.3>
+  <MentalStateGaveUp.rulePack.rulesStrings.4>circumstance_phrase->medan [pawn_pronoun] försöker klä av</MentalStateGaveUp.rulePack.rulesStrings.4>
+  <MentalStateGaveUp.rulePack.rulesStrings.5>circumstance_phrase->utan uppenbar anledning</MentalStateGaveUp.rulePack.rulesStrings.5>
+  <MentalStateGaveUp.rulePack.rulesStrings.6>circumstance_phrase->medans andra erbuder sympatier</MentalStateGaveUp.rulePack.rulesStrings.6>
+  <MentalStateGaveUp.rulePack.rulesStrings.7>circumstance_phrase->när en vän gråter</MentalStateGaveUp.rulePack.rulesStrings.7>
+  <MentalStateGaveUp.rulePack.rulesStrings.8>circumstance_phrase->tack vare stressen</MentalStateGaveUp.rulePack.rulesStrings.8>
+  <MentalStateGaveUp.rulePack.rulesStrings.9>circumstance_phrase->som ett sista steg</MentalStateGaveUp.rulePack.rulesStrings.9>
+  <MentalStateGaveUp.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] med tårar flödande från [pawn_possessive] ansikte.</MentalStateGaveUp.rulePack.rulesStrings.10>
+  <MentalStateGaveUp.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] skrattar i djupet av [pawn_possessive] depression.</MentalStateGaveUp.rulePack.rulesStrings.11>
+  <MentalStateGaveUp.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] ser upp, som vänta på hjälp från ovan.</MentalStateGaveUp.rulePack.rulesStrings.12>
+  <MentalStateGaveUp.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] sliter [pawn_possessive] egna kläder.</MentalStateGaveUp.rulePack.rulesStrings.13>
+  <MentalStateGaveUp.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] verkar totalt omedveten om vad som finns runt [pawn_objective].</MentalStateGaveUp.rulePack.rulesStrings.14>
+  <MentalStateGaveUp.rulePack.rulesStrings.15>desc_sentence->[pawn_pronoun] ser både glad och ledsen ut på samma gång.</MentalStateGaveUp.rulePack.rulesStrings.15>
+  <MentalStateGaveUp.rulePack.rulesStrings.16>desc_sentence->[pawn_pronoun] har fläckar nere framtill på [pawn_possessive] kläder.</MentalStateGaveUp.rulePack.rulesStrings.16>
+  <MentalStateGaveUp.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] verkar ha förlorat en sko.</MentalStateGaveUp.rulePack.rulesStrings.17>
+  <MentalStateGaveUp.rulePack.rulesStrings.18>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</MentalStateGaveUp.rulePack.rulesStrings.18>
+
+  <WalkedNaked.label>går naken</WalkedNaked.label>
+  <WalkedNaked.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] går omkring naken</WalkedNaked.rulePack.rulesStrings.0>
+  <WalkedNaked.rulePack.rulesStrings.1>image->[pawn_nameFull] [nude_action] i ett naturligt tillstånd [circumstance_group]</WalkedNaked.rulePack.rulesStrings.1>
+  <WalkedNaked.rulePack.rulesStrings.2>image->[pawn_nameFull] [nude_action] i bara mässingen [circumstance_group]</WalkedNaked.rulePack.rulesStrings.2>
+  <WalkedNaked.rulePack.rulesStrings.3>image->[pawn_nameFull] [nude_action], naken, [circumstance_group]</WalkedNaked.rulePack.rulesStrings.3>
+  <WalkedNaked.rulePack.rulesStrings.4>image->[pawn_nameFull] [nude_action] utan några kläder på [circumstance_group]</WalkedNaked.rulePack.rulesStrings.4>
+  <WalkedNaked.rulePack.rulesStrings.5>nude_action->dansande</WalkedNaked.rulePack.rulesStrings.5>
+  <WalkedNaked.rulePack.rulesStrings.6>nude_action->skuttande</WalkedNaked.rulePack.rulesStrings.6>
+  <WalkedNaked.rulePack.rulesStrings.7>nude_action->skuttande</WalkedNaked.rulePack.rulesStrings.7>
+  <WalkedNaked.rulePack.rulesStrings.8>nude_action->går</WalkedNaked.rulePack.rulesStrings.8>
+  <WalkedNaked.rulePack.rulesStrings.9>nude_action->stolsera [pawn_possessive] saker</WalkedNaked.rulePack.rulesStrings.9>
+  <WalkedNaked.rulePack.rulesStrings.10>nude_action->svassa</WalkedNaked.rulePack.rulesStrings.10>
+  <WalkedNaked.rulePack.rulesStrings.11>nude_action->gå på tå</WalkedNaked.rulePack.rulesStrings.11>
+  <WalkedNaked.rulePack.rulesStrings.12>nude_action->promerea</WalkedNaked.rulePack.rulesStrings.12>
+  <WalkedNaked.rulePack.rulesStrings.13>nude_action->undersöka området</WalkedNaked.rulePack.rulesStrings.13>
+  <WalkedNaked.rulePack.rulesStrings.14>circumstance_phrase->med en känsla av syfte</WalkedNaked.rulePack.rulesStrings.14>
+  <WalkedNaked.rulePack.rulesStrings.15>circumstance_phrase->utan skam</WalkedNaked.rulePack.rulesStrings.15>
+  <WalkedNaked.rulePack.rulesStrings.16>circumstance_phrase->medans andra tittar</WalkedNaked.rulePack.rulesStrings.16>
+  <WalkedNaked.rulePack.rulesStrings.17>circumstance_phrase->utan uppenbar anledning</WalkedNaked.rulePack.rulesStrings.17>
+  <WalkedNaked.rulePack.rulesStrings.18>circumstance_phrase->medan förvirrade djur tittar på</WalkedNaked.rulePack.rulesStrings.18>
+  <WalkedNaked.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] är synligt upphetsad.</WalkedNaked.rulePack.rulesStrings.19>
+  <WalkedNaked.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef] är täckt av oförklarlig fuktighet.</WalkedNaked.rulePack.rulesStrings.20>
+  <WalkedNaked.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] andas tungt utan uppenbar anledning.</WalkedNaked.rulePack.rulesStrings.21>
+  <WalkedNaked.rulePack.rulesStrings.22>desc_sentence->[pawn_nameShortDef] smeker en buske.</WalkedNaked.rulePack.rulesStrings.22>
+
+  <AteRawHumanlikeMeat.label>ätit rå människoliknande kött</AteRawHumanlikeMeat.label>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef]'s ätande av människokött</AteRawHumanlikeMeat.rulePack.rulesStrings.0>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.1>image->[pawn_nameFull] [eat_gerund] köttet från en mänsklig varelse [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.1>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.2>image->[pawn_nameFull] [eat_gerund] köttet från en mänsklig arm [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.2>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.3>image->[pawn_nameFull] [eat_gerund] köttet från en människa[circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.3>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.4>eat_gerund->äter</AteRawHumanlikeMeat.rulePack.rulesStrings.4>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.5>eat_gerund->intar</AteRawHumanlikeMeat.rulePack.rulesStrings.5>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.6>eat_gerund->tuggar</AteRawHumanlikeMeat.rulePack.rulesStrings.6>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.7>eat_gerund->hugger in på</AteRawHumanlikeMeat.rulePack.rulesStrings.7>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.8>eat_gerund->konsumerar</AteRawHumanlikeMeat.rulePack.rulesStrings.8>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.9>eat_gerund->sväljer</AteRawHumanlikeMeat.rulePack.rulesStrings.9>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.10>eat_gerund->kannibaliserar</AteRawHumanlikeMeat.rulePack.rulesStrings.10>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.11>circumstance_phrase->med en känsla av syfte</AteRawHumanlikeMeat.rulePack.rulesStrings.11>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.12>circumstance_phrase->utan skam</AteRawHumanlikeMeat.rulePack.rulesStrings.12>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.13>circumstance_phrase->skamset</AteRawHumanlikeMeat.rulePack.rulesStrings.13>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.14>circumstance_phrase->mednas andra tittar på</AteRawHumanlikeMeat.rulePack.rulesStrings.14>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.15>circumstance_phrase->med välbehag</AteRawHumanlikeMeat.rulePack.rulesStrings.15>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.16>circumstance_phrase->frenetiskt som [pawn_possessive] liv hängde på det</AteRawHumanlikeMeat.rulePack.rulesStrings.16>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.17>desc_sentence->[pawn_nameShortDef]'s ansikte är täckt av blod och vätskor.</AteRawHumanlikeMeat.rulePack.rulesStrings.17>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.18>desc_sentence->[pawn_nameShortDef] slickar på [pawn_possessive] fingrar.</AteRawHumanlikeMeat.rulePack.rulesStrings.18>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.19>desc_sentence->[pawn_nameShortDef] har blod och annan smet över hela [pawn_possessive] front.</AteRawHumanlikeMeat.rulePack.rulesStrings.19>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.20>desc_sentence->[pawn_nameShortDef] är i mitten av en stor blodpöl.</AteRawHumanlikeMeat.rulePack.rulesStrings.20>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.21>desc_sentence->[pawn_nameShortDef] betraktar något i närheten med ett mörkt sinne.</AteRawHumanlikeMeat.rulePack.rulesStrings.21>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.22>desc_sentence->köttet glittrar och verkar väldigt saftigt.</AteRawHumanlikeMeat.rulePack.rulesStrings.22>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings.23>desc_sentence->köttet spiller överallt över [pawn_nameShortDef]'s kropp.</AteRawHumanlikeMeat.rulePack.rulesStrings.23>
+
+  <CraftedArt.label>konst tillverkad</CraftedArt.label>
+  <CraftedArt.rulePack.rulesStrings.0>tale_noun->tillfället [pawn_nameShortDef] tillverkade [thing_labelIndefinite]</CraftedArt.rulePack.rulesStrings.0>
+  <CraftedArt.rulePack.rulesStrings.1>image->[pawn_nameFull] tillverkade [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.1>
+  <CraftedArt.rulePack.rulesStrings.2>image->[pawn_nameFull] färdigställde [pawn_possessive] arbete på [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.2>
+  <CraftedArt.rulePack.rulesStrings.3>image->[pawn_nameFull] arbetar på [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.3>
+  <CraftedArt.rulePack.rulesStrings.4>image->[pawn_nameFull] skapar [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.4>
+  <CraftedArt.rulePack.rulesStrings.5>circumstance_phrase->med total koncentration</CraftedArt.rulePack.rulesStrings.5>
+  <CraftedArt.rulePack.rulesStrings.6>circumstance_phrase->Med ett utryck av tillfredsställelse på [pawn_possessive] ansikte</CraftedArt.rulePack.rulesStrings.6>
+  <CraftedArt.rulePack.rulesStrings.7>circumstance_phrase->vid [pawn_possessive] arbetsbänk</CraftedArt.rulePack.rulesStrings.7>
+  <CraftedArt.rulePack.rulesStrings.8>circumstance_phrase->med stor intensitet</CraftedArt.rulePack.rulesStrings.8>
+  <CraftedArt.rulePack.rulesStrings.9>desc_sentence->Det finns verktyg spridda runt.</CraftedArt.rulePack.rulesStrings.9>
+  <CraftedArt.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] är repad och sårad från arbetsskador.</CraftedArt.rulePack.rulesStrings.10>
+  <CraftedArt.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] är helt täckt i svett.</CraftedArt.rulePack.rulesStrings.11>
+  <CraftedArt.rulePack.rulesStrings.12>desc_sentence->Arbetsområdet är mycket organiserat med varje verktyg på rätt plats.</CraftedArt.rulePack.rulesStrings.12>
+  <CraftedArt.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] görs på ett överdrivet sätt för att verka mer kraftfullt.</CraftedArt.rulePack.rulesStrings.13>
+  <CraftedArt.rulePack.rulesStrings.14>desc_sentence->Storleken på [thing_labelDefinite] är överdriven för att betona dess betydelse.</CraftedArt.rulePack.rulesStrings.14>
+  <CraftedArt.rulePack.rulesStrings.15>desc_sentence->[thing_labelDefinite] Har en tillagd konstnärlig glöd. Den verkar nästan änglalik.</CraftedArt.rulePack.rulesStrings.15>
+  <CraftedArt.rulePack.rulesStrings.16>desc_sentence->[pawn_nameShortDef] är bleknad i bakgrunden för att betona [pawn_possessive] nya kreation.</CraftedArt.rulePack.rulesStrings.16>
+  <CraftedArt.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] åskådare omger [pawn_objective].</CraftedArt.rulePack.rulesStrings.17>
+  <CraftedArt.rulePack.rulesStrings.18>desc_sentence->En publik hejar på i bakgrunden.</CraftedArt.rulePack.rulesStrings.18>
+  <CraftedArt.rulePack.rulesStrings.19>quality_sentence->[thing_labelDefinite] verkara vara av [thing_quality] kvalitet</CraftedArt.rulePack.rulesStrings.19>
+  <CraftedArt.rulePack.rulesStrings.20>quality_sentence->[thing_labelDefinite] är av [thing_quality] kvalitet</CraftedArt.rulePack.rulesStrings.20>
+  <CraftedArt.rulePack.rulesStrings.21>quality_sentence->[pawn_nameShortDef]'s arbete är av [thing_quality] kvalitet</CraftedArt.rulePack.rulesStrings.21>
+  <CraftedArt.rulePack.rulesStrings.22>title_sentence->[pawn_nameShortDef]'s titel av [thing_labelDefinite] är skriven undertill: [thing_title]</CraftedArt.rulePack.rulesStrings.22>
+  <CraftedArt.rulePack.rulesStrings.23>title_sentence->[thing_labelDefinite] är utsmyckad med sin titel: [thing_title]</CraftedArt.rulePack.rulesStrings.23>
+  <CraftedArt.rulePack.rulesStrings.24>title_sentence->Titeln till [thing_labelDefinite], [thing_title], hänger i bakgrunden</CraftedArt.rulePack.rulesStrings.24>
+
+  <StruckMineable.label>hittade mineraler</StruckMineable.label>
+  <StruckMineable.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] hittar [thing_label]</StruckMineable.rulePack.rulesStrings.0>
+  <StruckMineable.rulePack.rulesStrings.1>image->[pawn_nameFull] hittar [thing_label] [circumstance_group]</StruckMineable.rulePack.rulesStrings.1>
+  <StruckMineable.rulePack.rulesStrings.2>circumstance_phrase->gruvandes</StruckMineable.rulePack.rulesStrings.2>
+  <StruckMineable.rulePack.rulesStrings.3>circumstance_phrase->grävandes</StruckMineable.rulePack.rulesStrings.3>
+  <StruckMineable.rulePack.rulesStrings.4>circumstance_phrase->tunnlandes</StruckMineable.rulePack.rulesStrings.4>
+  <StruckMineable.rulePack.rulesStrings.5>circumstance_phrase->med en förvånad min</StruckMineable.rulePack.rulesStrings.5>
+  <StruckMineable.rulePack.rulesStrings.6>circumstance_phrase->med en nöjd min</StruckMineable.rulePack.rulesStrings.6>
+  <StruckMineable.rulePack.rulesStrings.7>desc_sentence->[pawn_nameShortDef] torkar [pawn_possessive] ögonbryn.</StruckMineable.rulePack.rulesStrings.7>
+  <StruckMineable.rulePack.rulesStrings.8>desc_sentence->[pawn_nameShortDef] hoppar av glädje.</StruckMineable.rulePack.rulesStrings.8>
+  <StruckMineable.rulePack.rulesStrings.9>desc_sentence->[pawn_nameShortDef] firar med en vän.</StruckMineable.rulePack.rulesStrings.9>
+  <StruckMineable.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] skriker av glädje.</StruckMineable.rulePack.rulesStrings.10>
+  <StruckMineable.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] skrattar okontrollerat.</StruckMineable.rulePack.rulesStrings.11>
+  <StruckMineable.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</StruckMineable.rulePack.rulesStrings.12>
+  <StruckMineable.rulePack.rulesStrings.13>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</StruckMineable.rulePack.rulesStrings.13>
+
+  <FinishedResearchProject.label>forskningsprojekt klart</FinishedResearchProject.label>
+  <FinishedResearchProject.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] avslutar forskning på [project_label]</FinishedResearchProject.rulePack.rulesStrings.0>
+  <FinishedResearchProject.rulePack.rulesStrings.1>image->[pawn_nameFull] arbetar på [project_label] forskningsprojekt [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.1>
+  <FinishedResearchProject.rulePack.rulesStrings.2>image->[pawn_nameFull] studerar hemligheterna runt [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.2>
+  <FinishedResearchProject.rulePack.rulesStrings.3>image->[pawn_nameFull] forskar [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.3>
+  <FinishedResearchProject.rulePack.rulesStrings.4>circumstance_phrase->med stor intensitet</FinishedResearchProject.rulePack.rulesStrings.4>
+  <FinishedResearchProject.rulePack.rulesStrings.5>circumstance_phrase->ensam vid [pawn_possessive] bänk</FinishedResearchProject.rulePack.rulesStrings.5>
+  <FinishedResearchProject.rulePack.rulesStrings.6>circumstance_phrase->hållandes papper i [pawn_possessive] hand</FinishedResearchProject.rulePack.rulesStrings.6>
+  <FinishedResearchProject.rulePack.rulesStrings.7>circumstance_phrase->med en blick av glad fascination</FinishedResearchProject.rulePack.rulesStrings.7>
+  <FinishedResearchProject.rulePack.rulesStrings.8>desc_sentence->[pawn_nameShortDef] svettas.</FinishedResearchProject.rulePack.rulesStrings.8>
+  <FinishedResearchProject.rulePack.rulesStrings.9>desc_sentence->arbetet verkar exeptionell komplicerat.</FinishedResearchProject.rulePack.rulesStrings.9>
+  <FinishedResearchProject.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] är helt omgiven av en rad verktyg och apparater.</FinishedResearchProject.rulePack.rulesStrings.10>
+  <FinishedResearchProject.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] stirrar på [pawn_possessive] upptäckt med en känsla av underverk.</FinishedResearchProject.rulePack.rulesStrings.11>
+
+  <ButcheredHumanlikeCorpse.label>människolik kropp slaktad</ButcheredHumanlikeCorpse.label>
+
+
 </LanguageData>

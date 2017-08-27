@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <PlantRose.label>ros</PlantRose.label>
-    <PlantRose.description>En vacker odlad blomma, en symbol för kärlek och romantik sedan urminnes tider.</PlantRose.description>
-    
-    <PlantDaylily.label>daglilja</PlantDaylily.label>
-    <PlantDaylily.description>En vacker odlad blomma - perfekt för att piggar upp en dyster utegård. Måste omplanteras ofta.</PlantDaylily.description>
-    
-	
+
+  <PlantRose.label>ros</PlantRose.label>
+  <PlantRose.description>En vacker odlad blomma, en symbol för kärlek och romantik sedan urminnes tider.</PlantRose.description>
+
+  <PlantDaylily.label>daglilja</PlantDaylily.label>
+  <PlantDaylily.description>En vacker odlad blomma - perfekt för att piggar upp en dyster utegård. Måste omplanteras ofta.</PlantDaylily.description>
+
+
 </LanguageData>

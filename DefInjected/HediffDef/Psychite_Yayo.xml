@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
+
   <YayoHigh.label>Hög på yayo</YayoHigh.label>
+
 
   <!-- Psychite addiction -->
 
@@ -12,5 +13,6 @@
 
   <PsychiteAddiction.label>Psychite-missbruk</PsychiteAddiction.label>
   <PsychiteAddiction.stages.1.label>abstinens</PsychiteAddiction.stages.1.label>
-    
+
+
 </LanguageData>

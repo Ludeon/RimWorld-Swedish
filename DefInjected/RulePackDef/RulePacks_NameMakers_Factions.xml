@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Player -->
-	
+
+  <!-- Player -->
+
   <NamerFactionPlayerRandomized.rulePack.rulesStrings.0>name->[colonyname]</NamerFactionPlayerRandomized.rulePack.rulesStrings.0>
   <NamerFactionBasePlayerColony.rulePack.rulesStrings.0>name->Sanhälle</NamerFactionBasePlayerColony.rulePack.rulesStrings.0>
   <NamerFactionBasePlayerTribe.rulePack.rulesStrings.0>name->By</NamerFactionBasePlayerTribe.rulePack.rulesStrings.0>
-	
-	
-	<!-- Pirate -->
-    
+
+
+  <!-- Pirate -->
+
   <NamerFactionPirate.rulePack.rulesStrings.0>name->[badassanimal]arna</NamerFactionPirate.rulePack.rulesStrings.0>
   <NamerFactionPirate.rulePack.rulesStrings.1>name->[badassanimal]männen</NamerFactionPirate.rulePack.rulesStrings.1>
   <NamerFactionPirate.rulePack.rulesStrings.2>name->[badassanimal]arna av [badassconcept]</NamerFactionPirate.rulePack.rulesStrings.2>
@@ -34,9 +34,9 @@
   <NamerFactionBasePirate.rulePack.rulesStrings.2>name->[badassanimal]'s [geography]</NamerFactionBasePirate.rulePack.rulesStrings.2>
   <NamerFactionBasePirate.rulePack.rulesStrings.3>name->[badassperson]'s [geography]</NamerFactionBasePirate.rulePack.rulesStrings.3>
   <NamerFactionBasePirate.rulePack.rulesStrings.4>geography->[terrainfeature]</NamerFactionBasePirate.rulePack.rulesStrings.4>
-  <NamerFactionBasePirate.rulePack.rulesStrings.5>geography->[community]</NamerFactionBasePirate.rulePack.rulesStrings.5>	
+  <NamerFactionBasePirate.rulePack.rulesStrings.5>geography->[community]</NamerFactionBasePirate.rulePack.rulesStrings.5>
 
-  
+
   <!-- Outlander -->
 
   <NamerFactionOutlander.rulePack.rulesStrings.0>name->[subname]</NamerFactionOutlander.rulePack.rulesStrings.0>
@@ -52,8 +52,11 @@
   <NamerFactionOutlander.rulePack.rulesStrings.10>subname->[direction] [wordname]</NamerFactionOutlander.rulePack.rulesStrings.10>
   <NamerFactionOutlander.rulePack.rulesStrings.11>wordname->[syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.11>
   <NamerFactionOutlander.rulePack.rulesStrings.12>wordname->[syl][syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.12>
-  <NamerFactionOutlander.rulePack.rulesStrings.13>wordname->[syl][syl][syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.13>  
-	
+  <NamerFactionOutlander.rulePack.rulesStrings.13>wordname->[syl][syl][syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.13>
+  <NamerFactionOutlander.rulePack.rulesStrings.14>wordname->[syl][syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.14>
+  <NamerFactionOutlander.rulePack.rulesStrings.15>wordname->[syl][syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.15>
+  <NamerFactionOutlander.rulePack.rulesStrings.16>wordname->[syl][syl][syl][endsyl]</NamerFactionOutlander.rulePack.rulesStrings.16>
+
   <NamerFactionBaseOutlander.rulePack.rulesStrings.0>name->[positiveconcept]'s [terrainfeature]</NamerFactionBaseOutlander.rulePack.rulesStrings.0>
   <NamerFactionBaseOutlander.rulePack.rulesStrings.1>name->[outlander]'s [terrainfeature]</NamerFactionBaseOutlander.rulePack.rulesStrings.1>
   <NamerFactionBaseOutlander.rulePack.rulesStrings.2>name->[outlander]'s [community]</NamerFactionBaseOutlander.rulePack.rulesStrings.2>
@@ -81,9 +84,9 @@
   <NamerFactionBaseOutlander.rulePack.rulesStrings.24>townend->köping</NamerFactionBaseOutlander.rulePack.rulesStrings.24>
   <NamerFactionBaseOutlander.rulePack.rulesStrings.25>townend->sta</NamerFactionBaseOutlander.rulePack.rulesStrings.25>
 
-  
+
   <!-- Tribe -->
-  
+
   <NamerFactionTribal.rulePack.rulesStrings.0>name->[tribalworld] [politicalunion]</NamerFactionTribal.rulePack.rulesStrings.0>
   <NamerFactionTribal.rulePack.rulesStrings.1>name->[tribalworld] [politicalunion]</NamerFactionTribal.rulePack.rulesStrings.1>
   <NamerFactionTribal.rulePack.rulesStrings.2>name->[color] [terrainfeature] [politicalunion]</NamerFactionTribal.rulePack.rulesStrings.2>
@@ -93,6 +96,10 @@
   <NamerFactionTribal.rulePack.rulesStrings.6>tribalword->[tribalwordfile]</NamerFactionTribal.rulePack.rulesStrings.6>
   <NamerFactionTribal.rulePack.rulesStrings.7>tribalword->[syl][syl]</NamerFactionTribal.rulePack.rulesStrings.7>
   <NamerFactionTribal.rulePack.rulesStrings.8>tribalword->[syl][syl][syl]</NamerFactionTribal.rulePack.rulesStrings.8>
+  <NamerFactionTribal.rulePack.rulesStrings.9>tribalword->[syl][syl]</NamerFactionTribal.rulePack.rulesStrings.9>
+  <NamerFactionTribal.rulePack.rulesStrings.10>tribalword->[syl][syl][syl]</NamerFactionTribal.rulePack.rulesStrings.10>
+  <NamerFactionTribal.rulePack.rulesStrings.11>tribalword->[syl][syl][syl]</NamerFactionTribal.rulePack.rulesStrings.11>
+  <NamerFactionTribal.rulePack.rulesStrings.12>tribalword->[syl][syl][syl][syl]</NamerFactionTribal.rulePack.rulesStrings.12>
 
   <NamerFactionBaseTribal.rulePack.rulesStrings.0>name->[tribalword]</NamerFactionBaseTribal.rulePack.rulesStrings.0>
   <NamerFactionBaseTribal.rulePack.rulesStrings.1>name->[tribalword]</NamerFactionBaseTribal.rulePack.rulesStrings.1>
@@ -103,9 +110,10 @@
   <NamerFactionBaseTribal.rulePack.rulesStrings.6>tribalword->[syl][syl]</NamerFactionBaseTribal.rulePack.rulesStrings.6>
   <NamerFactionBaseTribal.rulePack.rulesStrings.7>tribalword->[syl][syl][syl]</NamerFactionBaseTribal.rulePack.rulesStrings.7>
 
-  
+
   <!-- Special -->
-	
+
   <NamerFactionSpacer.rulePack.rulesStrings.0>name->Rymdmän</NamerFactionSpacer.rulePack.rulesStrings.0>
-    
+
+
 </LanguageData>

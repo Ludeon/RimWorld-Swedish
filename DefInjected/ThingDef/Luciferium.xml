@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Luciferium.label>luciferium</Luciferium.label>
-    <Luciferium.description>En hopkok av avancerade glitterworld mekaniter som dramatiskt förbättrar kroppens funktion i alla avseenden. Tyvärr, utan de dämpande effekterna av regelbundna doser var femte eller sjätte dag, förlorar mekaniterna sin sammanhållning, vilket orsakar kontinuerliga bärsärkagångraserier och slutligen död.\n\nEfter den första dosen finns det inget sätt att få ut mekaniterna någonsin.\n\nPå urbvärldarna kallas Luciferium för "Djävulens Förhandling". Många har tvingats att döda sina vänner när inga fler av de förföriska röda pillret kunde hittas.</Luciferium.description>
-    <Luciferium.ingestible.ingestCommandString>Ta {0}</Luciferium.ingestible.ingestCommandString>
-    <Luciferium.ingestible.ingestReportString>Tar {0}.</Luciferium.ingestible.ingestReportString>
-    
-	
+
+  <Luciferium.label>luciferium</Luciferium.label>
+  <Luciferium.description>En hopkok av avancerade glitterworld mekaniter som dramatiskt förbättrar kroppens funktion i alla avseenden. Tyvärr, utan de dämpande effekterna av regelbundna doser var femte eller sjätte dag, förlorar mekaniterna sin sammanhållning, vilket orsakar kontinuerliga bärsärkagångraserier och slutligen död.\n\nEfter den första dosen finns det inget sätt att få ut mekaniterna någonsin.\n\nPå urbvärldarna kallas Luciferium för "Djävulens Förhandling". Många har tvingats att döda sina vänner när inga fler av de förföriska röda pillret kunde hittas.</Luciferium.description>
+  <Luciferium.ingestible.ingestCommandString>Ta {0}</Luciferium.ingestible.ingestCommandString>
+  <Luciferium.ingestible.ingestReportString>Tar {0}.</Luciferium.ingestible.ingestReportString>
+
+
 </LanguageData>

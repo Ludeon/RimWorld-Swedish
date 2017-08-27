@@ -1,21 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <VeryEasy.label>Basbyggare</VeryEasy.label>
-    <VeryEasy.description>För de som vill bygga en koloni i en sandlåde-liknande miljö. Det finns hot, men de är extremt svaga. Några av de farligaste händelserna är avaktiverade.</VeryEasy.description>
-    
-    <Easy.label>Viss utmaning</Easy.label>
-    <Easy.description>För förstagångsspelaren, eller hobbyspelare som ändå vill ha en utmaning. Hoten är farliga, men inte brutala..</Easy.description>
-    
-    <Medium.label>Tufft</Medium.label>
-    <Medium.description>Det är en hänsynslös planet. Hoten kan vara riktigt farliga. Inte rekommenderat förrän du har fått lite vana med spelet.</Medium.description>
-    
-    <Hard.label>Intensivt</Hard.label>
-    <Hard.description>En ordentlig utmaning. För att lyckas på den här nivån krävs det gedigen förståelse om överlevnadsstrategier, och en del tur.</Hard.description>
-    
-    <VeryHard.label>Extremt</VeryHard.label>
-    <VeryHard.description>För den mest härdade spelaren. Fienderna är starka, priserna är dåliga, mat är sällsynt, och kolonisterna är sura. För de som njuter av digitalt lidande.</VeryHard.description>
-    
+
+  <Peaceful.label>Fredfullt</Peaceful.label>
+  <Peaceful.description>För dom som vill ta det lugnt och bygga en koloni i en sandlåde-liknande miljö.\n\nStörre hotfulla händelser är inaktiverade, men kolonister kan fortfarande bli sura och djur kan fortfarande bli galna då och då.</Peaceful.description>
+
+  <VeryEasy.label>Basbyggare</VeryEasy.label>
+  <VeryEasy.description>För de som vill bygga en koloni i en sandlåde-liknande miljö. Det finns hot, men de är extremt svaga. Några av de farligaste händelserna är avaktiverade.</VeryEasy.description>
+
+  <Easy.label>Viss utmaning</Easy.label>
+  <Easy.description>För förstagångsspelaren, eller hobbyspelare som ändå vill ha en utmaning. Hoten är farliga, men inte brutala..</Easy.description>
+
+  <Medium.label>Tufft</Medium.label>
+  <Medium.description>Det är en hänsynslös planet. Hoten kan vara riktigt farliga. Inte rekommenderat förrän du har fått lite vana med spelet.</Medium.description>
+
+  <Hard.label>Intensivt</Hard.label>
+  <Hard.description>En ordentlig utmaning. För att lyckas på den här nivån krävs det gedigen förståelse om överlevnadsstrategier, och en del tur.</Hard.description>
+
+  <VeryHard.label>Extremt</VeryHard.label>
+  <VeryHard.description>För den mest härdade spelaren. Fienderna är starka, priserna är dåliga, mat är sällsynt, och kolonisterna är sura. För de som njuter av digitalt lidande.</VeryHard.description>
+
+
 </LanguageData>
-
-

@@ -1,66 +1,67 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <BondedWithAnimal.label>band utvecklas</BondedWithAnimal.label>
-    <BondedWithAnimal.rulePack.rulesStrings.0>tale_noun->[human_nameShortDef]'s bondar med [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.0>
-    <BondedWithAnimal.rulePack.rulesStrings.1>image->[human_nameFull] bondar med [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.1>
-    <BondedWithAnimal.rulePack.rulesStrings.2>image->[human_nameFull] skapar ett djupt band med [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.2>
-    <BondedWithAnimal.rulePack.rulesStrings.3>image->[human_nameFull] upptäcker att [human_possessive] verkligen älskar [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.3>
-    <BondedWithAnimal.rulePack.rulesStrings.4>circumstance_phrase->medans andra djur ser på</BondedWithAnimal.rulePack.rulesStrings.4>
-    <BondedWithAnimal.rulePack.rulesStrings.5>circumstance_phrase->medans HE tittar i [animal_nameShortDef]'s ögon</BondedWithAnimal.rulePack.rulesStrings.5>
-    <BondedWithAnimal.rulePack.rulesStrings.6>circumstance_phrase->med en känsla av tillfredsställelse</BondedWithAnimal.rulePack.rulesStrings.6>
-    <BondedWithAnimal.rulePack.rulesStrings.7>desc_sentence->[animal_nameShortDef] gosar upp sig jämte [human_nameShortDef].</BondedWithAnimal.rulePack.rulesStrings.7>
-    <BondedWithAnimal.rulePack.rulesStrings.8>desc_sentence->[animal_nameShortDef] ser sömnig och drucken med kärlek.</BondedWithAnimal.rulePack.rulesStrings.8>
-    <BondedWithAnimal.rulePack.rulesStrings.9>desc_sentence->[animal_nameShortDef] står högt och ser ädel ut.</BondedWithAnimal.rulePack.rulesStrings.9>
-    <BondedWithAnimal.rulePack.rulesStrings.10>desc_sentence->[animal_nameShortDef] svarar positivt.</BondedWithAnimal.rulePack.rulesStrings.10>
-    
-    <BecameLover.label>blir älskare</BecameLover.label>
-    <BecameLover.rulePack.rulesStrings.0>tale_noun->[firstPawn_nameShortDef] och [secondPawn_nameShortDef] blir älskare</BecameLover.rulePack.rulesStrings.0>
-    <BecameLover.rulePack.rulesStrings.1>image->[firstPawn_nameFull] viska söta saker i [secondPawn_nameFull]'s öra [circumstance_group]</BecameLover.rulePack.rulesStrings.1>
-    <BecameLover.rulePack.rulesStrings.2>image->[firstPawn_nameFull] leder [secondPawn_nameFull] i handen i säng [circumstance_group]</BecameLover.rulePack.rulesStrings.2>
-    <BecameLover.rulePack.rulesStrings.3>image->[firstPawn_nameFull] hoppar i säng med [secondPawn_nameFull] [circumstance_group]</BecameLover.rulePack.rulesStrings.3>
-    <BecameLover.rulePack.rulesStrings.4>image->[firstPawn_nameFull] kysser djupt [secondPawn_nameFull] [circumstance_group]</BecameLover.rulePack.rulesStrings.4>
-    <BecameLover.rulePack.rulesStrings.5>circumstance_phrase->i en orealistiskt stor säng</BecameLover.rulePack.rulesStrings.5>
-    <BecameLover.rulePack.rulesStrings.6>circumstance_phrase->mellan lakarna</BecameLover.rulePack.rulesStrings.6>
-    <BecameLover.rulePack.rulesStrings.7>circumstance_phrase->med få kläder i sikte</BecameLover.rulePack.rulesStrings.7>
-    <BecameLover.rulePack.rulesStrings.8>circumstance_phrase->medan båda är dränkta i svett</BecameLover.rulePack.rulesStrings.8>
-    <BecameLover.rulePack.rulesStrings.9>desc_sentence->[firstPawn_nameShortDef] gosar upp sig jämte [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.9>
-    <BecameLover.rulePack.rulesStrings.10>desc_sentence->[firstPawn_nameShortDef] låser ögonen med [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.10>
-    <BecameLover.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] blåser luft åt [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.11>
-    <BecameLover.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] är stilistiskt bunden med [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.12>
-    <BecameLover.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] är en nära-spegelbilden av [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.13>
-    <BecameLover.rulePack.rulesStrings.14>desc_sentence->[firstPawn_nameShortDef] rör [secondPawn_nameShortDef] aggressivt.</BecameLover.rulePack.rulesStrings.14>
-    
-    <Breakup.label>slut</Breakup.label>
-    <Breakup.rulePack.rulesStrings.0>tale_noun->Avbrottet mellan [firstPawn_nameShortDef] och [secondPawn_nameShortDef]</Breakup.rulePack.rulesStrings.0>
-    <Breakup.rulePack.rulesStrings.1>image->[firstPawn_nameFull] sitter [secondPawn_nameFull] ner för att ha ett otrevligt samtal [circumstance_group]</Breakup.rulePack.rulesStrings.1>
-    <Breakup.rulePack.rulesStrings.2>image->[firstPawn_nameFull] står på ett avstånd från [secondPawn_nameFull] [circumstance_group]</Breakup.rulePack.rulesStrings.2>
-    <Breakup.rulePack.rulesStrings.3>image->[firstPawn_nameFull] putter [secondPawn_nameFull] ut ur sängen [circumstance_group]</Breakup.rulePack.rulesStrings.3>
-    <Breakup.rulePack.rulesStrings.4>image->[firstPawn_nameFull] avvisar en kram från [secondPawn_nameFull] [circumstance_group]</Breakup.rulePack.rulesStrings.4>
-    <Breakup.rulePack.rulesStrings.5>circumstance_phrase->i ett ögonblick av stor sorg</Breakup.rulePack.rulesStrings.5>
-    <Breakup.rulePack.rulesStrings.6>circumstance_phrase->när andra tittar bort pinsamt</Breakup.rulePack.rulesStrings.6>
-    <Breakup.rulePack.rulesStrings.7>circumstance_phrase->när andra tittar på</Breakup.rulePack.rulesStrings.7>
-    <Breakup.rulePack.rulesStrings.8>desc_sentence->[secondPawn_nameShortDef] gråter okontrollerat.</Breakup.rulePack.rulesStrings.8>
-    <Breakup.rulePack.rulesStrings.9>desc_sentence->[secondPawn_nameShortDef] är hånfull och gråter på samma gång.</Breakup.rulePack.rulesStrings.9>
-    <Breakup.rulePack.rulesStrings.10>desc_sentence->[secondPawn_nameShortDef] är ett stenansikte i shock.</Breakup.rulePack.rulesStrings.10>
-    <Breakup.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] är stilistiskt separerad från [secondPawn_nameShortDef].</Breakup.rulePack.rulesStrings.11>
-    <Breakup.rulePack.rulesStrings.12>desc_sentence->[secondPawn_nameShortDef] har kollapsat på golvet i en skälvande hög.</Breakup.rulePack.rulesStrings.12>
-    <Breakup.rulePack.rulesStrings.13>desc_sentence->[secondPawn_nameShortDef] gestikulerade ilsket åt [firstPawn_nameShortDef].</Breakup.rulePack.rulesStrings.13>
-    
-    <Marriage.label>bröllop</Marriage.label>
-    <Marriage.rulePack.rulesStrings.0>tale_noun->bröllopet mellan [firstPawn_nameShortDef] och [secondPawn_nameShortDef]</Marriage.rulePack.rulesStrings.0>
-    <Marriage.rulePack.rulesStrings.1>image->[firstPawn_nameFull] Gifter sig med [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.1>
-    <Marriage.rulePack.rulesStrings.2>image->[firstPawn_nameFull] säger [firstPawn_possessive] sina äktenskapslöften till [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.2>
-    <Marriage.rulePack.rulesStrings.3>image->[firstPawn_nameFull] gå ner i gången med [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.3>
-    <Marriage.rulePack.rulesStrings.4>image->[firstPawn_nameFull] håller händer [secondPawn_nameFull] under en bröllopscemoni [circumstance_group]</Marriage.rulePack.rulesStrings.4>
-    <Marriage.rulePack.rulesStrings.5>circumstance_phrase->i en värdig ceremoni</Marriage.rulePack.rulesStrings.5>
-    <Marriage.rulePack.rulesStrings.6>circumstance_phrase->medans båda skrattar muntert</Marriage.rulePack.rulesStrings.6>
-    <Marriage.rulePack.rulesStrings.7>circumstance_phrase->medan andra ser på högtidligt</Marriage.rulePack.rulesStrings.7>
-    <Marriage.rulePack.rulesStrings.8>desc_sentence->[firstPawn_nameShortDef] gosar upp sig mot [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.8>
-    <Marriage.rulePack.rulesStrings.9>desc_sentence->[firstPawn_nameShortDef] låser ögonen med [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.9>
-    <Marriage.rulePack.rulesStrings.10>desc_sentence->[firstPawn_nameShortDef] blåser luft åt [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.10>
-    <Marriage.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] är stilistiskt bunden med [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.11>
-    <Marriage.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] är en nära-spegelbilden av [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.12>
-    <Marriage.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] rör [secondPawn_nameShortDef] aggressivt.</Marriage.rulePack.rulesStrings.13>
-    
+
+  <BondedWithAnimal.label>band utvecklas</BondedWithAnimal.label>
+  <BondedWithAnimal.rulePack.rulesStrings.0>tale_noun->[human_nameShortDef]'s bondar med [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.0>
+  <BondedWithAnimal.rulePack.rulesStrings.1>image->[human_nameFull] bondar med [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.1>
+  <BondedWithAnimal.rulePack.rulesStrings.2>image->[human_nameFull] skapar ett djupt band med [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.2>
+  <BondedWithAnimal.rulePack.rulesStrings.3>image->[human_nameFull] upptäcker att [human_possessive] verkligen älskar [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.3>
+  <BondedWithAnimal.rulePack.rulesStrings.4>circumstance_phrase->medans andra djur ser på</BondedWithAnimal.rulePack.rulesStrings.4>
+  <BondedWithAnimal.rulePack.rulesStrings.5>circumstance_phrase->medans HE tittar i [animal_nameShortDef]'s ögon</BondedWithAnimal.rulePack.rulesStrings.5>
+  <BondedWithAnimal.rulePack.rulesStrings.6>circumstance_phrase->med en känsla av tillfredsställelse</BondedWithAnimal.rulePack.rulesStrings.6>
+  <BondedWithAnimal.rulePack.rulesStrings.7>desc_sentence->[animal_nameShortDef] gosar upp sig jämte [human_nameShortDef].</BondedWithAnimal.rulePack.rulesStrings.7>
+  <BondedWithAnimal.rulePack.rulesStrings.8>desc_sentence->[animal_nameShortDef] ser sömnig och drucken med kärlek.</BondedWithAnimal.rulePack.rulesStrings.8>
+  <BondedWithAnimal.rulePack.rulesStrings.9>desc_sentence->[animal_nameShortDef] står högt och ser ädel ut.</BondedWithAnimal.rulePack.rulesStrings.9>
+  <BondedWithAnimal.rulePack.rulesStrings.10>desc_sentence->[animal_nameShortDef] svarar positivt.</BondedWithAnimal.rulePack.rulesStrings.10>
+
+  <BecameLover.label>blir älskare</BecameLover.label>
+  <BecameLover.rulePack.rulesStrings.0>tale_noun->[firstPawn_nameShortDef] och [secondPawn_nameShortDef] blir älskare</BecameLover.rulePack.rulesStrings.0>
+  <BecameLover.rulePack.rulesStrings.1>image->[firstPawn_nameFull] viska söta saker i [secondPawn_nameFull]'s öra [circumstance_group]</BecameLover.rulePack.rulesStrings.1>
+  <BecameLover.rulePack.rulesStrings.2>image->[firstPawn_nameFull] leder [secondPawn_nameFull] i handen i säng [circumstance_group]</BecameLover.rulePack.rulesStrings.2>
+  <BecameLover.rulePack.rulesStrings.3>image->[firstPawn_nameFull] hoppar i säng med [secondPawn_nameFull] [circumstance_group]</BecameLover.rulePack.rulesStrings.3>
+  <BecameLover.rulePack.rulesStrings.4>image->[firstPawn_nameFull] kysser djupt [secondPawn_nameFull] [circumstance_group]</BecameLover.rulePack.rulesStrings.4>
+  <BecameLover.rulePack.rulesStrings.5>circumstance_phrase->i en orealistiskt stor säng</BecameLover.rulePack.rulesStrings.5>
+  <BecameLover.rulePack.rulesStrings.6>circumstance_phrase->mellan lakarna</BecameLover.rulePack.rulesStrings.6>
+  <BecameLover.rulePack.rulesStrings.7>circumstance_phrase->med få kläder i sikte</BecameLover.rulePack.rulesStrings.7>
+  <BecameLover.rulePack.rulesStrings.8>circumstance_phrase->medan båda är dränkta i svett</BecameLover.rulePack.rulesStrings.8>
+  <BecameLover.rulePack.rulesStrings.9>desc_sentence->[firstPawn_nameShortDef] gosar upp sig jämte [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.9>
+  <BecameLover.rulePack.rulesStrings.10>desc_sentence->[firstPawn_nameShortDef] låser ögonen med [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.10>
+  <BecameLover.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] blåser luft åt [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.11>
+  <BecameLover.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] är stilistiskt bunden med [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.12>
+  <BecameLover.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] är en nära-spegelbilden av [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.13>
+  <BecameLover.rulePack.rulesStrings.14>desc_sentence->[firstPawn_nameShortDef] rör [secondPawn_nameShortDef] aggressivt.</BecameLover.rulePack.rulesStrings.14>
+
+  <Breakup.label>slut</Breakup.label>
+  <Breakup.rulePack.rulesStrings.0>tale_noun->Avbrottet mellan [firstPawn_nameShortDef] och [secondPawn_nameShortDef]</Breakup.rulePack.rulesStrings.0>
+  <Breakup.rulePack.rulesStrings.1>image->[firstPawn_nameFull] sitter [secondPawn_nameFull] ner för att ha ett otrevligt samtal [circumstance_group]</Breakup.rulePack.rulesStrings.1>
+  <Breakup.rulePack.rulesStrings.2>image->[firstPawn_nameFull] står på ett avstånd från [secondPawn_nameFull] [circumstance_group]</Breakup.rulePack.rulesStrings.2>
+  <Breakup.rulePack.rulesStrings.3>image->[firstPawn_nameFull] putter [secondPawn_nameFull] ut ur sängen [circumstance_group]</Breakup.rulePack.rulesStrings.3>
+  <Breakup.rulePack.rulesStrings.4>image->[firstPawn_nameFull] avvisar en kram från [secondPawn_nameFull] [circumstance_group]</Breakup.rulePack.rulesStrings.4>
+  <Breakup.rulePack.rulesStrings.5>circumstance_phrase->i ett ögonblick av stor sorg</Breakup.rulePack.rulesStrings.5>
+  <Breakup.rulePack.rulesStrings.6>circumstance_phrase->när andra tittar bort pinsamt</Breakup.rulePack.rulesStrings.6>
+  <Breakup.rulePack.rulesStrings.7>circumstance_phrase->när andra tittar på</Breakup.rulePack.rulesStrings.7>
+  <Breakup.rulePack.rulesStrings.8>desc_sentence->[secondPawn_nameShortDef] gråter okontrollerat.</Breakup.rulePack.rulesStrings.8>
+  <Breakup.rulePack.rulesStrings.9>desc_sentence->[secondPawn_nameShortDef] är hånfull och gråter på samma gång.</Breakup.rulePack.rulesStrings.9>
+  <Breakup.rulePack.rulesStrings.10>desc_sentence->[secondPawn_nameShortDef] är ett stenansikte i shock.</Breakup.rulePack.rulesStrings.10>
+  <Breakup.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] är stilistiskt separerad från [secondPawn_nameShortDef].</Breakup.rulePack.rulesStrings.11>
+  <Breakup.rulePack.rulesStrings.12>desc_sentence->[secondPawn_nameShortDef] har kollapsat på golvet i en skälvande hög.</Breakup.rulePack.rulesStrings.12>
+  <Breakup.rulePack.rulesStrings.13>desc_sentence->[secondPawn_nameShortDef] gestikulerade ilsket åt [firstPawn_nameShortDef].</Breakup.rulePack.rulesStrings.13>
+
+  <Marriage.label>bröllop</Marriage.label>
+  <Marriage.rulePack.rulesStrings.0>tale_noun->bröllopet mellan [firstPawn_nameShortDef] och [secondPawn_nameShortDef]</Marriage.rulePack.rulesStrings.0>
+  <Marriage.rulePack.rulesStrings.1>image->[firstPawn_nameFull] Gifter sig med [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.1>
+  <Marriage.rulePack.rulesStrings.2>image->[firstPawn_nameFull] säger [firstPawn_possessive] sina äktenskapslöften till [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.2>
+  <Marriage.rulePack.rulesStrings.3>image->[firstPawn_nameFull] gå ner i gången med [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.3>
+  <Marriage.rulePack.rulesStrings.4>image->[firstPawn_nameFull] håller händer [secondPawn_nameFull] under en bröllopscemoni [circumstance_group]</Marriage.rulePack.rulesStrings.4>
+  <Marriage.rulePack.rulesStrings.5>circumstance_phrase->i en värdig ceremoni</Marriage.rulePack.rulesStrings.5>
+  <Marriage.rulePack.rulesStrings.6>circumstance_phrase->medans båda skrattar muntert</Marriage.rulePack.rulesStrings.6>
+  <Marriage.rulePack.rulesStrings.7>circumstance_phrase->medan andra ser på högtidligt</Marriage.rulePack.rulesStrings.7>
+  <Marriage.rulePack.rulesStrings.8>desc_sentence->[firstPawn_nameShortDef] gosar upp sig mot [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.8>
+  <Marriage.rulePack.rulesStrings.9>desc_sentence->[firstPawn_nameShortDef] låser ögonen med [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.9>
+  <Marriage.rulePack.rulesStrings.10>desc_sentence->[firstPawn_nameShortDef] blåser luft åt [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.10>
+  <Marriage.rulePack.rulesStrings.11>desc_sentence->[firstPawn_nameShortDef] är stilistiskt bunden med [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.11>
+  <Marriage.rulePack.rulesStrings.12>desc_sentence->[firstPawn_nameShortDef] är en nära-spegelbilden av [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.12>
+  <Marriage.rulePack.rulesStrings.13>desc_sentence->[firstPawn_nameShortDef] rör [secondPawn_nameShortDef] aggressivt.</Marriage.rulePack.rulesStrings.13>
+
+
 </LanguageData>

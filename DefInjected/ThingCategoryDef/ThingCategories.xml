@@ -1,76 +1,76 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Root.label>Rot</Root.label>
-	
-	
-	<!-- Foods -->
-    
-    <Foods.label>föda</Foods.label>
-    <FoodMeals.label>maträtter</FoodMeals.label>
-    <FoodRaw.label>råkost</FoodRaw.label>
-    <MeatRaw.label>kött</MeatRaw.label>
-    <PlantFoodRaw.label>vegetariskt</PlantFoodRaw.label>
-    <AnimalProductRaw.label>djurprodukter</AnimalProductRaw.label>
-    <EggsUnfertilized.label>ägg (ofert.)</EggsUnfertilized.label>
-    <EggsFertilized.label>ägg (fert.)</EggsFertilized.label>
+
+  <Root.label>rot</Root.label>
 
 
-	<!-- Manufactured -->
-    
-    <Manufactured.label>tillverkad</Manufactured.label>
-    <Textiles.label>textiler</Textiles.label>
-    <Leathers.label>läder</Leathers.label>
-    <Medicine.label>medicin</Medicine.label>
-    <Drugs.label>droger</Drugs.label>
-	
-	
-	<!-- Raw resources -->
-    
-    <ResourcesRaw.label>råa resurser</ResourcesRaw.label>
-    <PlantMatter.label>växtmaterial</PlantMatter.label>
-    <StoneBlocks.label>stenblock</StoneBlocks.label>
-	
-	
-	<!-- Items -->
-    
-    <Items.label>saker</Items.label>
-    <Art.label>konst</Art.label>
-    <Furniture.label>möbler</Furniture.label>
-    <Unfinished.label>ofärdigt</Unfinished.label>
-    <Artifacts.label>artefakter</Artifacts.label>
-    <BodyParts.label>kroppsdelar</BodyParts.label>
-    <BodyPartsNatural.label>naturliga</BodyPartsNatural.label>
-    <BodyPartsArtificial.label>artificiella</BodyPartsArtificial.label>
-    
-	
-	<!-- Weapons -->
-	
-    <Weapons.label>vapen</Weapons.label>
-    <WeaponsMelee.label>närstridsvapen</WeaponsMelee.label>
-    <WeaponsRanged.label>avståndsvapen</WeaponsRanged.label>
-    <Grenades.label>granater</Grenades.label>
-	
-	
-	<!-- Apparel -->
-    
-    <Apparel.label>kläder</Apparel.label>
-    <Headgear.label>headgear</Headgear.label>
-	
-	
-	<!-- Chunks -->
-    
-    <Chunks.label>bitar</Chunks.label>
-    <StoneChunks.label>stenbitar</StoneChunks.label>
-	
-	
-	<!-- Corpses -->
-    
-    <Corpses.label>kroppar</Corpses.label>
-    <CorpsesHumanlike.label>människolika kroppar</CorpsesHumanlike.label>
-    <CorpsesAnimal.label>djurkroppar</CorpsesAnimal.label>
-    <CorpsesInsect.label>insektskroppar</CorpsesInsect.label>
-    <CorpsesMechanoid.label>mekanoidkroppar</CorpsesMechanoid.label>
+  <!-- Foods -->
 
-    
+  <Foods.label>föda</Foods.label>
+  <FoodMeals.label>maträtter</FoodMeals.label>
+  <FoodRaw.label>råkost</FoodRaw.label>
+  <MeatRaw.label>kött</MeatRaw.label>
+  <PlantFoodRaw.label>vegetariskt</PlantFoodRaw.label>
+  <AnimalProductRaw.label>djurprodukter</AnimalProductRaw.label>
+  <EggsUnfertilized.label>ägg (ofert.)</EggsUnfertilized.label>
+  <EggsFertilized.label>ägg (fert.)</EggsFertilized.label>
+
+
+  <!-- Manufactured -->
+
+  <Manufactured.label>tillverkad</Manufactured.label>
+  <Textiles.label>textiler</Textiles.label>
+  <Leathers.label>läder</Leathers.label>
+  <Medicine.label>medicin</Medicine.label>
+  <Drugs.label>droger</Drugs.label>
+
+
+  <!-- Raw resources -->
+
+  <ResourcesRaw.label>råa resurser</ResourcesRaw.label>
+  <PlantMatter.label>växtmaterial</PlantMatter.label>
+  <StoneBlocks.label>stenblock</StoneBlocks.label>
+
+
+  <!-- Items -->
+
+  <Items.label>saker</Items.label>
+  <Art.label>konst</Art.label>
+  <Furniture.label>möbler</Furniture.label>
+  <Unfinished.label>ofärdigt</Unfinished.label>
+  <Artifacts.label>artefakter</Artifacts.label>
+  <BodyParts.label>kroppsdelar</BodyParts.label>
+  <BodyPartsNatural.label>naturliga</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>artificiella</BodyPartsArtificial.label>
+
+
+  <!-- Weapons -->
+
+  <Weapons.label>vapen</Weapons.label>
+  <WeaponsMelee.label>närstridsvapen</WeaponsMelee.label>
+  <WeaponsRanged.label>avståndsvapen</WeaponsRanged.label>
+  <Grenades.label>granater</Grenades.label>
+
+
+  <!-- Apparel -->
+
+  <Apparel.label>kläder</Apparel.label>
+  <Headgear.label>headgear</Headgear.label>
+
+
+  <!-- Chunks -->
+
+  <Chunks.label>bitar</Chunks.label>
+  <StoneChunks.label>stenbitar</StoneChunks.label>
+
+
+  <!-- Corpses -->
+
+  <Corpses.label>kroppar</Corpses.label>
+  <CorpsesHumanlike.label>människolika kroppar</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>djurkroppar</CorpsesAnimal.label>
+  <CorpsesInsect.label>insektskroppar</CorpsesInsect.label>
+  <CorpsesMechanoid.label>mekanoidkroppar</CorpsesMechanoid.label>
+
+
 </LanguageData>

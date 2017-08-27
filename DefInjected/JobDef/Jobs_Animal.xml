@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Nuzzle.reportString>Gosar TargetA.</Nuzzle.reportString>
-    
-    <Mate.reportString>Parar sig med TargetA.</Mate.reportString>
-    
-    <LayEgg.reportString>Lägger ägg.</LayEgg.reportString>
-    
-    <PredatorHunt.reportString>Jagar TargetA.</PredatorHunt.reportString>
-    
-    <Maintain.reportString>upprätthåller TargetA.</Maintain.reportString>
-    
+
+  <Nuzzle.reportString>gosar TargetA.</Nuzzle.reportString>
+  <Mate.reportString>parar sig med TargetA.</Mate.reportString>
+  <LayEgg.reportString>lägger ägg.</LayEgg.reportString>
+  <PredatorHunt.reportString>jagar TargetA.</PredatorHunt.reportString>
+  <Maintain.reportString>upprätthåller TargetA.</Maintain.reportString>
+
+
 </LanguageData>

@@ -1,17 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Arrow_Short.label>pil till kortbåge</Arrow_Short.label>
-    <Bow_Short.label>kortbåge</Bow_Short.label>
-    <Bow_Short.description>En enkel kortbåge, gjord med skicklighet, men endast med hjälp av de mest primitiva tekniker.</Bow_Short.description>
 
-    <Pilum_Thrown.label>pilum (kasta)</Pilum_Thrown.label>
-    <Pila.label>pilum</Pila.label>
-    <Pila.description>En bunt av Pillums, icke-återanvändbara kastspjut.</Pila.description>
+  <Arrow_Short.label>pil till kortbåge</Arrow_Short.label>
 
-    <Arrow_Great.label>pil till långbåge</Arrow_Great.label>
-    <Bow_Great.label>långbåge</Bow_Great.label>
-    <Bow_Great.description>En kraftfull långbåge. skjuter en tung pil lång sträcka.</Bow_Great.description>
-    
-	
+  <Bow_Short.label>kortbåge</Bow_Short.label>
+  <Bow_Short.description>En enkel kortbåge, gjord med skicklighet, men endast med hjälp av de mest primitiva tekniker.</Bow_Short.description>
+
+  <Pilum_Thrown.label>pilum (kasta)</Pilum_Thrown.label>
+
+  <Pila.label>pilum</Pila.label>
+  <Pila.description>En bunt av Pillums, icke-återanvändbara kastspjut.</Pila.description>
+
+  <Arrow_Great.label>pil till långbåge</Arrow_Great.label>
+
+  <Bow_Great.label>långbåge</Bow_Great.label>
+  <Bow_Great.description>En kraftfull långbåge. skjuter en tung pil lång sträcka.</Bow_Great.description>
+
+
 </LanguageData>

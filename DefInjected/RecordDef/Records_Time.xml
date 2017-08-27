@@ -1,74 +1,74 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <TimeAsColonistOrColonyAnimal.label>tid som kolonist</TimeAsColonistOrColonyAnimal.label>
-    <TimeAsColonistOrColonyAnimal.description>Total tid spenderad som kolonist.</TimeAsColonistOrColonyAnimal.description>
-    
-    <TimeAsPrisoner.label>tid som fånge</TimeAsPrisoner.label>
-    <TimeAsPrisoner.description>Total tid spenderad som fånge.</TimeAsPrisoner.description>
-    
-    <TimeInBed.label>tid i säng</TimeInBed.label>
-    <TimeInBed.description>Total tid spenderad i säng.</TimeInBed.description>
-    
-    <TimeInBedForMedicalReasons.label>tid i säng av medicinska orsaker</TimeInBedForMedicalReasons.label>
-    <TimeInBedForMedicalReasons.description>Total tid spenderad i säng av medicinska orsaker såsom: väntar på behandling, återhämting ifrån skador eller blir opererad på.</TimeInBedForMedicalReasons.description>
-    
-    <TimeDowned.label>tid nere</TimeDowned.label>
-    <TimeDowned.description>Total tid spenderad avsvimmad.</TimeDowned.description>
-    
-    <TimeGettingFood.label>tid letande efter mat eller äter</TimeGettingFood.label>
-    <TimeGettingFood.description>Total tid spenderad letandes efter mat eller ätandes.</TimeGettingFood.description>
-    
-    <TimeGettingJoy.label>tid spenderad på underhållning</TimeGettingJoy.label>
-    <TimeGettingJoy.description>Total tid spenderad på underhållning.</TimeGettingJoy.description>
-    
-    <TimeUnderRoof.label>tid under tak</TimeUnderRoof.label>
-    <TimeUnderRoof.description>Total tid spenderad under tak.</TimeUnderRoof.description>
-    
-    <TimeDrafted.label>tid kommenderad</TimeDrafted.label>
-    <TimeDrafted.description>Total tid spenderad kommenderad.</TimeDrafted.description>
-    
-    <TimeOnFire.label>tid brinnandes</TimeOnFire.label>
-    <TimeOnFire.description>Total tid spenderad i brinnandes.</TimeOnFire.description>
-    
-    <TimeInMentalState.label>tid i ett galet tillstånd</TimeInMentalState.label>
-    <TimeInMentalState.description>Total tid spenderad i ett galet tillstånd.</TimeInMentalState.description>
-    
-    <TimeHauling.label>tid släpandes</TimeHauling.label>
-    <TimeHauling.description>Total tid spenderad med att släpa saker.</TimeHauling.description>
-    
-    <TimeHandlingAnimals.label>tid djurhantering</TimeHandlingAnimals.label>
-    <TimeHandlingAnimals.description>Total tid spenderad med att hantera djur.</TimeHandlingAnimals.description>
-    
-    <TimeFirefighting.label>tid brandbekämpning</TimeFirefighting.label>
-    <TimeFirefighting.description>Total tid spenderad med att bekämpa bränder.</TimeFirefighting.description>
-    
-    <TimeWardening.label>tid vaktande</TimeWardening.label>
-    <TimeWardening.description>Total tid spenderad med att vakta fångar.</TimeWardening.description>
-    
-    <TimeHunting.label>tid jagande</TimeHunting.label>
-    <TimeHunting.description>Total tid spenderad med att jaga.</TimeHunting.description>
-    
-    <TimeConstructing.label>tid byggande</TimeConstructing.label>
-    <TimeConstructing.description>Total tid spenderad med att bygga eller riva.</TimeConstructing.description>
-    
-    <TimeTreatingAndFeeding.label>tid ta hand om och mata</TimeTreatingAndFeeding.label>
-    <TimeTreatingAndFeeding.description>Total tid spenderad med att ta hand och och mata patienter.</TimeTreatingAndFeeding.description>
-    
-    <TimeResearching.label>tid forskande</TimeResearching.label>
-    <TimeResearching.description>Total tid spenderad med att forska.</TimeResearching.description>
-    
-    <TimeCleaning.label>tid städa</TimeCleaning.label>
-    <TimeCleaning.description>Total tid spenderad med att städa.</TimeCleaning.description>
-    
-    <TimeRepairing.label>tid reparera</TimeRepairing.label>
-    <TimeRepairing.description>Total tid spenderad med att reparera.</TimeRepairing.description>
-    
-    <TimeMining.label>tid gräva</TimeMining.label>
-    <TimeMining.description>Total tid spenderad med att gräva efter mineraler.</TimeMining.description>
-    
-    <TimeSowingAndHarvesting.label>tid så och skörda</TimeSowingAndHarvesting.label>
-    <TimeSowingAndHarvesting.description>Total tid spenderad med att så och skörda och klippa växter.</TimeSowingAndHarvesting.description>
-    
-	
+
+  <TimeAsColonistOrColonyAnimal.label>tid som kolonist</TimeAsColonistOrColonyAnimal.label>
+  <TimeAsColonistOrColonyAnimal.description>Total tid spenderad som kolonist.</TimeAsColonistOrColonyAnimal.description>
+
+  <TimeAsPrisoner.label>tid som fånge</TimeAsPrisoner.label>
+  <TimeAsPrisoner.description>Total tid spenderad som fånge.</TimeAsPrisoner.description>
+
+  <TimeInBed.label>tid i säng</TimeInBed.label>
+  <TimeInBed.description>Total tid spenderad i säng.</TimeInBed.description>
+
+  <TimeInBedForMedicalReasons.label>tid i säng av medicinska orsaker</TimeInBedForMedicalReasons.label>
+  <TimeInBedForMedicalReasons.description>Total tid spenderad i säng av medicinska orsaker såsom: väntar på behandling, återhämting ifrån skador eller blir opererad på.</TimeInBedForMedicalReasons.description>
+
+  <TimeDowned.label>tid nere</TimeDowned.label>
+  <TimeDowned.description>Total tid spenderad avsvimmad.</TimeDowned.description>
+
+  <TimeGettingFood.label>tid letande efter mat eller äter</TimeGettingFood.label>
+  <TimeGettingFood.description>Total tid spenderad letandes efter mat eller ätandes.</TimeGettingFood.description>
+
+  <TimeGettingJoy.label>tid spenderad på underhållning</TimeGettingJoy.label>
+  <TimeGettingJoy.description>Total tid spenderad på underhållning.</TimeGettingJoy.description>
+
+  <TimeUnderRoof.label>tid under tak</TimeUnderRoof.label>
+  <TimeUnderRoof.description>Total tid spenderad under tak.</TimeUnderRoof.description>
+
+  <TimeDrafted.label>tid kommenderad</TimeDrafted.label>
+  <TimeDrafted.description>Total tid spenderad kommenderad.</TimeDrafted.description>
+
+  <TimeOnFire.label>tid brinnandes</TimeOnFire.label>
+  <TimeOnFire.description>Total tid spenderad i brinnandes.</TimeOnFire.description>
+
+  <TimeInMentalState.label>tid i ett galet tillstånd</TimeInMentalState.label>
+  <TimeInMentalState.description>Total tid spenderad i ett galet tillstånd.</TimeInMentalState.description>
+
+  <TimeHauling.label>tid släpandes</TimeHauling.label>
+  <TimeHauling.description>Total tid spenderad med att släpa saker.</TimeHauling.description>
+
+  <TimeHandlingAnimals.label>tid djurhantering</TimeHandlingAnimals.label>
+  <TimeHandlingAnimals.description>Total tid spenderad med att hantera djur.</TimeHandlingAnimals.description>
+
+  <TimeFirefighting.label>tid brandbekämpning</TimeFirefighting.label>
+  <TimeFirefighting.description>Total tid spenderad med att bekämpa bränder.</TimeFirefighting.description>
+
+  <TimeWardening.label>tid vaktande</TimeWardening.label>
+  <TimeWardening.description>Total tid spenderad med att vakta fångar.</TimeWardening.description>
+
+  <TimeHunting.label>tid jagande</TimeHunting.label>
+  <TimeHunting.description>Total tid spenderad med att jaga.</TimeHunting.description>
+
+  <TimeConstructing.label>tid byggande</TimeConstructing.label>
+  <TimeConstructing.description>Total tid spenderad med att bygga eller riva.</TimeConstructing.description>
+
+  <TimeTreatingAndFeeding.label>tid ta hand om och mata</TimeTreatingAndFeeding.label>
+  <TimeTreatingAndFeeding.description>Total tid spenderad med att ta hand och och mata patienter.</TimeTreatingAndFeeding.description>
+
+  <TimeResearching.label>tid forskande</TimeResearching.label>
+  <TimeResearching.description>Total tid spenderad med att forska.</TimeResearching.description>
+
+  <TimeCleaning.label>tid städa</TimeCleaning.label>
+  <TimeCleaning.description>Total tid spenderad med att städa.</TimeCleaning.description>
+
+  <TimeRepairing.label>tid reparera</TimeRepairing.label>
+  <TimeRepairing.description>Total tid spenderad med att reparera.</TimeRepairing.description>
+
+  <TimeMining.label>tid gräva</TimeMining.label>
+  <TimeMining.description>Total tid spenderad med att gräva efter mineraler.</TimeMining.description>
+
+  <TimeSowingAndHarvesting.label>tid så och skörda</TimeSowingAndHarvesting.label>
+  <TimeSowingAndHarvesting.description>Total tid spenderad med att så och skörda och klippa växter.</TimeSowingAndHarvesting.description>
+
+
 </LanguageData>

@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Outlander.label>Stad av utlänningar</Outlander.label>
-    <Outlander.description>Ett litet samhälle av överlevande.\n\nDessa människor har bott här i årtionden. De har förlorat mycket av den teknologi som först tog dem hit, och arbetar vanligtvis med enkla mekaniska verktyg och sammansättningar, och försvarar sig själva med avancerade vapen från krut-eran.\n\nDe är varken aggressiva eller svaga, och bryr sig bara om handel, tillit, och överlevnad.</Outlander.description>
-    <Outlander.pawnsPlural>utlänningar</Outlander.pawnsPlural>
-    <Outlander.leaderTitle>Borgmästare</Outlander.leaderTitle>
-    
-    <Tribe.label>stam</Tribe.label>
-    <Tribe.description>Dessa människor har varit här en väldigt lång tid. Kanske krashade deras förfäder här för tusen år sedan, kanske var dom överlevare i en katastrof som förstörde en teknologisk civilisation här. I vilket fall är dom för det mesta nomader som lever av vad jorden har att erbjuda med hjälp av primitiva verktyg och vapen.\n\nVissa stammar är mer aggressiva än andra; många är öppna för byteshandel och allianser, även med konstigt folk som ni. Nära sammarbete och rekryteringar kommer bli svårt på grund av den stora socialteknologiska och språkbarrieren mellan stammen och er.\n\nTrots den uppenbara teknologiska svagheten kan stammen vara farliga fiender och värdefulla vänner tack vare deras kunskap inom låkteknologisk krigsföring, deras antal och deras härdighet.</Tribe.description>
-    <Tribe.pawnsPlural>stammedlem</Tribe.pawnsPlural>
-    <Tribe.leaderTitle>Hövding</Tribe.leaderTitle>
-    
-    <Pirate.label>Piratband</Pirate.label>
-    <Pirate.description>En grupp pirater.\n\nPirater varken odlar, bygger eller förhandlar. De får det mesta av sin rikedom från plundringståg och från vad de rånar de mer produktiva grupperna i området på.\n\nDeras teknologiska nivå är för det mesta beroende på vilka de har lyckats stjäla från nyligen. För det mesta bär de på krutvapen, men de med tur kan ha mer avancerade energivapen, medan några gillar att knivhugga sina fiender på nära håll.</Pirate.description>
-    <Pirate.pawnsPlural>pirater</Pirate.pawnsPlural>
-    <Pirate.leaderTitle>Boss</Pirate.leaderTitle>
-    
+
+  <Outlander.label>Stad av utlänningar</Outlander.label>
+  <Outlander.description>Ett litet samhälle av överlevande.\n\nDessa människor har bott här i årtionden. De har förlorat mycket av den teknologi som först tog dem hit, och arbetar vanligtvis med enkla mekaniska verktyg och sammansättningar, och försvarar sig själva med avancerade vapen från krut-eran.\n\nDe är varken aggressiva eller svaga, och bryr sig om handel, tillit, och överlevnad.</Outlander.description>
+  <Outlander.pawnsPlural>utlänningar</Outlander.pawnsPlural>
+  <Outlander.leaderTitle>Borgmästare</Outlander.leaderTitle>
+
+  <Tribe.label>stam</Tribe.label>
+  <Tribe.description>Dessa människor har varit här en väldigt lång tid. Kanske krashade deras förfäder här för tusen år sedan, kanske var dom överlevare i en katastrof som förstörde en teknologisk civilisation här. I vilket fall är dom för det mesta nomader som lever av vad jorden har att erbjuda med hjälp av primitiva verktyg och vapen.\n\nVissa stammar är mer aggressiva än andra; många är öppna för byteshandel och allianser, även med konstigt folk som ni. Nära sammarbete och rekryteringar kommer bli svårt på grund av den stora socialteknologiska och språkbarrieren mellan stammen och er.\n\nTrots den uppenbara teknologiska svagheten kan stammen vara farliga fiender och värdefulla vänner tack vare deras kunskap inom låkteknologisk krigsföring, deras antal och deras härdighet.</Tribe.description>
+  <Tribe.pawnsPlural>stammedlem</Tribe.pawnsPlural>
+  <Tribe.leaderTitle>Hövding</Tribe.leaderTitle>
+
+  <Pirate.label>Piratband</Pirate.label>
+  <Pirate.description>En grupp pirater.\n\nPirater varken odlar, bygger eller förhandlar. De får det mesta av sin rikedom från plundringståg och från vad de rånar de mer produktiva grupperna i området på.\n\nDeras teknologiska nivå är för det mesta beroende på vilka de har lyckats stjäla från nyligen. För det mesta bär de på krutvapen, men de med tur kan ha mer avancerade energivapen, medan några gillar att knivhugga sina fiender på nära håll.</Pirate.description>
+  <Pirate.pawnsPlural>pirater</Pirate.pawnsPlural>
+  <Pirate.leaderTitle>Boss</Pirate.leaderTitle>
+
+
 </LanguageData>

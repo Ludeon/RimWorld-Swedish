@@ -1,28 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Clear.label>klart</Clear.label>
-    <Clear.description>En klar dag. Inga avdrag eller modifieringar.</Clear.description>
-    
-    <Fog.label>dimma</Fog.label>
-    <Fog.description>Dimma minskar träffsäkerheten på avståndsvapen.</Fog.description>
-    
-    <Rain.label>regn</Rain.label>
-    <Rain.description>Regn minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</Rain.description>
-    
-    <DryThunderstorm.label>torrt åskväder</DryThunderstorm.label>
-    <DryThunderstorm.description>Torra åska är farliga eftersom blixten kan starta bränder och det finns inget regn att släcka dom med.</DryThunderstorm.description>
-    
-    <RainyThunderstorm.label>regnigt åskväder</RainyThunderstorm.label>
-    <RainyThunderstorm.description>Blixten kommer att starta bränder, men regnet kommer att släcka dom. Regnet minskar också träffsäkerheten på avståndsvapen och saktar ner folk.</RainyThunderstorm.description>
-    
-    <FoggyRain.label>dimmigt regn</FoggyRain.label>
-    <FoggyRain.description>Minskar träffsäkerheten på avståndsvapen och saktar ner folk.</FoggyRain.description>
-    
-    <SnowHard.label>tung snö</SnowHard.label>
-    <SnowHard.description>>Snö minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</SnowHard.description>
-    
-    <SnowGentle.label>lätt snö</SnowGentle.label>
-    <SnowGentle.description>Snö minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</SnowGentle.description>
-    
+
+  <Clear.label>klart</Clear.label>
+  <Clear.description>En klar dag. Inga avdrag eller modifieringar.</Clear.description>
+
+  <Fog.label>dimma</Fog.label>
+  <Fog.description>Dimma minskar träffsäkerheten på avståndsvapen.</Fog.description>
+
+  <Rain.label>regn</Rain.label>
+  <Rain.description>Regn minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</Rain.description>
+
+  <DryThunderstorm.label>torrt åskväder</DryThunderstorm.label>
+  <DryThunderstorm.description>Torra åska är farliga eftersom blixten kan starta bränder och det finns inget regn att släcka dom med.</DryThunderstorm.description>
+
+  <RainyThunderstorm.label>regnigt åskväder</RainyThunderstorm.label>
+  <RainyThunderstorm.description>Blixten kommer att starta bränder, men regnet kommer att släcka dom. Regnet minskar också träffsäkerheten på avståndsvapen och saktar ner folk.</RainyThunderstorm.description>
+
+  <FoggyRain.label>dimmigt regn</FoggyRain.label>
+  <FoggyRain.description>Minskar träffsäkerheten på avståndsvapen och saktar ner folk.</FoggyRain.description>
+
+  <SnowHard.label>tung snö</SnowHard.label>
+  <SnowHard.description>Snö minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</SnowHard.description>
+
+  <SnowGentle.label>lätt snö</SnowGentle.label>
+  <SnowGentle.description>Snö minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</SnowGentle.description>
+
+
 </LanguageData>

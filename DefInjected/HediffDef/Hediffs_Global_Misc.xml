@@ -1,43 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <BloodLoss.label>Blodförlust</BloodLoss.label>
-    <BloodLoss.stages.0.label>trivial</BloodLoss.stages.0.label>
-    <BloodLoss.stages.1.label>lindrig</BloodLoss.stages.1.label>
-    <BloodLoss.stages.2.label>måttlig</BloodLoss.stages.2.label>
-    <BloodLoss.stages.3.label>allvarlig</BloodLoss.stages.3.label>
-    <BloodLoss.stages.4.label>extrem</BloodLoss.stages.4.label>
-    
-    <Anesthetic.label>Narkos</Anesthetic.label>
-    <PsychicShock.label>Psykisk Chock</PsychicShock.label>
-    <CryptosleepSickness.label>Kryptosömnsjuka</CryptosleepSickness.label>
-    <FoodPoisoning.label>Matförgiftning</FoodPoisoning.label>
-    
-    <ToxicBuildup.label>Förgiftning</ToxicBuildup.label>
-    <ToxicBuildup.stages.0.label>första dolda tecknen</ToxicBuildup.stages.0.label>
-    <ToxicBuildup.stages.1.label>initial</ToxicBuildup.stages.1.label>
-    <ToxicBuildup.stages.2.label>lindrig</ToxicBuildup.stages.2.label>
-    <ToxicBuildup.stages.3.label>måttlig</ToxicBuildup.stages.3.label>
-    <ToxicBuildup.stages.4.label>allvarlig</ToxicBuildup.stages.4.label>
-    <ToxicBuildup.stages.5.label>extrem</ToxicBuildup.stages.5.label>
-    
-    <Pregnant.label>Gravid</Pregnant.label>
-    <Pregnant.comps.0.discoverLetterLabel>{0} gravid</Pregnant.comps.0.discoverLetterLabel>
-    <Pregnant.comps.0.discoverLetterText>{0} är gravid!</Pregnant.comps.0.discoverLetterText>
-    <Pregnant.stages.0.label>Första Trimestern - dold </Pregnant.stages.0.label>
-    <Pregnant.stages.1.label>Andra Trimestern</Pregnant.stages.1.label>
-    <Pregnant.stages.2.label>Tredje Trimestern</Pregnant.stages.2.label>
-    
-    <HeartAttack.label>Hjärtinfakt</HeartAttack.label>
-    <HeartAttack.stages.0.label>smärtsam</HeartAttack.stages.0.label>
-    <HeartAttack.stages.1.label>försvagande</HeartAttack.stages.1.label>
-    <HeartAttack.stages.2.label>dödlig</HeartAttack.stages.2.label>
-    
-    <DrugOverdose.label>Drogöverdos</DrugOverdose.label>
-    <DrugOverdose.comps.1.discoverLetterLabel>Överdos: {0}</DrugOverdose.comps.1.discoverLetterLabel>
-    <DrugOverdose.comps.1.discoverLetterText>{0} överdoserar!</DrugOverdose.comps.1.discoverLetterText>
-    <DrugOverdose.stages.0.label>dold</DrugOverdose.stages.0.label>
-    <DrugOverdose.stages.1.label>lindrig</DrugOverdose.stages.1.label>
-    <DrugOverdose.stages.2.label>allvarlig</DrugOverdose.stages.2.label>
-    
+
+  <BloodLoss.label>Blodförlust</BloodLoss.label>
+  <BloodLoss.stages.0.label>trivial</BloodLoss.stages.0.label>
+  <BloodLoss.stages.1.label>lindrig</BloodLoss.stages.1.label>
+  <BloodLoss.stages.2.label>måttlig</BloodLoss.stages.2.label>
+  <BloodLoss.stages.3.label>allvarlig</BloodLoss.stages.3.label>
+  <BloodLoss.stages.4.label>extrem</BloodLoss.stages.4.label>
+
+  <Anesthetic.label>Narkos</Anesthetic.label>
+  <PsychicShock.label>Psykisk Chock</PsychicShock.label>
+  <CryptosleepSickness.label>Kryptosömnsjuka</CryptosleepSickness.label>
+  <FoodPoisoning.label>Matförgiftning</FoodPoisoning.label>
+
+  <ToxicBuildup.label>Förgiftning</ToxicBuildup.label>
+  <ToxicBuildup.stages.0.label>första dolda tecknen</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.1.label>initial</ToxicBuildup.stages.1.label>
+  <ToxicBuildup.stages.2.label>lindrig</ToxicBuildup.stages.2.label>
+  <ToxicBuildup.stages.3.label>måttlig</ToxicBuildup.stages.3.label>
+  <ToxicBuildup.stages.4.label>allvarlig</ToxicBuildup.stages.4.label>
+  <ToxicBuildup.stages.5.label>extrem</ToxicBuildup.stages.5.label>
+
+  <Pregnant.label>Gravid</Pregnant.label>
+  <Pregnant.comps.0.discoverLetterLabel>{0} gravid</Pregnant.comps.0.discoverLetterLabel>
+  <Pregnant.comps.0.discoverLetterText>{0} är gravid!</Pregnant.comps.0.discoverLetterText>
+  <Pregnant.stages.0.label>Första Trimestern - dold </Pregnant.stages.0.label>
+  <Pregnant.stages.1.label>Andra Trimestern</Pregnant.stages.1.label>
+  <Pregnant.stages.2.label>Tredje Trimestern</Pregnant.stages.2.label>
+
+  <HeartAttack.label>Hjärtinfakt</HeartAttack.label>
+  <HeartAttack.stages.0.label>smärtsam</HeartAttack.stages.0.label>
+  <HeartAttack.stages.1.label>försvagande</HeartAttack.stages.1.label>
+  <HeartAttack.stages.2.label>dödlig</HeartAttack.stages.2.label>
+
+  <DrugOverdose.label>Drogöverdos</DrugOverdose.label>
+  <DrugOverdose.comps.1.discoverLetterLabel>Överdos: {0}</DrugOverdose.comps.1.discoverLetterLabel>
+  <DrugOverdose.comps.1.discoverLetterText>{0} överdoserar!</DrugOverdose.comps.1.discoverLetterText>
+  <DrugOverdose.stages.0.label>dold</DrugOverdose.stages.0.label>
+  <DrugOverdose.stages.1.label>lindrig</DrugOverdose.stages.1.label>
+  <DrugOverdose.stages.2.label>allvarlig</DrugOverdose.stages.2.label>
+
+
 </LanguageData>

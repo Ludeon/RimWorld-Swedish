@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Consciousness.label>medvetande</Consciousness.label>
-    <Consciousness.labelMechanoids>Behandlar data</Consciousness.labelMechanoids>
-    
-    <Sight.label>syn</Sight.label>
-    <Hearing.label>hörsel</Hearing.label>
-    <Moving.label>förflyttning</Moving.label>
-    <Manipulation.label>manipulation</Manipulation.label>
-    
-    <Talking.label>pratar</Talking.label>
-    <Talking.labelMechanoids>kommunikation</Talking.labelMechanoids>
-    
-    <Eating.label>äter</Eating.label>
-    <Breathing.label>andning</Breathing.label>
-    <BloodFiltration.label>blodfiltrering</BloodFiltration.label>
-    <BloodPumping.label>blodpump</BloodPumping.label>
-    <Metabolism.label>ämnesomsättning</Metabolism.label>
-    
+
+  <Consciousness.label>medvetande</Consciousness.label>
+  <Consciousness.labelMechanoids>Behandlar data</Consciousness.labelMechanoids>
+
+  <Moving.label>förflyttning</Moving.label>
+  <Manipulation.label>manipulation</Manipulation.label>
+
+  <Talking.label>pratar</Talking.label>
+  <Talking.labelMechanoids>kommunikation</Talking.labelMechanoids>
+
+  <Eating.label>äter</Eating.label>
+  <Sight.label>syn</Sight.label>
+  <Hearing.label>hörsel</Hearing.label>
+  <Breathing.label>andning</Breathing.label>
+  <BloodFiltration.label>blodfiltrering</BloodFiltration.label>
+  <BloodPumping.label>blodpump</BloodPumping.label>
+  <Metabolism.label>ämnesomsättning</Metabolism.label>
+
+
 </LanguageData>

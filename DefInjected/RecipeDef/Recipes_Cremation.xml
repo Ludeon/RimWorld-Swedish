@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <CremateCorpse.label>Kremera kropp</CremateCorpse.label>
-    <CremateCorpse.description>Kremera en kropp för att helt förstöra den.</CremateCorpse.description>
-    <CremateCorpse.jobString>Kremerar.</CremateCorpse.jobString>
-    
-    <BurnApparel.label>Bränn kläder</BurnApparel.label>
-    <BurnApparel.description>Bränn kläder för att helt bli av med dom.</BurnApparel.description>
-    <BurnApparel.jobString>Bränner kläder.</BurnApparel.jobString>
-	
-	<BurnApparelCampfire.label>Bränn kläder</BurnApparelCampfire.label>
-    <BurnApparelCampfire.description>Bränn kläder för att helt bli av med dom.</BurnApparelCampfire.description>
-    <BurnApparelCampfire.jobString>Bränner kläder.</BurnApparelCampfire.jobString>
 
-    
+  <CremateCorpse.label>kremera kropp</CremateCorpse.label>
+  <CremateCorpse.description>Kremera en kropp för att helt förstöra den.</CremateCorpse.description>
+  <CremateCorpse.jobString>Kremerar.</CremateCorpse.jobString>
+
+  <BurnApparel.label>bränn kläder</BurnApparel.label>
+  <BurnApparel.description>Bränn kläder för att helt bli av med dom.</BurnApparel.description>
+  <BurnApparel.jobString>Bränner kläder.</BurnApparel.jobString>
+
+  <BurnApparelCampfire.label>bränn kläder</BurnApparelCampfire.label>
+  <BurnApparelCampfire.description>Bränn kläder för att helt bli av med dom.</BurnApparelCampfire.description>
+  <BurnApparelCampfire.jobString>Bränner kläder.</BurnApparelCampfire.jobString>
+
+  <BurnDrugs.label>bränn droger</BurnDrugs.label>
+  <BurnDrugs.description>Bränn droger för att helt bli av med dom.</BurnDrugs.description>
+  <BurnDrugs.jobString>Bränner droger.</BurnDrugs.jobString>
+
+
 </LanguageData>

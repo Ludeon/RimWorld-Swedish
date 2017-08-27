@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Threats -->
+
+  <Ambush.label>bakhåll</Ambush.label>
+  <Ambush.letterText>Er karavan har råkat i ett bakhåll av {0} från {1}!</Ambush.letterText>
+  <Ambush.letterLabel>Karavan i bakhåll</Ambush.letterLabel>
+
+  <ManhunterAmbush.label>Bakhåll människojägare</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>Er karavan har råkat i ett bakhåll av {0}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>Karavan i bakhåll (människojagägare)</ManhunterAmbush.letterLabel>
+
+
+  <!-- Good -->
+
+  <CaravanMeeting.label>Karavanmöte</CaravanMeeting.label>
+
+
+  <!-- Bad -->
+
+  <CaravanDemand.label>Tullkrav</CaravanDemand.label>
+  <CaravanDemand.letterText>Er karavan har råkat i ett bakhåll av {0} från {1}!</CaravanDemand.letterText>
+  <CaravanDemand.letterLabel>Karavan i bakhåll</CaravanDemand.letterLabel>
+
+
+</LanguageData>

@@ -1,24 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <FilthDirt.label>smuts</FilthDirt.label>
-    <FilthAnimalFilth.label>djursmuts</FilthAnimalFilth.label>
-    <FilthSand.label>sand</FilthSand.label>
-    <RockRubble.label>stenspillror</RockRubble.label>
-    <BuildingRubble.label>byggavfall</BuildingRubble.label>
-    <SandbagRubble.label>spridda sandsäckar</SandbagRubble.label>
-    
-	
-	<!-- Fluids etc -->
-	
-    <FilthBlood.label>blod</FilthBlood.label>
-    <FilthBloodInsect.label>insektsblod</FilthBloodInsect.label>
-    <FilthAmnioticFluid.label>fostervatten</FilthAmnioticFluid.label>
-    <FilthSlime.label>slem</FilthSlime.label>
-    <FilthVomit.label>spya</FilthVomit.label>
-    <FilthFireFoam.label>bandskum</FilthFireFoam.label>
-	
-    <FilthFuel.label>bränslepöl</FilthFuel.label>
-    <FilthFuel.description>brinner på marken.</FilthFuel.description>
-    
+
+  <FilthDirt.label>smuts</FilthDirt.label>
+  <FilthAnimalFilth.label>djursmuts</FilthAnimalFilth.label>
+  <FilthSand.label>sand</FilthSand.label>
+  <RockRubble.label>stenspillror</RockRubble.label>
+  <BuildingRubble.label>byggavfall</BuildingRubble.label>
+  <SlagRubble.label>utspridd slagg</SlagRubble.label>
+  <SandbagRubble.label>spridda sandsäckar</SandbagRubble.label>
+
+
+  <!-- Fluids etc -->
+
+  <FilthBlood.label>blod</FilthBlood.label>
+  <FilthBloodInsect.label>insektsblod</FilthBloodInsect.label>
+  <FilthAmnioticFluid.label>fostervatten</FilthAmnioticFluid.label>
+  <FilthSlime.label>slem</FilthSlime.label>
+  <FilthVomit.label>spya</FilthVomit.label>
+  <FilthFireFoam.label>bandskum</FilthFireFoam.label>
+
+  <FilthFuel.label>bränslepöl</FilthFuel.label>
+  <FilthFuel.description>brinner på marken.</FilthFuel.description>
+
+  <FilthCorpseBile.label>likgalla</FilthCorpseBile.label>
+  <FilthAsh.label>aska</FilthAsh.label>
+
+
 </LanguageData>

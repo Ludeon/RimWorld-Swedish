@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
- 
+
   <Caravan.label>karavan</Caravan.label>
   <Caravan.description>En grupp av resande personer.</Caravan.description>
 
@@ -22,5 +22,8 @@
   <TravelingTransportPods.label>transportkaplsar</TravelingTransportPods.label>
   <TravelingTransportPods.description>Flygande transportkapslar.</TravelingTransportPods.description>
 
-	
+  <RoutePlannerWaypoint.label>vägpunkt</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>En temporär vägpunkt.</RoutePlannerWaypoint.description>
+
+
 </LanguageData>

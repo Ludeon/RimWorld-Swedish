@@ -1,22 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Apparel_CowboyHat.label>cowboyhatt</Apparel_CowboyHat.label>
-    <Apparel_CowboyHat.description>Elegant men ändå robust, håller sol och regn utanför och ger den dom bär den lite extra charm. Det är den viktigaste delen av den traditionella western-klädseln.</Apparel_CowboyHat.description>
-    
-    <Apparel_Tuque.label>mössa</Apparel_Tuque.label>
-    <Apparel_Tuque.description>En mjuk, tjock mössa. Perfekt för att hålla sig varmt på vintern.</Apparel_Tuque.description>
-    
-    <Apparel_MilitaryHelmet.label>militärhjälm</Apparel_MilitaryHelmet.label>
-    <Apparel_MilitaryHelmet.description>Gammal och tung, men effektiv. Skyddar mot låghastighetsprojektiler , granatsplitter , fallande skräp och hugg mot huvudet.</Apparel_MilitaryHelmet.description>
-    
-    <Apparel_KevlarHelmet.label>kevlarhjälm</Apparel_KevlarHelmet.label>
-    <Apparel_KevlarHelmet.description>En lättviktig stridshjälm.</Apparel_KevlarHelmet.description>
-    
-    <Apparel_PsychicFoilHelmet.label>psykisk foliehatt</Apparel_PsychicFoilHelmet.label>
-    <Apparel_PsychicFoilHelmet.description>En tunn hjälm innehållande finstämda blad av psykiskt absorberande folie. Minskar effekten av psykiska händelser.</Apparel_PsychicFoilHelmet.description>
-    
-    <Apparel_PowerArmorHelmet.label>hjälm till kraftrustning</Apparel_PowerArmorHelmet.label>
-    <Apparel_PowerArmorHelmet.description>En del till kraftrustningen, används främst av tung infanteri.</Apparel_PowerArmorHelmet.description>
-    
+
+  <Apparel_CowboyHat.label>cowboyhatt</Apparel_CowboyHat.label>
+  <Apparel_CowboyHat.description>Elegant men ändå robust, håller sol och regn utanför och ger den dom bär den lite extra charm. Det är den viktigaste delen av den traditionella western-klädseln.</Apparel_CowboyHat.description>
+
+  <Apparel_BowlerHat.label>plommonstop</Apparel_BowlerHat.label>
+  <Apparel_BowlerHat.description>En snygg hatt som projekterar en lite urban, pengarälskande stil. Förbättrar sociala konsekvenser.</Apparel_BowlerHat.description>
+
+  <Apparel_Tuque.label>mössa</Apparel_Tuque.label>
+  <Apparel_Tuque.description>En mjuk, tjock mössa. Perfekt för att hålla sig varmt på vintern.</Apparel_Tuque.description>
+
+
+  <!-- Helmets -->
+
+  <Apparel_SimpleHelmet.label>enkel hjälm</Apparel_SimpleHelmet.label>
+  <Apparel_SimpleHelmet.description>En enkel hjälm som ger måttligt skydd mot vassa attacker. Inte effektivt mot trubbiga vapen.</Apparel_SimpleHelmet.description>
+
+  <Apparel_AdvancedHelmet.label>advancerad helmet</Apparel_AdvancedHelmet.label>
+  <Apparel_AdvancedHelmet.description>En lättvikts hjälm med komplex design, förstärkt med plastål. Inte effektivt mot trubbiga vapen.</Apparel_AdvancedHelmet.description>
+
+  <Apparel_PowerArmorHelmet.label>hjälm till kraftrustning</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.description>En del till kraftrustningen, används främst av tung infanteri.</Apparel_PowerArmorHelmet.description>
+
+  <Apparel_PsychicFoilHelmet.label>psykisk foliehatt</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.description>En tunn hjälm innehållande finstämda blad av psykiskt absorberande folie. Minskar effekten av psykiska händelser.</Apparel_PsychicFoilHelmet.description>
+
+
 </LanguageData>

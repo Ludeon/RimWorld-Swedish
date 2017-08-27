@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <RectTrigger.label>Avtryckare</RectTrigger.label>
-    <DropPodIncoming.label>räddningskapsel (inkommande)</DropPodIncoming.label>
-	<DropPodLeaving.label>räddningskapsel (lämnar)</DropPodLeaving.label>
-	<ActiveDropPod.label>räddningskapsel</ActiveDropPod.label>
-    <Fire.label>eld</Fire.label>
-    <Spark.label>gnista</Spark.label>
-    <TemporaryRegionBarrier.label>tillfällig regionbarriär</TemporaryRegionBarrier.label>
- 
- 
+
+  <RectTrigger.label>Avtryckare</RectTrigger.label>
+  <DropPodIncoming.label>räddningskapsel (inkommande)</DropPodIncoming.label>
+  <DropPodLeaving.label>räddningskapsel (lämnar)</DropPodLeaving.label>
+  <ActiveDropPod.label>räddningskapsel</ActiveDropPod.label>
+  <Fire.label>eld</Fire.label>
+  <Spark.label>gnista</Spark.label>
+
+
 </LanguageData>

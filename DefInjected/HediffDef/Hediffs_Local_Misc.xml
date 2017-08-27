@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
+
   <TraumaSavant.label>trauma savant</TraumaSavant.label>
-  <ChemicalDamageBrain.label>kemiska skador</ChemicalDamageBrain.label>
-  <ChemicalDamageKidney.label>kemiska skador</ChemicalDamageKidney.label>
+  <ChemicalDamageModerate.label>chemical damage</ChemicalDamageModerate.label>
+  <ChemicalDamageSevere.label>chemical damage</ChemicalDamageSevere.label>
   <Cirrhosis.label>Cirros</Cirrhosis.label>
-  
-    
+
+
 </LanguageData>

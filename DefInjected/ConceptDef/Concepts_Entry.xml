@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Concepts taught in the entry screens -->
-	
-    <WorldCameraMovement.label>Kameraförlyttning i världen</WorldCameraMovement.label>
-    <WorldCameraMovement.helpText>Zooma med MOUSE WHEEL eller {Key:MapZoomIn} och {Key:MapZoomOut} tangenterna.\n\nFörflytta dig med  {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tangerner, eller genom att MIDDLE-CLICKING och DRAGGING.</WorldCameraMovement.helpText>
-    
+
+  <!-- Concepts taught in the entry screens -->
+
+  <WorldCameraMovement.label>Kameraförlyttning i världen</WorldCameraMovement.label>
+  <WorldCameraMovement.helpText>Zooma med MOUSE WHEEL eller {Key:MapZoomIn} och {Key:MapZoomOut} tangenterna.\n\nFörflytta dig med  {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tangerner, eller genom att MIDDLE-CLICKING och DRAGGING.</WorldCameraMovement.helpText>
+
+
 </LanguageData>

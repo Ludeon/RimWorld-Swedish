@@ -1,32 +1,41 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <WorkSpeedGlobal.label>global arbetshastighet</WorkSpeedGlobal.label>
-    <WorkSpeedGlobal.description>En multiplikator på någons hastighet på att göra ett arbete.</WorkSpeedGlobal.description>
-    
-    <MiningSpeed.label>grävhastighet</MiningSpeed.label>
-    <MiningSpeed.description>En multiplikator på den hastighet med vilken denna person gräver sten.</MiningSpeed.description>
-    
-    <SmoothingSpeed.label>utjämningshastighet</SmoothingSpeed.label>
-    <SmoothingSpeed.description>En multiplikator på den hastighet med vilken denna person jämnar golv.</SmoothingSpeed.description>
-    
-    <ResearchSpeed.label>forskningshastighet</ResearchSpeed.label>
-    <ResearchSpeed.description>Denna person forskar med denna hastighet.</ResearchSpeed.description>
-    
-    <ConstructionSpeed.label>bygghastighet</ConstructionSpeed.label>
-    <ConstructionSpeed.description>Hastighet med vilken denna person bygger och reparerar byggnader.</ConstructionSpeed.description>
-    
-    <PlantWorkSpeed.label>växtarbetshastighet</PlantWorkSpeed.label>
-    <PlantWorkSpeed.description>Hastighet med vilken den här personen sår och skördar växter.</PlantWorkSpeed.description>
-    
-    <HarvestFailChance.label>chans för misslyckad skörd</HarvestFailChance.label>
-    <HarvestFailChance.description>Chansen att denna person av misstag kommer att förstöra skörden i stället för att samla in den.</HarvestFailChance.description>
-    
-    <ConstructFailChance.label>chans att misslyckas bygga</ConstructFailChance.label>
-    <ConstructFailChance.description>Chansen att denna person kommer att misslyckas i att bygga något, slösa tid och resurser.</ConstructFailChance.description>
-    
-    <FixBrokenDownBuildingFailChance.label>chans att misslyckas med reparation</FixBrokenDownBuildingFailChance.label>
-    <FixBrokenDownBuildingFailChance.description>Chansen att denna person kommer att misslyckas med att reparera en trasig byggnad.</FixBrokenDownBuildingFailChance.description>
-    
-	
+
+  <WorkSpeedGlobal.label>global arbetshastighet</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>En multiplikator på någons hastighet på att göra ett arbete.</WorkSpeedGlobal.description>
+
+  <MiningSpeed.label>gruvhastighet</MiningSpeed.label>
+  <MiningSpeed.description>En multiplikator på den hastighet med vilken denna person gruvar sten.</MiningSpeed.description>
+
+  <MiningYield.label>gruvutbyte</MiningYield.label>
+  <MiningYield.description>Det procentuella utbytet som en gruvarbetare uppnår. Detta gäller både vägggruvning och djup borrbrytning. Detta påverkar inte när personen bryter sten.</MiningYield.description>
+
+  <SmoothingSpeed.label>utjämningshastighet</SmoothingSpeed.label>
+  <SmoothingSpeed.description>En multiplikator på den hastighet med vilken denna person jämnar golv.</SmoothingSpeed.description>
+
+  <ResearchSpeed.label>forskningshastighet</ResearchSpeed.label>
+  <ResearchSpeed.description>Denna person forskar med denna hastighet.</ResearchSpeed.description>
+
+  <AnimalGatherSpeed.label>Djuruppsamlingshastighet</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>Hastigheten vid vilken denna person mjölkar, klipper och på annat sätt samlar resurser från djur.</AnimalGatherSpeed.description>
+
+  <AnimalGatherYield.label>Djuruppsamlingsutbyte</AnimalGatherYield.label>
+  <AnimalGatherYield.description>Det procentuella utbytet som någon får när de klipper, mjölkar eller på annat sätt samlar in resurser från ett levande djur. Högre procentsatser minskar risken att slösa produkten.</AnimalGatherYield.description>
+
+  <PlantWorkSpeed.label>växtarbetshastighet</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>Hastighet med vilken den här personen sår och skördar växter.</PlantWorkSpeed.description>
+
+  <PlantHarvestYield.label>Växtskördningsutbyte</PlantHarvestYield.label>
+  <PlantHarvestYield.description>Utbytet får någon när man skördar växter. Lågt utbyten ger en chans att den här personen kommer att oavsiktligt slösa av skörden.</PlantHarvestYield.description>
+
+  <ConstructionSpeed.label>bygghastighet</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Hastighet med vilken denna person bygger och reparerar byggnader.</ConstructionSpeed.description>
+
+  <ConstructSuccessChance.label>chans att lyckas bygga</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>Chansen att den här personen kommer att lyckas med att bygga upp något. Att misslyckas innebär att tid och resurser slösas bort.</ConstructSuccessChance.description>
+
+  <FixBrokenDownBuildingSuccessChance.label>chans att lyckas med reparation</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>En chans att den här personen kommer att lyckas reparera en trasig byggnad med hjälp av en komponent. Att misslyckas innebär att tid och resurser slösas bort. Observera att detta endast gäller reparation av trasig byggnader, vilket skiljer sig från att reparera skador.</FixBrokenDownBuildingSuccessChance.description>
+
+  
 </LanguageData>

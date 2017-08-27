@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <GrizzlyBear.label>grizzlybjörn</GrizzlyBear.label>
-    <GrizzlyBear.description>Enorma allätande däggdjur anpassade för kalla klimat. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten vanligtvis består av fisk, bär, honung och döda djur kan grizzlyn ibland avnända sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</GrizzlyBear.description>
-    <GrizzlyBear_Leather.label>gilzzlybjörnfäll</GrizzlyBear_Leather.label>
-    <GrizzlyBear_Leather.description>gilzzlybjörnfäll</GrizzlyBear_Leather.description>
-    <GrizzlyBear_Leather.stuffProps.stuffAdjective>gilzzlybjörnfäll</GrizzlyBear_Leather.stuffProps.stuffAdjective>
-    <GrizzlyBear_Meat.label>björnkött</GrizzlyBear_Meat.label>
-    <GrizzlyBear_Meat.description>björnkött</GrizzlyBear_Meat.description>
-    <GrizzlyBear_Corpse.label>gilzzlybjörnskropp</GrizzlyBear_Corpse.label>
-    <GrizzlyBear_Corpse.description>gilzzlybjörnskropp</GrizzlyBear_Corpse.description>
 
-    <PolarBear.label>isbjörn</PolarBear.label>
-    <PolarBear.description>En stor vit björn som bor i norr. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten består av fisk och döda djur, är isbjörnen mer än kapabel att använda sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</PolarBear.description>
-    <PolarBear_Leather.label>isbjörnfäll</PolarBear_Leather.label>
-    <PolarBear_Leather.description>isbjörnfäll</PolarBear_Leather.description>
-    <PolarBear_Leather.stuffProps.stuffAdjective>isbjörnfäll</PolarBear_Leather.stuffProps.stuffAdjective>
-  
-    <!-- Use Meat From: GrizzlyBear -->
-    <PolarBear_Corpse.label>isbjörnskropp</PolarBear_Corpse.label>
-    <PolarBear_Corpse.description>isbjörnskropp</PolarBear_Corpse.description>
-    
+  <GrizzlyBear.label>grizzlybjörn</GrizzlyBear.label>
+  <GrizzlyBear.description>Enorma allätande däggdjur anpassade för kalla klimat. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten vanligtvis består av fisk, bär, honung och döda djur kan grizzlyn ibland avnända sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</GrizzlyBear.description>
+  <GrizzlyBear_Leather.label>gilzzlybjörnfäll</GrizzlyBear_Leather.label>
+  <GrizzlyBear_Leather.description>gilzzlybjörnfäll</GrizzlyBear_Leather.description>
+  <GrizzlyBear_Leather.stuffProps.stuffAdjective>gilzzlybjörnfäll</GrizzlyBear_Leather.stuffProps.stuffAdjective>
+  <GrizzlyBear_Meat.label>björnkött</GrizzlyBear_Meat.label>
+  <GrizzlyBear_Meat.description>björnkött</GrizzlyBear_Meat.description>
+  <GrizzlyBear_Corpse.label>gilzzlybjörnskropp</GrizzlyBear_Corpse.label>
+  <GrizzlyBear_Corpse.description>gilzzlybjörnskropp</GrizzlyBear_Corpse.description>
+
+  <PolarBear.label>isbjörn</PolarBear.label>
+  <PolarBear.description>En stor vit björn som bor i norr. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten består av fisk och döda djur, är isbjörnen mer än kapabel att använda sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</PolarBear.description>
+  <PolarBear_Leather.label>isbjörnfäll</PolarBear_Leather.label>
+  <PolarBear_Leather.description>isbjörnfäll</PolarBear_Leather.description>
+  <PolarBear_Leather.stuffProps.stuffAdjective>isbjörnfäll</PolarBear_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: GrizzlyBear -->
+  <PolarBear_Corpse.label>isbjörnskropp</PolarBear_Corpse.label>
+  <PolarBear_Corpse.description>isbjörnskropp</PolarBear_Corpse.description>
+
+
 </LanguageData>

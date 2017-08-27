@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <MedicalOperationSpeed.label>hastighet på medicinsk operation</MedicalOperationSpeed.label>
-    <MedicalOperationSpeed.description>Hastighet med vilken denna person utför medicinska ingrepp.</MedicalOperationSpeed.description>
-    
-    <SurgerySuccessChance.label>chans för lyckad kirurgi</SurgerySuccessChance.label>
-    <SurgerySuccessChance.description>Sannolikheten för att en personen kommer att lyckas när man försöker att utföra en operation. Misslyckanden kan resultera i bortkastad tid och medicin, eller katastrofal skada på patienten.</SurgerySuccessChance.description>
-    
-    <HealingQuality.label>behandlingskvalitet</HealingQuality.label>
-    <HealingQuality.description>Behandlingskvalitet ges till patienter när de agerar som en läkare.</HealingQuality.description>
-    
-    <HealingSpeed.label>läkningshastighet</HealingSpeed.label>
-    <HealingSpeed.description>Hastighet med vilken personen läker sår som läkare.</HealingSpeed.description>
-	
-    
+
+  <MedicalTendSpeed.label>medicinsk behandlingshastighet</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Hastighet där personen behandlar sår och sjukdomar som läkare.</MedicalTendSpeed.description>
+
+  <MedicalTendQuality.label>medicinsk behandlingskvalitet</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Kvaliteten av den behandlinges som ges till en patient när den här personen är doktor.</MedicalTendQuality.description>
+
+  <MedicalOperationSpeed.label>hastighet på medicinsk operation</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>Hastighet med vilken denna person utför medicinska ingrepp.</MedicalOperationSpeed.description>
+
+  <MedicalSurgerySuccessChance.label>Chansen att lyckas med medicinsk operation</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>Sannolikheten för att en karaktär kommer att lyckas när man försöker utföra en medicinsk operation. Fel kan resultera i enkel bortkastad tid och medicin eller katastrofala skador på patienten. Den här framgången är också påverkad av de anläggningar och medicin som används i operationen, och svårigheten med operationen.</MedicalSurgerySuccessChance.description>
+
+
 </LanguageData>

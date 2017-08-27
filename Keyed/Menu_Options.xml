@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Audiovisuals -->
@@ -12,6 +12,7 @@
   <PauseOnLoad>Pausa vid laddning</PauseOnLoad>
   <PauseOnUrgentLetter>Pausa vid akut information</PauseOnUrgentLetter>
   <CustomCursor>Speciell muspekare</CustomCursor>
+  <HatsShownOnlyOnMap>Hattar visas endast på spelkarta</HatsShownOnlyOnMap>
   <UIScale>Gränsnittsskala</UIScale>
   <KeyboardConfig>Tangentbordskonfiguration</KeyboardConfig>
   <ChooseLanguage>Välj språk</ChooseLanguage>
@@ -33,15 +34,20 @@
   <MaxNumberOfPlayerHomes>Max antal kolonier: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Växter gungar i vinden</PlantWindSway>
   <MaxPermadeathAutosaveIntervalInfo>Max automatisk sparintervall i permadeath läge är {0} dagar.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Modd-inställningar</ModSettings>
 
   <!-- Resolution -->
   <Resolution>Upplösning</Resolution>
   <Fullscreen>Fullskärm</Fullscreen>
 
-  <!-- Privacy-->
+  <!-- Privacy -->
   <Privacy>Privat</Privacy>
   <UserName>Användarnamn</UserName>
   <ChooseHistoryUploadPref>Uppladdning av speldata.</ChooseHistoryUploadPref>
   <AboutHistoryUpload>Användarens speldata hjälper utvecklaren att balansera spelet. Om du går med på det, kommer din information att skickas varje {0} speldag (och i vissa fall, vid slutet av ett spel) till Rimworlds server för analys. Uppladdad data består endast av statistik och speldata realterat till spelet - ingen personlig information skickas, förutom användarnanmet, vilket betyder att det är helt anonymt.</AboutHistoryUpload>
-  
+
+  <!-- Mods -->
+  <SelectMod>Välj modd...</SelectMod>
+  <NoConfigurableMods>Inga konfigureringsbara moddar laddade.</NoConfigurableMods>
+
 </LanguageData>

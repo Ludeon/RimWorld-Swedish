@@ -1,75 +1,82 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Tier 2: Non-electric -->
-	
-    <PsychiteRefining.label>psychit raffinering</PsychiteRefining.label>
-    <PsychiteRefining.description>Lär dig hur man raffinerar psychit-blad till flake och yayo, olika former av den euforiska drogen psychit.</PsychiteRefining.description>
-    
-    <WakeUpProduction.label>vakna tillverkning</WakeUpProduction.label>
-    <WakeUpProduction.description>Dina kemister lär sig formler och tekniker för att syntisera vakns, en prestationshöjande drog.</WakeUpProduction.description>
-    
-    <GoJuiceProduction.label>go-juice tillverkning</GoJuiceProduction.label>
-    <GoJuiceProduction.description>Lär dig att tillverka den syntetiska drogen go-juice som förbättrar stridsprestandan.</GoJuiceProduction.description>
-    
-    <PenoxycylineProduction.label>penoxycyline tillverkning</PenoxycylineProduction.label>
-    <PenoxycylineProduction.description>Lär dig att tillverka penoxycyline, ett sjukdomsförebyggande läkemedel.</PenoxycylineProduction.description>
-	
-	
-	<!-- Tier 2: Basic electricity -->
-    
-    <Batteries.label>batterier</Batteries.label>
-    <Batteries.description>Bygg batteriar för att lagra elekticitet.</Batteries.description>
-    
-	<Refining.label>raffinering</Refining.label>
-	<Refining.description>Bygg raffinaderier för att göra kemiskt bränsle från trä.</Refining.description>
-	
-    <NutrientPaste.label>näringsmassa</NutrientPaste.label>
-    <NutrientPaste.description>Bygg en näringsmassa-automat som gör ätbara måltidet från råa närande matarmaterial.</NutrientPaste.description>
-    
-    <SolarPanels.label>solpaneler</SolarPanels.label>
-    <SolarPanels.description>Bygg solpaneler för att generera energi ifrån solen.</SolarPanels.description>
-    
-    <AirConditioning.label>luftkonditionering</AirConditioning.label>
-    <AirConditioning.description>Bygg luftkonditionering för att kyla varma rum eller för att hålla frysar kalla.</AirConditioning.description>
-    
-    <Autodoors.label>automatdörrar</Autodoors.label>
-    <Autodoors.description>Bygg dörrar som öppnar sig automatiskt utan att sakta ner någon.</Autodoors.description>
-    
-    <Hydroponics.label>hydrokultur</Hydroponics.label>
-    <Hydroponics.description>Gör det möjligt att bygga hydrokulturbord för att kunna odla grödor snabbt inomhus.</Hydroponics.description>
-    
-    <ElectricSmelting.label>elektrisk smältning</ElectricSmelting.label>
-    <ElectricSmelting.description>Bygg en elektrisk smästung och smedja.\n\nDen elektriska smedjan tillåter dig att smedja utan att använda bränsle. Den elektriska smältugnen använder hetta och starka magneter för att extrahera användbara metaller ifrån slaggbitar och andra föremål.</ElectricSmelting.description>
-    
-    <ElectricCremation.label>elektrisk kremering</ElectricCremation.label>
-    <ElectricCremation.description>Bygg ett krematorium där du kan förånga oänskade kroppar.</ElectricCremation.description>
-    
-    <ColoredLights.label>färgade ljus</ColoredLights.label>
-    <ColoredLights.description>Gör det möjligt för kolonister att konstruera färgade ljus för dekorativa syften.</ColoredLights.description>
-    
-    <Machining.label>bearbetning</Machining.label>
-    <Machining.description>Bygg bearbetningsbord för att tillverka vapen och maskiner samt utvinna användbara metaller ur döda mekanoider.</Machining.description>
-   
-    <IEDBomb.label>Explosiva IEDs</IEDBomb.label>
-    <IEDBomb.description>Tillåter kolonister att bygga improviserade enhetsbaserade fällor från granater.</IEDBomb.description>
-    
-    <IEDIncendiary.label>Brandfarliga IEDs</IEDIncendiary.label>
-    <IEDIncendiary.description>Tillåter kolonister att bygga brandexplosiva fällor från granater.</IEDIncendiary.description>
-    
-    <Mortars.label>granatkastare</Mortars.label>
-    <Mortars.description>Lär dig bygga granatkastare som kan skjuta granater långa sträckor över murar.</Mortars.description>
-	
-    <MicroelectronicsBasics.label>mikroelektronisk grund</MicroelectronicsBasics.label>
-    <MicroelectronicsBasics.description>Grunten till att arbeta med känslig och komplex elektronik. Detta låser upp högteknologisk forskningsbänk, kommunikationspanel och andra forskningsprojekt såsom Katodrör-TV och cryptosömn-kapslar.</MicroelectronicsBasics.description>
-	
-	
-	<!-- Tier 2.5 Microelectronics -->
-    
-    <TubeTelevision.label>katodrör-TV</TubeTelevision.label>
-    <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
-    
-    <GunTurrets.label>kanontorn</GunTurrets.label>
-    <GunTurrets.description>Tillåter tillverkning av automatiska kanontorn.</GunTurrets.description>
-    
+
+  <!-- Tier 2: Non-electric -->
+
+  <PsychiteRefining.label>psychit raffinering</PsychiteRefining.label>
+  <PsychiteRefining.description>Lär dig hur man raffinerar psychit-blad till flingor och yayo, olika former av den euforiska drogen psychit.</PsychiteRefining.description>
+
+  <WakeUpProduction.label>vakna tillverkning</WakeUpProduction.label>
+  <WakeUpProduction.description>Dina kemister lär sig formler och tekniker för att syntisera vakna, en prestationshöjande drog.</WakeUpProduction.description>
+
+  <GoJuiceProduction.label>go-juice tillverkning</GoJuiceProduction.label>
+  <GoJuiceProduction.description>Lär dig att tillverka den syntetiska drogen go-juice som förbättrar stridsprestandan.</GoJuiceProduction.description>
+
+  <PenoxycylineProduction.label>penoxycyline tillverkning</PenoxycylineProduction.label>
+  <PenoxycylineProduction.description>Lär dig att tillverka penoxycyline, ett sjukdomsförebyggande läkemedel.</PenoxycylineProduction.description>
+
+
+  <!-- Tier 2: Basic electricity -->
+
+  <Batteries.label>batterier</Batteries.label>
+  <Batteries.description>Bygg batterier för att lagra elekticitet.</Batteries.description>
+
+  <Refining.label>raffinering</Refining.label>
+  <Refining.description>Bygg raffinaderier för att göra kemiskt bränsle från trä.</Refining.description>
+
+  <NutrientPaste.label>näringsmassa</NutrientPaste.label>
+  <NutrientPaste.description>Bygg en näringsmassa-automat som gör ätbara måltidet från råa närande matarmaterial.</NutrientPaste.description>
+
+  <SolarPanels.label>solpaneler</SolarPanels.label>
+  <SolarPanels.description>Bygg solpaneler för att generera energi ifrån solen.</SolarPanels.description>
+
+  <AirConditioning.label>luftkonditionering</AirConditioning.label>
+  <AirConditioning.description>Bygg luftkonditionering för att kyla varma rum eller för att hålla frysar kalla.</AirConditioning.description>
+
+  <Autodoors.label>automatdörrar</Autodoors.label>
+  <Autodoors.description>Bygg dörrar som öppnar sig automatiskt utan att sakta ner någon.</Autodoors.description>
+
+  <Hydroponics.label>hydrokultur</Hydroponics.label>
+  <Hydroponics.description>Gör det möjligt att bygga hydrokulturbord för att kunna odla grödor snabbt inomhus.</Hydroponics.description>
+
+  <ElectricSmelting.label>elektrisk smältning</ElectricSmelting.label>
+  <ElectricSmelting.description>Bygg en elektrisk smästung och smedja.\n\nDen elektriska smedjan tillåter dig att smedja utan att använda bränsle. Den elektriska smältugnen använder hetta och starka magneter för att extrahera användbara metaller ifrån slaggbitar och andra föremål.</ElectricSmelting.description>
+
+  <PackagedSurvivalMeal.label>förpackad överlevnadsmåltid</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.description>Lär dig att laga förpackade överlevnadsmål, en konserverad och förseglad mat som aldrig blir dålig. Perfekt för resor.</PackagedSurvivalMeal.description>
+
+  <ElectricCremation.label>elektrisk kremering</ElectricCremation.label>
+  <ElectricCremation.description>Bygg ett krematorium där du kan förånga oönskade kroppar.</ElectricCremation.description>
+
+  <ColoredLights.label>färgade ljus</ColoredLights.label>
+  <ColoredLights.description>Gör det möjligt för kolonister att konstruera färgade ljus för dekorativa syften.</ColoredLights.description>
+
+  <Machining.label>bearbetning</Machining.label>
+  <Machining.description>Bygg bearbetningsbord för att tillverka vapen och maskiner samt utvinna användbara metaller ur döda mekanoider.</Machining.description>
+
+  <IEDBomb.label>Explosiva IEDs</IEDBomb.label>
+  <IEDBomb.description>Tillåter kolonister att bygga improviserade enhetsbaserade fällor från granater.</IEDBomb.description>
+
+  <IEDIncendiary.label>Brandfarliga IEDs</IEDIncendiary.label>
+  <IEDIncendiary.description>Tillåter kolonister att bygga brandexplosiva fällor från granater.</IEDIncendiary.description>
+
+  <Mortars.label>granatkastare</Mortars.label>
+  <Mortars.description>Lär dig bygga granatkastare som kan skjuta granater långa sträckor över murar.</Mortars.description>
+
+  <SmokepopBelt.label>rökskyddsbälte</SmokepopBelt.label>
+  <SmokepopBelt.description>Lär dig att bygga rökskyddsbälte som kan ge ett automatiskt defensivt rökmoln.</SmokepopBelt.description>
+
+  <MicroelectronicsBasics.label>mikroelektronisk grund</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>Grunden till att arbeta med känslig och komplex elektronik. Detta låser upp högteknologisk forskningsbänk, kommunikationspanel och andra forskningsprojekt såsom Katodrör-TV och cryptosömn-kapslar.</MicroelectronicsBasics.description>
+
+
+  <!-- Tier 2.5 Microelectronics -->
+
+  <TubeTelevision.label>katodrör-TV</TubeTelevision.label>
+  <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
+
+  <GunTurrets.label>kanontorn</GunTurrets.label>
+  <GunTurrets.description>Tillåter tillverkning av automatiska kanontorn.</GunTurrets.description>
+
+
 </LanguageData>

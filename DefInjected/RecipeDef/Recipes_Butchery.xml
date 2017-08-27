@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <ButcherCorpseFlesh.label>Slakta varelse</ButcherCorpseFlesh.label>
-    <ButcherCorpseFlesh.description>Slaktar en varelse för att utvinna dess kött i användbar form.</ButcherCorpseFlesh.description>
-    <ButcherCorpseFlesh.jobString>Slaktar.</ButcherCorpseFlesh.jobString>
-    
-    <ButcherCorpseMechanoid.label>Plocka isär mekanoid</ButcherCorpseMechanoid.label>
-    <ButcherCorpseMechanoid.description>Plockar en död mekanoid i delar.</ButcherCorpseMechanoid.description>
-    <ButcherCorpseMechanoid.jobString>Plockar isär mekanoid.</ButcherCorpseMechanoid.jobString>
-    
+
+  <ButcherCorpseFlesh.label>slakta varelse</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Slaktar en varelse för att utvinna dess kött i användbar form.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Slaktar.</ButcherCorpseFlesh.jobString>
+
+  <ButcherCorpseMechanoid.label>plocka isär mekanoid</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.description>Plockar en död mekanoid i delar.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>Plockar isär mekanoid.</ButcherCorpseMechanoid.jobString>
+
+
 </LanguageData>

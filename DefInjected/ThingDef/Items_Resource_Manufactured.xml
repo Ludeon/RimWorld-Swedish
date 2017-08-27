@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <!-- Medicine -->
 
-    <HerbalMedicine.label>örtmedicin</HerbalMedicine.label>
-    <HerbalMedicine.description>Ett paket av växtbaserade hopkok typiskt extraheras från helande rötter. Mindre potent än industriläkemedel men mycket bättre än ingenting.</HerbalMedicine.description>
+  <!-- Medicine -->
 
-    <Medicine.label>medicin</Medicine.label>
-    <Medicine.description>Medicinska personalen använder dessa paket att läka de sårade.</Medicine.description>
+  <HerbalMedicine.label>örtmedicin</HerbalMedicine.label>
+  <HerbalMedicine.description>Ett paket av växtbaserade hopkok typiskt extraheras från helande rötter. Mindre potent än industriläkemedel men mycket bättre än ingenting.</HerbalMedicine.description>
 
-    <GlitterworldMedicine.label>glitterväldsmedicin</GlitterworldMedicine.label>
-    <GlitterworldMedicine.description>Avancerade medicinska förnödenheter från ett högteknologiskt glitterväld.</GlitterworldMedicine.description>
+  <Medicine.label>medicin</Medicine.label>
+  <Medicine.description>Medicinska personalen använder dessa paket att läka de sårade.</Medicine.description>
 
-
-    <!-- Shells -->
-
-    <MortarShell.label>granat</MortarShell.label>
-    <MortarShell.description>Skjuts från granatkastare. Exploderar när den skadas.</MortarShell.description>
+  <GlitterworldMedicine.label>glitterväldsmedicin</GlitterworldMedicine.label>
+  <GlitterworldMedicine.description>Avancerade medicinska förnödenheter från ett högteknologiskt glitterväld.</GlitterworldMedicine.description>
 
 
-    <!-- Component -->
+  <!-- Shells -->
 
-    <Component.label>komponenter</Component.label>
-    <Component.description>Diverse kugghjul, kondensatorer, kretskort, rör, hjul, sensorer, kablar, chips, processorer och andra elektroniska och industriella delar. Nödvändig för montering komplexa maskiner eller elektronik.</Component.description>
+  <MortarShell.label>granat</MortarShell.label>
+  <MortarShell.description>Skjuts från granatkastare. Exploderar när den skadas.</MortarShell.description>
 
 
-    <!-- Neutroamine -->
+  <!-- Component -->
 
-    <Neutroamine.label>neutroamin</Neutroamine.label>
-    <Neutroamine.description>En syntetisk prekursur kemikalie. Värdelös för sig själv men många läkemedel kräver neutroamine som en ingrediens.</Neutroamine.description>
-	
-	
-	<!-- Chemfuel -->
+  <Component.label>komponenter</Component.label>
+  <Component.description>Diverse kugghjul, kondensatorer, kretskort, rör, hjul, sensorer, kablar, chips, processorer och andra elektroniska och industriella delar. Nödvändig för montering komplexa maskiner eller elektronik.</Component.description>
 
-    <Chemfuel.label>kemiskt bränsle</Chemfuel.label>
-    <Chemfuel.description>Flyktig vätska av kemisk förening. Används för bränsle till raketer och andra maskiner.</Chemfuel.description>
 
-    
+  <!-- Neutroamine -->
+
+  <Neutroamine.label>neutroamin</Neutroamine.label>
+  <Neutroamine.description>En syntetisk prekursur kemikalie. Värdelös för sig själv men många läkemedel kräver neutroamine som en ingrediens.</Neutroamine.description>
+
+
+  <!-- Chemfuel -->
+
+  <Chemfuel.label>kemiskt bränsle</Chemfuel.label>
+  <Chemfuel.description>Flyktig vätska av kemisk förening. Används för bränsle till raketer och andra maskiner.</Chemfuel.description>
+
+
 </LanguageData>

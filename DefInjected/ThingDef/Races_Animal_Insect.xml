@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Megascarab.label>jätteskalbagge</Megascarab.label>
-    <Megascarab.description>En stor, genetiskt tillverkad skalbagge. En gång arbetstsklassen av ett konstgjort ekosystem av insektoider utformade för att bekämpa mekanoid invasioner, är det nu vanligare att dom ses utan sina dödligare insektoidkusiner. Fortfarande görs dess storlek och hårda skal dom farliga när det attackerar. En eusocial varelse som inte kan reproducera sig individuellt.</Megascarab.description>
-    <!-- Leather Amount: 0 -->
-    <!-- Use Meat From: Megaspider -->
-    <Megascarab_Corpse.label>jätteskalbaggekropp</Megascarab_Corpse.label>
-    <Megascarab_Corpse.description>jätteskalbaggekropp</Megascarab_Corpse.description>
 
-    <Spelopede.label>speloped</Spelopede.label>
-    <Spelopede.description>En medelstor genetiskt tillverkad insekt ungefär lika stor som ett får. Spelopeden är medelklassen av en bikupa och får ta hand om de flesta arbetsuppgifter samt slåss med sina klor.</Spelopede.description>
-    <!-- Leather Amount: 0 -->
-    <!-- Use Meat From: Megaspider -->
-    <Spelopede_Corpse.label>spelopedkropp</Spelopede_Corpse.label>
-    <Spelopede_Corpse.description>spelopedkropp</Spelopede_Corpse.description>
+  <Megascarab.label>jätteskalbagge</Megascarab.label>
+  <Megascarab.description>En stor, genetiskt tillverkad skalbagge. En gång arbetstsklassen av ett konstgjort ekosystem av insektoider utformade för att bekämpa mekanoid invasioner, är det nu vanligare att dom ses utan sina dödligare insektoidkusiner. Fortfarande görs dess storlek och hårda skal dom farliga när det attackerar. En eusocial varelse som inte kan reproducera sig individuellt.</Megascarab.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <Megascarab_Corpse.label>jätteskalbaggekropp</Megascarab_Corpse.label>
+  <Megascarab_Corpse.description>jätteskalbaggekropp</Megascarab_Corpse.description>
 
-    <Megaspider.label>jättespindel</Megaspider.label>
-    <Megaspider.description>Egentligen inte en spindel. Jättespindel är en genetisk tillverkad jätteinsektiod med samma storlek som en björn. Designad för tungt arbete och strid. Dess tjocka kitinpansar gör den svår att döda och dess långa dödliga klyvande blad gör den dödligt.</Megaspider.description>
-    <!-- Leather Amount: 0 -->
-    <Megaspider_Meat.label>insektskött</Megaspider_Meat.label>
-    <Megaspider_Meat.description>insektskött</Megaspider_Meat.description>
-    <Megaspider_Corpse.label>jättespindelkropp</Megaspider_Corpse.label>
-    <Megaspider_Corpse.description>jättespindelkropp</Megaspider_Corpse.description>
-    
+  <Spelopede.label>speloped</Spelopede.label>
+  <Spelopede.description>En medelstor genetiskt tillverkad insekt ungefär lika stor som ett får. Spelopeden är medelklassen av en bikupa och får ta hand om de flesta arbetsuppgifter samt slåss med sina klor.</Spelopede.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <Spelopede_Corpse.label>spelopedkropp</Spelopede_Corpse.label>
+  <Spelopede_Corpse.description>spelopedkropp</Spelopede_Corpse.description>
+
+  <Megaspider.label>jättespindel</Megaspider.label>
+  <Megaspider.description>Egentligen inte en spindel. Jättespindel är en genetisk tillverkad jätteinsektiod med samma storlek som en björn. Designad för tungt arbete och strid. Dess tjocka kitinpansar gör den svår att döda och dess långa dödliga klyvande blad gör den dödligt.</Megaspider.description>
+  <!-- Leather Amount: 0 -->
+  <Megaspider_Meat.label>insektskött</Megaspider_Meat.label>
+  <Megaspider_Meat.description>insektskött</Megaspider_Meat.description>
+  <Megaspider_Corpse.label>jättespindelkropp</Megaspider_Corpse.label>
+  <Megaspider_Corpse.description>jättespindelkropp</Megaspider_Corpse.description>
+
+
 </LanguageData>

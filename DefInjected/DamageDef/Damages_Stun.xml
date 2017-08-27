@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stun.label>Bedöva</Stun.label>
+  <Stun.deathMessage>{0} dog av chock.</Stun.deathMessage>
+
+  <EMP.label>EMP</EMP.label>
+  <EMP.deathMessage>{0} dog av en EMP.</EMP.deathMessage>
+
+
+</LanguageData>

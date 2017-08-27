@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <LetterLabelAnimalInsanitySingle>Galet djur</LetterLabelAnimalInsanitySingle>
   <AnimalInsanitySingle>En lokal {0} har blivit galen. Den kommer att attackera alla den ser.</AnimalInsanitySingle>
   <LetterLabelAnimalInsanityMultiple>Galna djur!</LetterLabelAnimalInsanityMultiple>
-  <AnimalInsanityMultiple>Någon sorts psykisk våg har svept över landskapet. Dina kolonister klarade sig, men...\n\nDet verkar som att {0}:arna i området har blivit galna.</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Någon sorts psykisk våg har svept över landskapet. Dina kolonister klarade sig, men...\n\nDet verkar som att alla djur av dessa arter: {0} i området har blivit galna.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Förödelse</LetterLabelCropBlight>
   <CropBlight>En mysterisk förödelse har förstört dina odlingar.</CropBlight>
@@ -55,8 +55,8 @@
 
   <LetterLabelManhunterPackArrived>Människojagande flock</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>En flock människojagande {0} har siktas i området. Dom kommer att stanna i områded och jaga människor.\n\nDom kommer inte att passera igenom dörrar, så om ni stannar innomhus är ni säkra. Dom kommer intr att attackera inaktiva kulsprutetorn, så se till att stäng av dessa om du vill rädda dom.\n\nDom kommer att lämna området om några dagar.</ManhunterPackArrived>
-  
-   <!-- Crashed ship part-->
+
+  <!-- Crashed ship part-->
   <MessageAnimalInsanityPulse>Den antika strukturen har avgett en psykisk puls som har drivit djur i närheten till galenskap.</MessageAnimalInsanityPulse>
   <LetterShipPartDroveColonistInsane>Den krashade skeppsdelen har avgett en fokuserad psykisk puls som har drivit kolonisten {0} galen.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Vaknade {0} dagar sedan</AwokeDaysAgo>
@@ -67,7 +67,7 @@
   <PsychicDroneLevelExtreme>Extrem</PsychicDroneLevelExtreme>
   <LetterLabelPsychicDroneLevelIncreased>Drönarens nivå ökar</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>Den krashade skeppsdelen skickar nu ut en kraftigare sorts psykisk drönare. Alla mänskliga varelser i närheten känner sig nu mer störda, skrämda, och paranoida.</LetterPsychicDroneLevelIncreased>
-  
+
   <!-- Agent revealed -->
   <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
   <LetterAgentRevealed>{0} har blivit avslöjad att vara en agent för din fiende {1}.\n\nDenna försöker nu fly.</LetterAgentRevealed>
@@ -82,8 +82,9 @@
   <!-- Beavers -->
   <LetterLabelBeaversArrived>Bävrar!</LetterLabelBeaversArrived>
   <BeaversArrived>En grupp hungriga alfabävrar har blivit siktade i området.\n\nFörsök eliminra som innan dom äter upp alla träden i regionen.</BeaversArrived>
-  
+
   <!-- Refugee chased -->
+  <RefugeeChasedTitle>Flykting jagad av {0}</RefugeeChasedTitle>
   <RefugeeChasedInitial>En {1} vid namn {0} anropar på hjälp. HECAP bir jagad av {2} från {3}!\n\nHECAP ber om säkerhet och erbjuder sig att ansluta sig till er koloni. Biologiskt är HE {4} år gammal.\n\nVarning - Om ni accepterar kommer ni får strida mot {2} som är hack i häl på HIM.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Erbjud säkerhet</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Strunta i meddelandet</RefugeeChasedInitial_Reject>
@@ -98,31 +99,55 @@
   <!-- Farm animals wander in -->
   <LetterLabelFarmAnimalsWanderIn>{0} ansluter</LetterLabelFarmAnimalsWanderIn>
   <LetterFarmAnimalsWanderIn>En grupp {0}, övergivna eller vilse, har vandrat in i området.\n\nDom verkar vara vana vid mänsklig kontakt och ansluter sig till kolonin.</LetterFarmAnimalsWanderIn>
-  
+
   <!-- Thrumbo passes -->
   <LetterLabelThrumboPasses>En sällsynt flock Thrumbos</LetterLabelThrumboPasses>
   <LetterThrumboPasses>En mindre flock Thrumbos har vandrat in i området.\n\nTrots att dom är fredfulla djur kan dessa extremt ovanliga djur vara väldigt farliga om man konfronterar dom. Vissa handelsmän är villiga att betala mycket pengar för deras dyrbara horn och päls.\n\Flocken kommer att lämna området inom några få dagar.</LetterThrumboPasses>
-  
+
   <!-- Trader caravan -->
   <LetterLabelTraderCaravanArrival>Handelsmän från {0}</LetterLabelTraderCaravanArrival>
   <LetterTraderCaravanArrival>En handelskaravan ifrån {0} närmar sig.\n\nDom kommer att vara runt kolonin nåra dagar innan dom beger sig vidare. Ni kan attackera dom - med detta kommer förarga deras fraktion!</LetterTraderCaravanArrival>
-  
+
   <!-- Building breaks down -->
   <LetterLabelBuildingBrokenDown>Haveri: {0}</LetterLabelBuildingBrokenDown>
   <LetterBuildingBrokenDown>En av era maskiner ({0}) har havererat. Den kommer inte att fungera förrän en kolonist har med reparationkunskap lagar den.</LetterBuildingBrokenDown>
-  
+
   <!-- Ransom demand -->
+  <RansomDemandTitle>Lösen begärd från {0}</RansomDemandTitle>
   <RansomDemand>{1} kontaktar er via radio. Dom håller en föredetta kolonist {0} gisslan.\n\nDom är villiga att frige HIM i utbyte mot {2} silver.</RansomDemand>
   <RansomDemand_Accept>Acceptera</RansomDemand_Accept>
   <RansomDemand_Reject>Avvisa</RansomDemand_Reject>
-  
-    <!-- Journey -->
-  <JourneyOffer>E vänlig AI från ditt förflutna som heter Charlon Whitestone har skickat ett meddelande!\n\nHan avslöjar att han har ett rymdskepp gömt på den här planeten och skickar dess koordinater.\n\nOm du reser till fartyget kommer Charlon ta dig utanför denna RimWorld, till stjärnorna.</JourneyOffer>
+
+  <!-- Journey -->
+  <JourneyOffer>En vänlig AI från ditt förflutna som heter Charlon Whitestone har skickat ett meddelande!\n\nHan avslöjar att han har ett rymdskepp gömt på den här planeten och skickar dess koordinater.\n\nOm du reser till fartyget kommer Charlon ta dig utanför denna RimWorld, till stjärnorna.</JourneyOffer>
 
   <!-- Caravan meeting -->
+  <CaravanMeetingTitle>Karavan påträffad från {0}</CaravanMeetingTitle>
   <CaravanMeeting>Din karavan har mött en annan fredlig karavan från {0}. Den andra karavanen består av:\n\n{1}</CaravanMeeting>
   <CaravanMeeting_Trade>Handla</CaravanMeeting_Trade>
   <CaravanMeeting_Attack>Attackera</CaravanMeeting_Attack>
   <CaravanMeeting_MoveOn>Gå vidare</CaravanMeeting_MoveOn>
-  
+
+  <!-- Caravan request -->
+  <LetterLabelCaravanRequest>Karavanförfrågan</LetterLabelCaravanRequest>
+  <LetterCaravanRequest>En bosättning i närheten, {0}, kontaktar er om en handelsförfrågan. Dom skulle vilja köpa :\n\n  {1}\n\nSom betalning erbjuder dom:\n\n  {2}\n\nDen här förfrågan förfallen inom: {3}\n\nOm ni vill göra hadeln så skicka en karavan med de önskade varorna. Ni kan granska det här erbjudandet genom att välja {0} på världskartan.</LetterCaravanRequest>
+  <CaravanRequestInfo>Förfrågan: {0}, Belöning: {1} ({2} kvar)</CaravanRequestInfo>
+
+  <!-- Caravan demand -->
+  <CaravanDemandTitle>Krav på Karavan från {0}</CaravanDemandTitle>
+  <CaravanDemand>Din karavan har råkat ut för ett bakhåll av en grupp av {1} {3} från {0}. Dom kommer att attackera om du inte ger dom:\n\n{2}</CaravanDemand>
+  <CaravanDemand_Give>Ge och passera</CaravanDemand_Give>
+  <CaravanDemand_Fight>Vägra och attackera</CaravanDemand_Fight>
+
+  <!-- Temporary item stash -->
+  <ItemStashQuestTitle>Möjlig skattgömma</ItemStashQuestTitle>
+  <ItemStashQuest_Accept>Acceptera</ItemStashQuest_Accept>
+  <ItemStashQuest_Reject>Avböj</ItemStashQuest_Reject>
+  <ItemStashQuestFeeDemand>{0} ebjuder sig att berätta platsen för en skattgömma i utbyte mot {1} silver.</ItemStashQuestFeeDemand>
+  <ItemStashSitePart_Unknown>Olyckligtvis vet {0} inta vad eller vem, om någon, som vaktar skattgömman.</ItemStashSitePart_Unknown>
+  <ItemStashSitePart_Nothing>{0} meddelar att skattgömman är obevakad.</ItemStashSitePart_Nothing>
+  <ItemStashSitePart_Outpost>{0} meddelar att det finns en fientlig utpost i närheten.</ItemStashSitePart_Outpost>
+  <ItemStashSitePart_Turrets>{0} meddelar att skattgömman är omgiven av fientliga kanontorn.</ItemStashSitePart_Turrets>
+  <ItemStashSitePart_Manhunters>{0} meddelar att det är en grupp människojagande djur i närheten.</ItemStashSitePart_Manhunters>
+
 </LanguageData>

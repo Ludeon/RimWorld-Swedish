@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Deterioration.label>Förfall</Deterioration.label>
-    <Mining.label>Bryter</Mining.label>
-    <Rotting.label>Ruttnar</Rotting.label>
-    <Extinguish.label>Släcks</Extinguish.label>
-    
-	
-	<!-- Stun -->
-	
-    <Stun.label>Bedöva</Stun.label>
-    <Stun.deathMessage>{0} dog av chock.</Stun.deathMessage>
-    
-    <EMP.label>EMP</EMP.label>
-    <EMP.deathMessage>{0} dog av en EMP.</EMP.deathMessage>
-    
-	
+
+  <Deterioration.label>Förfall</Deterioration.label>
+  <Deterioration.deathMessage>{0} dog.</Deterioration.deathMessage>
+
+  <Mining.label>Bryter</Mining.label>
+  <Mining.deathMessage>{0} dog.</Mining.deathMessage>
+
+  <Rotting.label>Ruttnar</Rotting.label>
+  <Rotting.deathMessage>{0} dog.</Rotting.deathMessage>
+
+  <Extinguish.label>Släcks</Extinguish.label>
+  <Extinguish.deathMessage>{0} dog.</Extinguish.deathMessage>
+
+  <Smoke.label>smoke</Smoke.label>
+  <Smoke.deathMessage>{0} dog.</Smoke.deathMessage>
+
+  
 </LanguageData>

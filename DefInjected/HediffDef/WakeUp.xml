@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
+
   <WakeUpHigh.label>Hög på vakna</WakeUpHigh.label>
+
 
   <!-- WakeUp addiction -->
 
@@ -12,5 +13,6 @@
 
   <WakeUpAddiction.label>vakna missbruk</WakeUpAddiction.label>
   <WakeUpAddiction.stages.1.label>abstinens</WakeUpAddiction.stages.1.label>
-    
+
+
 </LanguageData>

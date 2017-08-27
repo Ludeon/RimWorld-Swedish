@@ -1,113 +1,113 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Concepts taught through the learning readout, with no opportunity needed -->
-	
-    <CameraDolly.label>Kameravagn</CameraDolly.label>
-    <CameraDolly.helpText>Flytta karmeran genom att klicka och dra MUSKNAPP 3 (mittersta eller högra knappen) eller med  {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tangenter.</CameraDolly.helpText>
-    
-    <CameraZoom.label>Lär dig att zooma</CameraZoom.label>
-    <CameraZoom.helpText>Zoom in och ut med MUSHJULET eller {Key:MapZoomIn} och {Key:MapZoomOut} tangenterna.</CameraZoom.helpText>
-    
-    <TimeControls.label>Lär dig kontrollera tiden</TimeControls.label>
-    <TimeControls.helpText>Du kan snabba upp tiden.\n\nFörsök kontrollera tiden med {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, och {Key:TimeSpeedSuperfast} tangenterna, eller med tidskontrollerna nere till höger.</TimeControls.helpText>
-    
-    <Pause.label>Pausa</Pause.label>
-    <Pause.helpText>Tryck {Key:TogglePause} för att pausa eller sluta pausa spelet.\n\nDu kan ge order medans spelet är pausat.\n\nKom ihåg att om saker blir hektiska, tryck bara på {Key:TogglePause}!</Pause.helpText>
-    
-    <Stockpiles.label>Förråd</Stockpiles.label>
-    <Stockpiles.helpText>Dina kolonister behör någonstans att förvara föremål. Välj ett FÖRRÅD för dom att ställa saker på.\n\nHitta förrådet i ZONER sektionen av ARKITEKT menyn nere till vänster.</Stockpiles.helpText>
-    
-    <Forbidding.label>Förbjud</Forbidding.label>
-    <Forbidding.helpText>Kolonister kommer inte föra saker som är markerade FÖRBJUDNA.\n\nFörbjudna saker har ett litet rött kryss på sig. Välj en förbjuden sak och använd kontrollerna i botten för att ta bort FÖRBUDET.</Forbidding.helpText>
-    
-    <GrowingFood.label>Odlingsmark</GrowingFood.label>
-    <GrowingFood.helpText>För att olda mat placera VÄXTZONER via Arkitektmenyn\n\nZonerna kan endast placeras på bördig mark.</GrowingFood.helpText>
-    
-    <EquippingWeapons.label>Beväpna dina kolonisatörer</EquippingWeapons.label>
-    <EquippingWeapons.helpText>Dina kolonister anlände med några vapen. Utrusta dig med dom!\n\nVälj varje kolonist och högerklicka på det vapen du vill att dom skall använda.</EquippingWeapons.helpText>
-    
-    <Alerts.label>Varningar</Alerts.label>
-    <Alerts.helpText>Varningarna vid den högra kanten informerar dig om saker som behöver din uppmärksamhet.\n\nHåll uppsikt på varningar.</Alerts.helpText>
-    
-    <Mining.label>Gruvdrift</Mining.label>
-    <Mining.helpText>Du kan välja var man skall gruva genom att välja ARKITEKT menyn och välja ORDER fliken.\n\nVissa gruvbara block ger STÅL, GULD, PLASTÅL, och andra användbara material.</Mining.helpText>
-    
-    <WorkTab.label>Lär dig att priotitera</WorkTab.label>
-    <WorkTab.helpText>Du kan sätta varje kolonist arbetsprogram i ARBETE fliken i nedre vänstra skärmen.\n\nDom kommer alltid göra den högst prioriterade arbetet dom kan hitta.\n\nOm ingen har ett speciellt arbete tilldelat till sig eller dom är upptagna med ett högre prioriterat arbete kommer det aldrig bli gjort.</WorkTab.helpText>
-    
-    <ForbiddingDoors.label>Förbjudna dörrar</ForbiddingDoors.label>
-    <ForbiddingDoors.helpText>Du kan förbjuda dörrar så att kolonister eller tama djur inte får gå igenom dom\n\nNotera att detta inte är ett dörrlås. Dörrar är alltid låsta så att fiender inte kan passera igenom dom. Att föbjuda en dörr dirigerar endast kolonister att inte använda den dörrer. Kolonister som är galna kan kanske använda dörren ändå.</ForbiddingDoors.helpText>
-    
-    <CoverAndShooting.label>Skjuta ifrån skydd</CoverAndShooting.label>
-    <CoverAndShooting.helpText>Den viktigaste saken i avståndstrid är att använda skydd. Skydd fungerar endast om kolonisten rör vid det, och endast om skyddet är mellan kolonisten och en fiende.\n\nDu kan ochså placera kolonisten bakom en väggkant. Do kommer i så fall luta sig ut och skjuta.\n\nDe mesta kan användas som skydd, men vissa saker är bättre än andra. Att gömma sig bakom ett träd är bättre än ingenting, men att gömma sig bakom sandsäckar är bättre än träd.</CoverAndShooting.helpText>
-    
-	<FormCaravan.label>Bilda karavaner</FormCaravan.label>
-    <FormCaravan.helpText>Du kan bilda en karavan för att skicka grupper av människor som reser över hela planeten!\n\nI fliken Värld välj din hemmabas och klicka på "bilda karavan" -knappen.</FormCaravan.helpText>
-	
-    <AnimalTaming.label>Tämja Djur</AnimalTaming.label>
-    <AnimalTaming.helpText>Du kan anvisa en kolonist att tämja vilda djur med TÄMJ valet.\n\nKolonisten kommer erbjuda djuret mat och försöka tämja det.\n\nVarning: vissa djur svarar våldsamt mot misslyckade tämjningsförsök.</AnimalTaming.helpText>
-    
-    <AnimalTraining.label>Djurträning</AnimalTraining.label>
-    <AnimalTraining.helpText>Du kan välja att ett tämjt djur skall träna vissa bestämda färdigheter i TRÄNING fliken.\n\nDjur kan inte tränas kontinuerligt utan måste vila sig mellan träningstillfällerna.</AnimalTraining.helpText>
-    
-    <InfoCard.label>Lär dig hur man öppnar infoskärmen</InfoCard.label>
-    <InfoCard.helpText>Informationsskärmen visar detaljerad information om ett föremål , en person eller konstruktion.\n\nVälj en person eller ett föremål och öppna informationsskärmen genom att klicka på 'i' knappen i inspektions panelen.</InfoCard.helpText>
-    
-    <StorageTab.label>Lär dig lagerhantering</StorageTab.label>
-    <StorageTab.helpText>Du kan konfigurera lager och förvarings-byggnader genom att välja dom och öppna LAGERTABBEN ovanför den nedre-vänsta inspektions panelen.\n\nI Lagringsfliken i en lagerplats kan du expandera kategorierna för att tillåta och neka specifika föremål. Klicka på triangeln till vänster av kategorinamnet.\n\nDu kan förändra lagrets PRIORITET. Kolonisterna kommer att fylla lagrer av högre prioritet först.</StorageTab.helpText>
-    
-    <HomeArea.label>Lär dig om Hemområdet</HomeArea.label>
-    <HomeArea.helpText>HEMMAOMRÅDET informerar kolonisterna vilken område dom skall städa och var dom skall släcka eld.\n\nVälj HEMOMRÅDET med Zon kategorin under Architekt menyn.</HomeArea.helpText>
-    
-    <SpoilageAndFreezers.label>Förruttnelse och frysar</SpoilageAndFreezers.label>
-    <SpoilageAndFreezers.helpText>De flesta livsmedel kommer att ruttna efter en relativt kort stund.\n\nFör att förhindra detta kan du bygga ett frysrum.\n\nFör att bygga en frys behöver du ett stängt rum med en eller två kylare i väggen. Sätt kylarna till en negativ måltemperatur.\n\nFryst mat kommer aldrig att ruttna.</SpoilageAndFreezers.helpText>
-    
-    <Deterioration.label>Förfall</Deterioration.label>
-    <Deterioration.helpText>Föremål som lämnas utomhus kommer sakta försämras.\n\nOm du vill spara saker längre tid, se till att förvara dom under ett tak.</Deterioration.helpText>
-    
-    <HostilityResponse.label>Fientligt svarsläge</HostilityResponse.label>
-    <HostilityResponse.helpText>Du kan bestämma hur kolonisterna skall bete sig mot hot såsom rovdjur.\n\nDu kan välja mellan FLY, ATTACKERA eller IGNORERA läge i TILLDELA menyn.</HostilityResponse.helpText>
-    
-    <AllowedAreas.label>Tillåtna områden</AllowedAreas.label>
-    <AllowedAreas.helpText>Kolonister och kolonidjur kan bli tilldelade till TILLÅTNA OMRÅDEN. Detta förbjuder dem från att röra sig utanför sitt tillåtna område.\n\nDatt kan användas för att till exempel förbjuda kolonister från att var utomhus.\n\nDu kan skapa multipla områden och tilldela dom till olika kolonister och djur.\n\nSkapa, radera och tilldela tillåtna områden i BEGRÄNSA fliken.\n\nMåla tillåtna områden på kartan genom att använda EXPANDERA TILLÅTNA OMRÅDE och RENSA TILLÅTNA OMRÅDE betäckning i Arkitekt menyn.</AllowedAreas.helpText>
-    
-    <MedicalOperations.label>Lär dig hantera kirugi</MedicalOperations.label>
-    <MedicalOperations.helpText>För att beorda en medicinsk operation såsom skörda organ eller installera proteser, öppna en kolonist HÄLSA flik och byt till OPERATIONS underfliken.</MedicalOperations.helpText>
-    
-    <TimeAssignments.label>Tidstilldelning</TimeAssignments.label>
-    <TimeAssignments.helpText>Du kan bestämma vilken tid på dagen en kolonist skall göra olika aktivteter genom att använda BEGRÄNSA fliken.</TimeAssignments.helpText>
-    
-    <ManualWorkPriorities.label>Manuella arbetsprioriteringar</ManualWorkPriorities.label>
-    <ManualWorkPriorities.helpText>En av de viktigaste delarna i RimWorld är att välja bra arbetsinställnigar för dina kolonister.\n\nDåliga arbetsinställningar kan läma viktiga arbeten ofärdiga för lång tid medans kolonisterna ödslar tid på oviktiga uppgifter.\n\nFör att ha mer kontroll över vilka arbeten kolonisterna gör kan du välja ett manuellt prioriteringsläge i ARBETE fliken.\n\nI detta läge har varje kolonist ett prioritetsnummer för varje arbetsuppgift. Kolonister kommer att prioritera 1 arbete från vänster till höger, sedan prioritet 2 arbete ifrån vänster till höger, och så vidare.\n\nSmart användning av dessa inställningar är absolut nödvändigt för en stor väl-automatiserad koloni.</ManualWorkPriorities.helpText>
-    
-    <GettingMoreTraders.label>Få mer att handla med</GettingMoreTraders.label>
-    <GettingMoreTraders.helpText>Mer handelskaravaner kommer att komma på besök om du är allierade med mer fraktioner.\n\nOn du inte har några allierade så kommer inga handelskaravaner komma på besök!\n\nDu kan också betala allierade att skicka karavaner genom att anropa dom via kommunikationskonsollen.</GettingMoreTraders.helpText>
-    
-    <InspectRoomStats.label>Rumsstatusgranskare</InspectRoomStats.label>
-    <InspectRoomStats.helpText>Du kan granska hur imponerande, rikt eller vackert ett rum är genom att använda RUMSTATUSGRANSKARE växlare i nedre högerkant.</InspectRoomStats.helpText>
-    
-    <Outfits.label>Utstyrsel</Outfits.label>
-    <Outfits.helpText>Kolonister kommer automatisk försöka klä sig i den nyaste och bästa kvalitets kläderna som dom kan bära.\n\nDu behöver inte manuellt välja kläder för kolonisten (men du kan om du vill).\n\nFör att begränsa vad kolonisterna får bära behöver du oppna TILLDELA fliken, använda "Hantera Utstyrsel" dialog rutan och sedan välja vilken utstyrsel du skall tilldela kolonisten.</Outfits.helpText>
-    
-    <FirePreparation.label>Brand förberedelse</FirePreparation.label>
-    <FirePreparation.helpText>Eld kan enkelt bränna ner en kolono. För att bekämpa den behöver du förbereda innan det händer.
+
+  <!-- Concepts taught through the learning readout, with no opportunity needed -->
+
+  <CameraDolly.label>Kameravagn</CameraDolly.label>
+  <CameraDolly.helpText>Flytta karmeran genom att klicka och dra MUSKNAPP 3 (mittersta eller högra knappen) eller med  {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tangenter.</CameraDolly.helpText>
+
+  <CameraZoom.label>Lär dig att zooma</CameraZoom.label>
+  <CameraZoom.helpText>Zoom in och ut med MUSHJULET eller {Key:MapZoomIn} och {Key:MapZoomOut} tangenterna.</CameraZoom.helpText>
+
+  <TimeControls.label>Lär dig kontrollera tiden</TimeControls.label>
+  <TimeControls.helpText>Du kan snabba upp tiden.\n\nFörsök kontrollera tiden med {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, och {Key:TimeSpeedSuperfast} tangenterna, eller med tidskontrollerna nere till höger.</TimeControls.helpText>
+
+  <Pause.label>Pausa</Pause.label>
+  <Pause.helpText>Tryck {Key:TogglePause} för att pausa eller sluta pausa spelet.\n\nDu kan ge order medans spelet är pausat.\n\nKom ihåg att om saker blir hektiska, tryck bara på {Key:TogglePause}!</Pause.helpText>
+
+  <Stockpiles.label>Förråd</Stockpiles.label>
+  <Stockpiles.helpText>Dina kolonister behör någonstans att förvara föremål. Välj ett FÖRRÅD för dom att ställa saker på.\n\nHitta förrådet i ZONER sektionen av ARKITEKT menyn nere till vänster.</Stockpiles.helpText>
+
+  <Forbidding.label>Förbjud</Forbidding.label>
+  <Forbidding.helpText>Kolonister kommer inte föra saker som är markerade FÖRBJUDNA.\n\nFörbjudna saker har ett litet rött kryss på sig. Välj en förbjuden sak och använd kontrollerna i botten för att ta bort FÖRBUDET.</Forbidding.helpText>
+
+  <GrowingFood.label>Odlingsmark</GrowingFood.label>
+  <GrowingFood.helpText>För att olda mat placera VÄXTZONER via Arkitektmenyn\n\nZonerna kan endast placeras på bördig mark.</GrowingFood.helpText>
+
+  <EquippingWeapons.label>Beväpna dina kolonisatörer</EquippingWeapons.label>
+  <EquippingWeapons.helpText>Dina kolonister anlände med några vapen. Utrusta dig med dom!\n\nVälj varje kolonist och högerklicka på det vapen du vill att dom skall använda.</EquippingWeapons.helpText>
+
+  <Alerts.label>Varningar</Alerts.label>
+  <Alerts.helpText>Varningarna vid den högra kanten informerar dig om saker som behöver din uppmärksamhet.\n\nHåll uppsikt på varningar.</Alerts.helpText>
+
+  <Mining.label>Gruvdrift</Mining.label>
+  <Mining.helpText>Du kan välja var man skall gruva genom att välja ARKITEKT menyn och välja ORDER fliken.\n\nVissa gruvbara block ger STÅL, GULD, PLASTÅL, och andra användbara material.</Mining.helpText>
+
+  <WorkTab.label>Lär dig att priotitera</WorkTab.label>
+  <WorkTab.helpText>Du kan sätta varje kolonist arbetsprogram i ARBETE fliken i nedre vänstra skärmen.\n\nDom kommer alltid göra den högst prioriterade arbetet dom kan hitta.\n\nOm ingen har ett speciellt arbete tilldelat till sig eller dom är upptagna med ett högre prioriterat arbete kommer det aldrig bli gjort.</WorkTab.helpText>
+
+  <ForbiddingDoors.label>Förbjudna dörrar</ForbiddingDoors.label>
+  <ForbiddingDoors.helpText>Du kan förbjuda dörrar så att kolonister eller tama djur inte får gå igenom dom\n\nNotera att detta inte är ett dörrlås. Dörrar är alltid låsta så att fiender inte kan passera igenom dom. Att föbjuda en dörr dirigerar endast kolonister att inte använda den dörrer. Kolonister som är galna kan kanske använda dörren ändå.</ForbiddingDoors.helpText>
+
+  <CoverAndShooting.label>Skjuta ifrån skydd</CoverAndShooting.label>
+  <CoverAndShooting.helpText>Den viktigaste saken i avståndstrid är att använda skydd. Skydd fungerar endast om kolonisten rör vid det, och endast om skyddet är mellan kolonisten och en fiende.\n\nDu kan ochså placera kolonisten bakom en väggkant. Do kommer i så fall luta sig ut och skjuta.\n\nDe mesta kan användas som skydd, men vissa saker är bättre än andra. Att gömma sig bakom ett träd är bättre än ingenting, men att gömma sig bakom sandsäckar är bättre än träd.</CoverAndShooting.helpText>
+
+  <FormCaravan.label>Bilda karavaner</FormCaravan.label>
+  <FormCaravan.helpText>Du kan bilda en karavan för att skicka grupper av människor som reser över hela planeten!\n\nI fliken Värld välj din hemmabas och klicka på "bilda karavan" -knappen.</FormCaravan.helpText>
+
+  <AnimalTaming.label>Tämja Djur</AnimalTaming.label>
+  <AnimalTaming.helpText>Du kan anvisa en kolonist att tämja vilda djur med TÄMJ valet.\n\nKolonisten kommer erbjuda djuret mat och försöka tämja det.\n\nVarning: vissa djur svarar våldsamt mot misslyckade tämjningsförsök.</AnimalTaming.helpText>
+
+  <AnimalTraining.label>Djurträning</AnimalTraining.label>
+  <AnimalTraining.helpText>Du kan välja att ett tämjt djur skall träna vissa bestämda färdigheter i TRÄNING fliken.\n\nDjur kan inte tränas kontinuerligt utan måste vila sig mellan träningstillfällerna.</AnimalTraining.helpText>
+
+  <InfoCard.label>Lär dig hur man öppnar infoskärmen</InfoCard.label>
+  <InfoCard.helpText>Informationsskärmen visar detaljerad information om ett föremål , en person eller konstruktion.\n\nVälj en person eller ett föremål och öppna informationsskärmen genom att klicka på 'i' knappen i inspektions panelen.</InfoCard.helpText>
+
+  <StorageTab.label>Lär dig lagerhantering</StorageTab.label>
+  <StorageTab.helpText>Du kan konfigurera lager och förvarings-byggnader genom att välja dom och öppna LAGERTABBEN ovanför den nedre-vänsta inspektions panelen.\n\nI Lagringsfliken i en lagerplats kan du expandera kategorierna för att tillåta och neka specifika föremål. Klicka på triangeln till vänster av kategorinamnet.\n\nDu kan förändra lagrets PRIORITET. Kolonisterna kommer att fylla lagrer av högre prioritet först.</StorageTab.helpText>
+
+  <HomeArea.label>Lär dig om Hemområdet</HomeArea.label>
+  <HomeArea.helpText>HEMMAOMRÅDET informerar kolonisterna vilken område dom skall städa och var dom skall släcka eld.\n\nVälj HEMOMRÅDET med Zon kategorin under Architekt menyn.</HomeArea.helpText>
+
+  <SpoilageAndFreezers.label>Förruttnelse och frysar</SpoilageAndFreezers.label>
+  <SpoilageAndFreezers.helpText>De flesta livsmedel kommer att ruttna efter en relativt kort stund.\n\nFör att förhindra detta kan du bygga ett frysrum.\n\nFör att bygga en frys behöver du ett stängt rum med en eller två kylare i väggen. Sätt kylarna till en negativ måltemperatur.\n\nFryst mat kommer aldrig att ruttna.</SpoilageAndFreezers.helpText>
+
+  <Deterioration.label>Förfall</Deterioration.label>
+  <Deterioration.helpText>Föremål som lämnas utomhus kommer sakta försämras.\n\nOm du vill spara saker längre tid, se till att förvara dom under ett tak.</Deterioration.helpText>
+
+  <HostilityResponse.label>Fientligt svarsläge</HostilityResponse.label>
+  <HostilityResponse.helpText>Du kan bestämma hur kolonisterna skall bete sig mot hot såsom rovdjur.\n\nDu kan välja mellan FLY, ATTACKERA eller IGNORERA läge i TILLDELA menyn.</HostilityResponse.helpText>
+
+  <AllowedAreas.label>Tillåtna områden</AllowedAreas.label>
+  <AllowedAreas.helpText>Kolonister och kolonidjur kan bli tilldelade till TILLÅTNA OMRÅDEN. Detta förbjuder dem från att röra sig utanför sitt tillåtna område.\n\nDatt kan användas för att till exempel förbjuda kolonister från att var utomhus.\n\nDu kan skapa multipla områden och tilldela dom till olika kolonister och djur.\n\nSkapa, radera och tilldela tillåtna områden i BEGRÄNSA fliken.\n\nMåla tillåtna områden på kartan genom att använda EXPANDERA TILLÅTNA OMRÅDE och RENSA TILLÅTNA OMRÅDE betäckning i Arkitekt menyn.</AllowedAreas.helpText>
+
+  <MedicalOperations.label>Lär dig hantera kirugi</MedicalOperations.label>
+  <MedicalOperations.helpText>För att beorda en medicinsk operation såsom skörda organ eller installera proteser, öppna en kolonist HÄLSA flik och byt till OPERATIONS underfliken.</MedicalOperations.helpText>
+
+  <TimeAssignments.label>Tidstilldelning</TimeAssignments.label>
+  <TimeAssignments.helpText>Du kan bestämma vilken tid på dagen en kolonist skall göra olika aktivteter genom att använda BEGRÄNSA fliken.</TimeAssignments.helpText>
+
+  <ManualWorkPriorities.label>Manuella arbetsprioriteringar</ManualWorkPriorities.label>
+  <ManualWorkPriorities.helpText>En av de viktigaste delarna i RimWorld är att välja bra arbetsinställnigar för dina kolonister.\n\nDåliga arbetsinställningar kan läma viktiga arbeten ofärdiga för lång tid medans kolonisterna ödslar tid på oviktiga uppgifter.\n\nFör att ha mer kontroll över vilka arbeten kolonisterna gör kan du välja ett manuellt prioriteringsläge i ARBETE fliken.\n\nI detta läge har varje kolonist ett prioritetsnummer för varje arbetsuppgift. Kolonister kommer att prioritera 1 arbete från vänster till höger, sedan prioritet 2 arbete ifrån vänster till höger, och så vidare.\n\nSmart användning av dessa inställningar är absolut nödvändigt för en stor väl-automatiserad koloni.</ManualWorkPriorities.helpText>
+
+  <GettingMoreTraders.label>Få mer att handla med</GettingMoreTraders.label>
+  <GettingMoreTraders.helpText>Mer handelskaravaner kommer att komma på besök om du är allierade med mer fraktioner.\n\nOn du inte har några allierade så kommer inga handelskaravaner komma på besök!\n\nDu kan också betala allierade att skicka karavaner genom att anropa dom via kommunikationskonsollen.</GettingMoreTraders.helpText>
+
+  <InspectRoomStats.label>Rumsstatusgranskare</InspectRoomStats.label>
+  <InspectRoomStats.helpText>Du kan granska hur imponerande, rikt eller vackert ett rum är genom att använda RUMSTATUSGRANSKARE växlare i nedre högerkant.</InspectRoomStats.helpText>
+
+  <Outfits.label>Utstyrsel</Outfits.label>
+  <Outfits.helpText>Kolonister kommer automatisk försöka klä sig i den nyaste och bästa kvalitets kläderna som dom kan bära.\n\nDu behöver inte manuellt välja kläder för kolonisten (men du kan om du vill).\n\nFör att begränsa vad kolonisterna får bära behöver du oppna TILLDELA fliken, använda "Hantera Utstyrsel" dialog rutan och sedan välja vilken utstyrsel du skall tilldela kolonisten.</Outfits.helpText>
+
+  <FirePreparation.label>Brand förberedelse</FirePreparation.label>
+  <FirePreparation.helpText>Eld kan enkelt bränna ner en kolono. För att bekämpa den behöver du förbereda innan det händer.
 \nDessa designer kan hjälpa att miska skada ifrån brand:
 \n1. Iställer för att göra en enda stor super-byggnad, bygg separata byggnader med ytrymme mellan sig.
 \n2. Använd dig av material som är brandtåligt. Trä är billigt och snabbt men brinner väldigt bra.
 \n3. Bygg brandgator för att förhindra att löpeld närmar sig din bas. En remsa av betonggolv 3 eller 4 cell breda kommer generellt att stanna framfarten av eld.</FirePreparation.helpText>
-    
-    <HistoryTab.label>Lär dig om Historik-fliken</HistoryTab.label>
-    <HistoryTab.helpText>Du kan se grafer och historia över kolonins öde över tid i HISTORIA fliken i nedre delen av skärmen.</HistoryTab.helpText>
-    
-    <ClickingMessages.label>Klicka på meddelanden</ClickingMessages.label>
-    <ClickingMessages.helpText>Du kan klicka på meddelande uppe till vänster på skärmen för att flytta kamerans center direkt till ärendet.</ClickingMessages.helpText>
-    
-    <ShotAccuracyTooltip.label>Träffsäkerhet verktygtips</ShotAccuracyTooltip.label>
-    <ShotAccuracyTooltip.helpText>Du kan se den exakta uträkningen bakom träffsäkerheten till varje skott.\n\nFör att göra det behvöer du välja skytten och sedan föra muspekare över målet. Verktygstipses kommer att visa chansen att träffa, och en uppdelning av bidragande orsaker och kan modifiera träffchansens mutliplicerare.</ShotAccuracyTooltip.helpText>
-    
-    <FriendlyFireSafety.label>Säkerhet med vådaskott</FriendlyFireSafety.label>
-    <FriendlyFireSafety.helpText>Vådaskott kommer ej inträffa om skyyen är nära sin allierad.\n\nTill exempel kan du utan fara placera en svärdsvingande kolonist direkt framför en pistolförsedd kolonist. Skytten kommer skjuta över sin aliierads axel.\n\nDetta är ett bra sätt att kombinera avståndsstrid med närstrid.</FriendlyFireSafety.helpText>
-    
-	
+
+  <HistoryTab.label>Lär dig om Historik-fliken</HistoryTab.label>
+  <HistoryTab.helpText>Du kan se grafer och historia över kolonins öde över tid i HISTORIA fliken i nedre delen av skärmen.</HistoryTab.helpText>
+
+  <ClickingMessages.label>Klicka på meddelanden</ClickingMessages.label>
+  <ClickingMessages.helpText>Du kan klicka på meddelande uppe till vänster på skärmen för att flytta kamerans center direkt till ärendet.</ClickingMessages.helpText>
+
+  <ShotAccuracyTooltip.label>Träffsäkerhet verktygtips</ShotAccuracyTooltip.label>
+  <ShotAccuracyTooltip.helpText>Du kan se den exakta uträkningen bakom träffsäkerheten till varje skott.\n\nFör att göra det behvöer du välja skytten och sedan föra muspekare över målet. Verktygstipses kommer att visa chansen att träffa, och en uppdelning av bidragande orsaker och kan modifiera träffchansens mutliplicerare.</ShotAccuracyTooltip.helpText>
+
+  <FriendlyFireSafety.label>Säkerhet med vådaskott</FriendlyFireSafety.label>
+  <FriendlyFireSafety.helpText>Vådaskott kommer ej inträffa om skyyen är nära sin allierad.\n\nTill exempel kan du utan fara placera en svärdsvingande kolonist direkt framför en pistolförsedd kolonist. Skytten kommer skjuta över sin aliierads axel.\n\nDetta är ett bra sätt att kombinera avståndsstrid med närstrid.</FriendlyFireSafety.helpText>
+
+
 </LanguageData>

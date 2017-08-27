@@ -1,31 +1,41 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <!-- removing body parts -->
 
-    <RemoveBodyPart.label>avlägnsa en del</RemoveBodyPart.label>
-    <RemoveBodyPart.description>Avlägsna en kroppsdel.</RemoveBodyPart.description>
-    <RemoveBodyPart.jobString>Avlägsnar en kroppsdel.</RemoveBodyPart.jobString>
+  <!-- removing body parts -->
 
-    <RemoveMechanoidBodyPart.label>avlägnsa en del</RemoveMechanoidBodyPart.label>
-    <RemoveMechanoidBodyPart.description>Avlägsna en kroppsdel.</RemoveMechanoidBodyPart.description>
-    <RemoveMechanoidBodyPart.jobString>Avlägsnar en kroppsdel.</RemoveMechanoidBodyPart.jobString>
+  <RemoveBodyPart.label>avlägsna en del</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Avlägsna en kroppsdel.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Avlägsnar en kroppsdel.</RemoveBodyPart.jobString>
 
-    <!-- Euthanasia -->
+  <RemoveMechanoidBodyPart.label>avlägsna en del</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>Avlägsna en kroppsdel.</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>Avlägsnar en kroppsdel.</RemoveMechanoidBodyPart.jobString>
 
-    <Euthanize.label>Avliva</Euthanize.label>
-    <Euthanize.description>Avliva.</Euthanize.description>
-    <Euthanize.jobString>Avlivar.</Euthanize.jobString>
 
-    <ShutDownMechanoid.label>stäng av</ShutDownMechanoid.label>
-    <ShutDownMechanoid.description>Stänger av.</ShutDownMechanoid.description>
-    <ShutDownMechanoid.jobString>Stänger av.</ShutDownMechanoid.jobString>
+  <!-- Anesthetize -->
 
-    <!-- removing hediffs (e.g. diseases) -->
+  <Anesthetize.label>bedöva</Anesthetize.label>
+  <Anesthetize.description>Gör en varelse medvetslös genom att administrera ett bedövningsmedel.</Anesthetize.description>
+  <Anesthetize.jobString>Bedövar.</Anesthetize.jobString>
 
-    <ExciseCarcinoma.label>avlägsna karcinom</ExciseCarcinoma.label>
-    <ExciseCarcinoma.description>avlägsnar karcinom.</ExciseCarcinoma.description>
-    <ExciseCarcinoma.jobString>avlägsnar karcinom.</ExciseCarcinoma.jobString>
-    <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} har lyckats att avlägsna {1}'s karcinom.</ExciseCarcinoma.successfullyRemovedHediffMessage>
-    
+
+  <!-- Euthanasia -->
+
+  <Euthanize.label>Avliva</Euthanize.label>
+  <Euthanize.description>Avliva.</Euthanize.description>
+  <Euthanize.jobString>Avlivar.</Euthanize.jobString>
+
+  <ShutDownMechanoid.label>stäng av</ShutDownMechanoid.label>
+  <ShutDownMechanoid.description>Stänger av.</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>Stänger av.</ShutDownMechanoid.jobString>
+
+
+  <!-- removing hediffs (e.g. diseases) -->
+
+  <ExciseCarcinoma.label>avlägsna karcinom</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>avlägsnar karcinom.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>avlägsnar karcinom.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} har lyckats att avlägsna {1}'s karcinom.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+
+
 </LanguageData>

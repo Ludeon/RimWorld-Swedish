@@ -1,33 +1,49 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Beam -->
-	
-    <Ship_Beam.label>skeppets strukturella balk</Ship_Beam.label>
-    <Ship_Beam.description>En strukturell balk runt vilken ett fartyg kan konstrueras.</Ship_Beam.description>
-    
-	
-	<!-- Cryptosleep casket -->
-	
-    <Ship_CryptosleepCasket.label>kryptosömnkista för skepp</Ship_CryptosleepCasket.label>
-    <Ship_CryptosleepCasket.description>En kryptosömnkista härdad mot farorna ute i rymden. Förmåga att upprätthålla en person i kryptosömn under århundraden i en rymdmiljön och överleva återinträde i atmosfären.</Ship_CryptosleepCasket.description>
-    
-	
-	<!-- Computer core -->
-	
-    <Ship_ComputerCore.label>skeppsdatorkärna</Ship_ComputerCore.label>
-    <Ship_ComputerCore.description>En datorkärna kapabel att bära en övermänsklig AI som kan leda ett skepp genom alla utmaningar.</Ship_ComputerCore.description>
-    
-	
-	<!-- Reactor -->
-	
-    <Ship_Reactor.label>skeppsreaktor</Ship_Reactor.label>
-    <Ship_Reactor.description>Driver ett skepp under dess resa genom rymden.</Ship_Reactor.description>
-    
-	
-	<!-- Engine -->
-	
-    <Ship_Engine.label>skeppsmotor</Ship_Engine.label>
-    <Ship_Engine.description>En motor kapabel till att slunga ett skepp in i omloppsbana och i kurs mot andra stjärnor.</Ship_Engine.description>
-    
+
+  <!-- Beam -->
+
+  <Ship_Beam.label>skeppets strukturella balk</Ship_Beam.label>
+  <Ship_Beam.description>En strukturell balk runt vilken ett fartyg kan konstrueras.</Ship_Beam.description>
+  <Ship_Beam_Blueprint.label>skeppets strukturella balk (ritning)</Ship_Beam_Blueprint.label>
+  <Ship_Beam_Frame.label>skeppets strukturella balk (byggnad)</Ship_Beam_Frame.label>
+  <Ship_Beam_Frame.description>En strukturell balk runt vilken ett fartyg kan konstrueras.</Ship_Beam_Frame.description>
+
+
+  <!-- Cryptosleep casket -->
+
+  <Ship_CryptosleepCasket.label>kryptosömnkista för skepp</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.description>En kryptosömnkista härdad mot farorna ute i rymden. Förmåga att upprätthålla en person i kryptosömn under århundraden i en rymdmiljön och överleva återinträde i atmosfären.</Ship_CryptosleepCasket.description>
+  <Ship_CryptosleepCasket_Blueprint.label>kryptosömnkista för skepp (ritning)</Ship_CryptosleepCasket_Blueprint.label>
+  <Ship_CryptosleepCasket_Frame.label>kryptosömnkista för skepp (byggnad)</Ship_CryptosleepCasket_Frame.label>
+  <Ship_CryptosleepCasket_Frame.description>En kryptosömnkista härdad mot farorna ute i rymden. Förmåga att upprätthålla en person i kryptosömn under århundraden i en rymdmiljön och överleva återinträde i atmosfären.</Ship_CryptosleepCasket_Frame.description>
+
+
+  <!-- Computer core -->
+
+  <Ship_ComputerCore.label>skeppsdatorkärna</Ship_ComputerCore.label>
+  <Ship_ComputerCore.description>En datorkärna kapabel att bära en övermänsklig AI som kan leda ett skepp genom alla utmaningar.</Ship_ComputerCore.description>
+  <Ship_ComputerCore_Blueprint.label>skeppsdatorkärna (ritning)</Ship_ComputerCore_Blueprint.label>
+  <Ship_ComputerCore_Frame.label>skeppsdatorkärna (byggnad)</Ship_ComputerCore_Frame.label>
+  <Ship_ComputerCore_Frame.description>En datorkärna kapabel att bära en övermänsklig AI som kan leda ett skepp genom alla utmaningar.</Ship_ComputerCore_Frame.description>
+
+
+  <!-- Reactor -->
+
+  <Ship_Reactor.label>skeppsreaktor</Ship_Reactor.label>
+  <Ship_Reactor.description>Driver ett skepp under dess resa genom rymden.</Ship_Reactor.description>
+  <Ship_Reactor_Blueprint.label>skeppsreaktor (ritning)</Ship_Reactor_Blueprint.label>
+  <Ship_Reactor_Frame.label>skeppsreaktor (byggnad)</Ship_Reactor_Frame.label>
+  <Ship_Reactor_Frame.description>Driver ett skepp under dess resa genom rymden.</Ship_Reactor_Frame.description>
+
+
+  <!-- Engine -->
+
+  <Ship_Engine.label>skeppsmotor</Ship_Engine.label>
+  <Ship_Engine.description>En motor kapabel till att slunga ett skepp in i omloppsbana och i kurs mot andra stjärnor.</Ship_Engine.description>
+  <Ship_Engine_Blueprint.label>skeppsmotor (ritning)</Ship_Engine_Blueprint.label>
+  <Ship_Engine_Frame.label>skeppsmotor (byggnad)</Ship_Engine_Frame.label>
+  <Ship_Engine_Frame.description>En motor kapabel till att slunga ett skepp in i omloppsbana och i kurs mot andra stjärnor.</Ship_Engine_Frame.description>
+
+
 </LanguageData>

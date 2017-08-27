@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Yayo.label>yayo</Yayo.label>
-    <Yayo.description>Ett fint vitt pulver man snortar för att skapa ett euforisk tillstånd. Yayo minskar användarens behov av vila, och undertrycker smärta. Det är emellertid beroendeframkallande.</Yayo.description>
-    <Yayo.ingestible.ingestCommandString>Snorta {0}</Yayo.ingestible.ingestCommandString>
-    <Yayo.ingestible.ingestReportString>Snortar {0}.</Yayo.ingestible.ingestReportString>
-	
-	
+
+  <Yayo.label>yayo</Yayo.label>
+  <Yayo.description>Ett fint vitt pulver man snortar för att skapa ett euforisk tillstånd. Yayo minskar användarens behov av vila, och undertrycker smärta. Det är emellertid beroendeframkallande.</Yayo.description>
+  <Yayo.ingestible.ingestCommandString>Snorta {0}</Yayo.ingestible.ingestCommandString>
+  <Yayo.ingestible.ingestReportString>Snortar {0}.</Yayo.ingestible.ingestReportString>
+
+
 </LanguageData>

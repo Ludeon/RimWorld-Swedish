@@ -1,34 +1,34 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- General -->
-	
-    <Basics.label>Grund</Basics.label>
-    <BasicsPawn.label>Grund</BasicsPawn.label>
-    <BasicsNonPawn.label>Grund</BasicsNonPawn.label>
-    
-	
-	<!-- Non-pawn -->
-	
-    <Apparel.label>Kläder</Apparel.label>
-    <Weapon.label>Vapen</Weapon.label>
-    <Building.label>Byggnader</Building.label>
-	
-	
-	<!-- Virtual categories -->
-    
-    <EquippedStatOffsets.label>Offset när utrustad</EquippedStatOffsets.label>
-    <StuffStatFactors.label>Multiplikatorer när gjord av detta</StuffStatFactors.label>
-    <StuffStatOffsets.label>Offset när gjord av detta</StuffStatOffsets.label>
-    <StuffOfEquipmentStatFactors.label>Multiplikatorer när utrustning gjorda av detta</StuffOfEquipmentStatFactors.label>
-	
-	
-	<!-- Pawn -->
-    
-    <PawnCombat.label>Strid</PawnCombat.label>
-    <PawnSocial.label>Socialt</PawnSocial.label>
-    <PawnMisc.label>Övrigt</PawnMisc.label>
-    <PawnWork.label>Arbete</PawnWork.label>
 
-    
+  <!-- General -->
+
+  <Basics.label>Grund</Basics.label>
+  <BasicsPawn.label>Grund</BasicsPawn.label>
+  <BasicsNonPawn.label>Grund</BasicsNonPawn.label>
+
+
+  <!-- Non-pawn -->
+
+  <Apparel.label>Kläder</Apparel.label>
+  <Weapon.label>Vapen</Weapon.label>
+  <Building.label>Byggnader</Building.label>
+
+
+  <!-- Virtual categories -->
+
+  <EquippedStatOffsets.label>Offset när utrustad</EquippedStatOffsets.label>
+  <StuffStatFactors.label>Multiplikatorer när gjord av detta</StuffStatFactors.label>
+  <StuffStatOffsets.label>Offset när gjord av detta</StuffStatOffsets.label>
+  <StuffOfEquipmentStatFactors.label>Multiplikatorer när utrustning gjorda av detta</StuffOfEquipmentStatFactors.label>
+
+
+  <!-- Pawn -->
+
+  <PawnCombat.label>Strid</PawnCombat.label>
+  <PawnSocial.label>Socialt</PawnSocial.label>
+  <PawnMisc.label>Övrigt</PawnMisc.label>
+  <PawnWork.label>Arbete</PawnWork.label>
+
+
 </LanguageData>

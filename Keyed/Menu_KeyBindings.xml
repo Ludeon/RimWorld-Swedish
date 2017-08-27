@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SaveButton>Spara</SaveButton>
-  
+  <!--<CancelButton>Cancel</CancelButton>-->
   <ClearBinding>Rensa</ClearBinding>
   <ResetBinding>Återställ till standard</ResetBinding>
   <BindingButtonToolTip>Vänsterklicka för att binda denna tangent eller högerklicka för mer alternativ</BindingButtonToolTip>
   <PressAnyKeyOrEsc>Tryck på någon tangen eller Esc för att avbryta...</PressAnyKeyOrEsc>
   <KeyBindingOverwritten>Tangentbords bindning överskriven: {0}</KeyBindingOverwritten>
-  
+
 </LanguageData>

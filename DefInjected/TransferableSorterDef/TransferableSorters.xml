@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <None.label>ingen</None.label>
-    <Name.label>namn</Name.label>
-    <MarketValue.label>marknadsvärde</MarketValue.label>
-    <Category.label>kategori</Category.label>
-    <Quality.label>kvalitet</Quality.label>
-    <HitPointsPercentage.label>träffpoäng procent</HitPointsPercentage.label>
-    
+
+  <None.label>ingen</None.label>
+  <Name.label>namn</Name.label>
+  <MarketValue.label>marknadsvärde</MarketValue.label>
+  <Category.label>kategori</Category.label>
+  <Quality.label>kvalitet</Quality.label>
+  <HitPointsPercentage.label>träffpoäng procent</HitPointsPercentage.label>
+
+
 </LanguageData>

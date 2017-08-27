@@ -1,56 +1,65 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- General -->
-	
-    <Goto.reportString>går.</Goto.reportString>
-    <GotoSafeTemperature.reportString>uppsöker en säker temperatur.</GotoSafeTemperature.reportString>
-    <GotoWander.reportString>vandrar.</GotoWander.reportString>
-    <Wait.reportString>står.</Wait.reportString>
-    <WaitDowned.reportString>nere.</WaitDowned.reportString>
-    <WaitSafeTemperature.reportString>väntar i en säker temperatur.</WaitSafeTemperature.reportString>
-    <WaitWander.reportString>vandrar.</WaitWander.reportString>
-    <WaitCombat.reportString>letar efter mål.</WaitCombat.reportString>
-    <AttackStatic.reportString>attackerar TargetA.</AttackStatic.reportString>
-    <AttackMelee.reportString>anfaller TargetA i närstrid.</AttackMelee.reportString>
-    <SocialFight.reportString>slåss med TargetA.</SocialFight.reportString>
-    <Equip.reportString>utrustar sig med TargetA.</Equip.reportString>
-    <TakeInventory.reportString>tar TargetA.</TakeInventory.reportString>
-    <Wear.reportString>har på sig TargetA.</Wear.reportString>
-    <RemoveApparel.reportString>tar av sig TargetA.</RemoveApparel.reportString>
-    <Strip.reportString>klär av TargetA.</Strip.reportString>
-    <Open.reportString>öppnar TargetA.</Open.reportString>
-    <RearmTrap.reportString>laddar TargetA.</RearmTrap.reportString>
-    <Refuel.reportString>tankar TargetA.</Refuel.reportString>
-    <FillFermentingBarrel.reportString>fyller TargetA.</FillFermentingBarrel.reportString>
-    <TakeBeerOutOfFermentingBarrel.reportString>tar ut öl ur TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
-    <ManTurret.reportString>bemannar kanontorn.</ManTurret.reportString>
-    <EnterCryptosleepCasket.reportString>Lägger sig i cryptosömnkista.</EnterCryptosleepCasket.reportString>
-    <UseNeurotrainer.reportString>använder neurotränare.</UseNeurotrainer.reportString>
-    <UseArtifact.reportString>aktiverar artifakt.</UseArtifact.reportString>
-    <TriggerFirefoamPopper.reportString>aktiverar brandskumsknapp.</TriggerFirefoamPopper.reportString>
-    <ClearSnow.reportString>skottar snö.</ClearSnow.reportString>
-    <Vomit.reportString>kräks.</Vomit.reportString>
-    <Flick.reportString>klickar på knapp.</Flick.reportString>
-    <TradeWithPawn.reportString>byter med TargetA.</TradeWithPawn.reportString>
-    <FleeAndCower.reportString>flyr.</FleeAndCower.reportString>
-    
-	
-	<!-- Fire -->
 
-    <Ignite.reportString>tänder eld på TargetA.</Ignite.reportString>
-    <BeatFire.reportString>släcker eld.</BeatFire.reportString>
-    <ExtinguishSelf.reportString>släcker sig själv.</ExtinguishSelf.reportString>
-	
-	
-	<!-- Need satisfaction -->
-    
-    <Ingest.reportString>äter TargetA.</Ingest.reportString>
-    <LayDown.reportString>lägger sig ned.</LayDown.reportString>
-	
-	
-	<!-- Love -->
-    
-    <Lovin.reportString>Älskar.</Lovin.reportString>
-    
+  <!-- General -->
+
+  <Goto.reportString>går.</Goto.reportString>
+  <GotoSafeTemperature.reportString>uppsöker en säker temperatur.</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>vandrar.</GotoWander.reportString>
+  <Wait.reportString>står.</Wait.reportString>
+  <WaitMaintainPosture.reportString>står.</WaitMaintainPosture.reportString>
+  <WaitDowned.reportString>nere.</WaitDowned.reportString>
+  <WaitSafeTemperature.reportString>väntar i en säker temperatur.</WaitSafeTemperature.reportString>
+  <WaitWander.reportString>vandrar.</WaitWander.reportString>
+  <WaitCombat.reportString>letar efter mål.</WaitCombat.reportString>
+  <AttackStatic.reportString>attackerar TargetA.</AttackStatic.reportString>
+  <AttackMelee.reportString>anfaller TargetA i närstrid.</AttackMelee.reportString>
+  <SocialFight.reportString>slåss med TargetA.</SocialFight.reportString>
+  <UseVerbOnThing.reportString>Gör någonting.</UseVerbOnThing.reportString>
+  <Equip.reportString>utrustar sig med TargetA.</Equip.reportString>
+  <TakeInventory.reportString>tar TargetA.</TakeInventory.reportString>
+  <GiveToPackAnimal.reportString>tar TargetA.</GiveToPackAnimal.reportString>
+  <Wear.reportString>har på sig TargetA.</Wear.reportString>
+  <RemoveApparel.reportString>tar av sig TargetA.</RemoveApparel.reportString>
+  <DropEquipment.reportString>släpper TargetA.</DropEquipment.reportString>
+  <Strip.reportString>klär av TargetA.</Strip.reportString>
+  <Open.reportString>öppnar TargetA.</Open.reportString>
+  <RearmTrap.reportString>laddar TargetA.</RearmTrap.reportString>
+  <Refuel.reportString>tankar TargetA.</Refuel.reportString>
+  <FillFermentingBarrel.reportString>fyller TargetA.</FillFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>tar ut öl ur TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <UnloadInventory.reportString>lastar TargetA.</UnloadInventory.reportString>
+  <UnloadYourInventory.reportString>lossar saker.</UnloadYourInventory.reportString>
+  <ManTurret.reportString>bemannar kanontorn.</ManTurret.reportString>
+  <EnterCryptosleepCasket.reportString>Lägger sig i cryptosömnkista.</EnterCryptosleepCasket.reportString>
+  <UseNeurotrainer.reportString>använder neurotränare.</UseNeurotrainer.reportString>
+  <UseArtifact.reportString>aktiverar artifakt.</UseArtifact.reportString>
+  <TriggerFirefoamPopper.reportString>aktiverar brandskumsknapp.</TriggerFirefoamPopper.reportString>
+  <ClearSnow.reportString>skottar snö.</ClearSnow.reportString>
+  <Vomit.reportString>kräks.</Vomit.reportString>
+  <Flick.reportString>klickar på knapp.</Flick.reportString>
+  <TradeWithPawn.reportString>byter med TargetA.</TradeWithPawn.reportString>
+  <Flee.reportString>flyr.</Flee.reportString>
+  <FleeAndCower.reportString>flyr.</FleeAndCower.reportString>
+  <EnterTransporter.reportString>stiger i TargetA.</EnterTransporter.reportString>
+
+
+  <!-- Fire -->
+
+  <Ignite.reportString>tänder eld på TargetA.</Ignite.reportString>
+  <BeatFire.reportString>släcker eld.</BeatFire.reportString>
+  <ExtinguishSelf.reportString>släcker sig själv.</ExtinguishSelf.reportString>
+
+
+  <!-- Need satisfaction -->
+
+  <Ingest.reportString>äter TargetA.</Ingest.reportString>
+  <LayDown.reportString>lägger sig ned.</LayDown.reportString>
+
+
+  <!-- Love -->
+
+  <Lovin.reportString>Älskar.</Lovin.reportString>
+
+
 </LanguageData>

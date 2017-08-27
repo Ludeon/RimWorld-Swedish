@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--=========== Main menu ==========--> 
+  <!--=========== Main menu ==========-->
   <Tutorial>Lär dig spela</Tutorial>
   <NewColony>Ny koloni</NewColony>
   <BackToGame>Tillbaka till spelet</BackToGame>
@@ -25,7 +25,7 @@
   <BuySoundtrack>Köp musikspår</BuySoundtrack>
   <CreateWorld>Tillverka egen Värld</CreateWorld>
 
-  <!--=========== Create/review world ================-->  
+  <!--=========== Create/review world ================-->
   <ReviewWorld>Se värld</ReviewWorld>
   <WorldGenerate>Generera</WorldGenerate>
   <WorldSaveAndFinish>Spara och avsluta</WorldSaveAndFinish>
@@ -42,22 +42,23 @@
   <WorldSeed>Frö</WorldSeed>
   <RandomizeSeed>Slumpa frö</RandomizeSeed>
   <PlanetCoverageTip>Planeten är alltid samma diameter, men eftersom det är mycket större än vad som behövs för att spela, behöver vi inte genererar hela ytan eftersom det kan ta onödigt lång tid. Detta är den procentuella andelen av ytan som du vill genereras.</PlanetCoverageTip>
+  <WorldFactionsTab>Factions</WorldFactionsTab>
 
-  <!--=========== Select world ===================--> 
+  <!--=========== Select world ===================-->
   <SelectWorld>Välj värd</SelectWorld>
   <WorldChooseButton>Välj</WorldChooseButton>
   <NoWorldsFilesFound>Ingen världsfil hittad. Skapa en värld först.</NoWorldsFilesFound>
-  
-  <!--=========== Version info ==========-->  
+
+  <!--=========== Version info ==========-->
   <BuildNowAvailable>Struktur {0} finns tillgänglig. Kolla ludeon.com för mer information.</BuildNowAvailable>
   <BuildUpToDate>Strukturen är aktuell.</BuildUpToDate>
   <ErrorGettingVersionInfo>Fel när versionsinformationen skulle hämtas: {0}</ErrorGettingVersionInfo>
   <LoadingVersionInfo>Laddar versionsinformation...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->  
+  <!--=========== World generator =========-->
   <GenerateWorld>Generera värld</GenerateWorld>
 
-  <!--=========== Mods config ==========--> 
+  <!--=========== Mods config ==========-->
   <OpenSteamWorkshop>Öppna Steam Workshop</OpenSteamWorkshop>
   <GetModsFromForum>Hämta moddar ifrån forum</GetModsFromForum>
   <OpenModsDataFolder>Öppna datamappen för moddar</OpenModsDataFolder>
@@ -76,17 +77,17 @@
   <Source>Källa</Source>
   <ModTargetVersion>För version: {0}</ModTargetVersion>
   <ModNotMadeForThisVersion>Denna modden var inte tillverkad för denna versionen av RimWorld, och kommer troligtvis inte fungera korrekt.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: <targetVersion>{0}</targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: {0}.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Drag för att beställa igen</DragToReorder>
-  
-  <!--=========== Select scenario =============-->  
+
+  <!--=========== Select scenario =============-->
   <ChooseScenario>Välj scenario</ChooseScenario>
   <ScenariosCustom>Special</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
   <ScenarioEditor>Scenario editor</ScenarioEditor>
   <Delete>Radera</Delete>
- 
-  <!--============ Scenario editor ===============-->  
+
+  <!--============ Scenario editor ===============-->
   <Seed>frö</Seed>
   <Load>Ladda</Load>
   <EditMode>Välj läge</EditMode>
@@ -98,29 +99,34 @@
   <Incompatible>Inkompatibelt</Incompatible>
   <TooMany>För många (max {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Kan bli uppdaterat till Workshop, eftersom du är ägaren.</CanBeUpdatedOnWorkshop>
-  
-  <!--=========== Select storyteller ==========-->  
+
+  <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Välj AI berättare</ChooseAIStoryteller>
   <HowStorytellersWork>AI Berättaren skapar event som plundringståg av pirater, räddningsfall, eller djurattacker. Deras val kommer att påverka din kolonis historia.</HowStorytellersWork>
   <MustChooseDifficulty>Välj en svårighetsnivå.</MustChooseDifficulty>
   <Difficulty>Svårighetsnivå</Difficulty>
 
-  <!--=========== Landing site select =========--> 
+  <!--=========== Landing site select =========-->
   <SelectLandingSite>Välj landingsplats</SelectLandingSite>
   <SelectRandomSite>Välj slumpplats</SelectRandomSite>
   <SelectSite>Välj plats</SelectSite>
   <MustSelectLandingSite>Du måste välja en landningsplats.</MustSelectLandingSite>
   <CannotLandBiome>Du kan inte landa i den här biomen: {0}</CannotLandBiome>
-  <CannotLandImpassableMountains>Du kan inte landa på ogenomträngliga berg.</CannotLandImpassableMountains>
   <BiomeNotImplemented>Biom är ej implementerad</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Du kan inte landa på ogenomträngliga berg.</CannotLandImpassableMountains>
   <BaseAlreadyThere>{0} har redan en bas där.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Du har redan en bas där.</YourBaseAlreadyThere>
+  <TileOccupied>Den här platsen är upptagen.</TileOccupied>
+  <FactionBaseAdjacent>Bosättningar kan inte vara direkt jämte varandra.</FactionBaseAdjacent>
   <Biome>Biom</Biome>
   <Terrain>Terräng</Terrain>
+  <Road>Road</Road>
+  <River>River</River>
   <Elevation>Höjd</Elevation>
   <Fertility>Fertilitet</Fertility>
   <AvgTemp>Medel Temp</AvgTemp>
-  <AvgWinterTemp>Medel Temp (vinter): {0}</AvgWinterTemp>
   <AvgSummerTemp>Medel Temp (sommar): {0}</AvgSummerTemp>
+  <AvgWinterTemp>Medel Temp (vinter): {0}</AvgWinterTemp>
   <Rainfall>Nederbörd</Rainfall>
   <HasCoast0>Norra kusten</HasCoast0>
   <HasCoast1>Östra kusten</HasCoast1>
@@ -132,9 +138,10 @@
   <MovementTimeNow>Aktuell förflyttningstid</MovementTimeNow>
   <MovementTimeSummer>förflyttningstid på Sommaren</MovementTimeSummer>
   <MovementTimeWinter>förflyttningstid på Vintern</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Djur kan beta nu</AnimalsCanGrazeNow>
 
-  
-  <!--=========== Character chooser ==========-->  
+
+  <!--=========== Character chooser ==========-->
   <CreateCharacters>Skapa karaktärer</CreateCharacters>
   <FirstNameDesc>Karaktärens förnamn.\n\nDetta visas bara i vissa menyer.</FirstNameDesc>
   <ShortIdentifierDesc>Karaktärens korta indentifierare.\n\nDetta visas hela tiden. Det kan vara för- eller efternamn, eller ett helt annat, separat namn.</ShortIdentifierDesc>
@@ -154,8 +161,8 @@
   <Pain>Smärta</Pain>
   <Health>Hälsa</Health>
   <Relations>Relationer</Relations>
-  
-  <!--=========== Misc ==========-->  
+
+  <!--=========== Misc ==========-->
   <Start>Börja</Start>
   <Advanced>Avancerat</Advanced>
   <Next>Nästa</Next>
@@ -168,6 +175,7 @@
 
   <!--============ Progress bar==============-->
   <GeneratingWorld>Genererar värld</GeneratingWorld>
+  <GeneratingPlanet>Generating planet</GeneratingPlanet>
   <GeneratingMap>Genererar karta</GeneratingMap>
   <GeneratingMapForNewEncounter>Genererar karta för nya möte</GeneratingMapForNewEncounter>
 

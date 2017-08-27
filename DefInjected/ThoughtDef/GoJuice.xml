@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <GoJuiceHigh.stages.0.label>hög på go-juice</GoJuiceHigh.stages.0.label>
-    <GoJuiceHigh.stages.0.description>Käner mig pumpad men lugn. Jag är prickskyttkulan i färd, redo att skära igenom dig.</GoJuiceHigh.stages.0.description>
-	
-	
-	<!-- Go-juice addiction -->
-    
-    <GoJuiceWithdrawal.stages.1.label>go-juice-abstinens</GoJuiceWithdrawal.stages.1.label>
-    <GoJuiceWithdrawal.stages.1.description>Jag är suddig och kan inte tänka klart. Alla mina lemmar känns tunga, jag är trött och hungrig, det gör ont överallt. Varför kan inte mina ögon fokusera på rätt sätt?</GoJuiceWithdrawal.stages.1.description>
-    
+
+  <GoJuiceHigh.stages.0.label>hög på go-juice</GoJuiceHigh.stages.0.label>
+  <GoJuiceHigh.stages.0.description>Käner mig pumpad men lugn. Jag är prickskyttkulan i färd, redo att skära igenom dig.</GoJuiceHigh.stages.0.description>
+
+
+  <!-- Go-juice addiction -->
+
+  <GoJuiceWithdrawal.stages.1.label>go-juice-abstinens</GoJuiceWithdrawal.stages.1.label>
+  <GoJuiceWithdrawal.stages.1.description>Jag är suddig och kan inte tänka klart. Alla mina lemmar känns tunga, jag är trött och hungrig, det gör ont överallt. Varför kan inte mina ögon fokusera på rätt sätt?</GoJuiceWithdrawal.stages.1.description>
+
+
 </LanguageData>

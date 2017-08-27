@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <WaterDeep.label>djupt vatten</WaterDeep.label>
-    <WaterShallow.label>grunt vatten</WaterShallow.label>
-    
+
+  <WaterDeep.label>djupt vatten</WaterDeep.label>
+  <WaterOceanDeep.label>djupt havsvatten</WaterOceanDeep.label>
+  <WaterMovingDeep.label>djupt rörligt vatten</WaterMovingDeep.label>
+  <WaterShallow.label>grunt vatten</WaterShallow.label>
+  <WaterOceanShallow.label>grunt havsvatten</WaterOceanShallow.label>
+  <WaterMovingShallow.label>grunt rörligt vatten</WaterMovingShallow.label>
+
+
 </LanguageData>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Sandstone -->
@@ -17,8 +17,8 @@
 
   <!-- Limestone -->
 
-  <MakeStoneBlocksLimestone.label>Hugg pimpstenblock</MakeStoneBlocksLimestone.label>
-  <MakeStoneBlocksLimestone.description>Hugger pimpstenbitar till användbara block.</MakeStoneBlocksLimestone.description>
+  <MakeStoneBlocksLimestone.label>Hugg kalkstenblock</MakeStoneBlocksLimestone.label>
+  <MakeStoneBlocksLimestone.description>Hugger kalkstenbitar till användbara block.</MakeStoneBlocksLimestone.description>
   <MakeStoneBlocksLimestone.jobString>Hugger stenblock ifrån bitar.</MakeStoneBlocksLimestone.jobString>
 
 

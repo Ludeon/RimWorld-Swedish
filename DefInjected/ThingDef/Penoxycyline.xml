@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Penoxycyline.label>penoxycyline</Penoxycyline.label>
-    <Penoxycyline.description>Ett läkemedel för att blockera diverse infektioner. Blockerar malaria, sömnsjuka och pest. Ta ett piller var femte dag.</Penoxycyline.description>
-    <Penoxycyline.ingestible.ingestCommandString>Ta {0}</Penoxycyline.ingestible.ingestCommandString>
-    <Penoxycyline.ingestible.ingestReportString>Tar {0}.</Penoxycyline.ingestible.ingestReportString>
-	
+
+  <Penoxycyline.label>penoxycyline</Penoxycyline.label>
+  <Penoxycyline.description>Ett läkemedel för att blockera diverse infektioner. Blockerar malaria, sömnsjuka och pest. Ta ett piller var femte dag.</Penoxycyline.description>
+  <Penoxycyline.ingestible.ingestCommandString>Ta {0}</Penoxycyline.ingestible.ingestCommandString>
+  <Penoxycyline.ingestible.ingestReportString>Tar {0}.</Penoxycyline.ingestible.ingestReportString>
+
 
 </LanguageData>

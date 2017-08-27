@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Tier 4: Hi-tech research bench with multi-analyzer -->
-	
-    <ShipBasics.label>grunläggande skeppsbyggning</ShipBasics.label>
-    <ShipBasics.description>Gör det möjligt att utveckla mer avancerad skeppsbyggningsteknologi, och eventuellt bygga ett skepp för att undkomma planeten.</ShipBasics.description>
-    
-    <ShipCryptosleep.label>skeppsbaserade kryptosömnskapslar</ShipCryptosleep.label>
-    <ShipCryptosleep.description>Gör det möjligt att bygga kryptosömnskapslar, för att transportera kryptosovande kolonister mellan stjärnorna.</ShipCryptosleep.description>
-    
-    <ShipReactor.label>skeppsantimateriereaktor</ShipReactor.label>
-    <ShipReactor.description>Gör det möjligt att använda en antimaterieinslutningskärna, för att bygga en antimateriereaktor som kan driva ett skepp.</ShipReactor.description>
-    
-    <ShipEngine.label>skeppsantimaterieframdrivning</ShipEngine.label>
-    <ShipEngine.description>Gör det möjligt att använda en antimaterieinslutningskärna, för att bygga en antimaterieenhet till ett skepp.</ShipEngine.description>
-    
-    <ShipComputerCore.label>skeppsdatorkärna</ShipComputerCore.label>
-    <ShipComputerCore.description>Gör det möjligt att tvinga en existerande AI persona till en användbar AI datorkärna för skeppsstyrning.</ShipComputerCore.description>
-    
-	
+
+  <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
+
+  <ShipBasics.label>grundläggande skeppsbyggning</ShipBasics.label>
+  <ShipBasics.description>Gör det möjligt att utveckla mer avancerad skeppsbyggningsteknologi, och eventuellt bygga ett skepp för att lämna planeten.</ShipBasics.description>
+
+  <ShipCryptosleep.label>skeppsbaserade kryptosömnskapslar</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Gör det möjligt att bygga kryptosömnskapslar, för att transportera kryptosovande kolonister mellan stjärnorna.</ShipCryptosleep.description>
+
+  <ShipReactor.label>skeppsantimateriereaktor</ShipReactor.label>
+  <ShipReactor.description>Gör det möjligt att använda en antimaterieinslutningskärna, för att bygga en antimateriereaktor som kan driva ett skepp.</ShipReactor.description>
+
+  <ShipEngine.label>skeppsantimaterieframdrivning</ShipEngine.label>
+  <ShipEngine.description>Gör det möjligt att använda en antimaterieinslutningskärna, för att bygga en antimaterieenhet till ett skepp.</ShipEngine.description>
+
+  <ShipComputerCore.label>skeppsdatorkärna</ShipComputerCore.label>
+  <ShipComputerCore.description>Gör det möjligt att tvinga en existerande AI persona till en användbar AI datorkärna för skeppsstyrning.</ShipComputerCore.description>
+
+
 </LanguageData>

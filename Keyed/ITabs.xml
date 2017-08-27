@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  
+  <!-- ITab titles -->
   <TabBills>Beställning</TabBills>
   <TabGrowing>Växer</TabGrowing>
   <TabCharacter>Karaktär</TabCharacter>
@@ -19,7 +19,7 @@
   <TabArt>Konst</TabArt>
   <TabSocial>Socialt</TabSocial>
 
-  
+
   <!-- Bills tab  -->
   <AddBill>Lägg till beställning</AddBill>
   <RecipeRequiresSkills>Receptet {0} kräver nedanstående färdigheter. Ingen av dina kolonister har dessa färdigheter, så ingen kommer att göra denna beställning.</RecipeRequiresSkills>
@@ -32,7 +32,7 @@
   <!-- Guest/prisoner tab -->
   <RecruitmentDifficulty>Svårighetsgrad av rekrytering</RecruitmentDifficulty>
   <GetsFood>Hämtar mat</GetsFood>
-  <DoctorsCare>Doctors care</DoctorsCare>
+  <DoctorsCare>Läkarbehandling</DoctorsCare>
   <GetsMedicine>Hämtar medicin</GetsMedicine>
   <ShouldTryToRecruit>Försök rekrytera</ShouldTryToRecruit>
   <PrisonerNoInteraction>Ingen interaktion</PrisonerNoInteraction>
@@ -46,6 +46,8 @@
   <!-- Medical - general -->
   <MoveSpeed>Rörelsehastighet</MoveSpeed>
   <Efficiency>Effektivitet</Efficiency>
+  <PartEfficiency>Del effektivitet</PartEfficiency>
+  <BodyPartEfficiency>Kroppsdelens effektivitet</BodyPartEfficiency>
   <MissingBodyPart>Borta</MissingBodyPart>
   <DestroyedBodyPart>Förstörd</DestroyedBodyPart>
   <ShatteredBodyPart>Splittrad</ShatteredBodyPart>
@@ -75,6 +77,8 @@
   <Tiredness>Trötthet</Tiredness>
   <PainFactor>Smärta</PainFactor>
   <PreventsInfection>Förhindra infektion</PreventsInfection>
+  <SelfTend>Självbehandla</SelfTend>
+  <SelfTendTip>Med självbehandla aktiverat kommer {0} automatiskt ta hand om sina egna sår med {1} effektivitet.</SelfTendTip>
 
 
   <!-- Medical - Body and activities condition -->
@@ -100,17 +104,18 @@
   <CannotTrainTooSmall>{0} är för liten för att kunna träna detta.</CannotTrainTooSmall>
 
   <TrainingNeedsPrerequisite>Förutsättning behövs: {0}</TrainingNeedsPrerequisite>
-  
+
   <!-- Social tab -->
   <NoRelationships>(ingen relation)</NoRelationships>
   <Kidnapped>Kidnappad</Kidnapped>
+  <Missing>Saknad</Missing>
   <Slave>Slav</Slave>
   <FactionLeader>Fraktionens ledare</FactionLeader>
   <OpinionOf>Åsikt av {0}</OpinionOf>
   <SomeonesOpinionOfMe>{0}'s åsikt av mig</SomeonesOpinionOfMe>
   <IAmDead>Jag är död</IAmDead>
   <IAmPsychopath>Jag är en psykopat</IAmPsychopath>
-  
+
   <!-- Gear tab -->
   <AverageArmor>Medelskydd mot:</AverageArmor>
   <MassCarried>Vikt buren: {0} / {1} kg</MassCarried>

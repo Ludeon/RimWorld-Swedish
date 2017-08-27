@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <JumpToLocation>Hoppa till aktuell plats</JumpToLocation>
-  
+  <PostponeLetter>Skjut upp</PostponeLetter>
+  <RejectLetter>Avvisa</RejectLetter>
+
   <LetterLabelFirstSummerWarning>Sommar</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>Sommaren är här men vintern är påväg.\n\nDina matgrödor kommer inte att växa i vinterns kyla. Se till att spara flera dagars matförråd nu, medans ni fortfarande kan.\n\nNi kan bygga ett större kylrum för att förhindra mat ifrån att bli förstörd.\n\nSe även till att köp, stjäl eller tillverka några parkas, annars kommer ni att frysa när ni går ut.</FirstSummerWarning>
 
@@ -24,7 +26,7 @@
   <TheseThingsCrushed>Detta blev krossat:</TheseThingsCrushed>
   <NothingCrushed>Inget krossades.</NothingCrushed>
   <LetterLabelRoofCollapsed>Tak kollapsade</LetterLabelRoofCollapsed>
-  
+
   <RecruitSuccess>{0} lyckades rekytera {1} ({2} chans).</RecruitSuccess>
   <RecruitFail>{0} misslyckades med att rekrytera {1} ({2} chans).</RecruitFail>
 
@@ -51,7 +53,7 @@
 
   <LetterHealthComplications>{0} har utvecklat ett hälsotillstånd: {1}\n\nDetta var en komplikation från: {2}.</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
-  
+
   <LetterHediffFromRandomHediffGiver>{0} har utvecklat ett hälsotillstånd: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
 
@@ -60,23 +62,23 @@
 
   <LetterLeaderChangedLabel>Nya {1}: {0}</LetterLeaderChangedLabel>
   <LetterLeaderChanged>{0} är inte längre {3} av {1}.\n\nde nya {3} är {2}.</LetterLeaderChanged>
-  
+
   <MentalBreakLetterLabel>Mentalt bryt</MentalBreakLetterLabel>
-  <MentalBreakReason>Droppen för fick bägaren att rinna över var: {0}.</MentalBreakReason>
-  
+  <FinalStraw>The final straw was: {0}.</FinalStraw>
+
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Relation</LetterLabelNoticedRelatedPawns>
   <LetterRelatedPawnsRaidEnemy>Det finns personer som har en relation med din kolonister eller fångar i den anlända gruppen {0}.\n\nTänk på att trots att dom har en relation kommer dom fortfarande attackera varandra pågrund av deras fraktioners dåliga relation.\n\nDessa personer är:</LetterRelatedPawnsRaidEnemy>
   <LetterRelatedPawnsRaidFriendly>Det finns personer som har en relation med din kolonister eller fångar i den anlända vänliga gruppen {0}:</LetterRelatedPawnsRaidFriendly>
   <LetterRelatedPawnsNeutralGroup>Det finns personer som har en relation med din kolonister eller fångar i den anlända gruppen:</LetterRelatedPawnsNeutralGroup>
   <LetterRelatedPawnsTradeShip>Handlaren i omloppsbana säljer personer som har en relation med din kolonister eller fångar:</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithFactionBase>Huvudfraktionen säljer personer som har relationer med dina kolonister eller fångar:</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithSettlement>
   <LetterRelatedPawnsTradingWithOtherCaravan>Karavanen säljer personer som har relationer med dina kolonister eller fångar:</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(relationer)</RelationshipAppendedLetterSuffix>
   <RelationshipAppendedLetterTextColonist>NAME har en relation med en kolonist. HECAP är {0}'s {1}.</RelationshipAppendedLetterTextColonist>
   <RelationshipAppendedLetterTextPrisoner>NAME har en relation med en av era fångar. HECAP är {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
-  
+
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Kärleksaffär</LetterLabelAffair>
   <LetterAffair>{0} som är gift med {1}, har inlett en kärleksaffär med {2}.</LetterAffair>
@@ -88,13 +90,13 @@
   <LetterLabelRejectedProposal>Nekat frieri</LetterLabelRejectedProposal>
   <LetterAcceptedProposal>{1} har accepterat {0}'s frieri.\n\nInom några dagar eller säsonger kommer dom att ha en bröllopscermoni och bjuda in alla kolonister. Överväg att placera en bröllopsplats om ni vill kontrollera var bröllpet skall äga rum.</LetterAcceptedProposal>
   <LetterRejectedProposal>{1} har avvisat {0}'s frieri. {0} kommer vara olycklig över detta.</LetterRejectedProposal>
-  
+
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChangeGood>Vänlig</LetterLabelRelationsChangeGood>
   <LetterLabelRelationsChangeBad>Ovänlig</LetterLabelRelationsChangeBad>
   <LetterLabelShortCircuit>Bzzztt...</LetterLabelShortCircuit>
   <LetterLabelMentalBreakdown>Mentalt bryt</LetterLabelMentalBreakdown>
-  
+
   <!-- Bonded animals -->
   <LetterLabelBondedAnimalDied>Bunden djurs död</LetterLabelBondedAnimalDied>
   <LetterBondedAnimalDied>{0}, bunden till {1}, har dött. Det kommer att påverka {1}'s humör.</LetterBondedAnimalDied>
@@ -105,44 +107,51 @@
   <!-- Prison break -->
   <LetterLabelPrisonBreak>Flykt från fängelse</LetterLabelPrisonBreak>
   <LetterPrisonBreak>Fångarna har iscensatt en utbrytning! Dom har på något sätt låst upp dörren och tar sig ut. Dom kan leta upp vapen, slåss, och försöka fly. Dessa fångar är inblandade:\n\n{0}\n\nDet är störra chans att fångar försöker fly som är olyckliga, många och friska.</LetterPrisonBreak>
-  
+
   <!-- Party -->
-  <LetterLabelNewParty>Party</LetterLabelNewParty>
+  <LetterLabelNewParty>Fest</LetterLabelNewParty>
   <LetterNewParty>{0} arrangerar en fest! Alla som är med kommer få glädje och social energi, och en ihållande positivt humörlyft.</LetterNewParty>
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} missbruk</LetterLabelNewlyAddicted>
   <LetterNewlyAddicted>{0} har utvecklat ett missbruk till {1}.\n\nHECAP har nu ett behov av {1}, något som syns på HIS Behov flik. HECAP kommer automatiskt använda drogen för att uppfylla HIS behov. Mm HE inte kan få någon {1} kommer HE få abstinens.</LetterNewlyAddicted>
-  
+
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} frossar</LetterLabelDrugBinge>
   <LetterDrugBinge>{0} frossar på {1}.</LetterDrugBinge>
-  
-    <!-- Formed caravan -->
+
+  <!-- Formed caravan -->
   <LetterLabelFormedCaravan>Karavan redo</LetterLabelFormedCaravan>
-  <LetterFormedCaravan>Your caravan has formed and awaits orders on the world map.</LetterFormedCaravan>
+  <LetterFormedCaravan>Din karavar är redo och inväntar order på världskartan.</LetterFormedCaravan>
 
   <!-- Caravan destroyed -->
-  <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
-  <LetterAllCaravanColonistsDied>All members of your caravan have died.</LetterAllCaravanColonistsDied>
+  <LetterLabelAllCaravanColonistsDied>Karavan förstörd</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>Alla medlemmar av din karavan har dött.</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered ambush map -->
-  <LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
-  <LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
+  <LetterLabelCaravanEnteredAmbushMap>Karavanen ankommit till bakhåll</LetterLabelCaravanEnteredAmbushMap>
+  <LetterCaravanEnteredAmbushMap>{0} har ankommmit till bakhållsplatsen.</LetterCaravanEnteredAmbushMap>
 
   <!-- Caravan entered enemy base -->
-  <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
-  <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
-  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} has arrived at {1} and is ready to begin the attack.\n\nBecause of your hostile approach, {2} is now hostile to you.</LetterCaravanEnteredEnemyBaseBecameHostile>
+  <LetterLabelCaravanEnteredEnemyBase>Attack redo</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} han ankommit till {1} och är redo att börja attacken.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} han ankommit till {1} och är redo att börja attacken.\n\nTack vare den här manövern är nu {2} fientliga mot oss.</LetterCaravanEnteredEnemyBaseBecameHostile>
 
   <!-- Faction base defeated -->
-  <LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
-  <LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} hours to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
-  <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means the faction does not exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterLabelFactionBaseDefeated>Utpost förstörd</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>Den fientliga utposten {0} är nu förstörd.\n\nNi har {1} timme på er att samla in föremål innan kolonisterna återskapar karavanen.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>Detta var {0} sista bas vilket gör att fraktionen nu är utplånad.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Pawns lost due to map countdown -->
-  <LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
-  <LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+  <LetterLabelPawnsLostDueToMapCountdown>Lämnade</LetterLabelPawnsLostDueToMapCountdown>
+  <LetterPawnsLostDueToMapCountdown>Några djur och fångar blev lämnade i vildmarken:\n\n{0}</LetterPawnsLostDueToMapCountdown>
 
-  
+  <!-- Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Uppdrag utfört</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Den fientliga utposten är besegrad!\n\nBetalningen ifrån {0} är leveread och fraktionens relation har förbättrats med {1}.</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Found lump of precious resources -->
+  <LetterLabelFoundPreciousLump>Värdefulla resurser hittades</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>Din långdistans scanner har hittat en klump med värdefulla resurser i närheten.\n\nVi vet inte vad vem eller vad - om något - som kan övervaka den.</LetterFoundPreciousLump>
+
 </LanguageData>

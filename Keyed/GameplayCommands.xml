@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Forbid -->
@@ -9,30 +9,30 @@
   <!-- Power -->
   <CommandTogglePowerLabel>Växla ström</CommandTogglePowerLabel>
   <CommandTogglePowerDesc>Växla ström.</CommandTogglePowerDesc>
-  
+
   <CommandDesignateTogglePowerLabel>Ange strömväxling</CommandDesignateTogglePowerLabel>
   <CommandDesignateTogglePowerDesc>Ange att detta föremål ska växla sitt strömläge. En kolonist kommer snart att växla läge.</CommandDesignateTogglePowerDesc>
-  
+
   <CommandTryReconnectLabel>Återanslut</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Försök att ansluta till ett annat elnät inom min kopplingsradie. Det här är användbart om jag är kopplad till ett strömlöst elnät men det finns ett elnät med ström nära.</CommandTryReconnectDesc>
 
   <CommandGatherSpotToggleLabel>Samlingsplats</CommandGatherSpotToggleLabel>
   <CommandGatherSpotToggleDescActive>Aktivt - kolonister kommer att samlas runt detta objekt.</CommandGatherSpotToggleDescActive>
   <CommandGatherSpotToggleDescInactive>Inaktivt - kolonister kommer inte att samlas runt detta objekt.</CommandGatherSpotToggleDescInactive>
-  
-  
+
+
   <!-- Drafting -->
   <CommandDraftLabel>Kommendera</CommandDraftLabel>
   <CommandUndraftLabel>Upphäv kommendering</CommandUndraftLabel>
   <CommandToggleDraftDesc>Växla Kommendering.\n\nKommenderade personer tar direkta order och slåss. De kommer inte arbeta, äta eller vila.</CommandToggleDraftDesc>
-  <IsIncapped>{0} är handikappad.</IsIncapped>
-  
-  <CommandAllowFiringLabel>Tillåt elgivning</CommandAllowFiringLabel>
-  <CommandAllowFiringDesc>Växla tillåt elgivning.\n\nNär detta är inaktiverat kommer denna person inte automatiskt skjuta på avståndsmål. Detta påverkar inte närstrid.</CommandAllowFiringDesc>
+  <IsIncapped>{0} kan inte gå.</IsIncapped>
+
+  <CommandFireAtWillLabel>Fri eldgivning</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>Växla fri eldgivning.\n\nNär detta är inaktivt kommer personen inte att skjuta mot avståndsmål. Påverkar inte närstrid.</CommandFireAtWillDesc>
 
   <CommandClearPrioritizedWork>Rensa prioriterat arbete</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>Rensar alla prioriterade uppgifter du har satt. Karaktären kommer gå tillbaka till sina vanliga, självstyrda, uppgifter.</CommandClearPrioritizedWorkDesc>
-  
+
   <CommandCancelConstructionLabel>Avbryt</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>Avbryt denna konstruktion.</CommandCancelConstructionDesc>
 
@@ -40,7 +40,7 @@
   <CommandGetOutOfBedDesc>Hoppa ur den nuvarande sängen.</CommandGetOutOfBedDesc>
 
   <CommandBedSetOwnerLabel>Ange ägare</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>Tilldela den här sängen till en vald kolonist.</CommandBedSetOwnerDesc>
   <CommandGraveAssignColonistLabel>Tilldela kolonist</CommandGraveAssignColonistLabel>
   <CommandGraveAssignColonistDesc>Tilldelar denna grav till en vald kolonist.</CommandGraveAssignColonistDesc>
   <BuildingAssign>Tilldela</BuildingAssign>
@@ -84,7 +84,7 @@
   <CommandStopAttackFailNotForceAttacking>Har inget tvingat mål.</CommandStopAttackFailNotForceAttacking>
   <MessageTargetBeyondMaximumRange>Mål utanför räckvidd.</MessageTargetBeyondMaximumRange>
   <MessageTargetBelowMinimumRange>Mål för nära.</MessageTargetBelowMinimumRange>
-  
+
   <!-- Ship computer core -->
   <CommandShipLaunch>Starta skepp</CommandShipLaunch>
   <CommandShipLaunchDesc>Startar skeppets startsekvens med den aktuella konfigurationen.</CommandShipLaunchDesc>
@@ -113,7 +113,7 @@
   <CommandInstallDesc>Detta föremål är just nu packeterat för förvaring och transport. Använd detta kommando för att installera föremålet på sin slutgiltiga plats.</CommandInstallDesc>
   <CommandReinstall>Ominstallera vid...</CommandReinstall>
   <CommandReinstallDesc>Ange att detta föremål ska packas ihop och ominstalleras någon annanstans.</CommandReinstallDesc>
-  
+
   <!-- Trade beacon -->
   <CommandMakeBeaconStockpileDesc>Skapar en förvaringsyta kring denna byggnad som exakt matchar fyrens räckvidd.</CommandMakeBeaconStockpileDesc>
   <CommandMakeBeaconStockpileLabel>Skapa förvaringssyta</CommandMakeBeaconStockpileLabel>
@@ -125,29 +125,29 @@
   <!-- Trap -->
   <CommandAutoRearm>Auto-återställ</CommandAutoRearm>
   <CommandAutoRearmDesc>När den här är aktiv kommer fällan automatiskt markeras för att återställas om den utlöses.</CommandAutoRearmDesc>
-  
+
   <!-- Animal control -->
   <CommandReleaseAnimalsLabel>Släpp djur</CommandReleaseAnimalsLabel>
   <CommandReleaseAnimalsDesc>När denna är aktiv kommer djur med en ägare släppas för att attackera avlägsna mål. När den är inaktiv kommer de hålla sig nära och vakta sin ägare.</CommandReleaseAnimalsDesc>
-  
+
   <!-- Squad attack -->
   <CommandSquadAttack>Attackera</CommandSquadAttack>
   <CommandSquadAttackDesc>Beordra valda kolonister att attackera det angivna målet.</CommandSquadAttackDesc>
-  
+
   <!-- Hold fire -->
   <CommandHoldFire>Eldupphör</CommandHoldFire>
   <CommandHoldFireDesc>Avbryter pågående attacker.</CommandHoldFireDesc>
-  
+
   <!-- Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Välj en växt att odla</CommandSelectPlantToGrowMulti>
   <CommandSelectPlantToGrow>Växt: {0}</CommandSelectPlantToGrow>
   <CommandSelectPlantToGrowDesc>Bestäm vilken växt som ska planteras här.</CommandSelectPlantToGrowDesc>
-  
+
   <!-- Build copy -->
   <CommandBuildCopy>Bygg kopia</CommandBuildCopy>
   <CommandBuildCopyDesc>Bygg en kopia av den här byggnaden.</CommandBuildCopyDesc>
-  
-   <!-- Form caravan -->
+
+  <!-- Form caravan -->
   <CommandFormCaravan>Bilda karavan</CommandFormCaravan>
   <CommandFormCaravanDesc>Bilda en grupp av kolonister som kan resa till nya områden. Kolonisterna kommer att samla in alla tilldelade föremål och medföljande djur, lämnar sitt nuvarande område, och invänta vidare order.</CommandFormCaravanDesc>
 
@@ -167,9 +167,10 @@
   <!-- Settle -->
   <CommandSettle>Bosätt</CommandSettle>
   <CommandSettleDesc>Bosätt dätta område. Dina kolonister går in i detta område och du kommer att kunna börja bygga ett nytt hem.</CommandSettleDesc>
-  <CommandSettleFailOtherWorldObjectsHere>Din karavan måste vara det enda föremålet i detta område på denna ruta för att bosätta sig i området.</CommandSettleFailOtherWorldObjectsHere>
   <CommandSettleFailAlreadyHaveBase>Din fraktion kan bara ha en bas.</CommandSettleFailAlreadyHaveBase>
   <CommandSettleFailReachedMaximumNumberOfBases>Nått maximala antalet kolonier.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>Det finns ingen där att annektera området med.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>Det finns fielder i området.</CommandSettleFailEnemies>
 
   <!-- Abandon home -->
   <CommandAbandonHome>Överge</CommandAbandonHome>
@@ -188,6 +189,12 @@
   <CommandTrade>Handla</CommandTrade>
   <CommandTradeDesc>Handla med den här fraktionen.</CommandTradeDesc>
   <CommandTradeFailNoNegotiator>Det finns inte någon medveten, inte bruten förhandlare.</CommandTradeFailNoNegotiator>
+
+  <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>Uppfyll handelserbjudande</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Uppfyll bosättningens förfrågan om varor och hämta ut din belöning.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>Din karavan måste ha {0} för att upfylla detta handelserbjudande.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>Erbjud {0} för {1}?</CommandFulfillTradeOfferConfirm>
 
   <!-- Take off -->
   <CommandTakeOff>Skjut upp</CommandTakeOff>
@@ -227,5 +234,12 @@
   <CommandSelectNextTransporter>Välj nästa avfyringsgrupp</CommandSelectNextTransporter>
   <CommandSelectNextTransporterDesc>Välj nästa transportkapsel i denna avfyringsgrupp.</CommandSelectNextTransporterDesc>
 
-  
+  <!-- Vent -->
+  <CommandDesignateOpenCloseVentLabel>Ange öppen/stängd</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Ange om den här ventilen skall vara öppen eller stängd. En kolonist kommer snart att utföra uppgiften.</CommandDesignateOpenCloseVentDesc>
+
+  <!-- Remove waypoint -->
+  <CommandRemoveWaypointLabel>Ta bort</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Ta bort vägpunkt.</CommandRemoveWaypointDesc>
+
 </LanguageData>

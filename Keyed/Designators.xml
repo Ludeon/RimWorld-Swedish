@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
+
   <DesignatorCancel>Arbryt</DesignatorCancel>
   <DesignatorCancelDesc>Avbryt markerad byggnad, gruvarbete, bortdragning, skörd, och alla andra markeringar.</DesignatorCancelDesc>
 
@@ -26,8 +26,8 @@
   <DesignatorHunt>Jaga</DesignatorHunt>
   <DesignatorHuntDesc>Markera djur som ska jagas av dina jägare.</DesignatorHuntDesc>
 
-  <DesignatorMine>Gräv</DesignatorMine>
-  <DesignatorMineDesc>Markera klippor som ska grävas ur.</DesignatorMineDesc>
+  <DesignatorMine>Gruva</DesignatorMine>
+  <DesignatorMineDesc>Markera klippor som ska gruvas ut.</DesignatorMineDesc>
 
   <DesignatorSmoothFloor>Jämna till golv</DesignatorSmoothFloor>
   <DesignatorSmoothFloorDesc>Markera ojämn stenterräng som ska jämnas ut.</DesignatorSmoothFloorDesc>
@@ -72,7 +72,7 @@
 
   <DesignatorZoneDelete>Radera zoner</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Tar bort zoner, som förrådzoner eller odlingsmark.</DesignatorZoneDeleteDesc>
-  
+
   <DesignatorClaim>Annektera</DesignatorClaim>
   <DesignatorClaimDesc>Annektera en neutral byggnad, så som gamla ruiner och övergivna belägringsbaser. Annekterade byggnader kan rustas upp och underhållas av dina kolonister.</DesignatorClaimDesc>
 
@@ -87,7 +87,7 @@
 
   <DesignatorOpen>Öppna</DesignatorOpen>
   <DesignatorOpenDesc>Öppna en grav eller behållare.</DesignatorOpenDesc>
-  
+
   <DesignatorSlaughter>Slakta</DesignatorSlaughter>
   <DesignatorSlaughterDesc>Slakta ett tamt djur.</DesignatorSlaughterDesc>
 
@@ -110,14 +110,15 @@
   <IdenticalBlueprintExists>Identisk plan finns redan här.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Denna terräng stödjer inte detta.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Platsen är redan upptagen.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>Platser hållar på att jämnas ut.</SpaceBeingSmoothed>
   <TerrainMustBeRemovable>Terrängen måste kunnas ta bort.</TerrainMustBeRemovable>
-  
-  
+
+
   <!-- Mouse attachments -->
   <ExpandOrCreateZone>Expandera {0} eller\nSkapa ny {1}</ExpandOrCreateZone>
   <CreateNewZone>Skapa ny {0}</CreateNewZone>
-  
-  
+
+
   <!-- Desc helpers -->
   <TransmitsPower>Överför ström</TransmitsPower>
 

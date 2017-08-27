@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_ShieldBelt.label>sköldbälte</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.description>En personlig energiskyddsanordning. Det kommer att försöka stoppa varje snabbt rörlig projektil eller energiattack som kommer från avstånd. Det gör ingenting mot närstridsattacker eller skott ifrån närstidsavstånd. Det förhindrar också skott infrån och ut på avstånd längre än närstrid.</Apparel_ShieldBelt.description>
+
+  <Apparel_SmokepopBelt.label>räkskyddsbälte</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.description>Ett automatisk defensivt rökmoln. Det kommer att släppa ut ett tjockt rökmoln runt bäraren om den träffas av en projektil. Detta gör att bäraren göms från attackeraren och det hindrar även kanontorn från att låsa. Engångsanvändning.
+</Apparel_SmokepopBelt.description>
+
+
+</LanguageData>

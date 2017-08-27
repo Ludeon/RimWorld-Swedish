@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Disease_Flu.label>Influensa</Disease_Flu.label>
+  <Disease_Plague.label>Pest</Disease_Plague.label>
+  <Disease_Malaria.label>Malaria</Disease_Malaria.label>
+  <Disease_SleepingSickness.label>Sömnsjuka</Disease_SleepingSickness.label>
+  <Disease_FibrousMechanites.label>Fibrösa mekaniter</Disease_FibrousMechanites.label>
+  <Disease_SensoryMechanites.label>Känselmekaniter</Disease_SensoryMechanites.label>
+  <Disease_GutWorms.label>magmask</Disease_GutWorms.label>
+  <Disease_MuscleParasites.label>muskelparasiter</Disease_MuscleParasites.label>
+
+
+</LanguageData>

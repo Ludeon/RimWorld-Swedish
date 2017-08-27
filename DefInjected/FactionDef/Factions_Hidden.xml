@@ -1,24 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Spacer.label>Rymdman</Spacer.label>
-    <Spacer.description>Människor från avlägsna delar av rymden.</Spacer.description>
-    <Spacer.pawnsPlural>Rymdmän</Spacer.pawnsPlural>
-    <Spacer.fixedName>Rymdman</Spacer.fixedName>
-    
-    <SpacerHostile.label>Rymdman</SpacerHostile.label>
-    <SpacerHostile.description>Människor från avlägsna delar av rymden.</SpacerHostile.description>
-    <SpacerHostile.pawnsPlural>Rymdmän</SpacerHostile.pawnsPlural>
-    <SpacerHostile.fixedName>Rymdman</SpacerHostile.fixedName>
-    
-    <Mechanoid.label>Mekanoidisk svärm</Mechanoid.label>
-    <Mechanoid.description>En svärm av uråldriga, sjävreproducerande robotar.</Mechanoid.description>
-    <Mechanoid.pawnsPlural>mekanoider</Mechanoid.pawnsPlural>
-    <Mechanoid.fixedName>En svärm mekanoider</Mechanoid.fixedName>
-    
-    <Insect.label>Insekter</Insect.label>
-    <Insect.description>Valigtvis agressiva och påträngande insekter.</Insect.description>
-    <Insect.pawnsPlural>Insekter</Insect.pawnsPlural>
-    <Insect.fixedName>Insekter</Insect.fixedName>
-    
+
+  <Spacer.label>Rymdman</Spacer.label>
+  <Spacer.description>Människor från avlägsna delar av rymden.</Spacer.description>
+  <Spacer.fixedName>Rymdman</Spacer.fixedName>
+  <Spacer.pawnsPlural>Rymdmän</Spacer.pawnsPlural>
+
+  <SpacerHostile.label>Rymdman</SpacerHostile.label>
+  <SpacerHostile.description>Människor från avlägsna delar av rymden.</SpacerHostile.description>
+  <SpacerHostile.fixedName>Rymdman</SpacerHostile.fixedName>
+  <SpacerHostile.pawnsPlural>Rymdmän</SpacerHostile.pawnsPlural>
+
+  <Mechanoid.label>Mekanoidisk svärm</Mechanoid.label>
+  <Mechanoid.description>En svärm av uråldriga, sjävreproducerande robotar.</Mechanoid.description>
+  <Mechanoid.fixedName>En svärm mekanoider</Mechanoid.fixedName>
+  <Mechanoid.pawnsPlural>mekanoider</Mechanoid.pawnsPlural>
+
+  <Insect.label>Insekter</Insect.label>
+  <Insect.description>Valigtvis agressiva och påträngande insekter.</Insect.description>
+  <Insect.fixedName>Insekter</Insect.fixedName>
+  <Insect.pawnsPlural>Insekter</Insect.pawnsPlural>
+
+
 </LanguageData>

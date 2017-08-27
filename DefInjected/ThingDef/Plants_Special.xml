@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BurnedTree.label>nedbränt trä</BurnedTree.label>
+  <BurnedTree.description>Ett bränt träd. Ger inget användbart trä.</BurnedTree.description>
+
+  <PlantAmbrosia.label>ambrosia buske</PlantAmbrosia.label>
+  <PlantAmbrosia.description>En sällsynt buske som ger ambrosiafrukten. Ambrosia är behagligt att äta och producerar en något beroendeframkallande kemisk värmeeffekt.</PlantAmbrosia.description>
+
+
+</LanguageData>

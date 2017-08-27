@@ -1,34 +1,38 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Confirm>Bekräfta</Confirm>
   <GoBack>Återvänd</GoBack>
   <OK>OK</OK>
-  
+
   <!-- Game updated to new version -->
-  <GameUpdatedToNewVersionInitial>RimWorld har uppdaterats från version {0} till version {1}.\n\nDetta kan orsaka problem med dina sparade spel och moddar från äldre versioner av spelet.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionInitial>RimWorld har uppdaterats från version {0} till version {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>Detta kan orsaka problem med dina sparade spel och moddar från äldre versioner av spelet.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Sparade spel från den äldre versionen borde vara kompatibelt men vissa moddar kan sluta att fungera.</GameUpdatedToNewVersionSavesCompatible>
   <GameUpdatedToNewVersionNonSteam>Eftersom detta är en DRM-fri kopia, så kan du installera spelet två gånger i olika mappar för att kunna spela både den gamla och den nya versionen samtidigt.</GameUpdatedToNewVersionNonSteam>
   <GameUpdatedToNewVersionSteam>Om du vill fortsätta att använda den gamla versionen så kan du välja Steam's "Beta"-funktion.\n\n  1. I Steambiblioteket, högerklicka på RimWorld.\n  2. Välj Egenskaper.\n  3. Klicka på Betaversioner-fliken.\n  4. Välj den version du vill använda från listan.\n\nGamla versioner kommer antagligen tas bort från listan till slut - vi ville bara inte hindra dig från att spela klart spel du redan påbörjat.\n\nNotera att om en modskapare uppdaterar sin mod till en ny spelversion, så kommer de antaglien sluta fungera på en äldre version. Du vill eventuellt stänga av automatiska uppdateringar för att förhindra detta.</GameUpdatedToNewVersionSteam>
-  
+
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Åtherhämtning från fel i inkompatibla eller korrupta moddar</RecoveredFromErrorsDialogTitle>
   <RecoveredFromErrorsText>Det verkar som några av de aktiva moddarna orsakade fel.\n\nDe kan ha varit inkompatibla med varandra, skapade för olika versioner av RimWorld, eller korrupta.\n\nAlla moddar har blivit tillfälligt deaktiverade och kan aktiveras igen via menyn.</RecoveredFromErrorsText>
-  
+
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Fel när tillgångar laddades</ErrorWhileLoadingAssetsTitle>
   <ErrorWhileLoadingAssets>Ett fel uppstod när tillgångar laddades. Se felloggen för mer information.</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>Just nu använder spelet aktiva moddar - det finns en viss risk att dessa kan orsakar problem, eller kanske inte.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileLoadingAssets_ModsInfo>Just nu använder spelet aktiva moddar - det kan finnas en viss risk att dessa kan orsakar problem.</ErrorWhileLoadingAssets_ModsInfo>
   <ErrorWhileGeneratingMapTitle>Fel när en karta genererades</ErrorWhileGeneratingMapTitle>
   <ErrorWhileGeneratingMap>Ett fel uppstod när en karta genererades. Se felloggen för mer information.</ErrorWhileGeneratingMap>
   <ErrorWhileLoadingMapTitle>Fel när en karta laddades</ErrorWhileLoadingMapTitle>
   <ErrorWhileLoadingMap>Ett fel uppstod när en karta laddades. Se felloggen för mer information.</ErrorWhileLoadingMap>
-  
+
   <!-- Unloaded mod with an assembly -->
-  <ModWithAssemblyWasUnloaded>Spelet kan inte helt stänga av modifierad kod från avaktiverade moddar, så koden från avaktoverade moddar kan fortfarande vara aktiv.\n\nDu rekommenderas att stänga av och starta om spelet nu för att helt ta bort alla moddar.</ModWithAssemblyWasUnloaded>
-  
+  <ModsChanged>Moddlistan har ändras. Spelet kommer nu att startas om automatiskt.</ModsChanged>
+  <FailedToRestart>Något gick fel när spelet startades om. Spelet kan inte helt deaktivera modifierad kod ifrån deaktiverade moddar, så kod ifrån deaktiverade moddar kan fortfarande vara aktiv.\n\nDet är rekommenderat att du stänger ner och startar om speler nu så att moddarna kan laddas på nytt.</FailedToRestart>
+  <Restarting>Startar om</Restarting>
+
   <!-- Missing Steam -->
   <SteamClientMissing>Kunde inte initialisera Steam's API. Möjliga orsaker:\n\n-Steam är inte startat.\n-Startades utanför Steam utan att steam_appid.txt är på plats.\n-Startades med andra användarprivilegier än Steamklienten (t.ex. "som administratör").\n\nI de flesta fall räcker det med att starta om din dator för att lösa detta problem\n\nSteamversionen av det här spelet behöver Steam för att köras, och kommer nu stängas av.</SteamClientMissing>
-  
+
   <!-- Long events -->
   <InitializingInterface>Initialiserar gränssnitt</InitializingInterface>
   <UnloadingUnusedAssets>Tar bort oanvända tillgångar</UnloadingUnusedAssets>
@@ -38,10 +42,10 @@
   <Initializing>Initialiserar</Initializing>
   <LoadingWorld>Laddar värld</LoadingWorld>
   <LoadingMap>Laddar karta</LoadingMap>
-  <InitializingMap>Initialiserar karta</InitializingMap>
+  <InitializingGame>Initializing game</InitializingGame>
   <SpawningAllThings>Återskapar alla objekt</SpawningAllThings>
   <SpawningColonists>Återskapar kolonister</SpawningColonists>
-  
+
   <!-- Save/load -->
   <SaveGameButton>Spara</SaveGameButton>
   <LoadGameButton>Ladda</LoadGameButton>
@@ -59,7 +63,7 @@
   <SaveIsUnknownFormat>Sparfilen är i ett okänt format och kommer med största sannolikhet att inte fungera korrekt.</SaveIsUnknownFormat>
   <ProblemSavingFile>Ett fel uppstod när filen {0} sparades:\n\n{1}</ProblemSavingFile>
   <LoadAnyway>Ladda ändå</LoadAnyway>
-  
+
   <!-- Player faction naming -->
   <NamePlayerFactionMessage>{0} föreslår att du ger din fraktion ett namn. Vad skall din fraktion heta?</NamePlayerFactionMessage>
   <PlayerFactionGainsName>Din fraktion är numera känd som {0}.</PlayerFactionGainsName>
@@ -78,7 +82,7 @@
   <NameIsInvalid>Ange ett giltigt namn.</NameIsInvalid>
   <NameIsInUse>Namnet används redan.</NameIsInUse>
   <ZoneGainsName>Zonen kallas numera {0}.</ZoneGainsName>
-  
+
   <!-- Pawn naming -->
   <PawnGainsName>Kolonistens smeknamn är numera {0}.</PawnGainsName>
 
@@ -102,20 +106,20 @@
   <Finished>Färdigt</Finished>
   <InProgress>Pågående</InProgress>
   <Locked>Låst</Locked>
-  <ResearchMenuWithoutBench>Innan du har byggt en FORSKNINGSBÄNK kan inte dina kolonister forska om något.\n\nDu kan dock fortfarande se över forskningsprojekt.</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>Innan du har byggt en Forskningsbänk kan inte dina kolonister forska om något.\n\nDu kan dock fortfarande se över forskningsprojekt.</ResearchMenuWithoutBench>
   <ResearchPrerequisites>Forskning som krävs</ResearchPrerequisites>
   <RequiredResearchBench>Typ av forskningsbänk som krävs</RequiredResearchBench>
   <RequiredResearchBenchFacilities>Faciliteter som forskningsbänken kräver</RequiredResearchBenchFacilities>
-  
+
   <!-- Advanced game start options -->
   <MapTemperatureDangerWarning>VARNING: Du kommer att landa i en frusen omgivning. Det kan bli svårt eller nästan omöjligt att överleva. Om du inte är ute efter en extrem utmaning bör du välja en ny plats eller årstid.</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>VARNING: Prestandan kan sjunka på större kartstorlekar. Ludeonicrous är otestad och kommer säkerligen inte fungera optimalt.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>VARNING: Prestandan kan sjunka på större kartstorlekar. Extrem är otestad och kommer säkerligen inte fungera optimalt.</MapSizePerformanceWarning>
   <MapSize>Kartstorlek</MapSize>
   <MapSizeDesc>{0}x{0} ({1} kvadrater)</MapSizeDesc>
   <MapSizeSmall>Liten</MapSizeSmall>
   <MapSizeMedium>Mellan</MapSizeMedium>
   <MapSizeLarge>Stor</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapSizeExtreme>Extrem</MapSizeExtreme>
   <MapStartSeason>Säsong:</MapStartSeason>
   <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
   <PermadeathMode>"Permanent död"-läge</PermadeathMode>
@@ -127,13 +131,13 @@
   <SuspendedAllCaps>AVSTÄNGD</SuspendedAllCaps>
   <RepeatCount>Upprepa: {0}</RepeatCount>
   <Forever>För alltid</Forever>
-	<Details>Detaljer</Details>
+  <Details>Detaljer</Details>
   <IngredientSearchRadius>Sökradie för ingredienser</IngredientSearchRadius>
   <CurrentlyHave>Du har</CurrentlyHave>
   <CountingProducts>Räknar</CountingProducts>
   <Infinite>Oöndligt</Infinite>
   <AllowedSkillRange>Tillåten {0}-färdighet:</AllowedSkillRange>
-  
+
   <RecipeCannotHaveTargetCount>(Detta recept kan inte ha ett mål eftersom den har flera eller oförutsägbara produkter.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Arbetsmängd</WorkAmount>
   <MinimumSkills>Kräver färdighet:</MinimumSkills>
@@ -149,7 +153,12 @@
   <BillStoreMode_DropOnFloor>Släpp på marken</BillStoreMode_DropOnFloor>
   <BillStoreMode_BestStockpile>Ta till bästa förråd</BillStoreMode_BestStockpile>
   <BillStoreMode_NearestStockpileAnyPriority>Ta till närmaste förråd</BillStoreMode_NearestStockpileAnyPriority>
-  
+
+  <PauseWhenSatisfied>Pausa när klart</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>Aktivera vid</UnpauseWhenYouHave>
+  <Paused>Pausad</Paused>
+  <Unpause>Aktivera</Unpause>
+
   <!-- Info card -->
   <Damage>Skada</Damage>
   <Accuracy>Träffsäkerhet</Accuracy>
@@ -184,7 +193,6 @@
   <CoverEffectiveness>Skyddseffektivitet</CoverEffectiveness>
   <CoverEffectivenessExplanation>Hur effektivt detta är som skydd i en eldstrid. Högre procenttal kommer blockera fler skott.</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>Erfarenhetsmultiplikator</MedicineXpGainFactor>
-  <BodyPartEfficiency>Kroppsdelens effektivitet</BodyPartEfficiency>
   <MoodChange>Humörföränding</MoodChange>
   <Wildness>Vildhet</Wildness>
   <WildnessExplanation>Ju vildare ett djur är desto svårare är de att tämja, träna, och hantera.</WildnessExplanation>
@@ -212,6 +220,7 @@
   <TraderHasNoMore>Handelsmannen har inte mer.</TraderHasNoMore>
   <ColonyHasNoMore>Inget mer att sälja.</ColonyHasNoMore>
   <TraderWillNotTrade>Handelsmannen vill inte handla med detta.</TraderWillNotTrade>
+  <Negotiator>Negotiator</Negotiator>
   <NegotiatorTalkingImpaired>Din förhandlare {0} kan inte tala ordentligt på grund av sin dåliga hälsa.\n\nDetta kommer att påverka priserna.\n\nÖverväg att byta till en förhandlare som är friskare.</NegotiatorTalkingImpaired>
   <ConfirmTraderShortFunds>Handelsmannen har inte tillräckligt med silver för att täcka sina kostnader. Fortsätt ändå?</ConfirmTraderShortFunds>
   <SortBy>Sortera efter</SortBy>
@@ -226,7 +235,7 @@
   <minimum>minst</minimum>
   <FinalPrice>Slutgiltigt pris</FinalPrice>
   <TradeMassUsageTooltip>Den totala viktutnyttjandet och viktkapaciteten.</TradeMassUsageTooltip>
-  
+
   <!-- Form caravan -->
   <FormCaravan>Bilda en karavan</FormCaravan>
   <FormCaravanColonyThingCountTip>Hur många av dessa föremål kolonin har redo att ge till karavanen.</FormCaravanColonyThingCountTip>
@@ -235,6 +244,7 @@
   <CaravanConfigTab>Konfiguration</CaravanConfigTab>
   <CaravanMustHaveAtLeastOneColonist>Du måste tilldela minst en ej avsvimmad kolonist.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>Det gick inte att hitta någon giltig utgång.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>Kunde inte hitta någon giltig packningsplats. Se till att vald utgång ({0}) är tillgänglig.</CaravanCouldNotFindPackingSpot>
   <CaravanCouldNotFindReachableExitSpot>Varning: några av de tilldelade kolonisterna inte kan nå utgången.</CaravanCouldNotFindReachableExitSpot>
   <CaravanPawnIsUnreachable>{0} är onåbar av några av de tilldelade kolonisterna.</CaravanPawnIsUnreachable>
   <CaravanItemIsUnreachableSingle>Ingen av de tilldelade koloniserna har möjlighet att nå {0}.</CaravanItemIsUnreachableSingle>
@@ -243,16 +253,21 @@
   <CaravanMassUsageTooltip>Nuvarande viktanvändning och viktkapacitet.\n\nViktanvändning innefattar den tilldelade karavanes varor samt kolonisatörernas nuvarande utrustning.\n\nDu kommer inte att kunna skicka karavanen om viktanvändningen överstiger kapaciteten.</CaravanMassUsageTooltip>
   <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
   <DaysWorthOfFoodInfo>{0} dagsransoner mat</DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodInfoRot>{0} dagsransoner, ruttnar om {1} dagars</DaysWorthOfFoodInfoRot>
   <InfiniteDaysWorthOfFoodInfo>Kommer aldrig få slut på mat</InfiniteDaysWorthOfFoodInfo>
   <DaysWorthOfFoodTooltip>Ett ungefärligt antal dagar innan karavanen får slut på mat.\n\nDetta tar hänsyn till både människor och djur och visar det värsta scenariot. Detta innebär att efter detta antal dagar kommer åtminstone en person eller ett djur vara utan mat.</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodWarningDialog>Karavanen har endast {0} dagar med mat och kommer bli hungriga mycket snabbt.\n\nÄr du säker på att du vill bilda denna karavanen?</DaysWorthOfFoodWarningDialog>
-  <DaysWorthOfFoodWarningDialog_NoFood>Din karavan har ingen mat med sig och kommer bli hungriga väldigt snabbt.\n\nÄr du säker på att du vill bilda denna karavanen?</DaysWorthOfFoodWarningDialog_NoFood>
+  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Baserat på nuvarande säsong, temperatur och omgivning upskattar vi att växtätande djur kan äta växter utmed vägen. Detta kan dock snabbt ändras.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Baserat på nuvarande säsong, temperatur och omgivning upskattar vi att växtätande djur INTE kommer att kunna äta växter utmed vägen. Detta kan dock snabbt ändras.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+  <DaysWorthOfFoodWarningDialog>Karavanen har endast {0} dagar med mat och kommer bli hungriga mycket snabbt.\n\nÄr du säker på att du vill bilda den här karavanen?</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>Din karavan har ingen mat med sig och kommer bli hungriga väldigt snabbt.\n\nÄr du säker på att du vill bilda den här karavanen?</DaysWorthOfFoodWarningDialog_NoFood>
+  <CaravanFoodWillRotSoonWarningDialog>En stor del av den tilldelade maten kommer snart att ruttna.\n\nÄr du säker på att du vill bilda den här karavanen?</CaravanFoodWillRotSoonWarningDialog>
   <NoExitDirectionForCaravanChosen>Du måste välja en utgångsriktning för karavanen.</NoExitDirectionForCaravanChosen>
   <NoCaravanExitDirectionAvailable>(Ingen utgångsriktning tillgänglig)</NoCaravanExitDirectionAvailable>
   <ExitDirection>Utgångsriktning</ExitDirection>
   <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
   <ItemWeightTip>Föremålets vikt.</ItemWeightTip>
   <MarketValueTip>Marknadsvärde</MarketValueTip>
+  <DaysUntilRotTip>Antal dagar innan det här föremålet börjar ruttna baserat på meddeltemperaturen i området.</DaysUntilRotTip>
   <MassCapacity>Viktkapacitet</MassCapacity>
   <Mass>Vikt</Mass>
   <EquipmentAndApparelMass>Utrustning och kläders vikt</EquipmentAndApparelMass>
@@ -262,6 +277,7 @@
   <ColonistsSection>Kolonister</ColonistsSection>
   <PrisonersSection>Fångar</PrisonersSection>
   <AnimalsSection>Djur</AnimalsSection>
+  <EstimatedTimeToDestinationButton>Förväntad tid till destination</EstimatedTimeToDestinationButton>
 
   <!-- Split caravan -->
   <SplitCaravan>Dela karavan</SplitCaravan>
@@ -282,11 +298,11 @@
 
   <!-- Comms -->
   <SocialSkillIs>Sociala färdigheter: {0}</SocialSkillIs>
-  
+
   <!--Research-->
   <ResearchFinished>Förskning färdig: {0}</ResearchFinished>
   <ResearchScreen>Forskningsfönster</ResearchScreen>
-  
+
   <!--HistoryUpload-->
   <HistoryUploadMessage>Vill du ladda upp data angående ditt spel till RimWorlds servrar för att hjälpa utvecklarna att balansera spelet? Om du accepterar kommer din data att laddas upp var {0} dag (och under vissa andra sällsynta fall som t.ex. när spelet är slut). Sekretessinställningar kan ställas in senare under Instälnningar.</HistoryUploadMessage>
   <HistoryUploadMessagePlayerName>Även om historiken skickas anonymnt, kan du lägga till ditt namn.</HistoryUploadMessagePlayerName>
@@ -294,7 +310,7 @@
   <HistoryUploadNo>Tillåt inte uppladdning av speldata</HistoryUploadNo>
   <HistoryUploadYesOnce>Ladda endast upp denna gång</HistoryUploadYesOnce>
   <HistoryUploadNoOnce>Ladda inte upp denna gång, fråga mig igen</HistoryUploadNoOnce>
-	
+
   <!-- Outfit management -->
   <Outfit>Utstyrsel</Outfit>
   <SelectOutfit>Välj utstyrsel...</SelectOutfit>
@@ -302,7 +318,7 @@
   <DeleteOutfit>Radera utstyrsel...</DeleteOutfit>
   <OutfitInUse>Utstyrsel används av {0}.</OutfitInUse>
   <NoOutfitSelected>Ingen utstyrsel vald</NoOutfitSelected>
-  
+
   <!-- Drug policy management -->
   <DrugPolicy>Riktlinjer för droger</DrugPolicy>
   <SelectDrugPolicy>Välj riktlinjer...</SelectDrugPolicy>
@@ -336,12 +352,23 @@
   <DrugUsageTipForAddiction>För missbruk\n\nAnvänd denna drog för att tillfredställa ett redan etablerat missbruksbehov.\n\NÄven om denna inställning är avaktiverad, kommer kolonister med vissa persondrag, eller som har fått ett sammanbrott, använda drogen ändå.</DrugUsageTipForAddiction>
   <DrugUsageTipForJoy>För glädje\n\nAnvänd den här drogen för glädje och sociala orsaker, och för att stilla eventuella beroenden.\n\nÄven om denna inställning är avaktiverad, kommer kolonister med vissa persondrag, eller som har fått ett sammanbrott, använda drogen ändå.</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>Schemalagd\n\nAnvänd den här drogen på ett definierat schema, när vissa villkor är uppfyllda.</DrugUsageTipScheduled>
-  
+
+  <!-- Medical settings -->
+  <MedGroupDefaults>Standard</MedGroupDefaults>
+  <MedGroupColonist>Kolonist</MedGroupColonist>
+  <MedGroupImprisonedColonist>Fängslad kolonist</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>Kolonins djur</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>Neutralt djur</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Neutral fraktion</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>Fientlig fraktion</MedGroupHostileFaction>
+
   <!-- Growing -->
   <NoGrowerCanPlant>{0} kräver {1} i Odlingsskicklighet för att plantera.\n\nIngen av dina friska odlare har den här skickligheten, så den här växten kommer inte planteras.</NoGrowerCanPlant>
-  
+
   <!-- Abandon home -->
   <ConfirmAbandonHomeWithColonyPawns>Några av dina kolonister eller djur finns fortfarande i detta område. Är du säker på att du vill överge det?\n\nFöljande personer och djur kommer att överges:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>Om du överger {0} kommer följande personer få dessa tankar:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Alla:</ConfirmAbandonHomeNegativeThoughts_Everyone>
 
   <!-- Move caravan and leave prisoners and animals behind -->
   <ConfirmLeavePrisonersOrAnimalsBehind>Det finns fortfarande några fångar eller djur kvar i detta område och detta är det enda karavanen de kan ansluta till just nu.\n\nOm du flyttar din karavan kommer de inte att kunna lämna området förrän du är tillbaka. Fångarna kommer fly men djuren kommer att vänta på dig.\n\nOm du väljer att vänta kommer de att försöka att ansluta din karavan så snart som möjligt.\n\nÄr du säker på att du vill flytta din karavan?</ConfirmLeavePrisonersOrAnimalsBehind>

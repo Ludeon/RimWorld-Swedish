@@ -1,72 +1,73 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Pure stuffs: Basics -->
-	
-    <Silver.label>silver</Silver.label>
-    <Silver.description>Denna metall används främst som en valuta i handel. Den kan också användas för att göra attraktiva dekorationer.</Silver.description>
-    <Silver.stuffProps.stuffAdjective>silver</Silver.stuffProps.stuffAdjective>
-    
-    <Gold.label>guld</Gold.label>
-    <Gold.description>Den mest förföriska metallen av dem alla. Miljoner har dött i ett försök att mata den ändlösa mänskliga törsten efter guld. Denna mjuka metallen är liten användning på egen hand, men är slående vacker och mycket sällsynta.</Gold.description>
-    <Gold.stuffProps.stuffAdjective>guld</Gold.stuffProps.stuffAdjective>
-    
-    <Steel.label>stål</Steel.label>
-    <Steel.description>En järn-kol-metallegering som används för byggnadsstrukturer, verktyg och vapen.</Steel.description>
-    <Steel.stuffProps.stuffAdjective>stål</Steel.stuffProps.stuffAdjective>
-    
-    <Plasteel.label>plaststål</Plasteel.label>
-    <Plasteel.description>Avancerad rymdteknisktt konstruktionsmaterial. Plaststål är extremt stark på grund av dess unika molekylstruktur .</Plasteel.description>
-    <Plasteel.stuffProps.stuffAdjective>plaststål</Plasteel.stuffProps.stuffAdjective>
-    
-    <WoodLog.label>trä</WoodLog.label>
-    <WoodLog.description>Ved från träd eller andra fiberväxter. Användbart för byggnadskonstruktioner, vapen och även enkla proteser. En rå pinne av trä kan användas som ett vapen i en knipa.</WoodLog.description>
-    <WoodLog.stuffProps.stuffAdjective>trä</WoodLog.stuffProps.stuffAdjective>
-    
-    <Uranium.label>uranium</Uranium.label>
-    <Uranium.description>En extremt hård, tät metall. Även om det är mest känd för dess användning driva kärnreaktorer , dess fysikaliska egenskaper gör det också utmärkt i vissa användningsområden som i ett verktyg, vapen eller i en rustning.</Uranium.description>
-    <Uranium.stuffProps.stuffAdjective>uranium</Uranium.stuffProps.stuffAdjective>
-    
-    <Jade.label>jade</Jade.label>
-    <Jade.description>En hård, grön sten. På grund av dess skönhet och sällsynthet, är jade oftast använt för ornament och dekorationer. Dess hårdhet och täthet gör den också till ett bra material för trubbiga vapen.</Jade.description>
-    <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
-    
-	
-	<!-- Pure stuffs: Fabric, leather, etc -->
-	
-    <Cloth.label>tyg</Cloth.label>
-    <Cloth.description>Tyg som är vävt från organiska fibrer.</Cloth.description>
-    <Cloth.stuffProps.stuffAdjective>cloth</Cloth.stuffProps.stuffAdjective>
-    
-    <Synthread.label>konstfibrer</Synthread.label>
-    <Synthread.description>Rymdteknologiskt syntetmaterial utformat för att göra vanliga kläder. Det är mjukt, lätt, stark, och isolerar väl.</Synthread.description>
-    <Synthread.stuffProps.stuffAdjective>konstfibrer</Synthread.stuffProps.stuffAdjective>
-    
-    <DevilstrandCloth.label>djävulshår</DevilstrandCloth.label>
-    <DevilstrandCloth.description>Tyg spunnet av mikrofibrer extraherade från den siden-producerande svampen Djälvulshår. Mycket slitstarkt, men isolerar inte bättre än tyg.</DevilstrandCloth.description>
-    <DevilstrandCloth.stuffProps.stuffAdjective>djävulshår</DevilstrandCloth.stuffProps.stuffAdjective>
-    
-    <Hyperweave.label>hyperväv</Hyperweave.label>
-    <Hyperweave.description>Högteknologiska nanofibrer vävda till tyger. Den är lite tyngre, men är oerhört svårt att bryta. Hemligheter av den här produktionen är känd bara till de mest avancerade glittervärldskulturer.</Hyperweave.description>
-    <Hyperweave.stuffProps.stuffAdjective>hyperväv</Hyperweave.stuffProps.stuffAdjective>
-    
-	
-	<!-- Wool -->
-	
-    <MegaslothWool.label>ull från jättesengångare</MegaslothWool.label>
-    <MegaslothWool.description>Något grovt men tack vare jättesengångarens långa ullfibrer är det både mycket stark och varmt.</MegaslothWool.description>
-	<MegaslothWool.stuffProps.stuffAdjective>ull från jättesengångare</MegaslothWool.stuffProps.stuffAdjective>
-    
-    <MuffaloWool.label>muffelull</MuffaloWool.label>
-    <MuffaloWool.description>Mjukt, lätt och ger mycket god isolering. Ull kläder kan hålla kroppen varm även under extrema förhållanden.</MuffaloWool.description>
-	<MuffaloWool.stuffProps.stuffAdjective>muffelull</MuffaloWool.stuffProps.stuffAdjective>
-    
-    <CamelHair.label>kamelhår</CamelHair.label>
-    <CamelHair.description>Kamelhårskläder bärs vanligtvis av ökenresenärer för att skydda dem från värmen. Det ger utmärkt isolering på grund av dess termostatiska egenskaper.</CamelHair.description>
-	<CamelHair.stuffProps.stuffAdjective>kamelhår</CamelHair.stuffProps.stuffAdjective>
-    
-    <AlpacaWool.label>alpackaull</AlpacaWool.label>
-    <AlpacaWool.description>Den anmärkningsvärda mjuka ullen från en alpacka.</AlpacaWool.description>
-    <AlpacaWool.stuffProps.stuffAdjective>alpackaull</AlpacaWool.stuffProps.stuffAdjective>
-	
+
+  <!-- Pure stuffs: Basics -->
+
+  <Silver.label>silver</Silver.label>
+  <Silver.description>Denna metall används främst som en valuta i handel. Den kan också användas för att göra attraktiva dekorationer.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>silver</Silver.stuffProps.stuffAdjective>
+
+  <Gold.label>guld</Gold.label>
+  <Gold.description>Den mest förföriska metallen av dem alla. Miljoner har dött i ett försök att mata den ändlösa mänskliga törsten efter guld. Denna mjuka metallen är liten användning på egen hand, men är slående vacker och mycket sällsynta.</Gold.description>
+  <Gold.stuffProps.stuffAdjective>guld</Gold.stuffProps.stuffAdjective>
+
+  <Steel.label>stål</Steel.label>
+  <Steel.description>En järn-kol-metallegering som används för byggnadsstrukturer, verktyg och vapen.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>stål</Steel.stuffProps.stuffAdjective>
+
+  <Plasteel.label>plaststål</Plasteel.label>
+  <Plasteel.description>Avancerad rymdteknisktt konstruktionsmaterial. Plaststål är extremt stark på grund av dess unika molekylstruktur .</Plasteel.description>
+  <Plasteel.stuffProps.stuffAdjective>plaststål</Plasteel.stuffProps.stuffAdjective>
+
+  <WoodLog.label>trä</WoodLog.label>
+  <WoodLog.description>Ved från träd eller andra fiberväxter. Användbart för byggnadskonstruktioner, vapen och även enkla proteser. En rå pinne av trä kan användas som ett vapen i en knipa.</WoodLog.description>
+  <WoodLog.stuffProps.stuffAdjective>trä</WoodLog.stuffProps.stuffAdjective>
+
+  <Uranium.label>uranium</Uranium.label>
+  <Uranium.description>En extremt hård, tät metall. Även om det är mest känd för dess användning driva kärnreaktorer , dess fysikaliska egenskaper gör det också utmärkt i vissa användningsområden som i ett verktyg, vapen eller i en rustning.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>uranium</Uranium.stuffProps.stuffAdjective>
+
+  <Jade.label>jade</Jade.label>
+  <Jade.description>En hård, grön sten. På grund av dess skönhet och sällsynthet, är jade oftast använt för ornament och dekorationer. Dess hårdhet och täthet gör den också till ett bra material för trubbiga vapen.</Jade.description>
+  <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
+
+
+  <!-- Pure stuffs: Fabric, leather, etc -->
+
+  <Cloth.label>tyg</Cloth.label>
+  <Cloth.description>Tyg som är vävt från organiska fibrer.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>tyg</Cloth.stuffProps.stuffAdjective>
+
+  <Synthread.label>konstfibrer</Synthread.label>
+  <Synthread.description>Rymdteknologiskt syntetmaterial utformat för att göra vanliga kläder. Det är mjukt, lätt, stark, och isolerar väl.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>konstfibrer</Synthread.stuffProps.stuffAdjective>
+
+  <DevilstrandCloth.label>djävulshår</DevilstrandCloth.label>
+  <DevilstrandCloth.description>Tyg spunnet av mikrofibrer extraherade från den siden-producerande svampen Djälvulshår. Mycket slitstarkt, men isolerar inte bättre än tyg.</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>djävulshår</DevilstrandCloth.stuffProps.stuffAdjective>
+
+  <Hyperweave.label>hyperväv</Hyperweave.label>
+  <Hyperweave.description>Högteknologiska nanofibrer vävda till tyger. Den är lite tyngre, men är oerhört svårt att bryta. Hemligheter av den här produktionen är känd bara till de mest avancerade glittervärldskulturer.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>hyperväv</Hyperweave.stuffProps.stuffAdjective>
+
+
+  <!-- Wool -->
+
+  <WoolMegasloth.label>jättesengångarull</WoolMegasloth.label>
+  <WoolMegasloth.description>Något grovt men tack vare jättesengångarens långa ullfibrer är det både mycket stark och varmt.</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>jättesengångarull</WoolMegasloth.stuffProps.stuffAdjective>
+
+  <WoolMuffalo.label>muffelull</WoolMuffalo.label>
+  <WoolMuffalo.description>Mjukt, lätt och ger mycket god isolering. Ull kläder kan hålla kroppen varm även under extrema förhållanden.</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>muffelull</WoolMuffalo.stuffProps.stuffAdjective>
+
+  <WoolCamel.label>kamelhår</WoolCamel.label>
+  <WoolCamel.description>Kamelhårskläder bärs vanligtvis av ökenresenärer för att skydda dem från värmen. Det ger utmärkt isolering på grund av dess termostatiska egenskaper.</WoolCamel.description>
+  <WoolCamel.stuffProps.stuffAdjective>kamelhår</WoolCamel.stuffProps.stuffAdjective>
+
+  <WoolAlpaca.label>alpackaull</WoolAlpaca.label>
+  <WoolAlpaca.description>Den anmärkningsvärda mjuka ullen från en alpacka. Den är väldigt varm.</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>alpackaull</WoolAlpaca.stuffProps.stuffAdjective>
+
+
 </LanguageData>

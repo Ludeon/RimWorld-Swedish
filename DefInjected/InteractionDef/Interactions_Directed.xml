@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <BuildRapport.label>försökte lära känna</BuildRapport.label>
-    <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Försökte bygga en relation med [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
-    <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->Lyssnade när [other_nameShortIndef] byggde en relation med mig.</BuildRapport.logRulesRecipient.rulesStrings.0>
-    
-    <RecruitAttempt.label>rekryteringförsök</RecruitAttempt.label>
-    <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Försökte rekrytera [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-    <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->Lyssnade på ett rekryteringstal från [other_nameShortIndef].</RecruitAttempt.logRulesRecipient.rulesStrings.0>
-    
+
+  <BuildRapport.label>försökte lära känna</BuildRapport.label>
+  <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Försökte bygga en relation med [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
+  <BuildRapport.logRulesRecipient.rulesStrings.0>logentry->Lyssnade när [other_nameShortIndef] byggde en relation med mig.</BuildRapport.logRulesRecipient.rulesStrings.0>
+
+  <RecruitAttempt.label>rekryteringförsök</RecruitAttempt.label>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Försökte rekrytera [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+  <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->Lyssnade på ett rekryteringstal från [other_nameShortIndef].</RecruitAttempt.logRulesRecipient.rulesStrings.0>
+
+
 </LanguageData>

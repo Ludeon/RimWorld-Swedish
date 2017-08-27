@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <StatsReport_BaseValue>Basvärde</StatsReport_BaseValue>
@@ -35,5 +35,6 @@
   <StatsReport_WornByCorpse>Multiplikator för bärande av lik</StatsReport_WornByCorpse>
   <AverageOfAllAttacks>medelvärde av alla attacker</AverageOfAllAttacks>
   <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
-  
+  <StatsReport_IngredientsMass>Ingredienser</StatsReport_IngredientsMass>
+
 </LanguageData>

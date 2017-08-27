@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <YayoHigh.stages.0.label>hög på yayo</YayoHigh.stages.0.label>
-    <YayoHigh.stages.0.description>Käner mig pumpad! Nu gör vi det!</YayoHigh.stages.0.description>
-	
-	
-	<!-- Psychite addiction -->
-    
-    <PsychiteWithdrawal.stages.1.label>psychitabstinens</PsychiteWithdrawal.stages.1.label>
-    <PsychiteWithdrawal.stages.1.description>Gud vad jag är trött. Ingenting känns bra längre.</PsychiteWithdrawal.stages.1.description>
-    
-	
+
+  <YayoHigh.stages.0.label>hög på yayo</YayoHigh.stages.0.label>
+  <YayoHigh.stages.0.description>Käner mig pumpad! Nu gör vi det!</YayoHigh.stages.0.description>
+
+
+  <!-- Psychite addiction -->
+
+  <PsychiteWithdrawal.stages.1.label>psychitabstinens</PsychiteWithdrawal.stages.1.label>
+  <PsychiteWithdrawal.stages.1.description>Gud vad jag är trött. Ingenting känns bra längre.</PsychiteWithdrawal.stages.1.description>
+
+
 </LanguageData>

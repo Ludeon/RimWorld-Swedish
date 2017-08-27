@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Eclipse.label>solförmörkelse</Eclipse.label>
+  <Eclipse.letterText>En av planetens måne har rört sig framför solen. En solförmörkelse har inletts.</Eclipse.letterText>
+  <Eclipse.letterLabel>Solförmörkelse</Eclipse.letterLabel>
+
+  <SolarFlare.label>soleruption</SolarFlare.label>
+  <SolarFlare.letterText>En soleruption har börjat.\n\nDen intensiva strålningen har slått ut alla elektroniska enheter.\n\nDet borde sluta inom en dag.</SolarFlare.letterText>
+  <SolarFlare.letterLabel>Soleruption</SolarFlare.letterLabel>
+
+
+</LanguageData>

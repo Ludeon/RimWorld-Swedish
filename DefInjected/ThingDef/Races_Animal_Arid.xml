@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
+
   <Muffalo.label>muffel</Muffalo.label>
   <Muffalo.description>En stor vextätare härstammar från buffel och anpassad för vissa exotiska miljöer. Fredfull så länge den är ostörd.</Muffalo.description>
   <Muffalo_Leather.label>muffelläder</Muffalo_Leather.label>
@@ -23,9 +23,9 @@
 
   <Iguana.label>iguana</Iguana.label>
   <Iguana.description>Dessa stora ödlor livnär sig normalt på växtmaterial. Men när förargade gör deras hårda skinn och vassa klor dem ganska farliga.</Iguana.description>
-  <Iguana_Leather.label>iguanasinn</Iguana_Leather.label>
-  <Iguana_Leather.description>iguanasinn</Iguana_Leather.description>
-  <Iguana_Leather.stuffProps.stuffAdjective>iguanasinn</Iguana_Leather.stuffProps.stuffAdjective>
+  <Iguana_Leather.label>iguanaskinn</Iguana_Leather.label>
+  <Iguana_Leather.description>iguanaskinn</Iguana_Leather.description>
+  <Iguana_Leather.stuffProps.stuffAdjective>iguanaskinn</Iguana_Leather.stuffProps.stuffAdjective>
   <Iguana_Meat.label>iguanakött</Iguana_Meat.label>
   <Iguana_Meat.description>iguanakött</Iguana_Meat.description>
   <Iguana_Corpse.label>iguanakropp</Iguana_Corpse.label>
@@ -50,5 +50,6 @@
   <Dromedary_Meat.description>dromedarkött</Dromedary_Meat.description>
   <Dromedary_Corpse.label>dromedarkropp</Dromedary_Corpse.label>
   <Dromedary_Corpse.description>dromedarkropp</Dromedary_Corpse.description>
-    
+
+
 </LanguageData>

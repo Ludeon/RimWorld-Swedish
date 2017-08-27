@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Basic quality thoughts -->
@@ -24,23 +24,23 @@
 
   <!-- Special nature thoughts -->
 
+  <AteHumanlikeMeatDirect.stages.0.label>rå kannibalism</AteHumanlikeMeatDirect.stages.0.label>
+  <AteHumanlikeMeatDirect.stages.0.description>Jag åt kött av en annan människa, rått, som ett djur. Detta är en mardröm.</AteHumanlikeMeatDirect.stages.0.description>
+
   <AteHumanlikeMeatDirectCannibal.stages.0.label>rå kannibalism</AteHumanlikeMeatDirectCannibal.stages.0.label>
   <AteHumanlikeMeatDirectCannibal.stages.0.description>Jag åt köttet från en annan människa, rått, som ett djur. Det var så ... saftigt.</AteHumanlikeMeatDirectCannibal.stages.0.description>
-
-  <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>tillagat kannibalism</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
-  <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Jag åt en måltid tillagad av kött av en annan människa. Så angenämt. Om jag bara hade några bondbönor och en trevlig chianti.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
-
-  <AteInsectMeatAsIngredient.stages.0.label>åt tillagat insektskött</AteInsectMeatAsIngredient.stages.0.label>
-  <AteInsectMeatAsIngredient.stages.0.description>Jag åt en måltid tillagad av grått, slemmiga insektskött. Kryddorna täckte delvis smaken, men det fanns körtlar och vätskefickor i det att jag inte kunde identifiera.</AteInsectMeatAsIngredient.stages.0.description>
-
-  <AteInsectMeatDirect.stages.0.label>åt insektskött</AteInsectMeatDirect.stages.0.label>
-  <AteInsectMeatDirect.stages.0.description>Jag åt några grå, slemmiga insekter kött. Det var möjligen det mest motbjudande jag någonsin har ätit.</AteInsectMeatDirect.stages.0.description>
 
   <AteHumanlikeMeatAsIngredient.stages.0.label>tillagat kannibalism</AteHumanlikeMeatAsIngredient.stages.0.label>
   <AteHumanlikeMeatAsIngredient.stages.0.description>Jag åt en måltid tillagad av kött av en annan människa. Detta är fruktansvärt.</AteHumanlikeMeatAsIngredient.stages.0.description>
 
-  <AteHumanlikeMeatDirect.stages.0.label>rå kannibalism</AteHumanlikeMeatDirect.stages.0.label>
-  <AteHumanlikeMeatDirect.stages.0.description>Jag åt kött av en annan människa, rått, som ett djur. Detta är en mardröm.</AteHumanlikeMeatDirect.stages.0.description>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>tillagat kannibalism</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Jag åt en måltid tillagad av kött av en annan människa. Så angenämt. Om jag bara hade några bondbönor och en trevlig chianti.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+
+  <AteInsectMeatDirect.stages.0.label>åt insektskött</AteInsectMeatDirect.stages.0.label>
+  <AteInsectMeatDirect.stages.0.description>Jag åt några grå, slemmiga insekters kött. Det var möjligen det mest motbjudande jag någonsin har ätit.</AteInsectMeatDirect.stages.0.description>
+
+  <AteInsectMeatAsIngredient.stages.0.label>åt tillagat insektskött</AteInsectMeatAsIngredient.stages.0.label>
+  <AteInsectMeatAsIngredient.stages.0.description>Jag åt en måltid tillagad av grått, slemmiga insektskött. Kryddorna täckte delvis smaken, men det fanns körtlar och vätskefickor i det att jag inte kunde identifiera.</AteInsectMeatAsIngredient.stages.0.description>
 
 
   <!-- Rotten state thoughts -->
@@ -48,5 +48,5 @@
   <AteRottenFood.stages.0.label>åt rutten mat</AteRottenFood.stages.0.label>
   <AteRottenFood.stages.0.description>Jag åt en motbjudande, unken mat. Det smälte i munnen - men inte på ett bra sätt.</AteRottenFood.stages.0.description>
 
-    
+
 </LanguageData>

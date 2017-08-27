@@ -1,69 +1,69 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <!-- Misc chunks -->
 
-    <ChunkSlagSteel.label>bit stålslagg</ChunkSlagSteel.label>
+  <!-- Misc chunks -->
+
+  <ChunkSlagSteel.label>bit stålslagg</ChunkSlagSteel.label>
 
 
-    <!-- Sandstone -->
+  <!-- Sandstone -->
 
-    <Sandstone.label>sandsten</Sandstone.label>
-    <Sandstone.description>En sedimentär bergart sammansatt av sandpartiklar som pressats samman.</Sandstone.description>
+  <Sandstone.label>sandsten</Sandstone.label>
+  <Sandstone.description>En sedimentär bergart sammansatt av sandpartiklar som pressats samman.</Sandstone.description>
 
-    <ChunkSandstone.label>sandstensbit</ChunkSandstone.label>
+  <ChunkSandstone.label>sandstensbit</ChunkSandstone.label>
 
-    <BlocksSandstone.label>sandstensblock</BlocksSandstone.label>
-    <BlocksSandstone.description>Block av solid sandsten. Sandsten är en relativt mjuk sten och flisas lätt.</BlocksSandstone.description>
-    <BlocksSandstone.stuffProps.stuffAdjective>sandsten</BlocksSandstone.stuffProps.stuffAdjective>
+  <BlocksSandstone.label>sandstensblock</BlocksSandstone.label>
+  <BlocksSandstone.description>Block av solid sandsten. Sandsten är en relativt mjuk sten och flisas lätt.</BlocksSandstone.description>
+  <BlocksSandstone.stuffProps.stuffAdjective>sandsten</BlocksSandstone.stuffProps.stuffAdjective>
 
-	
-	<!-- Granite -->
-	
-    <Granite.label>granit</Granite.label>
-    <Granite.description>En mycket hård magmatisk bergart.</Granite.description>
 
-    <ChunkGranite.label>granitbit</ChunkGranite.label>
+  <!-- Granite -->
 
-    <BlocksGranite.label>granitblock</BlocksGranite.label>
-    <BlocksGranite.description>Block av solid granit. Granit är en mycket hård sten.</BlocksGranite.description>
-    <BlocksGranite.stuffProps.stuffAdjective>granit</BlocksGranite.stuffProps.stuffAdjective>
-	
-	
-	<!-- Limestone -->
+  <Granite.label>granit</Granite.label>
+  <Granite.description>En mycket hård magmatisk bergart.</Granite.description>
 
-    <Limestone.label>kalksten</Limestone.label>
-    <Limestone.description>En sedimentär bergart som bildas från de sammanpressade resterna av gamla snäckskal.</Limestone.description>
+  <ChunkGranite.label>granitbit</ChunkGranite.label>
 
-    <ChunkLimestone.label>kalkstensbit</ChunkLimestone.label>
+  <BlocksGranite.label>granitblock</BlocksGranite.label>
+  <BlocksGranite.description>Block av solid granit. Granit är en mycket hård sten.</BlocksGranite.description>
+  <BlocksGranite.stuffProps.stuffAdjective>granit</BlocksGranite.stuffProps.stuffAdjective>
 
-    <BlocksLimestone.label>kalkstensblock</BlocksLimestone.label>
-    <BlocksLimestone.description>Block av solid kalksten.</BlocksLimestone.description>
-    <BlocksLimestone.stuffProps.stuffAdjective>kalksten</BlocksLimestone.stuffProps.stuffAdjective>
-	
-	
-	<!-- Slate -->
 
-    <Slate.label>skiffer</Slate.label>
-    <Slate.description>En mörk metamorf rock. Dess fina skikt är symboliska av slaty klyvning.</Slate.description>
+  <!-- Limestone -->
 
-    <ChunkSlate.label>skifferbit</ChunkSlate.label>
+  <Limestone.label>kalksten</Limestone.label>
+  <Limestone.description>En sedimentär bergart som bildas från de sammanpressade resterna av gamla snäckskal.</Limestone.description>
 
-    <BlocksSlate.label>skifferblock</BlocksSlate.label>
-    <BlocksSlate.description>Block av solid skiffer. En tråkig sten som flisas lätt.</BlocksSlate.description>
-    <BlocksSlate.stuffProps.stuffAdjective>skiffer</BlocksSlate.stuffProps.stuffAdjective>
-	
-	
-	<!-- Marble -->
+  <ChunkLimestone.label>kalkstensbit</ChunkLimestone.label>
 
-    <Marble.label>marmor</Marble.label>
-    <Marble.description>En mjuk metamorf sten.</Marble.description>
+  <BlocksLimestone.label>kalkstensblock</BlocksLimestone.label>
+  <BlocksLimestone.description>Block av solid kalksten.</BlocksLimestone.description>
+  <BlocksLimestone.stuffProps.stuffAdjective>kalksten</BlocksLimestone.stuffProps.stuffAdjective>
 
-    <ChunkMarble.label>marmorbit</ChunkMarble.label>
 
-    <BlocksMarble.label>marmorblock</BlocksMarble.label>
-    <BlocksMarble.description>Block av solid marmor. Marmor är en mjuk, vacker sten, känd för att vara lätt att skulptera i.</BlocksMarble.description>
-    <BlocksMarble.stuffProps.stuffAdjective>marmor</BlocksMarble.stuffProps.stuffAdjective>
-    
-	
+  <!-- Slate -->
+
+  <Slate.label>skiffer</Slate.label>
+  <Slate.description>En mörk metamorf sten bestående av finkornigt klastiskt sediment. Den går enklet att klyva till plattor för golv eller tak.</Slate.description>
+
+  <ChunkSlate.label>skifferbit</ChunkSlate.label>
+
+  <BlocksSlate.label>skifferblock</BlocksSlate.label>
+  <BlocksSlate.description>Block av solid skiffer. En tråkig sten som flisas lätt.</BlocksSlate.description>
+  <BlocksSlate.stuffProps.stuffAdjective>skiffer</BlocksSlate.stuffProps.stuffAdjective>
+
+
+  <!-- Marble -->
+
+  <Marble.label>marmor</Marble.label>
+  <Marble.description>En mjuk metamorf sten.</Marble.description>
+
+  <ChunkMarble.label>marmorbit</ChunkMarble.label>
+
+  <BlocksMarble.label>marmorblock</BlocksMarble.label>
+  <BlocksMarble.description>Block av solid marmor. Marmor är en mjuk, vacker sten, känd för att vara lätt att skulptera i.</BlocksMarble.description>
+  <BlocksMarble.stuffProps.stuffAdjective>marmor</BlocksMarble.stuffProps.stuffAdjective>
+
+
 </LanguageData>

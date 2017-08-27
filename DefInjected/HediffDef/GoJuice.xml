@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
+
   <GoJuiceHigh.label>hög på go-juice</GoJuiceHigh.label>
+
 
   <!-- Go-juice addiction -->
 
@@ -13,5 +14,5 @@
   <GoJuiceAddiction.label>go-juice-missbruk</GoJuiceAddiction.label>
   <GoJuiceAddiction.stages.1.label>abstinens</GoJuiceAddiction.stages.1.label>
 
-    
+
 </LanguageData>

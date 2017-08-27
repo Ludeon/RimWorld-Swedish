@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <ClockTime>Tid</ClockTime>
   <ClockDate>Datum</ClockDate>
   <ClockYear>År</ClockYear>
-  <DateReadoutTip>Antal dagar sen du kom hit: {0}\nDet går {1} dagar per årstid.\nNuvarande årstid: {2}</DateReadoutTip>
+  <DateReadoutTip>Antal dagar sen du kom hit: {0}\n Nuvarande kvartal: {4}\nNuvarande årstid: {2}\nÅret är uppdelat i 4 kvartal, Det går {3} dagar per kvartal. Kvartal är samma överallt men årstiderna kan vara olika i olika platser.\n\nLokal årstid för varje kvartal:\n{5}</DateReadoutTip>
 
   <FullDate>den {0} {1}, {2}</FullDate>
-	<DateReadout>den {0} {1}, {2}</DateReadout>
+  <DateReadout>den {0} {1}, {2}</DateReadout>
   <SeasonFullDate>den {0} {1}</SeasonFullDate>
   <WholeYear>Helt år</WholeYear>
-  
+
 </LanguageData>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Random social interactions -->
@@ -36,13 +36,23 @@
   <RecruitedMe.stages.0.label>rekryterade mig</RecruitedMe.stages.0.label>
   <CrashedTogether.stages.0.label>krashade tillsammans</CrashedTogether.stages.0.label>
 
-  <SoldMyLovedOne.stages.0.label>älskade sold</SoldMyLovedOne.stages.0.label>
+  <SoldMyLovedOne.stages.0.label>älskade såld</SoldMyLovedOne.stages.0.label>
   <SoldMyLovedOne.stages.0.labelSocial>sålde min älskade</SoldMyLovedOne.stages.0.labelSocial>
   <SoldMyLovedOne.stages.0.description>Någon som jag älskar såldes till en handelsman som en bit kött!</SoldMyLovedOne.stages.0.description>
 
   <SoldMyBondedAnimal.stages.0.label>bundet djur sålt</SoldMyBondedAnimal.stages.0.label>
   <SoldMyBondedAnimal.stages.0.labelSocial>sålde mitt bundna djur</SoldMyBondedAnimal.stages.0.labelSocial>
   <SoldMyBondedAnimal.stages.0.description>Min speciella bundna djur såldes till en handlare!</SoldMyBondedAnimal.stages.0.description>
+
+  <ForcedMeToTakeDrugs.stages.0.label>tvingade mig att ta droger</ForcedMeToTakeDrugs.stages.0.label>
+
+  <ForcedMeToTakeDrugsMood.stages.0.label>tvingade att ta droger</ForcedMeToTakeDrugsMood.stages.0.label>
+  <ForcedMeToTakeDrugsMood.stages.0.description>Jag är en absolutist. Jag skulle aldrig ta droger efter eget val. Men jag var tvungen! Jag känner mig oren.</ForcedMeToTakeDrugsMood.stages.0.description>
+
+  <ForcedMeToTakeLuciferium.stages.0.label>tvingade mig att ta luciferium</ForcedMeToTakeLuciferium.stages.0.label>
+
+  <ForcedMeToTakeLuciferiumMood.stages.0.label>tvingade mig att ta luciferium</ForcedMeToTakeLuciferiumMood.stages.0.label>
+  <ForcedMeToTakeLuciferiumMood.stages.0.description>Jag är en prostofob; Jag skulle aldrig ta luciferium av eget val. Men jag var tvungen! Jag känner mig oren.</ForcedMeToTakeLuciferiumMood.stages.0.description>
 
 
   <!-- Romance -->
@@ -102,5 +112,5 @@
   <KilledMySister.stages.0.label>dödade min syster</KilledMySister.stages.0.label>
   <KilledMyKin.stages.0.label>dödade min släkting</KilledMyKin.stages.0.label>
 
-    
+
 </LanguageData>

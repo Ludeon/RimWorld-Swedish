@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Level>Nivå</Level>
@@ -21,7 +21,7 @@
   <Skill6>Utövare</Skill6>
   <Skill7>Kunnig utövare</Skill7>
   <Skill8>Profisionell</Skill8>
-  <Skill9>Mycket proffisionell</Skill9>
+  <Skill9>Mycket proffesionell</Skill9>
   <Skill10>Expert</Skill10>
   <Skill11>Kunnig expert</Skill11>
   <Skill12>Mycket Kunnig expert</Skill12>
@@ -33,5 +33,5 @@
   <Skill18>Visionär</Skill18>
   <Skill19>Legendarisk</Skill19>
   <Skill20>Gudalik</Skill20>
-  
+
 </LanguageData>

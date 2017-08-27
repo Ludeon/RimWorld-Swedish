@@ -1,25 +1,45 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <HorseshoesPin.label>hästskokastning</HorseshoesPin.label>
-    <HorseshoesPin.description>En enkel gammal lek som kan spelas med ett par hästskor och en pinne i marken. Spelarna kastar hästskon och ska försöka hamna så nära pinnen som möjligt. Det är avslappnande och tränar även upp öga-hand koordination.</HorseshoesPin.description>
-    
-    <ChessTable.label>schackbord</ChessTable.label>
-    <ChessTable.description>Kungen av strategispel. Roligt några timmar här och där, även om man spelar ensam.</ChessTable.description>
-    
-    <BilliardsTable.label>biljardbord</BilliardsTable.label>
-    <BilliardsTable.description>Ett bord med en mjuk yta för att spela olika typer av biljard-spel.</BilliardsTable.description>
-    
-    <TubeTelevision.label>katodrör-TV</TubeTelevision.label>
-    <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
-    
-    <FlatscreenTelevision.label>platt-TV</FlatscreenTelevision.label>
-    <FlatscreenTelevision.description>En högteknologisk platt-tv med kristallklar skärm och skarpa färger. Mer underhållande än en gamal brusande katodrör-tv.</FlatscreenTelevision.description>
-    
-    <MegascreenTelevision.label>jätteplatt-tv</MegascreenTelevision.label>
-    <MegascreenTelevision.description>En enorm högteknologisk tv. Dess gigantiska ultra-klara bilder hoppar nästan ut ut skärmen. Väldigt underhållande.</MegascreenTelevision.description>
-    
-    <Telescope.label>teleskop</Telescope.label>
-    <Telescope.description>Ett teleskop för amatör-astronomer. En avslappnande och underhållande hobby för vissa personer.</Telescope.description>
-    
+
+  <HorseshoesPin.label>hästskokastning</HorseshoesPin.label>
+  <HorseshoesPin.description>En enkel gammal lek som kan spelas med ett par hästskor och en pinne i marken. Spelarna kastar hästskon och ska försöka hamna så nära pinnen som möjligt. Det är avslappnande och tränar även upp öga-hand koordination.</HorseshoesPin.description>
+  <HorseshoesPin_Blueprint.label>hästskokastning (ritning)</HorseshoesPin_Blueprint.label>
+  <HorseshoesPin_Blueprint_Install.label>hästskokastning (ritning)</HorseshoesPin_Blueprint_Install.label>
+  <HorseshoesPin_Frame.label>hästskokastning (byggnad)</HorseshoesPin_Frame.label>
+  <HorseshoesPin_Frame.description>En enkel gammal lek som kan spelas med ett par hästskor och en pinne i marken. Spelarna kastar hästskon och ska försöka hamna så nära pinnen som möjligt. Det är avslappnande och tränar även upp öga-hand koordination.</HorseshoesPin_Frame.description>
+
+  <ChessTable.label>schackbord</ChessTable.label>
+  <ChessTable.description>Kungen av strategispel. Roligt några timmar här och där, även om man spelar ensam.</ChessTable.description>
+  <ChessTable_Blueprint.label>schackbord (ritning)</ChessTable_Blueprint.label>
+  <ChessTable_Blueprint_Install.label>schackbord (ritning)</ChessTable_Blueprint_Install.label>
+  <ChessTable_Frame.label>schackbord (byggnad)</ChessTable_Frame.label>
+  <ChessTable_Frame.description>Kungen av strategispel. Roligt några timmar här och där, även om man spelar ensam.</ChessTable_Frame.description>
+
+  <BilliardsTable.label>biljardbord</BilliardsTable.label>
+  <BilliardsTable.description>Ett bord med en mjuk yta för att spela olika typer av biljard-spel.</BilliardsTable.description>
+  <BilliardsTable_Blueprint.label>biljardbord (ritning)</BilliardsTable_Blueprint.label>
+  <BilliardsTable_Blueprint_Install.label>biljardbord (ritning)</BilliardsTable_Blueprint_Install.label>
+  <BilliardsTable_Frame.label>biljardbord (byggnad)</BilliardsTable_Frame.label>
+  <BilliardsTable_Frame.description>Ett bord med en mjuk yta för att spela olika typer av biljard-spel.</BilliardsTable_Frame.description>
+
+  <TubeTelevision.label>katodrör-TV</TubeTelevision.label>
+  <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
+  <TubeTelevision_Blueprint.label>katodrör-TV (ritning)</TubeTelevision_Blueprint.label>
+  <TubeTelevision_Blueprint_Install.label>katodrör-TV (ritning)</TubeTelevision_Blueprint_Install.label>
+  <TubeTelevision_Frame.label>katodrör-TV (byggnad)</TubeTelevision_Frame.label>
+  <TubeTelevision_Frame.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision_Frame.description>
+
+  <FlatscreenTelevision.label>platt-TV</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>En högteknologisk platt-tv med kristallklar skärm och skarpa färger. Mer underhållande än en gamal brusande katodrör-tv.</FlatscreenTelevision.description>
+  <FlatscreenTelevision_Blueprint_Install.label>platt-TV (ritning)</FlatscreenTelevision_Blueprint_Install.label>
+
+  <MegascreenTelevision.label>jätteplatt-tv</MegascreenTelevision.label>
+  <MegascreenTelevision.description>En enorm högteknologisk tv. Dess gigantiska ultra-klara bilder hoppar nästan ut ut skärmen. Väldigt underhållande.</MegascreenTelevision.description>
+  <MegascreenTelevision_Blueprint_Install.label>jätteplatt-tv (ritning)</MegascreenTelevision_Blueprint_Install.label>
+
+  <Telescope.label>teleskop</Telescope.label>
+  <Telescope.description>Ett teleskop för amatör-astronomer. En avslappnande och underhållande hobby för vissa personer.</Telescope.description>
+  <Telescope_Blueprint_Install.label>teleskop (ritning)</Telescope_Blueprint_Install.label>
+
+
 </LanguageData>

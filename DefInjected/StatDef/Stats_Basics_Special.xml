@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <MedicalPotency.label>medicinsk potential</MedicalPotency.label>
-    <MedicalPotency.description>Hur effektivt detta är när de används för att läka sår och sjukdomar, eller använda i kirurgi. Högre medicinsk potential ökar chanserna för en läkare att behandla ett sår på rätt sätt, och minskar risken för fel under en operation.</MedicalPotency.description>
-	
-    
+
+  <MedicalPotency.label>medicinsk potential</MedicalPotency.label>
+  <MedicalPotency.description>Hur effektivt detta är när de används för att läka sår och sjukdomar, eller använda i kirurgi. Högre medicinsk potential ökar chanserna för en läkare att behandla ett sår på rätt sätt, och minskar risken för fel under en operation.</MedicalPotency.description>
+
+
 </LanguageData>

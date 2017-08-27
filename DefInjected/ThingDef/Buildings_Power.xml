@@ -1,23 +1,42 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <PowerConduit.label>kraftledning</PowerConduit.label>
-    <PowerConduit.description>En bunt kablar som leder ström. Kan placeras under väggar och andra byggnader.</PowerConduit.description>
-    
-    <PowerSwitch.label>strömbrytare</PowerSwitch.label>
-    <PowerSwitch.description>Stänger av och på strömmen.</PowerSwitch.description>
-    
-    <FueledGenerator.label>gengas-generator</FueledGenerator.label>
-    <FueledGenerator.description>Produceras ström genom att använda trä som bränsle. Måste fyllas på för hand.</FueledGenerator.description>
-    
-    <Battery.label>ackumulator</Battery.label>
-    <Battery.description>Lagrar överflödig elektricitet som senare distributeras vid ett eventuellt energibortfall. Varning - Uppladdade ackumulatorer kan explodera vid kontakt med eld eller vatten.</Battery.description>
-    
-    <SolarGenerator.label>solpanel</SolarGenerator.label>
-    <SolarGenerator.description>Producerar elektricitet från solljus. Fungerar inte i mörkret.</SolarGenerator.description>
-    
-    <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>
-    <GeothermalGenerator.description>Producerar elektricitet från geotermiska ånggejsrar. Måste placeras på en gejser.</GeothermalGenerator.description>
-    
-	
+
+  <PowerConduit.label>kraftledning</PowerConduit.label>
+  <PowerConduit.description>En bunt kablar som leder ström. Kan placeras under väggar och andra byggnader.</PowerConduit.description>
+  <PowerConduit_Blueprint.label>kraftledning (ritning)</PowerConduit_Blueprint.label>
+  <PowerConduit_Frame.label>kraftledning (byggnad)</PowerConduit_Frame.label>
+  <PowerConduit_Frame.description>En bunt kablar som leder ström. Kan placeras under väggar och andra byggnader.</PowerConduit_Frame.description>
+
+  <PowerSwitch.label>strömbrytare</PowerSwitch.label>
+  <PowerSwitch.description>Stänger av och slår på strömmen.</PowerSwitch.description>
+  <PowerSwitch_Blueprint.label>strömbrytare (ritning)</PowerSwitch_Blueprint.label>
+  <PowerSwitch_Frame.label>strömbrytare (byggnad)</PowerSwitch_Frame.label>
+  <PowerSwitch_Frame.description>Stänger av och slår på strömmen.</PowerSwitch_Frame.description>
+
+  <FueledGenerator.label>gengas-generator</FueledGenerator.label>
+  <FueledGenerator.description>Genererar ström genom att använda trä som bränsle. Måste fyllas på för hand.</FueledGenerator.description>
+  <FueledGenerator_Blueprint.label>gengas-generator (ritning)</FueledGenerator_Blueprint.label>
+  <FueledGenerator_Frame.label>gengas-generator (byggnad)</FueledGenerator_Frame.label>
+  <FueledGenerator_Frame.description>Genererar ström genom att använda trä som bränsle. Måste fyllas på för hand.</FueledGenerator_Frame.description>
+
+  <Battery.label>ackumulator</Battery.label>
+  <Battery.description>Lagrar överflödig elektricitet som senare distributeras vid ett eventuellt energibortfall. Varning - Uppladdade ackumulatorer kan explodera vid kontakt med eld eller vatten.</Battery.description>
+  <Battery_Blueprint.label>ackumulator (ritning)</Battery_Blueprint.label>
+  <Battery_Blueprint_Install.label>ackumulator (ritning)</Battery_Blueprint_Install.label>
+  <Battery_Frame.label>ackumulator (byggnad)</Battery_Frame.label>
+  <Battery_Frame.description>Lagrar överflödig elektricitet som senare distributeras vid ett eventuellt energibortfall. Varning - Uppladdade ackumulatorer kan explodera vid kontakt med eld eller vatten.</Battery_Frame.description>
+
+  <SolarGenerator.label>solpanel</SolarGenerator.label>
+  <SolarGenerator.description>Genererar elektricitet från solljus. Fungerar inte i mörkret.</SolarGenerator.description>
+  <SolarGenerator_Blueprint.label>solpanel (ritning)</SolarGenerator_Blueprint.label>
+  <SolarGenerator_Frame.label>solpanel (byggnad)</SolarGenerator_Frame.label>
+  <SolarGenerator_Frame.description>Genererar elektricitet från solljus. Fungerar inte i mörkret.</SolarGenerator_Frame.description>
+
+  <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Genererar elektricitet från geotermiska ånggejsrar. Måste placeras på en gejser.</GeothermalGenerator.description>
+  <GeothermalGenerator_Blueprint.label>geotermisk generator (ritning)</GeothermalGenerator_Blueprint.label>
+  <GeothermalGenerator_Frame.label>geothermal generator (byggnad)</GeothermalGenerator_Frame.label>
+  <GeothermalGenerator_Frame.description>Genererar elektricitet från geotermiska ånggejsrar. Måste placeras på en gejser.</GeothermalGenerator_Frame.description>
+
+
 </LanguageData>

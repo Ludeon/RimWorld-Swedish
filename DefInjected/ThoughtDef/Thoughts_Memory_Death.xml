@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- executions and prisoner deaths -->
@@ -106,5 +106,4 @@
   <MyKinDied.stages.0.description>Min släkting dog.</MyKinDied.stages.0.description>
 
 
-    
 </LanguageData>

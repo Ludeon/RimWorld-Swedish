@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MasochistPain.stages.0.label>självplågare i lite smärta</MasochistPain.stages.0.label>
@@ -21,6 +21,9 @@
 
   <BrawlerUnhappy.stages.0.label>slagskämpe har ett avståndsvapen</BrawlerUnhappy.stages.0.label>
   <BrawlerUnhappy.stages.0.description>Jag hatar att skjuta från avstånd. Jag vill komma upp nära och personligt!</BrawlerUnhappy.stages.0.description>
+
+  <PyromaniacHappy.stages.0.label>pyromaniac has incendiary weapon</PyromaniacHappy.stages.0.label>
+  <PyromaniacHappy.stages.0.description>It makes me think of flame and fire. I'm so happy.</PyromaniacHappy.stages.0.description>
 
   <ClothedNudist.stages.0.label>begränsande kläder</ClothedNudist.stages.0.label>
   <ClothedNudist.stages.0.description>Jag är en nudist men jag måste bära dessa kläder. Det är inte outhärdlig - men jag känner fortfarande begränsad och obekväm.</ClothedNudist.stages.0.description>

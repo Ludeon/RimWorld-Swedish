@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <CallOnRadio>Anropa {0}</CallOnRadio>
@@ -9,17 +9,19 @@
   <CannotUseReserved>Kan inte använda (reserverad)</CannotUseReserved>
   <CannotUseFull>Kan inte använda (fullt)</CannotUseFull>
   <LeaderUnavailable>ledare {0} är inte tillgänglig</LeaderUnavailable>
-  
+  <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+
   <FireAt>Skjut mot {0}</FireAt>
 
   <OutOfRange>utanför räckvidd</OutOfRange>
   <CannotHitTarget>kan inte träffa mål</CannotHitTarget>
   <IsIncapableOfViolenceLower>{0} oförmögen till våld</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
   <IsNotDraftedLower>{0} är inte kommenderad</IsNotDraftedLower>
   <CannotOrderNonControlledLower>kan inte beordra icke-kontrollerade enheter</CannotOrderNonControlledLower>
 
   <OrderManThing>Bemanna {0}</OrderManThing>
-  
+
   <MeleeAttack>Närstridskamp mot {0}</MeleeAttack>
   <MeleeAttackToDeath>Närstridskamp mot {0} till döden</MeleeAttackToDeath>
   <NoPath>ingen väg</NoPath>
@@ -27,8 +29,6 @@
   <ForbiddenLower>förbjuden</ForbiddenLower>
   <ForbiddenOutsideAllowedAreaLower>utanför tillåtet område</ForbiddenOutsideAllowedAreaLower>
   <NotInHomeArea>ej i hemområde</NotInHomeArea>
-  <SociallyImproperLower>socialt olämpligt</SociallyImproperLower>
-  <PrisonerRoomLower>fängelsesrum</PrisonerRoomLower>
   <BurningLower>brinner</BurningLower>
   <NoEmptyPlaceLower>ingen tom plats konfigurerad att förvara det</NoEmptyPlaceLower>
   <AlreadyFilledLower>redan fylld</AlreadyFilledLower>
@@ -42,12 +42,16 @@
   <NoComponentsToRepair>behöver komponenter</NoComponentsToRepair>
   <NoFuelToRefuel>behöver {0}</NoFuelToRefuel>
   <NoWort>behöver vört</NoWort>
-  
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>Tillgänglig mat lagras av högre prioritet</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>inte lämplig mat</NoFoodToFillHopper>
+  <SelfTendDisabled>själv-hela inaktiverat</SelfTendDisabled>
+  <ReservedForPrisoners>reserverad för fångar</ReservedForPrisoners>
+
   <ConsumeThing>Konsumera {0}</ConsumeThing>
-  
+
   <CannotGoNoPath>Kan inte gå hit (ingen väg)</CannotGoNoPath>
   <GoHere>Gå hit</GoHere>
-  
+
   <Arrest>Arrestera {0}</Arrest>
   <TryToArrest>Försök arrestera {0}</TryToArrest>
   <CannotArrest>Kan inte arrestera</CannotArrest>
@@ -74,15 +78,15 @@
   <IncapableOfCapacity>oförmögen att {0}</IncapableOfCapacity>
 
   <MinSkill>minsta förmåga</MinSkill>
-  
+
   <Equip>Använd {0}</Equip>
   <EquipWarningBrawler>(slagskämpe kommer vara olycklig)</EquipWarningBrawler>
   <CannotEquip>Kan inte använda {0}</CannotEquip>
-  
+
   <ForceWear>Tvinga att bära {0}</ForceWear>
   <CannotWear>Kan inte bära {0}</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>saknade kroppsdelar</CannotWearBecauseOfMissingBodyParts>
-  
+
   <CannotPickUp>Kan inte ta upp {0}</CannotPickUp>
   <CannotPickUpAll>Kan inte ta upp {0} (allt)</CannotPickUpAll>
   <PickUp>Ta upp {0}</PickUp>
@@ -99,24 +103,26 @@
 
   <CannotCarryToExit>Kan inte bära {0} och lämna området</CannotCarryToExit>
   <CarryToExit>Bär {0} och lämna området</CarryToExit>
-  
+
   <Strip>Klä av {0}</Strip>
   <CannotStrip>Kan inte klä av {0}</CannotStrip>
 
   <SelfDestructHere>Självförstör här</SelfDestructHere>
-  
+
   <Drop>Släpp {0}</Drop>
 
   <UseMedicalBed>Vila tills läkt</UseMedicalBed>
   <NotInjured>Ej skadad</NotInjured>
   <SomeoneElseSleeping>Upptagen</SomeoneElseSleeping>
-  
+
   <TradeWith>Handla med {0}</TradeWith>
   <CannotTrade>Kan inte handla</CannotTrade>
-  
+
   <EnterMap>Gå till {0}</EnterMap>
-  <VisitFactionBase>Besök {0}</VisitFactionBase>
-  <AttackFactionBase>Attackera {0}</AttackFactionBase>
+  <VisitSettlement>Besök {0}</VisitSettlement>
+  <VisitSite>Besök {0}</VisitSite>
+  <AttackSite>Attackera {0}</AttackSite>
+  <AttackSettlement>Attackera {0}</AttackSettlement>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Gå in i kryptosömnkista</EnterCryptosleepCasket>
@@ -131,18 +137,26 @@
   <CannotGenericAlreadyAm>{0} redan {1}</CannotGenericAlreadyAm>
 
   <CannotPrioritizeWorkTypeDisabled>Kan inte prioritera (kommer aldrig utföra {0})</CannotPrioritizeWorkTypeDisabled>
-  
+
+  <CannotPrioritizeWorkGiverDisabled>Kan inte prioritera (kommer aldrig {0})</CannotPrioritizeWorkGiverDisabled>
+
   <CannotPrioritizeNotAssignedToWorkType>Kan inte prioritera (inte tilldelad att utföra {0})</CannotPrioritizeNotAssignedToWorkType>
 
   <CannotPrioritizeResearch>Kan inte prioritera (Forskning tar för lång tid)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Kan inte prioritera ({0} är förbjuden)</CannotPrioritizeForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Kan inte prioritera ({0} är utanför tillåtet område)</CannotPrioritizeForbiddenOutsideAllowedArea>
-  
+
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Prioritera {0} {1}</PrioritizeGeneric>
-  
+
   <DropAtEdge>Släpp vid kanten</DropAtEdge>
   <DropInCenter>Släpp vid centrum</DropInCenter>
-  
+
+  <VomitingLower>kräks</VomitingLower>
+  <NotInterruptibleLower>inte avbrytbar</NotInterruptibleLower>
+
+  <AddWaypoint>Lägg till en ny vägpunkt här</AddWaypoint>
+  <RemoveWaypoint>Ta bort vägpunkt</RemoveWaypoint>
+
 </LanguageData>

@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Chemical_Alcohol.label>alkohol</Chemical_Alcohol.label>
-    <Chemical_Alcohol.description>På grund av ett alkoholberoende behöver den här personen regelbundet konsumera alkohol för att undvika abstinens symptom.</Chemical_Alcohol.description>
-    
+
+  <!-- Alcohol addiction -->
+
+  <Chemical_Alcohol.label>alkohol</Chemical_Alcohol.label>
+  <Chemical_Alcohol.description>På grund av ett alkoholberoende behöver den här personen regelbundet konsumera alkohol för att undvika abstinens symptom.</Chemical_Alcohol.description>
+
+
 </LanguageData>

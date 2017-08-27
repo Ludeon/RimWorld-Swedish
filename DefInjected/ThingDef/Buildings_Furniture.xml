@@ -1,84 +1,167 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	  <!-- Beds -->
-	
-    <SleepingSpot.label>sovplats</SleepingSpot.label>
-    <SleepingSpot.description>Designerar en plats på marken där folk bör sova. Inte bekvämt.</SleepingSpot.description>
-    
-    <Bed.label>säng</Bed.label>
-    <Bed.description>En mysig madrass och lakan på en sängram.</Bed.description>
-    
-    <DoubleBed.label>dubbelsäng</DoubleBed.label>
-    <DoubleBed.description>En enkel säng som rymmer två personer.</DoubleBed.description>
-    
-    <RoyalBed.label>kunglig säng</RoyalBed.label>
-    <RoyalBed.description>En lyxig säng passande för de av adlig börd. Väldigt bekväm och vacker. Rymmer två personer.</RoyalBed.description>
-    
-    <HospitalBed.label>sjuksäng</HospitalBed.label>
-    <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
-	
-	
-	<!-- Animal beds -->
-    
-    <AnimalSleepingSpot.label>sovplats för djur</AnimalSleepingSpot.label>
-    <AnimalSleepingSpot.description>En designerad plats på marken där djur ska sova.</AnimalSleepingSpot.description>
-    
-    <AnimalSleepingBox.label>sovlåda</AnimalSleepingBox.label>
-    <AnimalSleepingBox.description>En liten låda gjord för djur att sova i. Passar mindre djur såsom hönor, katter, och mindre hundar.</AnimalSleepingBox.description>
-    
-    <AnimalBed.label>djurbädd</AnimalBed.label>
-    <AnimalBed.description>En mjuk säng för djur att sova i. Passar alla djur.</AnimalBed.description>
-	
-	
-	<!-- Basic domestic furniture -->
-    
-    <Stool.label>pall</Stool.label>
-    <Stool.description>En enkel och plan konstruktion att sitta på.</Stool.description>
-    
-    <DiningChair.label>stol</DiningChair.label>
-    <DiningChair.description>En bekväm och snygg stol som med fördel kan placeras vid ett bord.</DiningChair.description>
-    
-    <Armchair.label>fotälj</Armchair.label>
-    <Armchair.description>En stor, mjuk, bekväm fotölj. Bra om man vill slappna av.</Armchair.description>
-	
-	
-	<!-- Table base -->
-    
-    <TableShort.label>bord (kort)</TableShort.label>
-    <TableShort.description>Folk äter vid bord när stolar finns placerade vid dem.</TableShort.description>
-    
-    <TableLong.label>bord (långt)</TableLong.label>
-    <TableLong.description>Folk äter vid bord när stolar finns placerade vid dem.</TableLong.description>
-    
-    <PlantPot.label>blomkruka</PlantPot.label>
-    <PlantPot.description>Plantera en fin blomma och förbättra humöret hos alla i närheten.</PlantPot.description>
-	
-	
-	<!-- Lighting -->
-    
-    <TorchLamp.label>fackla</TorchLamp.label>
-    <TorchLamp.description>En trä fackla för att tända upp ett område. Kan automatiskt fyllas på med trä. Genererar en liten mängd värme.</TorchLamp.description>
-    
-    <StandingLamp.label>golvlampa</StandingLamp.label>
-    <StandingLamp.description>Golvlampa som fyller ett område i ljus.</StandingLamp.description>
-    
-    <StandingLamp_Red.label>golvlampa (röd)</StandingLamp_Red.label>
-    <StandingLamp_Red.description>Golvlampa som fyller ett område i rött ljus.</StandingLamp_Red.description>
-    
-    <StandingLamp_Green.label>golvlampa (grön)</StandingLamp_Green.label>
-    <StandingLamp_Green.description>Golvlampa som fyller ett område i grönt ljus.</StandingLamp_Green.description>
-    
-    <StandingLamp_Blue.label>golvlampa (blå)</StandingLamp_Blue.label>
-    <StandingLamp_Blue.description>Golvlampa som fyller ett område i blått ljus.</StandingLamp_Blue.description>
-    
-    <SunLamp.label>sollampa</SunLamp.label>
-    <SunLamp.description>Belyser ett område starkt nog för att odla grödor men förbrukar en enorm mängd ström.</SunLamp.description>
-	
-	
-	<!-- Storage -->
-    
-    <EquipmentRack.label>utrustningshylla</EquipmentRack.label>
-    <EquipmentRack.description>Föremål som lagras här kommer inte att försämras, även om de är utomhus.</EquipmentRack.description>
-    
+
+  <!-- Beds -->
+
+  <SleepingSpot.label>sovplats</SleepingSpot.label>
+  <SleepingSpot.description>Markerar en plats på marken där folk bör sova. Inte bekvämt.</SleepingSpot.description>
+  <SleepingSpot_Blueprint.label>sovplats (ritning)</SleepingSpot_Blueprint.label>
+  <SleepingSpot_Frame.label>sovplats (byggnad)</SleepingSpot_Frame.label>
+  <SleepingSpot_Frame.description>Markerar en plats på marken där folk bör sova. Inte bekvämt.</SleepingSpot_Frame.description>
+
+  <Bed.label>säng</Bed.label>
+  <Bed.description>En mysig madrass och lakan på en sängram.</Bed.description>
+  <Bed_Blueprint.label>säng (ritning)</Bed_Blueprint.label>
+  <Bed_Blueprint_Install.label>säng (ritning)</Bed_Blueprint_Install.label>
+  <Bed_Frame.label>säng (byggnad)</Bed_Frame.label>
+  <Bed_Frame.description>En mysig madrass och lakan på en sängram.</Bed_Frame.description>
+
+  <DoubleBed.label>dubbelsäng</DoubleBed.label>
+  <DoubleBed.description>En enkel säng som rymmer två personer.</DoubleBed.description>
+  <DoubleBed_Blueprint.label>dubbelsäng (ritning)</DoubleBed_Blueprint.label>
+  <DoubleBed_Blueprint_Install.label>dubbelsäng (ritning)</DoubleBed_Blueprint_Install.label>
+  <DoubleBed_Frame.label>dubbelsäng (byggnad)</DoubleBed_Frame.label>
+  <DoubleBed_Frame.description>En enkel säng som rymmer två personer.</DoubleBed_Frame.description>
+
+  <RoyalBed.label>kunglig säng</RoyalBed.label>
+  <RoyalBed.description>En lyxig säng passande för de av adlig börd. Väldigt bekväm och vacker. Rymmer två personer.</RoyalBed.description>
+  <RoyalBed_Blueprint.label>kunglig säng (ritning)</RoyalBed_Blueprint.label>
+  <RoyalBed_Blueprint_Install.label>kunglig säng (ritning)</RoyalBed_Blueprint_Install.label>
+  <RoyalBed_Frame.label>kunglig säng (byggnad)</RoyalBed_Frame.label>
+  <RoyalBed_Frame.description>En lyxig säng passande för de av adlig börd. Väldigt bekväm och vacker. Rymmer två personer.</RoyalBed_Frame.description>
+
+  <HospitalBed.label>sjuksäng</HospitalBed.label>
+  <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
+  <HospitalBed_Blueprint.label>sjuksäng (ritning)</HospitalBed_Blueprint.label>
+  <HospitalBed_Blueprint_Install.label>sjuksäng (ritning)</HospitalBed_Blueprint_Install.label>
+  <HospitalBed_Frame.label>sjuksäng (byggnad)</HospitalBed_Frame.label>
+  <HospitalBed_Frame.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed_Frame.description>
+
+
+  <!-- Animal beds -->
+
+  <AnimalSleepingSpot.label>sovplats för djur</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>Markerar en plats på marken där djur ska sova.</AnimalSleepingSpot.description>
+  <AnimalSleepingSpot_Blueprint.label>sovplats för djur (ritning)</AnimalSleepingSpot_Blueprint.label>
+  <AnimalSleepingSpot_Frame.label>sovplats för djur (byggnad)</AnimalSleepingSpot_Frame.label>
+  <AnimalSleepingSpot_Frame.description>Markerar en plats på marken där djur ska sova.</AnimalSleepingSpot_Frame.description>
+
+  <AnimalSleepingBox.label>sovlåda</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>En liten låda gjord för djur att sova i. Passar mindre djur såsom hönor, katter, och mindre hundar.</AnimalSleepingBox.description>
+  <AnimalSleepingBox_Blueprint.label>sovlåda (ritning)</AnimalSleepingBox_Blueprint.label>
+  <AnimalSleepingBox_Blueprint_Install.label>sovlåda (ritning)</AnimalSleepingBox_Blueprint_Install.label>
+  <AnimalSleepingBox_Frame.label>sovlåda (byggnad)</AnimalSleepingBox_Frame.label>
+  <AnimalSleepingBox_Frame.description>En liten låda gjord för djur att sova i. Passar mindre djur såsom hönor, katter, och mindre hundar.</AnimalSleepingBox_Frame.description>
+
+  <AnimalBed.label>djurbädd</AnimalBed.label>
+  <AnimalBed.description>En mjuk säng för djur att sova i. Passar alla djur.</AnimalBed.description>
+  <AnimalBed_Blueprint.label>djurbädd (ritning)</AnimalBed_Blueprint.label>
+  <AnimalBed_Blueprint_Install.label>djurbädd (ritning)</AnimalBed_Blueprint_Install.label>
+  <AnimalBed_Frame.label>djurbädd (byggnad)</AnimalBed_Frame.label>
+  <AnimalBed_Frame.description>En mjuk säng för djur att sova i. Passar alla djur.</AnimalBed_Frame.description>
+
+
+  <!-- Basic domestic furniture -->
+
+  <Stool.label>pall</Stool.label>
+  <Stool.description>En enkel och plan konstruktion att sitta på.</Stool.description>
+  <Stool_Blueprint.label>pall (ritning)</Stool_Blueprint.label>
+  <Stool_Blueprint_Install.label>pall (ritning)</Stool_Blueprint_Install.label>
+  <Stool_Frame.label>pall (byggnad)</Stool_Frame.label>
+  <Stool_Frame.description>En enkel och plan konstruktion att sitta på.</Stool_Frame.description>
+
+  <DiningChair.label>stol</DiningChair.label>
+  <DiningChair.description>En bekväm och snygg stol som med fördel kan placeras vid ett bord.</DiningChair.description>
+  <DiningChair_Blueprint.label>stol (ritning)</DiningChair_Blueprint.label>
+  <DiningChair_Blueprint_Install.label>stol (ritning)</DiningChair_Blueprint_Install.label>
+  <DiningChair_Frame.label>stol (byggnad)</DiningChair_Frame.label>
+  <DiningChair_Frame.description>En bekväm och snygg stol som med fördel kan placeras vid ett bord</DiningChair_Frame.description>
+
+  <Armchair.label>fotölj</Armchair.label>
+  <Armchair.description>En stor, mjuk, bekväm fotölj. Bra om man vill slappna av.</Armchair.description>
+  <Armchair_Blueprint.label>fotölj (ritning)</Armchair_Blueprint.label>
+  <Armchair_Blueprint_Install.label>fotölj (ritning)</Armchair_Blueprint_Install.label>
+  <Armchair_Frame.label>fotölj (byggnad)</Armchair_Frame.label>
+  <Armchair_Frame.description>En stor, mjuk, bekväm fotölj. Bra om man vill slappna av.</Armchair_Frame.description>
+
+
+  <!-- Table base -->
+
+  <TableShort.label>bord (kort)</TableShort.label>
+  <TableShort.description>Folk äter vid bord när stolar finns placerade vid dem.</TableShort.description>
+  <TableShort_Blueprint.label>bord (kort) (ritning)</TableShort_Blueprint.label>
+  <TableShort_Blueprint_Install.label>bord (kort) (ritning)</TableShort_Blueprint_Install.label>
+  <TableShort_Frame.label>bord (kort) (byggnad)</TableShort_Frame.label>
+  <TableShort_Frame.description>Folk äter vid bord när stolar finns placerade vid dem.</TableShort_Frame.description>
+
+  <TableLong.label>bord (långt)</TableLong.label>
+  <TableLong.description>Folk äter vid bord när stolar finns placerade vid dem.</TableLong.description>
+  <TableLong_Blueprint.label>bord (långt) (ritning)</TableLong_Blueprint.label>
+  <TableLong_Blueprint_Install.label>bord (långt) (ritning)</TableLong_Blueprint_Install.label>
+  <TableLong_Frame.label>bord (långt) (byggnad)</TableLong_Frame.label>
+  <TableLong_Frame.description>Folk äter vid bord när stolar finns placerade vid dem.</TableLong_Frame.description>
+
+  <PlantPot.label>blomkruka</PlantPot.label>
+  <PlantPot.description>Plantera en fin blomma och förbättra humöret hos alla i närheten.</PlantPot.description>
+  <PlantPot_Blueprint.label>blomkruka (ritning)</PlantPot_Blueprint.label>
+  <PlantPot_Blueprint_Install.label>blomkruka (ritning)</PlantPot_Blueprint_Install.label>
+  <PlantPot_Frame.label>blomkruka (byggnad)</PlantPot_Frame.label>
+  <PlantPot_Frame.description>Plantera en fin blomma och förbättra humöret hos alla i närheten.</PlantPot_Frame.description>
+
+
+  <!-- Lighting -->
+
+  <TorchLamp.label>fackla</TorchLamp.label>
+  <TorchLamp.description>En trä fackla för att tända upp ett område. Kan automatiskt fyllas på med trä. Genererar en liten mängd värme.</TorchLamp.description>
+  <TorchLamp_Blueprint.label>fackla (ritning)</TorchLamp_Blueprint.label>
+  <TorchLamp_Frame.label>fackla (byggnad)</TorchLamp_Frame.label>
+  <TorchLamp_Frame.description>En trä fackla för att tända upp ett område. Kan automatiskt fyllas på med trä. Genererar en liten mängd värme.</TorchLamp_Frame.description>
+
+  <StandingLamp.label>golvlampa</StandingLamp.label>
+  <StandingLamp.description>Golvlampa som fyller ett område i ljus.</StandingLamp.description>
+  <StandingLamp_Blueprint.label>golvlampa (ritning)</StandingLamp_Blueprint.label>
+  <StandingLamp_Blueprint_Install.label>golvlampa (ritning)</StandingLamp_Blueprint_Install.label>
+  <StandingLamp_Frame.label>golvlampa (byggnad)</StandingLamp_Frame.label>
+  <StandingLamp_Frame.description>Golvlampa som fyller ett område i ljus.</StandingLamp_Frame.description>
+
+  <StandingLamp_Red.label>golvlampa (röd)</StandingLamp_Red.label>
+  <StandingLamp_Red.description>Golvlampa som fyller ett område i rött ljus.</StandingLamp_Red.description>
+  <StandingLamp_Red_Blueprint.label>golvlampa (röd) (ritning)</StandingLamp_Red_Blueprint.label>
+  <StandingLamp_Red_Blueprint_Install.label>golvlampa (röd) (ritning)</StandingLamp_Red_Blueprint_Install.label>
+  <StandingLamp_Red_Frame.label>golvlampa (röd) (byggnad)</StandingLamp_Red_Frame.label>
+  <StandingLamp_Red_Frame.description>Golvlampa som fyller ett område i rött ljus.</StandingLamp_Red_Frame.description>
+
+  <StandingLamp_Green.label>golvlampa (grön)</StandingLamp_Green.label>
+  <StandingLamp_Green.description>Golvlampa som fyller ett område i grönt ljus.</StandingLamp_Green.description>
+  <StandingLamp_Green_Blueprint.label>golvlampa (grön) (ritning)</StandingLamp_Green_Blueprint.label>
+  <StandingLamp_Green_Blueprint_Install.label>golvlampa (grön) (ritning)</StandingLamp_Green_Blueprint_Install.label>
+  <StandingLamp_Green_Frame.label>golvlampa (grön) (byggnad)</StandingLamp_Green_Frame.label>
+  <StandingLamp_Green_Frame.description>Golvlampa som fyller ett område i grönt ljus.</StandingLamp_Green_Frame.description>
+
+  <StandingLamp_Blue.label>golvlampa (blå)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.description>Golvlampa som fyller ett område i blått ljus.</StandingLamp_Blue.description>
+  <StandingLamp_Blue_Blueprint.label>golvlampa (blå) (ritning)</StandingLamp_Blue_Blueprint.label>
+  <StandingLamp_Blue_Blueprint_Install.label>golvlampa (blå) (ritning)</StandingLamp_Blue_Blueprint_Install.label>
+  <StandingLamp_Blue_Frame.label>golvlampa (blå) (byggnad)</StandingLamp_Blue_Frame.label>
+  <StandingLamp_Blue_Frame.description>Golvlampa som fyller ett område i blått ljus.</StandingLamp_Blue_Frame.description>
+
+  <SunLamp.label>sollampa</SunLamp.label>
+  <SunLamp.description>Belyser ett område starkt nog för att odla grödor men förbrukar en enorm mängd ström. Stänger automatiskt av sig vid nattetid.</SunLamp.description>
+  <SunLamp.comps.3.offMessage>Avstängd under växternas viloperiod.</SunLamp.comps.3.offMessage>
+  <SunLamp_Blueprint.label>sollampa (ritning)</SunLamp_Blueprint.label>
+  <SunLamp_Blueprint_Install.label>sollampa (ritning)</SunLamp_Blueprint_Install.label>
+  <SunLamp_Frame.label>sollampa (byggnad)</SunLamp_Frame.label>
+  <SunLamp_Frame.description>Belyser ett område starkt nog för att odla grödor men förbrukar en enorm mängd ström. Stänger automatiskt av sig vid nattetid.</SunLamp_Frame.description>
+
+
+  <!-- Storage -->
+
+  <Shelf.label>hylla</Shelf.label>
+  <Shelf.description>Föremål som lagras här kommer inte att försämras, även om de är utomhus.</Shelf.description>
+  <Shelf_Blueprint.label>hylla (ritning)</Shelf_Blueprint.label>
+  <Shelf_Blueprint_Install.label>hylla (ritning)</Shelf_Blueprint_Install.label>
+  <Shelf_Frame.label>hylla (byggnad)</Shelf_Frame.label>
+  <Shelf_Frame.description>Föremål som lagras här kommer inte att försämras, även om de är utomhus.</Shelf_Frame.description>
+
+
 </LanguageData>

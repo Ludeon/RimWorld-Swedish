@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <AllowCorpsesColonist.label>tillåt kolonisters kroppar</AllowCorpsesColonist.label>
-    <AllowCorpsesColonist.description>Tillåt döda före detta kolonister.</AllowCorpsesColonist.description>
-    
-    <AllowCorpsesStranger.label>tillåt främlingars kroppar</AllowCorpsesStranger.label>
-    <AllowCorpsesStranger.description>Tillåt döda före detta främlingar och fiender.</AllowCorpsesStranger.description>
-    
-    <AllowRotten.label>tillåt förruttnade saker</AllowRotten.label>
-    <AllowRotten.description>Tillåt organiska saker som har börjat ruttna.</AllowRotten.description>
-    
-    <AllowNonSmeltableWeapons.label>tillåt ej smältbara</AllowNonSmeltableWeapons.label>
-    <AllowNonSmeltableWeapons.description>Tillåt vapen som ej kan smältas.</AllowNonSmeltableWeapons.description>
-    
-    <AllowPlantFood.label>tillåt växtföda</AllowPlantFood.label>
-    <AllowPlantFood.description>Tillåt föda som är av samma typ som icke skördade växter, som hö.</AllowPlantFood.description>
-    
-	
+
+  <AllowCorpsesColonist.label>tillåt kolonisters kroppar</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Tillåt döda före detta kolonister.</AllowCorpsesColonist.description>
+
+  <AllowCorpsesStranger.label>tillåt främlingars kroppar</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Tillåt döda före detta främlingar och fiender.</AllowCorpsesStranger.description>
+
+  <AllowRotten.label>tillåt förruttnade saker</AllowRotten.label>
+  <AllowRotten.description>Tillåt organiska saker som har börjat ruttna.</AllowRotten.description>
+
+  <AllowPlantFood.label>tillåt växtföda</AllowPlantFood.label>
+  <AllowPlantFood.description>Tillåt föda som är av samma typ som icke skördade växter, som hö.</AllowPlantFood.description>
+
+  <AllowSmeltable.label>tillåt smältbara</AllowSmeltable.label>
+  <AllowNonSmeltableWeapons.label>tillåt ej smältbara</AllowNonSmeltableWeapons.label>
+  <AllowNonDeadmansApparel.label>tillåt icke-dödmans kläder</AllowNonDeadmansApparel.label>
+
+
 </LanguageData>

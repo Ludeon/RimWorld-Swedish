@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Autosaving>Autosparning</Autosaving>
@@ -27,9 +27,10 @@
   <durationDays>varaktighet (dagar)</durationDays>
   <intervalDays>intervall (dagar)</intervalDays>
   <repeat>upprepa</repeat>
+  <default>standard</default>
 
   <!-- Content generation-->
-  
+
   <MeatLabel>{0} kött</MeatLabel>
   <MeatDesc>Rått kött från en {0}. Kan bli lagad till mat eller ätas rå.</MeatDesc>
 
@@ -52,22 +53,22 @@
 
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
-  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->  
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
   <CouplesRoom>{0} och {1}'s {2}</CouplesRoom>
-  
+
   <VariousLabel>(diverse)</VariousLabel>
 
   <!-- History events -->
   <ColonistDied>Kolonist dog</ColonistDied>
-  
+
   <!-- Rotation -->
   <North>Nord</North>
   <South>Syd</South>
   <West>Väst</West>
   <East>Öst</East>
 
-  
+
 </LanguageData>

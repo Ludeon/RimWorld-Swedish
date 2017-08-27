@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
+
   <SmokeleafHigh.label>hög på rökblad</SmokeleafHigh.label>
 
-  
+
   <!-- Smokeleaf addiction -->
 
   <SmokeleafTolerance.label>rökblad-tolerans</SmokeleafTolerance.label>
@@ -13,6 +13,6 @@
 
   <SmokeleafAddiction.label>rökblad-missbruk</SmokeleafAddiction.label>
   <SmokeleafAddiction.stages.1.label>abstinens</SmokeleafAddiction.stages.1.label>
-   
-   
+
+
 </LanguageData>

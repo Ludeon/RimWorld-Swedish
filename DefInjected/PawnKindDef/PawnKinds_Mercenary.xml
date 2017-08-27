@@ -1,14 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <MercenaryGunner.label>legosoldat, skytt</MercenaryGunner.label>
-    <MercenarySniper.label>legosoldat, krypskytt</MercenarySniper.label>
-    <GrenadierDestructive.label>grenadjär</GrenadierDestructive.label>
-    <GrenadierEMP.label>EMP grenadjär</GrenadierEMP.label>
-    <MercenarySlasher.label>legosoldat, knivman</MercenarySlasher.label>
-    <MercenaryHeavy.label>legosoldat, tungt beväpnad</MercenaryHeavy.label>
-    <PirateBoss.label>boss</PirateBoss.label>
-    <MercenaryElite.label>legosoldat, elit</MercenaryElite.label>
 
-    
+  <GrenadierDestructive.label>grenadjär</GrenadierDestructive.label>
+  <GrenadierDestructive.labelPlural>grenadjärer</GrenadierDestructive.labelPlural>
+
+  <GrenadierEMP.label>EMP grenadjär</GrenadierEMP.label>
+  <GrenadierEMP.labelPlural>EMP grenadjärer</GrenadierEMP.labelPlural>
+
+  <MercenaryGunner.label>legosoldat, skytt</MercenaryGunner.label>
+  <MercenaryGunner.labelPlural>legosoldater, skyttar</MercenaryGunner.labelPlural>
+
+  <MercenarySniper.label>legosoldat, krypskytt</MercenarySniper.label>
+  <MercenarySniper.labelPlural>legosoldater, krypskyttar</MercenarySniper.labelPlural>
+
+  <MercenarySlasher.label>legosoldat, knivman</MercenarySlasher.label>
+  <MercenarySlasher.labelPlural>legosoldater, knivmän</MercenarySlasher.labelPlural>
+
+  <MercenaryHeavy.label>tungt beväpnad legosoldat</MercenaryHeavy.label>
+  <MercenaryHeavy.labelPlural>tungt beväpnade legosoldater</MercenaryHeavy.labelPlural>
+
+  <PirateBoss.label>boss</PirateBoss.label>
+  <PirateBoss.labelPlural>bossar</PirateBoss.labelPlural>
+
+  <MercenaryElite.label>elit legosoldat</MercenaryElite.label>
+  <MercenaryElite.labelPlural>elit legosoldater</MercenaryElite.labelPlural>
+
+
 </LanguageData>

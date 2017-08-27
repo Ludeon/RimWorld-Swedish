@@ -1,35 +1,37 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Pemmican.label>pemmikan</Pemmican.label>
-    <Pemmican.description>Laga pemmikan, en bevarad blandning av kött och växter som håller sig ifrån att bli dålig länge. Utmärkt resemat.</Pemmican.description>
-    
-    <PassiveCooler.label>passiv kylare</PassiveCooler.label>
-    <PassiveCooler.description>Gör passiv kylare, ett sätt att kyla utrymmen inomhus utan att använda sig av elekticitet.</PassiveCooler.description>
-    
-    <Devilstrand.label>djävulshår</Devilstrand.label>
-    <Devilstrand.description>Ger möjlighet för kolonister att plantera djävulshår, en långsmat växande svamp som ger värdefulla växtfibrer.</Devilstrand.description>
-    
-    <Brewing.label>bryggning</Brewing.label>
-    <Brewing.description>Ger möjlighet för dig att bygga ett bryggeri som omvandlar humle till välsmakande, gott öl.</Brewing.description>
-    
-    <CarpetMaking.label>mattvävning</CarpetMaking.label>
-    <CarpetMaking.description>Gör det möjligt för kolonister att väva mattor för att öka kvaliteten på deras omgivning.</CarpetMaking.description>
-    
-    <Smithing.label>smide</Smithing.label>
-    <Smithing.description>Bygg en smedja för att tillverka vapen och verktyg.</Smithing.description>
 
-    <Stonecutting.label>stenhuggning</Stonecutting.label>
-    <Stonecutting.description>Bygg stenhuggningsbord, vilka gör det möjligt att hugga stenbitar till stenblock, som kan användas till konstruktion.</Stonecutting.description>
-    
-    <ComplexClothing.label>avancerade kläder</ComplexClothing.label>
-    <ComplexClothing.description>Sy avancerade kläder såsom byxor, överrockar och cowboyhattar.</ComplexClothing.description>
-    
-    <DrugProduction.label>drogtillverkning</DrugProduction.label>
-    <DrugProduction.description>Grunden till förberedelse och syntes av droger. Tillåter att bygga ett droglabb. Fortsatt forskning behövs för att tillverka mer specifika droger.</DrugProduction.description>
-	
-    <Electricity.label>elektricitet</Electricity.label>
-    <Electricity.description>Generera och använd elekticitet för att laga mat och andra enkla arbetsuppgifter.</Electricity.description>
-    
-	
+  <!-- Tier 1: pre-electricity -->
+
+  <Pemmican.label>pemmikan</Pemmican.label>
+  <Pemmican.description>Laga pemmikan, en bevarad blandning av kött och växter som håller sig ifrån att bli dålig länge. Utmärkt resemat.</Pemmican.description>
+
+  <PassiveCooler.label>passiv kylare</PassiveCooler.label>
+  <PassiveCooler.description>Gör passiv kylare, ett sätt att kyla utrymmen inomhus utan att använda sig av elekticitet.</PassiveCooler.description>
+
+  <Devilstrand.label>djävulshår</Devilstrand.label>
+  <Devilstrand.description>Ger möjlighet för kolonister att plantera djävulshår, en långsmat växande svamp som ger värdefulla växtfibrer.</Devilstrand.description>
+
+  <Brewing.label>bryggning</Brewing.label>
+  <Brewing.description>Ger möjlighet för dig att bygga ett bryggeri som omvandlar humle till välsmakande, gott öl.</Brewing.description>
+
+  <CarpetMaking.label>mattvävning</CarpetMaking.label>
+  <CarpetMaking.description>Gör det möjligt för kolonister att väva mattor för att öka kvaliteten på deras omgivning.</CarpetMaking.description>
+
+  <Smithing.label>smide</Smithing.label>
+  <Smithing.description>Bygg en smedja för att tillverka vapen och verktyg.</Smithing.description>
+
+  <Stonecutting.label>stenhuggning</Stonecutting.label>
+  <Stonecutting.description>Bygg stenhuggningsbord, vilka gör det möjligt att hugga stenbitar till stenblock, som kan användas till konstruktion.</Stonecutting.description>
+
+  <ComplexClothing.label>avancerade kläder</ComplexClothing.label>
+  <ComplexClothing.description>Sy avancerade kläder såsom byxor, överrockar och cowboyhattar.</ComplexClothing.description>
+
+  <DrugProduction.label>drogtillverkning</DrugProduction.label>
+  <DrugProduction.description>Grunden till förberedelse och syntes av droger. Tillåter att bygga ett droglabb. Fortsatt forskning behövs för att tillverka mer specifika droger.</DrugProduction.description>
+
+  <Electricity.label>elektricitet</Electricity.label>
+  <Electricity.description>Generera och använd elekticitet för att laga mat och andra enkla arbetsuppgifter.</Electricity.description>
+
+
 </LanguageData>

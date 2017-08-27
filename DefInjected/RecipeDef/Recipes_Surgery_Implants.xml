@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <InstallJoywire.label>installera glädjetråd</InstallJoywire.label>
-    <InstallJoywire.description>installerar glädjetråd.</InstallJoywire.description>
-    <InstallJoywire.jobString>installerar glädjetråd.</InstallJoywire.jobString>
-    
-    <InstallPainstopper.label>installera painstopper</InstallPainstopper.label>
-    <InstallPainstopper.description>installerar painstopper.</InstallPainstopper.description>
-    <InstallPainstopper.jobString>installerar painstopper.</InstallPainstopper.jobString>
-    
+
+  <InstallJoywire.label>installera glädjetråd</InstallJoywire.label>
+  <InstallJoywire.description>installerar glädjetråd.</InstallJoywire.description>
+  <InstallJoywire.jobString>installerar glädjetråd.</InstallJoywire.jobString>
+
+  <InstallPainstopper.label>installera smärtstoppare</InstallPainstopper.label>
+  <InstallPainstopper.description>installerar smärtstoppare.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>installerar smärtstoppare.</InstallPainstopper.jobString>
+
+
 </LanguageData>

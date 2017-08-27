@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Beer.label>öl</Beer.label>
-    <Beer.description>Den första drycken förutom vatten någonsin konsumeras av människan. Öl kan smaka bra, men dess huvudsakliga effekt är berusning. Överdriven konsumtion kan leda till alkoholberoende.</Beer.description>
-    <Beer.ingestible.ingestCommandString>Dricker {0}</Beer.ingestible.ingestCommandString>
-    <Beer.ingestible.ingestReportString>Dricker {0}.</Beer.ingestible.ingestReportString>
 
-    <Wort.label>vört</Wort.label>
-    <Wort.description>Öl före jäsning. Detta ämne måste jäsa i en jäsande fat innan det blir drickbart öl.</Wort.description>
+  <Beer.label>öl</Beer.label>
+  <Beer.description>Den första drycken förutom vatten någonsin konsumeras av människan. Öl kan smaka bra, men dess huvudsakliga effekt är berusning. Överdriven konsumtion kan leda till alkoholberoende.</Beer.description>
+  <Beer.ingestible.ingestCommandString>Dricker {0}</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestReportString>Dricker {0}.</Beer.ingestible.ingestReportString>
 
-    
+  <Wort.label>vört</Wort.label>
+  <Wort.description>Öl före jäsning. Detta ämne måste jäsa i en jäsande fat innan det blir drickbart öl.</Wort.description>
+
+
 </LanguageData>

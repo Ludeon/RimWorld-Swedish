@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Chemical_Smokeleaf.label>Smokeleaf</Chemical_Smokeleaf.label>
-    <Chemical_Smokeleaf.description>På grund av ett Smokeleafberoende behöver den här personen regelbundet konsumera Smokeleaf för att undvika abstinens symptom.</Chemical_Smokeleaf.description>
-    
+
+  <!-- Smokeleaf addiction -->
+
+  <Chemical_Smokeleaf.label>rökblad</Chemical_Smokeleaf.label>
+  <Chemical_Smokeleaf.description>På grund av ett rökbladberoende behöver den här personen regelbundet konsumera rökblad för att undvika abstinens symptom.</Chemical_Smokeleaf.description>
+
+
 </LanguageData>

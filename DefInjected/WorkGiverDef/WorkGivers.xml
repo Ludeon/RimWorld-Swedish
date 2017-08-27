@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Firefighter -->
@@ -17,9 +17,9 @@
 
   <!-- Doctor -->
 
-  <DoctorTreatEmergency.label>ge akut behandling</DoctorTreatEmergency.label>
-  <DoctorTreatEmergency.verb>behandla</DoctorTreatEmergency.verb>
-  <DoctorTreatEmergency.gerund>behandlar</DoctorTreatEmergency.gerund>
+  <DoctorTendEmergency.label>ge akut behandling</DoctorTendEmergency.label>
+  <DoctorTendEmergency.verb>behandla</DoctorTendEmergency.verb>
+  <DoctorTendEmergency.gerund>behandlar</DoctorTendEmergency.gerund>
 
   <DoctorRescue.label>rädda fallen allierad till säng</DoctorRescue.label>
   <DoctorRescue.verb>rädda</DoctorRescue.verb>
@@ -29,17 +29,29 @@
   <DoBillsMedicalHumanOperation.verb>operera</DoBillsMedicalHumanOperation.verb>
   <DoBillsMedicalHumanOperation.gerund>opererar</DoBillsMedicalHumanOperation.gerund>
 
-  <DoctorTreat.label>ge behandling</DoctorTreat.label>
-  <DoctorTreat.verb>behandla</DoctorTreat.verb>
-  <DoctorTreat.gerund>behandlar</DoctorTreat.gerund>
+  <DoctorTendToHumanlikes.label>behandlar patient</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.verb>behandla</DoctorTendToHumanlikes.verb>
+  <DoctorTendToHumanlikes.gerund>behandlar</DoctorTendToHumanlikes.gerund>
 
-  <DoctorFeed.label>mata patient</DoctorFeed.label>
-  <DoctorFeed.verb>mata</DoctorFeed.verb>
-  <DoctorFeed.gerund>matar</DoctorFeed.gerund>
+  <DoctorTendToSelf.label>självbehandlar</DoctorTendToSelf.label>
+  <DoctorTendToSelf.verb>behandla</DoctorTendToSelf.verb>
+  <DoctorTendToSelf.gerund>behandlar</DoctorTendToSelf.gerund>
+
+  <DoctorFeedHumanlikes.label>mata patient</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.verb>mata</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.gerund>matar</DoctorFeedHumanlikes.gerund>
 
   <DoBillsMedicalAnimalOperation.label>operera på djur</DoBillsMedicalAnimalOperation.label>
   <DoBillsMedicalAnimalOperation.verb>operera</DoBillsMedicalAnimalOperation.verb>
   <DoBillsMedicalAnimalOperation.gerund>opererar</DoBillsMedicalAnimalOperation.gerund>
+
+  <DoctorTendToAnimals.label>behandlar djur</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.verb>behandla</DoctorTendToAnimals.verb>
+  <DoctorTendToAnimals.gerund>behandlar</DoctorTendToAnimals.gerund>
+
+  <DoctorFeedAnimals.label>matar djur</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.verb>mata</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.gerund>matar</DoctorFeedAnimals.gerund>
 
   <TakeToBedToOperate.label>led patienter till sängs för operation</TakeToBedToOperate.label>
   <TakeToBedToOperate.verb>led till operation</TakeToBedToOperate.verb>
@@ -146,10 +158,6 @@
 
   <!-- Construction -->
 
-  <DoBillsMedicalMechanoidOperation.label>arbetar på mekanoid</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>ändra</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>ändrar</DoBillsMedicalMechanoidOperation.gerund>
-
   <FixBrokenDownBuilding.label>laga trasiga byggnader</FixBrokenDownBuilding.label>
   <FixBrokenDownBuilding.verb>byt ut trasiga komponenter i</FixBrokenDownBuilding.verb>
   <FixBrokenDownBuilding.gerund>byter ut trasiga komponenter i</FixBrokenDownBuilding.gerund>
@@ -219,9 +227,9 @@
 
   <!-- PlantCutting -->
 
-  <PlantsCut.label>skär växter</PlantsCut.label>
-  <PlantsCut.verb>skär</PlantsCut.verb>
-  <PlantsCut.gerund>skär</PlantsCut.gerund>
+  <PlantsCut.label>beskär växter</PlantsCut.label>
+  <PlantsCut.verb>beskär</PlantsCut.verb>
+  <PlantsCut.gerund>beskär</PlantsCut.gerund>
 
 
   <!-- Smithing -->
@@ -255,6 +263,10 @@
 
   <!-- Crafting -->
 
+  <DoBillsMedicalMechanoidOperation.label>arbetar på mekanoid</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>ändra</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>ändrar</DoBillsMedicalMechanoidOperation.gerund>
+
   <DoBillsUseCraftingSpot.label>gör beställning vid tillverkningsplats</DoBillsUseCraftingSpot.label>
   <DoBillsUseCraftingSpot.verb>tillverka</DoBillsUseCraftingSpot.verb>
   <DoBillsUseCraftingSpot.gerund>tillverkar vid</DoBillsUseCraftingSpot.gerund>
@@ -286,6 +298,10 @@
   <LoadTransporters.verb>lasta</LoadTransporters.verb>
   <LoadTransporters.gerund>lastar</LoadTransporters.gerund>
 
+  <HelpGatheringItemsForCaravan.label>lasta karavan</HelpGatheringItemsForCaravan.label>
+  <HelpGatheringItemsForCaravan.verb>lasta</HelpGatheringItemsForCaravan.verb>
+  <HelpGatheringItemsForCaravan.gerund>lastar</HelpGatheringItemsForCaravan.gerund>
+
   <Strip.label>klä av lik</Strip.label>
   <Strip.verb>klä av</Strip.verb>
   <Strip.gerund>klär av</Strip.gerund>
@@ -294,9 +310,9 @@
   <BuryCorpses.verb>begrav</BuryCorpses.verb>
   <BuryCorpses.gerund>begraver</BuryCorpses.gerund>
 
-  <HaulCorpses.label>släpa kropp</HaulCorpses.label>
-  <HaulCorpses.verb>släpa</HaulCorpses.verb>
-  <HaulCorpses.gerund>släpar</HaulCorpses.gerund>
+  <HaulCorpses.label>frakta kropp</HaulCorpses.label>
+  <HaulCorpses.verb>frakta</HaulCorpses.verb>
+  <HaulCorpses.gerund>fraktar</HaulCorpses.gerund>
 
   <Open.label>öppna behållare</Open.label>
   <Open.verb>öppna</Open.verb>
@@ -310,7 +326,7 @@
   <RearmTraps.verb>gillra</RearmTraps.verb>
   <RearmTraps.gerund>gillrar</RearmTraps.gerund>
 
-  <DoBillsCremate.label>do kremeringsbeställningar</DoBillsCremate.label>
+  <DoBillsCremate.label>utför kremeringsbeställningar</DoBillsCremate.label>
   <DoBillsCremate.verb>kremera</DoBillsCremate.verb>
   <DoBillsCremate.gerund>kremerar vid</DoBillsCremate.gerund>
 

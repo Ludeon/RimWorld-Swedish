@@ -1,43 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Wild - clustering bushes (some harvestable) -->
-	
-    <PlantRaspberry.label>hallonbuske</PlantRaspberry.label>
-    <PlantRaspberry.description>En buskig växt som ger läckra röda bär.</PlantRaspberry.description>
-    
-    <PlantBush.label>buske</PlantBush.label>
-    <PlantBush.description>En kort buske. Pratar normalt inte.</PlantBush.description>
-    
-	
-	<!-- Wild plants - carpets -->
-	
-    <PlantGrass.label>gräs</PlantGrass.label>
-    <PlantGrass.description>Vildgräs. Växer överallt där det finns lite ljus och minimalt grogrund.</PlantGrass.description>
-	
-    <PlantDandelion.label>maskrosor</PlantDandelion.label>
-    <PlantDandelion.description>En vanlig liten blomma. Även om det anses ofta vara ett ogräs, är det trevligt att titta på.</PlantDandelion.description>
-    
-    <PlantAstragalus.label>astragalus</PlantAstragalus.label>
-    <PlantAstragalus.description>En liten perenn/vildblomma som växer i alpina klimat.</PlantAstragalus.description>
-    
-    <PlantMoss.label>mossa</PlantMoss.label>
-    <PlantMoss.description>En vild mossa som växer i klumpar i områden med svagt ljus och hög luftfuktighet. Mycket härdig och frostbeständig.</PlantMoss.description>
-    
-	
-	<!-- Wild - Trees -->
-	
-    <PlantTreeOak.label>ek</PlantTreeOak.label>
-    <PlantTreeOak.description>En stark lövträd. Långsam växande men dess trä är mycket stark.</PlantTreeOak.description>
-    
-    <PlantTreePoplar.label>poppel</PlantTreePoplar.label>
-    <PlantTreePoplar.description>En barrträdet. Växer snabbt, men ger lite användbar trä.</PlantTreePoplar.description>
-    
-    <PlantTreePine.label>tall</PlantTreePine.label>
-    <PlantTreePine.description>Ett stort barrträd.</PlantTreePine.description>
-    
-    <PlantTreeBirch.label>björk</PlantTreeBirch.label>
-    <PlantTreeBirch.description>En nordligt träd känd för sin tunna, pappersliknande bark.</PlantTreeBirch.description>
-    
-	
+
+  <!-- Wild - clustering bushes (some harvestable) -->
+
+  <PlantRaspberry.label>hallonbuske</PlantRaspberry.label>
+  <PlantRaspberry.description>En buskig växt som ger läckra röda bär.</PlantRaspberry.description>
+
+  <PlantBush.label>buske</PlantBush.label>
+  <PlantBush.description>En kort buske. Pratar normalt inte.</PlantBush.description>
+
+  <PlantWildHealroot.label>vild helande rötter</PlantWildHealroot.label>
+  <PlantWildHealroot.description>En långväxande växt som ger örtbaserad medicin när den skördas.\n\nDenna vilda ras av helande rötter är svår att odla. Det är prisade av stammar i kallare klimat.</PlantWildHealroot.description>
+
+
+  <!-- Wild plants - carpets -->
+
+  <PlantGrass.label>gräs</PlantGrass.label>
+  <PlantGrass.description>Vildgräs. Växer överallt där det finns lite ljus och minimalt grogrund.</PlantGrass.description>
+
+  <PlantDandelion.label>maskrosor</PlantDandelion.label>
+  <PlantDandelion.description>En vanlig liten blomma. Även om det anses ofta vara ett ogräs, är det trevligt att titta på.</PlantDandelion.description>
+
+  <PlantAstragalus.label>astragalus</PlantAstragalus.label>
+  <PlantAstragalus.description>En liten perenn/vildblomma som växer i alpina klimat.</PlantAstragalus.description>
+
+  <PlantMoss.label>mossa</PlantMoss.label>
+  <PlantMoss.description>En vild mossa som växer i klumpar i områden med svagt ljus och hög luftfuktighet. Mycket härdig och frostbeständig.</PlantMoss.description>
+
+
+  <!-- Wild - Trees -->
+
+  <PlantTreeOak.label>ek</PlantTreeOak.label>
+  <PlantTreeOak.description>En stark lövträd. Långsam växande men dess trä är mycket stark.</PlantTreeOak.description>
+
+  <PlantTreePoplar.label>poppel</PlantTreePoplar.label>
+  <PlantTreePoplar.description>Ett barrträd. Växer snabbt, men ger lite användbar trä.</PlantTreePoplar.description>
+
+  <PlantTreePine.label>tall</PlantTreePine.label>
+  <PlantTreePine.description>Ett stort barrträd.</PlantTreePine.description>
+
+  <PlantTreeBirch.label>björk</PlantTreeBirch.label>
+  <PlantTreeBirch.description>En nordligt träd känd för sin tunna, pappersliknande bark.</PlantTreeBirch.description>
+
+
 </LanguageData>

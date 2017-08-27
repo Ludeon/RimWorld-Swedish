@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Mechanoid_Centipede.label>tusenfoting</Mechanoid_Centipede.label>
-    <Mechanoid_Centipede.description>Tunga stridsmekanoider som glider på dussintals små ben. Deras tunga rustning och eldkraft gör dem mycket effektiva mot ihopsamlade statiska försvarare. De är något känsliga för rörliga skjut-och-spring taktiker.</Mechanoid_Centipede.description>
-    <!-- Flesh Type: Mechanoid -->
-    <Mechanoid_Centipede_Corpse.label>tusenfotingkropp</Mechanoid_Centipede_Corpse.label>
-    <Mechanoid_Centipede_Corpse.description>tusenfotingkropp</Mechanoid_Centipede_Corpse.description>
+
+  <Mechanoid_Centipede.label>tusenfoting</Mechanoid_Centipede.label>
+  <Mechanoid_Centipede.description>Tunga stridsmekanoider som glider på dussintals små ben. Deras tunga rustning och eldkraft gör dem mycket effektiva mot ihopsamlade statiska försvarare. De är något känsliga för rörliga skjut-och-spring taktiker.</Mechanoid_Centipede.description>
+  <!-- Flesh Type: Mechanoid -->
+  <Mechanoid_Centipede_Corpse.label>tusenfotingkropp</Mechanoid_Centipede_Corpse.label>
+  <Mechanoid_Centipede_Corpse.description>tusenfotingkropp</Mechanoid_Centipede_Corpse.description>
 
 
-    <!-- Scyther -->
+  <!-- Scyther -->
 
-    <Mechanoid_Scyther.label>lieman</Mechanoid_Scyther.label>
-    <Mechanoid_Scyther.description>Snabba spindellika stridsmekanoider i mänsklig storlek. De bär vanligtvis ett primärt avståndsvapen och deras kroppar är prydda med två ledade blad för att göra dem dödliga i närstrid. De använder inte skydd. Bästa sättet att hantera dom är med hjälp av koncentrerad, överväldigande våld.</Mechanoid_Scyther.description>
-    <!-- Flesh Type: Mechanoid -->
-    <Mechanoid_Scyther_Corpse.label>liemanskropp</Mechanoid_Scyther_Corpse.label>
-    <Mechanoid_Scyther_Corpse.description>liemanskropp</Mechanoid_Scyther_Corpse.description>
-    
-	
+  <Mechanoid_Scyther.label>lieman</Mechanoid_Scyther.label>
+  <Mechanoid_Scyther.description>Snabba spindellika stridsmekanoider i mänsklig storlek. De bär vanligtvis ett primärt avståndsvapen och deras kroppar är prydda med två ledade blad för att göra dem dödliga i närstrid. De använder inte skydd. Bästa sättet att hantera dom är med hjälp av koncentrerad, överväldigande våld.</Mechanoid_Scyther.description>
+  <!-- Flesh Type: Mechanoid -->
+  <Mechanoid_Scyther_Corpse.label>liemanskropp</Mechanoid_Scyther_Corpse.label>
+  <Mechanoid_Scyther_Corpse.description>liemanskropp</Mechanoid_Scyther_Corpse.description>
+
+
 </LanguageData>

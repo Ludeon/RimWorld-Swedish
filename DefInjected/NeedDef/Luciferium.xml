@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Chemical_Luciferium.label>luciferium</Chemical_Luciferium.label>
-    <Chemical_Luciferium.description>Den här personens kropp är förbättrad av lucieferummekaniter\n\nUtan regelbundna doser av lucieferum kommer mekaniterna förlora sammanhållning. Om detta händer kommer användaren bli kontinuerligt våldsam och galen och kommer så småningom att dö.\n\nDetta beroende kommer aldrig försvinna.</Chemical_Luciferium.description>
-    
+
+  <!-- Luciferium addiction -->
+
+  <Chemical_Luciferium.label>luciferium</Chemical_Luciferium.label>
+  <Chemical_Luciferium.description>Den här personens kropp är förbättrad av lucieferum-mekaniter\n\nUtan regelbundna doser av lucieferum kommer mekaniterna förlora sammanhållning. Om detta händer kommer användaren långsamt bli ökande våldsam och galen och kommer så småningom att dö.\n\nDetta beroende kommer aldrig försvinna.</Chemical_Luciferium.description>
+
+
 </LanguageData>

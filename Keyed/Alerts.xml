@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <ClickToJumpToProblem>Klicka för att se problemet</ClickToJumpToProblem>
@@ -10,16 +10,16 @@
   <BreakRiskMajorDesc>Dessa kolonister är på väldigt dåligt humör och kan få ett större sammanbrott när som helst:\n\n{0}</BreakRiskMajorDesc>
   <BreakRiskExtremeDesc>Dessa kolonistera är svårt stressade och kan få ett extremt (och möjligen våldsamt) sammanbrott när som helst:\n\n{0}</BreakRiskExtremeDesc>
   <BreakRiskDescEnding>Kolla dessa kolonisters Behov-flik för att se vad som besvärar dom.\n\nFör att förbättra deras humör så kan du göra saker som fina måltider, ge dom fler glädjetimmar per dag och finare glädjeobjekt, placera dom i vackra miljöer, låta dom dricka och röka, med mera.</BreakRiskDescEnding>
-  
+
   <ColonistNeedsRescue>Kolonist behöver räddas</ColonistNeedsRescue>
   <ColonistsNeedRescue>Kolonister behöver räddas</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  Dessa kolonister ligger handikappade på marken:\n\n{0}\nSkicka en annan kolonist för att rädda och bära dem tillbaka till sina sängar.\n\n(För att rädda någon; klicka på en annan kolonist och högerklicka sedan på offret, klicka därefter på Rädda.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Dessa kolonister ligger handikappade på marken:\n\n{0}\nSkicka en annan kolonist för att rädda och bära dem tillbaka till sina sängar.\n\n(För att rädda någon; klicka på en annan kolonist och högerklicka sedan på offret, klicka därefter på Rädda.</ColonistsNeedRescueDesc>
 
   <NeedDefenses>Behöver försvar</NeedDefenses>
   <NeedDefensesDesc>Du har varit här ett tag nu och har troligtvis redan blivit upptäckt av andra. Förbered dig för kommande räder.\n\nDu borde förbereda försvar.\n\nBygg några Vaktposter.</NeedDefensesDesc>
 
   <NeedDoctor>Behöver en läkare</NeedDoctor>
-  <NeedDoctorDesc> Kolonisterna behöver läkarvård, men det finns inga friska kolonister av typen Läkare.\n\n{0}\nTilldela arbetstypen Läkare till någon av dina friska kolonister. Om skadorna förblir obehandlade kan de bli permanenta.</NeedDoctorDesc>
+  <NeedDoctorDesc>Kolonisterna behöver läkarvård, men det finns inga friska kolonister av typen Läkare.\n\n{0}\nTilldela arbetstypen Läkare till någon av dina friska kolonister. Om skadorna förblir obehandlade kan de bli permanenta.</NeedDoctorDesc>
 
   <NeedMiner>Behöver en gruvarbetare</NeedMiner>
   <NeedMinerDesc>Du har angett att några klippväggar ska bli utgrävda, men ingen kolonist har blivit tilldelad arbetstypen Gruvarbetare. \n\nTilldela arbetstypen Gruvarbetare till någon av dina kolonister.</NeedMinerDesc>
@@ -33,7 +33,7 @@
   <LowMedicine>Trytande läkemedelsförråd</LowMedicine>
   <LowMedicineDesc>Du har bara {0} läkemedel kvar i förrådet.\n\nKöp läkemedel från handelsmän.</LowMedicineDesc>
   <NoMedicineDesc>Det finns inga läkemedel kvar i förråden.\n\nKöp läkedel från handelsmän.</NoMedicineDesc>
-  
+
   <NeedColonistBeds>Kolonisterna behöver sängar.</NeedColonistBeds>
   <NeedColonistBedsDesc>Du har fler kolonister än vad det finns sängar. Någon kommer sakna en plats att sova på.\n\nDu kan antingen bygga fler sängar, eller ändra en fånges säng till en säng för kolonister.\n\nOm du inte har några resurser så kan du placera ut sovplatser direkt, gratis.</NeedColonistBedsDesc>
 
@@ -42,6 +42,9 @@
 
   <AlertTatteredApparel>Trasiga kläder</AlertTatteredApparel>
   <AlertTatteredApparelDesc>Dessa kolonister bär trasiga kläder, som gör dom ledsna:\n\n{0}\nGe dom kläder som är mindre trasiga.\n\nDu kan sy kläder själv, eller köpa det från handelsmän.</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>Olyckligt naken</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Dessa kolonister är nakna och vill inte vara det:\n\n{0}\nSkaffa dom några kläder.\n\nDu kan sy kläder vid Handarbetsbordet eller köpa det ifrån handelsmän.</AlertUnhappyNudityDesc>
 
   <Starvation>Svält</Starvation>
   <StarvationDesc>Kolonisterna svälter:\n\n{0}\nSkaffa mat åt dem.</StarvationDesc>
@@ -72,7 +75,7 @@
 
   <NeedResearchProject>Behöver forskningsprojekt</NeedResearchProject>
   <NeedResearchProjectDesc>Du har utrustning för att kunna forska, men inget valt projekt.\n\nÖppna forskningsmenyn och välj ett projekt.</NeedResearchProjectDesc>
-  
+
   <ColonistsIdle>{0} kolonister är syssolösa</ColonistsIdle>
   <ColonistsIdleDesc>Dessa kolonister är syssolösa:\n\n{0}\nSe om du kan sätta dem i arbete.</ColonistsIdleDesc>
 
@@ -81,7 +84,7 @@
 
   <AlertHypothermia>Frostskada</AlertHypothermia>
   <AlertHypothermiaDesc>Kolonisterna riskerar få frostskador och kan i värsta fall frysa ihjäl.\n\n{0}\Se till att de klär sig varmt och att rummen är tillräckligt uppvärmda.</AlertHypothermiaDesc>
-  
+
   <PatientsAwaitingMedicalOperation>{0} patienter väntar på sin opereration</PatientsAwaitingMedicalOperation>
   <PatientsAwaitingMedicalOperationDesc>Patienterna väntar på sin operation:\n\n{0}\nSe till att du har all nödvändig medicinsk utrustning och att en ledig läkare finns tillgänglig.</PatientsAwaitingMedicalOperationDesc>
 
@@ -102,8 +105,8 @@
   <NeedWarmClothesDesc1>Minst {0} av dina kolonister kommer sakna varma kläder när den kalla årstiden börjar.</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>Alla dina kolonister kommer sakna varma kläder när den kalla årstiden börjar.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>Utomhustemperaturen kommer nå {0}.\n\nDu kan sy varma kläder vid skräddarbordet, eller köpa det från handelsmän.</NeedWarmClothesDesc2>
-  
+
   <ImmobileCaravan>Överlastad karavan</ImmobileCaravan>
   <ImmobileCaravanDesc>En av dina karavaner är orörlig eftersom den är överlastad.\n\nDu kan göra karavanen mobil igen genom att överge vissa föremål i fliken Föremål.</ImmobileCaravanDesc>
-  
+
 </LanguageData>

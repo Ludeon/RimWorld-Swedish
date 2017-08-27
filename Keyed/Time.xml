@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <LetterDay>d</LetterDay>
   <LetterHour>h</LetterHour>
   <LetterMinute>m</LetterMinute>
   <LetterSecond>s</LetterSecond>
-  
+
   <DaysLower>dagar</DaysLower>
   <SecondsLower>sekunder</SecondsLower>
 
@@ -14,23 +14,28 @@
   <SeasonFall>höst</SeasonFall>
   <SeasonWinter>vinter</SeasonWinter>
 
-  <Born>Född: {0}</Born>
-  <AgeChronological>Kronologisk ålder: {0} år, {1} säsonger, {2} dagar</AgeChronological>
-  <AgeBiological>Biologisk ålder: {0} år, {1} säsonger, {2} dagar</AgeBiological>
+  <QuadrumAprimay>Aprimaj</QuadrumAprimay>
+  <QuadrumJugust>Jugusti</QuadrumJugust>
+  <QuadrumSeptober>Septober</QuadrumSeptober>
+  <QuadrumDecembary>Decembruari</QuadrumDecembary>
 
-  
+  <Born>Född: {0}</Born>
+  <AgeChronological>Kronologisk ålder: {0} år, {1} kvartal, {2} dagar</AgeChronological>
+  <AgeBiological>Biologisk ålder: {0} år, {1} kvartal, {2} dagar</AgeBiological>
+
+  <!-- Date periods -->
   <Period1Year>1 år</Period1Year>
   <PeriodYears>{0} år</PeriodYears>
-  <Period1Season>1 säsong</Period1Season>
-  <PeriodSeasons>{0} säsonger</PeriodSeasons>
+  <Period1Quadrum>1 kvartal</Period1Quadrum>
+  <PeriodQuadrums>{0} kvartal</PeriodQuadrums>
   <Period1Day>1 dag</Period1Day>
   <PeriodDays>{0} dagar</PeriodDays>
   <Period1Hour>1 timmar</Period1Hour>
   <PeriodHours>{0} timmar</PeriodHours>
 
-  
+  <!-- Misc -->
   <Started>Börjat</Started>
   <Lasted>Varar</Lasted>
   <OccurredTimeAgo>inträffade {0} sedan</OccurredTimeAgo>
-  
+
 </LanguageData>

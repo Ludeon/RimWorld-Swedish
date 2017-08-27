@@ -1,26 +1,34 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <WanderConfused.label>vandrar förvirrat</WanderConfused.label>
-    <WanderConfused.beginLetterLabel>förvirring</WanderConfused.beginLetterLabel>
-    <WanderConfused.beginLetter>{0} är nedbruten och vandrar runt förvirrad.</WanderConfused.beginLetter>
-    <WanderConfused.recoveryMessage>{0} är inte längre förvirrad.</WanderConfused.recoveryMessage>
-    <WanderConfused.baseInspectLine>Mentalt tillstånd: Vandrar och är förvirrad</WanderConfused.baseInspectLine>
-    
-    <PanicFlee.label>flyr i panik</PanicFlee.label>
-    <PanicFlee.beginLetterLabel>flyr</PanicFlee.beginLetterLabel>
-    <PanicFlee.beginLetter>{0} flyr i panik.</PanicFlee.beginLetter>
-    <PanicFlee.recoveryMessage>{0} flyr inte längre i panik.</PanicFlee.recoveryMessage>
-    <PanicFlee.baseInspectLine>Mentalt tillstånd: Flyr i panik</PanicFlee.baseInspectLine>
-    
-    <Manhunter.label>Människojägare</Manhunter.label>
-    <Manhunter.beginLetterLabel>människojägare</Manhunter.beginLetterLabel>
-    <Manhunter.beginLetter>{0} har blivit en människojägare!</Manhunter.beginLetter>
-    <Manhunter.recoveryMessage>{0}'s människojagande blodlust har kommit till sitt slut.</Manhunter.recoveryMessage>
-    <Manhunter.baseInspectLine>Galen: Människojägare</Manhunter.baseInspectLine>
-    
-    
-    <SocialFighting.label>grälar</SocialFighting.label>
-    <SocialFighting.baseInspectLine>Mentalt tillstånd: Grälar</SocialFighting.baseInspectLine>
-    
+
+  <!-- Special mental states not from mental breaks -->
+
+  <WanderConfused.label>vandrar förvirrat</WanderConfused.label>
+  <WanderConfused.beginLetter>{0} är nedbruten och vandrar runt förvirrad.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetterLabel>förvirring</WanderConfused.beginLetterLabel>
+  <WanderConfused.recoveryMessage>{0} är inte längre förvirrad.</WanderConfused.recoveryMessage>
+  <WanderConfused.baseInspectLine>Mentalt tillstånd: Vandrar och är förvirrad</WanderConfused.baseInspectLine>
+
+  <PanicFlee.label>flyr i panik</PanicFlee.label>
+  <PanicFlee.beginLetter>{0} flyr i panik.</PanicFlee.beginLetter>
+  <PanicFlee.beginLetterLabel>flyr</PanicFlee.beginLetterLabel>
+  <PanicFlee.recoveryMessage>{0} flyr inte längre i panik.</PanicFlee.recoveryMessage>
+  <PanicFlee.baseInspectLine>Mentalt tillstånd: Flyr i panik</PanicFlee.baseInspectLine>
+
+  <Manhunter.label>människojägare</Manhunter.label>
+  <Manhunter.beginLetter>{0} har blivit en människojägare!</Manhunter.beginLetter>
+  <Manhunter.beginLetterLabel>människojägare</Manhunter.beginLetterLabel>
+  <Manhunter.recoveryMessage>{0}'s människojagande blodlust har kommit till sitt slut.</Manhunter.recoveryMessage>
+  <Manhunter.baseInspectLine>Galen: Människojägare</Manhunter.baseInspectLine>
+
+  <ManhunterPermanent.label>människojägare</ManhunterPermanent.label>
+  <ManhunterPermanent.beginLetter>{0} har blivit en människojägare!</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>människojägare</ManhunterPermanent.beginLetterLabel>
+  <ManhunterPermanent.recoveryMessage>{0}'s människojagande blodlust har kommit till sitt slut.</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.baseInspectLine>Galen: Människojägare</ManhunterPermanent.baseInspectLine>
+
+  <SocialFighting.label>grälar</SocialFighting.label>
+  <SocialFighting.baseInspectLine>Mentalt tillstånd: Grälar</SocialFighting.baseInspectLine>
+
+
 </LanguageData>

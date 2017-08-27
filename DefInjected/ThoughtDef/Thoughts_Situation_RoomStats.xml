@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Bedroom.stages.0.label>fruktansvärt sovrum</Bedroom.stages.0.label>
-  <Bedroom.stages.0.description>Mitt sovrum är en förskräcklig plats.</Bedroom.stages.0.description>
-  <Bedroom.stages.3.label>anständigt sovrum</Bedroom.stages.3.label>
-  <Bedroom.stages.3.description>Mitt sovrum är mycket intressant. Jag gillar det.</Bedroom.stages.3.description>
-  <Bedroom.stages.4.label>något imponerande sovrum</Bedroom.stages.4.label>
-  <Bedroom.stages.4.description>Mitt sovrum är faktiskt något imponerande. Jag gillar det.</Bedroom.stages.4.description>
-  <Bedroom.stages.5.label>imponerade sovrum</Bedroom.stages.5.label>
-  <Bedroom.stages.5.description>Mitt sovrum är imponerande. Jag älskar det!</Bedroom.stages.5.description>
-  <Bedroom.stages.6.label>mycket imponerade sovrum</Bedroom.stages.6.label>
-  <Bedroom.stages.6.description>Min sovrum är mycket imponerande. Detta är det bästa stället någonsin!</Bedroom.stages.6.description>
-  <Bedroom.stages.7.label>extremt imponerade sovrum</Bedroom.stages.7.label>
-  <Bedroom.stages.7.description>Min sovrum är extremt imponerande. Detta är det bästa stället någonsin!</Bedroom.stages.7.description>
-  <Bedroom.stages.8.label>otroligt imponerade sovrum</Bedroom.stages.8.label>
-  <Bedroom.stages.8.description>Mitt sovrum är otroligt imponerande. Detta är det bästa stället någonsin!</Bedroom.stages.8.description>
-  <Bedroom.stages.9.label>underbart imponerade sovrum</Bedroom.stages.9.label>
-  <Bedroom.stages.9.description>Min sovrum är den bästa platsen man kan någonsin föreställa sig. Det är underbart.</Bedroom.stages.9.description>
 
   <PrisonCell.stages.0.label>fruktansvärd fängelsecell</PrisonCell.stages.0.label>
   <PrisonCell.stages.0.description>Min fängelsecell är en förskräcklig plats.</PrisonCell.stages.0.description>
@@ -34,23 +17,6 @@
   <PrisonCell.stages.8.description>Min fängelsecell är otroligt imponerande. Detta är det bästa stället någonsin!</PrisonCell.stages.8.description>
   <PrisonCell.stages.9.label>underbart imponerande fängelsecell</PrisonCell.stages.9.label>
   <PrisonCell.stages.9.description>Min fängelsecell är den bästa platsen man kan någonsin föreställa sig. Jag kan stanna här för evigt.</PrisonCell.stages.9.description>
-
-  <Barracks.stages.0.label>fruktansvärd kasern</Barracks.stages.0.label>
-  <Barracks.stages.0.description>Min kasern är en förskräcklig plats.</Barracks.stages.0.description>
-  <Barracks.stages.1.label>tråkig kasern</Barracks.stages.1.label>
-  <Barracks.stages.1.description>Jag bor i en tråkig kasern.</Barracks.stages.1.description>
-  <Barracks.stages.4.label>något imponerande kasern</Barracks.stages.4.label>
-  <Barracks.stages.4.description>Min kasern är ett trevligt ställe. Jag önskar att jag hade mitt eget sovrum dock.</Barracks.stages.4.description>
-  <Barracks.stages.5.label>imponerande kasern</Barracks.stages.5.label>
-  <Barracks.stages.5.description>Min kasern är imponerande. Jag gillar det. Jag önskar att jag hade mitt eget sovrum dock.</Barracks.stages.5.description>
-  <Barracks.stages.6.label>mycket imponerande kasern</Barracks.stages.6.label>
-  <Barracks.stages.6.description>Min kasern är mycket imponerande. Jag älskar det!</Barracks.stages.6.description>
-  <Barracks.stages.7.label>extremt imponerande kasern</Barracks.stages.7.label>
-  <Barracks.stages.7.description>Min kasern är extremt imponerande. Detta är det bästa stället någonsin!</Barracks.stages.7.description>
-  <Barracks.stages.8.label>otroligt imponerande kasern</Barracks.stages.8.label>
-  <Barracks.stages.8.description>Min kasern är otroligt imponerande. Detta är det bästa stället någonsin!</Barracks.stages.8.description>
-  <Barracks.stages.9.label>underbart imponerande kasern</Barracks.stages.9.label>
-  <Barracks.stages.9.description>Min kasern är den bästa platsen man kan någonsin föreställa sig. Det är underbart.</Barracks.stages.9.description>
 
   <PrisonBarracks.stages.0.label>fruktansvärd kasern</PrisonBarracks.stages.0.label>
   <PrisonBarracks.stages.0.description>Min fängelsekasern är en förskräcklig plats.</PrisonBarracks.stages.0.description>

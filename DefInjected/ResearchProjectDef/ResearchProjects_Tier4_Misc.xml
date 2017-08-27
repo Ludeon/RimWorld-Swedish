@@ -1,31 +1,34 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Tier 4: Hi-tech research bench with multi-analyzer -->
-	
-    <GroundPenetratingScanner.label>markpenetrerande radar</GroundPenetratingScanner.label>
-    <GroundPenetratingScanner.description>Tillåter dig att bygga en markpenetrerande radar som upptäcker gruvbara resurser djupt under markytan.</GroundPenetratingScanner.description>
-    
-    <DeepDrilling.label>djupborrning</DeepDrilling.label>
-    <DeepDrilling.description>Tillåter dig att bygga en djupborr för att extrahera resurser djupt under markytan. Du kommer att behöver en markpenetrerande radar för att visa var resurserna finns.</DeepDrilling.description>
-    
-    <VitalsMonitor.label>vitalparametersensor</VitalsMonitor.label>
-    <VitalsMonitor.description>Ökar kvalitén hos behandlingen av patienten. Måste placeras jämte en sjuksäng. En sjuksäng kan kopplas samman med endast en vitalparametersensor.</VitalsMonitor.description>
-    
-    <ComponentAssembly.label>komponenttillverkning</ComponentAssembly.label>
-    <ComponentAssembly.description>Tillåter dig att bygga en komponentmonteringsbänk där kolonisterna kan tillverka komponenter från enkla material.</ComponentAssembly.description>
-    
-    <MultibarrelWeapons.label>flerpipiga vapen</MultibarrelWeapons.label>
-    <MultibarrelWeapons.description>Tillåter dig att bygga en minigun.</MultibarrelWeapons.description>
-    
-    <Cryptosleep.label>kryptosömnkista</Cryptosleep.label>
-    <Cryptosleep.description>Tillåter kolonisterna att tillverka en kryptosömnkista, i vilken man kan sätta levande varelser i ett tillstånd av skendödhet.</Cryptosleep.description>
-    
-    <PoweredArmor.label>kraftrutning</PoweredArmor.label>
-    <PoweredArmor.description>Nanomaskiner och avancerat plaststål-vävning tillåter dig att bygga kraftrustning och kraftrustninghjälm.</PoweredArmor.description>
-    
-    <ChargedShot.label>energiskott</ChargedShot.label>
-    <ChargedShot.description>Hemligheten bakom pulsladdat energi/projektil-ammunition. Tillåter dig att bygga energigevär.</ChargedShot.description>
-    
-	
+
+  <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
+
+  <GroundPenetratingScanner.label>markpenetrerande radar</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>Tillåter dig att bygga en markpenetrerande radar som upptäcker gruvbara resurser djupt under markytan.</GroundPenetratingScanner.description>
+
+  <DeepDrilling.label>djupborrning</DeepDrilling.label>
+  <DeepDrilling.description>Tillåter dig att bygga en djupborr för att extrahera resurser djupt under markytan. Du kommer att behöver en markpenetrerande radar för att visa var resurserna finns.</DeepDrilling.description>
+
+  <VitalsMonitor.label>vitalparametersensor</VitalsMonitor.label>
+  <VitalsMonitor.description>Ökar kvalitén hos behandlingen av patienten. Måste placeras jämte en sjuksäng. En sjuksäng kan kopplas samman med endast en vitalparametersensor.</VitalsMonitor.description>
+
+  <ComponentAssembly.label>komponenttillverkning</ComponentAssembly.label>
+  <ComponentAssembly.description>Tillåter dig att bygga en komponentmonteringsbänk där kolonisterna kan tillverka komponenter från enkla material.</ComponentAssembly.description>
+
+  <MultibarrelWeapons.label>flerpipiga vapen</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>Tillåter dig att bygga en minigun.</MultibarrelWeapons.description>
+
+  <Cryptosleep.label>kryptosömnkista</Cryptosleep.label>
+  <Cryptosleep.description>Tillåter kolonisterna att tillverka en kryptosömnkista, i vilken man kan sätta levande varelser i ett tillstånd av skendödhet.</Cryptosleep.description>
+
+  <PoweredArmor.label>kraftrustning</PoweredArmor.label>
+  <PoweredArmor.description>Nanomaskiner och avancerat plaststål-vävning tillåter dig att bygga kraftrustning och kraftrustninghjälm.</PoweredArmor.description>
+
+  <ShieldBelt.label>sköldbälte</ShieldBelt.label>
+  <ShieldBelt.description>Moment-repulsions-fältteknik gör att du kan bygga sköldbälte, vilka står emot avståndsattacker som kommer in eller ut.</ShieldBelt.description>
+
+  <ChargedShot.label>energiskott</ChargedShot.label>
+  <ChargedShot.description>Hemligheten bakom pulsladdat energi/projektil-ammunition. Tillåter dig att bygga energigevär.</ChargedShot.description>
+
+
 </LanguageData>

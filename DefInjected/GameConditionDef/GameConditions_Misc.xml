@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SolarFlare.label>Soleruption</SolarFlare.label>
+  <SolarFlare.description>En soleruption slår mot planeten. Detta skapar extrema elektriska störningar och förhindrar att de flesta elektriska enheter fungerar.</SolarFlare.description>
+  <SolarFlare.endMessage>Soleruptionen avtar.</SolarFlare.endMessage>
+
+  <Eclipse.label>Solförmörkelse</Eclipse.label>
+  <Eclipse.description>En solförmörkelse skuggar ytan. Det blir mörkt, även under dagtid.</Eclipse.description>
+  <Eclipse.endMessage>Solförmörkelsen avtar.</Eclipse.endMessage>
+
+  <PsychicDrone.label>Psykisk drönare</PsychicDrone.label>
+  <PsychicDrone.description>En avlägsen, kraftfull AI sänder vågor av psykisk kraft som driver människor mot galenskap.</PsychicDrone.description>
+  <PsychicDrone.endMessage>Psykiska drönaren avtar.</PsychicDrone.endMessage>
+
+  <PsychicSoothe.label>Psykisk lugn</PsychicSoothe.label>
+  <PsychicSoothe.description>En avlägsen, kraftfull AI utstrålar vågor av psykisk kraft som lugnar människor och stabiliserar deras sinnen.</PsychicSoothe.description>
+  <PsychicSoothe.endMessage>Psykiska lugnet avtar.</PsychicSoothe.endMessage>
+
+  <ToxicFallout.label>Toxisk nedfall</ToxicFallout.label>
+  <ToxicFallout.description>En plym av giftigt damm från någon avlägsen källa lägger sig långsamt över hela denna världsdel av planeten. De som inte är under tak blir långsamt förgiftad.</ToxicFallout.description>
+  <ToxicFallout.endMessage>Det värsta av det toxiska nedfallet ar lagt sig.</ToxicFallout.endMessage>
+
+  <VolcanicWinter.label>Vulkanisk vinter</VolcanicWinter.label>
+  <VolcanicWinter.description>Atmosfären kvävs av vulkaniska partiklar, vilket reducerar signifikant mängden ljus som når ytan. Temperaturerna blir kallare och växterna växer långsammare.</VolcanicWinter.description>
+  <VolcanicWinter.endMessage>Den största delen av den vulkaniska askan har lagt sig.</VolcanicWinter.endMessage>
+
+  <HeatWave.label>Värmebölja</HeatWave.label>
+  <HeatWave.description>En extrem värmebölja bakar området.</HeatWave.description>
+  <HeatWave.endMessage>Värmeböljan avtar.</HeatWave.endMessage>
+
+  <ColdSnap.label>Köldknäpp</ColdSnap.label>
+  <ColdSnap.description>En ovanlig köldknäpp fryser regionen.</ColdSnap.description>
+  <ColdSnap.endMessage>Köldknäpp avtar.</ColdSnap.endMessage>
+
+  <Flashstorm.label>Blixtoväder</Flashstorm.label>
+  <Flashstorm.description>Extrema mängder blixtar träffar en liten region.</Flashstorm.description>
+  <Flashstorm.endMessage>The flashstorm is over.</Flashstorm.endMessage>
+
+  <ClimateCycle.label>Klimatcykel</ClimateCycle.label>
+  <ClimateCycle.description>En flerårig klimatcykel på grund av en elliptisk bana.</ClimateCycle.description>
+
+  <Planetkiller.label>Planetdödare</Planetkiller.label>
+  <Planetkiller.description>Ett interstellärt planetdödarvapen närmar sig denna planet. När den träffar kommer den att förstöra allt liv.</Planetkiller.description>
+
+
+</LanguageData>

@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <AccuracyTouch.label>Träffsäkerhet (närstrid)</AccuracyTouch.label>
-    <AccuracyTouch.description>Träffsäkerhet multiplikator vid närstridsavstånd.</AccuracyTouch.description>
-    
-    <AccuracyShort.label>Träffsäkerhet (kort)</AccuracyShort.label>
-    <AccuracyShort.description>Träffsäkerhet multiplikator vid kort avstånd.</AccuracyShort.description>
-    
-    <AccuracyMedium.label>Träffsäkerhet (medel)</AccuracyMedium.label>
-    <AccuracyMedium.description>Träffsäkerhet multiplikator vid medelavstånd.</AccuracyMedium.description>
-    
-    <AccuracyLong.label>Träffsäkerhet (lång)</AccuracyLong.label>
-    <AccuracyLong.description>Träffsäkerhet multiplikator vid långt avstånd.</AccuracyLong.description>
-    
-    <RangedWeapon_Cooldown.label>skytteårethämtning</RangedWeapon_Cooldown.label>
-    <RangedWeapon_Cooldown.description>Hur lång tid det tar att återhämta sig efter att ha skjutit med detta vapen.</RangedWeapon_Cooldown.description>
-    
-	
+
+  <AccuracyTouch.label>Träffsäkerhet (närstrid)</AccuracyTouch.label>
+  <AccuracyTouch.description>Träffsäkerhet multiplikator vid närstridsavstånd.</AccuracyTouch.description>
+
+  <AccuracyShort.label>Träffsäkerhet (kort)</AccuracyShort.label>
+  <AccuracyShort.description>Träffsäkerhet multiplikator vid kort avstånd.</AccuracyShort.description>
+
+  <AccuracyMedium.label>Träffsäkerhet (medel)</AccuracyMedium.label>
+  <AccuracyMedium.description>Träffsäkerhet multiplikator vid medelavstånd.</AccuracyMedium.description>
+
+  <AccuracyLong.label>Träffsäkerhet (lång)</AccuracyLong.label>
+  <AccuracyLong.description>Träffsäkerhet multiplikator vid långt avstånd.</AccuracyLong.description>
+
+  <RangedWeapon_Cooldown.label>skytteårethämtning</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.description>Hur lång tid det tar att återhämta sig efter att ha skjutit med detta vapen.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
+
+
 </LanguageData>

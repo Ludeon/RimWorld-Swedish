@@ -1,63 +1,64 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Misc -->
-	
-    <Milk.label>mjölk</Milk.label>
-    <Milk.description>Mjölk från ett djur.</Milk.description>
-    
-    <InsectJelly.label>insektsgelé</InsectJelly.label>
-    <InsectJelly.description>Gelé lagras och användas som föda av överdimensionerade insekter. Det är slät, rik och oerhört tillfredsställande. På grund av dess unika biologiska egenskaper, kan det ge näring åt nästan alla varelse och aldrig ruttna.</InsectJelly.description>
-    
-	
-	<!-- Chicken -->
-	
-    <EggChickenUnfertilized.label>hönsägg (ofert.)</EggChickenUnfertilized.label>
-    <EggChickenUnfertilized.description>Obefruktade hönsägg. Den kan ätas rå, men det är mycket, mycket bättre kokta.</EggChickenUnfertilized.description>
-    
-    <EggChickenFertilized.label>hönsägg (fert.)</EggChickenFertilized.label>
-    <EggChickenFertilized.description>Befruktade hönsägg. Om allt går bra kommer det kläckas till en kyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggChickenFertilized.description>
-    
-	
-	<!-- Cobra -->
-	
-    <EggCobraFertilized.label>kobraägg (fert.)</EggCobraFertilized.label>
-    <EggCobraFertilized.description>Befruktade kobraägg. Om allt går bra kommer det kläckas till en cobraunge. Den kan ätas rå, men det är mycket bättre kokta.</EggCobraFertilized.description>
-    
-	
-	<!-- Iguana -->
-	
-    <EggIguanaFertilized.label>iguanaägg (fert.)</EggIguanaFertilized.label>
-    <EggIguanaFertilized.description>Befruktade iguanaägg. Om allt går bra kommer det kläckas till en iguanaunge. Den kan ätas rå, men det är mycket bättre kokta.</EggIguanaFertilized.description>
-    
-	
-	<!-- Tortoise -->
-	
-    <EggTortoiseFertilized.label>sköldpaddsägg (fert.)</EggTortoiseFertilized.label>
-    <EggTortoiseFertilized.description>Befruktade sköldpaddsägg. Om allt går bra kommer det kläckas till en skölpaddsunge. Den kan ätas rå, men det är mycket bättre kokta.</EggTortoiseFertilized.description>
-    
-	
-	<!-- Cassowary -->
-	
-    <EggCassowaryFertilized.label>kausaurägg (fert.)</EggCassowaryFertilized.label>
-    <EggCassowaryFertilized.description>Befruktade kausaurägg. Om allt går bra kommer det kläckas till en kausaurkyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggCassowaryFertilized.description>
-    
-	
-	<!-- Emu -->
-	
-    <EggEmuFertilized.label>emuägg (fert.)</EggEmuFertilized.label>
-    <EggEmuFertilized.description>Befruktade emuägg. Om allt går bra kommer det kläckas till en emukyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggEmuFertilized.description>
-    
-	
-	<!-- Ostrich -->
-	
-    <EggOstrichFertilized.label>strutsägg (fert.)</EggOstrichFertilized.label>
-    <EggOstrichFertilized.description>Befruktade strutsägg. Om allt går bra kommer det kläckas till en strutskyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggOstrichFertilized.description>
-    
-	
-	<!-- Turkey -->
-	
-    <EggTurkeyFertilized.label>kalkonägg (fert.)</EggTurkeyFertilized.label>
-    <EggTurkeyFertilized.description>Befruktade kalkonägg. Om allt går bra kommer det kläckas till en kalkonkyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggTurkeyFertilized.description>
-    
+
+  <!-- Misc -->
+
+  <Milk.label>mjölk</Milk.label>
+  <Milk.description>Mjölk från ett djur.</Milk.description>
+
+  <InsectJelly.label>insektsgelé</InsectJelly.label>
+  <InsectJelly.description>Gelé lagras och användas som föda av överdimensionerade insekter. Det är slät, rik och oerhört tillfredsställande. På grund av dess unika biologiska egenskaper, kan det ge näring åt nästan alla varelse och aldrig ruttna.</InsectJelly.description>
+
+
+  <!-- Chicken -->
+
+  <EggChickenUnfertilized.label>hönsägg (ofert.)</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.description>Obefruktade hönsägg. Den kan ätas rå, men det är mycket, mycket bättre kokta.</EggChickenUnfertilized.description>
+
+  <EggChickenFertilized.label>hönsägg (fert.)</EggChickenFertilized.label>
+  <EggChickenFertilized.description>Befruktade hönsägg. Om allt går bra kommer det kläckas till en kyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggChickenFertilized.description>
+
+
+  <!-- Cobra -->
+
+  <EggCobraFertilized.label>kobraägg (fert.)</EggCobraFertilized.label>
+  <EggCobraFertilized.description>Befruktade kobraägg. Om allt går bra kommer det kläckas till en cobraunge. Den kan ätas rå, men det är mycket bättre kokta.</EggCobraFertilized.description>
+
+
+  <!-- Iguana -->
+
+  <EggIguanaFertilized.label>iguanaägg (fert.)</EggIguanaFertilized.label>
+  <EggIguanaFertilized.description>Befruktade iguanaägg. Om allt går bra kommer det kläckas till en iguanaunge. Den kan ätas rå, men det är mycket bättre kokta.</EggIguanaFertilized.description>
+
+
+  <!-- Tortoise -->
+
+  <EggTortoiseFertilized.label>sköldpaddsägg (fert.)</EggTortoiseFertilized.label>
+  <EggTortoiseFertilized.description>Befruktade sköldpaddsägg. Om allt går bra kommer det kläckas till en skölpaddsunge. Den kan ätas rå, men det är mycket bättre kokta.</EggTortoiseFertilized.description>
+
+
+  <!-- Cassowary -->
+
+  <EggCassowaryFertilized.label>kausaurägg (fert.)</EggCassowaryFertilized.label>
+  <EggCassowaryFertilized.description>Befruktade kausaurägg. Om allt går bra kommer det kläckas till en kausaurkyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggCassowaryFertilized.description>
+
+
+  <!-- Emu -->
+
+  <EggEmuFertilized.label>emuägg (fert.)</EggEmuFertilized.label>
+  <EggEmuFertilized.description>Befruktade emuägg. Om allt går bra kommer det kläckas till en emukyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggEmuFertilized.description>
+
+
+  <!-- Ostrich -->
+
+  <EggOstrichFertilized.label>strutsägg (fert.)</EggOstrichFertilized.label>
+  <EggOstrichFertilized.description>Befruktade strutsägg. Om allt går bra kommer det kläckas till en strutskyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggOstrichFertilized.description>
+
+
+  <!-- Turkey -->
+
+  <EggTurkeyFertilized.label>kalkonägg (fert.)</EggTurkeyFertilized.label>
+  <EggTurkeyFertilized.description>Befruktade kalkonägg. Om allt går bra kommer det kläckas till en kalkonkyckling. Den kan ätas rå, men det är mycket bättre kokta.</EggTurkeyFertilized.description>
+
+
 </LanguageData>

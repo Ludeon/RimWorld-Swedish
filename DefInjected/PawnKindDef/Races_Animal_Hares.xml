@@ -1,20 +1,55 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Hare.label>hare</Hare.label>
-    <Hare.lifeStages.0.labelMale>harunge</Hare.lifeStages.0.labelMale>
-    <Hare.lifeStages.0.labelFemale>harunge</Hare.lifeStages.0.labelFemale>
-    <Hare.lifeStages.1.labelMale>hare</Hare.lifeStages.1.labelMale>
-    <Hare.lifeStages.1.labelFemale>hare</Hare.lifeStages.1.labelFemale>
-    <Hare.lifeStages.2.labelMale>hare</Hare.lifeStages.2.labelMale>
-    <Hare.lifeStages.2.labelFemale>hare</Hare.lifeStages.2.labelFemale>
-    
-    <Snowhare.label>snöhare</Snowhare.label>
-    <Snowhare.lifeStages.0.labelMale>snöhareunge</Snowhare.lifeStages.0.labelMale>
-    <Snowhare.lifeStages.0.labelFemale>snöhareunge</Snowhare.lifeStages.0.labelFemale>
-    <Snowhare.lifeStages.1.labelMale>snöhare</Snowhare.lifeStages.1.labelMale>
-    <Snowhare.lifeStages.1.labelFemale>snöhare</Snowhare.lifeStages.1.labelFemale>
-    <Snowhare.lifeStages.2.labelMale>snöhare</Snowhare.lifeStages.2.labelMale>
-    <Snowhare.lifeStages.2.labelFemale>snöhare</Snowhare.lifeStages.2.labelFemale>
-    
+
+  <Hare.label>hare</Hare.label>
+  <Hare.labelPlural>harar</Hare.labelPlural>
+  <Hare.lifeStages.0.label>harunge</Hare.lifeStages.0.label>
+  <Hare.lifeStages.0.labelPlural>harungar</Hare.lifeStages.0.labelPlural>
+  <Hare.lifeStages.0.labelMale>harunge</Hare.lifeStages.0.labelMale>
+  <Hare.lifeStages.0.labelMalePlural>harungar</Hare.lifeStages.0.labelMalePlural>
+  <Hare.lifeStages.0.labelFemale>harunge</Hare.lifeStages.0.labelFemale>
+  <Hare.lifeStages.0.labelFemalePlural>harungar</Hare.lifeStages.0.labelFemalePlural>
+  <Hare.lifeStages.1.label>harunge</Hare.lifeStages.1.label>
+  <Hare.lifeStages.1.labelPlural>harungar</Hare.lifeStages.1.labelPlural>
+  <Hare.lifeStages.1.labelMale>harunge</Hare.lifeStages.1.labelMale>
+  <Hare.lifeStages.1.labelMalePlural>harungear</Hare.lifeStages.1.labelMalePlural>
+  <Hare.lifeStages.1.labelFemale>harunge</Hare.lifeStages.1.labelFemale>
+  <Hare.lifeStages.1.labelFemalePlural>harungar</Hare.lifeStages.1.labelFemalePlural>
+  <Hare.lifeStages.2.label>hare</Hare.lifeStages.2.label>
+  <Hare.lifeStages.2.labelPlural>harar</Hare.lifeStages.2.labelPlural>
+  <Hare.lifeStages.2.labelMale>harhane</Hare.lifeStages.2.labelMale>
+  <Hare.lifeStages.2.labelMalePlural>harhanar</Hare.lifeStages.2.labelMalePlural>
+  <Hare.lifeStages.2.labelFemale>harhona</Hare.lifeStages.2.labelFemale>
+  <Hare.lifeStages.2.labelFemalePlural>harhonor</Hare.lifeStages.2.labelFemalePlural>
+  <Hare.labelMale>harhane</Hare.labelMale>
+  <Hare.labelMalePlural>harhanar</Hare.labelMalePlural>
+  <Hare.labelFemale>harhona</Hare.labelFemale>
+  <Hare.labelFemalePlural>harhonor</Hare.labelFemalePlural>
+
+  <Snowhare.label>snöhare</Snowhare.label>
+  <Snowhare.labelPlural>snöharar</Snowhare.labelPlural>
+  <Snowhare.lifeStages.0.label>snöhareunge</Snowhare.lifeStages.0.label>
+  <Snowhare.lifeStages.0.labelPlural>snöhareungar</Snowhare.lifeStages.0.labelPlural>
+  <Snowhare.lifeStages.0.labelMale>snöhareunge</Snowhare.lifeStages.0.labelMale>
+  <Snowhare.lifeStages.0.labelMalePlural>snöhareungar</Snowhare.lifeStages.0.labelMalePlural>
+  <Snowhare.lifeStages.0.labelFemale>snöhareunge</Snowhare.lifeStages.0.labelFemale>
+  <Snowhare.lifeStages.0.labelFemalePlural>snöhareungar</Snowhare.lifeStages.0.labelFemalePlural>
+  <Snowhare.lifeStages.1.label>snöhareunge</Snowhare.lifeStages.1.label>
+  <Snowhare.lifeStages.1.labelPlural>snöhareungar</Snowhare.lifeStages.1.labelPlural>
+  <Snowhare.lifeStages.1.labelMale>snöhareunge</Snowhare.lifeStages.1.labelMale>
+  <Snowhare.lifeStages.1.labelMalePlural>snöhareungar</Snowhare.lifeStages.1.labelMalePlural>
+  <Snowhare.lifeStages.1.labelFemale>snöhareunge</Snowhare.lifeStages.1.labelFemale>
+  <Snowhare.lifeStages.1.labelFemalePlural>snöhareungar</Snowhare.lifeStages.1.labelFemalePlural>
+  <Snowhare.lifeStages.2.label>snöhare</Snowhare.lifeStages.2.label>
+  <Snowhare.lifeStages.2.labelPlural>snöharar</Snowhare.lifeStages.2.labelPlural>
+  <Snowhare.lifeStages.2.labelMale>snöharehane</Snowhare.lifeStages.2.labelMale>
+  <Snowhare.lifeStages.2.labelMalePlural>snöharehanar</Snowhare.lifeStages.2.labelMalePlural>
+  <Snowhare.lifeStages.2.labelFemale>snöharehona</Snowhare.lifeStages.2.labelFemale>
+  <Snowhare.lifeStages.2.labelFemalePlural>snöharehonor</Snowhare.lifeStages.2.labelFemalePlural>
+  <Snowhare.labelMale>snöharehane</Snowhare.labelMale>
+  <Snowhare.labelMalePlural>snöharehanar</Snowhare.labelMalePlural>
+  <Snowhare.labelFemale>snöharehona</Snowhare.labelFemale>
+  <Snowhare.labelFemalePlural>snöharehonor</Snowhare.labelFemalePlural>
+
+
 </LanguageData>

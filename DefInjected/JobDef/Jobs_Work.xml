@@ -1,76 +1,77 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-	<!-- Item hauling -->
-	
-    <HaulToCell.reportString>släpar TargetA.</HaulToCell.reportString>
-    <HaulToContainer.reportString>släpar TargetA.</HaulToContainer.reportString>
-    
-	
-	<!-- Special hauling -->
-	
-    <Steal.reportString>stjäl TargetA.</Steal.reportString>
-    <Kidnap.reportString>kidnappar TargetA.</Kidnap.reportString>
-    
-	
-	<!-- Pawn hauling -->
-	
-    <Rescue.reportString>räddar TargetA.</Rescue.reportString>
-    <CarryToCryptosleepCasket.reportString>bär TargetA till en kryptosömnkista.</CarryToCryptosleepCasket.reportString>
-    <Capture.reportString>fångar TargetA.</Capture.reportString>
-    <Arrest.reportString>arresterar TargetA.</Arrest.reportString>
-    <ReleasePrisoner.reportString>Friger TargetA.</ReleasePrisoner.reportString>
-    <EscortPrisonerToBed.reportString>eskorterar fången TargetA.</EscortPrisonerToBed.reportString>
-    <TakeWoundedPrisonerToBed.reportString>tar skadad fånge TargetA.</TakeWoundedPrisonerToBed.reportString>
-    <TakeToBedToOperate.reportString>hjälper TargetA till säng.</TakeToBedToOperate.reportString>
-    
-	
-	<!-- Animal handling -->
-	
-	<Slaughter.reportString>slaktar TargetA.</Slaughter.reportString>
-    <Milk.reportString>mjölkar TargetA.</Milk.reportString>
-    <Shear.reportString>klipper TargetA.</Shear.reportString>
-    <Tame.reportString>tämjer TargetA.</Tame.reportString>
-    <Train.reportString>tränar TargetA.</Train.reportString>
+
+  <!-- Item hauling -->
+
+  <HaulToCell.reportString>fraktar TargetA.</HaulToCell.reportString>
+  <HaulToContainer.reportString>fraktar TargetA.</HaulToContainer.reportString>
 
 
-	<!-- Construction and repair -->
-    
-    <PlaceNoCostFrame.reportString>bygger TargetA.</PlaceNoCostFrame.reportString>
-    <FinishFrame.reportString>bygger TargetA.</FinishFrame.reportString>
-    <Deconstruct.reportString>river TargetA.</Deconstruct.reportString>
-    <Uninstall.reportString>demonterar TargetA.</Uninstall.reportString>
-    <Repair.reportString>reparerar TargetA.</Repair.reportString>
-    <FixBrokenDownBuilding.reportString>ersätter skadade komponenter i TargetA.</FixBrokenDownBuilding.reportString>
-    <BuildRoof.reportString>monterar tak.</BuildRoof.reportString>
-    <RemoveRoof.reportString>river tak.</RemoveRoof.reportString>
+  <!-- Special hauling -->
+
+  <Steal.reportString>stjäl TargetA.</Steal.reportString>
+  <Kidnap.reportString>kidnappar TargetA.</Kidnap.reportString>
+  <CarryDownedPawnToExit.reportString>bär TargetA.</CarryDownedPawnToExit.reportString>
 
 
-	<!-- Medical -->
-    
-    <FeedPatient.reportString>matar TargetB med TargetA.</FeedPatient.reportString>
-    <TendPatient.reportString>tar hand om TargetA.</TendPatient.reportString>
-	
-	
-	<!-- Misc -->
-	
-    <DeliverFood.reportString>matar TargetB med TargetA.</DeliverFood.reportString>
-    <DoBill.reportString>utför beställning vid TargetA.</DoBill.reportString>
-    <OperateDeepDrill.reportString>borrar vid TargetA.</OperateDeepDrill.reportString>
-    <Clean.reportString>städar TargetA.</Clean.reportString>
-    <Research.reportString>forskar.</Research.reportString>
-    <Hunt.reportString>jagar TargetA.</Hunt.reportString>
-    <UseCommsConsole.reportString>använder kommunikationskonsoll.</UseCommsConsole.reportString>
-    <Mine.reportString>bryter TargetA.</Mine.reportString>
-    <SmoothFloor.reportString>jämnar ut golv.</SmoothFloor.reportString>
-    <RemoveFloor.reportString>river upp golv.</RemoveFloor.reportString>
-    <Sow.reportString>sår TargetA.</Sow.reportString>
-    <Harvest.reportString>skördar TargetA.</Harvest.reportString>
-    <CutPlant.reportString>hugger TargetA.</CutPlant.reportString>
-    <PrisonerFriendlyChat.reportString>småpratar med fången TargetA.</PrisonerFriendlyChat.reportString>
-    <PrisonerAttemptRecruit.reportString>försöker rekrytera TargetA.</PrisonerAttemptRecruit.reportString>
-    <PrisonerExecution.reportString>avrättar TargetA.</PrisonerExecution.reportString>
-    <BuryCorpse.reportString>begraver TargetA.</BuryCorpse.reportString>
+  <!-- Pawn hauling -->
 
-    
+  <Rescue.reportString>räddar TargetA.</Rescue.reportString>
+  <CarryToCryptosleepCasket.reportString>bär TargetA till en kryptosömnkista.</CarryToCryptosleepCasket.reportString>
+  <Capture.reportString>fångar TargetA.</Capture.reportString>
+  <Arrest.reportString>arresterar TargetA.</Arrest.reportString>
+  <ReleasePrisoner.reportString>Friger TargetA.</ReleasePrisoner.reportString>
+  <EscortPrisonerToBed.reportString>eskorterar fången TargetA.</EscortPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>tar skadad fånge TargetA.</TakeWoundedPrisonerToBed.reportString>
+  <TakeToBedToOperate.reportString>hjälper TargetA till säng.</TakeToBedToOperate.reportString>
+
+
+  <!-- Animal handling -->
+
+  <Slaughter.reportString>slaktar TargetA.</Slaughter.reportString>
+  <Milk.reportString>mjölkar TargetA.</Milk.reportString>
+  <Shear.reportString>klipper TargetA.</Shear.reportString>
+  <Tame.reportString>tämjer TargetA.</Tame.reportString>
+  <Train.reportString>tränar TargetA.</Train.reportString>
+
+
+  <!-- Construction and repair -->
+
+  <PlaceNoCostFrame.reportString>bygger TargetA.</PlaceNoCostFrame.reportString>
+  <FinishFrame.reportString>bygger TargetA.</FinishFrame.reportString>
+  <Deconstruct.reportString>river TargetA.</Deconstruct.reportString>
+  <Uninstall.reportString>demonterar TargetA.</Uninstall.reportString>
+  <Repair.reportString>reparerar TargetA.</Repair.reportString>
+  <FixBrokenDownBuilding.reportString>ersätter skadade komponenter i TargetA.</FixBrokenDownBuilding.reportString>
+  <BuildRoof.reportString>monterar tak.</BuildRoof.reportString>
+  <RemoveRoof.reportString>river tak.</RemoveRoof.reportString>
+
+
+  <!-- Medical -->
+
+  <FeedPatient.reportString>matar TargetB med TargetA.</FeedPatient.reportString>
+  <TendPatient.reportString>tar hand om TargetA.</TendPatient.reportString>
+
+
+  <!-- Misc -->
+
+  <DeliverFood.reportString>matar TargetB med TargetA.</DeliverFood.reportString>
+  <DoBill.reportString>utför beställning vid TargetA.</DoBill.reportString>
+  <OperateDeepDrill.reportString>borrar vid TargetA.</OperateDeepDrill.reportString>
+  <Clean.reportString>städar TargetA.</Clean.reportString>
+  <Research.reportString>forskar.</Research.reportString>
+  <Hunt.reportString>jagar TargetA.</Hunt.reportString>
+  <UseCommsConsole.reportString>använder kommunikationskonsoll.</UseCommsConsole.reportString>
+  <Mine.reportString>bryter TargetA.</Mine.reportString>
+  <SmoothFloor.reportString>jämnar ut golv.</SmoothFloor.reportString>
+  <RemoveFloor.reportString>river upp golv.</RemoveFloor.reportString>
+  <Sow.reportString>sår TargetA.</Sow.reportString>
+  <Harvest.reportString>skördar TargetA.</Harvest.reportString>
+  <CutPlant.reportString>hugger TargetA.</CutPlant.reportString>
+  <PrisonerFriendlyChat.reportString>småpratar med fången TargetA.</PrisonerFriendlyChat.reportString>
+  <PrisonerAttemptRecruit.reportString>försöker rekrytera TargetA.</PrisonerAttemptRecruit.reportString>
+  <PrisonerExecution.reportString>avrättar TargetA.</PrisonerExecution.reportString>
+  <BuryCorpse.reportString>begraver TargetA.</BuryCorpse.reportString>
+
+
 </LanguageData>

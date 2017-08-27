@@ -1,125 +1,145 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <Firefighter.labelShort>Släck eld</Firefighter.labelShort>
-    <Firefighter.description>Släck bränder i kolonin.</Firefighter.description>
-    <Firefighter.pawnLabel>Brandman</Firefighter.pawnLabel>
-    <Firefighter.gerundLabel>Bekämpar brand</Firefighter.gerundLabel>
-    <Firefighter.verb>Släck</Firefighter.verb>
-    
-    <PatientEmergency.labelShort>Patient</PatientEmergency.labelShort>
-    <PatientEmergency.description>Gå till en medicinsk säng för behandling om du har ett omedelbart livshotande hälsotillstånd.</PatientEmergency.description>
-    <PatientEmergency.pawnLabel>Patient</PatientEmergency.pawnLabel>
-    <PatientEmergency.gerundLabel>Patient</PatientEmergency.gerundLabel>
-    <PatientEmergency.verb>Bli patient</PatientEmergency.verb>
-    
-    <Doctor.labelShort>Doktor</Doctor.labelShort>
-    <Doctor.description>Behandla de sjuka, ge dem mat, muntra upp dem, och utför operationer. Läkare kommer att ta hand om både kolonister och fångar.</Doctor.description>
-    <Doctor.pawnLabel>Läkare</Doctor.pawnLabel>
-    <Doctor.gerundLabel>Behandlar</Doctor.gerundLabel>
-    <Doctor.verb>Ta hand om</Doctor.verb>
-    
-    <PatientBedRest.labelShort>Sängvila</PatientBedRest.labelShort>
-    <PatientBedRest.description>Vila i sängen för att återhämta sig från icke-omedelbart livshotande medicinska problem.</PatientBedRest.description>
-    <PatientBedRest.pawnLabel>Sängvila</PatientBedRest.pawnLabel>
-    <PatientBedRest.gerundLabel>Vilar i sängen</PatientBedRest.gerundLabel>
-    <PatientBedRest.verb>Blir patient</PatientBedRest.verb>
-    
-    <Flicker.labelShort>Lyktgubbe</Flicker.labelShort>
-    <Flicker.description>Klickar på knappar. Till exempel när du anger att strömmen ett torn skall växlas, så måste en lyktgubbe manuellt klicka på den för att växla strömmen.</Flicker.description>
-    <Flicker.pawnLabel>Lyktgubbe</Flicker.pawnLabel>
-    <Flicker.gerundLabel>Klickar</Flicker.gerundLabel>
-    <Flicker.verb>Klicka</Flicker.verb>
-    
-    <Warden.labelShort>Vakt</Warden.labelShort>
-    <Warden.description>Hantera, utfodra, snacka med och rekrytera fångar.</Warden.description>
-    <Warden.pawnLabel>Vakt</Warden.pawnLabel>
-    <Warden.gerundLabel>Vaktar</Warden.gerundLabel>
-    <Warden.verb>Vakta</Warden.verb>
-    
-    <Handling.labelShort>Hantera</Handling.labelShort>
-    <Handling.description>Tämj, träna, skörd resurser från och slakta djur.</Handling.description>
-    <Handling.pawnLabel>Djurhanterare</Handling.pawnLabel>
-    <Handling.gerundLabel>Hanterar</Handling.gerundLabel>
-    <Handling.verb>Hantera</Handling.verb>
-    
-    <Cooking.labelShort>Kock</Cooking.labelShort>
-    <Cooking.description>Lagar mat och styckar kött.</Cooking.description>
-    <Cooking.pawnLabel>Kock</Cooking.pawnLabel>
-    <Cooking.gerundLabel>Tillagar</Cooking.gerundLabel>
-    <Cooking.verb>Tillaga</Cooking.verb>
-    
-    <Hunting.labelShort>Jaga</Hunting.labelShort>
-    <Hunting.description>Döda djur som har utsetts att jagas.</Hunting.description>
-    <Hunting.pawnLabel>Jägare</Hunting.pawnLabel>
-    <Hunting.gerundLabel>Jagar</Hunting.gerundLabel>
-    <Hunting.verb>Jaga</Hunting.verb>
-    
-    <Construction.labelShort>Bygg</Construction.labelShort>
-    <Construction.description>Bygger saker som du har utsett och fixa skadade eller förstörda byggnader.</Construction.description>
-    <Construction.pawnLabel>Byggare</Construction.pawnLabel>
-    <Construction.gerundLabel>Bygger</Construction.gerundLabel>
-    <Construction.verb>Bygg</Construction.verb>
-    
-    <Growing.labelShort>Odla</Growing.labelShort>
-    <Growing.description>Så frön och skörda odlade grödor.</Growing.description>
-    <Growing.pawnLabel>Odlare</Growing.pawnLabel>
-    <Growing.gerundLabel>Odlar</Growing.gerundLabel>
-    <Growing.verb>Odla</Growing.verb>
-    
-    <Mining.labelShort>Gruvarbete</Mining.labelShort>
-    <Mining.description>Gräv ut områden som är har utsetts för gruvdrift.</Mining.description>
-    <Mining.pawnLabel>Gruvarbetare</Mining.pawnLabel>
-    <Mining.gerundLabel>Arbetar med gruvarbete</Mining.gerundLabel>
-    <Mining.verb>Gräv</Mining.verb>
-    
-    <PlantCutting.labelShort>Avverka</PlantCutting.labelShort>
-    <PlantCutting.description>Beskär eller skörda angivna växter.</PlantCutting.description>
-    <PlantCutting.pawnLabel>Växt avverkare</PlantCutting.pawnLabel>
-    <PlantCutting.gerundLabel>Avverakar växter</PlantCutting.gerundLabel>
-    <PlantCutting.verb>Avverka</PlantCutting.verb>
-    
-    <Smithing.labelShort>Smid</Smithing.labelShort>
-    <Smithing.description>Smid vapen och verktyg från råvaror, antingen som en smed eller genom maskinbearbetning.</Smithing.description>
-    <Smithing.pawnLabel>Smed</Smithing.pawnLabel>
-    <Smithing.gerundLabel>Smider</Smithing.gerundLabel>
-    <Smithing.verb>Smid vid</Smithing.verb>
-    
-    <Tailoring.labelShort>Sy</Tailoring.labelShort>
-    <Tailoring.description>Sy kläder från råvaror.</Tailoring.description>
-    <Tailoring.pawnLabel>Skräddare</Tailoring.pawnLabel>
-    <Tailoring.gerundLabel>Syr</Tailoring.gerundLabel>
-    <Tailoring.verb>Sy vid</Tailoring.verb>
-    
-    <Art.labelShort>Konst</Art.labelShort>
-    <Art.description>Skapa vackra konstverk från råvaror.</Art.description>
-    <Art.pawnLabel>Konstnär</Art.pawnLabel>
-    <Art.gerundLabel>Skapar konst</Art.gerundLabel>
-    <Art.verb>Skapa konst vid</Art.verb>
-    
-    <Crafting.labelShort>Tillverka</Crafting.labelShort>
-    <Crafting.description>Gör allmän lågutbildad arbetskraft vid arbetsstationer. Detta inkluderar hugga sten, smälta med mera.</Crafting.description>
-    <Crafting.pawnLabel>Hantverkare</Crafting.pawnLabel>
-    <Crafting.gerundLabel>Tillverkar</Crafting.gerundLabel>
-    <Crafting.verb>Tillverka vid</Crafting.verb>
-    
-    <Hauling.labelShort>Släpa</Hauling.labelShort>
-    <Hauling.description>Bära saker till där de behöver vara.</Hauling.description>
-    <Hauling.pawnLabel>Börare</Hauling.pawnLabel>
-    <Hauling.gerundLabel>Släpar</Hauling.gerundLabel>
-    <Hauling.verb>Släpar</Hauling.verb>
-    
-    <Cleaning.labelShort>Städa</Cleaning.labelShort>
-    <Cleaning.description>Skottar snö och städar golvet i hemområdet.</Cleaning.description>
-    <Cleaning.pawnLabel>Städare</Cleaning.pawnLabel>
-    <Cleaning.gerundLabel>Städar</Cleaning.gerundLabel>
-    <Cleaning.verb>Städa</Cleaning.verb>
-    
-    <Research.labelShort>Forska</Research.labelShort>
-    <Research.description>Utför forskningsarbete</Research.description>
-    <Research.pawnLabel>Forskare</Research.pawnLabel>
-    <Research.gerundLabel>Forskar</Research.gerundLabel>
-    <Research.verb>Forska vid</Research.verb>
-    
-	
+
+  <Firefighter.label>Brandman</Firefighter.label>
+  <Firefighter.description>Släck bränder i kolonin.</Firefighter.description>
+  <Firefighter.labelShort>Släck eld</Firefighter.labelShort>
+  <Firefighter.pawnLabel>Brandman</Firefighter.pawnLabel>
+  <Firefighter.gerundLabel>Bekämpar brand</Firefighter.gerundLabel>
+  <Firefighter.verb>Släck</Firefighter.verb>
+
+  <PatientEmergency.label>Patient</PatientEmergency.label>
+  <PatientEmergency.description>Gå till en medicinsk säng för behandling om du har ett omedelbart livshotande hälsotillstånd.</PatientEmergency.description>
+  <PatientEmergency.labelShort>Patient</PatientEmergency.labelShort>
+  <PatientEmergency.pawnLabel>Patient</PatientEmergency.pawnLabel>
+  <PatientEmergency.gerundLabel>Patient</PatientEmergency.gerundLabel>
+  <PatientEmergency.verb>Bli patient</PatientEmergency.verb>
+
+  <Doctor.label>Doktor</Doctor.label>
+  <Doctor.description>Behandla de sjuka, ge dem mat, muntra upp dem, och utför operationer. Läkare kommer att ta hand om både kolonister och fångar.</Doctor.description>
+  <Doctor.labelShort>Doktor</Doctor.labelShort>
+  <Doctor.pawnLabel>Läkare</Doctor.pawnLabel>
+  <Doctor.gerundLabel>Behandlar</Doctor.gerundLabel>
+  <Doctor.verb>Behandla</Doctor.verb>
+
+  <PatientBedRest.label>Sängvila</PatientBedRest.label>
+  <PatientBedRest.description>Vila i sängen för att återhämta sig från icke-omedelbart livshotande medicinska problem.</PatientBedRest.description>
+  <PatientBedRest.labelShort>Sängvila</PatientBedRest.labelShort>
+  <PatientBedRest.pawnLabel>Sängvila</PatientBedRest.pawnLabel>
+  <PatientBedRest.gerundLabel>Vilar i sängen</PatientBedRest.gerundLabel>
+  <PatientBedRest.verb>Blir patient</PatientBedRest.verb>
+
+  <Flicker.label>Klicka</Flicker.label>
+  <Flicker.description>Klickar på knappar. Till exempel när du anger att strömmen ett torn skall växlas, så måste en lyktgubbe manuellt klicka på den för att växla strömmen.</Flicker.description>
+  <Flicker.labelShort>Lyktgubbe</Flicker.labelShort>
+  <Flicker.pawnLabel>Lyktgubbe</Flicker.pawnLabel>
+  <Flicker.gerundLabel>Klickar</Flicker.gerundLabel>
+  <Flicker.verb>Klicka</Flicker.verb>
+
+  <Warden.label>Vakt</Warden.label>
+  <Warden.description>Hantera, utfodra, snacka med och rekrytera fångar.</Warden.description>
+  <Warden.labelShort>Vakt</Warden.labelShort>
+  <Warden.pawnLabel>Vakt</Warden.pawnLabel>
+  <Warden.gerundLabel>Vaktar</Warden.gerundLabel>
+  <Warden.verb>Vakta</Warden.verb>
+
+  <Handling.label>Hantera</Handling.label>
+  <Handling.description>Tämj, träna, skörd resurser från och slakta djur.</Handling.description>
+  <Handling.labelShort>Hantera</Handling.labelShort>
+  <Handling.pawnLabel>Djurhanterare</Handling.pawnLabel>
+  <Handling.gerundLabel>Hanterar</Handling.gerundLabel>
+  <Handling.verb>Hantera</Handling.verb>
+
+  <Cooking.label>Kock</Cooking.label>
+  <Cooking.description>Lagar mat och styckar kött.</Cooking.description>
+  <Cooking.labelShort>Kock</Cooking.labelShort>
+  <Cooking.pawnLabel>Kock</Cooking.pawnLabel>
+  <Cooking.gerundLabel>Tillagar</Cooking.gerundLabel>
+  <Cooking.verb>Tillaga</Cooking.verb>
+
+  <Hunting.label>Jaga</Hunting.label>
+  <Hunting.description>Döda djur som har utsetts att jagas.</Hunting.description>
+  <Hunting.labelShort>Jaga</Hunting.labelShort>
+  <Hunting.pawnLabel>Jägare</Hunting.pawnLabel>
+  <Hunting.gerundLabel>Jagar</Hunting.gerundLabel>
+  <Hunting.verb>Jaga</Hunting.verb>
+
+  <Construction.label>Bygg</Construction.label>
+  <Construction.description>Bygger saker som du har utsett och fixa skadade eller förstörda byggnader.</Construction.description>
+  <Construction.labelShort>Bygg</Construction.labelShort>
+  <Construction.pawnLabel>Byggare</Construction.pawnLabel>
+  <Construction.gerundLabel>Bygger</Construction.gerundLabel>
+  <Construction.verb>Bygg</Construction.verb>
+
+  <Growing.label>Odla</Growing.label>
+  <Growing.description>Så frön och skörda odlade grödor.</Growing.description>
+  <Growing.labelShort>Odla</Growing.labelShort>
+  <Growing.pawnLabel>Odlare</Growing.pawnLabel>
+  <Growing.gerundLabel>Odlar</Growing.gerundLabel>
+  <Growing.verb>Odla</Growing.verb>
+
+  <Mining.label>Gruva</Mining.label>
+  <Mining.description>Gräv ut områden som är har utsetts för gruvdrift.</Mining.description>
+  <Mining.labelShort>Gruvarbete</Mining.labelShort>
+  <Mining.pawnLabel>Gruvarbetare</Mining.pawnLabel>
+  <Mining.gerundLabel>Arbetar med gruvarbete</Mining.gerundLabel>
+  <Mining.verb>Gruva</Mining.verb>
+
+  <PlantCutting.label>Avverka</PlantCutting.label>
+  <PlantCutting.description>Beskär eller skörda angivna växter.</PlantCutting.description>
+  <PlantCutting.labelShort>Avverka</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>Växt avverkare</PlantCutting.pawnLabel>
+  <PlantCutting.gerundLabel>Avverakar växter</PlantCutting.gerundLabel>
+  <PlantCutting.verb>Avverka</PlantCutting.verb>
+
+  <Smithing.label>Smid</Smithing.label>
+  <Smithing.description>Smid vapen och verktyg från råvaror, antingen som en smed eller genom maskinbearbetning.</Smithing.description>
+  <Smithing.labelShort>Smid</Smithing.labelShort>
+  <Smithing.pawnLabel>Smed</Smithing.pawnLabel>
+  <Smithing.gerundLabel>Smider</Smithing.gerundLabel>
+  <Smithing.verb>Smid vid</Smithing.verb>
+
+  <Tailoring.label>Sy</Tailoring.label>
+  <Tailoring.description>Sy kläder från råvaror.</Tailoring.description>
+  <Tailoring.labelShort>Sy</Tailoring.labelShort>
+  <Tailoring.pawnLabel>Skräddare</Tailoring.pawnLabel>
+  <Tailoring.gerundLabel>Syr</Tailoring.gerundLabel>
+  <Tailoring.verb>Sy vid</Tailoring.verb>
+
+  <Art.label>Konst</Art.label>
+  <Art.description>Skapa vackra konstverk från råvaror.</Art.description>
+  <Art.labelShort>Konst</Art.labelShort>
+  <Art.pawnLabel>Konstnär</Art.pawnLabel>
+  <Art.gerundLabel>Skapar konst</Art.gerundLabel>
+  <Art.verb>Skapa konst vid</Art.verb>
+
+  <Crafting.label>Tillverka</Crafting.label>
+  <Crafting.description>Gör allmän lågutbildad arbetskraft vid arbetsstationer. Detta inkluderar hugga sten, smälta med mera.</Crafting.description>
+  <Crafting.labelShort>Tillverka</Crafting.labelShort>
+  <Crafting.pawnLabel>Hantverkare</Crafting.pawnLabel>
+  <Crafting.gerundLabel>Tillverkar</Crafting.gerundLabel>
+  <Crafting.verb>Tillverka vid</Crafting.verb>
+
+  <Hauling.label>Frakta</Hauling.label>
+  <Hauling.description>Frakta saker till där de behöver vara.</Hauling.description>
+  <Hauling.labelShort>Frakta</Hauling.labelShort>
+  <Hauling.pawnLabel>Bärare</Hauling.pawnLabel>
+  <Hauling.gerundLabel>Fraktar</Hauling.gerundLabel>
+  <Hauling.verb>Fraktar</Hauling.verb>
+
+  <Cleaning.label>Städa</Cleaning.label>
+  <Cleaning.description>Skottar snö och städar golvet i hemområdet.</Cleaning.description>
+  <Cleaning.labelShort>Städa</Cleaning.labelShort>
+  <Cleaning.pawnLabel>Städare</Cleaning.pawnLabel>
+  <Cleaning.gerundLabel>Städar</Cleaning.gerundLabel>
+  <Cleaning.verb>Städa</Cleaning.verb>
+
+  <Research.label>Forska</Research.label>
+  <Research.description>Utför forskningsarbete</Research.description>
+  <Research.labelShort>Forska</Research.labelShort>
+  <Research.pawnLabel>Forskare</Research.pawnLabel>
+  <Research.gerundLabel>Forskar</Research.gerundLabel>
+  <Research.verb>Forska vid</Research.verb>
+
+
 </LanguageData>

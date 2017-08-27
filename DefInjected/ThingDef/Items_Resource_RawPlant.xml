@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <RawPotatoes.label>potatis</RawPotatoes.label>
-    <RawPotatoes.description>Rå potatis.</RawPotatoes.description>
-    
-    <RawRice.label>ris</RawRice.label>
-    <RawRice.description>Rå ris.</RawRice.description>
-    
-    <RawAgave.label>agavefrukt</RawAgave.label>
-    <RawAgave.description>Rå avgavefrukt.</RawAgave.description>
-    
-    <RawCorn.label>majs</RawCorn.label>
-    <RawCorn.description>Rå majs. Trevligt att äta även rå</RawCorn.description>
-    
-    <RawBerries.label>bär</RawBerries.label>
-    <RawBerries.description>Blandade bär. Trevligt att äta även råa.</RawBerries.description>
-    
-	
-	<!-- Plant matter (inedible by people) -->
-	
-    <Hay.label>hö</Hay.label>
-    <Hay.description>Näringsrika gräs och skott, skördas och sammanpressas för lagring. Hö är bra foder, men oätliga för människor.</Hay.description>
-    
-    <RawHops.label>humle</RawHops.label>
-    <RawHops.description>Rå humle. En smakämnen och konserveringsmedel som är nödvändigt för att göra öl.</RawHops.description>
-    
-    <PsychoidLeaves.label>psychitlöv</PsychoidLeaves.label>
-    <PsychoidLeaves.description>Råa löv skördare ifrån psychitplantan.</PsychoidLeaves.description>
-    
-    <SmokeleafLeaves.label>rökbladslöv</SmokeleafLeaves.label>
-    <SmokeleafLeaves.description>Råa löv skördade från rökbladsplantan. Kan rullas till en rökbar joint vid en tillverkningsplats.</SmokeleafLeaves.description>
-    
-	
+
+  <RawPotatoes.label>potatis</RawPotatoes.label>
+  <RawPotatoes.description>Rå potatis.</RawPotatoes.description>
+
+  <RawRice.label>ris</RawRice.label>
+  <RawRice.description>Rå ris.</RawRice.description>
+
+  <RawAgave.label>agavefrukt</RawAgave.label>
+  <RawAgave.description>Rå avgavefrukt.</RawAgave.description>
+
+  <RawCorn.label>majs</RawCorn.label>
+  <RawCorn.description>Rå majs. Trevligt att äta även rå</RawCorn.description>
+
+  <RawBerries.label>bär</RawBerries.label>
+  <RawBerries.description>Blandade bär. Trevligt att äta även råa.</RawBerries.description>
+
+
+  <!-- Plant matter (inedible by people) -->
+
+  <Hay.label>hö</Hay.label>
+  <Hay.description>Näringsrika gräs och skott, skördas och sammanpressas för lagring. Hö är bra foder, men oätliga för människor.</Hay.description>
+
+  <RawHops.label>humle</RawHops.label>
+  <RawHops.description>Rå humle. En smakämnen och konserveringsmedel som är nödvändigt för att göra öl.</RawHops.description>
+
+  <PsychoidLeaves.label>psychitlöv</PsychoidLeaves.label>
+  <PsychoidLeaves.description>Råa löv skördare ifrån psychitplantan.</PsychoidLeaves.description>
+
+  <SmokeleafLeaves.label>rökbladslöv</SmokeleafLeaves.label>
+  <SmokeleafLeaves.description>Råa löv skördade från rökbladsplantan. Kan rullas till en rökbar cigarr vid en tillverkningsplats.</SmokeleafLeaves.description>
+
+
 </LanguageData>
