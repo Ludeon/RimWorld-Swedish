@@ -2,7 +2,7 @@
 <LanguageData>
 
   <FactionGreetingHostile>{0} häver ur sig ett par tillmälen mot skärmen och lägger på.</FactionGreetingHostile>
-  <FactionGreetingWary>{0} hälsar försiktigt på {1} och undrar varför HE stör.</FactionGreetingWary>
+  <FactionGreetingWary>{0} hälsar försiktigt på {1} och undrar varför [PAWN_pronoun] stör.</FactionGreetingWary>
   <FactionGreetingWarm>{0} hälsar på {1} och undrar hur dagen varit i kolonin.</FactionGreetingWarm>
 
   <Disconnect>Lägg på</Disconnect>

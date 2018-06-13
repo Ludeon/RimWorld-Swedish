@@ -7,7 +7,7 @@
   <BondedWithAnimal.rulePack.rulesStrings.2>image->[human_nameFull] skapar ett djupt band med [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.2>
   <BondedWithAnimal.rulePack.rulesStrings.3>image->[human_nameFull] upptäcker att [human_possessive] verkligen älskar [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.3>
   <BondedWithAnimal.rulePack.rulesStrings.4>circumstance_phrase->medans andra djur ser på</BondedWithAnimal.rulePack.rulesStrings.4>
-  <BondedWithAnimal.rulePack.rulesStrings.5>circumstance_phrase->medans HE tittar i [animal_nameShortDef]'s ögon</BondedWithAnimal.rulePack.rulesStrings.5>
+  <BondedWithAnimal.rulePack.rulesStrings.5>circumstance_phrase->medans [PAWN_pronoun] tittar i [animal_nameShortDef]'s ögon</BondedWithAnimal.rulePack.rulesStrings.5>
   <BondedWithAnimal.rulePack.rulesStrings.6>circumstance_phrase->med en känsla av tillfredsställelse</BondedWithAnimal.rulePack.rulesStrings.6>
   <BondedWithAnimal.rulePack.rulesStrings.7>desc_sentence->[animal_nameShortDef] gosar upp sig jämte [human_nameShortDef].</BondedWithAnimal.rulePack.rulesStrings.7>
   <BondedWithAnimal.rulePack.rulesStrings.8>desc_sentence->[animal_nameShortDef] ser sömnig och drucken med kärlek.</BondedWithAnimal.rulePack.rulesStrings.8>

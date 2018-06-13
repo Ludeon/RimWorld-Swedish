@@ -37,13 +37,13 @@
 
   <TraderArrival>Ett handelsskepp passerar i närheten.\n\nDe är kända som {0}. De är en {1}.</TraderArrival>
 
-  <SingleTravelerPassing>En {0} från {1} passerar i närheten. HECAP heter {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>En {0} från {1} passerar i närheten. [PAWN_pronoun] heter {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>En grupp resenärer från {0} passerar i närheten.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Besökare</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>En {0} från {1} är på besök i kolonin.\n\nHECAP heter {2}.</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP verkar att ha några föremål att byta.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP Är fraktionens ledare.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives>En {0} från {1} är på besök i kolonin.\n\n[PAWN_pronoun] heter {2}.</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] verkar att ha några föremål att byta.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] Är fraktionens ledare.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Besökare</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>En grupp från {0} är på besök i kolonin.</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nDom verkar att ha några föremål att byta.</GroupVisitorsArriveTraderInfo>
@@ -51,7 +51,7 @@
   <VisitorsLeaving>Besökare från {0} lämnar.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Vandrare ansluter</LetterLabelWandererJoin>
-  <WandererJoin>En {0} som heter NAME har anlätt och ansluter sig till din koloni. HECAP är en {1}.</WandererJoin>
+  <WandererJoin>En {0} som heter [PAWN_nameDef] har anlätt och ansluter sig till din koloni. [PAWN_pronoun] är en {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Människojagande flock</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>En flock människojagande {0} har siktas i området. Dom kommer att stanna i områded och jaga människor.\n\nDom kommer inte att passera igenom dörrar, så om ni stannar innomhus är ni säkra. Dom kommer intr att attackera inaktiva kulsprutetorn, så se till att stäng av dessa om du vill rädda dom.\n\nDom kommer att lämna området om några dagar.</ManhunterPackArrived>
@@ -85,7 +85,7 @@
 
   <!-- Refugee chased -->
   <RefugeeChasedTitle>Flykting jagad av {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>En {1} vid namn {0} anropar på hjälp. HECAP bir jagad av {2} från {3}!\n\nHECAP ber om säkerhet och erbjuder sig att ansluta sig till er koloni. Biologiskt är HE {4} år gammal.\n\nVarning - Om ni accepterar kommer ni får strida mot {2} som är hack i häl på HIM.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>En {1} vid namn {0} anropar på hjälp. [PAWN_pronoun] bir jagad av {2} från {3}!\n\n[PAWN_pronoun] ber om säkerhet och erbjuder sig att ansluta sig till er koloni. Biologiskt är [PAWN_pronoun] {4} år gammal.\n\nVarning - Om ni accepterar kommer ni får strida mot {2} som är hack i häl på [PAWN_objective].</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Erbjud säkerhet</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Strunta i meddelandet</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} skriker i panik genom den metalliska högtalaren innan du stänger av sändningen.</RefugeeChasedRejected>
@@ -114,7 +114,7 @@
 
   <!-- Ransom demand -->
   <RansomDemandTitle>Lösen begärd från {0}</RansomDemandTitle>
-  <RansomDemand>{1} kontaktar er via radio. Dom håller en föredetta kolonist {0} gisslan.\n\nDom är villiga att frige HIM i utbyte mot {2} silver.</RansomDemand>
+  <RansomDemand>{1} kontaktar er via radio. Dom håller en föredetta kolonist {0} gisslan.\n\nDom är villiga att frige [PAWN_objective] i utbyte mot {2} silver.</RansomDemand>
   <RansomDemand_Accept>Acceptera</RansomDemand_Accept>
   <RansomDemand_Reject>Avvisa</RansomDemand_Reject>
 

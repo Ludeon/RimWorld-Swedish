@@ -22,7 +22,7 @@
   <KnowColonistExecuted.stages.3.description>En kolonist dog på grund av att kolonin tog kroppsdelar från honom. Det är hemskt.</KnowColonistExecuted.stages.3.description>
 
   <KnowPrisonerDiedInnocent.stages.0.label>oskyldig fånge dog</KnowPrisonerDiedInnocent.stages.0.label>
-  <KnowPrisonerDiedInnocent.stages.0.description>En av våra fångar dog trots att HE var harmlös. Vi borde kunna ta hand om våra fångar. Om vi ville ha dem döda, skulle vi ha åtminstone gjort en ordnad avrättning snarare än tillåta detta barbari.</KnowPrisonerDiedInnocent.stages.0.description>
+  <KnowPrisonerDiedInnocent.stages.0.description>En av våra fångar dog trots att [PAWN_pronoun] var harmlös. Vi borde kunna ta hand om våra fångar. Om vi ville ha dem döda, skulle vi ha åtminstone gjort en ordnad avrättning snarare än tillåta detta barbari.</KnowPrisonerDiedInnocent.stages.0.description>
 
   <KnowColonistDied.stages.0.label>kolonist dog</KnowColonistDied.stages.0.label>
   <KnowColonistDied.stages.0.description>En av vårt folk dog. Vi borde kunna ta hand om vårt folk.</KnowColonistDied.stages.0.description>
@@ -97,7 +97,7 @@
   <MyUncleDied.stages.0.description>Min onkel dog.</MyUncleDied.stages.0.description>
 
   <MyGrandparentDied.stages.0.label>min farförälder {0} dog</MyGrandparentDied.stages.0.label>
-  <MyGrandparentDied.stages.0.description>Min farförälder dog, Jag önskar jag lärt känna HIM bättre.</MyGrandparentDied.stages.0.description>
+  <MyGrandparentDied.stages.0.description>Min farförälder dog, Jag önskar jag lärt känna [PAWN_objective] bättre.</MyGrandparentDied.stages.0.description>
 
   <MyCousinDied.stages.0.label>min kusin {0} dog</MyCousinDied.stages.0.label>
   <MyCousinDied.stages.0.description>Min kusin dog. Mitt eget kött och blod...</MyCousinDied.stages.0.description>

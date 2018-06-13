@@ -36,10 +36,10 @@
 
   <LetterLabelNewDisease>Sjukdom</LetterLabelNewDisease>
   <NewDisease>{0} har blivit sjuk av {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {2} för rätt behandling och spenderar så mycket td som möjlit i säng.</NewDisease>
-  <NewPartDisease>{0} har blivit sjuk av {3}. Infektionen är i HIS {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {2} för rätt behandling och spenderar så mycket td som möjlit i säng.</NewPartDisease>
+  <NewPartDisease>{0} har blivit sjuk av {3}. Infektionen är i [PAWN_possessive] {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {2} för rätt behandling och spenderar så mycket td som möjlit i säng.</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>Uräldrig fara</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>När {0} närmar sig den uråldriga väggen, överväldigas HIM av en ond aning. HECAP är inte säger på varför, men HE känner att denna dammiga struktur kan innehålla en stor fara.</AncientShrineWarning>
+  <AncientShrineWarning>När {0} närmar sig den uråldriga väggen, överväldigas [PAWN_objective] av en ond aning. [PAWN_pronoun] är inte säger på varför, men [PAWN_pronoun] känner att denna dammiga struktur kan innehålla en stor fara.</AncientShrineWarning>
 
   <StruckMineable>Vi har funnit {0}!</StruckMineable>
 
@@ -76,8 +76,8 @@
   <LetterRelatedPawnsTradingWithOtherCaravan>Karavanen säljer personer som har relationer med dina kolonister eller fångar:</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(relationer)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME har en relation med en kolonist. HECAP är {0}'s {1}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME har en relation med en av era fångar. HECAP är {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] har en relation med en kolonist. [PAWN_pronoun] är {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] har en relation med en av era fångar. [PAWN_pronoun] är {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Kärleksaffär</LetterLabelAffair>
@@ -114,7 +114,7 @@
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} missbruk</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} har utvecklat ett missbruk till {1}.\n\nHECAP har nu ett behov av {1}, något som syns på HIS Behov flik. HECAP kommer automatiskt använda drogen för att uppfylla HIS behov. Mm HE inte kan få någon {1} kommer HE få abstinens.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0} har utvecklat ett missbruk till {1}.\n\n[PAWN_pronoun] har nu ett behov av {1}, något som syns på [PAWN_possessive] Behov flik. [PAWN_pronoun] kommer automatiskt använda drogen för att uppfylla [PAWN_possessive] behov. Mm [PAWN_pronoun] inte kan få någon {1} kommer [PAWN_pronoun] få abstinens.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} frossar</LetterLabelDrugBinge>

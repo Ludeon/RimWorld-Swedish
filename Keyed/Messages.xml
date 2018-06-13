@@ -75,9 +75,9 @@
 
   <MessageInvoluntarySleep>{0} kollapsade på grund av extrem utmattning.</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureMinor>{0} misslyckades något när HIM opererade på {1}.</MessageMedicalOperationFailureMinor>
-  <MessageMedicalOperationFailureCatastrophic>{0} misslyckades katastofalt när HIM opererade på {1}.</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureRidiculous>{0} misslyckades på ett löjligt sätt när HIM opererade på {1}.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureMinor>{0} misslyckades något när [PAWN_objective] opererade på {1}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{0} misslyckades katastofalt när [PAWN_objective] opererade på {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureRidiculous>{0} misslyckades på ett löjligt sätt när [PAWN_objective] opererade på {1}.</MessageMedicalOperationFailureRidiculous>
 
   <MessageMedicalOperationWillAngerFaction>Den här operationen kommer att förarga {0}.</MessageMedicalOperationWillAngerFaction>
 
@@ -150,7 +150,7 @@
 
   <MessagePawnBeingBurned>{0} bränns av överhettad luft!</MessagePawnBeingBurned>
 
-  <MessageAccidentalOverdose>{0} har av misstag överdoserat när HE förbrukar {1}!</MessageAccidentalOverdose>
+  <MessageAccidentalOverdose>{0} har av misstag överdoserat när [PAWN_pronoun] förbrukar {1}!</MessageAccidentalOverdose>
 
   <MessageCaravanArrivedAtDestination>{0} har anlänt till sin destination.</MessageCaravanArrivedAtDestination>
 
@@ -168,7 +168,7 @@
 
   <MessageOldWoundHealed>Tack vare {0}, {1}'s {2} har läkt.</MessageOldWoundHealed>
 
-  <MessageRescueeJoined>Eftersom du räddade HIM, har {0} anslutit till din grupp!</MessageRescueeJoined>
+  <MessageRescueeJoined>Eftersom du räddade [PAWN_objective], har {0} anslutit till din grupp!</MessageRescueeJoined>
 
   <MessageAttackedCaravanIsNowHostile>Eftersom du attackerade en karavan från {0}, är detta fraktion nu fientligt inställda till dig.</MessageAttackedCaravanIsNowHostile>
   <MessageFactionPawnCrushed>{0} förlorade personer i en tak-kollaps. Fraktionens relation: {1}</MessageFactionPawnCrushed>

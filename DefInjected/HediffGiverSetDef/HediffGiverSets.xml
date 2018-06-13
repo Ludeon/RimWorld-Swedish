@@ -2,7 +2,7 @@
 <LanguageData>
 
   <OrganicStandard.hediffGivers.4.letterLabel>Trauma savant</OrganicStandard.hediffGivers.4.letterLabel>
-  <OrganicStandard.hediffGivers.4.letter>NAME's hjärnskada har orsakan HIM att utveckla märkliga savant-liknande förmågor.</OrganicStandard.hediffGivers.4.letter>
+  <OrganicStandard.hediffGivers.4.letter>[PAWN_nameDef]'s hjärnskada har orsakan [PAWN_objective] att utveckla märkliga savant-liknande förmågor.</OrganicStandard.hediffGivers.4.letter>
 
 
 </LanguageData>

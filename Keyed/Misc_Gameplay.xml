@@ -373,7 +373,7 @@
 
   <!-- Cryptosleep casket -->
   <CasketContains>Innehåller</CasketContains>
-  <CasketWarning>Varning!\n\nNAME är din sista fristående kolonist! Om du låter HIM gå in i kistan kommer du inte kunna fortsätta spela. Är du säker på att du vill fullfölja?</CasketWarning>
+  <CasketWarning>Varning!\n\n[PAWN_nameDef] är din sista fristående kolonist! Om du låter [PAWN_objective] gå in i kistan kommer du inte kunna fortsätta spela. Är du säker på att du vill fullfölja?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Kan inte starta.</ShipReportCannotLaunch>
