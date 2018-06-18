@@ -1,20 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GlobalUtility.rulePack.rulesStrings.0>quantity_adjphrase->en grupp av</GlobalUtility.rulePack.rulesStrings.0>
-  <GlobalUtility.rulePack.rulesStrings.1>quantity_adjphrase->flera</GlobalUtility.rulePack.rulesStrings.1>
-  <GlobalUtility.rulePack.rulesStrings.2>quantity_adjphrase->dussin av</GlobalUtility.rulePack.rulesStrings.2>
-  <GlobalUtility.rulePack.rulesStrings.3>quantity_adjphrase->två</GlobalUtility.rulePack.rulesStrings.3>
-  <GlobalUtility.rulePack.rulesStrings.4>quantity_adjphrase->tre</GlobalUtility.rulePack.rulesStrings.4>
-  <GlobalUtility.rulePack.rulesStrings.5>quantity_adjphrase->fyra</GlobalUtility.rulePack.rulesStrings.5>
-  <GlobalUtility.rulePack.rulesStrings.6>quantity_adjphrase->fem</GlobalUtility.rulePack.rulesStrings.6>
-  <GlobalUtility.rulePack.rulesStrings.7>quantity_adjphrase->sex</GlobalUtility.rulePack.rulesStrings.7>
-  <GlobalUtility.rulePack.rulesStrings.8>quantity_adjphrase->oberäkneliga</GlobalUtility.rulePack.rulesStrings.8>
-  <GlobalUtility.rulePack.rulesStrings.9>quantity_adjphrase->oräkeliga</GlobalUtility.rulePack.rulesStrings.9>
-  <GlobalUtility.rulePack.rulesStrings.10>game->poker</GlobalUtility.rulePack.rulesStrings.10>
-  <GlobalUtility.rulePack.rulesStrings.11>game->shack</GlobalUtility.rulePack.rulesStrings.11>
-  <GlobalUtility.rulePack.rulesStrings.12>game->kortspel</GlobalUtility.rulePack.rulesStrings.12>
-  <GlobalUtility.rulePack.rulesStrings.13>game->backgammon</GlobalUtility.rulePack.rulesStrings.13>
+	<GlobalUtility.rulePack.rulesStrings>
+		<li>quantity_adjphrase->en grupp av</li>
+		<li>quantity_adjphrase->flera</li>
+		<li>quantity_adjphrase->dussin av</li>
+		<li>quantity_adjphrase->två</li>
+		<li>quantity_adjphrase->tre</li>
+		<li>quantity_adjphrase->fyra</li>
+		<li>quantity_adjphrase->fem</li>
+		<li>quantity_adjphrase->sex</li>
+		<li>quantity_adjphrase->oberäkneliga</li>
+		<li>quantity_adjphrase->oräkeliga</li>
+		<li>game->poker</li>
+		<li>game->shack</li>
+		<li>game->kortspel</li>
+		<li>game->backgammon</li>
+	</GlobalUtility.rulePack.rulesStrings>
 
 
 </LanguageData>

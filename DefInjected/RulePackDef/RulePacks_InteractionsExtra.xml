@@ -1,14 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Sentence_SocialFightStarted.rulePack.rulesStrings.0>sent->Detta drev [recipient_nameShortDef] till raseri och [recipient_pronoun] började att slåss!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
-  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] acceperade och är nu [initiator_nameShortDef]'s älskare.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] avvisade avancemanget.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>
-  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] accepterade och dom två är nu förlovade.</Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>
-  <Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] avvisade frierit.</Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>
-  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>sent->det blev för mycket för förhållandet att kunna fortsätta så dom två har du gjort slut.</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>
-  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] har accepterat och gått med i [initiator_nameShortDef]'s gemenskap.</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
-  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] avvisade erbjudandet.</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
+	<Sentence_SocialFightStarted.rulePack.rulesStrings>
+		<li>sent->Detta drev [recipient_nameShortDef] till raseri och [recipient_pronoun] började att slåss!</li>
+	</Sentence_SocialFightStarted.rulePack.rulesStrings>
+	<Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] acceperade och är nu [initiator_nameShortDef]'s älskare.</li>
+	</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+	<Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] avvisade avancemanget.</li>
+	</Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+	<Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] accepterade och dom två är nu förlovade.</li>
+	</Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+	<Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] avvisade frierit.</li>
+	</Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+	<Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+		<li>sent->det blev för mycket för förhållandet att kunna fortsätta så dom två har du gjort slut.</li>
+	</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+	<Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] har accepterat och gått med i [initiator_nameShortDef]'s gemenskap.</li>
+	</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+	<Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+		<li>sent->[recipient_nameShortDef] avvisade erbjudandet.</li>
+	</Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
 
 
 </LanguageData>

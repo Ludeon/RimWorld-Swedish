@@ -4,29 +4,39 @@
   <!-- Different physical description roots for different kinds of artworks. 
       Added to artworks with tales and taleless art. -->
 
-  <ArtDescription_Sculpture.rulePack.rulesStrings.0>physical_description_root->Denna [sculpture] [depicts] [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.0>
-  <ArtDescription_Sculpture.rulePack.rulesStrings.1>physical_description_root->Denna [sculpture] bär en [depiction] av [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.1>
-  <ArtDescription_Sculpture.rulePack.rulesStrings.2>physical_description_root->På denna [sculpture] är en [depiction] av [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.2>
-  <ArtDescription_Sculpture.rulePack.rulesStrings.3>sculpture->skulptur</ArtDescription_Sculpture.rulePack.rulesStrings.3>
-  <ArtDescription_Sculpture.rulePack.rulesStrings.4>sculpture->arbete</ArtDescription_Sculpture.rulePack.rulesStrings.4>
-  <ArtDescription_Sculpture.rulePack.rulesStrings.5>sculpture->pjäs</ArtDescription_Sculpture.rulePack.rulesStrings.5>
-  <ArtDescription_Sculpture.rulePack.rulesStrings.6>sculpture->snideri</ArtDescription_Sculpture.rulePack.rulesStrings.6>
+	<ArtDescription_Sculpture.rulePack.rulesStrings>
+		<li>physical_description_root->Denna [sculpture] [depicts] [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Denna [sculpture] bär en [depiction] av [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->På denna [sculpture] är en [depiction] av [image]. [desc_sentence_group]</li>
+		<li>sculpture->skulptur</li>
+		<li>sculpture->arbete</li>
+		<li>sculpture->pjäs</li>
+		<li>sculpture->snideri</li>
+	</ArtDescription_Sculpture.rulePack.rulesStrings>
 
-  <ArtDescription_WeaponMelee.rulePack.rulesStrings.0>physical_description_root->Detta vapen är graverat med [depiction] av [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.0>
-  <ArtDescription_WeaponMelee.rulePack.rulesStrings.1>physical_description_root->Detta vapen bär [depiction] av [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.1>
-  <ArtDescription_WeaponMelee.rulePack.rulesStrings.2>physical_description_root->Gravyren på detta vapen [depicts] [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.2>
+	<ArtDescription_WeaponMelee.rulePack.rulesStrings>
+		<li>physical_description_root->Detta vapen är graverat med [depiction] av [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Detta vapen bär [depiction] av [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Gravyren på detta vapen [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_WeaponMelee.rulePack.rulesStrings>
 
-  <ArtDescription_WeaponGun.rulePack.rulesStrings.0>physical_description_root->Detta vapen är graverat med [depiction] av [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.0>
-  <ArtDescription_WeaponGun.rulePack.rulesStrings.1>physical_description_root->Detta vapen bär [depiction] av [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.1>
-  <ArtDescription_WeaponGun.rulePack.rulesStrings.2>physical_description_root->Gravyren på detta vapen [depicts] [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.2>
+	<ArtDescription_WeaponGun.rulePack.rulesStrings>
+		<li>physical_description_root->Detta vapen är graverat med [depiction] av [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Detta vapen bär [depiction] av [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Gravyren på detta vapen [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_WeaponGun.rulePack.rulesStrings>
 
-  <ArtDescription_Furniture.rulePack.rulesStrings.0>physical_description_root->Denna möbel är graverad med [depiction] av [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.0>
-  <ArtDescription_Furniture.rulePack.rulesStrings.1>physical_description_root->Denna möbel bär [depiction] av [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.1>
-  <ArtDescription_Furniture.rulePack.rulesStrings.2>physical_description_root->Graveringen på denna möbel [depicts] [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.2>
+	<ArtDescription_Furniture.rulePack.rulesStrings>
+		<li>physical_description_root->Denna möbel är graverad med [depiction] av [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Denna möbel bär [depiction] av [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Graveringen på denna möbel [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_Furniture.rulePack.rulesStrings>
 
-  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>physical_description_root->Denna sarkofag är graverad med [depiction] av [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>
-  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>physical_description_root->Denna sarkofag bär [depiction] av [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>
-  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>physical_description_root->Graveringen på denna möbel [depicts] [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>
+	<ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+		<li>physical_description_root->Denna sarkofag är graverad med [depiction] av [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Denna sarkofag bär [depiction] av [image]. [desc_sentence_group]</li>
+		<li>physical_description_root->Graveringen på denna möbel [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
 
 
 </LanguageData>
