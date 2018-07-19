@@ -1,35 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>TODO</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>TODO</Elephant.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>TODO</Elephant.tools.right_foot.label>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>TODO</Elephant.tools.head.label>
+  <!-- EN: elephant -->
   <Elephant.label>elefant</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
   <Elephant.description>Den största omodifierade landdjur .Den kan använda sina betar som verktyg för att flytta på objekt - eller som dödliga vapen.</Elephant.description>
-  <Elephant_Leather.label>elefanthud</Elephant_Leather.label>
-  <Elephant_Leather.description>elefanthud</Elephant_Leather.description>
-  <Elephant_Leather.stuffProps.stuffAdjective>elefanthud</Elephant_Leather.stuffProps.stuffAdjective>
-  <Elephant_Meat.label>elefantkött</Elephant_Meat.label>
-  <Elephant_Meat.description>elefantkött</Elephant_Meat.description>
-  <Elephant_Corpse.label>elefantkropp</Elephant_Corpse.label>
-  <Elephant_Corpse.description>elefantkropp</Elephant_Corpse.description>
-
+  
+  <!-- EN: left claw -->
+  <Megasloth.tools.left_claw.label>TODO</Megasloth.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Megasloth.tools.right_claw.label>TODO</Megasloth.tools.right_claw.label>
+  <!-- EN: head -->
+  <Megasloth.tools.head.label>TODO</Megasloth.tools.head.label>
+  <!-- EN: megasloth -->
   <Megasloth.label>jättesengångare</Megasloth.label>
+  <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. -->
   <Megasloth.description>En typ av mark sengångare, jättesengångaren är stor ensamgående växtätare. För länge sedan utrotad av de infödda i den gamla jordens Amerika kontinent, blev marksendgångaren återställd med hjälp av avancerad kloning och artificiell bioteknik.</Megasloth.description>
-  <Megasloth_Leather.label>jättesengångarhud</Megasloth_Leather.label>
-  <Megasloth_Leather.description>jättesengångarhud</Megasloth_Leather.description>
-  <Megasloth_Leather.stuffProps.stuffAdjective>jättesengångarhud</Megasloth_Leather.stuffProps.stuffAdjective>
-  <Megasloth_Meat.label>jättesengångarkött</Megasloth_Meat.label>
-  <Megasloth_Meat.description>jättesengångarkött</Megasloth_Meat.description>
-  <Megasloth_Corpse.label>jättesengångarkropp</Megasloth_Corpse.label>
-  <Megasloth_Corpse.description>jättesengångarkropp</Megasloth_Corpse.description>
-
+  
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>TODO</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>TODO</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>TODO</Rhinoceros.tools.head.label>
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>noshörning</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>Denna stora landlevande däggdjur är vanligtvis helt fredliga , men det kommer inte att tveka att rusa på med sitt horn för att jaga bort inkräktare.</Rhinoceros.description>
+  
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>TODO</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>TODO</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>TODO</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>TODO</Thrumbo.tools.head.label>
+  <!-- EN: thrumbo -->
   <Thrumbo.label>thrumbo</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
   <Thrumbo.description>En gigantisk varelse av okänt ursprung. Den thrumbo är mild av naturen, men extremt farligt när den är förargad. Dess långa päls är ovanligt vacker och värdefull, och dess knivskarpa horn är mycket värdefull i de flesta marknader. Legender säger att en gammal thrumbo är den klokaste varelsen i universum - den väljer helt enkelt enkelt att inte tala.</Thrumbo.description>
-  <Thrumbo_Leather.label>thrumbopäls</Thrumbo_Leather.label>
-  <Thrumbo_Leather.description>thrumbopäls</Thrumbo_Leather.description>
-  <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbopäls</Thrumbo_Leather.stuffProps.stuffAdjective>
-  <Thrumbo_Meat.label>thrumbokött</Thrumbo_Meat.label>
-  <Thrumbo_Meat.description>thrumbokött</Thrumbo_Meat.description>
-  <Thrumbo_Corpse.label>thrumbokropp</Thrumbo_Corpse.label>
-  <Thrumbo_Corpse.description>thrumbokropp</Thrumbo_Corpse.description>
-
-
+  
 </LanguageData>

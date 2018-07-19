@@ -1,30 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Meditative -->
-
-  <Skygaze.reportString>tittar på himmelen.</Skygaze.reportString>
-  <Meditate.reportString>mediterar.</Meditate.reportString>
-  <Pray.reportString>ber.</Pray.reportString>
-  <GoForWalk.reportString>går på en promenad.</GoForWalk.reportString>
+  
+  <!-- EN: building snowman. -->
   <BuildSnowman.reportString>bygger en snögubbe.</BuildSnowman.reportString>
-  <VisitGrave.reportString>besöker en grav.</VisitGrave.reportString>
-  <ViewArt.reportString>tittar på konst.</ViewArt.reportString>
-
-
-  <!-- Social -->
-
+  
+  <!-- EN: going for a walk. -->
+  <GoForWalk.reportString>går på en promenad.</GoForWalk.reportString>
+  
+  <!-- EN: meditating. -->
+  <Meditate.reportString>mediterar.</Meditate.reportString>
+  
+  <!-- EN: playing billiards. -->
+  <Play_Billiards.reportString>spelar biljard.</Play_Billiards.reportString>
+  
+  <!-- EN: playing chess. -->
+  <Play_Chess.reportString>spelar shack.</Play_Chess.reportString>
+  
+  <!-- EN: playing the game of Ur. -->
+  <Play_GameOfUr.reportString>TODO</Play_GameOfUr.reportString>
+  
+  <!-- EN: playing hoopstone. -->
+  <Play_Hoopstone.reportString>TODO</Play_Hoopstone.reportString>
+  
+  <!-- EN: playing horseshoes. -->
+  <Play_Horseshoes.reportString>kastar hästskor.</Play_Horseshoes.reportString>
+  
+  <!-- EN: playing poker. -->
+  <Play_Poker.reportString>TODO</Play_Poker.reportString>
+  
+  <!-- EN: praying. -->
+  <Pray.reportString>ber.</Pray.reportString>
+  
+  <!-- EN: skygazing. -->
+  <Skygaze.reportString>tittar på himmelen.</Skygaze.reportString>
+  
+  <!-- EN: relaxing socially. -->
   <SocialRelax.reportString>avkopplar socialt.</SocialRelax.reportString>
-  <VisitSickPawn.reportString>muntrar upp patient TargetA.</VisitSickPawn.reportString>
-
-
-  <!-- Building interaction -->
-
-  <PlayHorseshoes.reportString>kastar hästskor.</PlayHorseshoes.reportString>
-  <PlayChess.reportString>spelar shack.</PlayChess.reportString>
-  <PlayBilliards.reportString>spelar biljard.</PlayBilliards.reportString>
-  <WatchTelevision.reportString>tittar på TV.</WatchTelevision.reportString>
+  
+  <!-- EN: using telescope. -->
   <UseTelescope.reportString>tittar i teleskop.</UseTelescope.reportString>
-
-
+  
+  <!-- EN: viewing art. -->
+  <ViewArt.reportString>tittar på konst.</ViewArt.reportString>
+  
+  <!-- EN: visiting grave. -->
+  <VisitGrave.reportString>besöker en grav.</VisitGrave.reportString>
+  
+  <!-- EN: cheering up patient TargetA. -->
+  <VisitSickPawn.reportString>muntrar upp patient TargetA.</VisitSickPawn.reportString>
+  
+  <!-- EN: watching television. -->
+  <WatchTelevision.reportString>tittar på TV.</WatchTelevision.reportString>
+  
 </LanguageData>

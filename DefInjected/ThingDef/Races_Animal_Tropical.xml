@@ -1,35 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Cobra.label>kobra</Cobra.label>
-  <Cobra.description>En stor orm. Kobror kan vara mycket aggressiv om provocerad - det är bättre att hålla sig borta från dessa varelser.</Cobra.description>
-  <Cobra_Leather.label>kobraskinn</Cobra_Leather.label>
-  <Cobra_Leather.description>kobraskinn</Cobra_Leather.description>
-  <Cobra_Leather.stuffProps.stuffAdjective>kobraskinn</Cobra_Leather.stuffProps.stuffAdjective>
-  <Cobra_Meat.label>kobrakött</Cobra_Meat.label>
-  <Cobra_Meat.description>kobrakött</Cobra_Meat.description>
-  <Cobra_Corpse.label>kobrakropp</Cobra_Corpse.label>
-  <Cobra_Corpse.description>kobrakropp</Cobra_Corpse.description>
-
-  <Monkey.label>apa</Monkey.label>
-  <Monkey.description>Denna apa kan använda sin böjda svans för att ta tag i grenar vilket lämnar händerna fria att göra andra saker med.</Monkey.description>
-  <Monkey_Leather.label>apskinn</Monkey_Leather.label>
-  <Monkey_Leather.description>apskinn</Monkey_Leather.description>
-  <Monkey_Leather.stuffProps.stuffAdjective>apskinn</Monkey_Leather.stuffProps.stuffAdjective>
-  <Monkey_Meat.label>apkött</Monkey_Meat.label>
-  <Monkey_Meat.description>apkött</Monkey_Meat.description>
-  <Monkey_Corpse.label>apkropp</Monkey_Corpse.label>
-  <Monkey_Corpse.description>apkropp</Monkey_Corpse.description>
-
+  
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>TODO</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>TODO</Boomalope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>TODO</Boomalope.tools.right_hoof.label>
+  <!-- EN: boomalope -->
   <Boomalope.label>bombalop</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
   <Boomalope.description>Konstruerad för kemikalisk produktion, boomalopen växer en stor säck av flyktiga kemikalier på ryggen. Även om det är svaga och bräckliga för sin storlek, har andra djur lärt sig att undvika det på grund av den enorma explosionen den orsakar när den dör.</Boomalope.description>
-  <Boomalope_Leather.label>bombalophud</Boomalope_Leather.label>
-  <Boomalope_Leather.description>bombalophud</Boomalope_Leather.description>
-  <Boomalope_Leather.stuffProps.stuffAdjective>bombalophud</Boomalope_Leather.stuffProps.stuffAdjective>
-  <Boomalope_Meat.label>bombalopkött</Boomalope_Meat.label>
-  <Boomalope_Meat.description>bombalopkött</Boomalope_Meat.description>
-  <Boomalope_Corpse.label>bombalopkropp</Boomalope_Corpse.label>
-  <Boomalope_Corpse.description>bombalopkropp</Boomalope_Corpse.description>
-
-
+  
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>TODO</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>TODO</Cobra.tools.head.label>
+  <!-- EN: cobraflesh -->
+  <Cobra.race.meatLabel>TODO</Cobra.race.meatLabel>
+  <!-- EN: cobra -->
+  <Cobra.label>kobra</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>En stor orm. Kobror kan vara mycket aggressiv om provocerad - det är bättre att hålla sig borta från dessa varelser.</Cobra.description>
+  
+  <!-- EN: left fist -->
+  <Monkey.tools.left_fist.label>TODO</Monkey.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Monkey.tools.right_fist.label>TODO</Monkey.tools.right_fist.label>
+  <!-- EN: head -->
+  <Monkey.tools.head.label>TODO</Monkey.tools.head.label>
+  <!-- EN: monkey -->
+  <Monkey.label>apa</Monkey.label>
+  <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
+  <Monkey.description>Denna apa kan använda sin böjda svans för att ta tag i grenar vilket lämnar händerna fria att göra andra saker med.</Monkey.description>
+  
 </LanguageData>

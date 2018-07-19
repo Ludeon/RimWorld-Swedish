@@ -1,19 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Heatstroke.label>Värmeslag</Heatstroke.label>
-  <Heatstroke.stages.0.label>trivial-dold</Heatstroke.stages.0.label>
-  <Heatstroke.stages.1.label>trivial</Heatstroke.stages.1.label>
-  <Heatstroke.stages.2.label>lätt</Heatstroke.stages.2.label>
-  <Heatstroke.stages.3.label>allvarlig</Heatstroke.stages.3.label>
-  <Heatstroke.stages.4.label>extrem</Heatstroke.stages.4.label>
-
-  <Hypothermia.label>Hypotermi</Hypothermia.label>
-  <Hypothermia.stages.0.label>huttrande-dold</Hypothermia.stages.0.label>
-  <Hypothermia.stages.1.label>huttrande</Hypothermia.stages.1.label>
-  <Hypothermia.stages.2.label>lätt</Hypothermia.stages.2.label>
-  <Hypothermia.stages.3.label>allvarlig</Hypothermia.stages.3.label>
-  <Hypothermia.stages.4.label>extrem</Hypothermia.stages.4.label>
-
-
+  
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-0.label>trivial-dold</Heatstroke.stages.initial-0.label>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-1.label>trivial</Heatstroke.stages.initial-1.label>
+  <!-- EN: minor -->
+  <Heatstroke.stages.minor.label>lätt</Heatstroke.stages.minor.label>
+  <!-- EN: serious -->
+  <Heatstroke.stages.serious.label>allvarlig</Heatstroke.stages.serious.label>
+  <!-- EN: extreme -->
+  <Heatstroke.stages.extreme.label>extrem</Heatstroke.stages.extreme.label>
+  <!-- EN: heatstroke -->
+  <Heatstroke.label>värmeslag</Heatstroke.label>
+  
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-0.label>huttrande-dold</Hypothermia.stages.shivering-0.label>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-1.label>huttrande</Hypothermia.stages.shivering-1.label>
+  <!-- EN: minor -->
+  <Hypothermia.stages.minor.label>lätt</Hypothermia.stages.minor.label>
+  <!-- EN: serious -->
+  <Hypothermia.stages.serious.label>allvarlig</Hypothermia.stages.serious.label>
+  <!-- EN: extreme -->
+  <Hypothermia.stages.extreme.label>extrem</Hypothermia.stages.extreme.label>
+  <!-- EN: hypothermia -->
+  <Hypothermia.label>hypotermi</Hypothermia.label>
+  
+  <!-- EN: hypothermic slowdown -->
+  <HypothermicSlowdown.label>hypotermisk nedsaktning</HypothermicSlowdown.label>
+  
 </LanguageData>

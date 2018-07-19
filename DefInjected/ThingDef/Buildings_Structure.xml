@@ -1,28 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Doors -->
-
-  <Door.label>dörr</Door.label>
-  <Door.description>Delar rum. Måste manuellt öppnas och stängas, vilket saktar ner folk.</Door.description>
-  <Door_Blueprint.label>dörr (ritning)</Door_Blueprint.label>
-  <Door_Frame.label>dörr (byggnad)</Door_Frame.label>
-  <Door_Frame.description>Delar rum. Måste manuellt öppnas och stängas, vilket saktar ner folk.</Door_Frame.description>
-
+  
+  <!-- EN: autodoor -->
   <Autodoor.label>automatisk dörr</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
   <Autodoor.description>Delar rum. Automatisk dörröppning tillåter personer att gå in genom dörren utan att sakta ner.</Autodoor.description>
-  <Autodoor_Blueprint.label>automatisk dörr (ritning)</Autodoor_Blueprint.label>
-  <Autodoor_Frame.label>automatisk dörr (byggnad)</Autodoor_Frame.label>
-  <Autodoor_Frame.description>Delar rum. Automatisk dörröppning tillåter personer att gå in genom dörren utan att sakta ner.</Autodoor_Frame.description>
-
-
-  <!-- Walls -->
-
+  
+  <!-- EN: door -->
+  <Door.label>dörr</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Delar rum. Måste manuellt öppnas och stängas, vilket saktar ner folk.</Door.description>
+  
+  <!-- EN: wall -->
   <Wall.label>vägg</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
   <Wall.description>En oframkomlig vägg. Förmåga att hålla upp ett tak.</Wall.description>
-  <Wall_Blueprint.label>vägg (ritning)</Wall_Blueprint.label>
-  <Wall_Frame.label>vägg (byggnad)</Wall_Frame.label>
-  <Wall_Frame.description>En oframkomlig vägg. Förmåga att hålla upp ett tak.</Wall_Frame.description>
-
-
+  
 </LanguageData>

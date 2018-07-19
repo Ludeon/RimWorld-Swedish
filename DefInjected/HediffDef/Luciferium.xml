@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <LuciferiumHigh.label>luciferium</LuciferiumHigh.label>
-
-
-  <!-- Luciferium addiction -->
-
+  
+  <!-- EN: unmet -->
+  <LuciferiumAddiction.stages.unmet.label>ouppfyllt</LuciferiumAddiction.stages.unmet.label>
+  <!-- EN: luciferium need -->
   <LuciferiumAddiction.label>luciferiumbehov</LuciferiumAddiction.label>
-  <LuciferiumAddiction.stages.1.label>ouppfyllt</LuciferiumAddiction.stages.1.label>
-
-
+  
+  <!-- EN: luciferium -->
+  <LuciferiumHigh.label>luciferium</LuciferiumHigh.label>
+  
 </LanguageData>

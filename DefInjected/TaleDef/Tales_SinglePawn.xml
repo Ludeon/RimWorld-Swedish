@@ -1,276 +1,535 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <LandedInPod.label>lander i en kapsen</LandedInPod.label>
-	<LandedInPod.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef]'s landar i en räddningskapsel</li>
-		<li>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</li>
-		<li>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</li>
-		<li>image->[pawn_nameFull] träffar land med en räddningskapsel [circumstance_group]</li>
-		<li>image->[pawn_nameFull] färdas i en räddningskapsel [circumstance_group]</li>
-		<li>circumstance_phrase->framför en [terrainfeature]</li>
-		<li>circumstance_phrase->med enorm kraft</li>
-		<li>circumstance_phrase->i en plym av damm och stenar</li>
-		<li>circumstance_phrase->med retro-raketer skjuter dramatiskt</li>
-		<li>circumstance_phrase->i en precisionslandning</li>
-		<li>desc_sentence->[pawn_pronoun] koncentrerar sig intensivt på kontrollerna.</li>
-		<li>desc_sentence->[pawn_pronoun] har [pawn_possessive] ögona stängda och ser rädd ut.</li>
-		<li>desc_sentence->[pawn_pronoun] är medvetslös, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</li>
-		<li>desc_sentence->[pawn_pronoun] ler med bister glädje.</li>
-		<li>desc_sentence->[pawn_pronoun] verkat inte ha en ide vad [pawn_pronoun] gör.</li>
-		<li>desc_sentence->[pawn_pronoun] är inspännd med [pawn_possessive] ögona stängda, totalt hjälplös.</li>
-		<li>desc_sentence->En flamma slickar baksidan av kapseln.</li>
-		<li>desc_sentence->En närliggande [animal] ser upp, förskräckt.</li>
-		<li>desc_sentence->En [animal] flyr anslagsplatsen i förskräckelse.</li>
-		<li>desc_sentence->Det är en [terrainfeature] i bakgrunden.</li>
-		<li>desc_sentence->En [outlander] tittar tyst i fjärran.</li>
-	</LandedInPod.rulePack.rulesStrings>
-
-  <Vomited.label>kräks</Vomited.label>
-	<Vomited.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef]'s kräks</li>
-		<li>image->[pawn_nameFull] sprayar spya över marken [circumstance_group]</li>
-		<li>image->[pawn_nameFull] ser äcklad ut täckt med torkad spya [circumstance_group]</li>
-		<li>image->[pawn_nameFull] fördubblats under kväljningar på golvet [circumstance_group]</li>
-		<li>image->[pawn_nameFull] på [pawn_possessive] knäar och spyr på golvet [circumstance_group]</li>
-		<li>circumstance_phrase->när smärtan sprider sig i kroppen</li>
-		<li>circumstance_phrase->med enorm skam</li>
-		<li>circumstance_phrase->när andra ser på</li>
-		<li>desc_sentence->[pawn_pronoun] verkar helt omedveten om vad som pågår [pawn_objective].</li>
-		<li>desc_sentence->[pawn_possessive] ansiktet verkar vara svullet.</li>
-		<li>desc_sentence->[pawn_pronoun] är nära medveslöshet, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</li>
-		<li>desc_sentence->[pawn_pronoun] har våldsamma kramper.</li>
-		<li>desc_sentence->[pawn_pronoun] ser skamsen ut.</li>
-		<li>desc_sentence->[pawn_pronoun] verkar att försöka skratta, trots omständigheterna.</li>
-		<li>desc_sentence->[pawn_pronoun] ser nästan tömd, som tack vare det intensiva kräkandet.</li>
-		<li>desc_sentence->[pawn_pronoun] är omgiven av en konstnärligt utförda gloria av smuts.</li>
-		<li>desc_sentence->En [animal] äter från rännilen av spya i bakgrunden.</li>
-	</Vomited.rulePack.rulesStrings>
-
-  <Drunk.label>fylla</Drunk.label>
-	<Drunk.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef]'s extrem fylla</li>
-		<li>image->[pawn_nameFull] ragglar omkring full [circumstance_group]</li>
-		<li>image->[pawn_nameFull] lutar [pawn_possessive] huvudet tillbaka och halsar sprit [circumstance_group]</li>
-		<li>image->[pawn_nameFull] girigt samlar ihop flaskor av sprit [circumstance_group]</li>
-		<li>image->[pawn_nameFull] dricker tungt [circumstance_group]</li>
-		<li>circumstance_phrase->obekymrad av [pawn_possessive] omgivning</li>
-		<li>circumstance_phrase->i en sur fylla</li>
-		<li>circumstance_phrase->ifrågasättande [pawn_possessive] egna existens</li>
-		<li>circumstance_phrase->med tårar i [pawn_possessive] ögon</li>
-		<li>circumstance_phrase->skrattandes galet</li>
-		<li>circumstance_phrase->gråtandes</li>
-		<li>circumstance_phrase->patetiskt</li>
-		<li>circumstance_phrase->stirrandes arg på folk omkring [pawn_objective]</li>
-		<li>circumstance_phrase->leende åt någon i närheten</li>
-		<li>circumstance_phrase->försöker att klä av</li>
-		<li>circumstance_phrase->med ett finger i [pawn_possessive] mun</li>
-		<li>circumstance_phrase->hållandes tillbaka spya</li>
-		<li>circumstance_phrase->utan minsta gnutta omsorg</li>
-		<li>circumstance_phrase->med ett elakt grin i [pawn_possessive] öga</li>
-		<li>circumstance_phrase->funderande över [pawn_possessive] förflutna</li>
-		<li>desc_sentence->[pawn_pronoun] verkar totalt ovetande vad som är runt [pawn_objective].</li>
-		<li>desc_sentence->[pawn_possessive] ansikte verkade som de svällde.</li>
-		<li>desc_sentence->[pawn_pronoun] är nästan medvetslös, [pawn_possessive] tunkan utanför munnen, saliv droppande.</li>
-		<li>desc_sentence->[pawn_pronoun] ser glad och ledsen ut samtidigt.</li>
-		<li>desc_sentence->[pawn_pronoun] har fläckar nere på [pawn_possessive] kläder.</li>
-		<li>desc_sentence->Det finns ett spår av kasserade dryckesbehållare bakom [pawn_objective].</li>
-		<li>desc_sentence->Det finns en vit substans på [pawn_possessive] byxor.</li>
-		<li>desc_sentence->[pawn_pronoun] verkar ha förlorat sina skor.</li>
-		<li>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</li>
-	</Drunk.rulePack.rulesStrings>
-
-  <WasOnFire.label>brinner</WasOnFire.label>
-	<WasOnFire.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] brinner</li>
-		<li>image->[pawn_nameFull] slår frenetiskt ut elden på [pawn_possessive] kropp [circumstance_group]</li>
-		<li>image->[pawn_nameFull] är uppsluken helt i eld [circumstance_group]</li>
-		<li>image->[pawn_nameFull] knäböjer, händerna över huvudet, försöker desperat släcka flammor på [pawn_possessive] kropp [circumstance_group]</li>
-		<li>image->[pawn_nameFull] rullar på golvet brinnandes [circumstance_group]</li>
-		<li>circumstance_phrase->medans andra ser på</li>
-		<li>circumstance_phrase->nästan naken</li>
-		<li>circumstance_phrase->med fokuserad avsikt</li>
-		<li>desc_sentence->[pawn_possessive] huden är synbart förkolnad.</li>
-		<li>desc_sentence->[pawn_possessive] ögonen är uppspärrade av panik.</li>
-		<li>desc_sentence->[pawn_pronoun] verkar knappt vara medveten; [pawn_possessive] ögon är livlösa.</li>
-		<li>desc_sentence->[pawn_possessive] munnen är öppen och [pawn_pronoun] skriker på hjälp.</li>
-		<li>desc_sentence->flammorna håller på att täcka huvudet.</li>
-		<li>desc_sentence->En symbolisk halo av eld omger [pawn_possessive] ansikte.</li>
-		<li>desc_sentence->[pawn_pronoun] kacklar maniskt.</li>
-		<li>desc_sentence->[pawn_pronoun] verkar förlora sig själv.</li>
-		<li>desc_sentence->En plym av rök stiger ifrån [pawn_objective].</li>
-		<li>desc_sentence->[pawn_pronoun] görs konstnärligt på ett likformigt sätt.</li>
-	</WasOnFire.rulePack.rulesStrings>
-
-  <MentalStateBerserk.label>bärsärk ilska</MentalStateBerserk.label>
-	<MentalStateBerserk.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] går bärsärk</li>
-		<li>image->[pawn_nameFull] flyger in i bärsärk ilska [circumstance_group]</li>
-		<li>image->[pawn_nameFull] blir våldsamt galen [circumstance_group]</li>
-		<li>image->[pawn_nameFull] snubblar omgring med en psykotisk blick i [pawn_possessive] ansikte [circumstance_group]</li>
-		<li>circumstance_phrase->medans [pawn_pronoun] försöker klä av</li>
-		<li>circumstance_phrase->utan uppenbar anledning</li>
-		<li>circumstance_phrase->när andra duckar av rädlsla</li>
-		<li>circumstance_phrase->när vänner flyr</li>
-		<li>circumstance_phrase->tack vare stress</li>
-		<li>circumstance_phrase->som ett sista steg</li>
-		<li>desc_sentence->[pawn_pronoun] skakar med okontrollerad vrede.</li>
-		<li>desc_sentence->[pawn_possessive] tänkterna är blottade i ett dödligt morrande.</li>
-		<li>desc_sentence->[pawn_possessive] ögon är som döda bassänger av galenskap.</li>
-		<li>desc_sentence->spott flyger ifrån [pawn_possessive] mun när [pawn_possessive] skriker av galen ilska.</li>
-		<li>desc_sentence->[pawn_pronoun] har förlirat delar av [pawn_possessive] kläder.</li>
-		<li>desc_sentence->[pawn_pronoun] grimaserar i sorg.</li>
-		<li>desc_sentence->[pawn_pronoun] verkar le maniskt.</li>
-		<li>desc_sentence->[pawn_pronoun] är bildat med ett morrande ansikte likt en [animal].</li>
-		<li>desc_sentence->[animal] omringa symboliskt [pawn_possessive] huvud.</li>
-		<li>desc_sentence->[pawn_pronoun] har en mordisk glimt i [pawn_possessive] öga.</li>
-		<li>desc_sentence->[pawn_possessive] hela kropp verkar darra av ilska.</li>
-		<li>desc_sentence->[pawn_possessive] ansiktet verkar fast i en blick av vridet lugn.</li>
-		<li>desc_sentence->En ensam tår droppar ifrån [pawn_possessive] kind.</li>
-	</MentalStateBerserk.rulePack.rulesStrings>
-
-  <MentalStateGaveUp.label>ger upp</MentalStateGaveUp.label>
-	<MentalStateGaveUp.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] se rupp i förtvivlan</li>
-		<li>image->[pawn_nameFull] ger till slut upp under stress [circumstance_group]</li>
-		<li>image->[pawn_nameFull] gråter okontrollerat [circumstance_group]</li>
-		<li>image->[pawn_nameFull] snubblar runt med ett fullständigt trasigt uttryck i [pawn_possessive] ansikte [circumstance_group]</li>
-		<li>circumstance_phrase->medan [pawn_pronoun] försöker klä av</li>
-		<li>circumstance_phrase->utan uppenbar anledning</li>
-		<li>circumstance_phrase->medans andra erbuder sympatier</li>
-		<li>circumstance_phrase->när en vän gråter</li>
-		<li>circumstance_phrase->tack vare stressen</li>
-		<li>circumstance_phrase->som ett sista steg</li>
-		<li>desc_sentence->[pawn_pronoun] med tårar flödande från [pawn_possessive] ansikte.</li>
-		<li>desc_sentence->[pawn_pronoun] skrattar i djupet av [pawn_possessive] depression.</li>
-		<li>desc_sentence->[pawn_nameShortDef] ser upp, som vänta på hjälp från ovan.</li>
-		<li>desc_sentence->[pawn_pronoun] sliter [pawn_possessive] egna kläder.</li>
-		<li>desc_sentence->[pawn_pronoun] verkar totalt omedveten om vad som finns runt [pawn_objective].</li>
-		<li>desc_sentence->[pawn_pronoun] ser både glad och ledsen ut på samma gång.</li>
-		<li>desc_sentence->[pawn_pronoun] har fläckar nere framtill på [pawn_possessive] kläder.</li>
-		<li>desc_sentence->[pawn_pronoun] verkar ha förlorat en sko.</li>
-		<li>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</li>
-	</MentalStateGaveUp.rulePack.rulesStrings>
-
-  <WalkedNaked.label>går naken</WalkedNaked.label>
-	<WalkedNaked.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] går omkring naken</li>
-		<li>image->[pawn_nameFull] [nude_action] i ett naturligt tillstånd [circumstance_group]</li>
-		<li>image->[pawn_nameFull] [nude_action] i bara mässingen [circumstance_group]</li>
-		<li>image->[pawn_nameFull] [nude_action], naken, [circumstance_group]</li>
-		<li>image->[pawn_nameFull] [nude_action] utan några kläder på [circumstance_group]</li>
-		<li>nude_action->dansande</li>
-		<li>nude_action->skuttande</li>
-		<li>nude_action->skuttande</li>
-		<li>nude_action->går</li>
-		<li>nude_action->stolsera [pawn_possessive] saker</li>
-		<li>nude_action->svassa</li>
-		<li>nude_action->gå på tå</li>
-		<li>nude_action->promerea</li>
-		<li>nude_action->undersöka området</li>
-		<li>circumstance_phrase->med en känsla av syfte</li>
-		<li>circumstance_phrase->utan skam</li>
-		<li>circumstance_phrase->medans andra tittar</li>
-		<li>circumstance_phrase->utan uppenbar anledning</li>
-		<li>circumstance_phrase->medan förvirrade djur tittar på</li>
-		<li>desc_sentence->[pawn_nameShortDef] är synligt upphetsad.</li>
-		<li>desc_sentence->[pawn_nameShortDef] är täckt av oförklarlig fuktighet.</li>
-		<li>desc_sentence->[pawn_nameShortDef] andas tungt utan uppenbar anledning.</li>
-		<li>desc_sentence->[pawn_nameShortDef] smeker en buske.</li>
-	</WalkedNaked.rulePack.rulesStrings>
-
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s eating of human meat</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] meat from a humanlike arm [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] flesh of a humanoid [circumstance_group]</li>
+    <li>eat_gerund->eating</li>
+    <li>eat_gerund->ingesting</li>
+    <li>eat_gerund->chewing</li>
+    <li>eat_gerund->chowing down on</li>
+    <li>eat_gerund->consuming</li>
+    <li>eat_gerund->swallowing</li>
+    <li>eat_gerund->cannibalizing</li>
+    <li>circumstance_phrase->with a sense of purpose</li>
+    <li>circumstance_phrase->with no hint of shame</li>
+    <li>circumstance_phrase->with a look of shame</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->with gusto</li>
+    <li>circumstance_phrase->frantically, like [PAWN_possessive] life depended on it</li>
+    <li>desc_sentence->[PAWN_nameDef]'s face is covered with blood and fluid.</li>
+    <li>desc_sentence->[PAWN_nameDef] is licking [PAWN_possessive] fingers.</li>
+    <li>desc_sentence->[PAWN_nameDef] has blood and gore bits all down [PAWN_possessive] front.</li>
+    <li>desc_sentence->[PAWN_nameDef] is in the middle of a large pool of blood.</li>
+    <li>desc_sentence->[PAWN_nameDef] is eyeing someone else nearby with dark interest.</li>
+    <li>desc_sentence->The meat is glistening and appears very succulent.</li>
+    <li>desc_sentence->The meat is spilling all over [PAWN_nameDef]'s body.</li>
+  -->
+  <AteRawHumanlikeMeat.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef]'s ätande av människokött</li>
+    <li>image->[pawn_nameFull] [eat_gerund] köttet från en mänsklig varelse [circumstance_group]</li>
+    <li>image->[pawn_nameFull] [eat_gerund] köttet från en mänsklig arm [circumstance_group]</li>
+    <li>image->[pawn_nameFull] [eat_gerund] köttet från en människa[circumstance_group]</li>
+    <li>eat_gerund->äter</li>
+    <li>eat_gerund->intar</li>
+    <li>eat_gerund->tuggar</li>
+    <li>eat_gerund->hugger in på</li>
+    <li>eat_gerund->konsumerar</li>
+    <li>eat_gerund->sväljer</li>
+    <li>eat_gerund->kannibaliserar</li>
+    <li>circumstance_phrase->med en känsla av syfte</li>
+    <li>circumstance_phrase->utan skam</li>
+    <li>circumstance_phrase->skamset</li>
+    <li>circumstance_phrase->mednas andra tittar på</li>
+    <li>circumstance_phrase->med välbehag</li>
+    <li>circumstance_phrase->frenetiskt som [pawn_possessive] liv hängde på det</li>
+    <li>desc_sentence->[pawn_nameShortDef]'s ansikte är täckt av blod och vätskor.</li>
+    <li>desc_sentence->[pawn_nameShortDef] slickar på [pawn_possessive] fingrar.</li>
+    <li>desc_sentence->[pawn_nameShortDef] har blod och annan smet över hela [pawn_possessive] front.</li>
+    <li>desc_sentence->[pawn_nameShortDef] är i mitten av en stor blodpöl.</li>
+    <li>desc_sentence->[pawn_nameShortDef] betraktar något i närheten med ett mörkt sinne.</li>
+    <li>desc_sentence->köttet glittrar och verkar väldigt saftigt.</li>
+    <li>desc_sentence->köttet spiller överallt över [pawn_nameShortDef]'s kropp.</li>
+  </AteRawHumanlikeMeat.rulePack.rulesStrings>
+  <!-- EN: raw humanlike meat eaten -->
   <AteRawHumanlikeMeat.label>ätit rå människoliknande kött</AteRawHumanlikeMeat.label>
-	<AteRawHumanlikeMeat.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef]'s ätande av människokött</li>
-		<li>image->[pawn_nameFull] [eat_gerund] köttet från en mänsklig varelse [circumstance_group]</li>
-		<li>image->[pawn_nameFull] [eat_gerund] köttet från en mänsklig arm [circumstance_group]</li>
-		<li>image->[pawn_nameFull] [eat_gerund] köttet från en människa[circumstance_group]</li>
-		<li>eat_gerund->äter</li>
-		<li>eat_gerund->intar</li>
-		<li>eat_gerund->tuggar</li>
-		<li>eat_gerund->hugger in på</li>
-		<li>eat_gerund->konsumerar</li>
-		<li>eat_gerund->sväljer</li>
-		<li>eat_gerund->kannibaliserar</li>
-		<li>circumstance_phrase->med en känsla av syfte</li>
-		<li>circumstance_phrase->utan skam</li>
-		<li>circumstance_phrase->skamset</li>
-		<li>circumstance_phrase->mednas andra tittar på</li>
-		<li>circumstance_phrase->med välbehag</li>
-		<li>circumstance_phrase->frenetiskt som [pawn_possessive] liv hängde på det</li>
-		<li>desc_sentence->[pawn_nameShortDef]'s ansikte är täckt av blod och vätskor.</li>
-		<li>desc_sentence->[pawn_nameShortDef] slickar på [pawn_possessive] fingrar.</li>
-		<li>desc_sentence->[pawn_nameShortDef] har blod och annan smet över hela [pawn_possessive] front.</li>
-		<li>desc_sentence->[pawn_nameShortDef] är i mitten av en stor blodpöl.</li>
-		<li>desc_sentence->[pawn_nameShortDef] betraktar något i närheten med ett mörkt sinne.</li>
-		<li>desc_sentence->köttet glittrar och verkar väldigt saftigt.</li>
-		<li>desc_sentence->köttet spiller överallt över [pawn_nameShortDef]'s kropp.</li>
-	</AteRawHumanlikeMeat.rulePack.rulesStrings>
-
-  <CraftedArt.label>konst tillverkad</CraftedArt.label>
-	<CraftedArt.rulePack.rulesStrings>
-		<li>tale_noun->tillfället [pawn_nameShortDef] tillverkade [thing_labelIndefinite]</li>
-		<li>image->[pawn_nameFull] tillverkade [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
-		<li>image->[pawn_nameFull] färdigställde [pawn_possessive] arbete på [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
-		<li>image->[pawn_nameFull] arbetar på [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
-		<li>image->[pawn_nameFull] skapar [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
-		<li>circumstance_phrase->med total koncentration</li>
-		<li>circumstance_phrase->Med ett utryck av tillfredsställelse på [pawn_possessive] ansikte</li>
-		<li>circumstance_phrase->vid [pawn_possessive] arbetsbänk</li>
-		<li>circumstance_phrase->med stor intensitet</li>
-		<li>desc_sentence->Det finns verktyg spridda runt.</li>
-		<li>desc_sentence->[pawn_pronoun] är repad och sårad från arbetsskador.</li>
-		<li>desc_sentence->[pawn_pronoun] är helt täckt i svett.</li>
-		<li>desc_sentence->Arbetsområdet är mycket organiserat med varje verktyg på rätt plats.</li>
-		<li>desc_sentence->[pawn_pronoun] görs på ett överdrivet sätt för att verka mer kraftfullt.</li>
-		<li>desc_sentence->Storleken på [thing_labelDefinite] är överdriven för att betona dess betydelse.</li>
-		<li>desc_sentence->[thing_labelDefinite] Har en tillagd konstnärlig glöd. Den verkar nästan änglalik.</li>
-		<li>desc_sentence->[pawn_nameShortDef] är bleknad i bakgrunden för att betona [pawn_possessive] nya kreation.</li>
-		<li>desc_sentence->[quantity_adjphrase] åskådare omger [pawn_objective].</li>
-		<li>desc_sentence->En publik hejar på i bakgrunden.</li>
-		<li>quality_sentence->[thing_labelDefinite] verkara vara av [thing_quality] kvalitet</li>
-		<li>quality_sentence->[thing_labelDefinite] är av [thing_quality] kvalitet</li>
-		<li>quality_sentence->[pawn_nameShortDef]'s arbete är av [thing_quality] kvalitet</li>
-		<li>title_sentence->[pawn_nameShortDef]'s titel av [thing_labelDefinite] är skriven undertill: [thing_title]</li>
-		<li>title_sentence->[thing_labelDefinite] är utsmyckad med sin titel: [thing_title]</li>
-		<li>title_sentence->Titeln till [thing_labelDefinite], [thing_title], hänger i bakgrunden</li>
-	</CraftedArt.rulePack.rulesStrings>
-
-  <StruckMineable.label>hittade mineraler</StruckMineable.label>
-	<StruckMineable.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] hittar [thing_label]</li>
-		<li>image->[pawn_nameFull] hittar [thing_label] [circumstance_group]</li>
-		<li>circumstance_phrase->gruvandes</li>
-		<li>circumstance_phrase->grävandes</li>
-		<li>circumstance_phrase->tunnlandes</li>
-		<li>circumstance_phrase->med en förvånad min</li>
-		<li>circumstance_phrase->med en nöjd min</li>
-		<li>desc_sentence->[pawn_nameShortDef] torkar [pawn_possessive] ögonbryn.</li>
-		<li>desc_sentence->[pawn_nameShortDef] hoppar av glädje.</li>
-		<li>desc_sentence->[pawn_nameShortDef] firar med en vän.</li>
-		<li>desc_sentence->[pawn_nameShortDef] skriker av glädje.</li>
-		<li>desc_sentence->[pawn_nameShortDef] skrattar okontrollerat.</li>
-		<li>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</li>
-		<li>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</li>
-	</StruckMineable.rulePack.rulesStrings>
-
-  <FinishedResearchProject.label>forskningsprojekt klart</FinishedResearchProject.label>
-	<FinishedResearchProject.rulePack.rulesStrings>
-		<li>tale_noun->[pawn_nameShortDef] avslutar forskning på [project_label]</li>
-		<li>image->[pawn_nameFull] arbetar på [project_label] forskningsprojekt [circumstance_group]</li>
-		<li>image->[pawn_nameFull] studerar hemligheterna runt [project_label] [circumstance_group]</li>
-		<li>image->[pawn_nameFull] forskar [project_label] [circumstance_group]</li>
-		<li>circumstance_phrase->med stor intensitet</li>
-		<li>circumstance_phrase->ensam vid [pawn_possessive] bänk</li>
-		<li>circumstance_phrase->hållandes papper i [pawn_possessive] hand</li>
-		<li>circumstance_phrase->med en blick av glad fascination</li>
-		<li>desc_sentence->[pawn_nameShortDef] svettas.</li>
-		<li>desc_sentence->arbetet verkar exeptionell komplicerat.</li>
-		<li>desc_sentence->[pawn_nameShortDef] är helt omgiven av en rad verktyg och apparater.</li>
-		<li>desc_sentence->[pawn_nameShortDef] stirrar på [pawn_possessive] upptäckt med en känsla av underverk.</li>
-	</FinishedResearchProject.rulePack.rulesStrings>
-
+  
+  <!-- EN: humanlike corpse butchered -->
   <ButcheredHumanlikeCorpse.label>människolik kropp slaktad</ButcheredHumanlikeCorpse.label>
-
-
+  
+  <!-- EN:
+    <li>tale_noun->the time [PAWN_nameDef] crafted [THING_indefinite]</li>
+    <li>image->[PAWN_nameFull] crafting [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] completing [PAWN_possessive] work on [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] working on [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] making [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>circumstance_phrase->with total concentration</li>
+    <li>circumstance_phrase->with a look of satisfaction on [PAWN_possessive] face</li>
+    <li>circumstance_phrase->at [PAWN_possessive] work bench</li>
+    <li>circumstance_phrase->with great intensity</li>
+    <li>desc_sentence->There are tools scattered all around.</li>
+    <li>desc_sentence->[PAWN_pronoun] is scratched and scarred from work injuries.</li>
+    <li>desc_sentence->[PAWN_pronoun] is covered in sweat.</li>
+    <li>desc_sentence->The work area is highly organized, with every tool in its proper place.</li>
+    <li>desc_sentence->[PAWN_pronoun] is rendered in an exaggerated way to appear more powerful.</li>
+    <li>desc_sentence->The size of [THING_definite] is exaggerated to emphasize its importance.</li>
+    <li>desc_sentence->[THING_definite] has an artistic glow added to it. It seems almost angelic.</li>
+    <li>desc_sentence->[PAWN_nameDef] is faded into the background to emphasize [PAWN_possessive] new creation.</li>
+    <li>desc_sentence->[Quantity_adjphrase] onlookers surround [PAWN_objective].</li>
+    <li>desc_sentence->A crowd cheers from the background.</li>
+    <li>quality_sentence->[THING_definite] looks to be of [THING_quality] quality</li>
+    <li>quality_sentence->[THING_definite] is of [THING_quality] quality</li>
+    <li>quality_sentence->[PAWN_nameDef]'s work is of [THING_quality] quality</li>
+    <li>title_sentence->[PAWN_nameDef]'s title for [THING_definite] is written underneath: [THING_title]</li>
+    <li>title_sentence->[THING_definite] is emblazoned with its title: [THING_title]</li>
+    <li>title_sentence->The title of [THING_definite], [THING_title], hangs in the background</li>
+  -->
+  <CraftedArt.rulePack.rulesStrings>
+    <li>tale_noun->tillfället [pawn_nameShortDef] tillverkade [thing_labelIndefinite]</li>
+    <li>image->[pawn_nameFull] tillverkade [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[pawn_nameFull] färdigställde [pawn_possessive] arbete på [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[pawn_nameFull] arbetar på [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[pawn_nameFull] skapar [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>circumstance_phrase->med total koncentration</li>
+    <li>circumstance_phrase->Med ett utryck av tillfredsställelse på [pawn_possessive] ansikte</li>
+    <li>circumstance_phrase->vid [pawn_possessive] arbetsbänk</li>
+    <li>circumstance_phrase->med stor intensitet</li>
+    <li>desc_sentence->Det finns verktyg spridda runt.</li>
+    <li>desc_sentence->[pawn_pronoun] är repad och sårad från arbetsskador.</li>
+    <li>desc_sentence->[pawn_pronoun] är helt täckt i svett.</li>
+    <li>desc_sentence->Arbetsområdet är mycket organiserat med varje verktyg på rätt plats.</li>
+    <li>desc_sentence->[pawn_pronoun] görs på ett överdrivet sätt för att verka mer kraftfullt.</li>
+    <li>desc_sentence->Storleken på [thing_labelDefinite] är överdriven för att betona dess betydelse.</li>
+    <li>desc_sentence->[thing_labelDefinite] Har en tillagd konstnärlig glöd. Den verkar nästan änglalik.</li>
+    <li>desc_sentence->[pawn_nameShortDef] är bleknad i bakgrunden för att betona [pawn_possessive] nya kreation.</li>
+    <li>desc_sentence->[quantity_adjphrase] åskådare omger [pawn_objective].</li>
+    <li>desc_sentence->En publik hejar på i bakgrunden.</li>
+    <li>quality_sentence->[thing_labelDefinite] verkara vara av [thing_quality] kvalitet</li>
+    <li>quality_sentence->[thing_labelDefinite] är av [thing_quality] kvalitet</li>
+    <li>quality_sentence->[pawn_nameShortDef]'s arbete är av [thing_quality] kvalitet</li>
+    <li>title_sentence->[pawn_nameShortDef]'s titel av [thing_labelDefinite] är skriven undertill: [thing_title]</li>
+    <li>title_sentence->[thing_labelDefinite] är utsmyckad med sin titel: [thing_title]</li>
+    <li>title_sentence->Titeln till [thing_labelDefinite], [thing_title], hänger i bakgrunden</li>
+  </CraftedArt.rulePack.rulesStrings>
+  <!-- EN: art crafted -->
+  <CraftedArt.label>konst tillverkad</CraftedArt.label>
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s extreme drunkenness</li>
+    <li>tale_noun->[PAWN_nameDef] getting extremely drunk</li>
+    <li>image->[PAWN_nameFull] staggering around drunk [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tilting [PAWN_possessive] head back and guzzling liquor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] greedily collecting bottles of liquor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] drinking heavily [circumstance_group]</li>
+    <li>circumstance_phrase->oblivious to [PAWN_possessive] surroundings</li>
+    <li>circumstance_phrase->in a brooding stupor</li>
+    <li>circumstance_phrase->while questioning [PAWN_possessive] own existence</li>
+    <li>circumstance_phrase->with tears in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->while chuckling madly</li>
+    <li>circumstance_phrase->while sobbing</li>
+    <li>circumstance_phrase->while looking pathetic</li>
+    <li>circumstance_phrase->while glaring angrily at people around [PAWN_objective]</li>
+    <li>circumstance_phrase->while leering at someone nearby</li>
+    <li>circumstance_phrase->while attempting to disrobe</li>
+    <li>circumstance_phrase->with a finger in [PAWN_possessive] mouth</li>
+    <li>circumstance_phrase->while holding back vomit</li>
+    <li>circumstance_phrase->without a care in the world</li>
+    <li>circumstance_phrase->with a lustful glint in [PAWN_possessive] eye</li>
+    <li>circumstance_phrase->while reviewing the ghosts of [PAWN_possessive] past</li>
+    <li>desc_sentence->[PAWN_pronoun] seems totally unaware of what is around [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_possessive] face itself seems to be swelling.</li>
+    <li>desc_sentence->[PAWN_pronoun] is nearly unconscious, [PAWN_possessive] tongue lolling out, drool dripping.</li>
+    <li>desc_sentence->[PAWN_pronoun] looks happy and sad at the same time.</li>
+    <li>desc_sentence->[PAWN_pronoun] has stains down [PAWN_possessive] front.</li>
+    <li>desc_sentence->There is a trail of discarded beverage containers behind [PAWN_objective].</li>
+    <li>desc_sentence->There is a white substance on [PAWN_possessive] pants.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to have lost a shoe.</li>
+    <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
+  -->
+  <Drunk.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef]'s extrem fylla</li>
+    <li>image->[pawn_nameFull] ragglar omkring full [circumstance_group]</li>
+    <li>image->[pawn_nameFull] lutar [pawn_possessive] huvudet tillbaka och halsar sprit [circumstance_group]</li>
+    <li>image->[pawn_nameFull] girigt samlar ihop flaskor av sprit [circumstance_group]</li>
+    <li>image->[pawn_nameFull] dricker tungt [circumstance_group]</li>
+    <li>circumstance_phrase->obekymrad av [pawn_possessive] omgivning</li>
+    <li>circumstance_phrase->i en sur fylla</li>
+    <li>circumstance_phrase->ifrågasättande [pawn_possessive] egna existens</li>
+    <li>circumstance_phrase->med tårar i [pawn_possessive] ögon</li>
+    <li>circumstance_phrase->skrattandes galet</li>
+    <li>circumstance_phrase->gråtandes</li>
+    <li>circumstance_phrase->patetiskt</li>
+    <li>circumstance_phrase->stirrandes arg på folk omkring [pawn_objective]</li>
+    <li>circumstance_phrase->leende åt någon i närheten</li>
+    <li>circumstance_phrase->försöker att klä av</li>
+    <li>circumstance_phrase->med ett finger i [pawn_possessive] mun</li>
+    <li>circumstance_phrase->hållandes tillbaka spya</li>
+    <li>circumstance_phrase->utan minsta gnutta omsorg</li>
+    <li>circumstance_phrase->med ett elakt grin i [pawn_possessive] öga</li>
+    <li>circumstance_phrase->funderande över [pawn_possessive] förflutna</li>
+    <li>desc_sentence->[pawn_pronoun] verkar totalt ovetande vad som är runt [pawn_objective].</li>
+    <li>desc_sentence->[pawn_possessive] ansikte verkade som de svällde.</li>
+    <li>desc_sentence->[pawn_pronoun] är nästan medvetslös, [pawn_possessive] tunkan utanför munnen, saliv droppande.</li>
+    <li>desc_sentence->[pawn_pronoun] ser glad och ledsen ut samtidigt.</li>
+    <li>desc_sentence->[pawn_pronoun] har fläckar nere på [pawn_possessive] kläder.</li>
+    <li>desc_sentence->Det finns ett spår av kasserade dryckesbehållare bakom [pawn_objective].</li>
+    <li>desc_sentence->Det finns en vit substans på [pawn_possessive] byxor.</li>
+    <li>desc_sentence->[pawn_pronoun] verkar ha förlorat sina skor.</li>
+    <li>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</li>
+  </Drunk.rulePack.rulesStrings>
+  <!-- EN: drunk -->
+  <Drunk.label>fylla</Drunk.label>
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] finishing research on [PROJECT_label]</li>
+    <li>image->[PAWN_nameFull] working on [PROJECT_label] research project [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] studying the secrets of [PROJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] researching [PROJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with great intensity</li>
+    <li>circumstance_phrase->alone at [PAWN_possessive] bench</li>
+    <li>circumstance_phrase->while holding papers in [PAWN_possessive] hand</li>
+    <li>circumstance_phrase->with a look of gleeful fascination</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweating.</li>
+    <li>desc_sentence->The work appears to be exceptionally complex.</li>
+    <li>desc_sentence->[PAWN_nameDef] is completely surrounded by an array of tools and apparatuses.</li>
+    <li>desc_sentence->[PAWN_nameDef] is staring at [PAWN_possessive] discovery with a sense of wonder.</li>
+  -->
+  <FinishedResearchProject.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef] avslutar forskning på [project_label]</li>
+    <li>image->[pawn_nameFull] arbetar på [project_label] forskningsprojekt [circumstance_group]</li>
+    <li>image->[pawn_nameFull] studerar hemligheterna runt [project_label] [circumstance_group]</li>
+    <li>image->[pawn_nameFull] forskar [project_label] [circumstance_group]</li>
+    <li>circumstance_phrase->med stor intensitet</li>
+    <li>circumstance_phrase->ensam vid [pawn_possessive] bänk</li>
+    <li>circumstance_phrase->hållandes papper i [pawn_possessive] hand</li>
+    <li>circumstance_phrase->med en blick av glad fascination</li>
+    <li>desc_sentence->[pawn_nameShortDef] svettas.</li>
+    <li>desc_sentence->arbetet verkar exeptionell komplicerat.</li>
+    <li>desc_sentence->[pawn_nameShortDef] är helt omgiven av en rad verktyg och apparater.</li>
+    <li>desc_sentence->[pawn_nameShortDef] stirrar på [pawn_possessive] upptäckt med en känsla av underverk.</li>
+  </FinishedResearchProject.rulePack.rulesStrings>
+  <!-- EN: research project finished -->
+  <FinishedResearchProject.label>forskningsprojekt klart</FinishedResearchProject.label>
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s landing in a drop pod</li>
+    <li>image->[PAWN_nameFull] landing in a drop pod [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] touching down in a drop pod [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] striking earth in a drop pod [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] riding in a drop pod [circumstance_group]</li>
+    <li>circumstance_phrase->in front of a [TerrainFeature]</li>
+    <li>circumstance_phrase->with incredible force</li>
+    <li>circumstance_phrase->in a plume of dust and rocks</li>
+    <li>circumstance_phrase->with retro-rockets firing dramatically</li>
+    <li>circumstance_phrase->in a precision landing</li>
+    <li>desc_sentence->[PAWN_pronoun] is concentrating intently on the controls.</li>
+    <li>desc_sentence->[PAWN_pronoun] has [PAWN_possessive] eyes closed and looks afraid.</li>
+    <li>desc_sentence->[PAWN_pronoun] is unconscious, [PAWN_possessive] tongue lolling out, drool dripping.</li>
+    <li>desc_sentence->[PAWN_pronoun] is smiling with grim joy.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to have no idea what [PAWN_pronoun] is doing.</li>
+    <li>desc_sentence->[PAWN_pronoun] is strapped in with [PAWN_possessive] eyes closed, totally helpless.</li>
+    <li>desc_sentence->There is a flame trail licking off the back of the pod.</li>
+    <li>desc_sentence->A nearby [Animal] is looking up, startled.</li>
+    <li>desc_sentence->A [Animal] is fleeing the impact in fear.</li>
+    <li>desc_sentence->There is a [TerrainFeature] in the background.</li>
+    <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
+  -->
+  <LandedInPod.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef]'s landar i en räddningskapsel</li>
+    <li>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</li>
+    <li>image->[pawn_nameFull] landar i en räddningskapsel [circumstance_group]</li>
+    <li>image->[pawn_nameFull] träffar land med en räddningskapsel [circumstance_group]</li>
+    <li>image->[pawn_nameFull] färdas i en räddningskapsel [circumstance_group]</li>
+    <li>circumstance_phrase->framför en [terrainfeature]</li>
+    <li>circumstance_phrase->med enorm kraft</li>
+    <li>circumstance_phrase->i en plym av damm och stenar</li>
+    <li>circumstance_phrase->med retro-raketer skjuter dramatiskt</li>
+    <li>circumstance_phrase->i en precisionslandning</li>
+    <li>desc_sentence->[pawn_pronoun] koncentrerar sig intensivt på kontrollerna.</li>
+    <li>desc_sentence->[pawn_pronoun] har [pawn_possessive] ögona stängda och ser rädd ut.</li>
+    <li>desc_sentence->[pawn_pronoun] är medvetslös, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</li>
+    <li>desc_sentence->[pawn_pronoun] ler med bister glädje.</li>
+    <li>desc_sentence->[pawn_pronoun] verkat inte ha en ide vad [pawn_pronoun] gör.</li>
+    <li>desc_sentence->[pawn_pronoun] är inspännd med [pawn_possessive] ögona stängda, totalt hjälplös.</li>
+    <li>desc_sentence->En flamma slickar baksidan av kapseln.</li>
+    <li>desc_sentence->En närliggande [animal] ser upp, förskräckt.</li>
+    <li>desc_sentence->En [animal] flyr anslagsplatsen i förskräckelse.</li>
+    <li>desc_sentence->Det är en [terrainfeature] i bakgrunden.</li>
+    <li>desc_sentence->En [outlander] tittar tyst i fjärran.</li>
+  </LandedInPod.rulePack.rulesStrings>
+  <!-- EN: landed in pod -->
+  <LandedInPod.label>lander i en kapsen</LandedInPod.label>
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] going berserk</li>
+    <li>image->[PAWN_nameFull] flying into a berserk rage [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] becoming madly, violently insane [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] stumbling forward with a psychotic look on [PAWN_possessive] face [circumstance_group]</li>
+    <li>circumstance_phrase->while attempting to disrobe</li>
+    <li>circumstance_phrase->seemingly without reason</li>
+    <li>circumstance_phrase->as others cower in fear</li>
+    <li>circumstance_phrase->as a friend flees</li>
+    <li>circumstance_phrase->because of the stress</li>
+    <li>circumstance_phrase->as a last step</li>
+    <li>desc_sentence->[PAWN_pronoun] is shaking with ungovernable rage.</li>
+    <li>desc_sentence->[PAWN_possessive] teeth are bared in a deadly snarl.</li>
+    <li>desc_sentence->[PAWN_possessive] eyes are dead pools of madness.</li>
+    <li>desc_sentence->Spittle is flying from [PAWN_possessive] mouth as [PAWN_possessive] screams with insane rage.</li>
+    <li>desc_sentence->[PAWN_pronoun] has lost part of [PAWN_possessive] clothing.</li>
+    <li>desc_sentence->[PAWN_pronoun] is grimacing in misery.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems smiling maniacally.</li>
+    <li>desc_sentence->[PAWN_pronoun] is depicted with the snarling face of a [Animal].</li>
+    <li>desc_sentence->[Animal]s symbolically surround [PAWN_possessive] head.</li>
+    <li>desc_sentence->[PAWN_pronoun] has a murderous glint in [PAWN_possessive] eye.</li>
+    <li>desc_sentence->[PAWN_possessive] entire body seems to be trembling with hatred.</li>
+    <li>desc_sentence->[PAWN_possessive] face is set in a look of twisted serenity.</li>
+    <li>desc_sentence->A single tear rolls down [PAWN_possessive] face.</li>
+  -->
+  <MentalStateBerserk.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef] går bärsärk</li>
+    <li>image->[pawn_nameFull] flyger in i bärsärk ilska [circumstance_group]</li>
+    <li>image->[pawn_nameFull] blir våldsamt galen [circumstance_group]</li>
+    <li>image->[pawn_nameFull] snubblar omgring med en psykotisk blick i [pawn_possessive] ansikte [circumstance_group]</li>
+    <li>circumstance_phrase->medans [pawn_pronoun] försöker klä av</li>
+    <li>circumstance_phrase->utan uppenbar anledning</li>
+    <li>circumstance_phrase->när andra duckar av rädlsla</li>
+    <li>circumstance_phrase->när vänner flyr</li>
+    <li>circumstance_phrase->tack vare stress</li>
+    <li>circumstance_phrase->som ett sista steg</li>
+    <li>desc_sentence->[pawn_pronoun] skakar med okontrollerad vrede.</li>
+    <li>desc_sentence->[pawn_possessive] tänkterna är blottade i ett dödligt morrande.</li>
+    <li>desc_sentence->[pawn_possessive] ögon är som döda bassänger av galenskap.</li>
+    <li>desc_sentence->spott flyger ifrån [pawn_possessive] mun när [pawn_possessive] skriker av galen ilska.</li>
+    <li>desc_sentence->[pawn_pronoun] har förlirat delar av [pawn_possessive] kläder.</li>
+    <li>desc_sentence->[pawn_pronoun] grimaserar i sorg.</li>
+    <li>desc_sentence->[pawn_pronoun] verkar le maniskt.</li>
+    <li>desc_sentence->[pawn_pronoun] är bildat med ett morrande ansikte likt en [animal].</li>
+    <li>desc_sentence->[animal] omringa symboliskt [pawn_possessive] huvud.</li>
+    <li>desc_sentence->[pawn_pronoun] har en mordisk glimt i [pawn_possessive] öga.</li>
+    <li>desc_sentence->[pawn_possessive] hela kropp verkar darra av ilska.</li>
+    <li>desc_sentence->[pawn_possessive] ansiktet verkar fast i en blick av vridet lugn.</li>
+    <li>desc_sentence->En ensam tår droppar ifrån [pawn_possessive] kind.</li>
+  </MentalStateBerserk.rulePack.rulesStrings>
+  <!-- EN: berserk rage -->
+  <MentalStateBerserk.label>bärsärk ilska</MentalStateBerserk.label>
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] giving up in despair</li>
+    <li>image->[PAWN_nameFull] finally giving up under stress [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sobbing uncontrollably [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] stumbling around with a completely broken expression on [PAWN_possessive] face [circumstance_group]</li>
+    <li>circumstance_phrase->while attempting to disrobe</li>
+    <li>circumstance_phrase->seemingly without reason</li>
+    <li>circumstance_phrase->as others offer sympathy</li>
+    <li>circumstance_phrase->as a friend cries</li>
+    <li>circumstance_phrase->because of the stress</li>
+    <li>circumstance_phrase->as a last step</li>
+    <li>desc_sentence->[PAWN_pronoun] has tears streaming down [PAWN_possessive] face.</li>
+    <li>desc_sentence->[PAWN_pronoun] is laughing in the depths of [PAWN_possessive] depression.</li>
+    <li>desc_sentence->[PAWN_nameDef] is looking upward, as if to ask for help from above.</li>
+    <li>desc_sentence->[PAWN_pronoun] is tearing at [PAWN_possessive] own clothes.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems totally unaware of what is around [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] looks happy and sad at the same time.</li>
+    <li>desc_sentence->[PAWN_pronoun] has stains down [PAWN_possessive] front.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to have lost a shoe.</li>
+    <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
+  -->
+  <MentalStateGaveUp.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef] se rupp i förtvivlan</li>
+    <li>image->[pawn_nameFull] ger till slut upp under stress [circumstance_group]</li>
+    <li>image->[pawn_nameFull] gråter okontrollerat [circumstance_group]</li>
+    <li>image->[pawn_nameFull] snubblar runt med ett fullständigt trasigt uttryck i [pawn_possessive] ansikte [circumstance_group]</li>
+    <li>circumstance_phrase->medan [pawn_pronoun] försöker klä av</li>
+    <li>circumstance_phrase->utan uppenbar anledning</li>
+    <li>circumstance_phrase->medans andra erbuder sympatier</li>
+    <li>circumstance_phrase->när en vän gråter</li>
+    <li>circumstance_phrase->tack vare stressen</li>
+    <li>circumstance_phrase->som ett sista steg</li>
+    <li>desc_sentence->[pawn_pronoun] med tårar flödande från [pawn_possessive] ansikte.</li>
+    <li>desc_sentence->[pawn_pronoun] skrattar i djupet av [pawn_possessive] depression.</li>
+    <li>desc_sentence->[pawn_nameShortDef] ser upp, som vänta på hjälp från ovan.</li>
+    <li>desc_sentence->[pawn_pronoun] sliter [pawn_possessive] egna kläder.</li>
+    <li>desc_sentence->[pawn_pronoun] verkar totalt omedveten om vad som finns runt [pawn_objective].</li>
+    <li>desc_sentence->[pawn_pronoun] ser både glad och ledsen ut på samma gång.</li>
+    <li>desc_sentence->[pawn_pronoun] har fläckar nere framtill på [pawn_possessive] kläder.</li>
+    <li>desc_sentence->[pawn_pronoun] verkar ha förlorat en sko.</li>
+    <li>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</li>
+  </MentalStateGaveUp.rulePack.rulesStrings>
+  <!-- EN: gave up -->
+  <MentalStateGaveUp.label>ger upp</MentalStateGaveUp.label>
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] striking [THING_label]</li>
+    <li>image->[PAWN_nameFull] striking [THING_label] [circumstance_group]</li>
+    <li>circumstance_phrase->while mining</li>
+    <li>circumstance_phrase->while digging</li>
+    <li>circumstance_phrase->while tunnelling</li>
+    <li>circumstance_phrase->with a look of surprise</li>
+    <li>circumstance_phrase->with a satisfied expression</li>
+    <li>desc_sentence->[PAWN_nameDef] is wiping [PAWN_possessive] brow.</li>
+    <li>desc_sentence->[PAWN_nameDef] is jumping for joy.</li>
+    <li>desc_sentence->[PAWN_nameDef] is high-fiving a friend.</li>
+    <li>desc_sentence->[PAWN_nameDef] is screaming with happiness.</li>
+    <li>desc_sentence->[PAWN_nameDef] is laughing uncontrollably.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <StruckMineable.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef] hittar [thing_label]</li>
+    <li>image->[pawn_nameFull] hittar [thing_label] [circumstance_group]</li>
+    <li>circumstance_phrase->gruvandes</li>
+    <li>circumstance_phrase->grävandes</li>
+    <li>circumstance_phrase->tunnlandes</li>
+    <li>circumstance_phrase->med en förvånad min</li>
+    <li>circumstance_phrase->med en nöjd min</li>
+    <li>desc_sentence->[pawn_nameShortDef] torkar [pawn_possessive] ögonbryn.</li>
+    <li>desc_sentence->[pawn_nameShortDef] hoppar av glädje.</li>
+    <li>desc_sentence->[pawn_nameShortDef] firar med en vän.</li>
+    <li>desc_sentence->[pawn_nameShortDef] skriker av glädje.</li>
+    <li>desc_sentence->[pawn_nameShortDef] skrattar okontrollerat.</li>
+    <li>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</li>
+    <li>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</li>
+  </StruckMineable.rulePack.rulesStrings>
+  <!-- EN: struck mineable -->
+  <StruckMineable.label>hittade mineraler</StruckMineable.label>
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s vomiting</li>
+    <li>image->[PAWN_nameFull] spewing vomit onto the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking disgusted while covered with dried vomit [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] doubled over and retching onto the floor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] on [PAWN_possessive] knees, vomiting on the floor [circumstance_group]</li>
+    <li>circumstance_phrase->while looking pained</li>
+    <li>circumstance_phrase->with great shame</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>desc_sentence->[PAWN_pronoun] seems totally unaware of what is around [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_possessive] face itself seems to be swelling.</li>
+    <li>desc_sentence->[PAWN_pronoun] is nearly unconscious, [PAWN_possessive] tongue lolling out, drool dripping.</li>
+    <li>desc_sentence->[PAWN_pronoun] is convulsing violently.</li>
+    <li>desc_sentence->[PAWN_pronoun] looks ashamed.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be trying to laugh, despite the circumstances.</li>
+    <li>desc_sentence->[PAWN_pronoun] looks almost deflated, as though totally emptied by the intense vomiting.</li>
+    <li>desc_sentence->[PAWN_pronoun] is surrounded by an artistically rendered halo of filth.</li>
+    <li>desc_sentence->A [Animal] is eating from the trail of vomit in the background.</li>
+  -->
+  <Vomited.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef]'s kräks</li>
+    <li>image->[pawn_nameFull] sprayar spya över marken [circumstance_group]</li>
+    <li>image->[pawn_nameFull] ser äcklad ut täckt med torkad spya [circumstance_group]</li>
+    <li>image->[pawn_nameFull] fördubblats under kväljningar på golvet [circumstance_group]</li>
+    <li>image->[pawn_nameFull] på [pawn_possessive] knäar och spyr på golvet [circumstance_group]</li>
+    <li>circumstance_phrase->när smärtan sprider sig i kroppen</li>
+    <li>circumstance_phrase->med enorm skam</li>
+    <li>circumstance_phrase->när andra ser på</li>
+    <li>desc_sentence->[pawn_pronoun] verkar helt omedveten om vad som pågår [pawn_objective].</li>
+    <li>desc_sentence->[pawn_possessive] ansiktet verkar vara svullet.</li>
+    <li>desc_sentence->[pawn_pronoun] är nära medveslöshet, [pawn_possessive] tungan hängandes utanför, droppandes saliv.</li>
+    <li>desc_sentence->[pawn_pronoun] har våldsamma kramper.</li>
+    <li>desc_sentence->[pawn_pronoun] ser skamsen ut.</li>
+    <li>desc_sentence->[pawn_pronoun] verkar att försöka skratta, trots omständigheterna.</li>
+    <li>desc_sentence->[pawn_pronoun] ser nästan tömd, som tack vare det intensiva kräkandet.</li>
+    <li>desc_sentence->[pawn_pronoun] är omgiven av en konstnärligt utförda gloria av smuts.</li>
+    <li>desc_sentence->En [animal] äter från rännilen av spya i bakgrunden.</li>
+  </Vomited.rulePack.rulesStrings>
+  <!-- EN: vomited -->
+  <Vomited.label>kräks</Vomited.label>
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] walking around naked</li>
+    <li>image->[PAWN_nameFull] [nude_action] while in a state of nature [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] in the nude [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action], naked, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] without any clothes on [circumstance_group]</li>
+    <li>nude_action->prancing</li>
+    <li>nude_action->frolicking</li>
+    <li>nude_action->gambolling</li>
+    <li>nude_action->walking</li>
+    <li>nude_action->strutting [PAWN_possessive] stuff</li>
+    <li>nude_action->sashaying</li>
+    <li>nude_action->tiptoeing</li>
+    <li>nude_action->promenading</li>
+    <li>nude_action->surveying the area</li>
+    <li>circumstance_phrase->with a sense of purpose</li>
+    <li>circumstance_phrase->with no hint of shame</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->for no apparent reason</li>
+    <li>circumstance_phrase->while confused animals look on</li>
+    <li>desc_sentence->[PAWN_nameDef] is visibly aroused.</li>
+    <li>desc_sentence->[PAWN_nameDef] is covered in unexplained moisture.</li>
+    <li>desc_sentence->[PAWN_nameDef] is breathing heavily for no obvious reason.</li>
+    <li>desc_sentence->[PAWN_nameDef] is fondling a shrub.</li>
+  -->
+  <WalkedNaked.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef] går omkring naken</li>
+    <li>image->[pawn_nameFull] [nude_action] i ett naturligt tillstånd [circumstance_group]</li>
+    <li>image->[pawn_nameFull] [nude_action] i bara mässingen [circumstance_group]</li>
+    <li>image->[pawn_nameFull] [nude_action], naken, [circumstance_group]</li>
+    <li>image->[pawn_nameFull] [nude_action] utan några kläder på [circumstance_group]</li>
+    <li>nude_action->dansande</li>
+    <li>nude_action->skuttande</li>
+    <li>nude_action->skuttande</li>
+    <li>nude_action->går</li>
+    <li>nude_action->stolsera [pawn_possessive] saker</li>
+    <li>nude_action->svassa</li>
+    <li>nude_action->gå på tå</li>
+    <li>nude_action->promerea</li>
+    <li>nude_action->undersöka området</li>
+    <li>circumstance_phrase->med en känsla av syfte</li>
+    <li>circumstance_phrase->utan skam</li>
+    <li>circumstance_phrase->medans andra tittar</li>
+    <li>circumstance_phrase->utan uppenbar anledning</li>
+    <li>circumstance_phrase->medan förvirrade djur tittar på</li>
+    <li>desc_sentence->[pawn_nameShortDef] är synligt upphetsad.</li>
+    <li>desc_sentence->[pawn_nameShortDef] är täckt av oförklarlig fuktighet.</li>
+    <li>desc_sentence->[pawn_nameShortDef] andas tungt utan uppenbar anledning.</li>
+    <li>desc_sentence->[pawn_nameShortDef] smeker en buske.</li>
+  </WalkedNaked.rulePack.rulesStrings>
+  <!-- EN: walked naked -->
+  <WalkedNaked.label>går naken</WalkedNaked.label>
+  
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] catching fire</li>
+    <li>image->[PAWN_nameFull] frantically beating out a fire attached to [PAWN_possessive] body [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] enveloped by flame [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] kneeling, hands over head, trying to extinguish flames on [PAWN_possessive] body [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] rolling on the floor while burning [circumstance_group]</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->while nearly naked</li>
+    <li>circumstance_phrase->with focused intent</li>
+    <li>desc_sentence->[PAWN_possessive] flesh is visibly charring.</li>
+    <li>desc_sentence->[PAWN_possessive] eyes are wide with panic.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be barely conscious; [PAWN_possessive] eyes are lifeless.</li>
+    <li>desc_sentence->[PAWN_possessive] mouth is open as [PAWN_pronoun] screams for help.</li>
+    <li>desc_sentence->The flames are about to envelope his head.</li>
+    <li>desc_sentence->A symbolic halo of fire surrounds his face.</li>
+    <li>desc_sentence->[PAWN_pronoun] is laughing maniacally.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be losing [PAWN_objective]self.</li>
+    <li>desc_sentence->A plume of smoke is rising off [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] is rendered artistically in a corpse-like way.</li>
+  -->
+  <WasOnFire.rulePack.rulesStrings>
+    <li>tale_noun->[pawn_nameShortDef] brinner</li>
+    <li>image->[pawn_nameFull] slår frenetiskt ut elden på [pawn_possessive] kropp [circumstance_group]</li>
+    <li>image->[pawn_nameFull] är uppsluken helt i eld [circumstance_group]</li>
+    <li>image->[pawn_nameFull] knäböjer, händerna över huvudet, försöker desperat släcka flammor på [pawn_possessive] kropp [circumstance_group]</li>
+    <li>image->[pawn_nameFull] rullar på golvet brinnandes [circumstance_group]</li>
+    <li>circumstance_phrase->medans andra ser på</li>
+    <li>circumstance_phrase->nästan naken</li>
+    <li>circumstance_phrase->med fokuserad avsikt</li>
+    <li>desc_sentence->[pawn_possessive] huden är synbart förkolnad.</li>
+    <li>desc_sentence->[pawn_possessive] ögonen är uppspärrade av panik.</li>
+    <li>desc_sentence->[pawn_pronoun] verkar knappt vara medveten; [pawn_possessive] ögon är livlösa.</li>
+    <li>desc_sentence->[pawn_possessive] munnen är öppen och [pawn_pronoun] skriker på hjälp.</li>
+    <li>desc_sentence->flammorna håller på att täcka huvudet.</li>
+    <li>desc_sentence->En symbolisk halo av eld omger [pawn_possessive] ansikte.</li>
+    <li>desc_sentence->[pawn_pronoun] kacklar maniskt.</li>
+    <li>desc_sentence->[pawn_pronoun] verkar förlora sig själv.</li>
+    <li>desc_sentence->En plym av rök stiger ifrån [pawn_objective].</li>
+    <li>desc_sentence->[pawn_pronoun] görs konstnärligt på ett likformigt sätt.</li>
+  </WasOnFire.rulePack.rulesStrings>
+  <!-- EN: on fire -->
+  <WasOnFire.label>brinner</WasOnFire.label>
+  
 </LanguageData>

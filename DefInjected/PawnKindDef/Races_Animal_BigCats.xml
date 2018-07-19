@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Cougar.label>puma</Cougar.label>
+  
   <Cougar.labelPlural>pumor</Cougar.labelPlural>
   <Cougar.lifeStages.0.label>pumaunge</Cougar.lifeStages.0.label>
   <Cougar.lifeStages.0.labelPlural>pumaungar</Cougar.lifeStages.0.labelPlural>
@@ -25,8 +24,37 @@
   <Cougar.labelMalePlural>pumahannar</Cougar.labelMalePlural>
   <Cougar.labelFemale>pumahona</Cougar.labelFemale>
   <Cougar.labelFemalePlural>pumahonor</Cougar.labelFemalePlural>
-
-  <Panther.label>panter</Panther.label>
+  <!-- EN: cougar -->
+  <Cougar.label>puma</Cougar.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.labelPlural>lodjur</Lynx.labelPlural>
+  <!-- EN: lynx kitten -->
+  <Lynx.lifeStages.lynx_kitten.label>lodjurunge</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.lifeStages.lynx_kitten.labelPlural>lodjurungar</Lynx.lifeStages.lynx_kitten.labelPlural>
+  <Lynx.lifeStages.lynx_kitten.labelMale>lodjursunge</Lynx.lifeStages.lynx_kitten.labelMale>
+  <Lynx.lifeStages.lynx_kitten.labelMalePlural>lodjurungar</Lynx.lifeStages.lynx_kitten.labelMalePlural>
+  <Lynx.lifeStages.lynx_kitten.labelFemale>lodjursunge</Lynx.lifeStages.lynx_kitten.labelFemale>
+  <Lynx.lifeStages.lynx_kitten.labelFemalePlural>lodjurungar</Lynx.lifeStages.lynx_kitten.labelFemalePlural>
+  <Lynx.lifeStages.1.label>lodjur</Lynx.lifeStages.1.label>
+  <Lynx.lifeStages.1.labelPlural>lodjur</Lynx.lifeStages.1.labelPlural>
+  <Lynx.lifeStages.1.labelMale>lodjurshane</Lynx.lifeStages.1.labelMale>
+  <Lynx.lifeStages.1.labelMalePlural>lodjurshanar</Lynx.lifeStages.1.labelMalePlural>
+  <Lynx.lifeStages.1.labelFemale>lodjurshona</Lynx.lifeStages.1.labelFemale>
+  <Lynx.lifeStages.1.labelFemalePlural>lodjurshonor</Lynx.lifeStages.1.labelFemalePlural>
+  <Lynx.lifeStages.2.label>lodjur</Lynx.lifeStages.2.label>
+  <Lynx.lifeStages.2.labelPlural>lodjur</Lynx.lifeStages.2.labelPlural>
+  <Lynx.lifeStages.2.labelMale>lodjurshane</Lynx.lifeStages.2.labelMale>
+  <Lynx.lifeStages.2.labelMalePlural>lodjurshanar</Lynx.lifeStages.2.labelMalePlural>
+  <Lynx.lifeStages.2.labelFemale>lodjurshona</Lynx.lifeStages.2.labelFemale>
+  <Lynx.lifeStages.2.labelFemalePlural>lodjurshonor</Lynx.lifeStages.2.labelFemalePlural>
+  <Lynx.labelMale>lodjurshane</Lynx.labelMale>
+  <Lynx.labelMalePlural>lodjurshanar</Lynx.labelMalePlural>
+  <Lynx.labelFemale>lodjurshona</Lynx.labelFemale>
+  <Lynx.labelFemalePlural>lodjurshonor</Lynx.labelFemalePlural>
+  <!-- EN: lynx -->
+  <Lynx.label>lodjur</Lynx.label>
+  
   <Panther.labelPlural>pantrar</Panther.labelPlural>
   <Panther.lifeStages.0.label>panterunge</Panther.lifeStages.0.label>
   <Panther.lifeStages.0.labelPlural>panterungar</Panther.lifeStages.0.labelPlural>
@@ -50,31 +78,7 @@
   <Panther.labelMalePlural>panterhanar</Panther.labelMalePlural>
   <Panther.labelFemale>panterhona</Panther.labelFemale>
   <Panther.labelFemalePlural>panterhonor</Panther.labelFemalePlural>
-
-  <Lynx.label>lodjur</Lynx.label>
-  <Lynx.labelPlural>lodjur</Lynx.labelPlural>
-  <Lynx.lifeStages.0.label>lodjurunge</Lynx.lifeStages.0.label>
-  <Lynx.lifeStages.0.labelPlural>lodjurungar</Lynx.lifeStages.0.labelPlural>
-  <Lynx.lifeStages.0.labelMale>lodjursunge</Lynx.lifeStages.0.labelMale>
-  <Lynx.lifeStages.0.labelMalePlural>lodjurungar</Lynx.lifeStages.0.labelMalePlural>
-  <Lynx.lifeStages.0.labelFemale>lodjursunge</Lynx.lifeStages.0.labelFemale>
-  <Lynx.lifeStages.0.labelFemalePlural>lodjurungar</Lynx.lifeStages.0.labelFemalePlural>
-  <Lynx.lifeStages.1.label>lodjur</Lynx.lifeStages.1.label>
-  <Lynx.lifeStages.1.labelPlural>lodjur</Lynx.lifeStages.1.labelPlural>
-  <Lynx.lifeStages.1.labelMale>lodjurshane</Lynx.lifeStages.1.labelMale>
-  <Lynx.lifeStages.1.labelMalePlural>lodjurshanar</Lynx.lifeStages.1.labelMalePlural>
-  <Lynx.lifeStages.1.labelFemale>lodjurshona</Lynx.lifeStages.1.labelFemale>
-  <Lynx.lifeStages.1.labelFemalePlural>lodjurshonor</Lynx.lifeStages.1.labelFemalePlural>
-  <Lynx.lifeStages.2.label>lodjur</Lynx.lifeStages.2.label>
-  <Lynx.lifeStages.2.labelPlural>lodjur</Lynx.lifeStages.2.labelPlural>
-  <Lynx.lifeStages.2.labelMale>lodjurshane</Lynx.lifeStages.2.labelMale>
-  <Lynx.lifeStages.2.labelMalePlural>lodjurshanar</Lynx.lifeStages.2.labelMalePlural>
-  <Lynx.lifeStages.2.labelFemale>lodjurshona</Lynx.lifeStages.2.labelFemale>
-  <Lynx.lifeStages.2.labelFemalePlural>lodjurshonor</Lynx.lifeStages.2.labelFemalePlural>
-  <Lynx.labelMale>lodjurshane</Lynx.labelMale>
-  <Lynx.labelMalePlural>lodjurshanar</Lynx.labelMalePlural>
-  <Lynx.labelFemale>lodjurshona</Lynx.labelFemale>
-  <Lynx.labelFemalePlural>lodjurshonor</Lynx.labelFemalePlural>
-
-
+  <!-- EN: panther -->
+  <Panther.label>panter</Panther.label>
+  
 </LanguageData>

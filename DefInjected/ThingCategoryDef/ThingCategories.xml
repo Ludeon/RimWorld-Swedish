@@ -1,76 +1,151 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Root.label>rot</Root.label>
-
-
-  <!-- Foods -->
-
-  <Foods.label>föda</Foods.label>
-  <FoodMeals.label>maträtter</FoodMeals.label>
-  <FoodRaw.label>råkost</FoodRaw.label>
-  <MeatRaw.label>kött</MeatRaw.label>
-  <PlantFoodRaw.label>vegetariskt</PlantFoodRaw.label>
+  
+  <!-- EN: animal products -->
   <AnimalProductRaw.label>djurprodukter</AnimalProductRaw.label>
-  <EggsUnfertilized.label>ägg (ofert.)</EggsUnfertilized.label>
-  <EggsFertilized.label>ägg (fert.)</EggsFertilized.label>
-
-
-  <!-- Manufactured -->
-
-  <Manufactured.label>tillverkad</Manufactured.label>
-  <Textiles.label>textiler</Textiles.label>
-  <Leathers.label>läder</Leathers.label>
-  <Medicine.label>medicin</Medicine.label>
-  <Drugs.label>droger</Drugs.label>
-
-
-  <!-- Raw resources -->
-
-  <ResourcesRaw.label>råa resurser</ResourcesRaw.label>
-  <PlantMatter.label>växtmaterial</PlantMatter.label>
-  <StoneBlocks.label>stenblock</StoneBlocks.label>
-
-
-  <!-- Items -->
-
-  <Items.label>saker</Items.label>
-  <Art.label>konst</Art.label>
-  <Furniture.label>möbler</Furniture.label>
-  <Unfinished.label>ofärdigt</Unfinished.label>
-  <Artifacts.label>artefakter</Artifacts.label>
-  <BodyParts.label>kroppsdelar</BodyParts.label>
-  <BodyPartsNatural.label>naturliga</BodyPartsNatural.label>
-  <BodyPartsArtificial.label>artificiella</BodyPartsArtificial.label>
-
-
-  <!-- Weapons -->
-
-  <Weapons.label>vapen</Weapons.label>
-  <WeaponsMelee.label>närstridsvapen</WeaponsMelee.label>
-  <WeaponsRanged.label>avståndsvapen</WeaponsRanged.label>
-  <Grenades.label>granater</Grenades.label>
-
-
-  <!-- Apparel -->
-
+  
+  <!-- EN: apparel -->
   <Apparel.label>kläder</Apparel.label>
-  <Headgear.label>headgear</Headgear.label>
-
-
-  <!-- Chunks -->
-
+  
+  <!-- UNUSED -->
+  <Art.label>konst</Art.label>
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>artefakter</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>kroppsdelar</BodyParts.label>
+  
+  <!-- EN: artificial -->
+  <BodyPartsArtificial.label>artificiella</BodyPartsArtificial.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>naturliga</BodyPartsNatural.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>TODO</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>TODO</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>TODO</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
   <Chunks.label>bitar</Chunks.label>
-  <StoneChunks.label>stenbitar</StoneChunks.label>
-
-
-  <!-- Corpses -->
-
+  
+  <!-- EN: corpses -->
   <Corpses.label>kroppar</Corpses.label>
-  <CorpsesHumanlike.label>människolika kroppar</CorpsesHumanlike.label>
+  
+  <!-- EN: animal corpses -->
   <CorpsesAnimal.label>djurkroppar</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>människolika kroppar</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
   <CorpsesInsect.label>insektskroppar</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
   <CorpsesMechanoid.label>mekanoidkroppar</CorpsesMechanoid.label>
-
-
+  
+  <!-- EN: drugs -->
+  <Drugs.label>droger</Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>ägg (fert.)</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>ägg (ofert.)</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>maträtter</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>råkost</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>föda</Foods.label>
+  
+  <!-- UNUSED -->
+  <Furniture.label>möbler</Furniture.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>granater</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>headgear</Headgear.label>
+  
+  <!-- EN: items -->
+  <Items.label>saker</Items.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>läder</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>tillverkad</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>kött</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>medicin</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>TODO</MortarShells.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>vegetariskt</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>växtmaterial</PlantMatter.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>råa resurser</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>rot</Root.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>stenblock</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>stenbitar</StoneChunks.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>textiler</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>ofärdigt</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>vapen</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>närstridsvapen</WeaponsMelee.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>avståndsvapen</WeaponsRanged.label>
+  
 </LanguageData>

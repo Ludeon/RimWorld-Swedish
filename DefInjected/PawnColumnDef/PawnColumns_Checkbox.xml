@@ -1,9 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Slaughter.headerTip>Slakta</Slaughter.headerTip>
+  
+  <!-- EN: Follow master while the master is drafted. -->
   <FollowDrafted.headerTip>Följ herren medan den är kommenderad.</FollowDrafted.headerTip>
+  
+  <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
   <FollowFieldwork.headerTip>Följ herren medan den gör fältarbete (jaga eller tämja djur).</FollowFieldwork.headerTip>
-
-
+  
+  <!-- EN: Mark animals to be hunted by your hunters. -->
+  <Hunt.headerTip>TODO</Hunt.headerTip>
+  
+  <!-- EN: Slaughter -->
+  <Slaughter.headerTip>Slakta</Slaughter.headerTip>
+  
+  <!-- EN: Tame a wild animal. -->
+  <Tame.headerTip>TODO</Tame.headerTip>
+  
 </LanguageData>

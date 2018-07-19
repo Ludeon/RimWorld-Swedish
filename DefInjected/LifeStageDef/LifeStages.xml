@@ -1,22 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <MechanoidFullyFormed.label>fullt utveckad</MechanoidFullyFormed.label>
-  <HumanlikeBaby.label>baby</HumanlikeBaby.label>
-  <HumanlikeToddler.label>småbarn</HumanlikeToddler.label>
-  <HumanlikeChild.label>barn</HumanlikeChild.label>
-
-  <HumanlikeTeenager.label>tonåring</HumanlikeTeenager.label>
-  <HumanlikeTeenager.adjective>tonåren</HumanlikeTeenager.adjective>
-
-  <HumanlikeAdult.label>vuxen</HumanlikeAdult.label>
-  <EusocialInsectLarva.label>larv</EusocialInsectLarva.label>
-  <EusocialInsectJuvenile.label>omogen</EusocialInsectJuvenile.label>
-  <EusocialInsectAdult.label>vuxen</EusocialInsectAdult.label>
-  <AnimalBaby.label>unge</AnimalBaby.label>
-  <AnimalBabyTiny.label>baby</AnimalBabyTiny.label>
-  <AnimalJuvenile.label>ungt djur</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
   <AnimalAdult.label>vuxen</AnimalAdult.label>
-
-
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>unge</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>baby</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>ungt djur</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>vuxen</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>omogen</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>larv</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>vuxen</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>baby</HumanlikeBaby.label>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>barn</HumanlikeChild.label>
+  
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>tonåren</HumanlikeTeenager.adjective>
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>tonåring</HumanlikeTeenager.label>
+  
+  <!-- EN: toddler -->
+  <HumanlikeToddler.label>småbarn</HumanlikeToddler.label>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>fullt utveckad</MechanoidFullyFormed.label>
+  
 </LanguageData>

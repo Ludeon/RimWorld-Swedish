@@ -1,43 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>TODO</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>TODO</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>TODO</Cassowary.tools.head.label>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>TODO</Cassowary.race.meatLabel>
+  <!-- EN: cassowary -->
   <Cassowary.label>kasuar</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
   <Cassowary.description>En stor fågel som ej kan flyga med färgglada fjädrar. Även om det är vacker, gör dess spark ont.</Cassowary.description>
-  <Cassowary_Leather.label>kasuarläder</Cassowary_Leather.label>
-  <Cassowary_Leather.description>kasuarläder</Cassowary_Leather.description>
-  <Cassowary_Leather.stuffProps.stuffAdjective>kasuarläder</Cassowary_Leather.stuffProps.stuffAdjective>
-  <Cassowary_Meat.label>fågerkött</Cassowary_Meat.label>
-  <Cassowary_Meat.description>fågerkött</Cassowary_Meat.description>
-  <Cassowary_Corpse.label>kasuarkropp</Cassowary_Corpse.label>
-  <Cassowary_Corpse.description>kasuarkropp</Cassowary_Corpse.description>
-
+  
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>TODO</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>TODO</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>TODO</Emu.tools.head.label>
+  <!-- EN: emu -->
   <Emu.label>emu</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
   <Emu.description>En stor fågel som ej kan flyga med pärlformade ögon i sitt fula ansikte. Tack vare sin dåliga inställning är den det stora rövhålet i fågelvärlden.</Emu.description>
-  <Emu_Leather.label>emuläder</Emu_Leather.label>
-  <Emu_Leather.description>emuläder</Emu_Leather.description>
-  <Emu_Leather.stuffProps.stuffAdjective>emuläder</Emu_Leather.stuffProps.stuffAdjective>
-  <!-- Use Meat From: Cassowary -->
-  <Emu_Corpse.label>emukropp</Emu_Corpse.label>
-  <Emu_Corpse.description>emukropp</Emu_Corpse.description>
-
+  
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>TODO</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>TODO</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>TODO</Ostrich.tools.head.label>
+  <!-- EN: ostrich -->
   <Ostrich.label>struts</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
   <Ostrich.description>Den största omodifierade fågelarter. Strutsar är kända för sin snabba sprint, sina stora ägg och sin kraftfulla spark.</Ostrich.description>
-  <Ostrich_Leather.label>strutsläder</Ostrich_Leather.label>
-  <Ostrich_Leather.description>strutsläder</Ostrich_Leather.description>
-  <Ostrich_Leather.stuffProps.stuffAdjective>strutsläder</Ostrich_Leather.stuffProps.stuffAdjective>
-  <!-- Use Meat From: Cassowary -->
-  <Ostrich_Corpse.label>strutskropp</Ostrich_Corpse.label>
-  <Ostrich_Corpse.description>strutskropp</Ostrich_Corpse.description>
-
+  
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>TODO</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>TODO</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>TODO</Turkey.tools.head.label>
+  <!-- EN: turkey -->
   <Turkey.label>kalkon</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
   <Turkey.description>En kort, tjock, fågel som ej kan flyga känd för sin skrattredande "kluckande" ljud. Det har sedan länge domesticerats, men finns även vilt i naturen.</Turkey.description>
-  <Turkey_Leather.label>kalkonläder</Turkey_Leather.label>
-  <Turkey_Leather.description>kalkonläder</Turkey_Leather.description>
-  <Turkey_Leather.stuffProps.stuffAdjective>kalkonläder</Turkey_Leather.stuffProps.stuffAdjective>
-  <Turkey_Meat.label>kalkonkött</Turkey_Meat.label>
-  <Turkey_Meat.description>kalkonkött</Turkey_Meat.description>
-  <Turkey_Corpse.label>kalkonkropp</Turkey_Corpse.label>
-  <Turkey_Corpse.description>kalkonkropp</Turkey_Corpse.description>
-
-
+  
 </LanguageData>

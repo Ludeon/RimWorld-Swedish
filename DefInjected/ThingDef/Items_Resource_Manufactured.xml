@@ -1,40 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Medicine -->
-
-  <HerbalMedicine.label>örtmedicin</HerbalMedicine.label>
-  <HerbalMedicine.description>Ett paket av växtbaserade hopkok typiskt extraheras från helande rötter. Mindre potent än industriläkemedel men mycket bättre än ingenting.</HerbalMedicine.description>
-
-  <Medicine.label>medicin</Medicine.label>
-  <Medicine.description>Medicinska personalen använder dessa paket att läka de sårade.</Medicine.description>
-
-  <GlitterworldMedicine.label>glitterväldsmedicin</GlitterworldMedicine.label>
-  <GlitterworldMedicine.description>Avancerade medicinska förnödenheter från ett högteknologiskt glitterväld.</GlitterworldMedicine.description>
-
-
-  <!-- Shells -->
-
-  <MortarShell.label>granat</MortarShell.label>
-  <MortarShell.description>Skjuts från granatkastare. Exploderar när den skadas.</MortarShell.description>
-
-
-  <!-- Component -->
-
-  <Component.label>komponenter</Component.label>
-  <Component.description>Diverse kugghjul, kondensatorer, kretskort, rör, hjul, sensorer, kablar, chips, processorer och andra elektroniska och industriella delar. Nödvändig för montering komplexa maskiner eller elektronik.</Component.description>
-
-
-  <!-- Neutroamine -->
-
-  <Neutroamine.label>neutroamin</Neutroamine.label>
-  <Neutroamine.description>En syntetisk prekursur kemikalie. Värdelös för sig själv men många läkemedel kräver neutroamine som en ingrediens.</Neutroamine.description>
-
-
-  <!-- Chemfuel -->
-
+  
+  <!-- EN: chemfuel -->
   <Chemfuel.label>kemiskt bränsle</Chemfuel.label>
+  <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
   <Chemfuel.description>Flyktig vätska av kemisk förening. Används för bränsle till raketer och andra maskiner.</Chemfuel.description>
-
-
+  
+  <!-- EN: component -->
+  <ComponentIndustrial.label>komponenter</ComponentIndustrial.label>
+  <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
+  <ComponentIndustrial.description>Diverse kugghjul, kondensatorer, kretskort, rör, hjul, sensorer, kablar, chips, processorer och andra elektroniska och industriella delar. Nödvändig för montering komplexa maskiner eller elektronik.</ComponentIndustrial.description>
+  
+  <!-- EN: advanced component -->
+  <ComponentSpacer.label>TODO</ComponentSpacer.label>
+  <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
+  <ComponentSpacer.description>TODO</ComponentSpacer.description>
+  
+  <!-- EN: herbal medicine -->
+  <MedicineHerbal.label>örtmedicin</MedicineHerbal.label>
+  <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
+  <MedicineHerbal.description>Ett paket av växtbaserade hopkok typiskt extraheras från helande rötter. Mindre potent än industriläkemedel men mycket bättre än ingenting.</MedicineHerbal.description>
+  
+  <!-- EN: medicine -->
+  <MedicineIndustrial.label>medicin</MedicineIndustrial.label>
+  <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
+  <MedicineIndustrial.description>Medicinska personalen använder dessa paket att läka de sårade.</MedicineIndustrial.description>
+  
+  <!-- EN: glitterworld medicine -->
+  <MedicineUltratech.label>glitterväldsmedicin</MedicineUltratech.label>
+  <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
+  <MedicineUltratech.description>Avancerade medicinska förnödenheter från ett högteknologiskt glitterväld.</MedicineUltratech.description>
+  
+  <!-- EN: neutroamine -->
+  <Neutroamine.label>neutroamin</Neutroamine.label>
+  <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
+  <Neutroamine.description>En syntetisk prekursur kemikalie. Värdelös för sig själv men många läkemedel kräver neutroamine som en ingrediens.</Neutroamine.description>
+  
 </LanguageData>

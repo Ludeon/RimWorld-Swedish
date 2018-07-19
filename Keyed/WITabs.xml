@@ -2,36 +2,73 @@
 <LanguageData>
 
   <!-- WITab titles -->
+  <!-- EN: Terrain -->
   <TabTerrain>Terräng</TabTerrain>
+  <!-- EN: Planet -->
   <TabPlanet>Planet</TabPlanet>
+  <!-- EN: Social -->
   <TabCaravanSocial>Social</TabCaravanSocial>
+  <!-- EN: Health -->
   <TabCaravanHealth>Hälsa</TabCaravanHealth>
+  <!-- EN: Needs -->
   <TabCaravanNeeds>Behov</TabCaravanNeeds>
+  <!-- EN: Gear -->
   <TabCaravanGear>Utrustning</TabCaravanGear>
+  <!-- EN: Items -->
   <TabCaravanItems>Föremål</TabCaravanItems>
-
+  
   <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>Överge {{0}}x {0}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>Vill du verkligen överge {0}?\n\nÖvergivna föremål försvinner och kan aldrig återfås igen.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
   <AbandonTip>Överge</AbandonTip>
+  <!-- EN: Banish -->
+  <BanishTip>Förvisa</BanishTip>
+  <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>Överge ett antal</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
   <AbandonAllTip>Överge (allt)</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Övergivna föremål försvinner och kan aldrig återfås igen.</AbandonItemTipExtraText>
-  <AbandonTipWillDie>{0} kommer troligtvis att dö.</AbandonTipWillDie>
-
+  <!-- EN: {0} will most likely die. -->
+  <BanishTipWillDie>{0} kommer sannolikt att dö.</BanishTipWillDie>
+  
   <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
   <CaravanColonists>Kolonister</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>Fångar och djur</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
   <CaravanItems>Lager</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>Klicka för att öppna en flik med mer information.</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
   <CaravanPrisoners>Fångar</CaravanPrisoners>
+  <!-- EN: Inventory -->
   <CaravanWeaponsAndApparel>Lager</CaravanWeaponsAndApparel>
-
+  <!-- EN: None capable -->
+  <NoneCapable>Ingen kapabel</NoneCapable>
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>Karavanen flyttar sig inte</GainingJoyBecauseCaravanNotMoving>
+  
   <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
   <DragToRearrange>Dra för att ordna.</DragToRearrange>
 
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>Bestäm drogpolicy</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>Huruvida den här personen eller djuret ska bäras av andra husvagnsmedlemmar när de är sjuka.\n\nBurna karavanmedlemmar kan vila även om karvanen rör på sig, men de saktar ner den.</BeCarriedIfSickTip>
+  
   <!-- Planet -->
+  <!-- EN: Seed -->
   <PlanetSeed>frö</PlanetSeed>
+  <!-- EN: Coverage -->
   <PlanetCoverageShort>Rapportering</PlanetCoverageShort>
 
 </LanguageData>

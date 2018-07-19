@@ -1,82 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Chicken.label>höns</Chicken.label>
-  <Chicken.labelPlural>höns</Chicken.labelPlural>
-  <Chicken.lifeStages.0.label>kyckling</Chicken.lifeStages.0.label>
-  <Chicken.lifeStages.0.labelPlural>kycklingar</Chicken.lifeStages.0.labelPlural>
-  <Chicken.lifeStages.0.labelMale>kyckling</Chicken.lifeStages.0.labelMale>
-  <Chicken.lifeStages.0.labelMalePlural>kycklingar</Chicken.lifeStages.0.labelMalePlural>
-  <Chicken.lifeStages.0.labelFemale>kyckling</Chicken.lifeStages.0.labelFemale>
-  <Chicken.lifeStages.0.labelFemalePlural>kycklingar</Chicken.lifeStages.0.labelFemalePlural>
-  <Chicken.lifeStages.1.label>höns</Chicken.lifeStages.1.label>
-  <Chicken.lifeStages.1.labelPlural>höns</Chicken.lifeStages.1.labelPlural>
-  <Chicken.lifeStages.1.labelMale>ungtupp</Chicken.lifeStages.1.labelMale>
-  <Chicken.lifeStages.1.labelMalePlural>ungtuppar</Chicken.lifeStages.1.labelMalePlural>
-  <Chicken.lifeStages.1.labelFemale>unghöna</Chicken.lifeStages.1.labelFemale>
-  <Chicken.lifeStages.1.labelFemalePlural>unghönor</Chicken.lifeStages.1.labelFemalePlural>
-  <Chicken.lifeStages.2.label>höns</Chicken.lifeStages.2.label>
-  <Chicken.lifeStages.2.labelPlural>höns</Chicken.lifeStages.2.labelPlural>
-  <Chicken.lifeStages.2.labelMale>tupp</Chicken.lifeStages.2.labelMale>
-  <Chicken.lifeStages.2.labelMalePlural>tuppar</Chicken.lifeStages.2.labelMalePlural>
-  <Chicken.lifeStages.2.labelFemale>höna</Chicken.lifeStages.2.labelFemale>
-  <Chicken.lifeStages.2.labelFemalePlural>hönor</Chicken.lifeStages.2.labelFemalePlural>
-  <Chicken.labelMale>tupp</Chicken.labelMale>
-  <Chicken.labelMalePlural>tuppar</Chicken.labelMalePlural>
-  <Chicken.labelFemale>höna</Chicken.labelFemale>
-  <Chicken.labelFemalePlural>hönor</Chicken.labelFemalePlural>
-
-  <Pig.label>gris</Pig.label>
-  <Pig.labelPlural>grisar</Pig.labelPlural>
-  <Pig.lifeStages.0.label>griskulting</Pig.lifeStages.0.label>
-  <Pig.lifeStages.0.labelPlural>griskultingar</Pig.lifeStages.0.labelPlural>
-  <Pig.lifeStages.0.labelMale>griskulting</Pig.lifeStages.0.labelMale>
-  <Pig.lifeStages.0.labelMalePlural>griskultingar</Pig.lifeStages.0.labelMalePlural>
-  <Pig.lifeStages.0.labelFemale>griskulting</Pig.lifeStages.0.labelFemale>
-  <Pig.lifeStages.0.labelFemalePlural>griskultingar</Pig.lifeStages.0.labelFemalePlural>
-  <Pig.lifeStages.1.label>unggris</Pig.lifeStages.1.label>
-  <Pig.lifeStages.1.labelPlural>unggrisar</Pig.lifeStages.1.labelPlural>
-  <Pig.lifeStages.1.labelMale>unggris</Pig.lifeStages.1.labelMale>
-  <Pig.lifeStages.1.labelMalePlural>unggrisar</Pig.lifeStages.1.labelMalePlural>
-  <Pig.lifeStages.1.labelFemale>unggris</Pig.lifeStages.1.labelFemale>
-  <Pig.lifeStages.1.labelFemalePlural>unggris</Pig.lifeStages.1.labelFemalePlural>
-  <Pig.lifeStages.2.label>gris</Pig.lifeStages.2.label>
-  <Pig.lifeStages.2.labelPlural>grisar</Pig.lifeStages.2.labelPlural>
-  <Pig.lifeStages.2.labelMale>galt</Pig.lifeStages.2.labelMale>
-  <Pig.lifeStages.2.labelMalePlural>galtar</Pig.lifeStages.2.labelMalePlural>
-  <Pig.lifeStages.2.labelFemale>sugga</Pig.lifeStages.2.labelFemale>
-  <Pig.lifeStages.2.labelFemalePlural>suggor</Pig.lifeStages.2.labelFemalePlural>
-  <Pig.labelMale>galt</Pig.labelMale>
-  <Pig.labelMalePlural>galtar</Pig.labelMalePlural>
-  <Pig.labelFemale>sugga</Pig.labelFemale>
-  <Pig.labelFemalePlural>suggor</Pig.labelFemalePlural>
-
-  <Cow.label>ko</Cow.label>
-  <Cow.labelPlural>kor</Cow.labelPlural>
-  <Cow.lifeStages.0.label>kalv</Cow.lifeStages.0.label>
-  <Cow.lifeStages.0.labelPlural>kavlar</Cow.lifeStages.0.labelPlural>
-  <Cow.lifeStages.0.labelMale>tjurkalv</Cow.lifeStages.0.labelMale>
-  <Cow.lifeStages.0.labelMalePlural>tjurkalvar</Cow.lifeStages.0.labelMalePlural>
-  <Cow.lifeStages.0.labelFemale>kvigkalv</Cow.lifeStages.0.labelFemale>
-  <Cow.lifeStages.0.labelFemalePlural>kvigkalvar</Cow.lifeStages.0.labelFemalePlural>
-  <Cow.lifeStages.1.label>ko</Cow.lifeStages.1.label>
-  <Cow.lifeStages.1.labelPlural>kor</Cow.lifeStages.1.labelPlural>
-  <Cow.lifeStages.1.labelMale>stut</Cow.lifeStages.1.labelMale>
-  <Cow.lifeStages.1.labelMalePlural>stutar</Cow.lifeStages.1.labelMalePlural>
-  <Cow.lifeStages.1.labelFemale>kviga</Cow.lifeStages.1.labelFemale>
-  <Cow.lifeStages.1.labelFemalePlural>kvigor</Cow.lifeStages.1.labelFemalePlural>
-  <Cow.lifeStages.2.label>ko</Cow.lifeStages.2.label>
-  <Cow.lifeStages.2.labelPlural>kor</Cow.lifeStages.2.labelPlural>
-  <Cow.lifeStages.2.labelMale>tjur</Cow.lifeStages.2.labelMale>
-  <Cow.lifeStages.2.labelMalePlural>tjurar</Cow.lifeStages.2.labelMalePlural>
-  <Cow.lifeStages.2.labelFemale>kviga</Cow.lifeStages.2.labelFemale>
-  <Cow.lifeStages.2.labelFemalePlural>kvigor</Cow.lifeStages.2.labelFemalePlural>
-  <Cow.labelMale>tjur</Cow.labelMale>
-  <Cow.labelMalePlural>tjurar</Cow.labelMalePlural>
-  <Cow.labelFemale>ko</Cow.labelFemale>
-  <Cow.labelFemalePlural>kor</Cow.labelFemalePlural>
-
-  <Alpaca.label>alpacka</Alpaca.label>
+  
   <Alpaca.labelPlural>alpackor</Alpaca.labelPlural>
   <Alpaca.lifeStages.0.label>alpackaföl</Alpaca.lifeStages.0.label>
   <Alpaca.lifeStages.0.labelPlural>alpackaföl</Alpaca.lifeStages.0.labelPlural>
@@ -100,6 +24,95 @@
   <Alpaca.labelMalePlural>alpackahingstar</Alpaca.labelMalePlural>
   <Alpaca.labelFemale>alpackasto</Alpaca.labelFemale>
   <Alpaca.labelFemalePlural>alpackaston</Alpaca.labelFemalePlural>
-
-
+  <!-- EN: alpaca -->
+  <Alpaca.label>alpacka</Alpaca.label>
+  
+  <Chicken.labelPlural>höns</Chicken.labelPlural>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>kyckling</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.chick.labelPlural>kycklingar</Chicken.lifeStages.chick.labelPlural>
+  <Chicken.lifeStages.chick.labelMale>kyckling</Chicken.lifeStages.chick.labelMale>
+  <Chicken.lifeStages.chick.labelMalePlural>kycklingar</Chicken.lifeStages.chick.labelMalePlural>
+  <Chicken.lifeStages.chick.labelFemale>kyckling</Chicken.lifeStages.chick.labelFemale>
+  <Chicken.lifeStages.chick.labelFemalePlural>kycklingar</Chicken.lifeStages.chick.labelFemalePlural>
+  <Chicken.lifeStages.cockerel.label>höns</Chicken.lifeStages.cockerel.label>
+  <Chicken.lifeStages.cockerel.labelPlural>höns</Chicken.lifeStages.cockerel.labelPlural>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>ungtupp</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.cockerel.labelMalePlural>ungtuppar</Chicken.lifeStages.cockerel.labelMalePlural>
+  <Chicken.lifeStages.cockerel.labelFemale>unghöna</Chicken.lifeStages.cockerel.labelFemale>
+  <Chicken.lifeStages.cockerel.labelFemalePlural>unghönor</Chicken.lifeStages.cockerel.labelFemalePlural>
+  <Chicken.lifeStages.2.label>höns</Chicken.lifeStages.2.label>
+  <Chicken.lifeStages.2.labelPlural>höns</Chicken.lifeStages.2.labelPlural>
+  <Chicken.lifeStages.2.labelMale>tupp</Chicken.lifeStages.2.labelMale>
+  <Chicken.lifeStages.2.labelMalePlural>tuppar</Chicken.lifeStages.2.labelMalePlural>
+  <Chicken.lifeStages.2.labelFemale>höna</Chicken.lifeStages.2.labelFemale>
+  <Chicken.lifeStages.2.labelFemalePlural>hönor</Chicken.lifeStages.2.labelFemalePlural>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>tupp</Chicken.labelMale>
+  <Chicken.labelMalePlural>tuppar</Chicken.labelMalePlural>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>höna</Chicken.labelFemale>
+  <Chicken.labelFemalePlural>hönor</Chicken.labelFemalePlural>
+  <!-- EN: chicken -->
+  <Chicken.label>höns</Chicken.label>
+  
+  <Cow.labelPlural>kor</Cow.labelPlural>
+  <!-- EN: calf -->
+  <Cow.lifeStages.calf.label>kalv</Cow.lifeStages.calf.label>
+  <!-- EN: calves -->
+  <Cow.lifeStages.calf.labelPlural>kavlar</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.calf.labelMale>tjurkalv</Cow.lifeStages.calf.labelMale>
+  <Cow.lifeStages.calf.labelMalePlural>tjurkalvar</Cow.lifeStages.calf.labelMalePlural>
+  <Cow.lifeStages.calf.labelFemale>kvigkalv</Cow.lifeStages.calf.labelFemale>
+  <Cow.lifeStages.calf.labelFemalePlural>kvigkalvar</Cow.lifeStages.calf.labelFemalePlural>
+  <Cow.lifeStages.1.label>ko</Cow.lifeStages.1.label>
+  <Cow.lifeStages.1.labelPlural>kor</Cow.lifeStages.1.labelPlural>
+  <Cow.lifeStages.1.labelMale>stut</Cow.lifeStages.1.labelMale>
+  <Cow.lifeStages.1.labelMalePlural>stutar</Cow.lifeStages.1.labelMalePlural>
+  <Cow.lifeStages.1.labelFemale>kviga</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.1.labelFemalePlural>kvigor</Cow.lifeStages.1.labelFemalePlural>
+  <Cow.lifeStages.2.label>ko</Cow.lifeStages.2.label>
+  <Cow.lifeStages.2.labelPlural>kor</Cow.lifeStages.2.labelPlural>
+  <Cow.lifeStages.2.labelMale>tjur</Cow.lifeStages.2.labelMale>
+  <Cow.lifeStages.2.labelMalePlural>tjurar</Cow.lifeStages.2.labelMalePlural>
+  <Cow.lifeStages.2.labelFemale>kviga</Cow.lifeStages.2.labelFemale>
+  <Cow.lifeStages.2.labelFemalePlural>kvigor</Cow.lifeStages.2.labelFemalePlural>
+  <!-- EN: bull -->
+  <Cow.labelMale>tjur</Cow.labelMale>
+  <Cow.labelMalePlural>tjurar</Cow.labelMalePlural>
+  <!-- EN: cow -->
+  <Cow.labelFemale>ko</Cow.labelFemale>
+  <Cow.labelFemalePlural>kor</Cow.labelFemalePlural>
+  <!-- EN: cow -->
+  <Cow.label>ko</Cow.label>
+  
+  <Pig.labelPlural>grisar</Pig.labelPlural>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>griskulting</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.piglet.labelPlural>griskultingar</Pig.lifeStages.piglet.labelPlural>
+  <Pig.lifeStages.piglet.labelMale>griskulting</Pig.lifeStages.piglet.labelMale>
+  <Pig.lifeStages.piglet.labelMalePlural>griskultingar</Pig.lifeStages.piglet.labelMalePlural>
+  <Pig.lifeStages.piglet.labelFemale>griskulting</Pig.lifeStages.piglet.labelFemale>
+  <Pig.lifeStages.piglet.labelFemalePlural>griskultingar</Pig.lifeStages.piglet.labelFemalePlural>
+  <Pig.lifeStages.1.label>unggris</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelPlural>unggrisar</Pig.lifeStages.1.labelPlural>
+  <Pig.lifeStages.1.labelMale>unggris</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.1.labelMalePlural>unggrisar</Pig.lifeStages.1.labelMalePlural>
+  <Pig.lifeStages.1.labelFemale>unggris</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelFemalePlural>unggris</Pig.lifeStages.1.labelFemalePlural>
+  <Pig.lifeStages.2.label>gris</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelPlural>grisar</Pig.lifeStages.2.labelPlural>
+  <Pig.lifeStages.2.labelMale>galt</Pig.lifeStages.2.labelMale>
+  <Pig.lifeStages.2.labelMalePlural>galtar</Pig.lifeStages.2.labelMalePlural>
+  <Pig.lifeStages.2.labelFemale>sugga</Pig.lifeStages.2.labelFemale>
+  <Pig.lifeStages.2.labelFemalePlural>suggor</Pig.lifeStages.2.labelFemalePlural>
+  <Pig.labelMale>galt</Pig.labelMale>
+  <Pig.labelMalePlural>galtar</Pig.labelMalePlural>
+  <!-- EN: sow -->
+  <Pig.labelFemale>sugga</Pig.labelFemale>
+  <Pig.labelFemalePlural>suggor</Pig.labelFemalePlural>
+  <!-- EN: pig -->
+  <Pig.label>gris</Pig.label>
+  
 </LanguageData>

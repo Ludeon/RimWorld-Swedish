@@ -1,34 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- General -->
-
-  <Basics.label>Grund</Basics.label>
-  <BasicsPawn.label>Grund</BasicsPawn.label>
-  <BasicsNonPawn.label>Grund</BasicsNonPawn.label>
-
-
-  <!-- Non-pawn -->
-
+  
+  <!-- EN: Apparel -->
   <Apparel.label>Kläder</Apparel.label>
-  <Weapon.label>Vapen</Weapon.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Grund</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Grund</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Grund</BasicsPawn.label>
+  
+  <!-- EN: Building -->
   <Building.label>Byggnader</Building.label>
-
-
-  <!-- Virtual categories -->
-
+  
+  <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Offset när utrustad</EquippedStatOffsets.label>
-  <StuffStatFactors.label>Multiplikatorer när gjord av detta</StuffStatFactors.label>
-  <StuffStatOffsets.label>Offset när gjord av detta</StuffStatOffsets.label>
-  <StuffOfEquipmentStatFactors.label>Multiplikatorer när utrustning gjorda av detta</StuffOfEquipmentStatFactors.label>
-
-
-  <!-- Pawn -->
-
+  
+  <!-- EN: Combat -->
   <PawnCombat.label>Strid</PawnCombat.label>
-  <PawnSocial.label>Socialt</PawnSocial.label>
+  
+  <!-- EN: Misc -->
   <PawnMisc.label>Övrigt</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Socialt</PawnSocial.label>
+  
+  <!-- EN: Work -->
   <PawnWork.label>Arbete</PawnWork.label>
-
-
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Multiplikatorer när utrustning gjorda av detta</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Multiplikatorer när gjord av detta</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Offset när gjord av detta</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>TODO</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Vapen</Weapon.label>
+  
 </LanguageData>

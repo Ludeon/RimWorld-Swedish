@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: item stash -->
   <ItemStash.label>Skattgömma</ItemStash.label>
+  <!-- EN: A stash of valuable items. -->
   <ItemStash.description>En gömma av värdefulla föremål.</ItemStash.description>
-
-
+  
 </LanguageData>

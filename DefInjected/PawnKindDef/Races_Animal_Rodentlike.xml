@@ -1,32 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Squirrel.label>ekorre</Squirrel.label>
-  <Squirrel.labelPlural>ekorrar</Squirrel.labelPlural>
-  <Squirrel.lifeStages.0.label>ekorrunge</Squirrel.lifeStages.0.label>
-  <Squirrel.lifeStages.0.labelPlural>ekorrungar</Squirrel.lifeStages.0.labelPlural>
-  <Squirrel.lifeStages.0.labelMale>ekorrunge</Squirrel.lifeStages.0.labelMale>
-  <Squirrel.lifeStages.0.labelMalePlural>ekorrungar</Squirrel.lifeStages.0.labelMalePlural>
-  <Squirrel.lifeStages.0.labelFemale>ekorrunge</Squirrel.lifeStages.0.labelFemale>
-  <Squirrel.lifeStages.0.labelFemalePlural>ekorrungar</Squirrel.lifeStages.0.labelFemalePlural>
-  <Squirrel.lifeStages.1.label>ekorre</Squirrel.lifeStages.1.label>
-  <Squirrel.lifeStages.1.labelPlural>ekorrar</Squirrel.lifeStages.1.labelPlural>
-  <Squirrel.lifeStages.1.labelMale>ekorrhane</Squirrel.lifeStages.1.labelMale>
-  <Squirrel.lifeStages.1.labelMalePlural>ekorrhanar</Squirrel.lifeStages.1.labelMalePlural>
-  <Squirrel.lifeStages.1.labelFemale>ekorrhona</Squirrel.lifeStages.1.labelFemale>
-  <Squirrel.lifeStages.1.labelFemalePlural>ekorrhonor</Squirrel.lifeStages.1.labelFemalePlural>
-  <Squirrel.lifeStages.2.label>ekorre</Squirrel.lifeStages.2.label>
-  <Squirrel.lifeStages.2.labelPlural>ekorrar</Squirrel.lifeStages.2.labelPlural>
-  <Squirrel.lifeStages.2.labelMale>ekorrhane</Squirrel.lifeStages.2.labelMale>
-  <Squirrel.lifeStages.2.labelMalePlural>ekorrhanar</Squirrel.lifeStages.2.labelMalePlural>
-  <Squirrel.lifeStages.2.labelFemale>ekorrhona</Squirrel.lifeStages.2.labelFemale>
-  <Squirrel.lifeStages.2.labelFemalePlural>ekorrhonor</Squirrel.lifeStages.2.labelFemalePlural>
-  <Squirrel.labelMale>ekorrhane</Squirrel.labelMale>
-  <Squirrel.labelMalePlural>ekorrhanar</Squirrel.labelMalePlural>
-  <Squirrel.labelFemale>ekorrhona</Squirrel.labelFemale>
-  <Squirrel.labelFemalePlural>ekorrhonor</Squirrel.labelFemalePlural>
-
-  <Alphabeaver.label>alfabäver</Alphabeaver.label>
+  
   <Alphabeaver.labelPlural>alfabävrar</Alphabeaver.labelPlural>
   <Alphabeaver.lifeStages.0.label>alfabäverunge</Alphabeaver.lifeStages.0.label>
   <Alphabeaver.lifeStages.0.labelPlural>alfabäverungar</Alphabeaver.lifeStages.0.labelPlural>
@@ -50,58 +24,9 @@
   <Alphabeaver.labelMalePlural>alfabäverhanar</Alphabeaver.labelMalePlural>
   <Alphabeaver.labelFemale>alfabäverhona</Alphabeaver.labelFemale>
   <Alphabeaver.labelFemalePlural>alfabäverhonor</Alphabeaver.labelFemalePlural>
-
-  <Capybara.label>kapybara</Capybara.label>
-  <Capybara.labelPlural>kapybaror</Capybara.labelPlural>
-  <Capybara.lifeStages.0.label>kapybaraunge</Capybara.lifeStages.0.label>
-  <Capybara.lifeStages.0.labelPlural>kapybaraungar</Capybara.lifeStages.0.labelPlural>
-  <Capybara.lifeStages.0.labelMale>kapybaraunge</Capybara.lifeStages.0.labelMale>
-  <Capybara.lifeStages.0.labelMalePlural>kapybaraungar</Capybara.lifeStages.0.labelMalePlural>
-  <Capybara.lifeStages.0.labelFemale>kapybaraunge</Capybara.lifeStages.0.labelFemale>
-  <Capybara.lifeStages.0.labelFemalePlural>kapybaraungar</Capybara.lifeStages.0.labelFemalePlural>
-  <Capybara.lifeStages.1.label>kapybara</Capybara.lifeStages.1.label>
-  <Capybara.lifeStages.1.labelPlural>kapybaror</Capybara.lifeStages.1.labelPlural>
-  <Capybara.lifeStages.1.labelMale>kapybarahane</Capybara.lifeStages.1.labelMale>
-  <Capybara.lifeStages.1.labelMalePlural>kapybarahanor</Capybara.lifeStages.1.labelMalePlural>
-  <Capybara.lifeStages.1.labelFemale>kapybarahona</Capybara.lifeStages.1.labelFemale>
-  <Capybara.lifeStages.1.labelFemalePlural>kapybarahonor</Capybara.lifeStages.1.labelFemalePlural>
-  <Capybara.lifeStages.2.label>kapybara</Capybara.lifeStages.2.label>
-  <Capybara.lifeStages.2.labelPlural>kapybaror</Capybara.lifeStages.2.labelPlural>
-  <Capybara.lifeStages.2.labelMale>kapybarahane</Capybara.lifeStages.2.labelMale>
-  <Capybara.lifeStages.2.labelMalePlural>kapybarahanor</Capybara.lifeStages.2.labelMalePlural>
-  <Capybara.lifeStages.2.labelFemale>kapybarahona</Capybara.lifeStages.2.labelFemale>
-  <Capybara.lifeStages.2.labelFemalePlural>kapybarahonor</Capybara.lifeStages.2.labelFemalePlural>
-  <Capybara.labelMale>kapybarahane</Capybara.labelMale>
-  <Capybara.labelMalePlural>kapybarahanor</Capybara.labelMalePlural>
-  <Capybara.labelFemale>kapybarahona</Capybara.labelFemale>
-  <Capybara.labelFemalePlural>kapybarahonor</Capybara.labelFemalePlural>
-
-  <Chinchilla.label>chinchilla</Chinchilla.label>
-  <Chinchilla.labelPlural>chinchillior</Chinchilla.labelPlural>
-  <Chinchilla.lifeStages.0.label>chinchillaunge</Chinchilla.lifeStages.0.label>
-  <Chinchilla.lifeStages.0.labelPlural>chinchillaungar</Chinchilla.lifeStages.0.labelPlural>
-  <Chinchilla.lifeStages.0.labelMale>chinchillaunge</Chinchilla.lifeStages.0.labelMale>
-  <Chinchilla.lifeStages.0.labelMalePlural>chinchillaungar</Chinchilla.lifeStages.0.labelMalePlural>
-  <Chinchilla.lifeStages.0.labelFemale>chinchillaunge</Chinchilla.lifeStages.0.labelFemale>
-  <Chinchilla.lifeStages.0.labelFemalePlural>chinchillaungar</Chinchilla.lifeStages.0.labelFemalePlural>
-  <Chinchilla.lifeStages.1.label>chinchilla</Chinchilla.lifeStages.1.label>
-  <Chinchilla.lifeStages.1.labelPlural>chinchillior</Chinchilla.lifeStages.1.labelPlural>
-  <Chinchilla.lifeStages.1.labelMale>chinchillahane</Chinchilla.lifeStages.1.labelMale>
-  <Chinchilla.lifeStages.1.labelMalePlural>chinchillahanar</Chinchilla.lifeStages.1.labelMalePlural>
-  <Chinchilla.lifeStages.1.labelFemale>chinchillahona</Chinchilla.lifeStages.1.labelFemale>
-  <Chinchilla.lifeStages.1.labelFemalePlural>chinchillahonor</Chinchilla.lifeStages.1.labelFemalePlural>
-  <Chinchilla.lifeStages.2.label>chinchilla</Chinchilla.lifeStages.2.label>
-  <Chinchilla.lifeStages.2.labelPlural>chinchillior</Chinchilla.lifeStages.2.labelPlural>
-  <Chinchilla.lifeStages.2.labelMale>chinchillahanar</Chinchilla.lifeStages.2.labelMale>
-  <Chinchilla.lifeStages.2.labelMalePlural>chinchillahanar</Chinchilla.lifeStages.2.labelMalePlural>
-  <Chinchilla.lifeStages.2.labelFemale>chinchillahona</Chinchilla.lifeStages.2.labelFemale>
-  <Chinchilla.lifeStages.2.labelFemalePlural>chinchillahonor</Chinchilla.lifeStages.2.labelFemalePlural>
-  <Chinchilla.labelMale>chinchillahanar</Chinchilla.labelMale>
-  <Chinchilla.labelMalePlural>chinchillahanar</Chinchilla.labelMalePlural>
-  <Chinchilla.labelFemale>chinchillahona</Chinchilla.labelFemale>
-  <Chinchilla.labelFemalePlural>chinchillahonor</Chinchilla.labelFemalePlural>
-
-  <Boomrat.label>bombråtta</Boomrat.label>
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>alfabäver</Alphabeaver.label>
+  
   <Boomrat.labelPlural>bombråttor</Boomrat.labelPlural>
   <Boomrat.lifeStages.0.label>bombråtteunge</Boomrat.lifeStages.0.label>
   <Boomrat.lifeStages.0.labelPlural>bombråtteungar</Boomrat.lifeStages.0.labelPlural>
@@ -125,8 +50,61 @@
   <Boomrat.labelMalePlural>bombråttehanar</Boomrat.labelMalePlural>
   <Boomrat.labelFemale>bombråttehona</Boomrat.labelFemale>
   <Boomrat.labelFemalePlural>bombråttehonor</Boomrat.labelFemalePlural>
-
-  <Raccoon.label>tvättbjörn</Raccoon.label>
+  <!-- EN: boomrat -->
+  <Boomrat.label>bombråtta</Boomrat.label>
+  
+  <Capybara.labelPlural>kapybaror</Capybara.labelPlural>
+  <Capybara.lifeStages.0.label>kapybaraunge</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.0.labelPlural>kapybaraungar</Capybara.lifeStages.0.labelPlural>
+  <Capybara.lifeStages.0.labelMale>kapybaraunge</Capybara.lifeStages.0.labelMale>
+  <Capybara.lifeStages.0.labelMalePlural>kapybaraungar</Capybara.lifeStages.0.labelMalePlural>
+  <Capybara.lifeStages.0.labelFemale>kapybaraunge</Capybara.lifeStages.0.labelFemale>
+  <Capybara.lifeStages.0.labelFemalePlural>kapybaraungar</Capybara.lifeStages.0.labelFemalePlural>
+  <Capybara.lifeStages.1.label>kapybara</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.1.labelPlural>kapybaror</Capybara.lifeStages.1.labelPlural>
+  <Capybara.lifeStages.1.labelMale>kapybarahane</Capybara.lifeStages.1.labelMale>
+  <Capybara.lifeStages.1.labelMalePlural>kapybarahanor</Capybara.lifeStages.1.labelMalePlural>
+  <Capybara.lifeStages.1.labelFemale>kapybarahona</Capybara.lifeStages.1.labelFemale>
+  <Capybara.lifeStages.1.labelFemalePlural>kapybarahonor</Capybara.lifeStages.1.labelFemalePlural>
+  <Capybara.lifeStages.2.label>kapybara</Capybara.lifeStages.2.label>
+  <Capybara.lifeStages.2.labelPlural>kapybaror</Capybara.lifeStages.2.labelPlural>
+  <Capybara.lifeStages.2.labelMale>kapybarahane</Capybara.lifeStages.2.labelMale>
+  <Capybara.lifeStages.2.labelMalePlural>kapybarahanor</Capybara.lifeStages.2.labelMalePlural>
+  <Capybara.lifeStages.2.labelFemale>kapybarahona</Capybara.lifeStages.2.labelFemale>
+  <Capybara.lifeStages.2.labelFemalePlural>kapybarahonor</Capybara.lifeStages.2.labelFemalePlural>
+  <Capybara.labelMale>kapybarahane</Capybara.labelMale>
+  <Capybara.labelMalePlural>kapybarahanor</Capybara.labelMalePlural>
+  <Capybara.labelFemale>kapybarahona</Capybara.labelFemale>
+  <Capybara.labelFemalePlural>kapybarahonor</Capybara.labelFemalePlural>
+  <!-- EN: capybara -->
+  <Capybara.label>kapybara</Capybara.label>
+  
+  <Chinchilla.labelPlural>chinchillior</Chinchilla.labelPlural>
+  <Chinchilla.lifeStages.0.label>chinchillaunge</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.0.labelPlural>chinchillaungar</Chinchilla.lifeStages.0.labelPlural>
+  <Chinchilla.lifeStages.0.labelMale>chinchillaunge</Chinchilla.lifeStages.0.labelMale>
+  <Chinchilla.lifeStages.0.labelMalePlural>chinchillaungar</Chinchilla.lifeStages.0.labelMalePlural>
+  <Chinchilla.lifeStages.0.labelFemale>chinchillaunge</Chinchilla.lifeStages.0.labelFemale>
+  <Chinchilla.lifeStages.0.labelFemalePlural>chinchillaungar</Chinchilla.lifeStages.0.labelFemalePlural>
+  <Chinchilla.lifeStages.1.label>chinchilla</Chinchilla.lifeStages.1.label>
+  <Chinchilla.lifeStages.1.labelPlural>chinchillior</Chinchilla.lifeStages.1.labelPlural>
+  <Chinchilla.lifeStages.1.labelMale>chinchillahane</Chinchilla.lifeStages.1.labelMale>
+  <Chinchilla.lifeStages.1.labelMalePlural>chinchillahanar</Chinchilla.lifeStages.1.labelMalePlural>
+  <Chinchilla.lifeStages.1.labelFemale>chinchillahona</Chinchilla.lifeStages.1.labelFemale>
+  <Chinchilla.lifeStages.1.labelFemalePlural>chinchillahonor</Chinchilla.lifeStages.1.labelFemalePlural>
+  <Chinchilla.lifeStages.2.label>chinchilla</Chinchilla.lifeStages.2.label>
+  <Chinchilla.lifeStages.2.labelPlural>chinchillior</Chinchilla.lifeStages.2.labelPlural>
+  <Chinchilla.lifeStages.2.labelMale>chinchillahanar</Chinchilla.lifeStages.2.labelMale>
+  <Chinchilla.lifeStages.2.labelMalePlural>chinchillahanar</Chinchilla.lifeStages.2.labelMalePlural>
+  <Chinchilla.lifeStages.2.labelFemale>chinchillahona</Chinchilla.lifeStages.2.labelFemale>
+  <Chinchilla.lifeStages.2.labelFemalePlural>chinchillahonor</Chinchilla.lifeStages.2.labelFemalePlural>
+  <Chinchilla.labelMale>chinchillahanar</Chinchilla.labelMale>
+  <Chinchilla.labelMalePlural>chinchillahanar</Chinchilla.labelMalePlural>
+  <Chinchilla.labelFemale>chinchillahona</Chinchilla.labelFemale>
+  <Chinchilla.labelFemalePlural>chinchillahonor</Chinchilla.labelFemalePlural>
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>chinchilla</Chinchilla.label>
+  
   <Raccoon.labelPlural>tvättbjörnar</Raccoon.labelPlural>
   <Raccoon.lifeStages.0.label>tvättbjörnsunge</Raccoon.lifeStages.0.label>
   <Raccoon.lifeStages.0.labelPlural>tvättbjörnsungar</Raccoon.lifeStages.0.labelPlural>
@@ -150,8 +128,9 @@
   <Raccoon.labelMalePlural>tvättbjörnhanar</Raccoon.labelMalePlural>
   <Raccoon.labelFemale>tvättbjörnhona</Raccoon.labelFemale>
   <Raccoon.labelFemalePlural>tvättbjörnhonor</Raccoon.labelFemalePlural>
-
-  <Rat.label>råtta</Rat.label>
+  <!-- EN: raccoon -->
+  <Raccoon.label>tvättbjörn</Raccoon.label>
+  
   <Rat.labelPlural>råttor</Rat.labelPlural>
   <Rat.lifeStages.0.label>råttunge</Rat.lifeStages.0.label>
   <Rat.lifeStages.0.labelPlural>råttungar</Rat.lifeStages.0.labelPlural>
@@ -175,6 +154,33 @@
   <Rat.labelMalePlural>råtthanar</Rat.labelMalePlural>
   <Rat.labelFemale>råtthona</Rat.labelFemale>
   <Rat.labelFemalePlural>råtthonor</Rat.labelFemalePlural>
-
-
+  <!-- EN: rat -->
+  <Rat.label>råtta</Rat.label>
+  
+  <Squirrel.labelPlural>ekorrar</Squirrel.labelPlural>
+  <Squirrel.lifeStages.0.label>ekorrunge</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.0.labelPlural>ekorrungar</Squirrel.lifeStages.0.labelPlural>
+  <Squirrel.lifeStages.0.labelMale>ekorrunge</Squirrel.lifeStages.0.labelMale>
+  <Squirrel.lifeStages.0.labelMalePlural>ekorrungar</Squirrel.lifeStages.0.labelMalePlural>
+  <Squirrel.lifeStages.0.labelFemale>ekorrunge</Squirrel.lifeStages.0.labelFemale>
+  <Squirrel.lifeStages.0.labelFemalePlural>ekorrungar</Squirrel.lifeStages.0.labelFemalePlural>
+  <Squirrel.lifeStages.1.label>ekorre</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.1.labelPlural>ekorrar</Squirrel.lifeStages.1.labelPlural>
+  <Squirrel.lifeStages.1.labelMale>ekorrhane</Squirrel.lifeStages.1.labelMale>
+  <Squirrel.lifeStages.1.labelMalePlural>ekorrhanar</Squirrel.lifeStages.1.labelMalePlural>
+  <Squirrel.lifeStages.1.labelFemale>ekorrhona</Squirrel.lifeStages.1.labelFemale>
+  <Squirrel.lifeStages.1.labelFemalePlural>ekorrhonor</Squirrel.lifeStages.1.labelFemalePlural>
+  <Squirrel.lifeStages.2.label>ekorre</Squirrel.lifeStages.2.label>
+  <Squirrel.lifeStages.2.labelPlural>ekorrar</Squirrel.lifeStages.2.labelPlural>
+  <Squirrel.lifeStages.2.labelMale>ekorrhane</Squirrel.lifeStages.2.labelMale>
+  <Squirrel.lifeStages.2.labelMalePlural>ekorrhanar</Squirrel.lifeStages.2.labelMalePlural>
+  <Squirrel.lifeStages.2.labelFemale>ekorrhona</Squirrel.lifeStages.2.labelFemale>
+  <Squirrel.lifeStages.2.labelFemalePlural>ekorrhonor</Squirrel.lifeStages.2.labelFemalePlural>
+  <Squirrel.labelMale>ekorrhane</Squirrel.labelMale>
+  <Squirrel.labelMalePlural>ekorrhanar</Squirrel.labelMalePlural>
+  <Squirrel.labelFemale>ekorrhona</Squirrel.labelFemale>
+  <Squirrel.labelFemalePlural>ekorrhonor</Squirrel.labelFemalePlural>
+  <!-- EN: squirrel -->
+  <Squirrel.label>ekorre</Squirrel.label>
+  
 </LanguageData>

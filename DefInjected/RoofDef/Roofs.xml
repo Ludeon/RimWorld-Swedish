@@ -1,9 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: constructed roof -->
   <RoofConstructed.label>monterat tak</RoofConstructed.label>
-  <RoofRockThin.label>stentak (tunt)</RoofRockThin.label>
+  
+  <!-- EN: overhead mountain -->
   <RoofRockThick.label>överhängande berg</RoofRockThick.label>
-
-
+  
+  <!-- EN: rock roof (thin) -->
+  <RoofRockThin.label>stentak (tunt)</RoofRockThin.label>
+  
 </LanguageData>

@@ -1,11 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <DirtPath.label>smutsväg</DirtPath.label>
-  <DirtRoad.label>grusväg</DirtRoad.label>
-  <StoneRoad.label>stenväg</StoneRoad.label>
-  <AncientAsphaltRoad.label>forntida asfaltväg</AncientAsphaltRoad.label>
+  
+  <!-- EN: ancient asphalt highway -->
   <AncientAsphaltHighway.label>forntida asfaltsmotorväg</AncientAsphaltHighway.label>
-
-
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>forntida asfaltväg</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>smutsväg</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>grusväg</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>stenväg</StoneRoad.label>
+  
 </LanguageData>

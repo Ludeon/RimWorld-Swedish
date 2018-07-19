@@ -1,13 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>kolonist</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>kolonister</PlayerColony.pawnsPlural>
+  <!-- EN: New Arrivals -->
   <PlayerColony.label>koloni</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
   <PlayerColony.description>Din egen koloni.</PlayerColony.description>
-  <PlayerColony.pawnsPlural>kolonist</PlayerColony.pawnsPlural>
-
+  
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>stammedlem</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>stammedlemmar</PlayerTribe.pawnsPlural>
+  <!-- EN: New Tribe -->
   <PlayerTribe.label>stam</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
   <PlayerTribe.description>Din egen stam.</PlayerTribe.description>
-  <PlayerTribe.pawnsPlural>stammedlem</PlayerTribe.pawnsPlural>
-
-
+  
 </LanguageData>

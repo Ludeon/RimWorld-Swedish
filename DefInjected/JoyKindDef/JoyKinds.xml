@@ -1,16 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Work.label>arbete</Work.label>
-  <Meditative.label>meditativ</Meditative.label>
-  <Lewd.label>oanständig</Lewd.label>
-  <Social.label>social</Social.label>
+  
+  <!-- EN: chemical consumption -->
   <Chemical.label>kemisk</Chemical.label>
+  
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>spel (intelektuell)</Gaming_Cerebral.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>spel (smidighet)</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
   <Gluttonous.label>glupsk</Gluttonous.label>
-  <GamingDexterity.label>spel (smidighet)</GamingDexterity.label>
-  <GamingCerebral.label>spel (intelektuell)</GamingCerebral.label>
+  
+  <!-- UNUSED -->
+  <Lewd.label>oanständig</Lewd.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>meditativ</Meditative.label>
+  
+  <!-- UNUSED -->
   <Passive.label>passiv</Passive.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>social</Social.label>
+  
+  <!-- UNUSED -->
   <Study.label>studera</Study.label>
-
-
+  
+  <!-- EN: telescope study -->
+  <Telescope.label>TODO</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>TODO</Television.label>
+  
+  <!-- UNUSED -->
+  <Work.label>arbete</Work.label>
+  
 </LanguageData>

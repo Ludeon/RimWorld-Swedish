@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: ambrosia -->
   <Ambrosia.label>ambrosia</Ambrosia.label>
-  <Ambrosia.description>En mjuk frukt. Ambrosia har en underbar lukt och smak, och gör en mjuk kemisk hög, vilket ökar humöret. Det är dock lite beroendeframkallande om de ätes för ofta.
-</Ambrosia.description>
-
-
+  <!-- EN: A soft, rare fruit. Ambrosia tastes wonderful and produces a subtle mood-increasing chemical high. However, if eaten too often, it can generate a mild addiction. -->
+  <Ambrosia.description>En mjuk frukt. Ambrosia har en underbar lukt och smak, och gör en mjuk kemisk hög, vilket ökar humöret. Det är dock lite beroendeframkallande om de ätes för ofta.\n</Ambrosia.description>
+  
 </LanguageData>

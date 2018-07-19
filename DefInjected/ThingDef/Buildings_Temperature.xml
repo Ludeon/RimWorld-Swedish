@@ -1,36 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: campfire -->
   <Campfire.label>lägereld</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
   <Campfire.description>Lagar måltider och genererar värme. Bränner ut efter några dagar. Som med alla värmekällor måste den placeras inomhus så det har ett slutet utrymme att värma. påfyllningsbar.</Campfire.description>
-  <Campfire_Blueprint.label>lägereld (ritning)</Campfire_Blueprint.label>
-  <Campfire_Frame.label>lägereld (byggnad)</Campfire_Frame.label>
-  <Campfire_Frame.description>Lagar måltider och genererar värme. Bränner ut efter några dagar. Som med alla värmekällor måste den placeras inomhus så det har ett slutet utrymme att värma. påfyllningsbar.</Campfire_Frame.description>
-
-  <PassiveCooler.label>passiv kylare</PassiveCooler.label>
-  <PassiveCooler.description>En traditionell kylare som fungerar genom vattenavdunstning. Kommer att ta slut och självförstöra efter några dagar.</PassiveCooler.description>
-  <PassiveCooler_Blueprint.label>passiv kylare (ritning)</PassiveCooler_Blueprint.label>
-  <PassiveCooler_Frame.label>passiv kylare (byggnad)</PassiveCooler_Frame.label>
-  <PassiveCooler_Frame.description>En traditionell kylare som fungerar genom vattenavdunstning. Kommer att ta slut och självförstöra efter några dagar</PassiveCooler_Frame.description>
-
-  <Heater.label>värmare</Heater.label>
-  <Heater.description>En elektrisk anordning som omvandlar elektricitet till värme. Den kan automatiskt stänga av sig själv när den når en specifikt måltemperatur.</Heater.description>
-  <Heater_Blueprint.label>värmare (ritning)</Heater_Blueprint.label>
-  <Heater_Blueprint_Install.label>värmare (ritning)</Heater_Blueprint_Install.label>
-  <Heater_Frame.label>värmare (byggnad)</Heater_Frame.label>
-  <Heater_Frame.description>En elektrisk anordning som omvandlar elektricitet till värme. Den kan automatiskt stänga av sig själv när den når en specifikt måltemperatur.</Heater_Frame.description>
-
+  
+  <!-- EN: cooler -->
   <Cooler.label>luftkylare</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
   <Cooler.description>En elektrisk anordning som monteras i en vägg och skjuter kall luft in i ett rum. Utblåset genererar en hel del värme. Kan användas för att kyla ner rum under sommarmånaderna eller att skapa ett kyl eller frysrum.</Cooler.description>
-  <Cooler_Blueprint.label>luftkylare (ritning)</Cooler_Blueprint.label>
-  <Cooler_Frame.label>luftkylare (byggnad)</Cooler_Frame.label>
-  <Cooler_Frame.description>En elektrisk anordning som monteras i en vägg och skjuter kall luft in i ett rum. Utblåset genererar en hel del värme. Kan användas för att kyla ner rum under sommarmånaderna eller att skapa ett kyl eller frysrum.</Cooler_Frame.description>
-
+  
+  <!-- EN: heater -->
+  <Heater.label>värmare</Heater.label>
+  <!-- EN: An device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>En elektrisk anordning som omvandlar elektricitet till värme. Den kan automatiskt stänga av sig själv när den når en specifikt måltemperatur.</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>passiv kylare</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Will run out and vanish after several days. -->
+  <PassiveCooler.description>En traditionell kylare som fungerar genom vattenavdunstning. Kommer att ta slut och självförstöra efter några dagar.</PassiveCooler.description>
+  
+  <!-- EN: vent -->
   <Vent.label>ventil</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
   <Vent.description>En enkel ventil för att utjämna temperaturen mellan två rum utan att låta personer att gå mellan dem.</Vent.description>
-  <Vent_Blueprint.label>ventil (ritning)</Vent_Blueprint.label>
-  <Vent_Frame.label>ventil (byggnad)</Vent_Frame.label>
-  <Vent_Frame.description>En enkel ventil för att utjämna temperaturen mellan två rum utan att låta personer att gå mellan dem.</Vent_Frame.description>
-
-
+  
 </LanguageData>

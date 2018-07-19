@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <DebugBad.stages.0.label>debugg dålig känsla/tanke</DebugBad.stages.0.label>
-  <DebugBad.stages.0.description>Test tanke för debuggning.</DebugBad.stages.0.description>
-
-  <DebugGood.stages.0.label>debugg bra känsla/tanke</DebugGood.stages.0.label>
-  <DebugGood.stages.0.description>Test tanke för debuggning.</DebugGood.stages.0.description>
-
-
+  
+  <!-- EN: debug bad thought -->
+  <DebugBad.stages.debug_bad_thought.label>debugg dålig känsla/tanke</DebugBad.stages.debug_bad_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugBad.stages.debug_bad_thought.description>Test tanke för debuggning.</DebugBad.stages.debug_bad_thought.description>
+  
+  <!-- EN: debug good thought -->
+  <DebugGood.stages.debug_good_thought.label>debugg bra känsla/tanke</DebugGood.stages.debug_good_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugGood.stages.debug_good_thought.description>Test tanke för debuggning.</DebugGood.stages.debug_good_thought.description>
+  
 </LanguageData>

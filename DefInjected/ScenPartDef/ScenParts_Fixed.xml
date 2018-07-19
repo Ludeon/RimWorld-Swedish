@@ -1,9 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <PlayerFaction.label>Spelarfraktion</PlayerFaction.label>
+  
+  <!-- EN: starting people -->
   <ConfigPage_ConfigureStartingPawns.label>startpersoner</ConfigPage_ConfigureStartingPawns.label>
+  
+  <!-- EN: Player faction -->
+  <PlayerFaction.label>Spelarfraktion</PlayerFaction.label>
+  
+  <!-- EN: arrival method -->
   <PlayerPawnsArriveMethod.label>ankomstmetod</PlayerPawnsArriveMethod.label>
-
-
+  
 </LanguageData>

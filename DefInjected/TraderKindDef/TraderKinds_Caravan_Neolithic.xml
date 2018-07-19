@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: bulk goods trader -->
   <Caravan_Neolithic_BulkGoods.label>handlare av bulkvaror</Caravan_Neolithic_BulkGoods.label>
-  <Caravan_Neolithic_WarMerchant.label>vapenhandlare</Caravan_Neolithic_WarMerchant.label>
-  <Caravan_Neolithic_Slaver.label>slavhandlare</Caravan_Neolithic_Slaver.label>
+  
+  <!-- EN: shaman merchant -->
   <Caravan_Neolithic_ShamanMerchant.label>örthandlare</Caravan_Neolithic_ShamanMerchant.label>
-
-
-  </LanguageData>
+  
+  <!-- EN: slaver -->
+  <Caravan_Neolithic_Slaver.label>slavhandlare</Caravan_Neolithic_Slaver.label>
+  
+  <!-- EN: war merchant -->
+  <Caravan_Neolithic_WarMerchant.label>vapenhandlare</Caravan_Neolithic_WarMerchant.label>
+  
+</LanguageData>

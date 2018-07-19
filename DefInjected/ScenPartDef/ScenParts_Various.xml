@@ -1,49 +1,78 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- player pawn filters -->
-
-  <GameStartDialog.label>spelets startdialog</GameStartDialog.label>
-  <PawnFilter_Age.label>tillåten åldersintervall</PawnFilter_Age.label>
-
-
-  <!-- player pawn modifier -->
-
-  <OnPawnDeathExplode.label>karaktärer exploderar när dom dör</OnPawnDeathExplode.label>
-  <ForcedTrait.label>tvingande persondrag</ForcedTrait.label>
-  <ForcedHediff.label>tvingande hälsotillstånd</ForcedHediff.label>
-  <SetNeedLevel.label>sätt behovsnivå</SetNeedLevel.label>
-  <StartingResearch.label>börja med forskning</StartingResearch.label>
-  <GameCondition_Planetkiller.label>planetdödarvapen inkommande</GameCondition_Planetkiller.label>
-
-
-  <!-- rules changes -->
-
-  <Rule_DisallowDesignator_ZoneAdd_Growing.label>kan ej så</Rule_DisallowDesignator_ZoneAdd_Growing.label>
-  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Kan inte så växter i marken.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
-
-  <Rule_DisallowDesignator_Mine.label>kan ej gräva</Rule_DisallowDesignator_Mine.label>
-  <Rule_DisallowDesignator_Mine.description>Kan inte gräva efter mineraler.</Rule_DisallowDesignator_Mine.description>
-
-  <Rule_DisallowDesignator_Hunt.label>kan ej jaga</Rule_DisallowDesignator_Hunt.label>
-  <Rule_DisallowDesignator_Hunt.description>Kan inte jaga.</Rule_DisallowDesignator_Hunt.description>
-
-  <Rule_DisallowDesignator_Tame.label>kan ej tämja</Rule_DisallowDesignator_Tame.label>
-  <Rule_DisallowDesignator_Tame.description>Kan inte tämja djur.</Rule_DisallowDesignator_Tame.description>
-
-  <StatFactor.label>värdesmultiplikator</StatFactor.label>
-
-
-  <!-- grouped -->
-
-  <DisableIncident.label>inaktivera incidenter</DisableIncident.label>
+  
+  <!-- EN: create incident -->
   <CreateIncident.label>skapa incidenter</CreateIncident.label>
-  <Rule_DisallowBuilding.label>förbjud byggnation</Rule_DisallowBuilding.label>
+  
+  <!-- EN: disable incident -->
+  <DisableIncident.label>inaktivera incidenter</DisableIncident.label>
+  
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>tvingande hälsotillstånd</ForcedHediff.label>
+  
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>tvingande persondrag</ForcedTrait.label>
+  
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>planetdödarvapen inkommande</GameCondition_Planetkiller.label>
+  
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>spelets startdialog</GameStartDialog.label>
+  
+  <!-- EN: naked -->
+  <Naked.label>TODO</Naked.label>
+  
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>karaktärer exploderar när dom dör</OnPawnDeathExplode.label>
+  
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>tillåten åldersintervall</PawnFilter_Age.label>
+  
+  <!-- EN: permanent game condition -->
   <PermanentGameCondition.label>permanenta spelvillkor</PermanentGameCondition.label>
-  <StartingAnimal.label>börja med djur</StartingAnimal.label>
-  <StartingThing_Defined.label>börja med</StartingThing_Defined.label>
-  <ScatterThingsNearPlayerStart.label>börja nära</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>förbjud byggnation</Rule_DisallowBuilding.label>
+  
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>kan ej jaga</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>Kan inte jaga.</Rule_DisallowDesignator_Hunt.description>
+  
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>kan ej gräva</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>Kan inte gräva efter mineraler.</Rule_DisallowDesignator_Mine.description>
+  
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>kan ej tämja</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>Kan inte tämja djur.</Rule_DisallowDesignator_Tame.description>
+  
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>kan ej så</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Kan inte så växter i marken.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <!-- EN: scattered randomly -->
   <ScatterThingsAnywhere.label>sprid ut slumpvis</ScatterThingsAnywhere.label>
-
-
+  
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>börja nära</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>sätt behovsnivå</SetNeedLevel.label>
+  
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>börja med djur</StartingAnimal.label>
+  
+  <!-- EN: start with research -->
+  <StartingResearch.label>börja med forskning</StartingResearch.label>
+  
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>börja med</StartingThing_Defined.label>
+  
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>värdesmultiplikator</StatFactor.label>
+  
 </LanguageData>

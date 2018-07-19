@@ -1,17 +1,102 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Added body parts -->
-
-  <PegLeg.label>Träben</PegLeg.label>
-  <Denture.label>Tandprotes</Denture.label>
-  <SimpleProstheticLeg.label>Enkel Benprotes</SimpleProstheticLeg.label>
-  <SimpleProstheticArm.label>Enkel Armprotes</SimpleProstheticArm.label>
-  <BionicEye.label>Bioniskt Öga</BionicEye.label>
-  <BionicArm.label>Bionisk Arm</BionicArm.label>
-  <BionicLeg.label>Bioniskt Ben</BionicLeg.label>
-  <PowerClaw.label>Kraftklo</PowerClaw.label>
-  <ScytherBlade.label>Liemansklinga</ScytherBlade.label>
-
-
+  
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>en arkotek-arm</ArchotechArm.labelNoun>
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>arkotek-arm</ArchotechArm.label>
+  
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>ett arkotek-öga</ArchotechEye.labelNoun>
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>arkotek-öga</ArchotechEye.label>
+  
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>ett arkotech-ben</ArchotechLeg.labelNoun>
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>arkotech-ben</ArchotechLeg.label>
+  
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>en bionisk arm</BionicArm.labelNoun>
+  <!-- EN: bionic arm -->
+  <BionicArm.label>bionisk arm</BionicArm.label>
+  
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>ett bioniskt öra</BionicEar.labelNoun>
+  <!-- EN: bionic ear -->
+  <BionicEar.label>bioniskt öra</BionicEar.label>
+  
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>ett bioniskt öga</BionicEye.labelNoun>
+  <!-- EN: bionic eye -->
+  <BionicEye.label>bioniskt öga</BionicEye.label>
+  
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>ett bioniskt hjärta</BionicHeart.labelNoun>
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>bioniskt hjärta</BionicHeart.label>
+  
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>ett bioniskt ben</BionicLeg.labelNoun>
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>bioniskt ben</BionicLeg.label>
+  
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>en bioniskt ryggrad</BionicSpine.labelNoun>
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>bioniskt ryggrad</BionicSpine.label>
+  
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>en bionisk mage</BionicStomach.labelNoun>
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>bionisk mage</BionicStomach.label>
+  
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>ett hörselimplantat</CochlearImplant.labelNoun>
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>hörselimplantat</CochlearImplant.label>
+  
+  <!-- EN: a denture -->
+  <Denture.labelNoun>en tandprotes</Denture.labelNoun>
+  <!-- EN: denture -->
+  <Denture.label>tandprotes</Denture.label>
+  
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>ett träben</PegLeg.labelNoun>
+  <!-- EN: peg leg -->
+  <PegLeg.label>träben</PegLeg.label>
+  
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>klo</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>en kraftklo</PowerClaw.labelNoun>
+  <!-- EN: power claw -->
+  <PowerClaw.label>kraftklo</PowerClaw.label>
+  
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>en enkel armprotes</SimpleProstheticArm.labelNoun>
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>enkel armprotes</SimpleProstheticArm.label>
+  
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>en enkel hjärtprotes</SimpleProstheticHeart.labelNoun>
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>enkel hjärtprotes</SimpleProstheticHeart.label>
+  
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>en enkel benprotes</SimpleProstheticLeg.labelNoun>
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>enkel benprotes</SimpleProstheticLeg.label>
+  
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>en träfot</WoodenFoot.labelNoun>
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>träfot</WoodenFoot.label>
+  
 </LanguageData>

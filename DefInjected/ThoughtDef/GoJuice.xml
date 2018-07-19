@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <GoJuiceHigh.stages.0.label>hög på go-juice</GoJuiceHigh.stages.0.label>
-  <GoJuiceHigh.stages.0.description>Käner mig pumpad men lugn. Jag är prickskyttkulan i färd, redo att skära igenom dig.</GoJuiceHigh.stages.0.description>
-
-
-  <!-- Go-juice addiction -->
-
-  <GoJuiceWithdrawal.stages.1.label>go-juice-abstinens</GoJuiceWithdrawal.stages.1.label>
-  <GoJuiceWithdrawal.stages.1.description>Jag är suddig och kan inte tänka klart. Alla mina lemmar känns tunga, jag är trött och hungrig, det gör ont överallt. Varför kan inte mina ögon fokusera på rätt sätt?</GoJuiceWithdrawal.stages.1.description>
-
-
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.stages.high_on_gojuice.label>hög på go-juice</GoJuiceHigh.stages.high_on_gojuice.label>
+  <!-- EN: I feel pumped but steady. I am the bullet in flight, ready to cut through you. -->
+  <GoJuiceHigh.stages.high_on_gojuice.description>Käner mig pumpad men lugn. Jag är prickskyttkulan i färd, redo att skära igenom dig.</GoJuiceHigh.stages.high_on_gojuice.description>
+  
+  <!-- EN: go-juice withdrawal -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>go-juice-abstinens</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <!-- EN: I'm all fuzzy and can't think straight. My limbs feel heavy, I'm tired and hungry, everything hurts. And why won't my eyes focus properly? -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>Jag är suddig och kan inte tänka klart. Alla mina lemmar känns tunga, jag är trött och hungrig, det gör ont överallt. Varför kan inte mina ögon fokusera på rätt sätt?</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+  
 </LanguageData>

@@ -1,21 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <MeleeWeapon_DamageAmount.label>närstridsskada</MeleeWeapon_DamageAmount.label>
-  <MeleeWeapon_DamageAmount.description>Skada gjord per träff i närstrid.</MeleeWeapon_DamageAmount.description>
-
+  
+  <!-- EN: blunt damage -->
+  <BluntDamageMultiplier.label>krosskada</BluntDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->
+  <BluntDamageMultiplier.description>Multiplikator på skador med trubbiga föremål tillverkade av detta material.</BluntDamageMultiplier.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeWeapon_AverageArmorPenetration.label>TODO</MeleeWeapon_AverageArmorPenetration.label>
+  <!-- EN: Average armor penetration in melee combat. -->
+  <MeleeWeapon_AverageArmorPenetration.description>TODO</MeleeWeapon_AverageArmorPenetration.description>
+  
+  <!-- EN: melee damage per second -->
+  <MeleeWeapon_AverageDPS.label>TODO</MeleeWeapon_AverageDPS.label>
+  <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
+  <MeleeWeapon_AverageDPS.description>TODO</MeleeWeapon_AverageDPS.description>
+  
+  <!-- UNUSED -->
   <MeleeWeapon_Cooldown.label>närstrid återhämtning</MeleeWeapon_Cooldown.label>
   <MeleeWeapon_Cooldown.description>Hur lång tid det tar att återhämta sig efter man använder med detta som ett närstridsvapen.</MeleeWeapon_Cooldown.description>
   <MeleeWeapon_Cooldown.formatString>{0} s</MeleeWeapon_Cooldown.formatString>
-
-
-  <!-- Damage multipliers should be stats on stuffs only -->
-
+  
+  <!-- EN: melee cooldown -->
+  <MeleeWeapon_CooldownMultiplier.label>TODO</MeleeWeapon_CooldownMultiplier.label>
+  <!-- EN: A multiplier on attack delay for weapons made of this material. -->
+  <MeleeWeapon_CooldownMultiplier.description>TODO</MeleeWeapon_CooldownMultiplier.description>
+  
+  <!-- UNUSED -->
+  <MeleeWeapon_DamageAmount.label>närstridsskada</MeleeWeapon_DamageAmount.label>
+  <MeleeWeapon_DamageAmount.description>Skada gjord per träff i närstrid.</MeleeWeapon_DamageAmount.description>
+  
+  <!-- EN: melee damage multiplier -->
+  <MeleeWeapon_DamageMultiplier.label>TODO</MeleeWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to melee combat. -->
+  <MeleeWeapon_DamageMultiplier.description>TODO</MeleeWeapon_DamageMultiplier.description>
+  
+  <!-- EN: sharp damage -->
   <SharpDamageMultiplier.label>skärskada</SharpDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from sharp-type attacks for weapons made of this material. -->
   <SharpDamageMultiplier.description>Multiplikator på skador med vassa attacker som skär eller stickande föremål tillverkade av detta material.</SharpDamageMultiplier.description>
-
-  <BluntDamageMultiplier.label>krosskada</BluntDamageMultiplier.label>
-  <BluntDamageMultiplier.description>Multiplikator på skador med trubbiga föremål tillverkade av detta material.</BluntDamageMultiplier.description>
-
-
+  
 </LanguageData>

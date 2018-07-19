@@ -1,24 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <GrizzlyBear.label>grizzlybjörn</GrizzlyBear.label>
-  <GrizzlyBear.description>Enorma allätande däggdjur anpassade för kalla klimat. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten vanligtvis består av fisk, bär, honung och döda djur kan grizzlyn ibland avnända sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</GrizzlyBear.description>
-  <GrizzlyBear_Leather.label>gilzzlybjörnfäll</GrizzlyBear_Leather.label>
-  <GrizzlyBear_Leather.description>gilzzlybjörnfäll</GrizzlyBear_Leather.description>
-  <GrizzlyBear_Leather.stuffProps.stuffAdjective>gilzzlybjörnfäll</GrizzlyBear_Leather.stuffProps.stuffAdjective>
-  <GrizzlyBear_Meat.label>björnkött</GrizzlyBear_Meat.label>
-  <GrizzlyBear_Meat.description>björnkött</GrizzlyBear_Meat.description>
-  <GrizzlyBear_Corpse.label>gilzzlybjörnskropp</GrizzlyBear_Corpse.label>
-  <GrizzlyBear_Corpse.description>gilzzlybjörnskropp</GrizzlyBear_Corpse.description>
-
-  <PolarBear.label>isbjörn</PolarBear.label>
-  <PolarBear.description>En stor vit björn som bor i norr. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten består av fisk och döda djur, är isbjörnen mer än kapabel att använda sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</PolarBear.description>
-  <PolarBear_Leather.label>isbjörnfäll</PolarBear_Leather.label>
-  <PolarBear_Leather.description>isbjörnfäll</PolarBear_Leather.description>
-  <PolarBear_Leather.stuffProps.stuffAdjective>isbjörnfäll</PolarBear_Leather.stuffProps.stuffAdjective>
-  <!-- Use Meat From: GrizzlyBear -->
-  <PolarBear_Corpse.label>isbjörnskropp</PolarBear_Corpse.label>
-  <PolarBear_Corpse.description>isbjörnskropp</PolarBear_Corpse.description>
-
-
+  
+  <!-- EN: left claw -->
+  <Bear_Grizzly.tools.left_claw.label>TODO</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Grizzly.tools.right_claw.label>TODO</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Grizzly.tools.head.label>TODO</Bear_Grizzly.tools.head.label>
+  <!-- EN: bear meat -->
+  <Bear_Grizzly.race.meatLabel>TODO</Bear_Grizzly.race.meatLabel>
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>grizzlybjörn</Bear_Grizzly.label>
+  <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Grizzly.description>Enorma allätande däggdjur anpassade för kalla klimat. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten vanligtvis består av fisk, bär, honung och döda djur kan grizzlyn ibland avnända sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</Bear_Grizzly.description>
+  
+  <!-- EN: left claw -->
+  <Bear_Polar.tools.left_claw.label>TODO</Bear_Polar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Polar.tools.right_claw.label>TODO</Bear_Polar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Polar.tools.head.label>TODO</Bear_Polar.tools.head.label>
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>isbjörn</Bear_Polar.label>
+  <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Polar.description>En stor vit björn som bor i norr. Deras tjocka späck och päls hålla dem varma på vintern.\n\nTrots att dieten består av fisk och döda djur, är isbjörnen mer än kapabel att använda sin massiva styrka och dödliga klor för att döda levande föda. De är häpnadsväckande snabba för sådana klumpiga varelser.</Bear_Polar.description>
+  
 </LanguageData>

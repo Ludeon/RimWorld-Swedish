@@ -1,23 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: negotiation ability -->
+  <NegotiationAbility.label>inverkan på diplomatisk gåva</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator. This affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
+  <NegotiationAbility.description>När den här personen ger gåvor till en annan fraktion, är denna multiplikator på deras inverkan på fraktionens relationer.</NegotiationAbility.description>
+  
+  <!-- UNUSED -->
   <RecruitPrisonerChance.label>chans att rekrytera fånge</RecruitPrisonerChance.label>
   <RecruitPrisonerChance.description>Baschans den här personen har för att rekrytera en fånge.</RecruitPrisonerChance.description>
-
-  <TameAnimalChance.label>chans att tämja ett djur</TameAnimalChance.label>
-  <TameAnimalChance.description>Baschans den här personen har för att tämja ett djur.</TameAnimalChance.description>
-
-  <TrainAnimalChance.label>chans att träna ett djur</TrainAnimalChance.label>
-  <TrainAnimalChance.description>Baschans den här personen har för göra framsteg i att träna ett djur vid ett givet försök. Själva chansen för ett givet försök kommer också att bero på djurets vildhet, oavsett om det är bunden med tränaren.</TrainAnimalChance.description>
-
+  
+  <!-- EN: social impact -->
   <SocialImpact.label>inverkan på social interaktion</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
   <SocialImpact.description>När denne interagerar socialt, är detta hur mycket den andra personen påverkas.</SocialImpact.description>
-
-  <GiftImpact.label>inverkan på diplomatisk gåva</GiftImpact.label>
-  <GiftImpact.description>När den här personen ger gåvor till en annan fraktion, är denna multiplikator på deras inverkan på fraktionens relationer.</GiftImpact.description>
-
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>chans att tämja ett djur</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt. The actual chance is also affected by the animal's wildness. Failed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>Baschans den här personen har för att tämja ett djur.</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
   <TradePriceImprovement.label>förbättring på handelspriset</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
   <TradePriceImprovement.description>När denne förhandlar priser, köp- och säljkurser förbättras det av denna procentsats.</TradePriceImprovement.description>
-
-
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>chans att träna ett djur</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>Baschans den här personen har för göra framsteg i att träna ett djur vid ett givet försök. Själva chansen för ett givet försök kommer också att bero på djurets vildhet, oavsett om det är bunden med tränaren.</TrainAnimalChance.description>
+  
 </LanguageData>

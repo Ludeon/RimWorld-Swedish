@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <BurnedWoodPlankFloor.label>bränt trägolv</BurnedWoodPlankFloor.label>
-  <BurnedWoodPlankFloor.description>Utbränt trägolv.</BurnedWoodPlankFloor.description>
-
+  
+  <!-- EN: burned carpet -->
   <BurnedCarpet.label>bränd matta</BurnedCarpet.label>
+  <!-- EN: Burned-out carpet. -->
   <BurnedCarpet.description>Utbränd matta.</BurnedCarpet.description>
-
-
+  
+  <!-- EN: burned wood floor -->
+  <BurnedWoodPlankFloor.label>bränt trägolv</BurnedWoodPlankFloor.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnedWoodPlankFloor.description>Utbränt trägolv.</BurnedWoodPlankFloor.description>
+  
 </LanguageData>

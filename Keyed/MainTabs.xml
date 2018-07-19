@@ -2,74 +2,157 @@
 <LanguageData>
 
   <!-- Work tab -->
+  <!-- EN: Manual priorities -->
   <ManualPriorities>Prioritera manuellt</ManualPriorities>
+  <!-- EN: higher priority -->
   <HigherPriority>Högre prioritet</HigherPriority>
+  <!-- EN: lower priority -->
   <LowerPriority>Lägre prioritet</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
   <RelevantSkills>Relevanta förmågor: {0}\nGenomsnitt av relevanta förmågor: {1} / {2}</RelevantSkills>
+  <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Tryck för att hoppa till:</ClickToJumpTo>
+  <!-- EN: {0} cannot do this kind of work. -->
   <CannotDoThisWork>{0} kan inte utföra den här sortens arbete.</CannotDoThisWork>
+  <!-- EN: (none) -->
   <NoneBrackets>(inget)</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
   <IncapableOfWorkTypeBecauseOfCapacities>Denna kolonist kan inte arbeta med den här typen av arbete på grund av sitt hälsotillstånd.</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
-
+  <!-- EN: Warning: The average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill>Varning: Medelvärdet av relevanta färdigheter är väldigt lågt.</SelectedWorkTypeWithVeryBadSkill>
+  
   <!-- Assign tab -->
+  <!-- EN: Manage outfits -->
   <ManageOutfits>Hantera utstyrsel</ManageOutfits>
+  <!-- EN: Clear forced -->
   <ClearForcedApparel>Töm tvång</ClearForcedApparel>
+  <!-- EN: forced -->
   <ApparelForcedLower>Tvinga</ApparelForcedLower>
+  <!-- EN: Forced apparel -->
   <ForcedApparel>Tvinga på kläder</ForcedApparel>
+  <!-- EN: Edit... -->
   <AssignTabEdit>Redigera...</AssignTabEdit>
+  <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Hantera drogpolicy</ManageDrugPolicies>
-
+  
   <!-- Restrictions tab -->
+  <!-- EN: Copy -->
   <Copy>Klipp</Copy>
+  <!-- EN: Paste -->
   <Paste>Klistra</Paste>
+  <!-- EN: Allowed area -->
   <AllowedArea>Tillåtet område</AllowedArea>
-
+  
   <!-- Animals tab -->
+  <!-- EN: Master -->
   <Master>Herre</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
   <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
-
+  <!-- EN: Bonded to -->
+  <BondedTo>Bundet till</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>Denna varelse är en rovdjur. När det är hungrig, kommer det att jaga mindre varelser - eventuellt även människor.</IsPredator>
+  
   <!-- Factions tab -->
+  <!-- EN: Hostile -->
   <Hostile>Fientlig</Hostile>
+  <!-- EN: Ally -->
+  <Ally>Allierad</Ally>
+  <!-- EN: defeated -->
   <DefeatedLower>besegrad</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
   <HostileTo>Fiende av {0}</HostileTo>
-  <CurrentGoodwill>Aktuell välvilja med detta anhang.</CurrentGoodwill>
-
+  <!-- EN: Current goodwill and relations status with this faction. -->
+  <CurrentGoodwillTip>uvarande välvilja och relationstatus med denna fraktion.</CurrentGoodwillTip>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>Denna fraktion är permanent fientlig. De kommer att skicka räder till dina bosättningar och husvagnar. Förhållandena med dem kommer aldrig att förbättras av någon anledning.</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>Denna fraktion är allierad. De skickar krigare för att hjälpa dig när de kan. Om relationerna faller under {0} blir de neutrala.</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>Denna fraktion är neutral. De kommer att handla och prata med dig fritt. Om relationerna faller under {0} blir de fientliga. Om relationerna stiger över {1} kommer de att bli allierade och börja aktivt arbeta för att hjälpa dig.</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>Denna fraktion är fientlig. De kommer att skicka räder till dina bosättningar och husvagnar. Om relationerna stiger över {0} blir de neutrala.</CurrentGoodwillTip_Hostile>
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <CurrentGoodwillTip_NaturalGoodwill>Denna fraktion har ett neutralt välviljeintervall från {0} till {1}. Om välvilja är över {1} kommer den att falla med {3} per dag. Om goodwill är under {0}, kommer den att stiga med {2} per dag.</CurrentGoodwillTip_NaturalGoodwill>
+  
   <!-- Social tab -->
+  <!-- EN: Friend -->
   <Friend>Vän</Friend>
+  <!-- EN: Rival -->
   <Rival>Rival</Rival>
+  <!-- EN: Acquaintance -->
   <Acquaintance>Bekanta</Acquaintance>
-
+  
   <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
   <Graph>Graf</Graph>
+  <!-- EN: Messages -->
+  <Messages>Meddelanden</Messages>
+  <!-- EN: Statistics -->
   <Statistics>Statistik</Statistics>
-
+  
   <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
   <SelectGraph>Välj graf</SelectGraph>
+  <!-- EN: Last 30 days -->
   <Last30Days>Senaste 30 dagarna</Last30Days>
+  <!-- EN: Last 100 days -->
   <Last100Days>Senaste 100 dagarna</Last100Days>
+  <!-- EN: Last 300 days -->
   <Last300Days>Senaste 300 dagarna</Last300Days>
+  <!-- EN: All -->
   <AllDays>Alla</AllDays>
-  <Day>Dag</Day>
+  <!-- EN: Value -->
   <Value>Värde</Value>
+  <!-- EN: External -->
   <External>Extern</External>
 
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>Visa brev</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>Visa meddelanden</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>Pinna eller avpinna det här meddelandet.\n\nDe äldsta avpinna meddelandena tas bort automatiskt från listan efter att ha nått gränsen för {0} meddelanden.</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>inga meddelanden</NoMessages>
+
   <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
   <Playtime>Speltid</Playtime>
+  <!-- EN: Storyteller -->
   <Storyteller>Spelledare</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
   <ThisMapColonyWealthTotal>Kolonins rikedom (denna karta)</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
   <ThisMapColonyWealthItems>Kolonins rikedom (föremål) (denna karta)</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
   <ThisMapColonyWealthBuildings>Kolonins rikedom (byggnader) (denna karta)</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (animals) (this map) -->
+  <ThisMapColonyWealthTameAnimals>Kolonins rikedom (djur) (denna karta)</ThisMapColonyWealthTameAnimals>
+  <!-- EN: Major threats -->
   <NumThreatBigs>Huvudsakliga hot</NumThreatBigs>
+  <!-- EN: Enemy raids -->
   <NumEnemyRaids>Fientlig räd</NumEnemyRaids>
-  <ThisMapDamageTaken>SKada tagen (denna karta)</ThisMapDamageTaken>
+  <!-- EN: Damage taken (this map) -->
+  <ThisMapDamageTaken>Skada tagen (denna karta)</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
   <ColonistsKilled>Kolonister dödade</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
   <ColonistsLaunched>Kolonister uppskickade i rymden</ColonistsLaunched>
 
   <!-- Research tab -->
+  <!-- EN: project tech level -->
   <ProjectTechLevel>projektets teknologiska nivå</ProjectTechLevel>
+  <!-- EN: your tech level -->
   <YourTechLevel>din teknologiska nivå</YourTechLevel>
+  <!-- EN: cost multiplier -->
   <ResearchCostMultiplier>kostnadsmultiplikator</ResearchCostMultiplier>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>Projektets grundkostnad {0} blir {1} tack vare din teknologiska nivå.</ResearchCostComparison>
 
 </LanguageData>

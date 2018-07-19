@@ -1,19 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Wild - clustering bushes (some harvestable) -->
-
-  <PlantAgave.label>agave</PlantAgave.label>
-  <PlantAgave.description>En stor-bladad ökenväxt med ätbara blommor och stjälkar.</PlantAgave.description>
-
-
-  <!-- Wild - Cacti -->
-
-  <PlantSaguaroCactus.label>saguarokaktus</PlantSaguaroCactus.label>
-  <PlantSaguaroCactus.description>En stor kaktus utvecklad för torra miljöer.</PlantSaguaroCactus.description>
-
-  <PlantPincushionCactus.label>nåldynekaktus</PlantPincushionCactus.label>
-  <PlantPincushionCactus.description>En kort kaktus. Namngiven eftersom den liknar en nåldyna.</PlantPincushionCactus.description>
-
-
+  
+  <!-- EN: agave -->
+  <Plant_Agave.label>agave</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <Plant_Agave.description>En stor-bladad ökenväxt med ätbara blommor och stjälkar.</Plant_Agave.description>
+  
+  <!-- EN: pincushion cactus -->
+  <Plant_PincushionCactus.label>nåldynekaktus</Plant_PincushionCactus.label>
+  <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
+  <Plant_PincushionCactus.description>En kort kaktus. Namngiven eftersom den liknar en nåldyna.</Plant_PincushionCactus.description>
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>saguarokaktus</Plant_SaguaroCactus.label>
+  <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
+  <Plant_SaguaroCactus.description>En stor kaktus utvecklad för torra miljöer.</Plant_SaguaroCactus.description>
+  
+  <!-- EN: drago tree -->
+  <Plant_TreeDrago.label>TODO</Plant_TreeDrago.label>
+  <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
+  <Plant_TreeDrago.description>TODO</Plant_TreeDrago.description>
+  
 </LanguageData>

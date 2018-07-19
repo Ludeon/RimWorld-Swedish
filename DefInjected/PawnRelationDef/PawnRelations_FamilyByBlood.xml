@@ -1,61 +1,80 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- close family -->
-
-  <Parent.label>pappa</Parent.label>
-  <Parent.labelFemale>mamma</Parent.labelFemale>
-
-  <Child.label>son</Child.label>
+  
+  <!-- EN: daughter -->
   <Child.labelFemale>dotter</Child.labelFemale>
-
-  <Sibling.label>bror</Sibling.label>
-  <Sibling.labelFemale>syster</Sibling.labelFemale>
-
-  <HalfSibling.label>halvsyskon</HalfSibling.label>
-  <HalfSibling.labelFemale>halvsyskon</HalfSibling.labelFemale>
-
-  <Grandparent.label>farfar</Grandparent.label>
-  <Grandparent.labelFemale>farmor</Grandparent.labelFemale>
-
-  <Grandchild.label>barnbarn</Grandchild.label>
-  <Grandchild.labelFemale>barnbarn</Grandchild.labelFemale>
-
-  <NephewOrNiece.label>syskonbarn</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>syskonbarn</NephewOrNiece.labelFemale>
-
-  <UncleOrAunt.label>farbror</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>faster</UncleOrAunt.labelFemale>
-
-  <Cousin.label>kusin</Cousin.label>
+  <!-- EN: son -->
+  <Child.label>son</Child.label>
+  
   <Cousin.labelFemale>kusin</Cousin.labelFemale>
-
-
-  <!-- distant family -->
-
-  <GreatGrandparent.label>gammel farfar</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>gammel farmor</GreatGrandparent.labelFemale>
-
-  <GreatGrandchild.label>barnbarnsbarn</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>barnbarnsbarn</GreatGrandchild.labelFemale>
-
-  <GranduncleOrGrandaunt.label>gammel farbror</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>gammel faster</GranduncleOrGrandaunt.labelFemale>
-
-  <GrandnephewOrGrandniece.label>gammel syskon</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>gammel syskon</GrandnephewOrGrandniece.labelFemale>
-
-  <CousinOnceRemoved.label>syssling</CousinOnceRemoved.label>
+  <!-- EN: cousin -->
+  <Cousin.label>kusin</Cousin.label>
+  
   <CousinOnceRemoved.labelFemale>syssling</CousinOnceRemoved.labelFemale>
-
-  <SecondCousin.label>tremänning</SecondCousin.label>
-  <SecondCousin.labelFemale>tremänning</SecondCousin.labelFemale>
-
-
-  <!-- kin -->
-
-  <Kin.label>släkt</Kin.label>
+  <!-- EN: cousin once removed -->
+  <CousinOnceRemoved.label>syssling</CousinOnceRemoved.label>
+  
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>barnbarn</Grandchild.labelFemale>
+  <!-- EN: grandson -->
+  <Grandchild.label>barnbarn</Grandchild.label>
+  
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>gammel syskon</GrandnephewOrGrandniece.labelFemale>
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>gammel syskon</GrandnephewOrGrandniece.label>
+  
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>farmor</Grandparent.labelFemale>
+  <!-- EN: grandfather -->
+  <Grandparent.label>farfar</Grandparent.label>
+  
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>gammel faster</GranduncleOrGrandaunt.labelFemale>
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>gammel farbror</GranduncleOrGrandaunt.label>
+  
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>barnbarnsbarn</GreatGrandchild.labelFemale>
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>barnbarnsbarn</GreatGrandchild.label>
+  
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>gammel farmor</GreatGrandparent.labelFemale>
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>gammel farfar</GreatGrandparent.label>
+  
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>halvsyskon</HalfSibling.labelFemale>
+  <!-- EN: brother -->
+  <HalfSibling.label>halvsyskon</HalfSibling.label>
+  
   <Kin.labelFemale>släkt</Kin.labelFemale>
-
-
+  <!-- EN: kin -->
+  <Kin.label>släkt</Kin.label>
+  
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>syskonbarn</NephewOrNiece.labelFemale>
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>syskonbarn</NephewOrNiece.label>
+  
+  <!-- EN: mother -->
+  <Parent.labelFemale>mamma</Parent.labelFemale>
+  <!-- EN: father -->
+  <Parent.label>pappa</Parent.label>
+  
+  <SecondCousin.labelFemale>tremänning</SecondCousin.labelFemale>
+  <!-- EN: second cousin -->
+  <SecondCousin.label>tremänning</SecondCousin.label>
+  
+  <!-- EN: sister -->
+  <Sibling.labelFemale>syster</Sibling.labelFemale>
+  <!-- EN: brother -->
+  <Sibling.label>bror</Sibling.label>
+  
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>faster</UncleOrAunt.labelFemale>
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>farbror</UncleOrAunt.label>
+  
 </LanguageData>

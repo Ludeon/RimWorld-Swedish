@@ -1,20 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <None.label>ingen</None.label>
-  <Room.label>rum</Room.label>
-  <Bedroom.label>sovrum</Bedroom.label>
-  <PrisonCell.label>fängelsecell</PrisonCell.label>
-  <DiningRoom.label>matsal</DiningRoom.label>
-  <RecRoom.label>gillestuga</RecRoom.label>
-  <Hospital.label>sjukhus</Hospital.label>
-  <Laboratory.label>laboratorium</Laboratory.label>
-  <Workshop.label>verkstad</Workshop.label>
-  <Barracks.label>kasern</Barracks.label>
-  <PrisonBarracks.label>fängelse baracker</PrisonBarracks.label>
-  <Kitchen.label>kök</Kitchen.label>
-  <Tomb.label>grav</Tomb.label>
+  
+  <!-- EN: barn -->
   <Barn.label>lada</Barn.label>
-
-
+  
+  <!-- EN: barracks -->
+  <Barracks.label>kasern</Barracks.label>
+  
+  <!-- EN: bedroom -->
+  <Bedroom.label>sovrum</Bedroom.label>
+  
+  <!-- EN: dining room -->
+  <DiningRoom.label>matsal</DiningRoom.label>
+  
+  <!-- EN: hospital -->
+  <Hospital.label>sjukhus</Hospital.label>
+  
+  <!-- EN: kitchen -->
+  <Kitchen.label>kök</Kitchen.label>
+  
+  <!-- EN: laboratory -->
+  <Laboratory.label>laboratorium</Laboratory.label>
+  
+  <!-- EN: none -->
+  <None.label>ingen</None.label>
+  
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>fängelse baracker</PrisonBarracks.label>
+  
+  <!-- EN: prison cell -->
+  <PrisonCell.label>fängelsecell</PrisonCell.label>
+  
+  <!-- EN: rec room -->
+  <RecRoom.label>gillestuga</RecRoom.label>
+  
+  <!-- EN: room -->
+  <Room.label>rum</Room.label>
+  
+  <!-- EN: tomb -->
+  <Tomb.label>grav</Tomb.label>
+  
+  <!-- EN: workshop -->
+  <Workshop.label>verkstad</Workshop.label>
+  
 </LanguageData>

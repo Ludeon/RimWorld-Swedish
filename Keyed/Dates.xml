@@ -1,14 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: Time -->
   <ClockTime>Tid</ClockTime>
+  <!-- EN: Date -->
   <ClockDate>Datum</ClockDate>
+  <!-- EN: Year -->
   <ClockYear>År</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
   <DateReadoutTip>Antal dagar sen du kom hit: {0}\n Nuvarande kvartal: {4}\nNuvarande årstid: {2}\nÅret är uppdelat i 4 kvartal, Det går {3} dagar per kvartal. Kvartal är samma överallt men årstiderna kan vara olika i olika platser.\n\nLokal årstid för varje kvartal:\n{5}</DateReadoutTip>
 
+  <!-- EN: {0} of {1}, {2} -->
   <FullDate>den {0} {1}, {2}</FullDate>
+  <!-- EN: {0} of {1}, {2} -->
   <DateReadout>den {0} {1}, {2}</DateReadout>
+  <!-- EN: {0} of {1} -->
   <SeasonFullDate>den {0} {1}</SeasonFullDate>
+  <!-- EN: Whole year -->
   <WholeYear>Helt år</WholeYear>
-
+  
 </LanguageData>

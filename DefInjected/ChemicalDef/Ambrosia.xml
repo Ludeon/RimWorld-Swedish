@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Ambrosia addiction -->
-
-  <Ambrosia.label>Ambrosia</Ambrosia.label>
-
-
+  
+  <!-- EN: ambrosia -->
+  <Ambrosia.label>ambrosia</Ambrosia.label>
+  
 </LanguageData>

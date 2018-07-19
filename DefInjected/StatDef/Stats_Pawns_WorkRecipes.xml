@@ -1,55 +1,77 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Artistic recipes - speed not affected by skill because skill affects output quality -->
-
-  <SculptingSpeed.label>hastighet att skulptera</SculptingSpeed.label>
-  <SculptingSpeed.description>Hur snabbt denna person skulpterar.</SculptingSpeed.description>
-
-  <TailoringSpeed.label>hastighet att sy</TailoringSpeed.label>
-  <TailoringSpeed.description>Hur snabbt denna person syr kläder.</TailoringSpeed.description>
-
-  <SmithingSpeed.label>hastighet att smida</SmithingSpeed.label>
-  <SmithingSpeed.description>Hur snabbt denna person smider, tillverkar vapen, maskiner, ammunition och verktyg.</SmithingSpeed.description>
-
-
-  <!-- Production recipes - speed affected by skill because there is no output quality -->
-
-  <DrugProductionSpeed.label>hastighet att tillverka droger</DrugProductionSpeed.label>
-  <DrugProductionSpeed.description>Hur snabbt denna person tillverkar droger.</DrugProductionSpeed.description>
-
-  <StonecuttingSpeed.label>stenarbeteshastighet</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Hur snabbt den här personen hugger ut block ifrån grovhuggna stenbitar.</StonecuttingSpeed.description>
-
-  <CookSpeed.label>matlagningshastighet</CookSpeed.label>
-  <CookSpeed.description>Hur snabbt denna person lagar måltider.</CookSpeed.description>
-
-  <FoodPoisonChance.label>chans att matförgifta</FoodPoisonChance.label>
-  <FoodPoisonChance.description>Sannolikheten för att denna person oavsiktligt kommer att förgifta en måltid de lagar.</FoodPoisonChance.description>
-
-  <BrewingSpeed.label>brygghastighet</BrewingSpeed.label>
-  <BrewingSpeed.description>Hur snabbt denna person brygger öl.</BrewingSpeed.description>
-
+  
+  <!-- EN: butchery efficiency -->
+  <ButcheryFleshEfficiency.label>slaakteffektivitet</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size. -->
+  <ButcheryFleshEfficiency.description>Multiplikator på mängden kött som produceras vid slakt.</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
   <ButcheryFleshSpeed.label>slakthastighet</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
   <ButcheryFleshSpeed.description>Hur snabbt denna person styckar kött från kreatur.</ButcheryFleshSpeed.description>
-
+  
+  <!-- EN: mechanoid disassembly efficiency -->
+  <ButcheryMechanoidEfficiency.label>effektivitet av mekanoid demontering</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>Multiplikator på mängden av material som räddas när denna person tar isär en död mekanoid.</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid disassembly speed -->
   <ButcheryMechanoidSpeed.label>hastighet att demontera en mekaniod</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can disassemble a mechanoid. -->
   <ButcheryMechanoidSpeed.description>Hur snabbt denna person demonterar en mekaniod.</ButcheryMechanoidSpeed.description>
-
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>matlagningshastighet</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>Hur snabbt denna person lagar måltider.</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>brygghastighet</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>Hur snabbt denna person brygger öl.</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>hastighet att tillverka droger</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>Hur snabbt denna person tillverkar droger.</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>chans att matförgifta</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
+  <FoodPoisonChance.description>Sannolikheten för att denna person oavsiktligt kommer att förgifta en måltid de lagar.</FoodPoisonChance.description>
+  
+  <!-- UNUSED -->
   <MechanoidOperationSuccessChance.label>chans till lyckad mekaniodoperation</MechanoidOperationSuccessChance.label>
   <MechanoidOperationSuccessChance.description>Sannolikheten för att en karaktär kommer att lyckas när man försöker utföra en operation på en mechanoid. Fel kan resultera i enkel bortkastad tid eller katastrofala skador på karaktären.</MechanoidOperationSuccessChance.description>
-
-  <ButcheryFleshEfficiency.label>slaakteffektivitet</ButcheryFleshEfficiency.label>
-  <ButcheryFleshEfficiency.description>Multiplikator på mängden kött som produceras vid slakt.</ButcheryFleshEfficiency.description>
-
-  <ButcheryMechanoidEfficiency.label>effektivitet av mekanoid demontering</ButcheryMechanoidEfficiency.label>
-  <ButcheryMechanoidEfficiency.description>Multiplikator på mängden av material som räddas när denna person tar isär en död mekanoid.</ButcheryMechanoidEfficiency.description>
-
-
-  <!-- Dumb recipes - not affected by skill because there's no skill component -->
-
+  
+  <!-- EN: sculpting speed -->
+  <SculptingSpeed.label>hastighet att skulptera</SculptingSpeed.label>
+  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects the how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
+  <SculptingSpeed.description>Hur snabbt denna person skulpterar.</SculptingSpeed.description>
+  
+  <!-- EN: smelting speed -->
   <SmeltingSpeed.label>smältningshastighet</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>Hastighet vid vilken denna person smälter saker. Obs! Eftersom detta är enkelt arbete, påverkas dess hastighet inte av någon färdighet.</SmeltingSpeed.description>
-
-
+  
+  <!-- EN: smithing speed -->
+  <SmithingSpeed.label>hastighet att smida</SmithingSpeed.label>
+  <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
+  <SmithingSpeed.description>Hur snabbt denna person smider, tillverkar vapen, maskiner, ammunition och verktyg.</SmithingSpeed.description>
+  
+  <!-- UNUSED -->
+  <StonecuttingSpeed.label>stenarbeteshastighet</StonecuttingSpeed.label>
+  <StonecuttingSpeed.description>Hur snabbt den här personen hugger ut block ifrån grovhuggna stenbitar.</StonecuttingSpeed.description>
+  
+  <!-- EN: tailoring speed -->
+  <TailoringSpeed.label>hastighet att sy</TailoringSpeed.label>
+  <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->
+  <TailoringSpeed.description>Hur snabbt denna person syr kläder.</TailoringSpeed.description>
+  
+  <!-- EN: unskilled labor speed -->
+  <UnskilledLaborSpeed.label>TODO</UnskilledLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items. -->
+  <UnskilledLaborSpeed.description>TODO</UnskilledLaborSpeed.description>
+  
 </LanguageData>

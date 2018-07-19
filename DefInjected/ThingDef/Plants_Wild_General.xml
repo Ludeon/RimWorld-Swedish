@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: brambles -->
+  <Plant_Brambles.label>TODO</Plant_Brambles.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <Plant_Brambles.description>TODO</Plant_Brambles.description>
+  
+  <!-- EN: bush -->
+  <Plant_Bush.label>buske</Plant_Bush.label>
+  <!-- EN: A short shrub. Does not typically talk. -->
+  <Plant_Bush.description>En kort buske. Pratar normalt inte.</Plant_Bush.description>
+  
+  <!-- EN: grass -->
+  <Plant_Grass.label>gräs</Plant_Grass.label>
+  <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
+  <Plant_Grass.description>Vildgräs. Växer överallt där det finns lite ljus och minimalt grogrund.</Plant_Grass.description>
+  
+  <!-- EN: wild healroot -->
+  <Plant_HealrootWild.label>vild helande rötter</Plant_HealrootWild.label>
+  <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
+  <Plant_HealrootWild.description>En långväxande växt som ger örtbaserad medicin när den skördas.\n\nDenna vilda ras av helande rötter är svår att odla. Det är prisade av stammar i kallare klimat.</Plant_HealrootWild.description>
+  
+  <!-- EN: tall grass -->
+  <Plant_TallGrass.label>högt gräs</Plant_TallGrass.label>
+  <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
+  <Plant_TallGrass.description>Wild högt gräs. Saktar ned de som rör sig över det.</Plant_TallGrass.description>
+  
+</LanguageData>

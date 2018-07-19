@@ -1,13 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Eclipse.label>solförmörkelse</Eclipse.label>
+  
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>Ett vackert norrsken belyser himlen.\n\nDe böljande färgerna ökar stämningen hos de som är utanför för att se dem och göra natten ljusare.</Aurora.letterText>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>Norrsken</Aurora.letterLabel>
+  <!-- EN: aurora -->
+  <Aurora.label>norrsken</Aurora.label>
+  
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
   <Eclipse.letterText>En av planetens måne har rört sig framför solen. En solförmörkelse har inletts.</Eclipse.letterText>
+  <!-- EN: Eclipse -->
   <Eclipse.letterLabel>Solförmörkelse</Eclipse.letterLabel>
-
-  <SolarFlare.label>soleruption</SolarFlare.label>
+  <!-- EN: eclipse -->
+  <Eclipse.label>solförmörkelse</Eclipse.label>
+  
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
   <SolarFlare.letterText>En soleruption har börjat.\n\nDen intensiva strålningen har slått ut alla elektroniska enheter.\n\nDet borde sluta inom en dag.</SolarFlare.letterText>
+  <!-- EN: Solar flare -->
   <SolarFlare.letterLabel>Soleruption</SolarFlare.letterLabel>
-
-
+  <!-- EN: solar flare -->
+  <SolarFlare.label>soleruption</SolarFlare.label>
+  
 </LanguageData>

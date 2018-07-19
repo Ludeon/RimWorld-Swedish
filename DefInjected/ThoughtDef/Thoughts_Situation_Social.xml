@@ -1,49 +1,113 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- affecting opinion -->
-
-  <Affair.stages.0.label>affär</Affair.stages.0.label>
-  <Incestuous.stages.0.label>incestuös</Incestuous.stages.0.label>
-  <Disfigured.stages.0.label>missbildad</Disfigured.stages.0.label>
-  <HardWorkerVsLazy.stages.0.label>flitig arbetare vs lata</HardWorkerVsLazy.stages.0.label>
-  <TeetotalerVsChemicalInterest.stages.0.label>nykterist vs kemiskt intresserad</TeetotalerVsChemicalInterest.stages.0.label>
-  <TeetotalerVsAddict.stages.0.label>nykterist vs missbrukare</TeetotalerVsAddict.stages.0.label>
-  <ChemicalInterestVsTeetotaler.stages.0.label>kemiskt intresserad vs nykterist</ChemicalInterestVsTeetotaler.stages.0.label>
-  <Drunk.stages.0.label>full</Drunk.stages.0.label>
-
-  <Pretty.stages.0.label>söt</Pretty.stages.0.label>
-  <Pretty.stages.1.label>vacker</Pretty.stages.1.label>
-
-  <Ugly.stages.0.label>ful</Ugly.stages.0.label>
-  <Ugly.stages.1.label>förbluffande ful</Ugly.stages.1.label>
-
-  <AnnoyingVoice.stages.0.label>irriterande röst</AnnoyingVoice.stages.0.label>
-  <CreepyBreathing.stages.0.label>obehagligt andning</CreepyBreathing.stages.0.label>
-  <Man.stages.0.label>man</Man.stages.0.label>
-  <Woman.stages.0.label>kvinna</Woman.stages.0.label>
-  <ButcheredHumanlikeCorpseOpinion.stages.0.label>slaktat människolika kroppar</ButcheredHumanlikeCorpseOpinion.stages.0.label>
-  <AteRawHumanlikeMeat.stages.0.label>åt rått mänskligt kött</AteRawHumanlikeMeat.stages.0.label>
-  <SoldPrisoner.stages.0.label>såld fånge till slaveri</SoldPrisoner.stages.0.label>
-  <ExecutedPrisoner.stages.0.label>avrättade fånge</ExecutedPrisoner.stages.0.label>
-  <KilledColonist.stages.0.label>dödade kolonist</KilledColonist.stages.0.label>
-  <KilledColonyAnimal.stages.0.label>dödade kolonistdjur</KilledColonyAnimal.stages.0.label>
+  
+  <!-- EN: affair -->
+  <Affair.stages.affair.label>affär</Affair.stages.affair.label>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.stages.annoying_voice.label>irriterande röst</AnnoyingVoice.stages.annoying_voice.label>
+  
+  <!-- EN: ate raw humanlike meat -->
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>åt rått mänskligt kött</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  
+  <!-- EN: {0}'s master -->
+  <BondedAnimalMaster.stages.s_master.label>{0}'s herre</BondedAnimalMaster.stages.s_master.label>
+  <!-- EN: Being together with my bonded animal makes me feel better. -->
+  <BondedAnimalMaster.stages.s_master.description>Att får vara tillsammans med min bundna djur får mig att må bättre.</BondedAnimalMaster.stages.s_master.description>
+  
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>slaktat människolika kroppar</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
+  <!-- EN: chemical interest vs teetotaler -->
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>kemiskt intresserad vs nykterist</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.stages.creepy_breathing.label>obehagligt andning</CreepyBreathing.stages.creepy_breathing.label>
+  
+  <!-- EN: disfigured -->
+  <Disfigured.stages.disfigured.label>missbildad</Disfigured.stages.disfigured.label>
+  
+  <!-- EN: drunk -->
+  <Drunk.stages.drunk.label>full</Drunk.stages.drunk.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.stages.executed_prisoner.label>avrättade fånge</ExecutedPrisoner.stages.executed_prisoner.label>
+  
+  <!-- EN: hard worker vs lazy -->
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>flitig arbetare vs lata</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+  
+  <!-- EN: incestuous -->
+  <Incestuous.stages.incestuous.label>incestuös</Incestuous.stages.incestuous.label>
+  
+  <!-- EN: killed colonist -->
+  <KilledColonist.stages.killed_colonist.label>dödade kolonist</KilledColonist.stages.killed_colonist.label>
+  
+  <!-- EN: killed colony animal -->
+  <KilledColonyAnimal.stages.killed_colony_animal.label>dödade kolonistdjur</KilledColonyAnimal.stages.killed_colony_animal.label>
+  
+  <!-- UNUSED -->
   <KilledMajorColonyEnemy.stages.0.label>dödade större fiende</KilledMajorColonyEnemy.stages.0.label>
-
-
-  <!-- affecting mood -->
-
-  <OpinionOfMyLover.stages.0.label>åsikt om min {0} {1}</OpinionOfMyLover.stages.0.label>
-  <OpinionOfMyLover.stages.0.description>Vara med min älskare gör att jag känner mig på detta sätt.</OpinionOfMyLover.stages.0.description>
-
-  <BondedAnimalMaster.stages.0.label>{0}'s herre</BondedAnimalMaster.stages.0.label>
-  <BondedAnimalMaster.stages.0.description>Att får vara tillsammans med min bundna djur får mig att må bättre.</BondedAnimalMaster.stages.0.description>
-
-  <NotBondedAnimalMaster.stages.0.label>inte {0}'s herre</NotBondedAnimalMaster.stages.0.label>
-  <NotBondedAnimalMaster.stages.0.description>inte {0}'s borde vara tillsammans med min bundna djur.</NotBondedAnimalMaster.stages.0.description>
-
-  <WantToSleepWithSpouseOrLover.stages.0.label>wvill sova med {0}</WantToSleepWithSpouseOrLover.stages.0.label>
-  <WantToSleepWithSpouseOrLover.stages.0.description>Jag gillar inte att sova iväg ifrån min partner.</WantToSleepWithSpouseOrLover.stages.0.description>
-
-
+  
+  <!-- EN: man -->
+  <Man.stages.man.label>man</Man.stages.man.label>
+  
+  <!-- EN: not {0}'s master -->
+  <NotBondedAnimalMaster.stages.not_s_master.label>inte {0}'s herre</NotBondedAnimalMaster.stages.not_s_master.label>
+  <!-- EN: I should be together with my bonded animal. -->
+  <NotBondedAnimalMaster.stages.not_s_master.description>inte {0}'s borde vara tillsammans med min bundna djur.</NotBondedAnimalMaster.stages.not_s_master.description>
+  
+  <!-- EN: opinion of my {0} {1} -->
+  <OpinionOfMyLover.stages.opinion_of_my.label>åsikt om min {0} {1}</OpinionOfMyLover.stages.opinion_of_my.label>
+  <!-- EN: Being with my lover makes me feel this way. -->
+  <OpinionOfMyLover.stages.opinion_of_my.description>Vara med min älskare gör att jag känner mig på detta sätt.</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  <!-- EN: pretty -->
+  <Pretty.stages.pretty.label>söt</Pretty.stages.pretty.label>
+  <!-- EN: beautiful -->
+  <Pretty.stages.beautiful.label>vacker</Pretty.stages.beautiful.label>
+  
+  <!-- EN: sold prisoner to slavery -->
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>såld fånge till slaveri</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  
+  <!-- EN: teetotaler vs addict -->
+  <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>nykterist vs missbrukare</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+  
+  <!-- EN: teetotaler vs chemical interest -->
+  <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>nykterist vs kemiskt intresserad</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+  
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
+  
+  <!-- EN: ugly -->
+  <Ugly.stages.ugly.label>ful</Ugly.stages.ugly.label>
+  <!-- EN: staggeringly ugly -->
+  <Ugly.stages.staggeringly_ugly.label>förbluffande ful</Ugly.stages.staggeringly_ugly.label>
+  
+  <!-- EN: want to sleep with {0} -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>wvill sova med {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
+  <!-- EN: I don't like sleeping apart from my partner. -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>Jag gillar inte att sova iväg ifrån min partner.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
+  
+  <!-- EN: woman -->
+  <Woman.stages.woman.label>kvinna</Woman.stages.woman.label>
+  
 </LanguageData>

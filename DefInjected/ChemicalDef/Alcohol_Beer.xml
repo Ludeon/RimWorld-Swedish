@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Alcohol addiction -->
-
-  <Alcohol.label>Alkohol</Alcohol.label>
-
-
+  
+  <!-- EN: alcohol -->
+  <Alcohol.label>alkohol</Alcohol.label>
+  
 </LanguageData>

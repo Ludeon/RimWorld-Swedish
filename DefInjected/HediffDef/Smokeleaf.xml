@@ -1,18 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <SmokeleafHigh.label>hög på rökblad</SmokeleafHigh.label>
-
-
-  <!-- Smokeleaf addiction -->
-
-  <SmokeleafTolerance.label>rökblad-tolerans</SmokeleafTolerance.label>
-  <SmokeleafTolerance.stages.1.label>liten</SmokeleafTolerance.stages.1.label>
-  <SmokeleafTolerance.stages.2.label>stor</SmokeleafTolerance.stages.2.label>
-  <SmokeleafTolerance.stages.3.label>enorm</SmokeleafTolerance.stages.3.label>
-
+  
+  <!-- EN: withdrawal -->
+  <SmokeleafAddiction.stages.withdrawal.label>abstinens</SmokeleafAddiction.stages.withdrawal.label>
+  <!-- EN: smokeleaf dependence -->
   <SmokeleafAddiction.label>rökblad-missbruk</SmokeleafAddiction.label>
-  <SmokeleafAddiction.stages.1.label>abstinens</SmokeleafAddiction.stages.1.label>
-
-
+  
+  <!-- EN: a smokeleaf high -->
+  <SmokeleafHigh.labelNoun>rökbladhög</SmokeleafHigh.labelNoun>
+  <!-- EN: stoned on smokeleaf -->
+  <SmokeleafHigh.label>hög på rökblad</SmokeleafHigh.label>
+  
+  <!-- EN: small -->
+  <SmokeleafTolerance.stages.small-1.label>liten</SmokeleafTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <SmokeleafTolerance.stages.large.label>stor</SmokeleafTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <SmokeleafTolerance.stages.massive.label>enorm</SmokeleafTolerance.stages.massive.label>
+  <!-- EN: smokeleaf tolerance -->
+  <SmokeleafTolerance.label>rökblad-tolerans</SmokeleafTolerance.label>
+  
 </LanguageData>

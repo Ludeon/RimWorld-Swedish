@@ -1,26 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- ShipChunkDrop -->
-
-  <ShipChunkDrop.label>Skeppsdelar faller ner</ShipChunkDrop.label>
-
-
-  <!-- OrbitalVisitor -->
-
+  
+  <!-- EN: orbital trader arrival -->
   <OrbitalTraderArrival.label>planetär handelsman anländer</OrbitalTraderArrival.label>
-
-
-  <!-- AllyArrival -->
-
-  <TraderCaravanArrival.label>Handelskaravan anländer</TraderCaravanArrival.label>
-  <VisitorGroup.label>grupp besökare</VisitorGroup.label>
+  
+  <!-- EN: enemy raid (special locations) -->
+  <RaidEnemyBeacon.label>fientlig räd (speciell plats)</RaidEnemyBeacon.label>
+  
+  <!-- EN: friendly raid -->
+  <RaidFriendly.label>vänlig räd</RaidFriendly.label>
+  
+  <!-- EN: ship chunk drop -->
+  <ShipChunkDrop.label>skeppsdelar faller ner</ShipChunkDrop.label>
+  
+  <!-- EN: trader caravan arrival -->
+  <TraderCaravanArrival.label>handelskaravan anländer</TraderCaravanArrival.label>
+  
+  <!-- EN: traveler group -->
   <TravelerGroup.label>grupp resande</TravelerGroup.label>
-
-
-  <!-- AllyAssistance -->
-
-  <RaidFriendly.label>vänlig raid</RaidFriendly.label>
-
-
+  
+  <!-- EN: visitor group -->
+  <VisitorGroup.label>grupp besökare</VisitorGroup.label>
+  
 </LanguageData>

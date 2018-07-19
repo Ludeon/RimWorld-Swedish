@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <Slave.labelPlural>slavar</Slave.labelPlural>
+  <!-- EN: slave -->
+  <Slave.label>slav</Slave.label>
+  
+  <!-- EN: wild men -->
+  <WildMan.labelPlural>TODO</WildMan.labelPlural>
+  <!-- EN: wild woman -->
+  <WildMan.labelFemale>TODO</WildMan.labelFemale>
+  <!-- EN: wild women -->
+  <WildMan.labelFemalePlural>TODO</WildMan.labelFemalePlural>
+  <!-- EN: wild man -->
+  <WildMan.label>TODO</WildMan.label>
+  
+</LanguageData>

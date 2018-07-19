@@ -1,41 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <WorkSpeedGlobal.label>global arbetshastighet</WorkSpeedGlobal.label>
-  <WorkSpeedGlobal.description>En multiplikator på någons hastighet på att göra ett arbete.</WorkSpeedGlobal.description>
-
-  <MiningSpeed.label>gruvhastighet</MiningSpeed.label>
-  <MiningSpeed.description>En multiplikator på den hastighet med vilken denna person gruvar sten.</MiningSpeed.description>
-
-  <MiningYield.label>gruvutbyte</MiningYield.label>
-  <MiningYield.description>Det procentuella utbytet som en gruvarbetare uppnår. Detta gäller både vägggruvning och djup borrbrytning. Detta påverkar inte när personen bryter sten.</MiningYield.description>
-
-  <SmoothingSpeed.label>utjämningshastighet</SmoothingSpeed.label>
-  <SmoothingSpeed.description>En multiplikator på den hastighet med vilken denna person jämnar golv.</SmoothingSpeed.description>
-
-  <ResearchSpeed.label>forskningshastighet</ResearchSpeed.label>
-  <ResearchSpeed.description>Denna person forskar med denna hastighet.</ResearchSpeed.description>
-
+  
+  <!-- EN: animal gather speed -->
   <AnimalGatherSpeed.label>Djuruppsamlingshastighet</AnimalGatherSpeed.label>
+  <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
   <AnimalGatherSpeed.description>Hastigheten vid vilken denna person mjölkar, klipper och på annat sätt samlar resurser från djur.</AnimalGatherSpeed.description>
-
+  
+  <!-- EN: animal gather yield -->
   <AnimalGatherYield.label>Djuruppsamlingsutbyte</AnimalGatherYield.label>
+  <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product. -->
   <AnimalGatherYield.description>Det procentuella utbytet som någon får när de klipper, mjölkar eller på annat sätt samlar in resurser från ett levande djur. Högre procentsatser minskar risken att slösa produkten.</AnimalGatherYield.description>
-
-  <PlantWorkSpeed.label>växtarbetshastighet</PlantWorkSpeed.label>
-  <PlantWorkSpeed.description>Hastighet med vilken den här personen sår och skördar växter.</PlantWorkSpeed.description>
-
-  <PlantHarvestYield.label>Växtskördningsutbyte</PlantHarvestYield.label>
-  <PlantHarvestYield.description>Utbytet får någon när man skördar växter. Lågt utbyten ger en chans att den här personen kommer att oavsiktligt slösa av skörden.</PlantHarvestYield.description>
-
+  
+  <!-- EN: construction speed -->
   <ConstructionSpeed.label>bygghastighet</ConstructionSpeed.label>
+  <!-- EN: The speed at which this person constructs and repairs buildings. -->
   <ConstructionSpeed.description>Hastighet med vilken denna person bygger och reparerar byggnader.</ConstructionSpeed.description>
-
+  
+  <!-- EN: construct success chance -->
   <ConstructSuccessChance.label>chans att lyckas bygga</ConstructSuccessChance.label>
+  <!-- EN: The chance that this person will succeed in constructing something. Failing means wasting time and resources. -->
   <ConstructSuccessChance.description>Chansen att den här personen kommer att lyckas med att bygga upp något. Att misslyckas innebär att tid och resurser slösas bort.</ConstructSuccessChance.description>
-
+  
+  <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>chans att lyckas med reparation</FixBrokenDownBuildingSuccessChance.label>
+  <!-- EN: The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage. -->
   <FixBrokenDownBuildingSuccessChance.description>En chans att den här personen kommer att lyckas reparera en trasig byggnad med hjälp av en komponent. Att misslyckas innebär att tid och resurser slösas bort. Observera att detta endast gäller reparation av trasig byggnader, vilket skiljer sig från att reparera skador.</FixBrokenDownBuildingSuccessChance.description>
-
+  
+  <!-- EN: mining speed -->
+  <MiningSpeed.label>gruvhastighet</MiningSpeed.label>
+  <!-- EN: A speed at which this person digs at walls and drills for deep resources. -->
+  <MiningSpeed.description>En multiplikator på den hastighet med vilken denna person gruvar sten.</MiningSpeed.description>
+  
+  <!-- EN: mining yield -->
+  <MiningYield.label>gruvutbyte</MiningYield.label>
+  <!-- EN: The percentage of mined resources a miner will produce. This applies to both wall mining and deep drill mining. This doesn't affect the production rate of rock chunks. -->
+  <MiningYield.description>Det procentuella utbytet som en gruvarbetare uppnår. Detta gäller både vägggruvning och djup borrbrytning. Detta påverkar inte när personen bryter sten.</MiningYield.description>
+  
+  <!-- EN: plant harvest yield -->
+  <PlantHarvestYield.label>Växtskördningsutbyte</PlantHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest. -->
+  <PlantHarvestYield.description>Utbytet får någon när man skördar växter. Lågt utbyten ger en chans att den här personen kommer att oavsiktligt slösa av skörden.</PlantHarvestYield.description>
+  
+  <!-- EN: plant work speed -->
+  <PlantWorkSpeed.label>växtarbetshastighet</PlantWorkSpeed.label>
+  <!-- EN: The speed at which this person sows and harvests plants. -->
+  <PlantWorkSpeed.description>Hastighet med vilken den här personen sår och skördar växter.</PlantWorkSpeed.description>
+  
+  <!-- EN: research speed -->
+  <ResearchSpeed.label>forskningshastighet</ResearchSpeed.label>
+  <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
+  <ResearchSpeed.description>Denna person forskar med denna hastighet.</ResearchSpeed.description>
+  
+  <!-- EN: smoothing speed -->
+  <SmoothingSpeed.label>utjämningshastighet</SmoothingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
+  <SmoothingSpeed.description>En multiplikator på den hastighet med vilken denna person jämnar golv.</SmoothingSpeed.description>
+  
+  <!-- EN: global work speed -->
+  <WorkSpeedGlobal.label>global arbetshastighet</WorkSpeedGlobal.label>
+  <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
+  <WorkSpeedGlobal.description>En multiplikator på någons hastighet på att göra ett arbete.</WorkSpeedGlobal.description>
   
 </LanguageData>

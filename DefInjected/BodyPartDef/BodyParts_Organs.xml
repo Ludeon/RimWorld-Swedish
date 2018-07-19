@@ -1,13 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Heart.label>Hjärta</Heart.label>
-  <LeftLung.label>Vänster Lunga</LeftLung.label>
-  <RightLung.label>Höger Lunga</RightLung.label>
-  <LeftKidney.label>Vänster Njure</LeftKidney.label>
-  <RightKidney.label>Höger Njure</RightKidney.label>
-  <Liver.label>Lever</Liver.label>
-  <Stomach.label>Mage</Stomach.label>
-
-
+  
+  <!-- EN: heart -->
+  <Heart.label>hjärta</Heart.label>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>njure</Kidney.label>
+  
+  <!-- EN: liver -->
+  <Liver.label>lever</Liver.label>
+  
+  <!-- EN: lung -->
+  <Lung.label>lunga</Lung.label>
+  
+  <!-- EN: stomach -->
+  <Stomach.label>mage</Stomach.label>
+  
 </LanguageData>

@@ -1,18 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <GoJuiceHigh.label>hög på go-juice</GoJuiceHigh.label>
-
-
-  <!-- Go-juice addiction -->
-
-  <GoJuiceTolerance.label>go-juice tolerans</GoJuiceTolerance.label>
-  <GoJuiceTolerance.stages.1.label>liten</GoJuiceTolerance.stages.1.label>
-  <GoJuiceTolerance.stages.2.label>stor</GoJuiceTolerance.stages.2.label>
-  <GoJuiceTolerance.stages.3.label>enorm</GoJuiceTolerance.stages.3.label>
-
+  
+  <!-- EN: withdrawal -->
+  <GoJuiceAddiction.stages.withdrawal.label>abstinens</GoJuiceAddiction.stages.withdrawal.label>
+  <!-- EN: go-juice addiction -->
   <GoJuiceAddiction.label>go-juice-missbruk</GoJuiceAddiction.label>
-  <GoJuiceAddiction.stages.1.label>abstinens</GoJuiceAddiction.stages.1.label>
-
-
+  
+  <!-- EN: a go-juice high -->
+  <GoJuiceHigh.labelNoun>en go-juice höjning</GoJuiceHigh.labelNoun>
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.label>hög på go-juice</GoJuiceHigh.label>
+  
+  <!-- EN: small -->
+  <GoJuiceTolerance.stages.small-1.label>liten</GoJuiceTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <GoJuiceTolerance.stages.large.label>stor</GoJuiceTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <GoJuiceTolerance.stages.massive.label>enorm</GoJuiceTolerance.stages.massive.label>
+  <!-- EN: go-juice tolerance -->
+  <GoJuiceTolerance.label>go-juice tolerans</GoJuiceTolerance.label>
+  
 </LanguageData>

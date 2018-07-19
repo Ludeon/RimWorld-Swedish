@@ -1,12 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: Save -->
   <SaveButton>Spara</SaveButton>
-  <!--<CancelButton>Cancel</CancelButton>-->
+  <!-- EN: Clear -->
   <ClearBinding>Rensa</ClearBinding>
+  <!-- EN: Reset to default -->
   <ResetBinding>Återställ till standard</ResetBinding>
+  <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>Vänsterklicka för att binda denna tangent eller högerklicka för mer alternativ</BindingButtonToolTip>
+  <!-- EN: Press any key or Esc to cancel... -->
   <PressAnyKeyOrEsc>Tryck på någon tangen eller Esc för att avbryta...</PressAnyKeyOrEsc>
+  <!-- EN: Key binding overwritten: {0} -->
   <KeyBindingOverwritten>Tangentbords bindning överskriven: {0}</KeyBindingOverwritten>
-
+  
 </LanguageData>

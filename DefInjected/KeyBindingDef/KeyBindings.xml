@@ -1,72 +1,151 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- In-game camera -->
-
-  <MapDollyUp.label>kameravagn upp</MapDollyUp.label>
-  <MapDollyDown.label>kameravagn ned</MapDollyDown.label>
-  <MapDollyLeft.label>kameravagn vänster</MapDollyLeft.label>
-  <MapDollyRight.label>kameravagn höger</MapDollyRight.label>
-  <MapZoomIn.label>zooma in</MapZoomIn.label>
-  <MapZoomOut.label>zooma ut</MapZoomOut.label>
-
-
-  <!-- Map play -->
-
-  <TakeScreenshot.label>ta skärmdump</TakeScreenshot.label>
-  <ToggleScreenshotMode.label>växla skärmdumpläge</ToggleScreenshotMode.label>
-  <SelectNextInCell.label>välj nästa i cell</SelectNextInCell.label>
-  <TogglePause.label>pausa/återuppta spel</TogglePause.label>
-  <TimeSpeedNormal.label>spelhastighet: normal</TimeSpeedNormal.label>
-  <TimeSpeedFast.label>spelhastighet: snabb</TimeSpeedFast.label>
-  <TimeSpeedSuperfast.label>spelhastighet: supersnabb</TimeSpeedSuperfast.label>
-  <TimeSpeedUltrafast.label>spelhastighet: ultrasnabb (debug)</TimeSpeedUltrafast.label>
-  <PreviousColonist.label>föregående kolonist</PreviousColonist.label>
-  <NextColonist.label>nästa kolonist</NextColonist.label>
-
-
-  <!-- Misc (re-used) -->
-
+  
+  <!-- EN: accept -->
+  <Accept.label>TODO</Accept.label>
+  
+  <!-- EN: cancel -->
+  <Cancel.label>TODO</Cancel.label>
+  
+  <!-- EN: draft -->
+  <Command_ColonistDraft.label>kommendera</Command_ColonistDraft.label>
+  
+  <!-- EN: toggle forbidden -->
+  <Command_ItemForbid.label>växla förbjuden</Command_ItemForbid.label>
+  
+  <!-- EN: toggle power -->
+  <Command_TogglePower.label>växla ström</Command_TogglePower.label>
+  
+  <!-- EN: cancel -->
+  <Designator_Cancel.label>avbryt</Designator_Cancel.label>
+  
+  <!-- EN: deconstruct -->
+  <Designator_Deconstruct.label>riv</Designator_Deconstruct.label>
+  
+  <!-- EN: rotate left -->
+  <Designator_RotateLeft.label>rotera vänster</Designator_RotateLeft.label>
+  
+  <!-- EN: rotate right -->
+  <Designator_RotateRight.label>rotera höger</Designator_RotateRight.label>
+  
+  <!-- EN: tick once -->
+  <Dev_TickOnce.label>bocka av en gång</Dev_TickOnce.label>
+  
+  <!-- EN: toggle debug actions menu -->
+  <Dev_ToggleDebugActionsMenu.label>växla debughändelse-meny</Dev_ToggleDebugActionsMenu.label>
+  
+  <!-- EN: toggle debug inspector -->
+  <Dev_ToggleDebugInspector.label>växla debuggranskning</Dev_ToggleDebugInspector.label>
+  
+  <!-- EN: toggle debug log -->
+  <Dev_ToggleDebugLog.label>växla debugläge</Dev_ToggleDebugLog.label>
+  
+  <!-- EN: toggle debug log menu -->
+  <Dev_ToggleDebugLogMenu.label>växla debuglogg-meny</Dev_ToggleDebugLogMenu.label>
+  
+  <!-- EN: toggle debug settings menu -->
+  <Dev_ToggleDebugSettingsMenu.label>växla debuginställnings-meny</Dev_ToggleDebugSettingsMenu.label>
+  
+  <!-- EN: toggle god mode -->
+  <Dev_ToggleGodMode.label>växla gudläge</Dev_ToggleGodMode.label>
+  
+  <!-- EN: dolly down -->
+  <MapDolly_Down.label>kameravagn ned</MapDolly_Down.label>
+  
+  <!-- EN: dolly left -->
+  <MapDolly_Left.label>kameravagn vänster</MapDolly_Left.label>
+  
+  <!-- EN: dolly right -->
+  <MapDolly_Right.label>kameravagn höger</MapDolly_Right.label>
+  
+  <!-- EN: dolly up -->
+  <MapDolly_Up.label>kameravagn upp</MapDolly_Up.label>
+  
+  <!-- EN: zoom in -->
+  <MapZoom_In.label>zooma in</MapZoom_In.label>
+  
+  <!-- EN: zoom out -->
+  <MapZoom_Out.label>zooma ut</MapZoom_Out.label>
+  
+  <!-- EN: Misc 1 -->
   <Misc1.label>Diverse 1</Misc1.label>
-  <Misc2.label>Diverse 2</Misc2.label>
-  <Misc3.label>Diverse 3</Misc3.label>
-  <Misc4.label>Diverse 4</Misc4.label>
-  <Misc5.label>Diverse 5</Misc5.label>
-  <Misc6.label>Diverse 6</Misc6.label>
-  <Misc7.label>Diverse 7</Misc7.label>
-  <Misc8.label>Diverse 8</Misc8.label>
-  <Misc9.label>Diverse 9</Misc9.label>
+  
+  <!-- EN: Misc 10 -->
   <Misc10.label>Diverse 10</Misc10.label>
+  
+  <!-- EN: Misc 11 -->
   <Misc11.label>Diverse 11</Misc11.label>
+  
+  <!-- EN: Misc 12 -->
   <Misc12.label>Diverse 12</Misc12.label>
-
-
-  <!-- Selection special -->
-
-  <CommandTogglePower.label>växla ström</CommandTogglePower.label>
-  <CommandItemForbid.label>växla förbjuden</CommandItemForbid.label>
-  <CommandColonistDraft.label>kommendera</CommandColonistDraft.label>
-  <ModifierIncrement10x.label>öka 10x</ModifierIncrement10x.label>
-  <ModifierIncrement100x.label>öka 100x</ModifierIncrement100x.label>
-
-
-  <!-- Architect: Common -->
-
-  <DesignatorCancel.label>avbryt</DesignatorCancel.label>
-  <DesignatorDeconstruct.label>riv</DesignatorDeconstruct.label>
-  <DesignatorRotateLeft.label>rotera vänster</DesignatorRotateLeft.label>
-  <DesignatorRotateRight.label>rotera höger</DesignatorRotateRight.label>
-
-
-  <!-- Debug -->
-
-  <TickOnce.label>bocka av en gång</TickOnce.label>
-  <ToggleGodMode.label>växla gudläge</ToggleGodMode.label>
-  <ToggleDebugLog.label>växla debugläge</ToggleDebugLog.label>
-  <ToggleDebugActionsMenu.label>växla debughändelse-meny</ToggleDebugActionsMenu.label>
-  <ToggleDebugLogMenu.label>växla debuglogg-meny</ToggleDebugLogMenu.label>
-  <ToggleDebugInspector.label>växla debuggranskning</ToggleDebugInspector.label>
-  <ToggleDebugSettingsMenu.label>växla debuginställnings-meny</ToggleDebugSettingsMenu.label>
-
-
+  
+  <!-- EN: Misc 2 -->
+  <Misc2.label>Diverse 2</Misc2.label>
+  
+  <!-- EN: Misc 3 -->
+  <Misc3.label>Diverse 3</Misc3.label>
+  
+  <!-- EN: Misc 4 -->
+  <Misc4.label>Diverse 4</Misc4.label>
+  
+  <!-- EN: Misc 5 -->
+  <Misc5.label>Diverse 5</Misc5.label>
+  
+  <!-- EN: Misc 6 -->
+  <Misc6.label>Diverse 6</Misc6.label>
+  
+  <!-- EN: Misc 7 -->
+  <Misc7.label>Diverse 7</Misc7.label>
+  
+  <!-- EN: Misc 8 -->
+  <Misc8.label>Diverse 8</Misc8.label>
+  
+  <!-- EN: Misc 9 -->
+  <Misc9.label>Diverse 9</Misc9.label>
+  
+  <!-- EN: increment 100x -->
+  <ModifierIncrement_100x.label>öka 100x</ModifierIncrement_100x.label>
+  
+  <!-- EN: increment 10x -->
+  <ModifierIncrement_10x.label>öka 10x</ModifierIncrement_10x.label>
+  
+  <!-- EN: next colonist -->
+  <NextColonist.label>nästa kolonist</NextColonist.label>
+  
+  <!-- EN: previous colonist -->
+  <PreviousColonist.label>föregående kolonist</PreviousColonist.label>
+  
+  <!-- EN: queue order -->
+  <QueueOrder.label>TODO</QueueOrder.label>
+  
+  <!-- EN: select next in cell -->
+  <SelectNextInCell.label>välj nästa i cell</SelectNextInCell.label>
+  
+  <!-- EN: take screenshot -->
+  <TakeScreenshot.label>ta skärmdump</TakeScreenshot.label>
+  
+  <!-- EN: game speed: Fast -->
+  <TimeSpeed_Fast.label>spelhastighet: snabb</TimeSpeed_Fast.label>
+  
+  <!-- EN: game speed: Normal -->
+  <TimeSpeed_Normal.label>spelhastighet: normal</TimeSpeed_Normal.label>
+  
+  <!-- EN: game speed: Super fast -->
+  <TimeSpeed_Superfast.label>spelhastighet: supersnabb</TimeSpeed_Superfast.label>
+  
+  <!-- EN: game speed: Ultra fast (debug) -->
+  <TimeSpeed_Ultrafast.label>spelhastighet: ultrasnabb (debug)</TimeSpeed_Ultrafast.label>
+  
+  <!-- EN: toggle beauty display -->
+  <ToggleBeautyDisplay.label>TODO</ToggleBeautyDisplay.label>
+  
+  <!-- EN: pause/resume game -->
+  <TogglePause.label>pausa/återuppta spel</TogglePause.label>
+  
+  <!-- EN: toggle room stats display -->
+  <ToggleRoomStatsDisplay.label>TODO</ToggleRoomStatsDisplay.label>
+  
+  <!-- EN: toggle screenshot mode -->
+  <ToggleScreenshotMode.label>växla skärmdumpläge</ToggleScreenshotMode.label>
+  
 </LanguageData>

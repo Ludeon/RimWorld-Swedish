@@ -1,46 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Wild - clustering bushes (some harvestable) -->
-
-  <PlantRaspberry.label>hallonbuske</PlantRaspberry.label>
-  <PlantRaspberry.description>En buskig växt som ger läckra röda bär.</PlantRaspberry.description>
-
-  <PlantBush.label>buske</PlantBush.label>
-  <PlantBush.description>En kort buske. Pratar normalt inte.</PlantBush.description>
-
-  <PlantWildHealroot.label>vild helande rötter</PlantWildHealroot.label>
-  <PlantWildHealroot.description>En långväxande växt som ger örtbaserad medicin när den skördas.\n\nDenna vilda ras av helande rötter är svår att odla. Det är prisade av stammar i kallare klimat.</PlantWildHealroot.description>
-
-
-  <!-- Wild plants - carpets -->
-
-  <PlantGrass.label>gräs</PlantGrass.label>
-  <PlantGrass.description>Vildgräs. Växer överallt där det finns lite ljus och minimalt grogrund.</PlantGrass.description>
-
-  <PlantDandelion.label>maskrosor</PlantDandelion.label>
-  <PlantDandelion.description>En vanlig liten blomma. Även om det anses ofta vara ett ogräs, är det trevligt att titta på.</PlantDandelion.description>
-
-  <PlantAstragalus.label>astragalus</PlantAstragalus.label>
-  <PlantAstragalus.description>En liten perenn/vildblomma som växer i alpina klimat.</PlantAstragalus.description>
-
-  <PlantMoss.label>mossa</PlantMoss.label>
-  <PlantMoss.description>En vild mossa som växer i klumpar i områden med svagt ljus och hög luftfuktighet. Mycket härdig och frostbeständig.</PlantMoss.description>
-
-
-  <!-- Wild - Trees -->
-
-  <PlantTreeOak.label>ek</PlantTreeOak.label>
-  <PlantTreeOak.description>En stark lövträd. Långsam växande men dess trä är mycket stark.</PlantTreeOak.description>
-
-  <PlantTreePoplar.label>poppel</PlantTreePoplar.label>
-  <PlantTreePoplar.description>Ett barrträd. Växer snabbt, men ger lite användbar trä.</PlantTreePoplar.description>
-
-  <PlantTreePine.label>tall</PlantTreePine.label>
-  <PlantTreePine.description>Ett stort barrträd.</PlantTreePine.description>
-
-  <PlantTreeBirch.label>björk</PlantTreeBirch.label>
-  <PlantTreeBirch.description>En nordligt träd känd för sin tunna, pappersliknande bark.</PlantTreeBirch.description>
-
-
+  
+  <!-- EN: astragalus -->
+  <Plant_Astragalus.label>astragalus</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
+  <Plant_Astragalus.description>En liten perenn/vildblomma som växer i alpina klimat.</Plant_Astragalus.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>hallonbuske</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>En buskig växt som ger läckra röda bär.</Plant_Berry.description>
+  
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>maskrosor</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>En vanlig liten blomma. Även om det anses ofta vara ett ogräs, är det trevligt att titta på.</Plant_Dandelion.description>
+  
+  <!-- EN: moss -->
+  <Plant_Moss.label>mossa</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>En vild mossa som växer i klumpar i områden med svagt ljus och hög luftfuktighet. Mycket härdig och frostbeständig.</Plant_Moss.description>
+  
+  <!-- EN: birch tree -->
+  <Plant_TreeBirch.label>björk</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
+  <Plant_TreeBirch.description>En nordligt träd känd för sin tunna, pappersliknande bark.</Plant_TreeBirch.description>
+  
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>ek</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>En stark lövträd. Långsam växande men dess trä är mycket stark.</Plant_TreeOak.description>
+  
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>tall</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>Ett stort barrträd.</Plant_TreePine.description>
+  
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>poppel</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>Ett barrträd. Växer snabbt, men ger lite användbar trä.</Plant_TreePoplar.description>
+  
 </LanguageData>

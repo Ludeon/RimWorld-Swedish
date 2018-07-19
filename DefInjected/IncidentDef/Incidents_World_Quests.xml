@@ -1,13 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <QuestBanditCamp.label>banditläger</QuestBanditCamp.label>
-  <QuestBanditCamp.letterText>{0}, {1} från {2}, har skickat ett meddelande.\n\nUppenbarligen har banditer som är baserade i ett närliggande läger raidat deras karavaner. De har bett oss att förstöra det, vilket innebär att eliminera alla fiender och kanontorn.\n\nOm vi ​​lyckas kommer våra relationer att förbättras, och de skickar oss denna belöning:\n\n{3}</QuestBanditCamp.letterText>
-  <QuestBanditCamp.letterLabel>Banditläger</QuestBanditCamp.letterLabel>
-
-  <QuestItemStash.label>skattgömma</QuestItemStash.label>
-  <QuestItemStash.letterText>{0}, {1} från {2}, har skickat ett meddelande.\n\nDe har fått reda på att en samling värdefulla saker har övergivits inte långt ifrån oss. Samlingen består av:\n\n{3}\n\nTyvärr kommer det inte att vara kvar länge - andra kommer att ta föremålen om {4} dagar om vi inte gör det.\n\nVärderingar tenderar att locka till sig fara, så akta er.\n\n{5}</QuestItemStash.letterText>
-  <QuestItemStash.letterLabel>Skattgömma</QuestItemStash.letterLabel>
-
-
+  
+  <!-- EN: {0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\nIf we succeed, their relations will improve, and they'll send us this reward:\n\n{3}\n\nIf we don't destroy the camp in {4} days, they will do it themselves. -->
+  <Quest_BanditCamp.letterText>{0}, {1} från {2}, har skickat ett meddelande.\n\nUppenbarligen har banditer som är baserade i ett närliggande läger raidat deras karavaner. De har bett oss att förstöra det, vilket innebär att eliminera alla fiender och kanontorn.\n\nOm vi ​​lyckas kommer våra relationer att förbättras, och de skickar oss denna belöning:\n\n{3}\n\nOm vi inte förstör lägret på {4} dagar, kommer de att göra det själva.</Quest_BanditCamp.letterText>
+  <!-- EN: Bandit camp quest -->
+  <Quest_BanditCamp.letterLabel>Banditläger</Quest_BanditCamp.letterLabel>
+  <!-- EN: bandit camp quest -->
+  <Quest_BanditCamp.label>banditläger</Quest_BanditCamp.label>
+  
+  <!-- EN: [PAWN_nameDef] contacts you and requests help. [PAWN_pronoun] is wounded and unable to move. Without your help, [PAWN_pronoun] will die in {0} days.\n\n[PAWN_nameDef] is a {1}-year-old {2}. [PAWN_pronoun] promises to join you if you rescue [PAWN_objective].\n\n[PAWN_nameDef] says that {3}. -->
+  <Quest_DownedRefugee.letterText>[PAWN_nameDef] kontakter dig och begär hjälp. [PAWN_pronoun] är skadad och kan inte röra sig. Utan din hjälp kommer [PAWN_pronoun] att dö på {0} dagar.\n\n[PAWN_nameDef] är en {1}-årig {2}. [PAWN_pronoun] lovar att gå med dig om du räddar [PAWN_objective].\n\n [PAWN_nameDef] säger att {3}.</Quest_DownedRefugee.letterText>
+  <!-- EN: Incapacitated refugee quest -->
+  <Quest_DownedRefugee.letterLabel>Skadad flykting</Quest_DownedRefugee.letterLabel>
+  <!-- EN: incapacitated refugee quest -->
+  <Quest_DownedRefugee.label>skadad flykting</Quest_DownedRefugee.label>
+  
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStash.letterText>{0}, {1} från {2}, har skickat ett meddelande.\n\nDe har fått reda på att en samling värdefulla saker har övergivits inte långt ifrån oss. Samlingen består av:\n\n{3}\n\nTyvärr kommer det inte att vara kvar länge - andra kommer att ta föremålen om {4} dagar om vi inte gör det.\n\nVärderingar tenderar att locka till sig fara, så akta er.\n\n{5}</Quest_ItemStash.letterText>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStash.letterLabel>Skattgömma</Quest_ItemStash.letterLabel>
+  <!-- EN: item stash quest -->
+  <Quest_ItemStash.label>skattgömma</Quest_ItemStash.label>
+  
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStashAICore.letterText>{0}, {1} av {2}, har informerat oss om en samling värdefulla saker som inte ligger långt ifrån oss. Samlingen består av:\n\n{3}\n\nTyvärr så kommer det inte vara där länge - andra kommer att ta skatterna inom {4} dagar om vi inte gör det.\n\nVarning - värdesaker tenderar att locka till sig fara. {0} säger att {5}.</Quest_ItemStashAICore.letterText>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStashAICore.letterLabel>Skattgömma</Quest_ItemStashAICore.letterLabel>
+  <!-- EN: item stash quest (AI core) -->
+  <Quest_ItemStashAICore.label>skattgömma (AI-kärna)</Quest_ItemStashAICore.label>
+  
+  <!-- EN: escape ship quest -->
+  <Quest_JourneyOffer.label>resebegäran</Quest_JourneyOffer.label>
+  
+  <!-- EN: [PAWN_nameDef], {0} of {1}, has sent us a message. [PAWN_pronoun] wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.\n\nThe offer will expire after {2} days. -->
+  <Quest_PeaceTalks.letterText>[PAWN_nameDef], {0} av {1}, har skickat ett meddelande till oss. [PAWN_pronoun] vill prata med oss i en närliggande plats. Det kan vara en utmärkt möjlighet att förbättra relationerna med deras fraktion och ta emot gåvor, men akta dig - en dålig förhandlare kan orsaka mer skada än bra och kan till och med förarga dem.\n\nErbjudandet löper ut efter {2} dagar.</Quest_PeaceTalks.letterText>
+  <!-- EN: Peace talks quest -->
+  <Quest_PeaceTalks.letterLabel>Fredssamtal</Quest_PeaceTalks.letterLabel>
+  <!-- EN: peace talks quest -->
+  <Quest_PeaceTalks.label>fredssamtal</Quest_PeaceTalks.label>
+  
+  <!-- EN: A prisoner being held by {0} has managed to steal a radio and call you!\n\n[PAWN_nameDef] is being held at a camp nearby under armed guard. Rescue [PAWN_objective], and [PAWN_pronoun] will join your colony. [PAWN_pronoun] is a {1}-year-old {2}. [PAWN_pronoun] says that {3}. -->
+  <Quest_PrisonerRescue.letterText>En fånge som hålls vid {0} har lyckats stjäla en radio och anropa dig!\n\n[PAWN_nameDef] hålls på ett läger i närheten under bevakad vakt. Rädda [PAWN_objective] och [PAWN_pronoun] kommer att gå med i din koloni. [PAWN_pronoun] är en {1}-årig {2}. [PAWN_pronoun] säger att {3}.</Quest_PrisonerRescue.letterText>
+  <!-- EN: Prisoner rescue quest -->
+  <Quest_PrisonerRescue.letterLabel>Fångräddning</Quest_PrisonerRescue.letterLabel>
+  <!-- EN: prisoner rescue quest -->
+  <Quest_PrisonerRescue.label>fångräddning</Quest_PrisonerRescue.label>
+  
+  <!-- EN: trade request -->
+  <Quest_TradeRequest.label>handelsförfrågan</Quest_TradeRequest.label>
+  
 </LanguageData>

@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <RectTrigger.label>Avtryckare</RectTrigger.label>
-  <DropPodIncoming.label>räddningskapsel (inkommande)</DropPodIncoming.label>
-  <DropPodLeaving.label>räddningskapsel (lämnar)</DropPodLeaving.label>
+  
+  <!-- EN: drop pod -->
   <ActiveDropPod.label>räddningskapsel</ActiveDropPod.label>
+  
+  <!-- EN: fire -->
   <Fire.label>eld</Fire.label>
+  
+  <!-- EN: spark -->
   <Spark.label>gnista</Spark.label>
-
-
+  
 </LanguageData>

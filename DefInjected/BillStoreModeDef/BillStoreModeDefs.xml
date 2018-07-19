@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: take to best stockpile -->
+  <BestStockpile.label>bär till det bästa förrådet</BestStockpile.label>
+  
+  <!-- EN: drop on floor -->
+  <DropOnFloor.label>släpp på marken</DropOnFloor.label>
+  
+  <!-- EN: take to {0} -->
+  <SpecificStockpile.label>bär till {0}</SpecificStockpile.label>
+  
+</LanguageData>

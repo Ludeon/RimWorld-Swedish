@@ -1,32 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: a -->
   <IndefiniteArticle>en</IndefiniteArticle>
+  <!-- EN: the -->
   <DefiniteArticle></DefiniteArticle>
+  <!-- EN: a {0} -->
   <IndefiniteForm>en {0}</IndefiniteForm>
+  <!-- EN: the {0} -->
   <DefiniteForm>{0}</DefiniteForm>
 
+  <!-- EN: its -->
   <Proits>dess</Proits>
+  <!-- EN: his -->
   <Prohis>hans</Prohis>
+  <!-- EN: her -->
   <Proher>hennes</Proher>
+  <!-- EN: Its -->
   <ProitsCap>Dess</ProitsCap>
+  <!-- EN: His -->
   <ProhisCap>Hans</ProhisCap>
+  <!-- EN: Her -->
   <ProherCap>Hennes</ProherCap>
 
+  <!-- EN: it -->
   <ProitObj>det</ProitObj>
+  <!-- EN: him -->
   <ProhimObj>honom</ProhimObj>
+  <!-- EN: her -->
   <ProherObj>henne</ProherObj>
+  <!-- EN: It -->
   <ProitObjCap>Det</ProitObjCap>
+  <!-- EN: Him -->
   <ProhimObjCap>Honom</ProhimObjCap>
+  <!-- EN: Her -->
   <ProherObjCap>Henne</ProherObjCap>
 
+  <!-- EN: he -->
   <Prohe>han</Prohe>
+  <!-- EN: she -->
   <Proshe>hon</Proshe>
+  <!-- EN: it -->
   <Proit>det</Proit>
+  <!-- EN: He -->
   <ProheCap>Han</ProheCap>
+  <!-- EN: She -->
   <ProsheCap>Hon</ProsheCap>
+  <!-- EN: It -->
   <ProitCap>Det</ProitCap>
-
-  <!-- Swedish doens't work the same way as English, no standalone translation of 'the' -->
 
 </LanguageData>

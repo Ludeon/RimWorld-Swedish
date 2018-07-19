@@ -1,44 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Simple mineables -->
-
+  
+  <!-- EN: collapsed rocks -->
   <CollapsedRocks.label>stenras</CollapsedRocks.label>
+  <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
   <CollapsedRocks.description>En hög med stenar från ett ras. De är så tätt packade att de kan hålla uppe ett tak.</CollapsedRocks.description>
-
-
-  <!-- Resource rocks -->
-
-  <MineableSteel.label>kompakt stål</MineableSteel.label>
-  <MineableSteel.description>Resterna av en antik byggnad. Innehåller stora mängder stål.</MineableSteel.description>
-
-  <MineableSilver.label>silveråder</MineableSilver.label>
-  <MineableSilver.description>Sten som innehåller små mängder silver.</MineableSilver.description>
-
-  <MineableGold.label>guldåder</MineableGold.label>
-  <MineableGold.description>Sten som innehåller små mängder guld.</MineableGold.description>
-
-  <MineableUranium.label>uranmalm</MineableUranium.label>
-  <MineableUranium.description>Sten som innehåller små mängder uran.</MineableUranium.description>
-
-  <MineablePlasteel.label>kompakt plaststål</MineablePlasteel.label>
-  <MineablePlasteel.description>Gamla ruiner som innehåller stora mängder plaststål.</MineablePlasteel.description>
-
-  <MineableJade.label>jade</MineableJade.label>
-  <MineableJade.description>Sten som innehåller små mängder jade.</MineableJade.description>
-
-  <MineableComponents.label>sammanpressade maskindelar</MineableComponents.label>
-  <MineableComponents.description>Gamla maskiner som med tiden pressats samman. Innehåller användbara komponenter.</MineableComponents.description>
-
-  <SteamGeyser.label>gejser</SteamGeyser.label>
-  <SteamGeyser.description>Naturlig källa av ånga.</SteamGeyser.description>
-
-  <Hive.label>koloni</Hive.label>
-  <Hive.description>En koloni av insekter. Genererar ytterligare insekter och kolonier med tiden.</Hive.description>
-
+  
+  <!-- EN: glow pod -->
   <GlowPod.label>glödkapsel</GlowPod.label>
+  <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
   <GlowPod.description>En självlysande kapsel producerad av gigantiska insekter. Lyser med ett eget ljus under en lång tid innan den dör.</GlowPod.description>
-  <GlowPod_Blueprint_Install.label>glödkapsel (ritning)</GlowPod_Blueprint_Install.label>
-
-
+  
+  <!-- EN: hive -->
+  <Hive.label>koloni</Hive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <Hive.description>En koloni av insekter. Genererar ytterligare insekter och kolonier med tiden.</Hive.description>
+  
+  <!-- EN: compacted machinery -->
+  <MineableComponentsIndustrial.label>sammanpressade maskindelar</MineableComponentsIndustrial.label>
+  <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
+  <MineableComponentsIndustrial.description>Gamla maskiner som med tiden pressats samman. Innehåller användbara komponenter.</MineableComponentsIndustrial.description>
+  
+  <!-- EN: gold ore -->
+  <MineableGold.label>guldåder</MineableGold.label>
+  <!-- EN: Rock containing bits of gold. -->
+  <MineableGold.description>Sten som innehåller små mängder guld.</MineableGold.description>
+  
+  <!-- EN: jade -->
+  <MineableJade.label>jade</MineableJade.label>
+  <!-- EN: Rock containing bits of jade. -->
+  <MineableJade.description>Sten som innehåller små mängder jade.</MineableJade.description>
+  
+  <!-- EN: compacted plasteel -->
+  <MineablePlasteel.label>kompakt plaststål</MineablePlasteel.label>
+  <!-- EN: Ancient compacted rubble rich in plasteel. -->
+  <MineablePlasteel.description>Gamla ruiner som innehåller stora mängder plaststål.</MineablePlasteel.description>
+  
+  <!-- EN: silver ore -->
+  <MineableSilver.label>silveråder</MineableSilver.label>
+  <!-- EN: Rock containing bits of silver. -->
+  <MineableSilver.description>Sten som innehåller små mängder silver.</MineableSilver.description>
+  
+  <!-- EN: compacted steel -->
+  <MineableSteel.label>kompakt stål</MineableSteel.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <MineableSteel.description>Resterna av en antik byggnad. Innehåller stora mängder stål.</MineableSteel.description>
+  
+  <!-- EN: uranium ore -->
+  <MineableUranium.label>uranmalm</MineableUranium.label>
+  <!-- EN: Rock containing bits of uranium. -->
+  <MineableUranium.description>Sten som innehåller små mängder uran.</MineableUranium.description>
+  
+  <!-- EN: steam geyser -->
+  <SteamGeyser.label>gejser</SteamGeyser.label>
+  <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
+  <SteamGeyser.description>Naturlig källa av ånga.</SteamGeyser.description>
+  
 </LanguageData>

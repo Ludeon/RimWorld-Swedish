@@ -1,21 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>tillåt kolonisters kroppar</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
   <AllowCorpsesColonist.description>Tillåt döda före detta kolonister.</AllowCorpsesColonist.description>
-
+  
+  <!-- EN: allow stranger corpses -->
   <AllowCorpsesStranger.label>tillåt främlingars kroppar</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
   <AllowCorpsesStranger.description>Tillåt döda före detta främlingar och fiender.</AllowCorpsesStranger.description>
-
-  <AllowRotten.label>tillåt förruttnade saker</AllowRotten.label>
-  <AllowRotten.description>Tillåt organiska saker som har börjat ruttna.</AllowRotten.description>
-
-  <AllowPlantFood.label>tillåt växtföda</AllowPlantFood.label>
-  <AllowPlantFood.description>Tillåt föda som är av samma typ som icke skördade växter, som hö.</AllowPlantFood.description>
-
-  <AllowSmeltable.label>tillåt smältbara</AllowSmeltable.label>
-  <AllowNonSmeltableWeapons.label>tillåt ej smältbara</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>TODO</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>TODO</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>TODO</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>TODO</AllowFresh.description>
+  
+  <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>tillåt icke-dödmans kläder</AllowNonDeadmansApparel.label>
-
-
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>TODO</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>tillåt ej smältbara</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>tillåt växtföda</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>Tillåt föda som är av samma typ som icke skördade växter, som hö.</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>tillåt förruttnade saker</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>Tillåt organiska saker som har börjat ruttna.</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>tillåt smältbara</AllowSmeltable.label>
+  
 </LanguageData>

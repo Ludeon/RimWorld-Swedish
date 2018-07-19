@@ -1,24 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: head -->
+  <Hare.tools.head.label>TODO</Hare.tools.head.label>
+  <!-- EN: hare -->
   <Hare.label>hare</Hare.label>
+  <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
   <Hare.description>Detta lilla ensamma växtätare kan snabbt hoppa iväg från fara.</Hare.description>
-  <Hare_Leather.label>harskinn</Hare_Leather.label>
-  <Hare_Leather.description>harskinn</Hare_Leather.description>
-  <Hare_Leather.stuffProps.stuffAdjective>harskinn</Hare_Leather.stuffProps.stuffAdjective>
-  <Hare_Meat.label>harkött</Hare_Meat.label>
-  <Hare_Meat.description>harkött</Hare_Meat.description>
-  <Hare_Corpse.label>harkropp</Hare_Corpse.label>
-  <Hare_Corpse.description>harkropp</Hare_Corpse.description>
-
+  
+  <!-- EN: head -->
+  <Snowhare.tools.head.label>TODO</Snowhare.tools.head.label>
+  <!-- EN: snowhare -->
   <Snowhare.label>snöhare</Snowhare.label>
+  <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
   <Snowhare.description>Detta härdiga djur överlever de brutala vintrar i norr genom att tunnla genom snön för att finna byte eller hibernerar bort de värsta månaderna.</Snowhare.description>
-  <Snowhare_Leather.label>snöhareskinn</Snowhare_Leather.label>
-  <Snowhare_Leather.description>snöhareskinn</Snowhare_Leather.description>
-  <Snowhare_Leather.stuffProps.stuffAdjective>snöhareskinn</Snowhare_Leather.stuffProps.stuffAdjective>
-  <!-- Use Meat From: Hare -->
-  <Snowhare_Corpse.label>snöharekropp</Snowhare_Corpse.label>
-  <Snowhare_Corpse.description>snöharekropp</Snowhare_Corpse.description>
-
-
+  
 </LanguageData>

@@ -1,23 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: Builder -->
+  <Easy.label>Lätt</Easy.label>
+  <!-- EN: Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to relax.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled. -->
+  <Easy.description>Bygg en koloni med en viss smak av fara. Rekommenderas för: Spelare som är nya på den här typen av spel och spelare som vill koppla av.\n\nStörre hot dyker upp men de är mildare än andra lägen. Vissa extremt farliga händelser är inaktiverade.</Easy.description>
+  
+  <!-- EN: Extreme -->
+  <Extreme.label>Extremt</Extreme.label>
+  <!-- EN: Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a cruel, unfair world.\n\nRecommended for: Players who want to face brutal, unfair situations that require the deployment of fluent and well-rounded skills and the sacrifice of treasured people just to avoid losing everything.\n\nThere is no clean game here. You'll spend a lot of time fighting wounded and recovering, you'll need to prepare carefully, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come to you at any time. This level is about dealing with losses, because preventing them is impossible. -->
+  <Extreme.description>Bemästra alla dina RimWorld-kunskaper för bara en chans att överleva en svindlande rättegång mot en grym och orättvis värld. Rekommenderas för: Spelare som vill möta brutala och orättvisa situationer som kräver utbyggnad av flytande och väl avvägda färdigheter och tuffa människooffer bara för att undvika att förlora allt.\n\nDet finns inget rent spel här. Du kommer att spendera mycket tid att slåss och skadas, du måste förbereda dig noga, och du måste offra folk och saker du älskar. Orättvisa utmaningar och nyckfull död kan komma till dig när som helst. Denna nivå handlar om att hantera förluster, för att förhindra dem är omöjligt.</Extreme.description>
+  
+  <!-- EN: Hard -->
+  <Hard.label>Svårt</Hard.label>
+  <!-- EN: Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Players with a lot of experience who want to push themselves.\n\nSucceeding at this level requires a well-rounded understanding of diverse strategies, an disciplined preparation, and luck. Threats can spike and combine in vicious ways.\n\nEven if you play well, many challenges will be impossible to overcome without either deliberate sacrifice or random, unexpected losses. You'll have to fight wounded and recover often. Be ready to lose many people in the struggle to survive. -->
+  <Hard.description>Möt brutala överlevnad utmaningar. Priset för överlevnad är blod. Rekommenderas för: Spelare med stor erfarenhet som vill utmana sig själv.\n\nAtt lyckas på denna nivå kräver en god förståelse för olika strategier, en disciplinerad förberedelse och lite tur. Hot kan spika och kombineras på grymma sätt.\n\nÄven om du spelar bra, kommer många utmaningar att vara omöjliga att övervinna utan antingen avsiktligt offer eller slumpmässiga, oväntade förluster. Du måste slåss och skadas ofta. Var redo att förlora många människor i kampen för att överleva.</Hard.description>
+  
+  <!-- EN: Medium -->
+  <Medium.label>Medel</Medium.label>
+  <!-- EN: Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals. -->
+  <Medium.description>Bygg ett samhälle när du möter farliga hot. Rekommenderas för: Erfarna strategispelare på deras första spel RimWorld, eller skickliga RimWorld-spelare som vill ha andningsrum för att följa roliga eller annorlunda mål.</Medium.description>
+  
+  <!-- EN: Peaceful -->
   <Peaceful.label>Fredfullt</Peaceful.label>
+  <!-- EN: Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
   <Peaceful.description>För dom som vill ta det lugnt och bygga en koloni i en sandlåde-liknande miljö.\n\nStörre hotfulla händelser är inaktiverade, men kolonister kan fortfarande bli sura och djur kan fortfarande bli galna då och då.</Peaceful.description>
-
-  <VeryEasy.label>Basbyggare</VeryEasy.label>
-  <VeryEasy.description>För de som vill bygga en koloni i en sandlåde-liknande miljö. Det finns hot, men de är extremt svaga. Några av de farligaste händelserna är avaktiverade.</VeryEasy.description>
-
-  <Easy.label>Viss utmaning</Easy.label>
-  <Easy.description>För förstagångsspelaren, eller hobbyspelare som ändå vill ha en utmaning. Hoten är farliga, men inte brutala..</Easy.description>
-
-  <Medium.label>Tufft</Medium.label>
-  <Medium.description>Det är en hänsynslös planet. Hoten kan vara riktigt farliga. Inte rekommenderat förrän du har fått lite vana med spelet.</Medium.description>
-
-  <Hard.label>Intensivt</Hard.label>
-  <Hard.description>En ordentlig utmaning. För att lyckas på den här nivån krävs det gedigen förståelse om överlevnadsstrategier, och en del tur.</Hard.description>
-
-  <VeryHard.label>Extremt</VeryHard.label>
-  <VeryHard.description>För den mest härdade spelaren. Fienderna är starka, priserna är dåliga, mat är sällsynt, och kolonisterna är sura. För de som njuter av digitalt lidande.</VeryHard.description>
-
-
+  
+  <!-- EN: Rough -->
+  <Rough.label>Tufft</Rough.label>
+  <!-- EN: Struggle to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play an intense story requiring significant skill to survive.\n\nDo not expect to play a perfect clean game. You will lose people. Even if you play well, some challenges will be impossible to overcome without losses. You'll have to fight wounded, sacrifice to survive, and recover. It's all for the drama. -->
+  <Rough.description>Kampen för att överleva på en hård, tuff planet.\n\nRekommenderas för: Spelare med erfarenhet av RimWorld, som vill spela en intensiv historia som kräver betydande skicklighet för att överleva.\n\nFörvänta dig inte att spela ett perfekt rättvist spel. Du kommer att förlora människor. Även om du spelar bra, kommer vissa utmaningar att vara omöjliga att övervinna utan förluster. Du måste slåss sårad, offra för att överleva och återhämta sig. Allt är för drama.</Rough.description>
+  
 </LanguageData>

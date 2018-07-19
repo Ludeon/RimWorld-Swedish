@@ -1,41 +1,77 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: d -->
   <LetterDay>d</LetterDay>
+  <!-- EN: h -->
   <LetterHour>h</LetterHour>
+  <!-- EN: m -->
   <LetterMinute>m</LetterMinute>
+  <!-- EN: s -->
   <LetterSecond>s</LetterSecond>
-
+  
+  <!-- EN: days -->
   <DaysLower>dagar</DaysLower>
+  <!-- EN: seconds -->
   <SecondsLower>sekunder</SecondsLower>
 
+  <!-- EN: spring -->
   <SeasonSpring>vår</SeasonSpring>
+  <!-- EN: summer -->
   <SeasonSummer>sommar</SeasonSummer>
+  <!-- EN: fall -->
   <SeasonFall>höst</SeasonFall>
+  <!-- EN: winter -->
   <SeasonWinter>vinter</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>permanent sommar</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>permanent sommar</SeasonPermanentWinter>
 
+  <!-- EN: Aprimay -->
   <QuadrumAprimay>Aprimaj</QuadrumAprimay>
+  <!-- EN: Jugust -->
   <QuadrumJugust>Jugusti</QuadrumJugust>
+  <!-- EN: Septober -->
   <QuadrumSeptober>Septober</QuadrumSeptober>
+  <!-- EN: Decembary -->
   <QuadrumDecembary>Decembruari</QuadrumDecembary>
-
+  
+  <!-- EN: Born: {0} -->
   <Born>Född: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
   <AgeChronological>Kronologisk ålder: {0} år, {1} kvartal, {2} dagar</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
   <AgeBiological>Biologisk ålder: {0} år, {1} kvartal, {2} dagar</AgeBiological>
 
   <!-- Date periods -->
+  <!-- EN: 1 year -->
   <Period1Year>1 år</Period1Year>
+  <!-- EN: {0} years -->
   <PeriodYears>{0} år</PeriodYears>
+  <!-- EN: 1 quadrum -->
   <Period1Quadrum>1 kvartal</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
   <PeriodQuadrums>{0} kvartal</PeriodQuadrums>
+  <!-- EN: 1 day -->
   <Period1Day>1 dag</Period1Day>
+  <!-- EN: {0} days -->
   <PeriodDays>{0} dagar</PeriodDays>
+  <!-- EN: 1 hour -->
   <Period1Hour>1 timmar</Period1Hour>
+  <!-- EN: {0} hours -->
   <PeriodHours>{0} timmar</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>1 sekund</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} sekunder</PeriodSeconds>
 
   <!-- Misc -->
+  <!-- EN: Started -->
   <Started>Börjat</Started>
+  <!-- EN: Lasted -->
   <Lasted>Varar</Lasted>
+  <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>inträffade {0} sedan</OccurredTimeAgo>
-
+  
 </LanguageData>

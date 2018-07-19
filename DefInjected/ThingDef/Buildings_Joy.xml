@@ -1,45 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <HorseshoesPin.label>hästskokastning</HorseshoesPin.label>
-  <HorseshoesPin.description>En enkel gammal lek som kan spelas med ett par hästskor och en pinne i marken. Spelarna kastar hästskon och ska försöka hamna så nära pinnen som möjligt. Det är avslappnande och tränar även upp öga-hand koordination.</HorseshoesPin.description>
-  <HorseshoesPin_Blueprint.label>hästskokastning (ritning)</HorseshoesPin_Blueprint.label>
-  <HorseshoesPin_Blueprint_Install.label>hästskokastning (ritning)</HorseshoesPin_Blueprint_Install.label>
-  <HorseshoesPin_Frame.label>hästskokastning (byggnad)</HorseshoesPin_Frame.label>
-  <HorseshoesPin_Frame.description>En enkel gammal lek som kan spelas med ett par hästskor och en pinne i marken. Spelarna kastar hästskon och ska försöka hamna så nära pinnen som möjligt. Det är avslappnande och tränar även upp öga-hand koordination.</HorseshoesPin_Frame.description>
-
-  <ChessTable.label>schackbord</ChessTable.label>
-  <ChessTable.description>Kungen av strategispel. Roligt några timmar här och där, även om man spelar ensam.</ChessTable.description>
-  <ChessTable_Blueprint.label>schackbord (ritning)</ChessTable_Blueprint.label>
-  <ChessTable_Blueprint_Install.label>schackbord (ritning)</ChessTable_Blueprint_Install.label>
-  <ChessTable_Frame.label>schackbord (byggnad)</ChessTable_Frame.label>
-  <ChessTable_Frame.description>Kungen av strategispel. Roligt några timmar här och där, även om man spelar ensam.</ChessTable_Frame.description>
-
+  
+  <!-- EN: billiards table -->
   <BilliardsTable.label>biljardbord</BilliardsTable.label>
+  <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
   <BilliardsTable.description>Ett bord med en mjuk yta för att spela olika typer av biljard-spel.</BilliardsTable.description>
-  <BilliardsTable_Blueprint.label>biljardbord (ritning)</BilliardsTable_Blueprint.label>
-  <BilliardsTable_Blueprint_Install.label>biljardbord (ritning)</BilliardsTable_Blueprint_Install.label>
-  <BilliardsTable_Frame.label>biljardbord (byggnad)</BilliardsTable_Frame.label>
-  <BilliardsTable_Frame.description>Ett bord med en mjuk yta för att spela olika typer av biljard-spel.</BilliardsTable_Frame.description>
-
-  <TubeTelevision.label>katodrör-TV</TubeTelevision.label>
-  <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
-  <TubeTelevision_Blueprint.label>katodrör-TV (ritning)</TubeTelevision_Blueprint.label>
-  <TubeTelevision_Blueprint_Install.label>katodrör-TV (ritning)</TubeTelevision_Blueprint_Install.label>
-  <TubeTelevision_Frame.label>katodrör-TV (byggnad)</TubeTelevision_Frame.label>
-  <TubeTelevision_Frame.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision_Frame.description>
-
+  
+  <!-- EN: chess table -->
+  <ChessTable.label>schackbord</ChessTable.label>
+  <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
+  <ChessTable.description>Kungen av strategispel. Roligt några timmar här och där, även om man spelar ensam.</ChessTable.description>
+  
+  <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>platt-TV</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
   <FlatscreenTelevision.description>En högteknologisk platt-tv med kristallklar skärm och skarpa färger. Mer underhållande än en gamal brusande katodrör-tv.</FlatscreenTelevision.description>
-  <FlatscreenTelevision_Blueprint_Install.label>platt-TV (ritning)</FlatscreenTelevision_Blueprint_Install.label>
-
+  
+  <!-- EN: game-of-Ur board -->
+  <GameOfUrBoard.label>TODO</GameOfUrBoard.label>
+  <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
+  <GameOfUrBoard.description>TODO</GameOfUrBoard.description>
+  
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>TODO</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>TODO</HoopstoneRing.description>
+  
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>hästskokastning</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>En enkel gammal lek som kan spelas med ett par hästskor och en pinne i marken. Spelarna kastar hästskon och ska försöka hamna så nära pinnen som möjligt. Det är avslappnande och tränar även upp öga-hand koordination.</HorseshoesPin.description>
+  
+  <!-- EN: megascreen television -->
   <MegascreenTelevision.label>jätteplatt-tv</MegascreenTelevision.label>
+  <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
   <MegascreenTelevision.description>En enorm högteknologisk tv. Dess gigantiska ultra-klara bilder hoppar nästan ut ut skärmen. Väldigt underhållande.</MegascreenTelevision.description>
-  <MegascreenTelevision_Blueprint_Install.label>jätteplatt-tv (ritning)</MegascreenTelevision_Blueprint_Install.label>
-
+  
+  <!-- EN: poker table -->
+  <PokerTable.label>TODO</PokerTable.label>
+  <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
+  <PokerTable.description>TODO</PokerTable.description>
+  
+  <!-- EN: telescope -->
   <Telescope.label>teleskop</Telescope.label>
+  <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. -->
   <Telescope.description>Ett teleskop för amatör-astronomer. En avslappnande och underhållande hobby för vissa personer.</Telescope.description>
-  <Telescope_Blueprint_Install.label>teleskop (ritning)</Telescope_Blueprint_Install.label>
-
-
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>katodrör-TV</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
+  
 </LanguageData>

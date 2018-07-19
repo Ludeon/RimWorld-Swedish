@@ -1,26 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <MealSurvivalPack.label>packeterad överlevnadsrätt</MealSurvivalPack.label>
-  <MealSurvivalPack.description>Packeterad maträtt av hög kvalitet, tillverkad för användning i överlevnadssituationer.</MealSurvivalPack.description>
-
-  <MealNutrientPaste.label>näringsmassrätt</MealNutrientPaste.label>
-  <MealNutrientPaste.description>En syntetisk blandning av protein, kolhydrater, vitaminer, aminosyror och mineraler. Allting kroppen behöver, och fullständigt motbjudande.</MealNutrientPaste.description>
-
-  <MealSimple.label>enkel rätt</MealSimple.label>
-  <MealSimple.description>En enkel maträtt snabbt tillagad av få ingredienser.</MealSimple.description>
-
-  <MealFine.label>förfinad rätt</MealFine.label>
-  <MealFine.description>En komplex maträtt ihopsatt med omsorg från ett brett urval av ingredienser.</MealFine.description>
-
-  <MealLavish.label>utsökt rätt</MealLavish.label>
-  <MealLavish.description>Ett kulinariskt mästerverk, denna maträtt ger näring åt kropp, sinne och skäl.</MealLavish.description>
-
+  
+  <!-- EN: kibble -->
   <Kibble.label>djurfoder</Kibble.label>
+  <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
   <Kibble.description>Djurfoder tillverkat av blandade kött och växtkällor. Människor kan äta det, men gillar det verkligen, verkligen inte.</Kibble.description>
-
+  
+  <!-- EN: fine meal -->
+  <MealFine.label>förfinad rätt</MealFine.label>
+  <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
+  <MealFine.description>En komplex maträtt ihopsatt med omsorg från ett brett urval av ingredienser.</MealFine.description>
+  
+  <!-- EN: lavish meal -->
+  <MealLavish.label>utsökt rätt</MealLavish.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish.description>Ett kulinariskt mästerverk, denna maträtt ger näring åt kropp, sinne och skäl.</MealLavish.description>
+  
+  <!-- EN: nutrient paste meal -->
+  <MealNutrientPaste.label>näringsmassrätt</MealNutrientPaste.label>
+  <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
+  <MealNutrientPaste.description>En syntetisk blandning av protein, kolhydrater, vitaminer, aminosyror och mineraler. Allting kroppen behöver, och fullständigt motbjudande.</MealNutrientPaste.description>
+  
+  <!-- EN: simple meal -->
+  <MealSimple.label>enkel rätt</MealSimple.label>
+  <!-- EN: A simple meal quickly cooked from one main ingredient. -->
+  <MealSimple.description>En enkel maträtt snabbt tillagad av få ingredienser.</MealSimple.description>
+  
+  <!-- EN: packaged survival meal -->
+  <MealSurvivalPack.label>packeterad överlevnadsrätt</MealSurvivalPack.label>
+  <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can stilll deteriorate if left outside. Great for traveling. -->
+  <MealSurvivalPack.description>Packeterad maträtt av hög kvalitet, tillverkad för användning i överlevnadssituationer.</MealSurvivalPack.description>
+  
+  <!-- EN: pemmican -->
   <Pemmican.label>pemmikan</Pemmican.label>
+  <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
   <Pemmican.description>En bevarad blandning av fett och vegetabiliska livsmedel. Smakar intetsägande, men inte stötande. Den varar en mycket lång tid utan kylning.</Pemmican.description>
-
-
+  
 </LanguageData>

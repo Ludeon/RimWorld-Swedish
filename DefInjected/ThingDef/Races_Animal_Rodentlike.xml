@@ -1,75 +1,81 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Squirrel.label>ekorre</Squirrel.label>
-  <Squirrel.description>En av de många härdiga mångsidiga gnagare som följer med överallt där mänskligheten sprider sig.</Squirrel.description>
-  <Squirrel_Leather.label>ekorrskinn</Squirrel_Leather.label>
-  <Squirrel_Leather.description>ekorrskinn</Squirrel_Leather.description>
-  <Squirrel_Leather.stuffProps.stuffAdjective>ekorrskinn</Squirrel_Leather.stuffProps.stuffAdjective>
-  <Squirrel_Meat.label>ekorrkött</Squirrel_Meat.label>
-  <Squirrel_Meat.description>ekorrkött</Squirrel_Meat.description>
-  <Squirrel_Corpse.label>ekorrkropp</Squirrel_Corpse.label>
-  <Squirrel_Corpse.description>ekorrkropp</Squirrel_Corpse.description>
-
+  
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>TODO</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>TODO</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>TODO</Alphabeaver.tools.head.label>
+  <!-- EN: alphabeaver -->
   <Alphabeaver.label>alfabäver</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
   <Alphabeaver.description>En stor bäver medvetet genetiskt tillverkad för att skörda trä med maskinliknande effektivitet. I avsaknad av specialiserat foder kommer dessa djur in i ett maniskt tillstånd som tvingar dem att äta träd hela.</Alphabeaver.description>
-  <Alphabeaver_Leather.label>bäverskinn</Alphabeaver_Leather.label>
-  <Alphabeaver_Leather.description>bäverskinn</Alphabeaver_Leather.description>
-  <Alphabeaver_Leather.stuffProps.stuffAdjective>bäverskinn</Alphabeaver_Leather.stuffProps.stuffAdjective>
-  <Alphabeaver_Meat.label>alfabäverkött</Alphabeaver_Meat.label>
-  <Alphabeaver_Meat.description>alfabäverkött</Alphabeaver_Meat.description>
-  <Alphabeaver_Corpse.label>alfabäverkropp</Alphabeaver_Corpse.label>
-  <Alphabeaver_Corpse.description>alfabäverkropp</Alphabeaver_Corpse.description>
-
-  <Capybara.label>capybara</Capybara.label>
-  <Capybara.description>Som den största naturliga gnagaren är kapybaran väl anpassad för ett liv i en ångande djungel.</Capybara.description>
-  <Capybara_Leather.label>capybaraskinn</Capybara_Leather.label>
-  <Capybara_Leather.description>capybaraskinn</Capybara_Leather.description>
-  <Capybara_Leather.stuffProps.stuffAdjective>capybaraskinn</Capybara_Leather.stuffProps.stuffAdjective>
-  <Capybara_Meat.label>capybarakött</Capybara_Meat.label>
-  <Capybara_Meat.description>capybarakött</Capybara_Meat.description>
-  <Capybara_Corpse.label>capybarakropp</Capybara_Corpse.label>
-  <Capybara_Corpse.description>capybarakropp</Capybara_Corpse.description>
-
-  <Chinchilla.label>chinchilla</Chinchilla.label>
-  <Chinchilla.description>En liten men snabb gnagare känd för sin ovanligt mjuk päls.</Chinchilla.description>
-  <Chinchilla_Leather.label>chinchillapäls</Chinchilla_Leather.label>
-  <Chinchilla_Leather.description>chinchillapäls</Chinchilla_Leather.description>
-  <Chinchilla_Leather.stuffProps.stuffAdjective>chinchillapäls</Chinchilla_Leather.stuffProps.stuffAdjective>
-  <Chinchilla_Meat.label>chinchillakött</Chinchilla_Meat.label>
-  <Chinchilla_Meat.description>chinchillakött</Chinchilla_Meat.description>
-  <Chinchilla_Corpse.label>chinchillakropp</Chinchilla_Corpse.label>
-  <Chinchilla_Corpse.description>chinchillakropp</Chinchilla_Corpse.description>
-
+  
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>TODO</Boomrat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>TODO</Boomrat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>TODO</Boomrat.tools.head.label>
+  <!-- EN: boomrat -->
   <Boomrat.label>bombråtta</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
   <Boomrat.description>Antingen genom avsiktlig genetisk beväpning, eller som en ovanlig försvarsmekanism skapar dessa gnagare en kraftfull explosionsbrand när den dödas.</Boomrat.description>
-  <Boomrat_Leather.label>bombråtteläder</Boomrat_Leather.label>
-  <Boomrat_Leather.description>bombråtteläder</Boomrat_Leather.description>
-  <Boomrat_Leather.stuffProps.stuffAdjective>bombråtteläder</Boomrat_Leather.stuffProps.stuffAdjective>
-  <Boomrat_Meat.label>bombråttekött</Boomrat_Meat.label>
-  <Boomrat_Meat.description>bombråttekött</Boomrat_Meat.description>
-  <Boomrat_Corpse.label>bombråttekropp</Boomrat_Corpse.label>
-  <Boomrat_Corpse.description>bombråttekropp</Boomrat_Corpse.description>
-
+  
+  <!-- EN: left claw -->
+  <Capybara.tools.left_claw.label>TODO</Capybara.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Capybara.tools.right_claw.label>TODO</Capybara.tools.right_claw.label>
+  <!-- EN: head -->
+  <Capybara.tools.head.label>TODO</Capybara.tools.head.label>
+  <!-- EN: capybara -->
+  <Capybara.label>capybara</Capybara.label>
+  <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
+  <Capybara.description>Som den största naturliga gnagaren är kapybaran väl anpassad för ett liv i en ångande djungel.</Capybara.description>
+  
+  <!-- EN: left claw -->
+  <Chinchilla.tools.left_claw.label>TODO</Chinchilla.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Chinchilla.tools.right_claw.label>TODO</Chinchilla.tools.right_claw.label>
+  <!-- EN: head -->
+  <Chinchilla.tools.head.label>TODO</Chinchilla.tools.head.label>
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>chinchilla</Chinchilla.label>
+  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
+  <Chinchilla.description>En liten men snabb gnagare känd för sin ovanligt mjuk päls.</Chinchilla.description>
+  
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>TODO</Raccoon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>TODO</Raccoon.tools.right_claw.label>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>TODO</Raccoon.tools.head.label>
+  <!-- EN: raccoon -->
   <Raccoon.label>tvättbjörn</Raccoon.label>
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
   <Raccoon.description>En liten, härdig djur som spänner vitt över skogar och buskländer. Äter nästan vad som helst.</Raccoon.description>
-  <Raccoon_Leather.label>Tvättbjörnskinn</Raccoon_Leather.label>
-  <Raccoon_Leather.description>Tvättbjörnskinn</Raccoon_Leather.description>
-  <Raccoon_Leather.stuffProps.stuffAdjective>Tvättbjörnskinn</Raccoon_Leather.stuffProps.stuffAdjective>
-  <Raccoon_Meat.label>Tvättbjörnskött</Raccoon_Meat.label>
-  <Raccoon_Meat.description>Tvättbjörnskött</Raccoon_Meat.description>
-  <Raccoon_Corpse.label>Tvättbjörnskropp</Raccoon_Corpse.label>
-  <Raccoon_Corpse.description>Tvättbjörnskropp</Raccoon_Corpse.description>
-
+  
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>TODO</Rat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>TODO</Rat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Rat.tools.head.label>TODO</Rat.tools.head.label>
+  <!-- EN: rat -->
   <Rat.label>råtta</Rat.label>
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
   <Rat.description>En gnagare känd för att sutsa ner kök och sprida sjukdomar. Äter nästan vad som helst, bor nästan var som helst.</Rat.description>
-  <Rat_Leather.label>råttskinn</Rat_Leather.label>
-  <Rat_Leather.description>råttskinn</Rat_Leather.description>
-  <Rat_Leather.stuffProps.stuffAdjective>råttskinn</Rat_Leather.stuffProps.stuffAdjective>
-  <Rat_Meat.label>råttkött</Rat_Meat.label>
-  <Rat_Meat.description>råttkött</Rat_Meat.description>
-  <Rat_Corpse.label>råttkropp</Rat_Corpse.label>
-  <Rat_Corpse.description>råttkropp</Rat_Corpse.description>
-
-
+  
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>TODO</Squirrel.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>TODO</Squirrel.tools.right_claw.label>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>TODO</Squirrel.tools.head.label>
+  <!-- EN: squirrel -->
+  <Squirrel.label>ekorre</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>En av de många härdiga mångsidiga gnagare som följer med överallt där mänskligheten sprider sig.</Squirrel.description>
+  
 </LanguageData>

@@ -1,156 +1,298 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- glow -->
+  <!-- Glow -->
+  <!-- EN: Dark -->
   <Dark>Mörkt</Dark>
+  <!-- EN: Lit -->
   <Lit>Upplyst</Lit>
+  <!-- EN: Brightly lit -->
   <LitBrightly>Välbelyst</LitBrightly>
-
-  <!-- history upload pref -->
+  
+  <!-- History upload pref -->
+  <!-- EN: Undecided -->
   <Unspecified>Obestämt</Unspecified>
+  <!-- EN: Allow -->
   <Always>Tillåt</Always>
+  <!-- EN: Do not allow -->
   <Never>Tillåt ej</Never>
-
+  
   <!-- Price types -->
+  <!-- EN: very cheap -->
   <PriceTypeVeryCheap>väldigt billigt</PriceTypeVeryCheap>
+  <!-- EN: cheap -->
   <PriceTypeCheap>billigt</PriceTypeCheap>
+  <!-- EN: normal -->
   <PriceTypeNormal>normalt</PriceTypeNormal>
+  <!-- EN: expensive -->
   <PriceTypeExpensive>dyrt</PriceTypeExpensive>
+  <!-- EN: exorbitant -->
   <PriceTypeExorbitant>orimligt</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
+  <!-- EN: unstored -->
   <StoragePriorityUnstored>tom</StoragePriorityUnstored>
+  <!-- EN: low -->
   <StoragePriorityLow>låg</StoragePriorityLow>
+  <!-- EN: normal -->
   <StoragePriorityNormal>normal</StoragePriorityNormal>
+  <!-- EN: preferred -->
   <StoragePriorityPreferred>föredraget</StoragePriorityPreferred>
+  <!-- EN: important -->
   <StoragePriorityImportant>viktig</StoragePriorityImportant>
+  <!-- EN: critical -->
   <StoragePriorityCritical>kritisk</StoragePriorityCritical>
 
   <!-- Food type flags -->
+  <!-- EN: vegetables -->
   <FoodTypeFlags_VegetableOrFruit>grönsaker</FoodTypeFlags_VegetableOrFruit>
+  <!-- EN: raw meat -->
   <FoodTypeFlags_Meat>rått kött</FoodTypeFlags_Meat>
+  <!-- EN: corpses -->
   <FoodTypeFlags_Corpse>lik</FoodTypeFlags_Corpse>
+  <!-- EN: seeds -->
   <FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
+  <!-- EN: animal products -->
   <FoodTypeFlags_AnimalProduct>djurprodukter</FoodTypeFlags_AnimalProduct>
+  <!-- EN: live plants -->
   <FoodTypeFlags_Plant>levande växter</FoodTypeFlags_Plant>
+  <!-- EN: live trees -->
   <FoodTypeFlags_Tree>levande träd</FoodTypeFlags_Tree>
+  <!-- EN: meals -->
   <FoodTypeFlags_Meal>måltider</FoodTypeFlags_Meal>
+  <!-- EN: processed foods -->
   <FoodTypeFlags_Processed>processerad mat</FoodTypeFlags_Processed>
+  <!-- EN: liquor -->
   <FoodTypeFlags_Liquor>alkohol</FoodTypeFlags_Liquor>
+  <!-- EN: kibble -->
   <FoodTypeFlags_Kibble>djurfoder</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
+  <!-- EN: awful -->
   <QualityCategory_Awful>förfärlig</QualityCategory_Awful>
-  <QualityCategory_Shoddy>usel</QualityCategory_Shoddy>
+  <!-- EN: poor -->
   <QualityCategory_Poor>dålig</QualityCategory_Poor>
+  <!-- EN: normal -->
   <QualityCategory_Normal>normal</QualityCategory_Normal>
+  <!-- EN: good -->
   <QualityCategory_Good>bra</QualityCategory_Good>
-  <QualityCategory_Superior>överlägsen</QualityCategory_Superior>
+  <!-- EN: excellent -->
   <QualityCategory_Excellent>utmärkt</QualityCategory_Excellent>
+  <!-- EN: masterwork -->
   <QualityCategory_Masterwork>mästerverk</QualityCategory_Masterwork>
+  <!-- EN: legendary -->
   <QualityCategory_Legendary>legendarisk</QualityCategory_Legendary>
+  <!-- EN: awfl -->
   <QualityCategoryShort_Awful>fflg</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>usel</QualityCategoryShort_Shoddy>
+  <!-- EN: poor -->
   <QualityCategoryShort_Poor>dålg</QualityCategoryShort_Poor>
+  <!-- EN: norm -->
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <!-- EN: good -->
   <QualityCategoryShort_Good>bra</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>övls</QualityCategoryShort_Superior>
+  <!-- EN: exc -->
   <QualityCategoryShort_Excellent>utmä</QualityCategoryShort_Excellent>
+  <!-- EN: mast -->
   <QualityCategoryShort_Masterwork>mäst</QualityCategoryShort_Masterwork>
+  <!-- EN: legd -->
   <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
-
+  
   <!-- Hunger -->
+  <!-- EN: Starving -->
   <HungerLevel_Starving>Svälter</HungerLevel_Starving>
+  <!-- EN: Urgently hungry -->
   <HungerLevel_UrgentlyHungry>Akut hungrig</HungerLevel_UrgentlyHungry>
+  <!-- EN: Hungry -->
   <HungerLevel_Hungry>Hungrig</HungerLevel_Hungry>
+  <!-- EN: Fed -->
   <HungerLevel_Fed>Mätt</HungerLevel_Fed>
 
   <!-- -Fatigue -->
+  <!-- EN: Exhausted -->
   <HungerLevel_Exhausted>Utmattad</HungerLevel_Exhausted>
+  <!-- EN: Very tired -->
   <HungerLevel_VeryTired>Väldigt trött</HungerLevel_VeryTired>
+  <!-- EN: Tired -->
   <HungerLevel_Tired>Trött</HungerLevel_Tired>
+  <!-- EN: Rested -->
   <HungerLevel_Rested>Utvilad</HungerLevel_Rested>
 
   <!-- Hilliness -->
+  <!-- EN: flat -->
   <Hilliness_Flat>platt</Hilliness_Flat>
+  <!-- EN: small hills -->
   <Hilliness_SmallHills>små kullar</Hilliness_SmallHills>
+  <!-- EN: large hills -->
   <Hilliness_LargeHills>stora kullar</Hilliness_LargeHills>
+  <!-- EN: mountainous -->
   <Hilliness_Mountainous>bergigt</Hilliness_Mountainous>
+  <!-- EN: impassable -->
   <Hilliness_Impassable>oframkomligt</Hilliness_Impassable>
-
+  
   <!-- Steam workshop interaction -->
+  <!-- EN: Creating -->
   <WorkshopInteractStage_CreatingItem>Skapar</WorkshopInteractStage_CreatingItem>
+  <!-- EN: Submitting -->
   <WorkshopInteractStage_SubmittingItem>Skickar in</WorkshopInteractStage_SubmittingItem>
+  <!-- EN: Invalid -->
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Ogiltig</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <!-- EN: Preparing config data -->
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Förbereder konfigurationsdata</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <!-- EN: Preparing content files -->
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Förbereder innehållsfiler</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <!-- EN: Uploading content -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Laddar upp innehåll</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <!-- EN: Uploading preview file -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Laddar upp förhandsgranskningsfil</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <!-- EN: Committing changes -->
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Genomför ändringar</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
+  <!-- EN: local folder -->
   <ContentSource_LocalFolder>lokal mapp</ContentSource_LocalFolder>
+  <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
-
-  <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>ingen</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>enkel</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>lagom</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>avancerad</TrainableIntelligence_Advanced>
-
+  
   <!-- Medical care category -->
+  <!-- EN: No medical care -->
   <MedicalCareCategory_NoCare>Ingen medicinsk tillsyn</MedicalCareCategory_NoCare>
+  <!-- EN: Doctor care, but no medicine -->
   <MedicalCareCategory_NoMeds>Vård av doktor, men ingen medicin</MedicalCareCategory_NoMeds>
+  <!-- EN: Herbal medicine or worse -->
   <MedicalCareCategory_HerbalOrWorse>Naturläkemedel eller värre</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: Industrial-tech medicine or worse -->
   <MedicalCareCategory_NormalOrWorse>Vanlig medicin eller värre</MedicalCareCategory_NormalOrWorse>
+  <!-- EN: Best quality medicine -->
   <MedicalCareCategory_Best>Bästa möjliga sjukvård</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
+  <!-- EN: Ignore -->
   <HostilityResponseMode_Ignore>Ignorera</HostilityResponseMode_Ignore>
+  <!-- EN: Attack -->
   <HostilityResponseMode_Attack>Attackera</HostilityResponseMode_Attack>
+  <!-- EN: Flee -->
   <HostilityResponseMode_Flee>Fly</HostilityResponseMode_Flee>
-
+  
   <!-- HediffGrowthMode -->
+  <!-- EN: growing -->
   <HediffGrowthMode_Growing>ökande</HediffGrowthMode_Growing>
+  <!-- EN: stable -->
   <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
+  <!-- EN: remission -->
   <HediffGrowthMode_Remission>minskar</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
+  <!-- EN: animal -->
   <TechLevel_Animal>djur</TechLevel_Animal>
+  <!-- EN: neolithic -->
   <TechLevel_Neolithic>stenålder</TechLevel_Neolithic>
+  <!-- EN: medieval -->
   <TechLevel_Medieval>medeltid</TechLevel_Medieval>
+  <!-- EN: industrial -->
   <TechLevel_Industrial>industriell</TechLevel_Industrial>
+  <!-- EN: spacer -->
   <TechLevel_Spacer>rymdfarare</TechLevel_Spacer>
+  <!-- EN: ultra -->
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
-  <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
+  <!-- EN: archotech -->
+  <TechLevel_Archotech>arkotek</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
+  <!-- EN: Standing -->
   <PlayerPawnsArriveMethod_Standing>Stående</PlayerPawnsArriveMethod_Standing>
+  <!-- EN: Drop pods -->
   <PlayerPawnsArriveMethod_DropPods>Räddningskapsel</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
+  <!-- EN: all characters -->
   <PawnGenerationContext_All>alla karaktärer</PawnGenerationContext_All>
+  <!-- EN: player starting characters -->
   <PawnGenerationContext_PlayerStarter>spelarens startkaraktärer</PawnGenerationContext_PlayerStarter>
+  <!-- EN: non-player characters -->
   <PawnGenerationContext_NonPlayer>icke-spelarkaraktärer</PawnGenerationContext_NonPlayer>
-
+  
   <!-- Animal name display mode -->
+  <!-- EN: Show animal names -->
   <ShowAnimalNames>Visa djurnamn</ShowAnimalNames>
+  <!-- EN: Tame (named only) -->
   <AnimalNameDisplayMode_TameNamed>Tama (bara döpta)</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (all) -->
   <AnimalNameDisplayMode_TameAll>Tama (alla)</AnimalNameDisplayMode_TameAll>
-
+  
   <!-- Temperature -->
+  <!-- EN: Celsius -->
   <Celsius>Celsius</Celsius>
+  <!-- EN: Fahrenheit -->
   <Fahrenheit>Fahrenheit</Fahrenheit>
+  <!-- EN: Kelvin -->
   <Kelvin>Kelvin</Kelvin>
-
+  
   <!-- Direction8Way -->
+  <!-- EN: N -->
   <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <!-- EN: NE -->
   <Direction8Way_NorthEast_Short>NÖ</Direction8Way_NorthEast_Short>
+  <!-- EN: E -->
   <Direction8Way_East_Short>Ö</Direction8Way_East_Short>
+  <!-- EN: SE -->
   <Direction8Way_SouthEast_Short>SÖ</Direction8Way_SouthEast_Short>
+  <!-- EN: S -->
   <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <!-- EN: SW -->
   <Direction8Way_SouthWest_Short>SV</Direction8Way_SouthWest_Short>
+  <!-- EN: W -->
   <Direction8Way_West_Short>V</Direction8Way_West_Short>
+  <!-- EN: NW -->
   <Direction8Way_NorthWest_Short>NV</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <!-- EN: Never eats -->
+  <DietCategory_NeverEats>Äter aldrig</DietCategory_NeverEats>
+  <!-- EN: Herbivorous -->
+  <DietCategory_Herbivorous>Växtätare</DietCategory_Herbivorous>
+  <!-- EN: Dendrovorous -->
+  <DietCategory_Dendrovorous>Träätare</DietCategory_Dendrovorous>
+  <!-- EN: Ovivorous -->
+  <DietCategory_Ovivorous>Äggätare</DietCategory_Ovivorous>
+  <!-- EN: Omnivorous -->
+  <DietCategory_Omnivorous>Allätare</DietCategory_Omnivorous>
+  <!-- EN: Carnivorous -->
+  <DietCategory_Carnivorous>Köttätare</DietCategory_Carnivorous>
+  <!-- EN: - -->
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <!-- EN: H -->
+  <DietCategory_Herbivorous_Short>V</DietCategory_Herbivorous_Short>
+  <!-- EN: D -->
+  <DietCategory_Dendrovorous_Short>T</DietCategory_Dendrovorous_Short>
+  <!-- EN: Ov -->
+  <DietCategory_Ovivorous_Short>Ä</DietCategory_Ovivorous_Short>
+  <!-- EN: O -->
+  <DietCategory_Omnivorous_Short>A</DietCategory_Omnivorous_Short>
+  <!-- EN: C -->
+  <DietCategory_Carnivorous_Short>K</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <!-- EN: incompetent cook -->
+  <FoodPoisonCause_IncompetentCook>inkompetent kock</FoodPoisonCause_IncompetentCook>
+  <!-- EN: dirty cooking area -->
+  <FoodPoisonCause_FilthyKitchen>smutsigt matlagningsområdet</FoodPoisonCause_FilthyKitchen>
+  <!-- EN: rotten food -->
+  <FoodPoisonCause_Rotten>rutten mat</FoodPoisonCause_Rotten>
+  <!-- EN: dangerous food type -->
+  <FoodPoisonCause_DangerousFoodType>farlig livsmedelstyp</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <!-- EN: none -->
+  <PsychicDroneLevel_None>ingen</PsychicDroneLevel_None>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_GoodMedium>medium</PsychicDroneLevel_GoodMedium>
+  <!-- EN: low -->
+  <PsychicDroneLevel_BadLow>låg</PsychicDroneLevel_BadLow>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_BadMedium>medium</PsychicDroneLevel_BadMedium>
+  <!-- EN: high -->
+  <PsychicDroneLevel_BadHigh>hög</PsychicDroneLevel_BadHigh>
+  <!-- EN: extreme -->
+  <PsychicDroneLevel_BadExtreme>extrem</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>

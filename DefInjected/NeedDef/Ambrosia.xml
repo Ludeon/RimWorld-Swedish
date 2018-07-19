@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Ambrosia addiction -->
-
+  
+  <!-- EN: ambrosia -->
   <Chemical_Ambrosia.label>ambrosia</Chemical_Ambrosia.label>
+  <!-- EN: Because of an ambrosia addiction, this person needs to regularly consume ambrosia to avoid withdrawal symptoms. -->
   <Chemical_Ambrosia.description>På grund av ett ambrosiaberoende behöver den här personen regelbundet konsumera ambrosia för att undvika abstinens symptom.</Chemical_Ambrosia.description>
-
-
+  
 </LanguageData>

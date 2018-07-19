@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: {0} has burned to death. -->
+  <Burn.deathMessage>{0} brann ihjäl.</Burn.deathMessage>
+  <!-- EN: burn -->
+  <Burn.label>Brännskada</Burn.label>
+  
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} omkom i en brand.</Flame.deathMessage>
+  <!-- EN: flame -->
+  <Flame.label>Eld</Flame.label>
+  
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage>{0} frös ihjäl.</Frostbite.deathMessage>
+  <!-- EN: frostbite -->
+  <Frostbite.label>Frostskada</Frostbite.label>
+  
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>TODO</TornadoScratch.deathMessage>
+  <!-- EN: scratch -->
+  <TornadoScratch.label>{0} har dödats av en tornado.</TornadoScratch.label>
+  
+</LanguageData>

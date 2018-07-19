@@ -1,26 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <GameMapCamera.label>Kamerakontroller</GameMapCamera.label>
-  <GameMapCamera.description>Kontroller för kameran.</GameMapCamera.description>
-
-  <Game.label>Globala spelkontroller</Game.label>
-  <Game.description>Kolonitypkontroller för de flesta situationer.</Game.description>
-
-  <SelectionMisc.label>Diversekontroller</SelectionMisc.label>
-  <SelectionMisc.description>Standardkontroller som används av flera föremål under spelet.</SelectionMisc.description>
-
-  <SelectionSpecial.label>Specialkontroller</SelectionSpecial.label>
-  <SelectionSpecial.description>Special kontroller reserverade för specifika funktioner på specifika föremål.</SelectionSpecial.description>
-
+  
+  <!-- EN: architect -->
   <Architect.label>Arkitekt</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
   <Architect.description>Standardkontroller för arkitektläge.</Architect.description>
-
-  <MainTabs.label>Huvudflikar</MainTabs.label>
-  <MainTabs.description>Kontroller för huvudflikarna.</MainTabs.description>
-
+  
+  <!-- EN: developer tools -->
   <Development.label>Utveckling</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
   <Development.description>Kontroller för utvecklare och modd-skapare. Aktivera i utvecklarläge endast.</Development.description>
-
-
+  
+  <!-- EN: in-game global -->
+  <Game.label>Globala spelkontroller</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>Kolonitypkontroller för de flesta situationer.</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>Kamerakontroller</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>Kontroller för kameran.</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>Huvudflikar</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>Kontroller för huvudflikarna.</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>TODO</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>TODO</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>Diversekontroller</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>Standardkontroller som används av flera föremål under spelet.</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>Specialkontroller</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>Special kontroller reserverade för specifika funktioner på specifika föremål.</SelectionSpecial.description>
+  
 </LanguageData>

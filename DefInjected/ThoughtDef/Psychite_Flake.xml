@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <FlakeHigh.stages.0.label>hög på flingor</FlakeHigh.stages.0.label>
-  <FlakeHigh.stages.0.description>Så bra, så bra</FlakeHigh.stages.0.description>
-
-
+  
+  <!-- EN: high on flake -->
+  <FlakeHigh.stages.high_on_flake.label>hög på flingor</FlakeHigh.stages.high_on_flake.label>
+  <!-- EN: So good, so good. -->
+  <FlakeHigh.stages.high_on_flake.description>Så bra, så bra</FlakeHigh.stages.high_on_flake.description>
+  
 </LanguageData>

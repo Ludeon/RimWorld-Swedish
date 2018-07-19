@@ -1,22 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Consciousness.label>medvetande</Consciousness.label>
-  <Consciousness.labelMechanoids>Behandlar data</Consciousness.labelMechanoids>
-
-  <Moving.label>förflyttning</Moving.label>
-  <Manipulation.label>manipulation</Manipulation.label>
-
-  <Talking.label>pratar</Talking.label>
-  <Talking.labelMechanoids>kommunikation</Talking.labelMechanoids>
-
-  <Eating.label>äter</Eating.label>
-  <Sight.label>syn</Sight.label>
-  <Hearing.label>hörsel</Hearing.label>
-  <Breathing.label>andning</Breathing.label>
+  
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
+  <!-- EN: blood filtration -->
   <BloodFiltration.label>blodfiltrering</BloodFiltration.label>
+  
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
+  <!-- EN: blood pumping -->
   <BloodPumping.label>blodpump</BloodPumping.label>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>andning</Breathing.label>
+  
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Behandlar data</Consciousness.labelMechanoids>
+  <!-- EN: consciousness -->
+  <Consciousness.label>medvetande</Consciousness.label>
+  
+  <!-- EN: eating -->
+  <Eating.label>äter</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>hörsel</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>manipulation</Manipulation.label>
+  
+  <!-- EN: metabolism -->
   <Metabolism.label>ämnesomsättning</Metabolism.label>
-
-
+  
+  <!-- EN: moving -->
+  <Moving.label>förflyttning</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>syn</Sight.label>
+  
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>kommunikation</Talking.labelMechanoids>
+  <!-- EN: talking -->
+  <Talking.label>pratar</Talking.label>
+  
 </LanguageData>

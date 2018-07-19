@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Colonist.label>kolonist</Colonist.label>
+  
   <Colonist.labelPlural>kolonister</Colonist.labelPlural>
-
-  <Tribesperson.label>stammedlem</Tribesperson.label>
+  <!-- EN: colonist -->
+  <Colonist.label>kolonist</Colonist.label>
+  
   <Tribesperson.labelPlural>stammedlemmar</Tribesperson.labelPlural>
-
-
+  <!-- EN: member -->
+  <Tribesperson.label>stammedlem</Tribesperson.label>
+  
 </LanguageData>

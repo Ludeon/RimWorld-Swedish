@@ -1,14 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Disease_Flu.label>Influensa</Disease_Flu.label>
-  <Disease_Plague.label>Pest</Disease_Plague.label>
-  <Disease_Malaria.label>Malaria</Disease_Malaria.label>
-  <Disease_SleepingSickness.label>Sömnsjuka</Disease_SleepingSickness.label>
-  <Disease_FibrousMechanites.label>Fibrösa mekaniter</Disease_FibrousMechanites.label>
-  <Disease_SensoryMechanites.label>Känselmekaniter</Disease_SensoryMechanites.label>
+  
+  <!-- EN: flu (animals) -->
+  <Disease_AnimalFlu.label>influensa</Disease_AnimalFlu.label>
+  
+  <!-- EN: plague (animals) -->
+  <Disease_AnimalPlague.label>pest</Disease_AnimalPlague.label>
+  
+  <!-- EN: fibrous mechanites -->
+  <Disease_FibrousMechanites.label>fibrösa mekaniter</Disease_FibrousMechanites.label>
+  
+  <!-- EN: flu -->
+  <Disease_Flu.label>influensa</Disease_Flu.label>
+  
+  <!-- EN: gut worms -->
   <Disease_GutWorms.label>magmask</Disease_GutWorms.label>
+  
+  <!-- EN: malaria -->
+  <Disease_Malaria.label>malaria</Disease_Malaria.label>
+  
+  <!-- EN: muscle parasites -->
   <Disease_MuscleParasites.label>muskelparasiter</Disease_MuscleParasites.label>
-
-
+  
+  <!-- EN: plague -->
+  <Disease_Plague.label>pest</Disease_Plague.label>
+  
+  <!-- EN: sensory mechanites -->
+  <Disease_SensoryMechanites.label>känselmekaniter</Disease_SensoryMechanites.label>
+  
+  <!-- EN: sleeping sickness -->
+  <Disease_SleepingSickness.label>sömnsjuka</Disease_SleepingSickness.label>
+  
 </LanguageData>

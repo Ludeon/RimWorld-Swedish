@@ -1,29 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>övergiven fraktionsbas</AbandonedSettlement.label>
+  <!-- EN: An abandoned settlement. -->
+  <AbandonedSettlement.description>En övergiven bas till en av fraktionerna.</AbandonedSettlement.description>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedNonPlayerCaravan.label>attackerad karavan</AttackedNonPlayerCaravan.label>
+  <!-- EN: A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>En karavan under attack.</AttackedNonPlayerCaravan.description>
+  
+  <!-- EN: caravan -->
   <Caravan.label>karavan</Caravan.label>
+  <!-- EN: A group of traveling people. -->
   <Caravan.description>En grupp av resande personer.</Caravan.description>
-
-  <FactionBase.label>fraktionsbas</FactionBase.label>
-  <FactionBase.description>En bas till en av fraktionerna.</FactionBase.description>
-
-  <AbandonedFactionBase.label>övergiven fraktionsbas</AbandonedFactionBase.label>
-  <AbandonedFactionBase.description>En övergiven bas till en av fraktionerna.</AbandonedFactionBase.description>
-
-  <DestroyedFactionBase.label>förstörd fraktionsbas</DestroyedFactionBase.label>
-  <DestroyedFactionBase.description>En förstörd fraktionsbas.</DestroyedFactionBase.description>
-
-  <JourneyDestination.label>resans destination</JourneyDestination.label>
-  <JourneyDestination.description>Placeringen av ett dolt skepp som kan hjälpa dig att fly planeten.</JourneyDestination.description>
-
-  <AttackedCaravan.label>attackerad karavan</AttackedCaravan.label>
-  <AttackedCaravan.description>En karavan under attack.</AttackedCaravan.description>
-
-  <TravelingTransportPods.label>transportkaplsar</TravelingTransportPods.label>
-  <TravelingTransportPods.description>Flygande transportkapslar.</TravelingTransportPods.description>
-
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSettlement.label>förstörd fraktionsbas</DestroyedSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSettlement.description>En förstörd fraktionsbas.</DestroyedSettlement.description>
+  
+  <!-- EN: landed ship -->
+  <EscapeShip.label>resans destination</EscapeShip.label>
+  <!-- EN: The location of a hidden ship which can help you escape the planet. -->
+  <EscapeShip.description>Placeringen av ett dolt skepp som kan hjälpa dig att fly planeten.</EscapeShip.description>
+  
+  <!-- EN: peace talks -->
+  <PeaceTalks.label>TODO</PeaceTalks.label>
+  <!-- EN: A site designated for peace talks. -->
+  <PeaceTalks.description>TODO</PeaceTalks.description>
+  
+  <!-- EN: waypoint -->
   <RoutePlannerWaypoint.label>vägpunkt</RoutePlannerWaypoint.label>
+  <!-- EN: A temporary waypoint. -->
   <RoutePlannerWaypoint.description>En temporär vägpunkt.</RoutePlannerWaypoint.description>
-
-
+  
+  <!-- EN: settlement -->
+  <Settlement.label>fraktionsbas</Settlement.label>
+  <!-- EN: A base of one of the factions. -->
+  <Settlement.description>En bas till en av fraktionerna.</Settlement.description>
+  
+  <!-- EN: transport pods -->
+  <TravelingTransportPods.label>transportkaplsar</TravelingTransportPods.label>
+  <!-- EN: Transport pods in flight. -->
+  <TravelingTransportPods.description>Flygande transportkapslar.</TravelingTransportPods.description>
+  
 </LanguageData>

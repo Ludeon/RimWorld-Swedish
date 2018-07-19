@@ -1,18 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <WakeUpHigh.label>Hög på vakna</WakeUpHigh.label>
-
-
-  <!-- WakeUp addiction -->
-
-  <WakeUpTolerance.label>vakna tolerans</WakeUpTolerance.label>
-  <WakeUpTolerance.stages.1.label>liten</WakeUpTolerance.stages.1.label>
-  <WakeUpTolerance.stages.2.label>stor</WakeUpTolerance.stages.2.label>
-  <WakeUpTolerance.stages.3.label>enorm</WakeUpTolerance.stages.3.label>
-
+  
+  <!-- EN: withdrawal -->
+  <WakeUpAddiction.stages.withdrawal.label>abstinens</WakeUpAddiction.stages.withdrawal.label>
+  <!-- EN: wake-up addiction -->
   <WakeUpAddiction.label>vakna missbruk</WakeUpAddiction.label>
-  <WakeUpAddiction.stages.1.label>abstinens</WakeUpAddiction.stages.1.label>
-
-
+  
+  <!-- EN: a wake-up high -->
+  <WakeUpHigh.labelNoun>vaknahög</WakeUpHigh.labelNoun>
+  <!-- EN: high on wake-up -->
+  <WakeUpHigh.label>hög på vakna</WakeUpHigh.label>
+  
+  <!-- EN: small -->
+  <WakeUpTolerance.stages.small-1.label>liten</WakeUpTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <WakeUpTolerance.stages.large.label>stor</WakeUpTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <WakeUpTolerance.stages.massive.label>enorm</WakeUpTolerance.stages.massive.label>
+  <!-- EN: wake-up tolerance -->
+  <WakeUpTolerance.label>vakna tolerans</WakeUpTolerance.label>
+  
 </LanguageData>

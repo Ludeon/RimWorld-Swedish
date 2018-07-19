@@ -1,62 +1,70 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Deer.label>rådjur</Deer.label>
-  <Deer.description>En medelstor gräsätande. Generellt fred om den inte blir störd.</Deer.description>
-  <Deer_Leather.label>rådjurshud</Deer_Leather.label>
-  <Deer_Leather.description>rådjurshud</Deer_Leather.description>
-  <Deer_Leather.stuffProps.stuffAdjective>rådjurshud</Deer_Leather.stuffProps.stuffAdjective>
-  <Deer_Meat.label>rådjurskött</Deer_Meat.label>
-  <Deer_Meat.description>rådjurskött</Deer_Meat.description>
-  <Deer_Corpse.label>rådjurskropp</Deer_Corpse.label>
-  <Deer_Corpse.description>rådjurskropp</Deer_Corpse.description>
-
-  <Ibex.label>stenbock</Ibex.label>
-  <Ibex.description>Den härdad vilda anfader till vår domesticerade get. Stenbockar bor på små område som de flesta antiloper inte skulle kunna överleva, ätandes lavar och glesa fjällväxter. De är kända för vigt hoppande över kala klippor och för deras våldsamma ramattack.</Ibex.description>
-  <Ibex_Leather.label>gethud</Ibex_Leather.label>
-  <Ibex_Leather.description>gethud</Ibex_Leather.description>
-  <Ibex_Leather.stuffProps.stuffAdjective>gethud</Ibex_Leather.stuffProps.stuffAdjective>
-  <Ibex_Meat.label>stenbockskött</Ibex_Meat.label>
-  <Ibex_Meat.description>stenbockskött</Ibex_Meat.description>
-  <Ibex_Corpse.label>stenbockskropp</Ibex_Corpse.label>
-  <Ibex_Corpse.description>stenbockskropp</Ibex_Corpse.description>
-
-  <Elk.label>älg</Elk.label>
-  <Elk.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Elk.description>
-  <Elk_Leather.label>älghud</Elk_Leather.label>
-  <Elk_Leather.description>älghud</Elk_Leather.description>
-  <Elk_Leather.stuffProps.stuffAdjective>älghud</Elk_Leather.stuffProps.stuffAdjective>
-  <Elk_Meat.label>älgkött</Elk_Meat.label>
-  <Elk_Meat.description>älgkött</Elk_Meat.description>
-  <Elk_Corpse.label>älgkropp</Elk_Corpse.label>
-  <Elk_Corpse.description>älgkropp</Elk_Corpse.description>
-
+  
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>TODO</Caribou.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>TODO</Caribou.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>TODO</Caribou.tools.head.label>
+  <!-- EN: caribou -->
   <Caribou.label>caribou</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
   <Caribou.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Caribou.description>
-  <Caribou_Leather.label>caribouläder</Caribou_Leather.label>
-  <Caribou_Leather.description>caribouläder</Caribou_Leather.description>
-  <Caribou_Leather.stuffProps.stuffAdjective>caribouläder</Caribou_Leather.stuffProps.stuffAdjective>
-  <Caribou_Meat.label>cariboukött</Caribou_Meat.label>
-  <Caribou_Meat.description>cariboukött</Caribou_Meat.description>
-  <Caribou_Corpse.label>cariboukropp</Caribou_Corpse.label>
-  <Caribou_Corpse.description>cariboukropp</Caribou_Corpse.description>
-
-  <WildBoar.label>vildsvin</WildBoar.label>
-  <WildBoar.description>Trots att det anses orent i vissa kulturer anses denna håriga förfader till den tama grisen vara prisad för den vilda smaken på köttet.</WildBoar.description>
-  <!-- Use Leather From: Pig -->
-  <!-- Use Meat From: Pig -->
-  <WildBoar_Corpse.label>vildsvinskropp</WildBoar_Corpse.label>
-  <WildBoar_Corpse.description>vildsvinskropp</WildBoar_Corpse.description>
-
+  
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>TODO</Deer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>TODO</Deer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>TODO</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>TODO</Deer.tools.head.label>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>TODO</Deer.race.meatLabel>
+  <!-- EN: deer -->
+  <Deer.label>rådjur</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. Being very docile by nature, deer don't attack even if harmed. -->
+  <Deer.description>En medelstor gräsätande. Generellt fred om den inte blir störd.</Deer.description>
+  
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>TODO</Elk.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>TODO</Elk.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Elk.tools.head.label>TODO</Elk.tools.head.label>
+  <!-- EN: elk -->
+  <Elk.label>älg</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Elk.description>
+  
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>TODO</Ibex.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>TODO</Ibex.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>TODO</Ibex.tools.head.label>
+  <!-- EN: ibex -->
+  <Ibex.label>stenbock</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>Den härdad vilda anfader till vår domesticerade get. Stenbockar bor på små område som de flesta antiloper inte skulle kunna överleva, ätandes lavar och glesa fjällväxter. De är kända för vigt hoppande över kala klippor och för deras våldsamma ramattack.</Ibex.description>
+  
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>TODO</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>TODO</Tortoise.tools.head.label>
+  <!-- EN: tortoise -->
   <Tortoise.label>sköldpadda</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
   <Tortoise.description>Detta tungt bepansrade landlevande reptil är känd för sin långsamma hastighet och sitt förvånansvärt onda bett.</Tortoise.description>
-  <Tortoise_Leather.label>sköldpaddsläder</Tortoise_Leather.label>
-  <Tortoise_Leather.description>sköldpaddsläder</Tortoise_Leather.description>
-  <Tortoise_Leather.stuffProps.stuffAdjective>sköldpaddsläder</Tortoise_Leather.stuffProps.stuffAdjective>
-  <Tortoise_Meat.label>sköldpaddskött</Tortoise_Meat.label>
-  <Tortoise_Meat.description>sköldpaddskött</Tortoise_Meat.description>
-  <Tortoise_Corpse.label>sköldpaddskropp</Tortoise_Corpse.label>
-  <Tortoise_Corpse.description>sköldpaddskropp</Tortoise_Corpse.description>
-
-
+  
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>TODO</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>TODO</WildBoar.tools.head.label>
+  <!-- EN: wild boar -->
+  <WildBoar.label>vildsvin</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>Trots att det anses orent i vissa kulturer anses denna håriga förfader till den tama grisen vara prisad för den vilda smaken på köttet.</WildBoar.description>
+  
 </LanguageData>

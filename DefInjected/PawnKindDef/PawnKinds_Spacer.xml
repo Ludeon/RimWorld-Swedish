@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <SpaceRefugee.label>rymdflykting</SpaceRefugee.label>
+  
+  <AncientSoldier.labelPlural>rymdsoldater</AncientSoldier.labelPlural>
+  <!-- EN: ancient soldier -->
+  <AncientSoldier.label>rymdsoldat</AncientSoldier.label>
+  
   <SpaceRefugee.labelPlural>rymdflyktingar</SpaceRefugee.labelPlural>
-
-  <SpaceSoldier.label>rymdsoldat</SpaceSoldier.label>
-  <SpaceSoldier.labelPlural>rymdsoldater</SpaceSoldier.labelPlural>
-
-
+  <!-- EN: space refugee -->
+  <SpaceRefugee.label>rymdflykting</SpaceRefugee.label>
+  
 </LanguageData>

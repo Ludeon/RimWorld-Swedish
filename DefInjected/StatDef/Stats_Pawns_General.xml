@@ -1,45 +1,91 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <MoveSpeed.label>förflyttningshastighet</MoveSpeed.label>
-  <MoveSpeed.description>Rörelsehastighet genom världen i celler per sekund.</MoveSpeed.description>
-  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
-
-  <MentalBreakThreshold.label>mentaltbryt-tröskel</MentalBreakThreshold.label>
-  <MentalBreakThreshold.description>Så länge som någons humör är under denna nivå riskerar de att få en mentalt bryt.</MentalBreakThreshold.description>
-
-  <PsychicSensitivity.label>psykisk känslighet</PsychicSensitivity.label>
-  <PsychicSensitivity.description>Multiplikator på hur effekterna av psykiska fenomen påverkar den här personen.</PsychicSensitivity.description>
-
-  <ToxicSensitivity.label>giftig känslighet</ToxicSensitivity.label>
-  <ToxicSensitivity.description>Multiplikator på hur effekterna av giftiga uppbyggnad påverkar den här personen.</ToxicSensitivity.description>
-
-  <GlobalLearningFactor.label>global inlärningsfaktor</GlobalLearningFactor.label>
-  <GlobalLearningFactor.description>Global inlärningseffektivitet för alla färdigheter.</GlobalLearningFactor.description>
-
-  <EatingSpeed.label>äthastighet</EatingSpeed.label>
-  <EatingSpeed.description>Multiplikator på äthastighet.</EatingSpeed.description>
-
-  <ComfyTemperatureMin.label>Minsta behaglig temperatur</ComfyTemperatureMin.label>
-  <ComfyTemperatureMin.description>Under denna temperatur kommer personen att vara olycklig. Betydligt under denna temperatur kommer de att utveckla hypotermi och förfrysning och så småningom dö.</ComfyTemperatureMin.description>
-
-  <ComfyTemperatureMax.label>Högsta behaglig temperatur</ComfyTemperatureMax.label>
-  <ComfyTemperatureMax.description>Ovanför denna temperatur kommer personen att vara olycklig. Betydligt högre än denna temperatur kommer de att utveckla värmeslag och så småningom dö.</ComfyTemperatureMax.description>
-
-  <ImmunityGainSpeed.label>immunitethastighet</ImmunityGainSpeed.label>
-  <ImmunityGainSpeed.description>Hastighet med vilken denna personen får immunitet mot sjukdomar. Om detta är för långsam, kommer personen att dö av sjukdomen innan den hinner utveckla immunitet.</ImmunityGainSpeed.description>
-
+  
+  <!-- EN: carrying capacity -->
   <CarryingCapacity.label>bärförmåga</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>Mängden saker denna varelse kan bära i sin hand, mun, eller andra manipulatorer.</CarryingCapacity.description>
-
-  <MeatAmount.label>köttmängd</MeatAmount.label>
-  <MeatAmount.description>Mängden kött du får om du slaktar denna varelse.</MeatAmount.description>
-
+  
+  <!-- EN: Maximum comfortable temperature -->
+  <ComfyTemperatureMax.label>Högsta behaglig temperatur</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Ovanför denna temperatur kommer personen att vara olycklig. Betydligt högre än denna temperatur kommer de att utveckla värmeslag och så småningom dö.</ComfyTemperatureMax.description>
+  
+  <!-- EN: Minimum comfortable temperature -->
+  <ComfyTemperatureMin.label>Minsta behaglig temperatur</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>Under denna temperatur kommer personen att vara olycklig. Betydligt under denna temperatur kommer de att utveckla hypotermi och förfrysning och så småningom dö.</ComfyTemperatureMin.description>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>äthastighet</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Multiplikator på äthastighet.</EatingSpeed.description>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>TODO</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>TODO</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>global inlärningsfaktor</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>Global inlärningseffektivitet för alla färdigheter.</GlobalLearningFactor.description>
+  
+  <!-- EN: hunger rate multiplier -->
+  <HungerRateMultiplier.label>TODO</HungerRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
+  <HungerRateMultiplier.description>TODO</HungerRateMultiplier.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>immunitethastighet</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>Hastighet med vilken denna personen får immunitet mot sjukdomar. Om detta är för långsam, kommer personen att dö av sjukdomen innan den hinner utveckla immunitet.</ImmunityGainSpeed.description>
+  
+  <!-- EN: leather amount -->
   <LeatherAmount.label>lädermängd</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. -->
   <LeatherAmount.description>Mängden läder du får om du slaktar denna varelse.</LeatherAmount.description>
-
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>köttmängd</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. -->
+  <MeatAmount.description>Mängden kött du får om du slaktar denna varelse.</MeatAmount.description>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>mentaltbryt-tröskel</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Så länge som någons humör är under denna nivå riskerar de att få en mentalt bryt.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>minsta hanteringsfärdighet</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
   <MinimumHandlingSkill.description>Denna varelse kan inte tämjas, utbildas eller kommenderas av någon med mindre än denna färdighet av djurträning.</MinimumHandlingSkill.description>
-
-
+  
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+  <!-- EN: move speed -->
+  <MoveSpeed.label>förflyttningshastighet</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>Rörelsehastighet genom världen i celler per sekund.</MoveSpeed.description>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>TODO</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>TODO</PainShockThreshold.description>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>psykisk känslighet</PsychicSensitivity.label>
+  <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
+  <PsychicSensitivity.description>Multiplikator på hur effekterna av psykiska fenomen påverkar den här personen.</PsychicSensitivity.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>TODO</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>TODO</RestRateMultiplier.description>
+  
+  <!-- EN: toxic sensitivity -->
+  <ToxicSensitivity.label>giftig känslighet</ToxicSensitivity.label>
+  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
+  <ToxicSensitivity.description>Multiplikator på hur effekterna av giftiga uppbyggnad påverkar den här personen.</ToxicSensitivity.description>
+  
 </LanguageData>

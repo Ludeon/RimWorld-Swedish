@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: anything -->
   <Anything.label>vad som helst</Anything.label>
-  <Work.label>arbete</Work.label>
+  
+  <!-- EN: recreation -->
   <Joy.label>underhållning</Joy.label>
+  
+  <!-- EN: sleep -->
   <Sleep.label>sömn</Sleep.label>
-
-
+  
+  <!-- EN: work -->
+  <Work.label>arbete</Work.label>
+  
 </LanguageData>

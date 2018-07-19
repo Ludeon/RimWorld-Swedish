@@ -1,20 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Deterioration.label>Förfall</Deterioration.label>
+  
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb.deathMessage>{0} omkom i en explosion.</Bomb.deathMessage>
+  <!-- EN: bomb -->
+  <Bomb.label>Explosion</Bomb.label>
+  
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>{0} omkom i en explosion.</BombSuper.deathMessage>
+  <!-- EN: bomb -->
+  <BombSuper.label>Explosion</BombSuper.label>
+  
+  <!-- EN: {0} has been killed. -->
   <Deterioration.deathMessage>{0} dog.</Deterioration.deathMessage>
-
-  <Mining.label>Bryter</Mining.label>
-  <Mining.deathMessage>{0} dog.</Mining.deathMessage>
-
-  <Rotting.label>Ruttnar</Rotting.label>
-  <Rotting.deathMessage>{0} dog.</Rotting.deathMessage>
-
-  <Extinguish.label>Släcks</Extinguish.label>
+  <!-- EN: deterioration -->
+  <Deterioration.label>Förfall</Deterioration.label>
+  
+  <!-- EN: {0} has been killed. -->
   <Extinguish.deathMessage>{0} dog.</Extinguish.deathMessage>
-
-  <Smoke.label>smoke</Smoke.label>
+  <!-- EN: extinguish -->
+  <Extinguish.label>Släcks</Extinguish.label>
+  
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>{0} dog.</Mining.deathMessage>
+  <!-- EN: mining -->
+  <Mining.label>Bryter</Mining.label>
+  
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>{0} dog.</Rotting.deathMessage>
+  <!-- EN: rotting -->
+  <Rotting.label>Ruttnar</Rotting.label>
+  
+  <!-- EN: {0} has been killed. -->
   <Smoke.deathMessage>{0} dog.</Smoke.deathMessage>
-
+  <!-- EN: smoke -->
+  <Smoke.label>Rök</Smoke.label>
   
 </LanguageData>

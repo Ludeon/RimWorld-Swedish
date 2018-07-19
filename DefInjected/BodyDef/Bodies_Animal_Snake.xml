@@ -1,7 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: left lung -->
+  <Snake.corePart.parts.left_lung.customLabel>vänster lunga</Snake.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Snake.corePart.parts.right_lung.customLabel>höger lunga</Snake.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Snake.corePart.parts.left_kidney.customLabel>vänster njure</Snake.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Snake.corePart.parts.right_kidney.customLabel>höger njure</Snake.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>vänster öga</Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>höger öga</Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>
+  <!-- EN: snake -->
   <Snake.label>Orm</Snake.label>
-
-
+  
 </LanguageData>

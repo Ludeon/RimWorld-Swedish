@@ -1,52 +1,69 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Basic quality thoughts -->
-
-  <AteLavishMeal.stages.0.label>åt utsökt måltid</AteLavishMeal.stages.0.label>
-  <AteLavishMeal.stages.0.description>Det utsökt måltid var fantastisk. Det var näring till både kropp och själ.</AteLavishMeal.stages.0.description>
-
-  <AteFineMeal.stages.0.label>åt förfinad måltid</AteFineMeal.stages.0.label>
-  <AteFineMeal.stages.0.description>Jag åt en riktigt läcker fin måltid. Mums!</AteFineMeal.stages.0.description>
-
-  <AteAwfulMeal.stages.0.label>åt fruktansvärd måltid</AteAwfulMeal.stages.0.label>
-  <AteAwfulMeal.stages.0.description>Jag var tvungen att äta en motbjudande, smaklös måltid. Jag vet att det håller dig vid liv, men ingen vill svälja den smörjan.</AteAwfulMeal.stages.0.description>
-
-  <AteRawFood.stages.0.label>åt rå mat</AteRawFood.stages.0.label>
-  <AteRawFood.stages.0.description>Jag var tvungen att äta rå mat. Kan vi inte laga det, eller åtminstone syntetisera lite näringsmassa?</AteRawFood.stages.0.description>
-
-  <AteKibble.stages.0.label>åt djurfoder</AteKibble.stages.0.label>
-  <AteKibble.stages.0.description>Jag var tvungen att äta djurfoder. Det är som om jag inte får vara människa längre.</AteKibble.stages.0.description>
-
-  <AteCorpse.stages.0.label>åt lik</AteCorpse.stages.0.label>
-  <AteCorpse.stages.0.description>Jag var tvungen att äta ett lik utan att ens stycka eller laga till det. Det var avskyvärt.</AteCorpse.stages.0.description>
-
-
-  <!-- Special nature thoughts -->
-
-  <AteHumanlikeMeatDirect.stages.0.label>rå kannibalism</AteHumanlikeMeatDirect.stages.0.label>
-  <AteHumanlikeMeatDirect.stages.0.description>Jag åt kött av en annan människa, rått, som ett djur. Detta är en mardröm.</AteHumanlikeMeatDirect.stages.0.description>
-
-  <AteHumanlikeMeatDirectCannibal.stages.0.label>rå kannibalism</AteHumanlikeMeatDirectCannibal.stages.0.label>
-  <AteHumanlikeMeatDirectCannibal.stages.0.description>Jag åt köttet från en annan människa, rått, som ett djur. Det var så ... saftigt.</AteHumanlikeMeatDirectCannibal.stages.0.description>
-
-  <AteHumanlikeMeatAsIngredient.stages.0.label>tillagat kannibalism</AteHumanlikeMeatAsIngredient.stages.0.label>
-  <AteHumanlikeMeatAsIngredient.stages.0.description>Jag åt en måltid tillagad av kött av en annan människa. Detta är fruktansvärt.</AteHumanlikeMeatAsIngredient.stages.0.description>
-
-  <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>tillagat kannibalism</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
-  <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Jag åt en måltid tillagad av kött av en annan människa. Så angenämt. Om jag bara hade några bondbönor och en trevlig chianti.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
-
-  <AteInsectMeatDirect.stages.0.label>åt insektskött</AteInsectMeatDirect.stages.0.label>
-  <AteInsectMeatDirect.stages.0.description>Jag åt några grå, slemmiga insekters kött. Det var möjligen det mest motbjudande jag någonsin har ätit.</AteInsectMeatDirect.stages.0.description>
-
-  <AteInsectMeatAsIngredient.stages.0.label>åt tillagat insektskött</AteInsectMeatAsIngredient.stages.0.label>
-  <AteInsectMeatAsIngredient.stages.0.description>Jag åt en måltid tillagad av grått, slemmiga insektskött. Kryddorna täckte delvis smaken, men det fanns körtlar och vätskefickor i det att jag inte kunde identifiera.</AteInsectMeatAsIngredient.stages.0.description>
-
-
-  <!-- Rotten state thoughts -->
-
-  <AteRottenFood.stages.0.label>åt rutten mat</AteRottenFood.stages.0.label>
-  <AteRottenFood.stages.0.description>Jag åt en motbjudande, unken mat. Det smälte i munnen - men inte på ett bra sätt.</AteRottenFood.stages.0.description>
-
-
+  
+  <!-- EN: ate awful meal -->
+  <AteAwfulMeal.stages.ate_awful_meal.label>åt fruktansvärd måltid</AteAwfulMeal.stages.ate_awful_meal.label>
+  <!-- EN: I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop. -->
+  <AteAwfulMeal.stages.ate_awful_meal.description>Jag var tvungen att äta en motbjudande, smaklös måltid. Jag vet att det håller dig vid liv, men ingen vill svälja den smörjan.</AteAwfulMeal.stages.ate_awful_meal.description>
+  
+  <!-- EN: ate corpse -->
+  <AteCorpse.stages.ate_corpse.label>åt lik</AteCorpse.stages.ate_corpse.label>
+  <!-- EN: I had to eat the flesh of a dead creature without even butchering or cooking it. -->
+  <AteCorpse.stages.ate_corpse.description>Jag var tvungen att äta ett lik utan att ens stycka eller laga till det. Det var avskyvärt.</AteCorpse.stages.ate_corpse.description>
+  
+  <!-- EN: ate fine meal -->
+  <AteFineMeal.stages.ate_fine_meal.label>åt förfinad måltid</AteFineMeal.stages.ate_fine_meal.label>
+  <!-- EN: I ate a really tasty fine meal. Yum! -->
+  <AteFineMeal.stages.ate_fine_meal.description>Jag åt en riktigt läcker fin måltid. Mums!</AteFineMeal.stages.ate_fine_meal.description>
+  
+  <!-- EN: cooked cannibalism -->
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>tillagat kannibalism</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
+  <!-- EN: I ate a meal made from the meat of another human. This is horrible. -->
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>Jag åt en måltid tillagad av kött av en annan människa. Detta är fruktansvärt.</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
+  
+  <!-- EN: cooked cannibalism -->
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>tillagat kannibalism</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
+  <!-- EN: I ate a meal made from the meat of another human. So pleasurable. If only I had some fava beans and a nice chianti. -->
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>Jag åt en måltid tillagad av kött av en annan människa. Så angenämt. Om jag bara hade några bondbönor och en trevlig chianti.</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
+  
+  <!-- EN: raw cannibalism -->
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.label>rå kannibalism</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
+  <!-- EN: I ate the meat of another human, raw, like an animal. This is a nightmare. -->
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.description>Jag åt kött av en annan människa, rått, som ett djur. Detta är en mardröm.</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
+  
+  <!-- EN: raw cannibalism -->
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>rå kannibalism</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
+  <!-- EN: I ate the meat of another human, raw, like an animal. It was so... succulent. -->
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>Jag åt köttet från en annan människa, rått, som ett djur. Det var så ... saftigt.</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
+  
+  <!-- EN: ate cooked insect meat -->
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>åt tillagat insektskött</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
+  <!-- EN: I ate a meal cooked from gray, slimy insect meat. The seasoning partly covered the taste, but there were glands and fluid pockets in there that I can't identify. -->
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>Jag åt en måltid tillagad av grått, slemmiga insektskött. Kryddorna täckte delvis smaken, men det fanns körtlar och vätskefickor i det att jag inte kunde identifiera.</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>
+  
+  <!-- EN: ate insect meat -->
+  <AteInsectMeatDirect.stages.ate_insect_meat.label>åt insektskött</AteInsectMeatDirect.stages.ate_insect_meat.label>
+  <!-- EN: I ate some gray, slimy insect meat. It was, possibly, the most disgusting thing I've ever tasted. -->
+  <AteInsectMeatDirect.stages.ate_insect_meat.description>Jag åt några grå, slemmiga insekters kött. Det var möjligen det mest motbjudande jag någonsin har ätit.</AteInsectMeatDirect.stages.ate_insect_meat.description>
+  
+  <!-- EN: ate kibble -->
+  <AteKibble.stages.ate_kibble.label>åt djurfoder</AteKibble.stages.ate_kibble.label>
+  <!-- EN: I had to eat animal kibble. It's like I don't get to be human any more. -->
+  <AteKibble.stages.ate_kibble.description>Jag var tvungen att äta djurfoder. Det är som om jag inte får vara människa längre.</AteKibble.stages.ate_kibble.description>
+  
+  <!-- EN: ate lavish meal -->
+  <AteLavishMeal.stages.ate_lavish_meal.label>åt utsökt måltid</AteLavishMeal.stages.ate_lavish_meal.label>
+  <!-- EN: That lavish meal was amazing. It nourished my body and my soul. -->
+  <AteLavishMeal.stages.ate_lavish_meal.description>Det utsökt måltid var fantastisk. Det var näring till både kropp och själ.</AteLavishMeal.stages.ate_lavish_meal.description>
+  
+  <!-- EN: ate raw food -->
+  <AteRawFood.stages.ate_raw_food.label>åt rå mat</AteRawFood.stages.ate_raw_food.label>
+  <!-- EN: I had to eat raw food. We should be cooking that kind of food before eating it. We're not animals. -->
+  <AteRawFood.stages.ate_raw_food.description>Jag var tvungen att äta rå mat. Kan vi inte laga det, eller åtminstone syntetisera lite näringsmassa?</AteRawFood.stages.ate_raw_food.description>
+  
+  <!-- EN: ate rotten food -->
+  <AteRottenFood.stages.ate_rotten_food.label>åt rutten mat</AteRottenFood.stages.ate_rotten_food.label>
+  <!-- EN: I ate some disgusting, putrid food. It was melting in my mouth - but not in a good way. -->
+  <AteRottenFood.stages.ate_rotten_food.description>Jag åt en motbjudande, unken mat. Det smälte i munnen - men inte på ett bra sätt.</AteRottenFood.stages.ate_rotten_food.description>
+  
 </LanguageData>

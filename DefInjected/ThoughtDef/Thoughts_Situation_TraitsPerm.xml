@@ -1,17 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <MoodOffsetSanguine.stages.0.label>sangvini</MoodOffsetSanguine.stages.0.label>
-  <MoodOffsetSanguine.stages.0.description>Naturlig bonus från Sangvini egenskapen.</MoodOffsetSanguine.stages.0.description>
-
-  <MoodOffsetOptimist.stages.0.label>optimist</MoodOffsetOptimist.stages.0.label>
-  <MoodOffsetOptimist.stages.0.description>Naturlig bonus från Optimist egenskapen.</MoodOffsetOptimist.stages.0.description>
-
-  <MoodOffsetPessimist.stages.0.label>pessimist</MoodOffsetPessimist.stages.0.label>
-  <MoodOffsetPessimist.stages.0.description>aturlig bonus från Pessimist egenskapen.</MoodOffsetPessimist.stages.0.description>
-
-  <MoodOffsetDepressive.stages.0.label>depressiv</MoodOffsetDepressive.stages.0.label>
-  <MoodOffsetDepressive.stages.0.description>aturlig bonus från Deppresiv egenskapen.</MoodOffsetDepressive.stages.0.description>
-
-
+  
+  <!-- EN: depressive -->
+  <MoodOffsetDepressive.stages.depressive.label>depressiv</MoodOffsetDepressive.stages.depressive.label>
+  <!-- EN: Natural penalty from 'depressive' trait. -->
+  <MoodOffsetDepressive.stages.depressive.description>aturlig bonus från Deppresiv egenskapen.</MoodOffsetDepressive.stages.depressive.description>
+  
+  <!-- EN: optimist -->
+  <MoodOffsetOptimist.stages.optimist.label>optimist</MoodOffsetOptimist.stages.optimist.label>
+  <!-- EN: Natural bonus from 'optimist' trait. -->
+  <MoodOffsetOptimist.stages.optimist.description>Naturlig bonus från Optimist egenskapen.</MoodOffsetOptimist.stages.optimist.description>
+  
+  <!-- EN: pessimist -->
+  <MoodOffsetPessimist.stages.pessimist.label>pessimist</MoodOffsetPessimist.stages.pessimist.label>
+  <!-- EN: Natural penalty from 'pessimist' trait. -->
+  <MoodOffsetPessimist.stages.pessimist.description>aturlig bonus från Pessimist egenskapen.</MoodOffsetPessimist.stages.pessimist.description>
+  
+  <!-- EN: sanguine -->
+  <MoodOffsetSanguine.stages.sanguine.label>sangvini</MoodOffsetSanguine.stages.sanguine.label>
+  <!-- EN: Natural bonus from 'sanguine' trait. -->
+  <MoodOffsetSanguine.stages.sanguine.description>Naturlig bonus från Sangvini egenskapen.</MoodOffsetSanguine.stages.sanguine.description>
+  
 </LanguageData>

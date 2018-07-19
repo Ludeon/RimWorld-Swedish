@@ -1,12 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <None.label>ingen</None.label>
-  <Name.label>namn</Name.label>
-  <MarketValue.label>marknadsvärde</MarketValue.label>
+  
+  <!-- EN: category -->
   <Category.label>kategori</Category.label>
-  <Quality.label>kvalitet</Quality.label>
+  
+  <!-- EN: hit points percentage -->
   <HitPointsPercentage.label>träffpoäng procent</HitPointsPercentage.label>
-
-
+  
+  <!-- EN: market value -->
+  <MarketValue.label>marknadsvärde</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>TODO</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>namn</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>ingen</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>kvalitet</Quality.label>
+  
 </LanguageData>

@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <HugeRiver.label>enorm flod</HugeRiver.label>
-  <LargeRiver.label>stor flod</LargeRiver.label>
-  <River.label>flod</River.label>
+  
+  <!-- EN: creek -->
   <Creek.label>bäck</Creek.label>
-
-
+  
+  <!-- EN: huge river -->
+  <HugeRiver.label>enorm flod</HugeRiver.label>
+  
+  <!-- EN: large river -->
+  <LargeRiver.label>stor flod</LargeRiver.label>
+  
+  <!-- EN: river -->
+  <River.label>flod</River.label>
+  
 </LanguageData>

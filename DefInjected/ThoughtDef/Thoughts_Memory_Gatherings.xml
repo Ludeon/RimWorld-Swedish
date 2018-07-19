@@ -1,14 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <GotMarried.stages.0.label>gifte sig</GotMarried.stages.0.label>
-  <GotMarried.stages.0.description>Jag gifte mig! Livet är fullt av möjligheter!</GotMarried.stages.0.description>
-
-  <AttendedWedding.stages.0.label>gick på bröllop</AttendedWedding.stages.0.label>
-  <AttendedWedding.stages.0.description>Det var bra att se två människor slpr sig ihop för att bygga en framtid tillsammans.</AttendedWedding.stages.0.description>
-
-  <AttendedParty.stages.0.label>varit på fest</AttendedParty.stages.0.label>
-  <AttendedParty.stages.0.description>Jag hade det trevligt på festen.</AttendedParty.stages.0.description>
-
-
+  
+  <!-- EN: attended party -->
+  <AttendedParty.stages.attended_party.label>varit på fest</AttendedParty.stages.attended_party.label>
+  <!-- EN: I had a good time at that party. -->
+  <AttendedParty.stages.attended_party.description>Jag hade det trevligt på festen.</AttendedParty.stages.attended_party.description>
+  
+  <!-- EN: attended wedding -->
+  <AttendedWedding.stages.attended_wedding.label>gick på bröllop</AttendedWedding.stages.attended_wedding.label>
+  <!-- EN: It was great to see two people come together to build a future like that. -->
+  <AttendedWedding.stages.attended_wedding.description>Det var bra att se två människor slpr sig ihop för att bygga en framtid tillsammans.</AttendedWedding.stages.attended_wedding.description>
+  
+  <!-- EN: got married to {0} -->
+  <GotMarried.stages.got_married_to.label>gifte sig</GotMarried.stages.got_married_to.label>
+  <!-- EN: I got married! It's so wonderful to be starting a new life together! -->
+  <GotMarried.stages.got_married_to.description>Jag gifte mig! Livet är fullt av möjligheter!</GotMarried.stages.got_married_to.description>
+  
 </LanguageData>

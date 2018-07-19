@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: burned tree -->
   <BurnedTree.label>nedbränt trä</BurnedTree.label>
+  <!-- EN: A burned tree stump. It's ugly and yields no usable wood. -->
   <BurnedTree.description>Ett bränt träd. Ger inget användbart trä.</BurnedTree.description>
-
-  <PlantAmbrosia.label>ambrosia buske</PlantAmbrosia.label>
-  <PlantAmbrosia.description>En sällsynt buske som ger ambrosiafrukten. Ambrosia är behagligt att äta och producerar en något beroendeframkallande kemisk värmeeffekt.</PlantAmbrosia.description>
-
-
+  
+  <!-- EN: ambrosia bush -->
+  <Plant_Ambrosia.label>ambrosia buske</Plant_Ambrosia.label>
+  <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
+  <Plant_Ambrosia.description>En sällsynt buske som ger ambrosiafrukten. Ambrosia är behagligt att äta och producerar en något beroendeframkallande kemisk värmeeffekt.</Plant_Ambrosia.description>
+  
 </LanguageData>

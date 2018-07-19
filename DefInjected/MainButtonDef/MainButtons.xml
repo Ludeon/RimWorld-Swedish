@@ -1,37 +1,62 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Inspect.label>Granska</Inspect.label>
-
-  <Architect.label>Arkitekt</Architect.label>
-  <Architect.description>Ange var och vad kolonister ska bygga, odla, förvara föremål och så vidare.</Architect.description>
-
-  <Work.label>Arbete</Work.label>
-  <Work.description>Välj vilken kolonist som gör vilket slags arbete, och i vilken prioriteringsordning.</Work.description>
-
-  <Restrict.label>Begränsa</Restrict.label>
-  <Restrict.description>Begränsa kolonister till vissa aktiviteter vid vissa tider på dagen, eller till specifika tillåtna områden.</Restrict.description>
-
-  <Assign.label>Tilldela</Assign.label>
-  <Assign.description>Ange vad varje kolonist är tillåten att bära och hur de skall reagera mot fiender.</Assign.description>
-
+  
+  <!-- EN: animals -->
   <Animals.label>Djur</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
   <Animals.description>Ange hur kolonisternas djur skall bli behandlade.</Animals.description>
-
-  <Research.label>Forska</Research.label>
-  <Research.description>Undersök och besluta om forskningsprojekt.</Research.description>
-
-  <World.label>Värld</World.label>
-  <World.description>Se hela världskartan.</World.description>
-
-  <History.label>Historia</History.label>
-  <History.description>Läs om vad som hänt i kolonins histoia.</History.description>
-
+  
+  <!-- EN: architect -->
+  <Architect.label>Arkitekt</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>Ange var och vad kolonister ska bygga, odla, förvara föremål och så vidare.</Architect.description>
+  
+  <!-- EN: assign -->
+  <Assign.label>Tilldela</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>Ange vad varje kolonist är tillåten att bära och hur de skall reagera mot fiender.</Assign.description>
+  
+  <!-- EN: factions -->
   <Factions.label>Fraktioner</Factions.label>
+  <!-- EN: Review the other factions on this world and their relationships. -->
   <Factions.description>Granska de fraktioner som är kända för kolonin och deras relationer.</Factions.description>
-
+  
+  <!-- EN: history -->
+  <History.label>Historia</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>Läs om vad som hänt i kolonins histoia.</History.description>
+  
+  <!-- EN: inspect -->
+  <Inspect.label>Granska</Inspect.label>
+  
+  <!-- EN: menu -->
   <Menu.label>Meny</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
   <Menu.description>Ändra alternativ, spara, ladda eller avsluta spelet.</Menu.description>
-
-
+  
+  <!-- EN: research -->
+  <Research.label>Forska</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>Undersök och besluta om forskningsprojekt.</Research.description>
+  
+  <!-- EN: restrict -->
+  <Restrict.label>Begränsa</Restrict.label>
+  <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
+  <Restrict.description>Begränsa kolonister till vissa aktiviteter vid vissa tider på dagen, eller till specifika tillåtna områden.</Restrict.description>
+  
+  <!-- EN: wildlife -->
+  <Wildlife.label>TODO</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>TODO</Wildlife.description>
+  
+  <!-- EN: work -->
+  <Work.label>Arbete</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>Välj vilken kolonist som gör vilket slags arbete, och i vilken prioriteringsordning.</Work.description>
+  
+  <!-- EN: world -->
+  <World.label>Värld</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>Se hela världskartan.</World.description>
+  
 </LanguageData>

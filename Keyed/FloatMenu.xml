@@ -1,162 +1,373 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: Call {0} -->
   <CallOnRadio>Anropa {0}</CallOnRadio>
+  <!-- EN: Cannot use ({0}) -->
   <CannotUseReason>Kan inte använda ({0})</CannotUseReason>
+  <!-- EN: Cannot use (solar flare) -->
   <CannotUseSolarFlare>Kan inte använda (soleruption)</CannotUseSolarFlare>
+  <!-- EN: Cannot use (no power) -->
   <CannotUseNoPower>Kan inte använda (ingen ström)</CannotUseNoPower>
+  <!-- EN: Cannot use (no path) -->
   <CannotUseNoPath>Kan inte använda (ingen väg)</CannotUseNoPath>
+  <!-- EN: Cannot use (reserved) -->
   <CannotUseReserved>Kan inte använda (reserverad)</CannotUseReserved>
+  <!-- EN: Cannot use (full) -->
   <CannotUseFull>Kan inte använda (fullt)</CannotUseFull>
+  <!-- EN: leader {0} is unavailable -->
   <LeaderUnavailable>ledare {0} är inte tillgänglig</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
-
+  
+  <!-- EN: Fire at {0} -->
   <FireAt>Skjut mot {0}</FireAt>
 
+  <!-- EN: out of range -->
   <OutOfRange>utanför räckvidd</OutOfRange>
+  <!-- EN: cannot hit target -->
   <CannotHitTarget>kan inte träffa mål</CannotHitTarget>
+  <!-- EN: {0} is incapable of violence -->
   <IsIncapableOfViolenceLower>{0} oförmögen till våld</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
+  <!-- EN: {0} is not drafted -->
   <IsNotDraftedLower>{0} är inte kommenderad</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>kan inte beordra icke-kontrollerade enheter</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>kan inte attackera sig själv</CannotAttackSelf>
 
+  <!-- EN: Man {0} -->
   <OrderManThing>Bemanna {0}</OrderManThing>
-
+  
+  <!-- EN: Melee attack {0} -->
   <MeleeAttack>Närstridskamp mot {0}</MeleeAttack>
+  <!-- EN: Melee attack {0} to death -->
   <MeleeAttackToDeath>Närstridskamp mot {0} till döden</MeleeAttackToDeath>
+  <!-- EN: no path -->
   <NoPath>ingen väg</NoPath>
 
+  <!-- EN: forbidden -->
   <ForbiddenLower>förbjuden</ForbiddenLower>
+  <!-- EN: outside allowed area -->
   <ForbiddenOutsideAllowedAreaLower>utanför tillåtet område</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
   <NotInHomeArea>ej i hemområde</NotInHomeArea>
+  <!-- EN: burning -->
   <BurningLower>brinner</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
   <NoEmptyPlaceLower>ingen tom plats konfigurerad att förvara det</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>ingen stapel tillgänglig för att gå in i</NoMergeTarget>
+  <!-- EN: already filled enough -->
   <AlreadyFilledLower>redan fylld</AlreadyFilledLower>
+  <!-- EN: need material -->
   <MissingMaterials>behöver material</MissingMaterials>
-  <MissingSkill>för låg förmåga</MissingSkill>
-  <NoEmptyGraveLower>ingen tom grav är inställd till att förvara det</NoEmptyGraveLower>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>under nödvändig färdighet {0}</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>under tillåten färdighet {0}</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>över tillåten färdighet {0}</AboveAllowedSkill>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>saknar nödvändig färdighetsnivå</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>interagerat med djuret för nyligen</AnimalInteractedTooRecently>
+  <!-- EN: no usable food -->
   <NoUsableFood>ingen användbar mat</NoUsableFood>
+  <!-- EN: no food -->
   <NoFood>ingen mat</NoFood>
+  <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>Djurets förmåga för låg</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>djur nere</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>djur sover</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>djur upptagen</CantInteractAnimalBusy>
+  <!-- EN: construction skill too low -->
+  <ConstructionSkillTooLow>konstruktionsfärdighet för låg</ConstructionSkillTooLow>
+  <!-- EN: need components -->
   <NoComponentsToRepair>behöver komponenter</NoComponentsToRepair>
+  <!-- EN: need {0} -->
   <NoFuelToRefuel>behöver {0}</NoFuelToRefuel>
+  <!-- EN: need wort -->
   <NoWort>behöver vört</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
   <TheOnlyAvailableFoodIsInStorageOfHigherPriority>Tillgänglig mat lagras av högre prioritet</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
   <NoFoodToFillHopper>inte lämplig mat</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
   <SelfTendDisabled>själv-hela inaktiverat</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
   <ReservedForPrisoners>reserverad för fångar</ReservedForPrisoners>
-
+  <!-- EN: cannot reach -->
+  <CannotReach>kan ej nå</CannotReach>
+  <!-- EN: not ready for surgery -->
+  <NotSurgeryReady>ej redo för operation</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>färdighet inkapabel</SkillDisabled>
+  <!-- EN: too bright -->
+  <CantSowCavePlantBecauseOfLight>för ljust</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
+  <CantSowCavePlantBecauseUnroofed>ej tak</CantSowCavePlantBecauseUnroofed>
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>ej möjlig att riva</IncapableOfDeconstruction>
+  
+  <!-- EN: Consume {0} -->
   <ConsumeThing>Konsumera {0}</ConsumeThing>
-
+  
+  <!-- EN: Cannot go here (no path) -->
   <CannotGoNoPath>Kan inte gå hit (ingen väg)</CannotGoNoPath>
+  <!-- EN: Go here -->
   <GoHere>Gå hit</GoHere>
-
+  
+  <!-- EN: Arrest {0} -->
   <Arrest>Arrestera {0}</Arrest>
+  <!-- EN: Try to arrest {0} -->
   <TryToArrest>Försök arrestera {0}</TryToArrest>
+  <!-- EN: Cannot arrest -->
   <CannotArrest>Kan inte arrestera</CannotArrest>
 
+  <!-- EN: Capture {0} -->
   <Capture>Tillfångata {0}</Capture>
+  <!-- EN: Cannot capture -->
   <CannotCapture>Kan inte fånga</CannotCapture>
 
+  <!-- EN: Rescue {0} -->
   <Rescue>Rädda {0}</Rescue>
+  <!-- EN: Cannot rescue -->
   <CannotRescue>Kan inte rädda</CannotRescue>
 
+  <!-- EN: Carry {0} to cryptosleep casket -->
   <CarryToCryptosleepCasket>Bär {0} till kryposömnkapsel</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Kan inte bära till kryposömnkapsel</CannotCarryToCryptosleepCasket>
 
+  <!-- EN: No available cryptosleep casket. -->
   <NoCryptosleepCasket>Ingen tillgänglig kryptosömnkapsel.</NoCryptosleepCasket>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Ingen instängd fängelsesäng tillgänglig.</NoPrisonerBed>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
   <NoNonPrisonerBed>Ingen icke-fängelsesäng tillgänglig.</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
   <NoAnimalBed>Ingen nåbar, icke-reserverad djursäng.</NoAnimalBed>
+  <!-- EN: Reserved by someone else. -->
   <Reserved>Reserverad av någon annan.</Reserved>
+  <!-- EN: Reserved by {0} -->
   <ReservedBy>Reserverad av {0}.</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
   <IsReservedBy>{0} är reserverad av {1}.</IsReservedBy>
+  <!-- EN: Too heavy -->
   <TooHeavy>För tung</TooHeavy>
 
+  <!-- EN: incapable -->
   <Incapable>oförmögen</Incapable>
+  <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>oförmögen att {0}</IncapableOfCapacity>
 
+  <!-- EN: min skill -->
   <MinSkill>minsta förmåga</MinSkill>
-
+  
+  <!-- EN: Equip {0} -->
   <Equip>Använd {0}</Equip>
+  <!-- EN: (brawler will be unhappy) -->
   <EquipWarningBrawler>(slagskämpe kommer vara olycklig)</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
   <CannotEquip>Kan inte använda {0}</CannotEquip>
-
+  <!-- EN: Cannot man {0} -->
+  <CannotManThing>Kan ej bemanna {0}</CannotManThing>
+  
+  <!-- EN: Force wear {0} -->
   <ForceWear>Tvinga att bära {0}</ForceWear>
+  <!-- EN: Cannot wear {0} -->
   <CannotWear>Kan inte bära {0}</CannotWear>
+  <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>saknade kroppsdelar</CannotWearBecauseOfMissingBodyParts>
-
+  
+  <!-- EN: Cannot pick up {0} -->
   <CannotPickUp>Kan inte ta upp {0}</CannotPickUp>
+  <!-- EN: Cannot pick up {0} (all) -->
   <CannotPickUpAll>Kan inte ta upp {0} (allt)</CannotPickUpAll>
+  <!-- EN: Pick up {0} -->
   <PickUp>Ta upp {0}</PickUp>
+  <!-- EN: Pick up {0} (all) -->
   <PickUpAll>Ta upp {0} (allt)</PickUpAll>
+  <!-- EN: Pick up {0}... -->
   <PickUpSome>Ta upp {0}...</PickUpSome>
+  <!-- EN: Pick up {0} x{{0}} -->
   <PickUpCount>Ta upp {0} x{{0}}</PickUpCount>
-
+  
+  <!-- EN: Cannot give {0} to pack animal -->
   <CannotGiveToPackAnimal>Kan inte lasta {0} på packdjur</CannotGiveToPackAnimal>
+  <!-- EN: Cannot give {0} (all) to pack animal -->
   <CannotGiveToPackAnimalAll>Kan inte lasta {0} (allt) på packdjur</CannotGiveToPackAnimalAll>
+  <!-- EN: Give {0} to pack animal -->
   <GiveToPackAnimal>Lasta {0} på packdjur</GiveToPackAnimal>
+  <!-- EN: Give {0} (all) to pack animal -->
   <GiveToPackAnimalAll>Lasta {0} (all) på packdjur</GiveToPackAnimalAll>
+  <!-- EN: Give {0} to pack animal... -->
   <GiveToPackAnimalSome>Lasta {0} på packdjur...</GiveToPackAnimalSome>
+  <!-- EN: Take {0} x{{0}} -->
   <GiveToPackAnimalCount>Lasta {0} x{{0}}</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {0} into caravan -->
+  <CannotLoadIntoCaravan>Kan inte lasta {0} i karavan</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {0} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>Kan inte lasta {0} (allt) i karavan</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {0} into caravan -->
+  <LoadIntoCaravan>Lastar {0} i karavanen</LoadIntoCaravan>
+  <!-- EN: Load {0} (all) into caravan -->
+  <LoadIntoCaravanAll>Lastar {0} (allt) i karavanen</LoadIntoCaravanAll>
+  <!-- EN: Load {0} into caravan... -->
+  <LoadIntoCaravanSome>Lastar {0} i karavanen.</LoadIntoCaravanSome>
+  <!-- EN: Load {0} x{{0}} -->
+  <LoadIntoCaravanCount>Laster {0} x{{0}}</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>overvikt</OverweightLower>
 
+  <!-- EN: Cannot carry {0} and leave the area -->
   <CannotCarryToExit>Kan inte bära {0} och lämna området</CannotCarryToExit>
+  <!-- EN: Carry {0} and leave the area -->
   <CarryToExit>Bär {0} och lämna området</CarryToExit>
-
+  <!-- EN: Capture {0} and leave the area -->
+  <CarryToExitAndCapture>Fånga {0} och lämna området</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {0} -->
   <Strip>Klä av {0}</Strip>
+  <!-- EN: Cannot strip {0} -->
   <CannotStrip>Kan inte klä av {0}</CannotStrip>
 
+  <!-- EN: Self-destruct here -->
   <SelfDestructHere>Självförstör här</SelfDestructHere>
-
+  
+  <!-- EN: Drop {0} -->
   <Drop>Släpp {0}</Drop>
 
+  <!-- EN: Rest until healed -->
   <UseMedicalBed>Vila tills läkt</UseMedicalBed>
+  <!-- EN: not injured -->
   <NotInjured>Ej skadad</NotInjured>
+  <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>Upptagen</SomeoneElseSleeping>
-
+  
+  <!-- EN: Trade with {0} -->
   <TradeWith>Handla med {0}</TradeWith>
+  <!-- EN: Cannot trade -->
   <CannotTrade>Kan inte handla</CannotTrade>
-
+  
+  <!-- EN: Enter {0} -->
   <EnterMap>Gå till {0}</EnterMap>
+  <!-- EN: Visit {0} -->
   <VisitSettlement>Besök {0}</VisitSettlement>
-  <VisitSite>Besök {0}</VisitSite>
-  <AttackSite>Attackera {0}</AttackSite>
+  <!-- EN: Visit {0} -->
+  <VisitPeaceTalks>Anländ {0}</VisitPeaceTalks>
+  <!-- EN: Visit {0} -->
+  <VisitEscapeShip>Äntra {0}</VisitEscapeShip>
+  <!-- EN: Attack {0} -->
   <AttackSettlement>Attackera {0}</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>Närma sig {0}</ApproachSite>
+  <!-- EN: Approaching {0} -->
+  <ApproachingSite>Närmar sig {0}</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>Erbjud gåvor</OfferGifts>
 
   <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
   <EnterCryptosleepCasket>Gå in i kryptosömnkista</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>Öppna kryptosömnkista</OpenCryptosleepCasket>
 
-  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
   <CannotGenericWork>Kan inte {0} {1}</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>Kan inte {0}</CannotGenericWorkCustom>
 
-  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <!-- EN: Cannot prioritize (incapable of {0}) -->
   <CannotMissingHealthActivities>Kan inte prioritera (oförmögen att {0})</CannotMissingHealthActivities>
 
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {1} -->
   <CannotGenericAlreadyAm>{0} redan {1}</CannotGenericAlreadyAm>
 
+  <!-- EN: Cannot prioritize (will never do {0}) -->
   <CannotPrioritizeWorkTypeDisabled>Kan inte prioritera (kommer aldrig utföra {0})</CannotPrioritizeWorkTypeDisabled>
 
+  <!-- EN: Cannot prioritize (will never {0}) -->
   <CannotPrioritizeWorkGiverDisabled>Kan inte prioritera (kommer aldrig {0})</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>kommer aldrig {0}</WillNever>
 
+  <!-- EN: Cannot prioritize (not assigned to {0}) -->
   <CannotPrioritizeNotAssignedToWorkType>Kan inte prioritera (inte tilldelad att utföra {0})</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>ej tilldelad</NotAssigned>
 
+  <!-- EN: Cannot prioritize (research is a long-term task) -->
   <CannotPrioritizeResearch>Kan inte prioritera (Forskning tar för lång tid)</CannotPrioritizeResearch>
 
+  <!-- EN: Cannot prioritize ({0} is forbidden) -->
   <CannotPrioritizeForbidden>Kan inte prioritera ({0} är förbjuden)</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize (forbidden) -->
+  <CannotPrioritizeCellForbidden>Kan inte prioritera (förbjuden)</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>Kan inte prioritera ({0} är utanför tillåtet område)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
-  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>Prioritera {0} {1}</PrioritizeGeneric>
-
+  
+  <!-- EN: Drop at edge -->
   <DropAtEdge>Släpp vid kanten</DropAtEdge>
+  <!-- EN: Drop in center -->
   <DropInCenter>Släpp vid centrum</DropInCenter>
-
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>Attackera {0}: Släpp i kant</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>Attackera {0}: Släpp i centrum</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
   <VomitingLower>kräks</VomitingLower>
+  <!-- EN: not interruptible -->
   <NotInterruptibleLower>inte avbrytbar</NotInterruptibleLower>
-
+  
+  <!-- EN: Add a new waypoint here -->
   <AddWaypoint>Lägg till en ny vägpunkt här</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
   <RemoveWaypoint>Ta bort vägpunkt</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>Avbryt alla order</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>Berodra alla</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>{0} berörda</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>Förbjud alla fåremål</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>Tillåt alla föremål</UnforbidAllItems>
+  <!-- EN: Rearm all traps -->
+  <RearmAllTraps>Åretgillra alla fällor</RearmAllTraps>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>Zooma in och välj en landningsplats i {0}</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>Innehållet kommer att förloras</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>Formera karavan här</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>Ge till {0}</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>Ge som en gåva till {0} ({1})</GiveGiftViaTransportPods>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>Prige fånge</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>Erbjud hjälp</OfferHelp>
 
 </LanguageData>

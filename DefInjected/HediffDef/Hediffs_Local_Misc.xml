@@ -1,10 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>kemisk skada</ChemicalDamageModerate.label>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>kemisk skada</ChemicalDamageSevere.label>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>skrumplever</Cirrhosis.label>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>återupväckninggspsykos</ResurrectionPsychosis.label>
+  
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>trauma</TraumaSavant.labelNoun>
+  <!-- EN: trauma savant -->
   <TraumaSavant.label>trauma savant</TraumaSavant.label>
-  <ChemicalDamageModerate.label>chemical damage</ChemicalDamageModerate.label>
-  <ChemicalDamageSevere.label>chemical damage</ChemicalDamageSevere.label>
-  <Cirrhosis.label>Cirros</Cirrhosis.label>
-
-
+  
 </LanguageData>

@@ -1,12 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: water -->
+  <Marsh.tools.water.label>TODO</Marsh.tools.water.label>
+  <!-- EN: mud -->
+  <Marsh.tools.mud.label>TODO</Marsh.tools.mud.label>
+  <!-- EN: marsh -->
+  <Marsh.label>sumpmark</Marsh.label>
+  
+  <!-- EN: water -->
+  <WaterDeep.tools.water.label>TODO</WaterDeep.tools.water.label>
+  <!-- EN: deep water -->
   <WaterDeep.label>djupt vatten</WaterDeep.label>
-  <WaterOceanDeep.label>djupt havsvatten</WaterOceanDeep.label>
-  <WaterMovingDeep.label>djupt rörligt vatten</WaterMovingDeep.label>
-  <WaterShallow.label>grunt vatten</WaterShallow.label>
-  <WaterOceanShallow.label>grunt havsvatten</WaterOceanShallow.label>
+  
+  <!-- EN: water -->
+  <WaterMovingChestDeep.tools.water.label>TODO</WaterMovingChestDeep.tools.water.label>
+  <!-- EN: chest-deep moving water -->
+  <WaterMovingChestDeep.label>djupt rörligt vatten</WaterMovingChestDeep.label>
+  
+  <!-- EN: water -->
+  <WaterMovingShallow.tools.water.label>TODO</WaterMovingShallow.tools.water.label>
+  <!-- EN: shallow moving water -->
   <WaterMovingShallow.label>grunt rörligt vatten</WaterMovingShallow.label>
-
-
+  
+  <!-- EN: water -->
+  <WaterOceanDeep.tools.water.label>TODO</WaterOceanDeep.tools.water.label>
+  <!-- EN: deep ocean water -->
+  <WaterOceanDeep.label>djupt havsvatten</WaterOceanDeep.label>
+  
+  <!-- EN: water -->
+  <WaterOceanShallow.tools.water.label>TODO</WaterOceanShallow.tools.water.label>
+  <!-- EN: shallow ocean water -->
+  <WaterOceanShallow.label>grunt havsvatten</WaterOceanShallow.label>
+  
+  <!-- EN: water -->
+  <WaterShallow.tools.water.label>TODO</WaterShallow.tools.water.label>
+  <!-- EN: shallow water -->
+  <WaterShallow.label>grunt vatten</WaterShallow.label>
+  
 </LanguageData>

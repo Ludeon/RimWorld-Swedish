@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Hare.label>hare</Hare.label>
+  
   <Hare.labelPlural>harar</Hare.labelPlural>
   <Hare.lifeStages.0.label>harunge</Hare.lifeStages.0.label>
   <Hare.lifeStages.0.labelPlural>harungar</Hare.lifeStages.0.labelPlural>
@@ -25,8 +24,9 @@
   <Hare.labelMalePlural>harhanar</Hare.labelMalePlural>
   <Hare.labelFemale>harhona</Hare.labelFemale>
   <Hare.labelFemalePlural>harhonor</Hare.labelFemalePlural>
-
-  <Snowhare.label>snöhare</Snowhare.label>
+  <!-- EN: hare -->
+  <Hare.label>hare</Hare.label>
+  
   <Snowhare.labelPlural>snöharar</Snowhare.labelPlural>
   <Snowhare.lifeStages.0.label>snöhareunge</Snowhare.lifeStages.0.label>
   <Snowhare.lifeStages.0.labelPlural>snöhareungar</Snowhare.lifeStages.0.labelPlural>
@@ -50,6 +50,7 @@
   <Snowhare.labelMalePlural>snöharehanar</Snowhare.labelMalePlural>
   <Snowhare.labelFemale>snöharehona</Snowhare.labelFemale>
   <Snowhare.labelFemalePlural>snöharehonor</Snowhare.labelFemalePlural>
-
-
+  <!-- EN: snowhare -->
+  <Snowhare.label>snöhare</Snowhare.label>
+  
 </LanguageData>

@@ -1,182 +1,380 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
   <Tutorial>Lär dig spela</Tutorial>
+  <!-- EN: New colony -->
   <NewColony>Ny koloni</NewColony>
+  <!-- EN: Back to game -->
   <BackToGame>Tillbaka till spelet</BackToGame>
+  <!-- EN: Review scenario -->
   <ReviewScenario>Se scenario</ReviewScenario>
+  <!-- EN: Save -->
   <Save>Spara</Save>
+  <!-- EN: Load game -->
   <LoadGame>Ladda spel</LoadGame>
+  <!-- EN: Options -->
   <Options>Inställningar</Options>
+  <!-- EN: Mods -->
   <Mods>Moddar</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>Spara översättningsrapport</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>Generera  översättningsrapport</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Städa översättningsfiler</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Städar översättningsfiler</CleaningTranslationFiles>
+  <!-- EN: Credits -->
   <Credits>Medverkare</Credits>
+  <!-- EN: Quit to main menu -->
   <QuitToMainMenu>Avsluta till huvudmenyn</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Spara och avsluta till huvudmenyn</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
   <QuitToOS>Avsluta till OS</QuitToOS>
+  <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>Spara och avsluta till OS</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
   <FictionPrimer>Fiktionens grund</FictionPrimer>
+  <!-- EN: Ludeon blog -->
   <LudeonBlog>Ludeons blogg</LudeonBlog>
+  <!-- EN: Forums -->
   <Forums>Forum</Forums>
+  <!-- EN: Official wiki -->
   <OfficialWiki>Officiell wiki</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
   <TynansTwitter>Tynans twitter</TynansTwitter>
+  <!-- EN: Tynan's design book -->
   <TynansDesignBook>Tynans designbok</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Hjälp till att översätta RimWorld</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
   <BuySoundtrack>Köp musikspår</BuySoundtrack>
+  <!-- EN: Create world -->
   <CreateWorld>Tillverka egen Värld</CreateWorld>
 
-  <!--=========== Create/review world ================-->
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>Alla översättningar av RimWorld är fan-tillverkade. Denna fan-tillverkade översättning skapades av följande utmärkta volontärer:\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>Du kan också bidra. Klicka nedan för att lära dig mer (öppnar webbläsare).</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>Lär dig mer</LearnMore>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
   <ReviewWorld>Se värld</ReviewWorld>
+  <!-- EN: Generate -->
   <WorldGenerate>Generera</WorldGenerate>
+  <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Spara och avsluta</WorldSaveAndFinish>
+  <!-- EN: Reset -->
   <Reset>Återställ</Reset>
+  <!-- EN: Globe coverage -->
   <PlanetCoverage>Global täckning</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
   <PlanetRainfall>Övergripande nederbörd</PlanetRainfall>
+  <!-- EN: Overall temperature -->
   <PlanetTemperature>Övergripande temperatur</PlanetTemperature>
+  <!-- EN: Low -->
   <PlanetRainfall_Low>Låg</PlanetRainfall_Low>
+  <!-- EN: Normal -->
   <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <!-- EN: High -->
   <PlanetRainfall_High>Hög</PlanetRainfall_High>
+  <!-- EN: Low -->
   <PlanetTemperature_Low>Låg</PlanetTemperature_Low>
+  <!-- EN: Normal -->
   <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+  <!-- EN: High -->
   <PlanetTemperature_High>Hög</PlanetTemperature_High>
+  <!-- EN: Seed -->
   <WorldSeed>Frö</WorldSeed>
+  <!-- EN: Randomize seed -->
   <RandomizeSeed>Slumpa frö</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>Planeten är alltid samma diameter, men eftersom det är mycket större än vad som behövs för att spela, behöver vi inte genererar hela ytan eftersom det kan ta onödigt lång tid. Detta är den procentuella andelen av ytan som du vill genereras.</PlanetCoverageTip>
+  <!-- EN: Factions -->
   <WorldFactionsTab>Factions</WorldFactionsTab>
 
-  <!--=========== Select world ===================-->
+  <!-- Select world -->
+  <!-- EN: Select world -->
   <SelectWorld>Välj värd</SelectWorld>
+  <!-- EN: Select -->
   <WorldChooseButton>Välj</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>Ingen världsfil hittad. Skapa en värld först.</NoWorldsFilesFound>
-
-  <!--=========== Version info ==========-->
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Struktur {0} finns tillgänglig. Kolla ludeon.com för mer information.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
   <BuildUpToDate>Strukturen är aktuell.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>Fel när versionsinformationen skulle hämtas: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
   <LoadingVersionInfo>Laddar versionsinformation...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  <!-- World generator -->
+  <!-- EN: Generate world -->
   <GenerateWorld>Generera värld</GenerateWorld>
 
-  <!--=========== Mods config ==========-->
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>Öppna Steam Workshop</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
   <GetModsFromForum>Hämta moddar ifrån forum</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>Öppna datamappen för moddar</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>Visa moddars data plats</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärn-modden? Spelet kommer inte att funka alls om du inte har ett annat modd som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra moddar kan överskriva 'defs' i kärnmodden genom att använda samma 'defName'.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Är du säker på att du vill radera allt innehåll för {0}?</ConfirmDeleteMod>
+  <!-- EN: Unsubscribe -->
   <Unsubscribe>Avprenumerera</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>Är du säker på att du vill avprenumerera ifrån {0}?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
   <Author>Författare</Author>
+  <!-- EN: Workshop page -->
   <WorkshopPage>Workshop sida</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
   <UploadToSteamWorkshop>Ladda upp till Steam Workshop</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>Uppdatera på Steam Workshop</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>Uppdatering körs redan.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Workshop uppladdning gick fel.\n\nFelkod: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>Lyckad uppladdning {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
   <Downloading>Nerladdning</Downloading>
+  <!-- EN: Source -->
   <Source>Källa</Source>
+  <!-- EN: For version: {0} -->
   <ModTargetVersion>För version: {0}</ModTargetVersion>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Denna modden var inte tillverkad för denna versionen av RimWorld, och kommer troligtvis inte fungera korrekt.</ModNotMadeForThisVersion>
+  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
   <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: {0}.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Drag to reorder -->
   <DragToReorder>Drag för att beställa igen</DragToReorder>
-
-  <!--=========== Select scenario =============-->
+  
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
   <ChooseScenario>Välj scenario</ChooseScenario>
+  <!-- EN: Custom -->
   <ScenariosCustom>Special</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-  <ScenarioEditor>Scenario editor</ScenarioEditor>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>Scenarioeditor</ScenarioEditor>
+  <!-- EN: Delete -->
   <Delete>Radera</Delete>
-
-  <!--============ Scenario editor ===============-->
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
   <Seed>frö</Seed>
+  <!-- EN: Load -->
   <Load>Ladda</Load>
+  <!-- EN: edit mode -->
   <EditMode>Välj läge</EditMode>
+  <!-- EN: Summary -->
   <Summary>Summering</Summary>
+  <!-- EN: Add part -->
   <AddPart>Lägg till del</AddPart>
+  <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Alla text fält måste vara ifyllda.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>Är du säker på att du vill ladda upp detta till Steam Workshop?\n\nDu måste godkänna Steam Workshop användarevillkor. Se villkoren här:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>Du kan bara ladda upp saker du skapat själv.\n\nSkapade du detta innehåll själv?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
   <Incompatible>Inkompatibelt</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
   <TooMany>För många (max {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Kan bli uppdaterat till Workshop, eftersom du är ägaren.</CanBeUpdatedOnWorkshop>
-
-  <!--=========== Select storyteller ==========-->
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Välj AI berättare</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
   <HowStorytellersWork>AI Berättaren skapar event som plundringståg av pirater, räddningsfall, eller djurattacker. Deras val kommer att påverka din kolonis historia.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Välj en svårighetsnivå.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
   <Difficulty>Svårighetsnivå</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>Engagemangsläge</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>Ladda om när som helst läge</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>Vänligen välj engagemangsläge eller ladda om när som helst läge.</MustChoosePermadeath>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, it's designed to encourage recovery after losses. Even losing all but one person is not the end of the game - it's part of the story.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his parents got killed - loss and recovery is dramatic! -->
+  <PermadeathModeInfo>Du kan bara spara när du avslutar spelet.\n\n Eftersom RimWorld är en historia-generator, är den avsedd att uppmuntra till återhämtning efter förluster. Även om du förlorar allt utom en person är det inte slutet på spelet - det är en del av historien.\n\nSpela ut dessa hemska situationer gör en historia med både tragedi och triumf. Det är sättet RimWorld utformades för att spelas. Det finns anledning att Luke Skywalker inte slutade och ladda om när hans föräldrar blev dödade - förlust och återhämtning är dramatiskt!</PermadeathModeInfo>
+  <!-- EN: You can save and load the game at any time.\n\nThis isn't a bad choice if you're still learning the game, if it fits your personal playstyle or goals, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>Du kan spara och ladda spelet när som helst.\n\nDetta är inte ett dåligt val om du fortfarande lär dig spelet, om det passar din personliga spelstil eller mål, om du använder mod som kan göra sönder ditt spel eller om du har ett självständigt engagemangsläge.</ReloadAnytimeModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>Spelledare och svårigheter kan ändras när som helst.</CanChangeStorytellerSettingsDuringPlay>
 
-  <!--=========== Landing site select =========-->
+  <!-- Landing site select -->
+  <!-- EN: Select landing site -->
   <SelectLandingSite>Välj landingsplats</SelectLandingSite>
+  <!-- EN: Select random site -->
   <SelectRandomSite>Välj slumpplats</SelectRandomSite>
+  <!-- EN: Select site -->
   <SelectSite>Välj plats</SelectSite>
+  <!-- EN: Please select a landing site. -->
   <MustSelectLandingSite>Du måste välja en landningsplats.</MustSelectLandingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Du kan inte landa i den här biomen: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
   <BiomeNotImplemented>Biom är ej implementerad</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>Du kan inte landa på ogenomträngliga berg.</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
   <BaseAlreadyThere>{0} har redan en bas där.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>Du har redan en bas där.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
   <TileOccupied>Den här platsen är upptagen.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>Bosättningar kan inte vara direkt jämte varandra.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
   <Biome>Biom</Biome>
+  <!-- EN: Terrain -->
   <Terrain>Terräng</Terrain>
-  <Road>Road</Road>
-  <River>River</River>
+  <!-- EN: Road -->
+  <Road>Väg</Road>
+  <!-- EN: River -->
+  <River>Flod</River>
+  <!-- EN: Elevation -->
   <Elevation>Höjd</Elevation>
+  <!-- EN: Fertility -->
   <Fertility>Fertilitet</Fertility>
+  <!-- EN: Average temperature -->
   <AvgTemp>Medel Temp</AvgTemp>
-  <AvgSummerTemp>Medel Temp (sommar): {0}</AvgSummerTemp>
-  <AvgWinterTemp>Medel Temp (vinter): {0}</AvgWinterTemp>
+  <!-- EN: Rainfall -->
   <Rainfall>Nederbörd</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>Specialfunktioner</SpecialFeatures>
+  <!-- EN: northern coast -->
   <HasCoast0>Norra kusten</HasCoast0>
+  <!-- EN: eastern coast -->
   <HasCoast1>Östra kusten</HasCoast1>
+  <!-- EN: southern coast -->
   <HasCoast2>Södra kusten</HasCoast2>
+  <!-- EN: western coast -->
   <HasCoast3>Västra kusten</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>grottor</HasCaves>
+  <!-- EN: Faction base -->
   <FactionBase>Fraktionsbas</FactionBase>
+  <!-- EN: Stone types -->
   <StoneTypesHere>Stentyper</StoneTypesHere>
+  <!-- EN: Time zone -->
   <TimeZone>Tidszon</TimeZone>
-  <MovementTimeNow>Aktuell förflyttningstid</MovementTimeNow>
-  <MovementTimeSummer>förflyttningstid på Sommaren</MovementTimeSummer>
-  <MovementTimeWinter>förflyttningstid på Vintern</MovementTimeWinter>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>Rörelse svårigheter</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
   <AnimalsCanGrazeNow>Djur kan beta nu</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>Genomsnittlig sjukdomsfrekvens</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>per år</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>Samlingsmöjlighet</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Ingen av de valda personerna kan göra följande jobb:\n\n{0}\n\nDetta kan göra spelet svårare än vanligt. Är du säker på att du vill fortsätta?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
-
-  <!--=========== Character chooser ==========-->
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
   <CreateCharacters>Skapa karaktärer</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
   <FirstNameDesc>Karaktärens förnamn.\n\nDetta visas bara i vissa menyer.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
   <ShortIdentifierDesc>Karaktärens korta indentifierare.\n\nDetta visas hela tiden. Det kan vara för- eller efternamn, eller ett helt annat, separat namn.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
   <LastNameDesc>Karaktärens efternamn.\n\nDetta visas bara i vissa menyer.</LastNameDesc>
+  <!-- EN: Randomize -->
   <Randomize>Slumpa</Randomize>
+  <!-- EN: age {0} -->
   <AgeIndicator>ålder {0}</AgeIndicator>
+  <!-- EN: Backstory -->
   <Backstory>Bakgrundshistoria</Backstory>
+  <!-- EN: Incapable of -->
   <IncapableOf>Inkapabel av att</IncapableOf>
+  <!-- EN: Traits -->
   <Traits>Persondrag</Traits>
+  <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>Permanent humöreffekt</PermanentMoodEffect>
+  <!-- EN: Skills -->
   <Skills>Förmågor</Skills>
+  <!-- EN: none -->
   <NoneLower>inga</NoneLower>
+  <!-- EN: Adulthood -->
   <Adulthood>Vuxen ålder</Adulthood>
+  <!-- EN: Childhood -->
   <Childhood>Barndom</Childhood>
+  <!-- EN: Current -->
+  <Current>Nuvarande</Current>
+  <!-- EN: male -->
   <Male>Man</Male>
+  <!-- EN: female -->
   <Female>Kvinna</Female>
+  <!-- EN: male -->
+  <MaleAnimal>hane</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>hona</FemaleAnimal>
+  <!-- EN: Pain -->
   <Pain>Smärta</Pain>
+  <!-- EN: Health -->
   <Health>Hälsa</Health>
+  <!-- EN: Relations -->
   <Relations>Relationer</Relations>
-
-  <!--=========== Misc ==========-->
+  <!-- EN: Team skills -->
+  <TeamSkills>Lagfärdigheter</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>Vald</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>Kvarglömd</StartingPawnsLeftBehind>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
   <Start>Börja</Start>
+  <!-- EN: Advanced -->
   <Advanced>Avancerat</Advanced>
+  <!-- EN: Next -->
   <Next>Nästa</Next>
+  <!-- EN: Back -->
   <Back>Tillbaka</Back>
+  <!-- EN: Gameplay -->
   <Gameplay>Spel</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
   <ConfirmQuit>Vill du verkligen avsluta? Du förlorar osparad framgång.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>Varje person behöver ett giltigt namn.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>Ingen av de valda personerna kan göra följande jobb</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
   <Quit>Avsluta</Quit>
+  <!-- EN: Ignore -->
   <Ignore>Ignorera</Ignore>
-
-  <!--============ Progress bar==============-->
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
   <GeneratingWorld>Genererar värld</GeneratingWorld>
+  <!-- EN: Generating planet -->
   <GeneratingPlanet>Generating planet</GeneratingPlanet>
+  <!-- EN: Generating map -->
   <GeneratingMap>Genererar karta</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Genererar karta för nya möte</GeneratingMapForNewEncounter>
 
 </LanguageData>

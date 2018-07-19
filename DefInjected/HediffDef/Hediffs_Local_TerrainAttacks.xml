@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>jord</DirtInEyes.labelNoun>
+  <!-- EN: dirt -->
+  <DirtInEyes.label>jord</DirtInEyes.label>
+  
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>småsten</GravelInEyes.labelNoun>
+  <!-- EN: gravel -->
+  <GravelInEyes.label>småsten</GravelInEyes.label>
+  
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>lera</MudInEyes.labelNoun>
+  <!-- EN: mud -->
+  <MudInEyes.label>lera</MudInEyes.label>
+  
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>sand</SandInEyes.labelNoun>
+  <!-- EN: sand -->
+  <SandInEyes.label>sand</SandInEyes.label>
+  
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>vatten</WaterInEyes.labelNoun>
+  <!-- EN: water -->
+  <WaterInEyes.label>vatten</WaterInEyes.label>
+  
+</LanguageData>

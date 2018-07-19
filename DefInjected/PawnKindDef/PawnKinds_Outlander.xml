@@ -1,17 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Villager.label>bybo</Villager.label>
+  
+  <!-- EN: town councilmen -->
+  <Town_Councilman.labelPlural>rådsmän</Town_Councilman.labelPlural>
+  <!-- EN: town councilman -->
+  <Town_Councilman.label>rådsman</Town_Councilman.label>
+  
+  <Town_Guard.labelPlural>stadsvakter</Town_Guard.labelPlural>
+  <!-- EN: town guard -->
+  <Town_Guard.label>stadsvakt</Town_Guard.label>
+  
+  <Town_Trader.labelPlural>handelsmän</Town_Trader.labelPlural>
+  <!-- EN: town trader -->
+  <Town_Trader.label>handelsman</Town_Trader.label>
+  
   <Villager.labelPlural>bybor</Villager.labelPlural>
-
-  <TownCouncilman.label>rådsman</TownCouncilman.label>
-  <TownCouncilman.labelPlural>rådsmän</TownCouncilman.labelPlural>
-
-  <TownTrader.label>handelsman</TownTrader.label>
-  <TownTrader.labelPlural>handelsmän</TownTrader.labelPlural>
-
-  <TownGuard.label>stadsvakt</TownGuard.label>
-  <TownGuard.labelPlural>stadsvakter</TownGuard.labelPlural>
-
-
+  <!-- EN: villager -->
+  <Villager.label>bybo</Villager.label>
+  
 </LanguageData>

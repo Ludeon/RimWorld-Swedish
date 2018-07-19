@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Concepts taught in the entry screens -->
-
+  
+  <!-- EN: Zoom with the MOUSE WHEEL or {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nPan with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or by MIDDLE-CLICKING and DRAGGING. -->
+  <WorldCameraMovement.helpText>Zooma med MUSHJULET eller {Key:MapZoomIn} och {Key:MapZoomOut} tangenterna.\n\nFörflytta dig med {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tangenter, eller genom att KLICKA PÅ MITTENKNAPPEN och DRA.</WorldCameraMovement.helpText>
+  <!-- EN: World view camera movement -->
   <WorldCameraMovement.label>Kameraförlyttning i världen</WorldCameraMovement.label>
-  <WorldCameraMovement.helpText>Zooma med MOUSE WHEEL eller {Key:MapZoomIn} och {Key:MapZoomOut} tangenterna.\n\nFörflytta dig med  {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tangerner, eller genom att MIDDLE-CLICKING och DRAGGING.</WorldCameraMovement.helpText>
-
-
+  
 </LanguageData>

@@ -1,14 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Wealth.label>Rikedom</Wealth.label>
-  <Wealth.graphLabelY>Mängd</Wealth.graphLabelY>
-
-  <Population.label>Folkmängd</Population.label>
-  <Population.graphLabelY>Kolonister</Population.graphLabelY>
-
+  
+  <!-- EN: colonist mood -->
   <ColonistMood.label>Humör hos kolonister</ColonistMood.label>
-  <ColonistMood.graphLabelY>Procent</ColonistMood.graphLabelY>
+  
+  <!-- EN: debug -->
+  <Debug.label>debug</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>folkmängd</Population.label>
 
-
+  <!-- EN: wealth -->
+  <Wealth.label>Rikedom</Wealth.label>
+  
 </LanguageData>

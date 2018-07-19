@@ -1,12 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <WealthTotal.label>Rikedom (totalt)</WealthTotal.label>
-  <WealthItems.label>Rikedom (saker)</WealthItems.label>
-  <WealthBuildings.label>Rikedom (byggnader)</WealthBuildings.label>
-  <FreeColonists.label>Fria kolonister</FreeColonists.label>
-  <Prisoners.label>Fångar</Prisoners.label>
-  <ColonistMood.label>Humör</ColonistMood.label>
-
-
+  
+  <!-- EN: Days -->
+  <Adaptation.graphLabelY>Dagar</Adaptation.graphLabelY>
+  <!-- EN: adaptation -->
+  <Adaptation.label>anpassning</Adaptation.label>
+  
+  <!-- EN: Percent -->
+  <ColonistMood.graphLabelY>Procent</ColonistMood.graphLabelY>
+  <!-- EN: mood -->
+  <ColonistMood.label>humör</ColonistMood.label>
+  
+  <!-- EN: Colonists -->
+  <FreeColonists.graphLabelY>Kolonister</FreeColonists.graphLabelY>
+  <!-- EN: free colonists -->
+  <FreeColonists.label>fria kolonister</FreeColonists.label>
+  
+  <!-- EN: Prisoners -->
+  <Prisoners.graphLabelY>Fångar</Prisoners.graphLabelY>
+  <!-- EN: prisoners -->
+  <Prisoners.label>fångar</Prisoners.label>
+  
+  <!-- EN: Points -->
+  <ThreatPoints.graphLabelY>Poäng</ThreatPoints.graphLabelY>
+  <!-- EN: fun points / 10 -->
+  <ThreatPoints.label>glädjepoäng / 10</ThreatPoints.label>
+  
+  <!-- EN: Amount -->
+  <Wealth_Buildings.graphLabelY>Mängd</Wealth_Buildings.graphLabelY>
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>rikedom (byggnader)</Wealth_Buildings.label>
+  
+  <!-- EN: Amount -->
+  <Wealth_Items.graphLabelY>Mängd</Wealth_Items.graphLabelY>
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>rikedom (saker)</Wealth_Items.label>
+  
+  <!-- EN: Amount -->
+  <Wealth_TameAnimals.graphLabelY>Mängd</Wealth_TameAnimals.graphLabelY>
+  <!-- EN: wealth (animals) -->
+  <Wealth_TameAnimals.label>rikedom (djur)</Wealth_TameAnimals.label>
+  
+  <!-- EN: Amount -->
+  <Wealth_Total.graphLabelY>Mängd</Wealth_Total.graphLabelY>
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>rikedom (totalt)</Wealth_Total.label>
+  
 </LanguageData>

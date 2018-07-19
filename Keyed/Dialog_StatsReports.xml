@@ -1,40 +1,114 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: Tool -->
+  <Tool>Verktyg</Tool>
+  <!-- EN: damage -->
+  <DamageLower>skada</DamageLower>
+  <!-- EN: seconds per attack -->
+  <SecondsPerAttackLower>sekunder per attack</SecondsPerAttackLower>
+
+  <!-- EN: Base value -->
   <StatsReport_BaseValue>Basvärde</StatsReport_BaseValue>
+  <!-- EN: Relevant traits -->
   <StatsReport_RelevantTraits>Relevanta egenskaper</StatsReport_RelevantTraits>
+  <!-- EN: Relevant gear -->
   <StatsReport_RelevantGear>Relevant utrustning</StatsReport_RelevantGear>
+  <!-- EN: Relevant health conditions -->
   <StatsReport_RelevantHediffs>Relevant hälsotillstånd</StatsReport_RelevantHediffs>
+  <!-- EN: Life stage -->
   <StatsReport_LifeStage>Livsstadie</StatsReport_LifeStage>
+  <!-- EN: Material -->
   <StatsReport_Material>Material</StatsReport_Material>
+  <!-- EN: Character quality -->
   <StatsReport_CharacterQuality>Karaktärskvalitet</StatsReport_CharacterQuality>
+  <!-- EN: Skills -->
   <StatsReport_Skills>Skicklighetsfaktorer</StatsReport_Skills>
+  <!-- EN: Other stats -->
   <StatsReport_OtherStats>Faktor för övriga förmågor</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Hälsofaktorer</StatsReport_HealthFactors>
+  <!-- EN: Health -->
+  <StatsReport_Health>Hälsa</StatsReport_Health>
+  <!-- EN: {0} importance -->
   <HealthFactorPercentImpact>{0} relevans</HealthFactorPercentImpact>
+  <!-- EN: {0} impact -->
+  <HealthOffsetScale>påverkan</HealthOffsetScale>
+  <!-- EN: {0} max -->
   <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
+  <!-- EN: if below {0} -->
+  <HealthFactorAllowedDefect>om under {0}</HealthFactorAllowedDefect>
+  <!-- EN: Post-process curve -->
   <StatsReport_PostProcessed>Efterbehandlad kurva</StatsReport_PostProcessed>
+  <!-- EN: Final value -->
   <StatsReport_FinalValue>Slutgiltigt värde</StatsReport_FinalValue>
-  <StatsReport_MarketValueFromStuffsAndWork>Grundläggande marknadsvärde beräknas från mängden konstruktionsmaterial och arbete som krävs.</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- EN: Materials and labor -->
+  <StatsReport_MarketValueFromStuffsAndWork>Material och arbete</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>Kvalitetsmultiplikator</StatsReport_QualityMultiplier>
+  <!-- EN: Max gain -->
+  <StatsReport_MaxGain>Max vinst</StatsReport_MaxGain>
+  <!-- EN: Multiplier for age {0} -->
   <StatsReport_AgeMultiplier>Åldersmultiplikator {0}</StatsReport_AgeMultiplier>
+  <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>Hälsomultiplikator {0}</StatsReport_HealthMultiplier>
+  <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>Humörsmultiplikator {0}</StatsReport_MoodMultiplier>
+  <!-- EN: Multiplier for light {0} -->
+  <StatsReport_LightMultiplier>Ljusmultiplikator {0}</StatsReport_LightMultiplier>
+  <!-- EN: Multiplier for difficulty {0} -->
   <StatsReport_DifficultyMultiplier>Svårighetsmultiplikator {0}</StatsReport_DifficultyMultiplier>
+  <!-- EN: In bed -->
   <StatsReport_InBed>I sängen</StatsReport_InBed>
+  <!-- EN: Facilities -->
   <StatsReport_Facilities>Faciliteter</StatsReport_Facilities>
+  <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>Kroppsstorleksmultiplikator {0}</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>Förmågan visas på följande format:\nDPS ( Närstridsskada / Återhämtning i sekunder / Träffchans i närstrid )\n\nDPS = Närstridsskada * Träffchans i närstrid / Återhämtning i sekunder</StatsReport_MeleeDPSExplanation>
+  <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
+  <StatsReport_MeleeDPSExplanation>DPS = Närstridsskada * Träffchans i närstrid / Återhämtning i sekunder</StatsReport_MeleeDPSExplanation>
+  <!-- EN: Melee damage -->
   <StatsReport_MeleeDamage>Närstridsskada</StatsReport_MeleeDamage>
+  <!-- EN: Cooldown -->
   <StatsReport_Cooldown>Återhämtning</StatsReport_Cooldown>
+  <!-- EN: Melee hit chance -->
   <StatsReport_MeleeHitChance>Träffchans i närstrid</StatsReport_MeleeHitChance>
+  <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} sek</StatsReport_CooldownFormat>
+  <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>Förväntad livslängd</StatsReport_LifeExpectancy>
+  <!-- EN: Multiplier for missing body parts -->
   <StatsReport_MissingBodyParts>Multiplikator för saknade kroppsdelar</StatsReport_MissingBodyParts>
-  <StatsReport_GearAndInventoryMass>Utrustning och lagermassa</StatsReport_GearAndInventoryMass>
+  <!-- EN: Gear and inventory -->
+  <StatsReport_GearAndInventoryMass>Utrustning och lager</StatsReport_GearAndInventoryMass>
+  <!-- EN: Multiplier for worn by corpse -->
   <StatsReport_WornByCorpse>Multiplikator för bärande av lik</StatsReport_WornByCorpse>
+  <!-- EN: average of all attacks -->
   <AverageOfAllAttacks>medelvärde av alla attacker</AverageOfAllAttacks>
+  <!-- EN: Scenario -->
   <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
+  <!-- EN: Ingredients -->
   <StatsReport_IngredientsMass>Ingredienser</StatsReport_IngredientsMass>
+  <!-- EN: Permanently disabled. -->
+  <StatsReport_PermanentlyDisabled>Permanent handikappad.</StatsReport_PermanentlyDisabled>
+  <!-- EN: {0} -->
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <!-- EN: Added body parts -->
+  <StatsReport_AddedBodyPartsMass>Tillagda kroppsdelar</StatsReport_AddedBodyPartsMass>
+  <!-- EN: Material effect multiplier -->
+  <StatsReport_StuffEffectMultiplier>Materialeffektmultiplikator</StatsReport_StuffEffectMultiplier>
+  <!-- EN: Resting -->
+  <StatsReport_Resting>Vilar</StatsReport_Resting>
+  <!-- EN: recreation type -->
+  <StatsReport_JoyKind>rekreationstyp</StatsReport_JoyKind>
+  <!-- EN: work to uninstall -->
+  <StatsReport_WorkToUninstall>arbete för att avinstallera</StatsReport_WorkToUninstall>
+  <!-- EN: Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth>Multiplikator för tillväxt</StatsReport_PlantGrowth>
+  <!-- EN: scaled because wild -->
+  <StatsReport_PlantGrowth_Wild>skalas eftersom vild</StatsReport_PlantGrowth_Wild>
+  <!-- EN: Not flesh -->
+  <StatsReport_NotFlesh>Inte kött</StatsReport_NotFlesh>
+  <!-- EN: Not fresh -->
+  <StatsReport_NotFresh>Inte färskt</StatsReport_NotFresh>
+  <!-- EN: Wild man -->
+  <StatsReport_WildMan>Vildman</StatsReport_WildMan>
 
 </LanguageData>

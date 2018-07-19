@@ -1,74 +1,136 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- EN: Autosaving -->
   <Autosaving>Autosparning</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
   <GameStartDialog>Ni tre vaknar från er cryptosömn av ljudet från sirener och gnisslande metal. Ni hinner precis till nödkapslarna innan ert skepp slits isär. \n\nEn tid senare landar ni på denna, för er okända värld.\n\nMedan delarna från ert sönderslitna skepp faller runt er, börjar ni att planera för att överleva.</GameStartDialog>
+  <!-- EN: Colony -->
   <Colony>Koloni</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
   <ChangeLanguageFromMainMenu>Du kan bara ändra språket från inställningarna från startmenyn.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
   <AndLower>och</AndLower>
+  <!-- EN: disabled -->
   <DisabledLower>avstängd</DisabledLower>
 
-
+  <!-- EN: Version {0} -->
   <VersionIndicator>Version {0}</VersionIndicator>
+  <!-- EN: development build -->
   <DevelopmentBuildLower>utvecklings version</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
   <CompiledOn>Kompillerad {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Inloggad i Steam som {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
+  <!-- EN: Yes -->
   <Yes>Ja</Yes>
+  <!-- EN: No -->
   <No>Nej</No>
+  <!-- EN: min -->
   <min>min</min>
+  <!-- EN: max -->
   <max>max</max>
+  <!-- EN: chance -->
   <chance>chans</chance>
+  <!-- EN: context -->
   <context>kontext</context>
+  <!-- EN: multiplier -->
   <multiplier>multiplikator</multiplier>
+  <!-- EN: damage -->
   <damage>skada</damage>
+  <!-- EN: radius -->
   <radius>radie</radius>
+  <!-- EN: duration (days) -->
   <durationDays>varaktighet (dagar)</durationDays>
+  <!-- EN: interval (days) -->
   <intervalDays>intervall (dagar)</intervalDays>
+  <!-- EN: repeat -->
   <repeat>upprepa</repeat>
+  <!-- EN: default -->
   <default>standard</default>
+  <!-- EN: distance -->
+  <distance>distans</distance>
+  <!-- EN: YES -->
+  <YesUppercase>JA</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>NEJ</NoUppercase>
+  <!-- EN: kg -->
+  <kg>kg</kg>
+  <!-- EN: Day -->
+  <Day>Dag</Day>
+  <!-- EN: day -->
+  <day>dag</day>
+  <!-- EN: Default -->
+  <Default>Standard</Default>
+  <!-- EN: Average -->
+  <Average>Medel</Average>
 
   <!-- Content generation-->
-
+  
+  <!-- EN: {0} meat -->
   <MeatLabel>{0} kött</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>Rått kött från en {0}. Kan bli lagad till mat eller ätas rå.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>Rått slaktat kött. Om det behövs kan du laga mat, eller till och med ätas rå. Extremt otrevlig.</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>Rått slaktat kött. Kan kokas i måltider eller ätas rå, även om de flesta människor ogillar tanken.</MeatHumanDesc>
 
-  <LeatherLabel>{0} läder</LeatherLabel>
-  <LeatherDesc>Garvat, torkat oxh skrapad hud. Ett bra traditionellt material för att göra kläder och väskor.</LeatherDesc>
-
+  <!-- EN: {0} corpse -->
   <CorpseLabel>{0} kadaver</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>{0}'s döda kropp.</CorpseDesc>
+  <!-- EN: {0} (dead) -->
   <DeadLabel>{0} (död)</DeadLabel>
 
+  <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>ojämn {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
   <RoughStoneTerrainDesc>Ojämn, naturlig {0} mark.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
   <RoughHewnStoneTerrainLabel>grovhuggen {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>Grovt hugget naturligt {0} golv.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
   <SmoothStoneTerrainLabel>slät {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>Slätt naturligt {0} golv.</SmoothStoneTerrainDesc>
 
+  <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra> (ritning)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
   <FrameLabelExtra> (byggnad)</FrameLabelExtra>
 
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>Obunden</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
-  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
 
+  <!-- EN: {0}'s {1} -->
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
+  <!-- EN: {0} and {1}'s {2} -->
   <CouplesRoom>{0} och {1}'s {2}</CouplesRoom>
-
+  
+  <!-- EN: (various) -->
   <VariousLabel>(diverse)</VariousLabel>
 
   <!-- History events -->
+  <!-- EN: Colonist died -->
   <ColonistDied>Kolonist dog</ColonistDied>
-
+  
   <!-- Rotation -->
+  <!-- EN: North -->
   <North>Nord</North>
+  <!-- EN: South -->
   <South>Syd</South>
+  <!-- EN: West -->
   <West>Väst</West>
+  <!-- EN: East -->
   <East>Öst</East>
-
 
 </LanguageData>

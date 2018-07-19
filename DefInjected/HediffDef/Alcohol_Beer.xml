@@ -1,29 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <AlcoholHigh.label>alcohol</AlcoholHigh.label>
-  <AlcoholHigh.stages.0.label>små-suddig</AlcoholHigh.stages.0.label>
-  <AlcoholHigh.stages.1.label>varm</AlcoholHigh.stages.1.label>
-  <AlcoholHigh.stages.2.label>berusad</AlcoholHigh.stages.2.label>
-  <AlcoholHigh.stages.3.label>full</AlcoholHigh.stages.3.label>
-  <AlcoholHigh.stages.4.label>kraftigt-berusad</AlcoholHigh.stages.4.label>
-  <AlcoholHigh.stages.5.label>medvetslös</AlcoholHigh.stages.5.label>
-
-  <Hangover.label>Bakfull</Hangover.label>
-  <Hangover.stages.0.label>lätt</Hangover.stages.0.label>
-  <Hangover.stages.1.label>stark</Hangover.stages.1.label>
-  <Hangover.stages.2.label>bultande</Hangover.stages.2.label>
-
-
-  <!-- Alcohol addiction -->
-
-  <AlcoholTolerance.label>alkoholtolerans</AlcoholTolerance.label>
-  <AlcoholTolerance.stages.1.label>liten</AlcoholTolerance.stages.1.label>
-  <AlcoholTolerance.stages.2.label>stor</AlcoholTolerance.stages.2.label>
-  <AlcoholTolerance.stages.3.label>enorm</AlcoholTolerance.stages.3.label>
-
+  
+  <!-- EN: withdrawal -->
+  <AlcoholAddiction.stages.withdrawal.label>abstinens</AlcoholAddiction.stages.withdrawal.label>
+  <!-- EN: alcohol addiction -->
   <AlcoholAddiction.label>alkoholmissbruk</AlcoholAddiction.label>
-  <AlcoholAddiction.stages.1.label>abstinens</AlcoholAddiction.stages.1.label>
-
-
+  
+  <!-- EN: warm -->
+  <AlcoholHigh.stages.warm.label>små-suddig</AlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <AlcoholHigh.stages.tipsy.label>varm</AlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <AlcoholHigh.stages.drunk.label>berusad</AlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <AlcoholHigh.stages.hammered.label>full</AlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <AlcoholHigh.stages.blackout.label>kraftigt-berusad</AlcoholHigh.stages.blackout.label>
+  <!-- EN: drunkenness -->
+  <AlcoholHigh.labelNoun>redlös</AlcoholHigh.labelNoun>
+  <!-- EN: alcohol -->
+  <AlcoholHigh.label>alcohol</AlcoholHigh.label>
+  
+  <!-- EN: small -->
+  <AlcoholTolerance.stages.small-1.label>liten</AlcoholTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <AlcoholTolerance.stages.large.label>stor</AlcoholTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AlcoholTolerance.stages.massive.label>enorm</AlcoholTolerance.stages.massive.label>
+  <!-- EN: alcohol tolerance -->
+  <AlcoholTolerance.label>alkoholtolerans</AlcoholTolerance.label>
+  
+  <!-- EN: slight -->
+  <Hangover.stages.slight.label>lätt</Hangover.stages.slight.label>
+  <!-- EN: strong -->
+  <Hangover.stages.strong.label>stark</Hangover.stages.strong.label>
+  <!-- EN: pounding -->
+  <Hangover.stages.pounding.label>bultande</Hangover.stages.pounding.label>
+  <!-- EN: a hangover -->
+  <Hangover.labelNoun>en bakfylla</Hangover.labelNoun>
+  <!-- EN: hangover -->
+  <Hangover.label>bakfull</Hangover.label>
+  
 </LanguageData>

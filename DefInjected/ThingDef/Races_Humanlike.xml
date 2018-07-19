@@ -1,15 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: left fist -->
+  <Human.tools.left_fist.label>TODO</Human.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Human.tools.right_fist.label>TODO</Human.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <Human.tools.teeth.label>TODO</Human.tools.teeth.label>
+  <!-- EN: head -->
+  <Human.tools.head.label>TODO</Human.tools.head.label>
+  <!-- EN: human -->
   <Human.label>människa</Human.label>
+  <!-- EN: A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. -->
   <Human.description>En standardmänniska, mestadels omodifierad genom genteknik och mestadels oförändrad genom evolutionära tryck på icke-Jord planeter.</Human.description>
-  <Human_Leather.label>människohud</Human_Leather.label>
-  <Human_Leather.description>människohud</Human_Leather.description>
-  <Human_Leather.stuffProps.stuffAdjective>människohud</Human_Leather.stuffProps.stuffAdjective>
-  <Human_Meat.label>människokött</Human_Meat.label>
-  <Human_Meat.description>människokött</Human_Meat.description>
-  <Human_Corpse.label>människokropp</Human_Corpse.label>
-  <Human_Corpse.description>människokropp</Human_Corpse.description>
-
-
+  
 </LanguageData>

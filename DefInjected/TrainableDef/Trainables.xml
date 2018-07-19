@@ -1,17 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Obedience.label>lydnad</Obedience.label>
-  <Obedience.description>Djuret kan tilldelas en herre som den kommer att följa och försvara.</Obedience.description>
-
-  <Release.label>släpp loss</Release.label>
-  <Release.description>Djuret kan släppas loss för att attackera avlägsna mål i stället för att bara försvara herren.</Release.description>
-
-  <Rescue.label>rädda</Rescue.label>
-  <Rescue.description>Djuret kommer att rädda sårade allierade och frakta dem till säkerhet.</Rescue.description>
-
+  
+  <!-- EN: haul -->
   <Haul.label>frakta</Haul.label>
+  <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
   <Haul.description>Djuret kommer slumpmässigt frakta föremål då och då (även om det inte kan riktas att frakta specifika objekt).</Haul.description>
-
-
+  
+  <!-- EN: obedience -->
+  <Obedience.label>lydnad</Obedience.label>
+  <!-- EN: The animal can be assigned a master who it will follow and defend. -->
+  <Obedience.description>Djuret kan tilldelas en herre som den kommer att följa och försvara.</Obedience.description>
+  
+  <!-- EN: release -->
+  <Release.label>släpp loss</Release.label>
+  <!-- EN: The animal can be released to attack distant targets instead of just defending its master. -->
+  <Release.description>Djuret kan släppas loss för att attackera avlägsna mål i stället för att bara försvara herren.</Release.description>
+  
+  <!-- EN: rescue -->
+  <Rescue.label>rädda</Rescue.label>
+  <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
+  <Rescue.description>Djuret kommer att rädda sårade allierade och frakta dem till säkerhet.</Rescue.description>
+  
+  <!-- EN: tameness -->
+  <Tameness.label>TODO</Tameness.label>
+  <!-- EN: The animal can learn to consider itself a member of your colony. -->
+  <Tameness.description>TODO</Tameness.description>
+  
 </LanguageData>

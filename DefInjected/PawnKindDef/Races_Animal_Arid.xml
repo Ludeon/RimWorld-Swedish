@@ -1,32 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Muffalo.label>muffel</Muffalo.label>
-  <Muffalo.labelPlural>mufflar</Muffalo.labelPlural>
-  <Muffalo.lifeStages.0.label>muffelkalv</Muffalo.lifeStages.0.label>
-  <Muffalo.lifeStages.0.labelPlural>muffelkalvar</Muffalo.lifeStages.0.labelPlural>
-  <Muffalo.lifeStages.0.labelMale>muffeltjurkalv</Muffalo.lifeStages.0.labelMale>
-  <Muffalo.lifeStages.0.labelMalePlural>muffeltjurkalvar</Muffalo.lifeStages.0.labelMalePlural>
-  <Muffalo.lifeStages.0.labelFemale>muffelkvigkalv</Muffalo.lifeStages.0.labelFemale>
-  <Muffalo.lifeStages.0.labelFemalePlural>muffelkvigkalvar</Muffalo.lifeStages.0.labelFemalePlural>
-  <Muffalo.lifeStages.1.label>muffel</Muffalo.lifeStages.1.label>
-  <Muffalo.lifeStages.1.labelPlural>mufflar</Muffalo.lifeStages.1.labelPlural>
-  <Muffalo.lifeStages.1.labelMale>muffeltjur</Muffalo.lifeStages.1.labelMale>
-  <Muffalo.lifeStages.1.labelMalePlural>muffeltjurar</Muffalo.lifeStages.1.labelMalePlural>
-  <Muffalo.lifeStages.1.labelFemale>muffelkviga</Muffalo.lifeStages.1.labelFemale>
-  <Muffalo.lifeStages.1.labelFemalePlural>muffelkvigor</Muffalo.lifeStages.1.labelFemalePlural>
-  <Muffalo.lifeStages.2.label>muffel</Muffalo.lifeStages.2.label>
-  <Muffalo.lifeStages.2.labelPlural>mufflar</Muffalo.lifeStages.2.labelPlural>
-  <Muffalo.lifeStages.2.labelMale>muffeltjur</Muffalo.lifeStages.2.labelMale>
-  <Muffalo.lifeStages.2.labelMalePlural>muffeltjurar</Muffalo.lifeStages.2.labelMalePlural>
-  <Muffalo.lifeStages.2.labelFemale>muffelkviga</Muffalo.lifeStages.2.labelFemale>
-  <Muffalo.lifeStages.2.labelFemalePlural>muffelkvigor</Muffalo.lifeStages.2.labelFemalePlural>
-  <Muffalo.labelMale>muffeltjur</Muffalo.labelMale>
-  <Muffalo.labelMalePlural>muffeltjurara</Muffalo.labelMalePlural>
-  <Muffalo.labelFemale>muffelko</Muffalo.labelFemale>
-  <Muffalo.labelFemalePlural>muffelkor</Muffalo.labelFemalePlural>
-
-  <Gazelle.label>gazell</Gazelle.label>
+  
+  <!-- EN: dromedaries -->
+  <Dromedary.labelPlural>dromedarer</Dromedary.labelPlural>
+  <!-- EN: dromedary calf -->
+  <Dromedary.lifeStages.dromedary_calf.label>dromedarkalv</Dromedary.lifeStages.dromedary_calf.label>
+  <!-- EN: dromedary calves -->
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>dromedarkalvar</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.labelMale>dromedartjurkalv</Dromedary.lifeStages.dromedary_calf.labelMale>
+  <Dromedary.lifeStages.dromedary_calf.labelMalePlural>dromedartjurkalvar</Dromedary.lifeStages.dromedary_calf.labelMalePlural>
+  <Dromedary.lifeStages.dromedary_calf.labelFemale>dromedarkvigkalv</Dromedary.lifeStages.dromedary_calf.labelFemale>
+  <Dromedary.lifeStages.dromedary_calf.labelFemalePlural>dromedarkvigkalvar</Dromedary.lifeStages.dromedary_calf.labelFemalePlural>
+  <Dromedary.lifeStages.1.label>dromedar</Dromedary.lifeStages.1.label>
+  <Dromedary.lifeStages.1.labelPlural>dromedarer</Dromedary.lifeStages.1.labelPlural>
+  <Dromedary.lifeStages.1.labelMale>dromedartjur</Dromedary.lifeStages.1.labelMale>
+  <Dromedary.lifeStages.1.labelMalePlural>dromedartjurar</Dromedary.lifeStages.1.labelMalePlural>
+  <Dromedary.lifeStages.1.labelFemale>dromedarkviga</Dromedary.lifeStages.1.labelFemale>
+  <Dromedary.lifeStages.1.labelFemalePlural>dromedarkvigor</Dromedary.lifeStages.1.labelFemalePlural>
+  <Dromedary.lifeStages.2.label>dromedar</Dromedary.lifeStages.2.label>
+  <Dromedary.lifeStages.2.labelPlural>dromedarer</Dromedary.lifeStages.2.labelPlural>
+  <Dromedary.lifeStages.2.labelMale>dromedartjur</Dromedary.lifeStages.2.labelMale>
+  <Dromedary.lifeStages.2.labelMalePlural>dromedartjurar</Dromedary.lifeStages.2.labelMalePlural>
+  <Dromedary.lifeStages.2.labelFemale>dromedarkviga</Dromedary.lifeStages.2.labelFemale>
+  <Dromedary.lifeStages.2.labelFemalePlural>dromedarkvigor</Dromedary.lifeStages.2.labelFemalePlural>
+  <Dromedary.labelMale>dromedartjur</Dromedary.labelMale>
+  <Dromedary.labelMalePlural>dromedartjurar</Dromedary.labelMalePlural>
+  <Dromedary.labelFemale>dromedarko</Dromedary.labelFemale>
+  <Dromedary.labelFemalePlural>dromedarkor</Dromedary.labelFemalePlural>
+  <!-- EN: dromedary -->
+  <Dromedary.label>dromedar</Dromedary.label>
+  
   <Gazelle.labelPlural>gazeller</Gazelle.labelPlural>
   <Gazelle.lifeStages.0.label>gazell</Gazelle.lifeStages.0.label>
   <Gazelle.lifeStages.0.labelPlural>gazeller</Gazelle.lifeStages.0.labelPlural>
@@ -50,8 +53,9 @@
   <Gazelle.labelMalePlural>gazellhanar</Gazelle.labelMalePlural>
   <Gazelle.labelFemale>gazellhona</Gazelle.labelFemale>
   <Gazelle.labelFemalePlural>gazellhonor</Gazelle.labelFemalePlural>
-
-  <Iguana.label>leguan</Iguana.label>
+  <!-- EN: gazelle -->
+  <Gazelle.label>gazell</Gazelle.label>
+  
   <Iguana.labelPlural>leguaner</Iguana.labelPlural>
   <Iguana.lifeStages.0.label>leguan</Iguana.lifeStages.0.label>
   <Iguana.lifeStages.0.labelPlural>leguaner</Iguana.lifeStages.0.labelPlural>
@@ -75,56 +79,35 @@
   <Iguana.labelMalePlural>leguanhanar</Iguana.labelMalePlural>
   <Iguana.labelFemale>leguanhona</Iguana.labelFemale>
   <Iguana.labelFemalePlural>leguanhonor</Iguana.labelFemalePlural>
-
-  <Rhinoceros.label>noshörning</Rhinoceros.label>
-  <Rhinoceros.labelPlural>noshörningar</Rhinoceros.labelPlural>
-  <Rhinoceros.lifeStages.0.label>noshörning</Rhinoceros.lifeStages.0.label>
-  <Rhinoceros.lifeStages.0.labelPlural>noshörningar</Rhinoceros.lifeStages.0.labelPlural>
-  <Rhinoceros.lifeStages.0.labelMale>noshörninghane</Rhinoceros.lifeStages.0.labelMale>
-  <Rhinoceros.lifeStages.0.labelMalePlural>noshörninghanar</Rhinoceros.lifeStages.0.labelMalePlural>
-  <Rhinoceros.lifeStages.0.labelFemale>noshörninghona</Rhinoceros.lifeStages.0.labelFemale>
-  <Rhinoceros.lifeStages.0.labelFemalePlural>noshörninghonor</Rhinoceros.lifeStages.0.labelFemalePlural>
-  <Rhinoceros.lifeStages.1.label>noshörning</Rhinoceros.lifeStages.1.label>
-  <Rhinoceros.lifeStages.1.labelPlural>noshörningar</Rhinoceros.lifeStages.1.labelPlural>
-  <Rhinoceros.lifeStages.1.labelMale>noshörninghane</Rhinoceros.lifeStages.1.labelMale>
-  <Rhinoceros.lifeStages.1.labelMalePlural>noshörninghanar</Rhinoceros.lifeStages.1.labelMalePlural>
-  <Rhinoceros.lifeStages.1.labelFemale>noshörninghona</Rhinoceros.lifeStages.1.labelFemale>
-  <Rhinoceros.lifeStages.1.labelFemalePlural>noshörninghonor</Rhinoceros.lifeStages.1.labelFemalePlural>
-  <Rhinoceros.lifeStages.2.label>noshörning</Rhinoceros.lifeStages.2.label>
-  <Rhinoceros.lifeStages.2.labelPlural>noshörningar</Rhinoceros.lifeStages.2.labelPlural>
-  <Rhinoceros.lifeStages.2.labelMale>noshörninghane</Rhinoceros.lifeStages.2.labelMale>
-  <Rhinoceros.lifeStages.2.labelMalePlural>noshörninghanar</Rhinoceros.lifeStages.2.labelMalePlural>
-  <Rhinoceros.lifeStages.2.labelFemale>noshörninghona</Rhinoceros.lifeStages.2.labelFemale>
-  <Rhinoceros.lifeStages.2.labelFemalePlural>noshörninghonor</Rhinoceros.lifeStages.2.labelFemalePlural>
-  <Rhinoceros.labelMale>noshörninghane</Rhinoceros.labelMale>
-  <Rhinoceros.labelMalePlural>noshörninghanar</Rhinoceros.labelMalePlural>
-  <Rhinoceros.labelFemale>noshörninghona</Rhinoceros.labelFemale>
-  <Rhinoceros.labelFemalePlural>noshörninghonor</Rhinoceros.labelFemalePlural>
-
-  <Dromedary.label>dromedar</Dromedary.label>
-  <Dromedary.labelPlural>dromedarer</Dromedary.labelPlural>
-  <Dromedary.lifeStages.0.label>dromedarkalv</Dromedary.lifeStages.0.label>
-  <Dromedary.lifeStages.0.labelPlural>dromedarkalvar</Dromedary.lifeStages.0.labelPlural>
-  <Dromedary.lifeStages.0.labelMale>dromedartjurkalv</Dromedary.lifeStages.0.labelMale>
-  <Dromedary.lifeStages.0.labelMalePlural>dromedartjurkalvar</Dromedary.lifeStages.0.labelMalePlural>
-  <Dromedary.lifeStages.0.labelFemale>dromedarkvigkalv</Dromedary.lifeStages.0.labelFemale>
-  <Dromedary.lifeStages.0.labelFemalePlural>dromedarkvigkalvar</Dromedary.lifeStages.0.labelFemalePlural>
-  <Dromedary.lifeStages.1.label>dromedar</Dromedary.lifeStages.1.label>
-  <Dromedary.lifeStages.1.labelPlural>dromedarer</Dromedary.lifeStages.1.labelPlural>
-  <Dromedary.lifeStages.1.labelMale>dromedartjur</Dromedary.lifeStages.1.labelMale>
-  <Dromedary.lifeStages.1.labelMalePlural>dromedartjurar</Dromedary.lifeStages.1.labelMalePlural>
-  <Dromedary.lifeStages.1.labelFemale>dromedarkviga</Dromedary.lifeStages.1.labelFemale>
-  <Dromedary.lifeStages.1.labelFemalePlural>dromedarkvigor</Dromedary.lifeStages.1.labelFemalePlural>
-  <Dromedary.lifeStages.2.label>dromedar</Dromedary.lifeStages.2.label>
-  <Dromedary.lifeStages.2.labelPlural>dromedarer</Dromedary.lifeStages.2.labelPlural>
-  <Dromedary.lifeStages.2.labelMale>dromedartjur</Dromedary.lifeStages.2.labelMale>
-  <Dromedary.lifeStages.2.labelMalePlural>dromedartjurar</Dromedary.lifeStages.2.labelMalePlural>
-  <Dromedary.lifeStages.2.labelFemale>dromedarkviga</Dromedary.lifeStages.2.labelFemale>
-  <Dromedary.lifeStages.2.labelFemalePlural>dromedarkvigor</Dromedary.lifeStages.2.labelFemalePlural>
-  <Dromedary.labelMale>dromedartjur</Dromedary.labelMale>
-  <Dromedary.labelMalePlural>dromedartjurar</Dromedary.labelMalePlural>
-  <Dromedary.labelFemale>dromedarko</Dromedary.labelFemale>
-  <Dromedary.labelFemalePlural>dromedarkor</Dromedary.labelFemalePlural>
-
-
+  <!-- EN: iguana -->
+  <Iguana.label>leguan</Iguana.label>
+  
+  <Muffalo.labelPlural>mufflar</Muffalo.labelPlural>
+  <!-- EN: muffalo calf -->
+  <Muffalo.lifeStages.muffalo_calf.label>muffelkalv</Muffalo.lifeStages.muffalo_calf.label>
+  <!-- EN: muffalo calves -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>muffelkalvar</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.muffalo_calf.labelMale>muffeltjurkalv</Muffalo.lifeStages.muffalo_calf.labelMale>
+  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>muffeltjurkalvar</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
+  <Muffalo.lifeStages.muffalo_calf.labelFemale>muffelkvigkalv</Muffalo.lifeStages.muffalo_calf.labelFemale>
+  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>muffelkvigkalvar</Muffalo.lifeStages.muffalo_calf.labelFemalePlural>
+  <Muffalo.lifeStages.1.label>muffel</Muffalo.lifeStages.1.label>
+  <Muffalo.lifeStages.1.labelPlural>mufflar</Muffalo.lifeStages.1.labelPlural>
+  <Muffalo.lifeStages.1.labelMale>muffeltjur</Muffalo.lifeStages.1.labelMale>
+  <Muffalo.lifeStages.1.labelMalePlural>muffeltjurar</Muffalo.lifeStages.1.labelMalePlural>
+  <Muffalo.lifeStages.1.labelFemale>muffelkviga</Muffalo.lifeStages.1.labelFemale>
+  <Muffalo.lifeStages.1.labelFemalePlural>muffelkvigor</Muffalo.lifeStages.1.labelFemalePlural>
+  <Muffalo.lifeStages.2.label>muffel</Muffalo.lifeStages.2.label>
+  <Muffalo.lifeStages.2.labelPlural>mufflar</Muffalo.lifeStages.2.labelPlural>
+  <Muffalo.lifeStages.2.labelMale>muffeltjur</Muffalo.lifeStages.2.labelMale>
+  <Muffalo.lifeStages.2.labelMalePlural>muffeltjurar</Muffalo.lifeStages.2.labelMalePlural>
+  <Muffalo.lifeStages.2.labelFemale>muffelkviga</Muffalo.lifeStages.2.labelFemale>
+  <Muffalo.lifeStages.2.labelFemalePlural>muffelkvigor</Muffalo.lifeStages.2.labelFemalePlural>
+  <Muffalo.labelMale>muffeltjur</Muffalo.labelMale>
+  <Muffalo.labelMalePlural>muffeltjurara</Muffalo.labelMalePlural>
+  <Muffalo.labelFemale>muffelko</Muffalo.labelFemale>
+  <Muffalo.labelFemalePlural>muffelkor</Muffalo.labelFemalePlural>
+  <!-- EN: muffalo -->
+  <Muffalo.label>muffel</Muffalo.label>
+  
 </LanguageData>

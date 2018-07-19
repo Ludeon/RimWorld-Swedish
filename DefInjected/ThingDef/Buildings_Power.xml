@@ -1,42 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <PowerConduit.label>kraftledning</PowerConduit.label>
-  <PowerConduit.description>En bunt kablar som leder ström. Kan placeras under väggar och andra byggnader.</PowerConduit.description>
-  <PowerConduit_Blueprint.label>kraftledning (ritning)</PowerConduit_Blueprint.label>
-  <PowerConduit_Frame.label>kraftledning (byggnad)</PowerConduit_Frame.label>
-  <PowerConduit_Frame.description>En bunt kablar som leder ström. Kan placeras under väggar och andra byggnader.</PowerConduit_Frame.description>
-
-  <PowerSwitch.label>strömbrytare</PowerSwitch.label>
-  <PowerSwitch.description>Stänger av och slår på strömmen.</PowerSwitch.description>
-  <PowerSwitch_Blueprint.label>strömbrytare (ritning)</PowerSwitch_Blueprint.label>
-  <PowerSwitch_Frame.label>strömbrytare (byggnad)</PowerSwitch_Frame.label>
-  <PowerSwitch_Frame.description>Stänger av och slår på strömmen.</PowerSwitch_Frame.description>
-
-  <FueledGenerator.label>gengas-generator</FueledGenerator.label>
-  <FueledGenerator.description>Genererar ström genom att använda trä som bränsle. Måste fyllas på för hand.</FueledGenerator.description>
-  <FueledGenerator_Blueprint.label>gengas-generator (ritning)</FueledGenerator_Blueprint.label>
-  <FueledGenerator_Frame.label>gengas-generator (byggnad)</FueledGenerator_Frame.label>
-  <FueledGenerator_Frame.description>Genererar ström genom att använda trä som bränsle. Måste fyllas på för hand.</FueledGenerator_Frame.description>
-
+  
+  <!-- EN: battery -->
   <Battery.label>ackumulator</Battery.label>
+  <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
   <Battery.description>Lagrar överflödig elektricitet som senare distributeras vid ett eventuellt energibortfall. Varning - Uppladdade ackumulatorer kan explodera vid kontakt med eld eller vatten.</Battery.description>
-  <Battery_Blueprint.label>ackumulator (ritning)</Battery_Blueprint.label>
-  <Battery_Blueprint_Install.label>ackumulator (ritning)</Battery_Blueprint_Install.label>
-  <Battery_Frame.label>ackumulator (byggnad)</Battery_Frame.label>
-  <Battery_Frame.description>Lagrar överflödig elektricitet som senare distributeras vid ett eventuellt energibortfall. Varning - Uppladdade ackumulatorer kan explodera vid kontakt med eld eller vatten.</Battery_Frame.description>
-
-  <SolarGenerator.label>solpanel</SolarGenerator.label>
-  <SolarGenerator.description>Genererar elektricitet från solljus. Fungerar inte i mörkret.</SolarGenerator.description>
-  <SolarGenerator_Blueprint.label>solpanel (ritning)</SolarGenerator_Blueprint.label>
-  <SolarGenerator_Frame.label>solpanel (byggnad)</SolarGenerator_Frame.label>
-  <SolarGenerator_Frame.description>Genererar elektricitet från solljus. Fungerar inte i mörkret.</SolarGenerator_Frame.description>
-
+  
+  <!-- UNUSED -->
+  <Blueprint_FueledGenerator.label>gengas-generator (ritning)</Blueprint_FueledGenerator.label>
+  
+  <!-- EN: chemfuel powered generator -->
+  <ChemfuelPoweredGenerator.label>TODO</ChemfuelPoweredGenerator.label>
+  <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+  <ChemfuelPoweredGenerator.description>TODO</ChemfuelPoweredGenerator.description>
+  
+  <!-- UNUSED -->
+  <Frame_FueledGenerator.label>gengas-generator (byggnad)</Frame_FueledGenerator.label>
+  <Frame_FueledGenerator.description>Genererar ström genom att använda trä som bränsle. Måste fyllas på för hand.</Frame_FueledGenerator.description>
+  
+  <!-- EN: geothermal generator -->
   <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>
+  <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
   <GeothermalGenerator.description>Genererar elektricitet från geotermiska ånggejsrar. Måste placeras på en gejser.</GeothermalGenerator.description>
-  <GeothermalGenerator_Blueprint.label>geotermisk generator (ritning)</GeothermalGenerator_Blueprint.label>
-  <GeothermalGenerator_Frame.label>geothermal generator (byggnad)</GeothermalGenerator_Frame.label>
-  <GeothermalGenerator_Frame.description>Genererar elektricitet från geotermiska ånggejsrar. Måste placeras på en gejser.</GeothermalGenerator_Frame.description>
-
-
+  
+  <!-- EN: power conduit -->
+  <PowerConduit.label>kraftledning</PowerConduit.label>
+  <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description>En bunt kablar som leder ström. Kan placeras under väggar och andra byggnader.</PowerConduit.description>
+  
+  <!-- EN: power switch -->
+  <PowerSwitch.label>strömbrytare</PowerSwitch.label>
+  <!-- EN: Switches power on/off. -->
+  <PowerSwitch.description>Stänger av och slår på strömmen.</PowerSwitch.description>
+  
+  <!-- EN: solar generator -->
+  <SolarGenerator.label>solpanel</SolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
+  <SolarGenerator.description>Genererar elektricitet från solljus. Fungerar inte i mörkret.</SolarGenerator.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <!-- EN: Produces electricity from river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generated and reduces each other's power generation. -->
+  <WatermillGenerator.description>TODO</WatermillGenerator.description>
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduit.label>TODO</WaterproofConduit.label>
+  <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
+  <WaterproofConduit.description>TODO</WaterproofConduit.description>
+  
+  <!-- EN: wind turbine -->
+  <WindTurbine.label>vindkraftverk</WindTurbine.label>
+  <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <WindTurbine.description>En generator som drivs med hjälp av vinden. Kräver ett stort öppet område både framför och bakom för ett optimalt luftflöde.</WindTurbine.description>
+  
+  <!-- EN: wood-fired generator -->
+  <WoodFiredGenerator.label>gengas-generator</WoodFiredGenerator.label>
+  <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <WoodFiredGenerator.description>Genererar ström genom att använda trä som bränsle. Måste fyllas på för hand.</WoodFiredGenerator.description>
+  
 </LanguageData>

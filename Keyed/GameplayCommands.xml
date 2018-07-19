@@ -2,244 +2,454 @@
 <LanguageData>
 
   <!-- Forbid -->
+  <!-- EN: Forbid -->
   <CommandForbid>Förbjud</CommandForbid>
+  <!-- EN: Forbidden - colonists will not interact with this. -->
   <CommandForbiddenDesc>Förbjudet - kolonister kommer inte att interagera med detta.</CommandForbiddenDesc>
+  <!-- EN: Not forbidden - colonists may interact with this. -->
   <CommandNotForbiddenDesc>Inte förbjudet - kolonister kommer att interagera med detta.</CommandNotForbiddenDesc>
 
   <!-- Power -->
+  <!-- EN: Toggle power -->
   <CommandTogglePowerLabel>Växla ström</CommandTogglePowerLabel>
+  <!-- EN: Toggle power. -->
   <CommandTogglePowerDesc>Växla ström.</CommandTogglePowerDesc>
-
+  
+  <!-- EN: Designate toggle power -->
   <CommandDesignateTogglePowerLabel>Ange strömväxling</CommandDesignateTogglePowerLabel>
+  <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
   <CommandDesignateTogglePowerDesc>Ange att detta föremål ska växla sitt strömläge. En kolonist kommer snart att växla läge.</CommandDesignateTogglePowerDesc>
-
+  
+  <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Återanslut</CommandTryReconnectLabel>
+  <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
   <CommandTryReconnectDesc>Försök att ansluta till ett annat elnät inom min kopplingsradie. Det här är användbart om jag är kopplad till ett strömlöst elnät men det finns ett elnät med ström nära.</CommandTryReconnectDesc>
 
+  <!-- EN: Gather spot -->
   <CommandGatherSpotToggleLabel>Samlingsplats</CommandGatherSpotToggleLabel>
+  <!-- EN: Active - colonists will gather around this object. -->
   <CommandGatherSpotToggleDescActive>Aktivt - kolonister kommer att samlas runt detta objekt.</CommandGatherSpotToggleDescActive>
+  <!-- EN: Inactive - colonists will not gather around this object. -->
   <CommandGatherSpotToggleDescInactive>Inaktivt - kolonister kommer inte att samlas runt detta objekt.</CommandGatherSpotToggleDescInactive>
-
-
+  
   <!-- Drafting -->
+  <!-- EN: Draft -->
   <CommandDraftLabel>Kommendera</CommandDraftLabel>
+  <!-- EN: Undraft -->
   <CommandUndraftLabel>Upphäv kommendering</CommandUndraftLabel>
+  <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Växla Kommendering.\n\nKommenderade personer tar direkta order och slåss. De kommer inte arbeta, äta eller vila.</CommandToggleDraftDesc>
+  <!-- EN: {0} cannot walk. -->
   <IsIncapped>{0} kan inte gå.</IsIncapped>
 
+  <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Fri eldgivning</CommandFireAtWillLabel>
+  <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
   <CommandFireAtWillDesc>Växla fri eldgivning.\n\nNär detta är inaktivt kommer personen inte att skjuta mot avståndsmål. Påverkar inte närstrid.</CommandFireAtWillDesc>
-
+  
+  <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>Rensa prioriterat arbete</CommandClearPrioritizedWork>
+  <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
   <CommandClearPrioritizedWorkDesc>Rensar alla prioriterade uppgifter du har satt. Karaktären kommer gå tillbaka till sina vanliga, självstyrda, uppgifter.</CommandClearPrioritizedWorkDesc>
-
+  
+  <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>Avbryt</CommandCancelConstructionLabel>
+  <!-- EN: Cancel this construction. -->
   <CommandCancelConstructionDesc>Avbryt denna konstruktion.</CommandCancelConstructionDesc>
 
+  <!-- EN: Get out of bed -->
   <CommandGetOutOfBedLabel>Gå upp ur sängen</CommandGetOutOfBedLabel>
+  <!-- EN: Get out of current bed. -->
   <CommandGetOutOfBedDesc>Hoppa ur den nuvarande sängen.</CommandGetOutOfBedDesc>
 
+  <!-- EN: Set owner -->
   <CommandBedSetOwnerLabel>Ange ägare</CommandBedSetOwnerLabel>
+  <!-- EN: Assign this bed to be owned by a specific colonist. -->
   <CommandBedSetOwnerDesc>Tilldela den här sängen till en vald kolonist.</CommandBedSetOwnerDesc>
+  <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>Tilldela kolonist</CommandGraveAssignColonistLabel>
+  <!-- EN: Assign this grave to be owned by a specific colonist. -->
   <CommandGraveAssignColonistDesc>Tilldelar denna grav till en vald kolonist.</CommandGraveAssignColonistDesc>
+  <!-- EN: Assign -->
   <BuildingAssign>Tilldela</BuildingAssign>
+  <!-- EN: Reassign -->
+  <BuildingReassign>Återtilldela</BuildingReassign>
+  <!-- EN: Unassign -->
   <BuildingUnassign>Frånta</BuildingUnassign>
+  <!-- EN: For prisoners -->
   <CommandBedSetForPrisonersLabel>Ange för fångar</CommandBedSetForPrisonersLabel>
+  <!-- EN: Whether beds in this room should be used by prisoners. -->
   <CommandBedSetForPrisonersDesc>Tilldela sängar i detta rum för användning av fångar.</CommandBedSetForPrisonersDesc>
+  <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
   <CommandBedSetForPrisonersFailOutdoors>Kan inte sätta utomhussängar att användas av fångar.</CommandBedSetForPrisonersFailOutdoors>
+  <!-- EN: Medical -->
   <CommandBedSetAsMedicalLabel>Ange som sjukhussäng</CommandBedSetAsMedicalLabel>
+  <!-- EN: Whether this bed is for medical use. -->
   <CommandBedSetAsMedicalDesc> Tilldela denna säng för medicinskt bruk.</CommandBedSetAsMedicalDesc>
+  <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <TurningOnPrisonerBedWarning>Aktivering av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOnPrisonerBedWarning>
+  <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <TurningOffPrisonerBedWarning>Avstängning av fångeläge påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätt till sina sängar:</TurningOffPrisonerBedWarning>
+  <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>Är du säker på att du vill göra detta?</AreYouSure>
 
+  <!-- EN: Detonate -->
   <CommandDetonateLabel>Detonera</CommandDetonateLabel>
+  <!-- EN: Start the countdown to detonation. -->
   <CommandDetonateDesc>Starta nedräkningen för detonation.</CommandDetonateDesc>
 
+  <!-- EN: Rename -->
   <CommandRenameZoneLabel>Byt namn</CommandRenameZoneLabel>
+  <!-- EN: Rename this zone. -->
   <CommandRenameZoneDesc>Byt namn på denna zon.</CommandRenameZoneDesc>
 
+  <!-- EN: Hide -->
   <CommandHideZoneLabel>Göm</CommandHideZoneLabel>
+  <!-- EN: Unhide -->
   <CommandUnhideZoneLabel>Visa</CommandUnhideZoneLabel>
+  <!-- EN: Hide/unhide this zone. -->
   <CommandHideZoneDesc>Göm/visa denna zon.</CommandHideZoneDesc>
 
+  <!-- EN: Delete -->
   <CommandDeleteZoneLabel>Ta bort</CommandDeleteZoneLabel>
+  <!-- EN: Delete this zone. -->
   <CommandDeleteZoneDesc>Ta bort denna zon.</CommandDeleteZoneDesc>
 
+  <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>Kopiera inställningar</CommandCopyZoneSettingsLabel>
+  <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
   <CommandCopyZoneSettingsDesc>Kopiera den här zonens inställningar till urklippshanteraren så du kan klistra in dom på en annan zon.</CommandCopyZoneSettingsDesc>
 
+  <!-- EN: Paste settings -->
   <CommandPasteZoneSettingsLabel>Klistra in inställningar</CommandPasteZoneSettingsLabel>
+  <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
   <CommandPasteZoneSettingsDesc>Skriv över den här zonens inställningar med dom som tidigare kopierats till urklippshanteraren.</CommandPasteZoneSettingsDesc>
 
+  <!-- EN: Allow sowing -->
   <CommandAllowSow>Tillåt plantering</CommandAllowSow>
+  <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
   <CommandAllowSowDesc>När detta är avaktiverat kommer kolonister aldrig plantera växter i den här zonen. De kommer fortfarande skördas.</CommandAllowSowDesc>
 
   <!-- Artillery -->
+  <!-- EN: Set forced target -->
   <CommandSetForceAttackTarget>Sätt tvingat mål</CommandSetForceAttackTarget>
+  <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
   <CommandSetForceAttackTargetDesc>Sätter ett mål som detta torn måste attackera kontinuerligt så länge det kan.</CommandSetForceAttackTargetDesc>
+  <!-- EN: Stop forced attack -->
   <CommandStopForceAttack>Stäng av tvingat mål</CommandStopForceAttack>
+  <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
   <CommandStopForceAttackDesc>Stänger av tvingat mål och låter tornet skjuta där det vill.</CommandStopForceAttackDesc>
+  <!-- EN: Not currently force-attacking. -->
   <CommandStopAttackFailNotForceAttacking>Har inget tvingat mål.</CommandStopAttackFailNotForceAttacking>
+  <!-- EN: Extract shell -->
+  <CommandExtractShell>Ta ur granat</CommandExtractShell>
+  <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
+  <CommandExtractShellDesc>Ta ur nuvarande granat så att det kan bytas ut till annan ammunition.</CommandExtractShellDesc>
+  <!-- EN: Target beyond maximum range. -->
   <MessageTargetBeyondMaximumRange>Mål utanför räckvidd.</MessageTargetBeyondMaximumRange>
+  <!-- EN: Target below minimum range. -->
   <MessageTargetBelowMinimumRange>Mål för nära.</MessageTargetBelowMinimumRange>
-
+  <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
+  <MessageTurretWontFireBecauseHoldFire>Granatkastaren kommer inte att avfyra eftersom den är inställd på att "hålla eld".</MessageTurretWontFireBecauseHoldFire>
+  
   <!-- Ship computer core -->
+  <!-- EN: Launch ship -->
   <CommandShipLaunch>Starta skepp</CommandShipLaunch>
+  <!-- EN: Start the ship launch sequence with the current configuration. -->
   <CommandShipLaunchDesc>Startar skeppets startsekvens med den aktuella konfigurationen.</CommandShipLaunchDesc>
+  <!-- EN: Show launch report -->
   <CommandShipLaunchReport>Visa startrapport</CommandShipLaunchReport>
+  <!-- EN: Show a readiness report about the ship's launch capability. -->
   <CommandShipLaunchReportDesc>Visar en rapport som beskriver skeppets startkapabilitet.</CommandShipLaunchReportDesc>
+  <!-- EN: Start ship -->
+  <CommandShipStartup>Starta skepp</CommandShipStartup>
+  <!-- EN: Wake up hibernating ship components. -->
+  <CommandShipStartupDesc>Väck sovande skeppskomponenter.</CommandShipStartupDesc>
 
   <!-- Pod -->
+  <!-- EN: Eject sleeper -->
   <CommandPodEject>Skjut ut sovkapsel</CommandPodEject>
+  <!-- EN: Wake up the cryptosleeper and eject them. -->
   <CommandPodEjectDesc>Väck krypto-sovaren och skjut ut dem.</CommandPodEjectDesc>
+  <!-- EN: Contains nobody. -->
   <CommandPodEjectFailEmpty>Innehåller ingen.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
+  <!-- EN: Passage forbidden -->
   <CommandToggleDoorForbid>Passage förbjuden</CommandToggleDoorForbid>
+  <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
   <CommandToggleDoorForbidDesc>När en dörr är förbjuden kommer kolonister och vänner inte gå igenom den. Detta påverkar inte hur fiender eller djur hanterar dörren.</CommandToggleDoorForbidDesc>
+  <!-- EN: Hold open -->
   <CommandToggleDoorHoldOpen>Håll öppen</CommandToggleDoorHoldOpen>
+  <!-- EN: When active, your colonists will not close the door after passing through. -->
   <CommandToggleDoorHoldOpenDesc>När denna är aktiv kommer dina kolonister inte stänga dörren efter sig.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
+  <!-- EN: Reset -->
   <CommandResetTemp>Återställ</CommandResetTemp>
+  <!-- EN: Reset the target temperature to room temperature. -->
   <CommandResetTempDesc>Återställ måltemperaturen till rumstempteratur.</CommandResetTempDesc>
+  <!-- EN: Raise the target temperature. -->
   <CommandRaiseTempDesc>Höj måltemperaturen.</CommandRaiseTempDesc>
+  <!-- EN: Lower the target temperature. -->
   <CommandLowerTempDesc>Sänk måltemperaturen.</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
+  <!-- EN: Install -->
   <CommandInstall>Installera</CommandInstall>
+  <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
   <CommandInstallDesc>Detta föremål är just nu packeterat för förvaring och transport. Använd detta kommando för att installera föremålet på sin slutgiltiga plats.</CommandInstallDesc>
+  <!-- EN: Reinstall at... -->
   <CommandReinstall>Ominstallera vid...</CommandReinstall>
+  <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>Ange att detta föremål ska packas ihop och ominstalleras någon annanstans.</CommandReinstallDesc>
-
+  
   <!-- Trade beacon -->
+  <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
   <CommandMakeBeaconStockpileDesc>Skapar en förvaringsyta kring denna byggnad som exakt matchar fyrens räckvidd.</CommandMakeBeaconStockpileDesc>
+  <!-- EN: Create stockpile -->
   <CommandMakeBeaconStockpileLabel>Skapa förvaringssyta</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
+  <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
   <CommandSunLampMakeGrowingZoneDesc>Skapar ett odlingsområde kring denna byggnad som exakt matchar lampans räckvidd.</CommandSunLampMakeGrowingZoneDesc>
+  <!-- EN: Create growing zone -->
   <CommandSunLampMakeGrowingZoneLabel>Skapa odlingsområde</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
+  <!-- EN: Auto Rearm -->
   <CommandAutoRearm>Auto-återställ</CommandAutoRearm>
+  <!-- EN: If this is on, this trap will automatically be designated for rearming when it springs. -->
   <CommandAutoRearmDesc>När den här är aktiv kommer fällan automatiskt markeras för att återställas om den utlöses.</CommandAutoRearmDesc>
-
+  
   <!-- Animal control -->
+  <!-- EN: Release animals -->
   <CommandReleaseAnimalsLabel>Släpp djur</CommandReleaseAnimalsLabel>
+  <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>När denna är aktiv kommer djur med en ägare släppas för att attackera avlägsna mål. När den är inaktiv kommer de hålla sig nära och vakta sin ägare.</CommandReleaseAnimalsDesc>
-
+  
   <!-- Squad attack -->
+  <!-- EN: Attack -->
   <CommandSquadAttack>Attackera</CommandSquadAttack>
+  <!-- EN: Order selected colonists to attack designated target. -->
   <CommandSquadAttackDesc>Beordra valda kolonister att attackera det angivna målet.</CommandSquadAttackDesc>
+  
+  <!-- Melee attack -->
+  <!-- EN: Melee attack -->
+  <CommandMeleeAttack>Närstridsattack</CommandMeleeAttack>
+  <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
+  <CommandMeleeAttackDesc>Beordra vald kolonist för att attackera utvalt mål med endast nävar eller närstridsvapen.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
+  <!-- EN: Hold fire -->
   <CommandHoldFire>Eldupphör</CommandHoldFire>
+  <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>Avbryter pågående attacker.</CommandHoldFireDesc>
-
+  
   <!-- Select plant to grow -->
+  <!-- EN: Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Välj en växt att odla</CommandSelectPlantToGrowMulti>
+  <!-- EN: Plant: {0} -->
   <CommandSelectPlantToGrow>Växt: {0}</CommandSelectPlantToGrow>
+  <!-- EN: Determine which plant should be sown here. -->
   <CommandSelectPlantToGrowDesc>Bestäm vilken växt som ska planteras här.</CommandSelectPlantToGrowDesc>
+  
+  <!-- Select mineral to scan for (long-range mineral scanner) -->
+  <!-- EN: Tuned to -->
+  <CommandSelectMineralToScanFor>Ställd mot</CommandSelectMineralToScanFor>
 
   <!-- Build copy -->
+  <!-- EN: Build copy -->
   <CommandBuildCopy>Bygg kopia</CommandBuildCopy>
+  <!-- EN: Build a copy of this building. -->
   <CommandBuildCopyDesc>Bygg en kopia av den här byggnaden.</CommandBuildCopyDesc>
-
+  
   <!-- Form caravan -->
+  <!-- EN: Form caravan -->
   <CommandFormCaravan>Bilda karavan</CommandFormCaravan>
+  <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
   <CommandFormCaravanDesc>Bilda en grupp av kolonister som kan resa till nya områden. Kolonisterna kommer att samla in alla tilldelade föremål och medföljande djur, lämnar sitt nuvarande område, och invänta vidare order.</CommandFormCaravanDesc>
-
+  
   <!-- Reform caravan -->
+  <!-- EN: Reform caravan -->
   <CommandReformCaravan>Återforma karavan</CommandReformCaravan>
+  <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
   <CommandReformCaravanDesc>Återforma en grupp av kolonisatörer. Kolonisterna kommer att lämna sitt nuvarande område och invänta vidare order.</CommandReformCaravanDesc>
+  <!-- EN: There are still some enemies in this area. -->
   <CommandReformCaravanFailHostilePawns>Det finns fortfarande fiender i området.</CommandReformCaravanFailHostilePawns>
-
+  
   <!-- Split caravan -->
+  <!-- EN: Split -->
   <CommandSplitCaravan>Dela</CommandSplitCaravan>
+  <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
   <CommandSplitCaravanDesc>Dela denna karavan i två. Karavanerna kan senare slås samman tillbaka in en så länge som de är nära varandra.</CommandSplitCaravanDesc>
-
+  
   <!-- Merge caravan -->
+  <!-- EN: Merge -->
   <CommandMergeCaravans>Slå samman</CommandMergeCaravans>
+  <!-- EN: Merge selected caravans. -->
   <CommandMergeCaravansDesc>Slå samman karavaner.</CommandMergeCaravansDesc>
-
+  <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
+  <CommandMergeCaravansFailCaravansNotSelected>Välj vilka karavaner som ska slås samman. Karavanerna måste vara nära varandra.</CommandMergeCaravansFailCaravansNotSelected>
+  
   <!-- Settle -->
+  <!-- EN: Settle -->
   <CommandSettle>Bosätt</CommandSettle>
+  <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
   <CommandSettleDesc>Bosätt dätta område. Dina kolonister går in i detta område och du kommer att kunna börja bygga ett nytt hem.</CommandSettleDesc>
+  <!-- EN: Your faction can only have one base. -->
   <CommandSettleFailAlreadyHaveBase>Din fraktion kan bara ha en bas.</CommandSettleFailAlreadyHaveBase>
+  <!-- EN: Reached maximum number of colonies. -->
   <CommandSettleFailReachedMaximumNumberOfBases>Nått maximala antalet kolonier.</CommandSettleFailReachedMaximumNumberOfBases>
+  <!-- EN: There isn't anybody there to claim the area. -->
   <CommandSettleFailNoColonists>Det finns ingen där att annektera området med.</CommandSettleFailNoColonists>
+  <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>Det finns fielder i området.</CommandSettleFailEnemies>
-
+  
   <!-- Abandon home -->
+  <!-- EN: Abandon -->
   <CommandAbandonHome>Överge</CommandAbandonHome>
+  <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
   <CommandAbandonHomeDesc>Överge detta område. Området blir otillgängliga och du kommer inte att kunna återvända hit någonsin igen. Efter att du överge ditt hem, kommer du att kunna beordra en av dina karavaner att bosätta sig i ett nytt område.</CommandAbandonHomeDesc>
+  <!-- EN: All of your colonists are there. -->
   <CommandAbandonHomeFailAllColonistsThere>Alla dina kolonister är där.</CommandAbandonHomeFailAllColonistsThere>
-
+  
   <!-- Cancel forming caravan -->
+  <!-- EN: Cancel forming caravan -->
   <CommandCancelFormingCaravan>Avbryt forma karavan</CommandCancelFormingCaravan>
+  <!-- EN: Terminate the caravan formation process. -->
   <CommandCancelFormingCaravanDesc>Avbryt karavanbildningsprocessen.</CommandCancelFormingCaravanDesc>
 
+  <!-- Remove from caravan -->
+  <!-- EN: Remove from caravan -->
+  <CommandRemoveFromCaravan>Avlägsna från karavan</CommandRemoveFromCaravan>
+  <!-- EN: Remove this person or animal from the caravan. -->
+  <CommandRemoveFromCaravanDesc>Avlägsna den här personen eller djuret från karavanen.</CommandRemoveFromCaravanDesc>
+  
+  <!-- Add to caravan -->
+  <!-- EN: Add to caravan -->
+  <CommandAddToCaravan>Lägg till i karavan</CommandAddToCaravan>
+  <!-- EN: Add this person or animal to the forming caravan. -->
+  <CommandAddToCaravanDesc>Lägg till den här personen eller djuret i karavanen.</CommandAddToCaravanDesc>
+  
   <!-- Show map -->
+  <!-- EN: Zoom in -->
   <CommandShowMap>Zooma in</CommandShowMap>
+  <!-- EN: Zoom in on this area. -->
   <CommandShowMapDesc>Zooma in på detta område.</CommandShowMapDesc>
-
+  
   <!-- Trade -->
+  <!-- EN: Trade -->
   <CommandTrade>Handla</CommandTrade>
+  <!-- EN: Trade with this faction. -->
   <CommandTradeDesc>Handla med den här fraktionen.</CommandTradeDesc>
+  <!-- EN: There isn't any conscious and capable negotiator. -->
   <CommandTradeFailNoNegotiator>Det finns inte någon medveten, inte bruten förhandlare.</CommandTradeFailNoNegotiator>
 
+  <!-- Offer gifts -->
+  <!-- EN: Offer gifts -->
+  <CommandOfferGifts>Erbjud gåvor</CommandOfferGifts>
+  <!-- EN: Offer gifts to this faction. -->
+  <CommandOfferGiftsDesc>Erbjud gåvor till denna fraktion.</CommandOfferGiftsDesc>
+
   <!-- Fulfill request -->
+  <!-- EN: Fulfill trade offer -->
   <CommandFulfillTradeOffer>Uppfyll handelserbjudande</CommandFulfillTradeOffer>
+  <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
   <CommandFulfillTradeOfferDesc>Uppfyll bosättningens förfrågan om varor och hämta ut din belöning.</CommandFulfillTradeOfferDesc>
+  <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
   <CommandFulfillTradeOfferFailInsufficient>Din karavan måste ha {0} för att upfylla detta handelserbjudande.</CommandFulfillTradeOfferFailInsufficient>
+  <!-- EN: Offer {0} for {1}? -->
   <CommandFulfillTradeOfferConfirm>Erbjud {0} för {1}?</CommandFulfillTradeOfferConfirm>
-
+  
   <!-- Take off -->
+  <!-- EN: Take off -->
   <CommandTakeOff>Skjut upp</CommandTakeOff>
+  <!-- EN: Get on board the ship and escape the planet. -->
   <CommandTakeOffDesc>Stig ombord på fartyget och fly planeten.</CommandTakeOffDesc>
+  <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
   <CommandTakeOffConfirmation>Är du säker på att du vill starta fartyget?\n\nAlla i detta område kommer att fly planeten. Alla andra kommer att vara kvar.</CommandTakeOffConfirmation>
-
+  
   <!-- Set target fuel level -->
+  <!-- EN: Set target fuel level -->
   <CommandSetTargetFuelLevel>Ställ målbränslenivå</CommandSetTargetFuelLevel>
+  <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
   <CommandSetTargetFuelLevelDesc>Ställ målbränslenivå. Kolonisterna kommer att försöka fylla detta till målbränslenivån.</CommandSetTargetFuelLevelDesc>
-
+  
   <!-- Cancel load -->
+  <!-- EN: Cancel load -->
   <CommandCancelLoad>Avbryta lastning</CommandCancelLoad>
+  <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
   <CommandCancelLoadDesc>Avbryt lastning av detta med personer eller föremål och mata ut allt som redan är lastat.</CommandCancelLoadDesc>
-
+  
   <!-- Launch group -->
+  <!-- EN: Launch group -->
   <CommandLaunchGroup>Skjut iväg grupp</CommandLaunchGroup>
+  <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
   <CommandLaunchGroupDesc>Initierar riktningsprocessen för att skjuta iväg en grupp transportkapslar. Nästa steg är att välja ett mål. Kapslarna kommer att flyga och landa tillsammans.</CommandLaunchGroupDesc>
+  <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>Vissa transportkapslar i denna grupp är inte anslutna till en tankningsport.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <!-- EN: Some pod launchers in this group have no fuel. -->
   <CommandLaunchGroupFailNoFuel>Några transportkapslar i denna grupp har ingen bränsle.</CommandLaunchGroupFailNoFuel>
+  <!-- EN: Some pod launchers are under a roof. -->
   <CommandLaunchGroupFailUnderRoof>Några transportkapslar är under tak.</CommandLaunchGroupFailUnderRoof>
-
+  
   <!-- Load transporter -->
+  <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>Lasta avfyringsgrupp av {0}</CommandLoadTransporter>
+  <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterDesc>Definierar vald transportör(er) som en avfyringsgrupp. Öppnar dialogrutan lastning så att du kan bestämma vem och vad som ska lastas i.</CommandLoadTransporterDesc>
+  <!-- EN: The transport pod is not connected to a fueling port. -->
   <CommandLoadTransporterFailNotConnectedToFuelingPort>Transportkapseln är inte ansluten till en bränslepåfyllningsport.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <!-- EN: The pod launcher has no fuel. -->
   <CommandLoadTransporterFailNoFuel>Transportavfyraren har ingen bränsle.</CommandLoadTransporterFailNoFuel>
-
+  
   <!-- Select previous transporter -->
+  <!-- EN: Select previous in launch group -->
   <CommandSelectPreviousTransporter>Välj föregående avfyringsgrupp</CommandSelectPreviousTransporter>
+  <!-- EN: Select previous transport pod in this launch group. -->
   <CommandSelectPreviousTransporterDesc>Välj föregående transportkapsel i denna avfyringsgrupp.</CommandSelectPreviousTransporterDesc>
-
+  
   <!-- Select all transporters -->
+  <!-- EN: Select launch group -->
   <CommandSelectAllTransporters>Välj avfyringsgrupp</CommandSelectAllTransporters>
+  <!-- EN: Select all transport pods in this launch group. -->
   <CommandSelectAllTransportersDesc>Välj alla transportkapslar i denna avfyringsgrupp.</CommandSelectAllTransportersDesc>
-
+  
   <!-- Select next transporter -->
+  <!-- EN: Select next in launch group -->
   <CommandSelectNextTransporter>Välj nästa avfyringsgrupp</CommandSelectNextTransporter>
+  <!-- EN: Select next transport pod in this launch group. -->
   <CommandSelectNextTransporterDesc>Välj nästa transportkapsel i denna avfyringsgrupp.</CommandSelectNextTransporterDesc>
-
+  
   <!-- Vent -->
+  <!-- EN: Designate open/close -->
   <CommandDesignateOpenCloseVentLabel>Ange öppen/stängd</CommandDesignateOpenCloseVentLabel>
+  <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
   <CommandDesignateOpenCloseVentDesc>Ange om den här ventilen skall vara öppen eller stängd. En kolonist kommer snart att utföra uppgiften.</CommandDesignateOpenCloseVentDesc>
-
+  
   <!-- Remove waypoint -->
+  <!-- EN: Remove -->
   <CommandRemoveWaypointLabel>Ta bort</CommandRemoveWaypointLabel>
+  <!-- EN: Remove this waypoint. -->
   <CommandRemoveWaypointDesc>Ta bort vägpunkt.</CommandRemoveWaypointDesc>
+
+  <!-- Pause caravan -->
+  <!-- EN: Rest -->
+  <CommandPauseCaravan>Vila</CommandPauseCaravan>
+  <!-- EN: Stop the caravan for a moment. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1}\n  - Sick people can rest in bedrolls -->
+  <CommandToggleCaravanPauseDesc>Stanna karavanen en stund. Detta har följande fördelar:\n\n - Människor kan interagera socialt\n - Samla till mat {0} gånger snabbare\n - Synlighet multiplicerad med {1}\n - Sjuka personer kan vila på sovsäckar</CommandToggleCaravanPauseDesc>
+  
+  <!-- Show sellable items -->
+  <!-- EN: Show what will buy -->
+  <CommandShowSellableItems>Visa vad som ska köpas</CommandShowSellableItems>
+  <!-- EN: Show everything this trader wants to buy. -->
+  <CommandShowSellableItemsDesc>Visa allt den här handlaren vill köpa.</CommandShowSellableItemsDesc>
+
+  <!-- Attack settlement -->
+  <!-- EN: Attack -->
+  <CommandAttackSettlement>Attack</CommandAttackSettlement>
+  <!-- EN: Attack this settlement. -->
+  <CommandAttackSettlementDesc>Anfall den här byn.</CommandAttackSettlementDesc>
 
 </LanguageData>

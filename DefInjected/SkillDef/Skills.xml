@@ -1,53 +1,88 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <Shooting.label>Skytte</Shooting.label>
-  <Shooting.description>Använder alla typer av avståndsvapen.</Shooting.description>
-  <Shooting.skillLabel>Skytte</Shooting.skillLabel>
-
-  <Melee.label>Närstrid</Melee.label>
-  <Melee.description>Använder alla typer av närstridsvapen även inkluderat obeväpnad strid.</Melee.description>
-  <Melee.skillLabel>Närstrid</Melee.skillLabel>
-
-  <Social.label>Social</Social.label>
-  <Social.description>Förhandla, övertyga, manipulera, leda och gaska upp andra.</Social.description>
-  <Social.skillLabel>Social</Social.skillLabel>
-
-  <Animals.label>Djurträning</Animals.label>
-  <Animals.description>Tämja, träna, hantera och kontrollera djur.</Animals.description>
+  
+  <!-- EN: animals -->
   <Animals.skillLabel>Djurträning</Animals.skillLabel>
-
-  <Medicine.label>Medicin</Medicine.label>
-  <Medicine.description>Behandling av sår och sjukdomar samt kirurgi.</Medicine.description>
-  <Medicine.skillLabel>Medicin</Medicine.skillLabel>
-
-  <Cooking.label>Matlagning</Cooking.label>
-  <Cooking.description>Laga mat av råa ingridienser.</Cooking.description>
-  <Cooking.skillLabel>Matlagning</Cooking.skillLabel>
-
-  <Construction.label>Konstruktion</Construction.label>
-  <Construction.description>Bättre kontruktörer bygger strukturer och möbler snabbare till bättre kvalitet.</Construction.description>
-  <Construction.skillLabel>Konstruktion</Construction.skillLabel>
-
-  <Growing.label>Odling</Growing.label>
-  <Growing.description>Så ta hand och och skörda gröda.</Growing.description>
-  <Growing.skillLabel>Odling</Growing.skillLabel>
-
-  <Mining.label>Gruvarbete</Mining.label>
-  <Mining.description>Gräver tunnlar och extraherar mineraler och begravda resurser.</Mining.description>
-  <Mining.skillLabel>Gruvarbete</Mining.skillLabel>
-
-  <Artistic.label>Konstnärlig</Artistic.label>
-  <Artistic.description>Tillverka konstverk.</Artistic.description>
+  <!-- EN: animals -->
+  <Animals.label>Djurträning</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>Tämja, träna, hantera och kontrollera djur.</Animals.description>
+  
+  <!-- EN: artistic -->
   <Artistic.skillLabel>Konstnärlig</Artistic.skillLabel>
-
-  <Crafting.label>Hantverk</Crafting.label>
-  <Crafting.description>Tillverka vanliga föremål såsom vapen och verktyg men även kläder.</Crafting.description>
+  <!-- EN: artistic -->
+  <Artistic.label>Konstnärlig</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>Tillverka konstverk.</Artistic.description>
+  
+  <!-- EN: construction -->
+  <Construction.skillLabel>Konstruktion</Construction.skillLabel>
+  <!-- EN: construction -->
+  <Construction.label>Konstruktion</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Bättre kontruktörer bygger strukturer och möbler snabbare till bättre kvalitet.</Construction.description>
+  
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>Matlagning</Cooking.skillLabel>
+  <!-- EN: cooking -->
+  <Cooking.label>Matlagning</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Laga mat av råa ingridienser.</Cooking.description>
+  
+  <!-- EN: crafting -->
   <Crafting.skillLabel>Hantverk</Crafting.skillLabel>
-
-  <Intellectual.label>intellektuell</Intellectual.label>
-  <Intellectual.description>Undersökande av bevis, bevis av samband, beräkning och användning av logik.</Intellectual.description>
+  <!-- EN: crafting -->
+  <Crafting.label>Hantverk</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Tillverka vanliga föremål såsom vapen och verktyg men även kläder.</Crafting.description>
+  
+  <!-- EN: intellectual -->
   <Intellectual.skillLabel>Intellektuell</Intellectual.skillLabel>
-
-
+  <!-- EN: intellectual -->
+  <Intellectual.label>intellektuell</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>Undersökande av bevis, bevis av samband, beräkning och användning av logik.</Intellectual.description>
+  
+  <!-- EN: medical -->
+  <Medicine.skillLabel>Medicin</Medicine.skillLabel>
+  <!-- EN: medical -->
+  <Medicine.label>Medicin</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Behandling av sår och sjukdomar samt kirurgi.</Medicine.description>
+  
+  <!-- EN: melee -->
+  <Melee.skillLabel>Närstrid</Melee.skillLabel>
+  <!-- EN: melee -->
+  <Melee.label>Närstrid</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Använder alla typer av närstridsvapen även inkluderat obeväpnad strid.</Melee.description>
+  
+  <!-- EN: mining -->
+  <Mining.skillLabel>Gruvarbete</Mining.skillLabel>
+  <!-- EN: mining -->
+  <Mining.label>Gruvarbete</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Gräver tunnlar och extraherar mineraler och begravda resurser.</Mining.description>
+  
+  <!-- EN: plants -->
+  <Plants.skillLabel>Odling</Plants.skillLabel>
+  <!-- EN: plants -->
+  <Plants.label>Odling</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Så ta hand och och skörda gröda.</Plants.description>
+  
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>Skytte</Shooting.skillLabel>
+  <!-- EN: shooting -->
+  <Shooting.label>Skytte</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Använder alla typer av avståndsvapen.</Shooting.description>
+  
+  <!-- EN: social -->
+  <Social.skillLabel>Social</Social.skillLabel>
+  <!-- EN: social -->
+  <Social.label>Social</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Förhandla, övertyga, manipulera, leda och gaska upp andra.</Social.description>
+  
 </LanguageData>

@@ -1,17 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <TribalWarrior.label>krigare</TribalWarrior.label>
-  <TribalWarrior.labelPlural>krigare</TribalWarrior.labelPlural>
-
-  <TribalTrader.label>handlare</TribalTrader.label>
-  <TribalTrader.labelPlural>handlare</TribalTrader.labelPlural>
-
-  <TribalArcher.label>pilbågsskytt</TribalArcher.label>
-  <TribalArcher.labelPlural>pilbågsskyttar</TribalArcher.labelPlural>
-
-  <TribalChief.label>hövding</TribalChief.label>
-  <TribalChief.labelPlural>hövdingar</TribalChief.labelPlural>
-
-
+  
+  <Tribal_Archer.labelPlural>pilbågsskyttar</Tribal_Archer.labelPlural>
+  <!-- EN: archer -->
+  <Tribal_Archer.label>pilbågsskytt</Tribal_Archer.label>
+  
+  <!-- EN: berserker -->
+  <Tribal_Berserker.label>TODO</Tribal_Berserker.label>
+  
+  <!-- EN: berserker chief -->
+  <Tribal_ChiefMelee.label>TODO</Tribal_ChiefMelee.label>
+  
+  <Tribal_ChiefRanged.labelPlural>hövdingar</Tribal_ChiefRanged.labelPlural>
+  <!-- EN: archer chief -->
+  <Tribal_ChiefRanged.label>hövding</Tribal_ChiefRanged.label>
+  
+  <!-- EN: heavy archer -->
+  <Tribal_HeavyArcher.label>TODO</Tribal_HeavyArcher.label>
+  
+  <!-- EN: hunter -->
+  <Tribal_Hunter.label>TODO</Tribal_Hunter.label>
+  
+  <!-- EN: penitent -->
+  <Tribal_Penitent.label>TODO</Tribal_Penitent.label>
+  
+  <Tribal_Trader.labelPlural>handlare</Tribal_Trader.labelPlural>
+  <!-- EN: trader -->
+  <Tribal_Trader.label>handlare</Tribal_Trader.label>
+  
+  <Tribal_Warrior.labelPlural>krigare</Tribal_Warrior.labelPlural>
+  <!-- EN: warrior -->
+  <Tribal_Warrior.label>krigare</Tribal_Warrior.label>
+  
 </LanguageData>

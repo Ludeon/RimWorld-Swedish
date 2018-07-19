@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <PlantRose.label>ros</PlantRose.label>
-  <PlantRose.description>En vacker odlad blomma, en symbol för kärlek och romantik sedan urminnes tider.</PlantRose.description>
-
-  <PlantDaylily.label>daglilja</PlantDaylily.label>
-  <PlantDaylily.description>En vacker odlad blomma - perfekt för att piggar upp en dyster utegård. Måste omplanteras ofta.</PlantDaylily.description>
-
-
+  
+  <!-- EN: daylily -->
+  <Plant_Daylily.label>daglilja</Plant_Daylily.label>
+  <!-- EN: A cultivated flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often. -->
+  <Plant_Daylily.description>En vacker odlad blomma - perfekt för att piggar upp en dyster utegård. Måste omplanteras ofta.</Plant_Daylily.description>
+  
+  <!-- EN: rose -->
+  <Plant_Rose.label>ros</Plant_Rose.label>
+  <!-- EN: A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era. -->
+  <Plant_Rose.description>En vacker odlad blomma, en symbol för kärlek och romantik sedan urminnes tider.</Plant_Rose.description>
+  
 </LanguageData>

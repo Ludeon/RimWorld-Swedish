@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <MakeWort.label>koka vört</MakeWort.label>
-  <MakeWort.description>Koka vört av humle.</MakeWort.description>
-  <MakeWort.jobString>Kokar vört.</MakeWort.jobString>
-
-
+  
+  <!-- EN: Making wort. -->
+  <Make_Wort.jobString>Kokar vört.</Make_Wort.jobString>
+  <!-- EN: make wort -->
+  <Make_Wort.label>koka vört</Make_Wort.label>
+  <!-- EN: Make wort from hops. -->
+  <Make_Wort.description>Koka vört av humle.</Make_Wort.description>
+  
 </LanguageData>

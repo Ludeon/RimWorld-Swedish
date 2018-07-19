@@ -1,18 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: withdrawal -->
+  <PsychiteAddiction.stages.withdrawal.label>abstinens</PsychiteAddiction.stages.withdrawal.label>
+  <!-- EN: psychite addiction -->
+  <PsychiteAddiction.label>psychit-missbruk</PsychiteAddiction.label>
+  
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-1.label>liten</PsychiteTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <PsychiteTolerance.stages.large.label>stor</PsychiteTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsychiteTolerance.stages.massive.label>enorm</PsychiteTolerance.stages.massive.label>
+  <!-- EN: psychite tolerance -->
+  <PsychiteTolerance.label>psychit tolerans</PsychiteTolerance.label>
+  
+  <!-- EN: a yayo high -->
+  <YayoHigh.labelNoun>yayohög</YayoHigh.labelNoun>
+  <!-- EN: high on yayo -->
   <YayoHigh.label>Hög på yayo</YayoHigh.label>
-
-
-  <!-- Psychite addiction -->
-
-  <PsychiteTolerance.label>Psychite tolerans</PsychiteTolerance.label>
-  <PsychiteTolerance.stages.1.label>liten</PsychiteTolerance.stages.1.label>
-  <PsychiteTolerance.stages.2.label>stor</PsychiteTolerance.stages.2.label>
-  <PsychiteTolerance.stages.3.label>enorm</PsychiteTolerance.stages.3.label>
-
-  <PsychiteAddiction.label>Psychite-missbruk</PsychiteAddiction.label>
-  <PsychiteAddiction.stages.1.label>abstinens</PsychiteAddiction.stages.1.label>
-
-
+  
 </LanguageData>

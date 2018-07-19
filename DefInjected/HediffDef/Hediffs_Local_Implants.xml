@@ -1,10 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Implants -->
-
-  <Joywire.label>Glädjetråd</Joywire.label>
-  <Painstopper.label>Smärtstillare</Painstopper.label>
-
-
+  
+  <!-- EN: a joywire -->
+  <Joywire.labelNoun>en glädjetråd</Joywire.labelNoun>
+  <!-- EN: joywire -->
+  <Joywire.label>glädjetråd</Joywire.label>
+  
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>en smärtstillare</Painstopper.labelNoun>
+  <!-- EN: painstopper -->
+  <Painstopper.label>smärtstillare</Painstopper.label>
+  
 </LanguageData>

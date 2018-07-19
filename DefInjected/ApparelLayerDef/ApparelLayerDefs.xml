@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- EN: belt -->
+  <Belt.label>bälte</Belt.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>mitt</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>skinn</OnSkin.label>
+  
+  <!-- EN: headgear -->
+  <Overhead.label>huvudbonad</Overhead.label>
+  
+  <!-- EN: outer -->
+  <Shell.label>yttre</Shell.label>
+  
+</LanguageData>
