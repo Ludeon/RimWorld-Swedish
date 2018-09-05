@@ -3,6 +3,7 @@
   <friendlyNameNative>Svenska</friendlyNameNative>
   <friendlyNameEnglish>Swedish</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
+  <languageWorkerClass>LanguageWorker_Swedish</languageWorkerClass>
   <credits>
 
 
