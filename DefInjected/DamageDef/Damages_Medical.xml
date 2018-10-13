@@ -4,11 +4,11 @@
   <!-- EN: {0} has been executed by cutting. -->
   <ExecutionCut.deathMessage>{0} har blivit avrättad.</ExecutionCut.deathMessage>
   <!-- EN: execution cut -->
-  <ExecutionCut.label>Avrättningssår</ExecutionCut.label>
+  <ExecutionCut.label>TODO</ExecutionCut.label>
   
   <!-- EN: {0} has died during surgery. -->
-  <SurgicalCut.deathMessage>{0} avled under ett kirurgiskt ingrepp.</SurgicalCut.deathMessage>
+  <SurgicalCut.deathMessage>{0} avled under en operation.</SurgicalCut.deathMessage>
   <!-- EN: surgical cut -->
-  <SurgicalCut.label>Kirurgiskt snitt</SurgicalCut.label>
+  <SurgicalCut.label>kirurgiskt snitt</SurgicalCut.label>
   
 </LanguageData>

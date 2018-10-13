@@ -4,7 +4,7 @@
   <!-- EN: agave -->
   <Plant_Agave.label>agave</Plant_Agave.label>
   <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
-  <Plant_Agave.description>En stor-bladad ökenväxt med ätbara blommor och stjälkar.</Plant_Agave.description>
+  <Plant_Agave.description>En storbladad ökenväxt med ätbara blommor och stjälkar.</Plant_Agave.description>
   
   <!-- EN: pincushion cactus -->
   <Plant_PincushionCactus.label>nåldynekaktus</Plant_PincushionCactus.label>
@@ -14,11 +14,11 @@
   <!-- EN: saguaro cactus -->
   <Plant_SaguaroCactus.label>saguarokaktus</Plant_SaguaroCactus.label>
   <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
-  <Plant_SaguaroCactus.description>En stor kaktus utvecklad för torra miljöer.</Plant_SaguaroCactus.description>
+  <Plant_SaguaroCactus.description>En stor kaktus är naturlig i torra miljöer på Jorden. Även om den inte är ett träd ger den en liten del fibröst material som kan användas som trä.</Plant_SaguaroCactus.description>
   
   <!-- EN: drago tree -->
-  <Plant_TreeDrago.label>TODO</Plant_TreeDrago.label>
+  <Plant_TreeDrago.label>drakträd</Plant_TreeDrago.label>
   <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
-  <Plant_TreeDrago.description>TODO</Plant_TreeDrago.description>
+  <Plant_TreeDrago.description>Ett tåligt ökenträd toppat med tjocka spetsiga blad.</Plant_TreeDrago.description>
   
 </LanguageData>

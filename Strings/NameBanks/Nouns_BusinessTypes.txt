@@ -1,15 +1,16 @@
-﻿Company
+﻿TODO
+Företag
 Partners
 Corporation
-Traders
-Industries
+Försäljare
+Industrier
 Incorporated
 Travelers
 Interplanetary
 Shipping
-Export Company
-Import Company
-Transport Company
+Exportföretag
+Importföretag
+Transportföretag
 Securities
 Solutions
 Consortium

@@ -5,7 +5,7 @@
     <li>sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community.</li>
   -->
   <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] har accepterat och gått med i [initiator_nameShortDef]'s gemenskap.</li>
+    <li>sent->[recipient_nameShortDef] har accepterat och anslutit till  [initiator_nameShortDef]s gemenskap.</li>
   </Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:

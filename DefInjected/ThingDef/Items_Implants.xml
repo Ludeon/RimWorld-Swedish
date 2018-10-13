@@ -4,11 +4,11 @@
   <!-- EN: joywire -->
   <Joywire.label>glädjetråd</Joywire.label>
   <!-- EN: A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
-  <Joywire.description>Detta lilla hjärnimplantat gör att du känner dig glad och avslappnad.</Joywire.description>
+  <Joywire.description>Ett hjärnimplantat som stimulerar hjärnans glädjecentrum. Även om det på ett dramatiskt sätt förbättrar en persons humör kommer den filt av glädje som skapas göra det svårt att koncentrera sig på verkligheten. Glädjetrådar är illegala i många världar och är kända för att förstöra hela kulturer.</Joywire.description>
   
   <!-- EN: painstopper -->
   <Painstopper.label>smärtstillare</Painstopper.label>
   <!-- EN: A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
-  <Painstopper.description>Detta hjärnimplantat gör att du inte känner någon smärta.</Painstopper.description>
+  <Painstopper.description>Ett hjärnimplantat som hämmar smärtreceptorer eller upplevelse av smärta. Även om det tillåter användaren att prestera mer så visar det sig att smärta har ett syfte. När du inte känner den kan du skada dig riktigt illa väldigt lätt.</Painstopper.description>
   
 </LanguageData>

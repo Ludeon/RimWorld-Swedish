@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   
+  <!-- EN: cassowary -->
+  <Cassowary.label>kasuar</Cassowary.label>
   <!-- EN: cassowaries -->
   <Cassowary.labelPlural>kasuarer</Cassowary.labelPlural>
   <Cassowary.lifeStages.0.label>kasuarkyckling</Cassowary.lifeStages.0.label>
@@ -25,9 +27,9 @@
   <Cassowary.labelMalePlural>kasuartuppar</Cassowary.labelMalePlural>
   <Cassowary.labelFemale>kasuarhöna</Cassowary.labelFemale>
   <Cassowary.labelFemalePlural>kasuarhönor</Cassowary.labelFemalePlural>
-  <!-- EN: cassowary -->
-  <Cassowary.label>kasuar</Cassowary.label>
-  
+
+  <!-- EN: emu -->
+  <Emu.label>emu</Emu.label>
   <Emu.labelPlural>emuer</Emu.labelPlural>
   <Emu.lifeStages.0.label>emukyckling</Emu.lifeStages.0.label>
   <Emu.lifeStages.0.labelPlural>emukycklingar</Emu.lifeStages.0.labelPlural>
@@ -51,9 +53,9 @@
   <Emu.labelMalePlural>emutuppar</Emu.labelMalePlural>
   <Emu.labelFemale>emuhöna</Emu.labelFemale>
   <Emu.labelFemalePlural>emuhönor</Emu.labelFemalePlural>
-  <!-- EN: emu -->
-  <Emu.label>emu</Emu.label>
-  
+ 
+   <!-- EN: ostrich -->
+  <Ostrich.label>struts</Ostrich.label>
   <!-- EN: ostriches -->
   <Ostrich.labelPlural>strutsar</Ostrich.labelPlural>
   <Ostrich.lifeStages.0.label>strutskyckling</Ostrich.lifeStages.0.label>
@@ -78,9 +80,9 @@
   <Ostrich.labelMalePlural>strutstuppar</Ostrich.labelMalePlural>
   <Ostrich.labelFemale>strutshöna</Ostrich.labelFemale>
   <Ostrich.labelFemalePlural>strutshönor</Ostrich.labelFemalePlural>
-  <!-- EN: ostrich -->
-  <Ostrich.label>struts</Ostrich.label>
-  
+ 
+    <!-- EN: turkey -->
+  <Turkey.label>kalkon</Turkey.label>
   <Turkey.labelPlural>kalkoner</Turkey.labelPlural>
   <Turkey.lifeStages.0.label>kalkonkyckling</Turkey.lifeStages.0.label>
   <Turkey.lifeStages.0.labelPlural>kalkonkycklingar</Turkey.lifeStages.0.labelPlural>
@@ -104,7 +106,5 @@
   <Turkey.labelMalePlural>kalkontuppar</Turkey.labelMalePlural>
   <Turkey.labelFemale>kalkonhöna</Turkey.labelFemale>
   <Turkey.labelFemalePlural>kalkonhönor</Turkey.labelFemalePlural>
-  <!-- EN: turkey -->
-  <Turkey.label>kalkon</Turkey.label>
   
 </LanguageData>

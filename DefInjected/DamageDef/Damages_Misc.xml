@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: {0} has died in an explosion. -->
-  <Bomb.deathMessage>{0} omkom i en explosion.</Bomb.deathMessage>
+  <Bomb.deathMessage>{0} har omkommmit i en explosion.</Bomb.deathMessage>
   <!-- EN: bomb -->
-  <Bomb.label>Explosion</Bomb.label>
+  <Bomb.label>explosion</Bomb.label>
   
   <!-- EN: {0} has died in an explosion. -->
-  <BombSuper.deathMessage>{0} omkom i en explosion.</BombSuper.deathMessage>
+  <BombSuper.deathMessage>{0} har omkommmit i en explosion.</BombSuper.deathMessage>
   <!-- EN: bomb -->
-  <BombSuper.label>Explosion</BombSuper.label>
+  <BombSuper.label>explosion</BombSuper.label>
   
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>{0} dog.</Deterioration.deathMessage>
+  <Deterioration.deathMessage>{0} har dödats.</Deterioration.deathMessage>
   <!-- EN: deterioration -->
-  <Deterioration.label>Förfall</Deterioration.label>
+  <Deterioration.label>försämring</Deterioration.label>
   
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>{0} dog.</Extinguish.deathMessage>
+  <Extinguish.deathMessage>{0} har dödats.</Extinguish.deathMessage>
   <!-- EN: extinguish -->
-  <Extinguish.label>Släcks</Extinguish.label>
+  <Extinguish.label>släcks</Extinguish.label>
   
   <!-- EN: {0} has been killed. -->
-  <Mining.deathMessage>{0} dog.</Mining.deathMessage>
+  <Mining.deathMessage>{0} har dödats.</Mining.deathMessage>
   <!-- EN: mining -->
-  <Mining.label>Bryter</Mining.label>
+  <Mining.label>TODO</Mining.label>
   
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>{0} dog.</Rotting.deathMessage>
+  <Rotting.deathMessage>{0} har dödats.</Rotting.deathMessage>
   <!-- EN: rotting -->
-  <Rotting.label>Ruttnar</Rotting.label>
+  <Rotting.label>ruttnar</Rotting.label>
   
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>{0} dog.</Smoke.deathMessage>
+  <Smoke.deathMessage>{0} har dödats.</Smoke.deathMessage>
   <!-- EN: smoke -->
-  <Smoke.label>Rök</Smoke.label>
+  <Smoke.label>rök</Smoke.label>
   
 </LanguageData>

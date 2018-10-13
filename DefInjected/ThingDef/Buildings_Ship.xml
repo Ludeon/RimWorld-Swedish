@@ -4,31 +4,31 @@
   <!-- EN: ship structural beam -->
   <Ship_Beam.label>skeppets strukturella balk</Ship_Beam.label>
   <!-- EN: A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport. -->
-  <Ship_Beam.description>En strukturell balk runt vilken ett fartyg kan konstrueras.</Ship_Beam.description>
+  <Ship_Beam.description>En strukturell balk runt vilket ett stjärnskepp kan konstrueras. Inkluderar alla nödvändiga ledningar och transitrör för kommunikation, el och materialtransport.</Ship_Beam.description>
   
   <!-- EN: ship computer core -->
-  <Ship_ComputerCore.label>skeppsdatorkärna</Ship_ComputerCore.label>
+  <Ship_ComputerCore.label>datorkärnaför rymdskepp</Ship_ComputerCore.label>
   <!-- EN: A computer core housing an AI persona who can guide a starship through any challenge during a multi-decade starflight. -->
-  <Ship_ComputerCore.description>En datorkärna kapabel att bära en övermänsklig AI som kan leda ett skepp genom alla utmaningar.</Ship_ComputerCore.description>
+  <Ship_ComputerCore.description>En datorkärna som inhyser en AI-personlighet som kan leda ett stjärnskepp genom alla utmaningar under en multi-deceniers lång stjärnresa.</Ship_ComputerCore.description>
   
   <!-- EN: ship cryptosleep casket -->
-  <Ship_CryptosleepCasket.label>kryptosömnkista för skepp</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.label>kryptosömnkapsel för skepp</Ship_CryptosleepCasket.label>
   <!-- EN: A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry. -->
-  <Ship_CryptosleepCasket.description>En kryptosömnkista härdad mot farorna ute i rymden. Förmåga att upprätthålla en person i kryptosömn under århundraden i en rymdmiljön och överleva återinträde i atmosfären.</Ship_CryptosleepCasket.description>
+  <Ship_CryptosleepCasket.description>En kryptosömnkapsel som härdats mot faror från rymden. Har en förmåga att upprätthålla en person i kryptosömn under århundraden och överleva ett återinträde i atmosfären.</Ship_CryptosleepCasket.description>
   
   <!-- EN: ship engine -->
   <Ship_Engine.label>skeppsmotor</Ship_Engine.label>
   <!-- EN: A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars. -->
-  <Ship_Engine.description>En motor kapabel till att slunga ett skepp in i omloppsbana och i kurs mot andra stjärnor.</Ship_Engine.description>
+  <Ship_Engine.description>En reaktionslös Johnson-Tanaka enhet kapabel att skjuta upp ett rymdskepp i omloppsbana och krypa över de stora vidderna mellan stjärnorna.</Ship_Engine.description>
   
   <!-- EN: ship reactor -->
   <Ship_Reactor.label>skeppsreaktor</Ship_Reactor.label>
   <!-- EN: Powers a ship on its journey between stars. Takeoff requires a long powerup process that is likely to attract raiders. -->
-  <Ship_Reactor.description>Driver ett skepp under dess resa genom rymden.</Ship_Reactor.description>
+  <Ship_Reactor.description>Driver ett skepp under dess resa mellan stjärnorna. Start kräver en lång uppstartstid som sannolikt kommer attrahera plundringståg.</Ship_Reactor.description>
   
   <!-- EN: sensor cluster -->
-  <Ship_SensorCluster.label>TODO</Ship_SensorCluster.label>
+  <Ship_SensorCluster.label>sensorkluster</Ship_SensorCluster.label>
   <!-- EN: A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes. -->
-  <Ship_SensorCluster.description>TODO</Ship_SensorCluster.description>
+  <Ship_SensorCluster.description>En multifunktionell sensormodul. Kan skanna av och signalera över långa avstånd gällande kommunikation, upptäckt av hot, villospår, störningar och andra möjliga syften.</Ship_SensorCluster.description>
   
 </LanguageData>

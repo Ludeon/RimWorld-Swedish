@@ -29,21 +29,21 @@
   <!-- EN: Amount -->
   <Wealth_Buildings.graphLabelY>Mängd</Wealth_Buildings.graphLabelY>
   <!-- EN: wealth (buildings) -->
-  <Wealth_Buildings.label>rikedom (byggnader)</Wealth_Buildings.label>
+  <Wealth_Buildings.label>välstånd (byggnader)</Wealth_Buildings.label>
   
   <!-- EN: Amount -->
   <Wealth_Items.graphLabelY>Mängd</Wealth_Items.graphLabelY>
   <!-- EN: wealth (items) -->
-  <Wealth_Items.label>rikedom (saker)</Wealth_Items.label>
+  <Wealth_Items.label>välstånd (saker)</Wealth_Items.label>
   
   <!-- EN: Amount -->
   <Wealth_TameAnimals.graphLabelY>Mängd</Wealth_TameAnimals.graphLabelY>
   <!-- EN: wealth (animals) -->
-  <Wealth_TameAnimals.label>rikedom (djur)</Wealth_TameAnimals.label>
+  <Wealth_TameAnimals.label>välstånd (djur)</Wealth_TameAnimals.label>
   
   <!-- EN: Amount -->
   <Wealth_Total.graphLabelY>Mängd</Wealth_Total.graphLabelY>
   <!-- EN: wealth (total) -->
-  <Wealth_Total.label>rikedom (totalt)</Wealth_Total.label>
+  <Wealth_Total.label>välstånd (totalt)</Wealth_Total.label>
   
 </LanguageData>

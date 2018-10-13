@@ -7,14 +7,14 @@
   <Clear.description>En klar dag. Inga avdrag eller modifieringar.</Clear.description>
   
   <!-- EN: dry thunderstorm -->
-  <DryThunderstorm.label>torrt åskväder</DryThunderstorm.label>
+  <DryThunderstorm.label>torrt åskoväder</DryThunderstorm.label>
   <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
-  <DryThunderstorm.description>Torra åska är farliga eftersom blixten kan starta bränder och det finns inget regn att släcka dom med.</DryThunderstorm.description>
+  <DryThunderstorm.description>Torra åskoväder är farliga eftersom blixten kan starta bränder, och det finns inget regn som kan släcka dem.</DryThunderstorm.description>
   
   <!-- EN: fog -->
   <Fog.label>dimma</Fog.label>
   <!-- EN: Fog reduces the accuracy of ranged weapons. -->
-  <Fog.description>Dimma minskar träffsäkerheten på avståndsvapen.</Fog.description>
+  <Fog.description>Dimma minskar träffsäkerheten för avståndsvapen.</Fog.description>
   
   <!-- EN: foggy rain -->
   <FoggyRain.label>dimmigt regn</FoggyRain.label>
@@ -24,21 +24,21 @@
   <!-- EN: rain -->
   <Rain.label>regn</Rain.label>
   <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <Rain.description>Regn minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</Rain.description>
+  <Rain.description>Regn minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner människor.</Rain.description>
   
   <!-- EN: rainy thunderstorm -->
-  <RainyThunderstorm.label>regnigt åskväder</RainyThunderstorm.label>
+  <RainyThunderstorm.label>regnigt åskoväder</RainyThunderstorm.label>
   <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
-  <RainyThunderstorm.description>Blixten kommer att starta bränder, men regnet kommer att släcka dom. Regnet minskar också träffsäkerheten på avståndsvapen och saktar ner folk.</RainyThunderstorm.description>
+  <RainyThunderstorm.description>Blixten kommer att starta bränder men regnet kommer att släcka dem. Regnet minskar också träffsäkerheten för avståndsvapen och saktar ner folk.</RainyThunderstorm.description>
   
   <!-- EN: gentle snow -->
   <SnowGentle.label>lätt snö</SnowGentle.label>
   <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <SnowGentle.description>Snö minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</SnowGentle.description>
+  <SnowGentle.description>Snö minskar träffsäkerheten för avståndsvapen, släcker eld och saktar ner folk.</SnowGentle.description>
   
   <!-- EN: hard snow -->
   <SnowHard.label>tung snö</SnowHard.label>
   <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <SnowHard.description>Snö minskar träffsäkerheten på avståndsvapen, släcker eld och saktar ner folk.</SnowHard.description>
+  <SnowHard.description>Snö minskar träffsäkerheten för avståndsvapen, släcker eld och saktar ner folk.</SnowHard.description>
   
 </LanguageData>

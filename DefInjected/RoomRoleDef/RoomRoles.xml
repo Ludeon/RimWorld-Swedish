@@ -23,10 +23,10 @@
   <Laboratory.label>laboratorium</Laboratory.label>
   
   <!-- EN: none -->
-  <None.label>ingen</None.label>
+  <None.label>inget</None.label>
   
   <!-- EN: prison barracks -->
-  <PrisonBarracks.label>fängelse baracker</PrisonBarracks.label>
+  <PrisonBarracks.label>fängelsebaracker</PrisonBarracks.label>
   
   <!-- EN: prison cell -->
   <PrisonCell.label>fängelsecell</PrisonCell.label>

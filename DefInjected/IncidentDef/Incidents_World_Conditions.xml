@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
-  <Aurora.letterText>Ett vackert norrsken belyser himlen.\n\nDe böljande färgerna ökar stämningen hos de som är utanför för att se dem och göra natten ljusare.</Aurora.letterText>
+  <Aurora.letterText>Ett vackert norrsken lyser upp himlen.\n\nDe böljande färgerna ökar stämningen hos de som är utomhus och ser dem, och gör natten ljusare.</Aurora.letterText>
   <!-- EN: Aurora -->
   <Aurora.letterLabel>Norrsken</Aurora.letterLabel>
   <!-- EN: aurora -->
@@ -16,7 +16,7 @@
   <Eclipse.label>solförmörkelse</Eclipse.label>
   
   <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
-  <SolarFlare.letterText>En soleruption har börjat.\n\nDen intensiva strålningen har slått ut alla elektroniska enheter.\n\nDet borde sluta inom en dag.</SolarFlare.letterText>
+  <SolarFlare.letterText>En soleruption har startat.\n\nDen intensiva strålningen har slagit ut alla elektroniska apparater.\n\nDet bör upphöra inom ett dygn.</SolarFlare.letterText>
   <!-- EN: Solar flare -->
   <SolarFlare.letterLabel>Soleruption</SolarFlare.letterLabel>
   <!-- EN: solar flare -->

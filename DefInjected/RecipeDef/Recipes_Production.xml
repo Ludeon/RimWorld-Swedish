@@ -6,17 +6,17 @@
   <!-- EN: destroy weapon -->
   <DestroyWeapon.label>förstör vapen</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyWeapon.description>Använd värme och förstör oönskade vapen. Snabbare än att smälta och fungerar på icke smältbara vapen men ger inga resurser.</DestroyWeapon.description>
+  <DestroyWeapon.description>Använd värme och förstör oönskade vapen. Denna process är snabbare än att smälta ned dem, den fungerar även på icke smältbara vapen, men ger dig inga resurser.</DestroyWeapon.description>
   
   <!-- EN: Smelting metal from slag. -->
-  <ExtractMetalFromSlag.jobString>Extraherar metall från slagg.</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.jobString>Smälter metall från slagg.</ExtractMetalFromSlag.jobString>
   <!-- EN: smelt metal from slag -->
-  <ExtractMetalFromSlag.label>extrahera metall från slagg.</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.label>smält metall från slagg.</ExtractMetalFromSlag.label>
   <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
   <ExtractMetalFromSlag.description>Använd värme och starka elektromagneter för att separera användbara metaller från stora bitar slagg.</ExtractMetalFromSlag.description>
   
   <!-- EN: Refining chemfuel from organics. -->
-  <Make_ChemfuelFromOrganics.jobString>Tillverka kemiskt bränsle från organiskt material.</Make_ChemfuelFromOrganics.jobString>
+  <Make_ChemfuelFromOrganics.jobString>Tillverkar kemiskt bränsle från organiskt material.</Make_ChemfuelFromOrganics.jobString>
   <!-- EN: make chemfuel from organics -->
   <Make_ChemfuelFromOrganics.label>tillverka kemiskt bränsle från organiskt material</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
@@ -27,41 +27,41 @@
   <!-- EN: make chemfuel from wood -->
   <Make_ChemfuelFromWood.label>tillverka kemiskt bränsle från trä</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
-  <Make_ChemfuelFromWood.description>Gör ett parti kemiskt bränsle genom förgasning av ved.</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.description>Tillverka ett parti kemiskt bränsle genom förgasning av ved.</Make_ChemfuelFromWood.description>
   
   <!-- EN: Making component. -->
-  <Make_ComponentIndustrial.jobString>Gör en komponent.</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.jobString>Tillverkar komponent.</Make_ComponentIndustrial.jobString>
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>Gör en komponent</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>tillverka komponent</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
-  <Make_ComponentIndustrial.description>Göra en komponent.</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.description>Tillverka en komponent.</Make_ComponentIndustrial.description>
   
   <!-- EN: Making advanced component. -->
-  <Make_ComponentSpacer.jobString>TODO</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.jobString>Tillverkar avancerad komponent</Make_ComponentSpacer.jobString>
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>TODO</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>tillverka avancerad komponent</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>TODO</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>Tillverkar en avancerad komponent</Make_ComponentSpacer.description>
   
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>TODO</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>Tillverkar lappläder</Make_Patchleather.jobString>
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>TODO</Make_Patchleather.label>
+  <Make_Patchleather.label>tillverka lappläder</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
-  <Make_Patchleather.description>TODO</Make_Patchleather.description>
+  <Make_Patchleather.description>Kombinera olika typer av läder för att tillverka ett svagt lappläder.</Make_Patchleather.description>
   
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksAny.jobString>Hugger stenblock.</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.jobString>Hugger ut mursten från stenblock.</Make_StoneBlocksAny.jobString>
   <!-- EN: make any stone blocks -->
-  <Make_StoneBlocksAny.label>hugg stenblock</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.label>hugg ut någon sorts mursten</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>Hugger ner en stor stenbit till användbara stenblock.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>Hugger ut mursten från stora stenblock.</Make_StoneBlocksAny.description>
   
   <!-- EN: Smelting weapon. -->
-  <SmeltWeapon.jobString>Extraherar metall från vapen.</SmeltWeapon.jobString>
+  <SmeltWeapon.jobString>Smälter vapen.</SmeltWeapon.jobString>
   <!-- EN: smelt weapon -->
-  <SmeltWeapon.label>extrahera metall från vapen</SmeltWeapon.label>
+  <SmeltWeapon.label>smält vapen</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
-  <SmeltWeapon.description>Använd värme och starka elektromagneter för att separera användbara metaller ifrån vapen.</SmeltWeapon.description>
+  <SmeltWeapon.description>Använd värme och starka elektromagneter för att ta isär vapen till användbara resurser.</SmeltWeapon.description>
   
 </LanguageData>

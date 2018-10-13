@@ -20,12 +20,7 @@
     <li>maybe_adjective->[AdjectiveBadass]</li>
   -->
   <NamerTraderGeneral.rulePack.rulesStrings>
-    <li>name->[businessname] [businesstype]</li>
-    <li>name->[businessname] [businesstype]</li>
-    <li>name->[businessname] [businesstype]</li>
-    <li>name->[businessname] [businesstype]</li>
-    <li>name->[color] [animal] [businesstype]</li>
-    <li>name->[letter][letter] [businesstype]</li>
+    <li>TODO</li>
   </NamerTraderGeneral.rulePack.rulesStrings>
   
 </LanguageData>

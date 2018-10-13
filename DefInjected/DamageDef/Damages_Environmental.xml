@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: {0} has burned to death. -->
-  <Burn.deathMessage>{0} brann ihjäl.</Burn.deathMessage>
+  <Burn.deathMessage>{0} omkom i en brand.</Burn.deathMessage>
   <!-- EN: burn -->
-  <Burn.label>Brännskada</Burn.label>
+  <Burn.label>brännskada</Burn.label>
   
   <!-- EN: {0} has burned to death. -->
   <Flame.deathMessage>{0} omkom i en brand.</Flame.deathMessage>
   <!-- EN: flame -->
-  <Flame.label>Eld</Flame.label>
+  <Flame.label>eldsvåda</Flame.label>
   
   <!-- EN: {0} has succumbed to frostbite. -->
-  <Frostbite.deathMessage>{0} frös ihjäl.</Frostbite.deathMessage>
+  <Frostbite.deathMessage>{0} omkom av köldskador.</Frostbite.deathMessage>
   <!-- EN: frostbite -->
-  <Frostbite.label>Frostskada</Frostbite.label>
+  <Frostbite.label>köldskada</Frostbite.label>
   
   <!-- EN: {0} has been killed by a tornado. -->
-  <TornadoScratch.deathMessage>TODO</TornadoScratch.deathMessage>
+  <TornadoScratch.deathMessage>{0} har dödats av en tornado.</TornadoScratch.deathMessage>
   <!-- EN: scratch -->
-  <TornadoScratch.label>{0} har dödats av en tornado.</TornadoScratch.label>
+  <TornadoScratch.label>rivsår</TornadoScratch.label>
   
 </LanguageData>

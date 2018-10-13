@@ -12,18 +12,18 @@
   <!-- EN: intense pain -->
   <FibrousMechanites.stages.intense_pain.label>allvarlig smärta</FibrousMechanites.stages.intense_pain.label>
   <!-- EN: fibrous mechanites -->
-  <FibrousMechanites.label>Vävnadsmekaniter</FibrousMechanites.label>
+  <FibrousMechanites.label>vävnadsmekaniter</FibrousMechanites.label>
   
   <!-- EN: minor -->
-  <Flu.stages.minor-0.label>trivial</Flu.stages.minor-0.label>
+  <Flu.stages.minor-0.label>begynnande</Flu.stages.minor-0.label>
   <!-- EN: minor -->
   <Flu.stages.minor-1.label>lindrig</Flu.stages.minor-1.label>
   <!-- EN: major -->
   <Flu.stages.major.label>allvarlig</Flu.stages.major.label>
   <!-- EN: extreme -->
-  <Flu.stages.extreme.label>extrem</Flu.stages.extreme.label>
+  <Flu.stages.extreme.label>livshotande</Flu.stages.extreme.label>
   <!-- EN: flu -->
-  <Flu.label>Influensa</Flu.label>
+  <Flu.label>influensa</Flu.label>
   
   <!-- EN: gut worms -->
   <GutWorms.label>bandmask</GutWorms.label>
@@ -35,7 +35,7 @@
   <!-- EN: major -->
   <Malaria.stages.major.label>allvarlig</Malaria.stages.major.label>
   <!-- EN: extreme -->
-  <Malaria.stages.extreme.label>extrem</Malaria.stages.extreme.label>
+  <Malaria.stages.extreme.label>livshotande</Malaria.stages.extreme.label>
   <!-- EN: malaria -->
   <Malaria.label>malaria</Malaria.label>
   
@@ -53,7 +53,7 @@
   <!-- EN: extreme -->
   <Plague.stages.extreme-1.label>extrem</Plague.stages.extreme-1.label>
   <!-- EN: plague -->
-  <Plague.label>Pest</Plague.label>
+  <Plague.label>pest</Plague.label>
   
   <!-- EN: mild pain -->
   <SensoryMechanites.stages.mild_pain.label>lindrig smärta</SensoryMechanites.stages.mild_pain.label>
@@ -75,7 +75,7 @@
   <!-- EN: extreme -->
   <SleepingSickness.stages.extreme-1.label>extrem</SleepingSickness.stages.extreme-1.label>
   <!-- EN: sleeping sickness -->
-  <SleepingSickness.label>Sömnsjuka</SleepingSickness.label>
+  <SleepingSickness.label>narkolepsi</SleepingSickness.label>
   
   <!-- EN: minor -->
   <WoundInfection.stages.minor.label>lindrig</WoundInfection.stages.minor.label>
@@ -84,7 +84,7 @@
   <!-- EN: extreme -->
   <WoundInfection.stages.extreme-0.label>extrem</WoundInfection.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <WoundInfection.stages.extreme-1.label>extrem</WoundInfection.stages.extreme-1.label>
+  <WoundInfection.stages.extreme-1.label>livshotande</WoundInfection.stages.extreme-1.label>
   <!-- EN: an infection -->
   <WoundInfection.labelNoun>en infektion</WoundInfection.labelNoun>
   <!-- EN: infection -->

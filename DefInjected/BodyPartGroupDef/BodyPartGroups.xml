@@ -5,7 +5,7 @@
   <Arms.label>armar</Arms.label>
   
   <!-- EN: beak -->
-  <Beak.label>näbb</Beak.label>
+  <Beak.label>näbbar</Beak.label>
   
   <!-- EN: eyes -->
   <Eyes.label>ögon</Eyes.label>
@@ -16,7 +16,7 @@
   <!-- EN: claws -->
   <FrontLeftClaws.labelShort>klor</FrontLeftClaws.labelShort>
   <!-- EN: front left claws -->
-  <FrontLeftClaws.label>främre vänsterklo</FrontLeftClaws.label>
+  <FrontLeftClaws.label>vänstra flamklor</FrontLeftClaws.label>
   
   <!-- EN: leg -->
   <FrontLeftLeg.labelShort>ben</FrontLeftLeg.labelShort>
@@ -31,7 +31,7 @@
   <!-- EN: claws -->
   <FrontRightClaws.labelShort>klor</FrontRightClaws.labelShort>
   <!-- EN: front right claws -->
-  <FrontRightClaws.label>främmre högerklo</FrontRightClaws.label>
+  <FrontRightClaws.label> högra framklor</FrontRightClaws.label>
   
   <!-- EN: leg -->
   <FrontRightLeg.labelShort>ben</FrontRightLeg.labelShort>
@@ -80,7 +80,7 @@
   <!-- EN: blade -->
   <RightBlade.labelShort>klinga</RightBlade.labelShort>
   <!-- EN: right blade -->
-  <RightBlade.label>vänster klinga</RightBlade.label>
+  <RightBlade.label>höger klinga</RightBlade.label>
   
   <!-- EN: fist -->
   <RightHand.labelShort>näve</RightHand.labelShort>

@@ -1,5 +1,6 @@
-﻿Old
-New
+﻿TODO
+Gammal
+Ny
 Nova
 Far
 

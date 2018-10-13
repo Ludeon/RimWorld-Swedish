@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: recruit -->
-  <AttemptRecruit.label>TODO</AttemptRecruit.label>
+  <AttemptRecruit.label>rekrytera</AttemptRecruit.label>
   
   <!-- EN: execute -->
-  <Execution.label>TODO</Execution.label>
+  <Execution.label>avrätta</Execution.label>
   
   <!-- EN: no interaction -->
-  <NoInteraction.label>TODO</NoInteraction.label>
+  <NoInteraction.label>ingen interaktion</NoInteraction.label>
   
   <!-- EN: release -->
-  <Release.label>TODO</Release.label>
+  <Release.label>frige</Release.label>
   
 </LanguageData>

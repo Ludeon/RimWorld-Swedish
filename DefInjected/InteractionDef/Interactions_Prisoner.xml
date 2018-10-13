@@ -38,7 +38,7 @@
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>logentry->Försökte bygga en relation med [other_nameShortIndef].</li>
+    <li>TODO</li>
   </BuildRapport.logRulesInitiator.rulesStrings>
   <!-- EN: try to get to know -->
   <BuildRapport.label>försökte lära känna</BuildRapport.label>
@@ -50,7 +50,7 @@
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
   <RecruitAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Försökte rekrytera [other_nameShortIndef].</li>
+    <li>TODO</li>
   </RecruitAttempt.logRulesInitiator.rulesStrings>
   <!-- EN: recruit attempt -->
   <RecruitAttempt.label>rekryteringförsök</RecruitAttempt.label>

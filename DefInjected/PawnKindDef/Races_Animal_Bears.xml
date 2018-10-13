@@ -1,13 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   
+    <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>grizzlybjörn</Bear_Grizzly.label>
   <Bear_Grizzly.labelPlural>grizzlybjörnar</Bear_Grizzly.labelPlural>
-  <Bear_Grizzly.lifeStages.0.label>grizzlybjörnunge</Bear_Grizzly.lifeStages.0.label>
-  <Bear_Grizzly.lifeStages.0.labelPlural>grizzlybjörnungar</Bear_Grizzly.lifeStages.0.labelPlural>
+  <Bear_Grizzly.lifeStages.0.label>grizzlybjörnsunge</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.0.labelPlural>grizzlybjörnsungar</Bear_Grizzly.lifeStages.0.labelPlural>
   <Bear_Grizzly.lifeStages.0.labelMale>grizzlybjörnunge</Bear_Grizzly.lifeStages.0.labelMale>
-  <Bear_Grizzly.lifeStages.0.labelMalePlural>grizzlybjörnungar</Bear_Grizzly.lifeStages.0.labelMalePlural>
-  <Bear_Grizzly.lifeStages.0.labelFemale>grizzlybjörnunge</Bear_Grizzly.lifeStages.0.labelFemale>
-  <Bear_Grizzly.lifeStages.0.labelFemalePlural>grizzlybjörnungar</Bear_Grizzly.lifeStages.0.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.0.labelMalePlural>grizzlybjörnsungar</Bear_Grizzly.lifeStages.0.labelMalePlural>
+  <Bear_Grizzly.lifeStages.0.labelFemale>grizzlybjörnsunge</Bear_Grizzly.lifeStages.0.labelFemale>
+  <Bear_Grizzly.lifeStages.0.labelFemalePlural>grizzlybjörnsungar</Bear_Grizzly.lifeStages.0.labelFemalePlural>
   <Bear_Grizzly.lifeStages.1.label>grizzlybjörn</Bear_Grizzly.lifeStages.1.label>
   <Bear_Grizzly.lifeStages.1.labelPlural>grizzlybjörnar</Bear_Grizzly.lifeStages.1.labelPlural>
   <Bear_Grizzly.lifeStages.1.labelMale>grizzlybjörn</Bear_Grizzly.lifeStages.1.labelMale>
@@ -20,13 +22,13 @@
   <Bear_Grizzly.lifeStages.2.labelMalePlural>grizzlybjörnar</Bear_Grizzly.lifeStages.2.labelMalePlural>
   <Bear_Grizzly.lifeStages.2.labelFemale>grizzlybjörn</Bear_Grizzly.lifeStages.2.labelFemale>
   <Bear_Grizzly.lifeStages.2.labelFemalePlural>grizzlybjörnar</Bear_Grizzly.lifeStages.2.labelFemalePlural>
-  <Bear_Grizzly.labelMale>grizzlybjörnhanne</Bear_Grizzly.labelMale>
+  <Bear_Grizzly.labelMale>grizzlybjörnshanne</Bear_Grizzly.labelMale>
   <Bear_Grizzly.labelMalePlural>grizzlybjörnarhannar</Bear_Grizzly.labelMalePlural>
-  <Bear_Grizzly.labelFemale>grizzlybjörnhona</Bear_Grizzly.labelFemale>
-  <Bear_Grizzly.labelFemalePlural>grizzlybjörnarhonor</Bear_Grizzly.labelFemalePlural>
-  <!-- EN: grizzly bear -->
-  <Bear_Grizzly.label>grizzlybjörn</Bear_Grizzly.label>
-  
+  <Bear_Grizzly.labelFemale>grizzlybjörnshona</Bear_Grizzly.labelFemale>
+  <Bear_Grizzly.labelFemalePlural>grizzlybjörnarnshonor</Bear_Grizzly.labelFemalePlural>
+
+    <!-- EN: polar bear -->
+  <Bear_Polar.label>isbjörn</Bear_Polar.label>
   <Bear_Polar.labelPlural>isbjörnnar</Bear_Polar.labelPlural>
   <Bear_Polar.lifeStages.0.label>isbjörn</Bear_Polar.lifeStages.0.label>
   <Bear_Polar.lifeStages.0.labelPlural>isbjörnar</Bear_Polar.lifeStages.0.labelPlural>
@@ -46,11 +48,9 @@
   <Bear_Polar.lifeStages.2.labelMalePlural>isbjörnar</Bear_Polar.lifeStages.2.labelMalePlural>
   <Bear_Polar.lifeStages.2.labelFemale>isbjörn</Bear_Polar.lifeStages.2.labelFemale>
   <Bear_Polar.lifeStages.2.labelFemalePlural>isbjörnar</Bear_Polar.lifeStages.2.labelFemalePlural>
-  <Bear_Polar.labelMale>isbjörnhanne</Bear_Polar.labelMale>
-  <Bear_Polar.labelMalePlural>isbjörnhannar</Bear_Polar.labelMalePlural>
-  <Bear_Polar.labelFemale>isbjörnhona</Bear_Polar.labelFemale>
-  <Bear_Polar.labelFemalePlural>isbjörnhonor</Bear_Polar.labelFemalePlural>
-  <!-- EN: polar bear -->
-  <Bear_Polar.label>isbjörn</Bear_Polar.label>
+  <Bear_Polar.labelMale>isbjörnshanne</Bear_Polar.labelMale>
+  <Bear_Polar.labelMalePlural>isbjörnshannar</Bear_Polar.labelMalePlural>
+  <Bear_Polar.labelFemale>isbjörnshona</Bear_Polar.labelFemale>
+  <Bear_Polar.labelFemalePlural>isbjörnshonor</Bear_Polar.labelFemalePlural>
   
 </LanguageData>

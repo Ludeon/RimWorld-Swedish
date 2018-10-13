@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+röd
+svart
+grå
+askgrå
 
-dark
-shadow
-night
+dunkel
+mörk
+natt

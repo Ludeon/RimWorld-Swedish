@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: advanced -->
-  <Advanced.label>TODO</Advanced.label>
+  <Advanced.label>avancerad</Advanced.label>
   
   <!-- EN: intermediate -->
-  <Intermediate.label>TODO</Intermediate.label>
+  <Intermediate.label>medelmåttig</Intermediate.label>
   
   <!-- EN: none -->
-  <None.label>TODO</None.label>
+  <None.label>ingen</None.label>
   
   <!-- EN: simple -->
-  <Simple.label>TODO</Simple.label>
+  <Simple.label>simpel</Simple.label>
   
 </LanguageData>

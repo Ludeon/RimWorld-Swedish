@@ -10,9 +10,9 @@
   <!-- EN: town guard -->
   <Town_Guard.label>stadsvakt</Town_Guard.label>
   
-  <Town_Trader.labelPlural>handelsmän</Town_Trader.labelPlural>
+  <Town_Trader.labelPlural>handlare</Town_Trader.labelPlural>
   <!-- EN: town trader -->
-  <Town_Trader.label>handelsman</Town_Trader.label>
+  <Town_Trader.label>handlare</Town_Trader.label>
   
   <Villager.labelPlural>bybor</Villager.labelPlural>
   <!-- EN: villager -->

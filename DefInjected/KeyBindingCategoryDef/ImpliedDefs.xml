@@ -2,63 +2,63 @@
 <LanguageData>
   
   <!-- EN: Golv tab -->
-  <Architect_Floors.label>golv flik</Architect_Floors.label>
+  <Architect_Floors.label>Golvflik</Architect_Floors.label>
   <!-- EN: Key bindings for the "Golv" section of the Architect menu -->
   <Architect_Floors.description>Tangentbordsbindning för "Golv" sektionen av Arkitektmenyn</Architect_Floors.description>
   
   <!-- EN: Möbler tab -->
-  <Architect_Furniture.label>möbel flik</Architect_Furniture.label>
+  <Architect_Furniture.label>Möbelflik</Architect_Furniture.label>
   <!-- EN: Key bindings for the "Möbler" section of the Architect menu -->
   <Architect_Furniture.description>Tangentbordsbindning för "Möbel" sektionen av Arkitektmenyn</Architect_Furniture.description>
   
   <!-- EN: Underhållning tab -->
-  <Architect_Joy.label>glädje flik</Architect_Joy.label>
+  <Architect_Joy.label>Fritidsflik</Architect_Joy.label>
   <!-- EN: Key bindings for the "Underhållning" section of the Architect menu -->
-  <Architect_Joy.description>Tangentbordsbindning för "Glädje" sektionen av Arkitektmenyn</Architect_Joy.description>
+  <Architect_Joy.description>Tangentbordsbindning för "Fritid" sektionen av Arkitektmenyn</Architect_Joy.description>
   
   <!-- EN: Diverse tab -->
-  <Architect_Misc.label>diverse flik</Architect_Misc.label>
+  <Architect_Misc.label>Diverseflik</Architect_Misc.label>
   <!-- EN: Key bindings for the "Diverse" section of the Architect menu -->
   <Architect_Misc.description>Tangentbordsbindning för "Diverse" sektionen av Arkitektmenyn</Architect_Misc.description>
   
   <!-- EN: Order tab -->
-  <Architect_Orders.label>order flik</Architect_Orders.label>
+  <Architect_Orders.label>Orderflik</Architect_Orders.label>
   <!-- EN: Key bindings for the "Order" section of the Architect menu -->
   <Architect_Orders.description>Tangentbordsbindning för "Order" sektionen av Arkitektmenyn</Architect_Orders.description>
   
   <!-- EN: Ström tab -->
-  <Architect_Power.label>ström flik</Architect_Power.label>
+  <Architect_Power.label>Elflik</Architect_Power.label>
   <!-- EN: Key bindings for the "Ström" section of the Architect menu -->
-  <Architect_Power.description>Tangentbordsbindning för "Ström" sektionen av Arkitektmenyn</Architect_Power.description>
+  <Architect_Power.description>Tangentbordsbindning för "El" sektionen av Arkitektmenyn</Architect_Power.description>
   
   <!-- EN: Produktion tab -->
-  <Architect_Production.label>produktion flik</Architect_Production.label>
+  <Architect_Production.label>Produktionsflik</Architect_Production.label>
   <!-- EN: Key bindings for the "Produktion" section of the Architect menu -->
   <Architect_Production.description>Tangentbordsbindning för "Produktion" sektionen av Arkitektmenyn</Architect_Production.description>
   
   <!-- EN: Säkerhet tab -->
-  <Architect_Security.label>säkerhet flik</Architect_Security.label>
+  <Architect_Security.label>Säkerhetsflik</Architect_Security.label>
   <!-- EN: Key bindings for the "Säkerhet" section of the Architect menu -->
   <Architect_Security.description>Tangentbordsbindning för "Säkerhet" sektionen av Arkitektmenyn</Architect_Security.description>
   
   <!-- EN: Skepp tab -->
-  <Architect_Ship.label>skepp flik</Architect_Ship.label>
+  <Architect_Ship.label>Skeppsflik</Architect_Ship.label>
   <!-- EN: Key bindings for the "Skepp" section of the Architect menu -->
   <Architect_Ship.description>Tangentbordsbindning för "Skepp" sektionen av Arkitektmenyn</Architect_Ship.description>
   
   <!-- EN: Strukturer tab -->
-  <Architect_Structure.label>struktur flik</Architect_Structure.label>
+  <Architect_Structure.label>Konstruktionsflik</Architect_Structure.label>
   <!-- EN: Key bindings for the "Strukturer" section of the Architect menu -->
-  <Architect_Structure.description>Tangentbordsbindning för "Struktur" sektionen av Arkitektmenyn</Architect_Structure.description>
+  <Architect_Structure.description>Tangentbordsbindning för "Konstruktion" sektionen av Arkitektmenyn</Architect_Structure.description>
   
   <!-- EN: Temperaturemperatur tab -->
-  <Architect_Temperature.label>temperatur flik</Architect_Temperature.label>
+  <Architect_Temperature.label>Temperaturflik</Architect_Temperature.label>
   <!-- EN: Key bindings for the "Temperaturemperatur" section of the Architect menu -->
   <Architect_Temperature.description>Tangentbordsbindning för "Temperatur" sektionen av Arkitektmenyn</Architect_Temperature.description>
   
   <!-- EN: Tilldela Zoner tab -->
-  <Architect_Zone.label>zon/Område flik</Architect_Zone.label>
+  <Architect_Zone.label>Områdesflik</Architect_Zone.label>
   <!-- EN: Key bindings for the "Tilldela Zoner" section of the Architect menu -->
-  <Architect_Zone.description>Tangentbordsbindning för "zon/Område" sektionen av Arkitektmenyn</Architect_Zone.description>
+  <Architect_Zone.description>Tangentbordsbindning för "Område" sektionen av Arkitektmenyn</Architect_Zone.description>
   
 </LanguageData>

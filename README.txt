@@ -10,6 +10,7 @@ http://ludeon.com/forums/index.php?topic=4632.0
 
 ### Currently active translators
 - Patrik Bohlin
+- Charlie Wester
 
 ### Archived translations, 2016
 - Rocksummit

@@ -14,7 +14,7 @@
   <!-- EN: duster -->
   <Apparel_Duster.label>rock</Apparel_Duster.label>
   <!-- EN: A long duster coat for blocking the sun and grit of the outdoors. -->
-  <Apparel_Duster.description>En långrock som skyddar mot öknens sol och sand.</Apparel_Duster.description>
+  <Apparel_Duster.description>En långrock som skyddar sol och sand utomhus.</Apparel_Duster.description>
   
   <!-- EN: flak jacket -->
   <Apparel_FlakJacket.label>TODO</Apparel_FlakJacket.label>
@@ -34,31 +34,31 @@
   <!-- EN: jacket -->
   <Apparel_Jacket.label>jacka</Apparel_Jacket.label>
   <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
-  <Apparel_Jacket.description>En tålig jacka som motverkar skrapsår och blåmärken och för att hålla en varmt i kyligt väder.</Apparel_Jacket.description>
+  <Apparel_Jacket.description>En tålig jacka som motverkar skrapsår och blåmärken och för att hålla en varm i kyligt väder.</Apparel_Jacket.description>
   
   <!-- EN: pants -->
   <Apparel_Pants.label>byxor</Apparel_Pants.label>
   <!-- EN: A simple set of pants. -->
-  <Apparel_Pants.description>Ett enkelt par byxor.</Apparel_Pants.description>
+  <Apparel_Pants.description>Ett par enkla byxor.</Apparel_Pants.description>
   
   <!-- EN: parka -->
   <Apparel_Parka.label>parka</Apparel_Parka.label>
   <!-- EN: A parka for staying warm in even the coldest of temperatures. -->
-  <Apparel_Parka.description>En tjock parka för att hålla sig varm även i de kallaste temperaturerna.</Apparel_Parka.description>
+  <Apparel_Parka.description>En parka för att hålla sig varm även i de kallaste temperaturerna.</Apparel_Parka.description>
   
   <!-- EN: plate armor -->
-  <Apparel_PlateArmor.label>TODO</Apparel_PlateArmor.label>
+  <Apparel_PlateArmor.label>rustning</Apparel_PlateArmor.label>
   <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
-  <Apparel_PlateArmor.description>TODO</Apparel_PlateArmor.description>
+  <Apparel_PlateArmor.description>Överlappande solida skyddande plattor som skyddar hela kroppen från nacken och nedåt.</Apparel_PlateArmor.description>
   
   <!-- EN: power armor -->
   <Apparel_PowerArmor.label>kraftrustning</Apparel_PowerArmor.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks. Neuro-memetic robotics allow a human to wear the heavy armor and still be capable of moving easily.\n\nPowered armor usually used by heavy infantry and space marines from spacer-tech militaries. -->
-  <Apparel_PowerArmor.description>Kraftdriven rustning, oftast använd av stormtrupper från avancerade glittervärldsplaneter.</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.description>En eldriven kropsrustning. Lager av plastålvävda plattor är mycket effektiva på att skydda inkommande attacker. robotteknologin inom neuromemetik tillåter människor att bära denna tunga rustning och fortfarande kunna röra sig snabbt och smidigt.\n\nKraftrustningar används ofta av tungt infanteri och rymdsoldater från rymdtekniksk militär.</Apparel_PowerArmor.description>
   
   <!-- EN: tribalwear -->
   <Apparel_TribalA.label>stamkläder</Apparel_TribalA.label>
   <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
-  <Apparel_TribalA.description>En utstyrsel gjord med hjälp av stenåldersverktyg.</Apparel_TribalA.description>
+  <Apparel_TribalA.description>En utstyrsel gjord med hjälp av stenåldersverktyg.Även om det ser primitivt ut isolerar det effektivt bäraren.  </Apparel_TribalA.description>
   
 </LanguageData>

@@ -8,7 +8,7 @@
   <Clavicle.label>nyckelben</Clavicle.label>
   
   <!-- EN: femur -->
-  <Femur.label>lår</Femur.label>
+  <Femur.label>femur</Femur.label>
   
   <!-- EN: finger -->
   <Finger.label>finger</Finger.label>
@@ -17,13 +17,13 @@
   <Hand.label>hand</Hand.label>
   
   <!-- EN: humerus -->
-  <Humerus.label>armled</Humerus.label>
+  <Humerus.label>humerus</Humerus.label>
   
   <!-- EN: pelvis -->
   <Pelvis.label>bäcken</Pelvis.label>
   
   <!-- EN: radius -->
-  <Radius.label>handled</Radius.label>
+  <Radius.label>radius</Radius.label>
   
   <!-- EN: shoulder -->
   <Shoulder.label>axel</Shoulder.label>
@@ -32,7 +32,7 @@
   <Sternum.label>bröstben</Sternum.label>
   
   <!-- EN: tibia -->
-  <Tibia.label>skenben</Tibia.label>
+  <Tibia.label>tibia</Tibia.label>
   
   <!-- EN: toe -->
   <Toe.label>tå</Toe.label>

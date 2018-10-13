@@ -97,12 +97,12 @@
   <Firefighter.description>Släck bränder i kolonin.</Firefighter.description>
   
   <!-- UNUSED -->
-  <Flicker.label>Klicka</Flicker.label>
-  <Flicker.description>Klickar på knappar. Till exempel när du anger att strömmen ett torn skall växlas, så måste en lyktgubbe manuellt klicka på den för att växla strömmen.</Flicker.description>
-  <Flicker.labelShort>Lyktgubbe</Flicker.labelShort>
-  <Flicker.pawnLabel>Lyktgubbe</Flicker.pawnLabel>
-  <Flicker.gerundLabel>Klickar</Flicker.gerundLabel>
-  <Flicker.verb>Klicka</Flicker.verb>
+  <Flicker.label>UNUSED</Flicker.label>
+  <Flicker.description>UNUSED</Flicker.description>
+  <Flicker.labelShort>UNUSED</Flicker.labelShort>
+  <Flicker.pawnLabel>UNUSED</Flicker.pawnLabel>
+  <Flicker.gerundLabel>UNUSED</Flicker.gerundLabel>
+  <Flicker.verb>UNUSED</Flicker.verb>
   
   <!-- EN: Grow -->
   <Growing.labelShort>Odla</Growing.labelShort>
@@ -188,12 +188,12 @@
   <PatientBedRest.description>Vila i sängen för att återhämta sig från icke-omedelbart livshotande medicinska problem.</PatientBedRest.description>
   
   <!-- UNUSED -->
-  <PatientEmergency.label>Patient</PatientEmergency.label>
-  <PatientEmergency.description>Gå till en medicinsk säng för behandling om du har ett omedelbart livshotande hälsotillstånd.</PatientEmergency.description>
-  <PatientEmergency.labelShort>Patient</PatientEmergency.labelShort>
-  <PatientEmergency.pawnLabel>Patient</PatientEmergency.pawnLabel>
-  <PatientEmergency.gerundLabel>Patient</PatientEmergency.gerundLabel>
-  <PatientEmergency.verb>Bli patient</PatientEmergency.verb>
+  <PatientEmergency.label>UNUSED</PatientEmergency.label>
+  <PatientEmergency.description>UNUSED</PatientEmergency.description>
+  <PatientEmergency.labelShort>UNUSED</PatientEmergency.labelShort>
+  <PatientEmergency.pawnLabel>UNUSED</PatientEmergency.pawnLabel>
+  <PatientEmergency.gerundLabel>UNUSED</PatientEmergency.gerundLabel>
+  <PatientEmergency.verb>UNUSED</PatientEmergency.verb>
   
   <!-- EN: Plant cut -->
   <PlantCutting.labelShort>Avverka</PlantCutting.labelShort>

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- TODO Gå igenom filen-->
   <!-- Various -->
   <!-- EN: hit points -->
   <HitPointsBasic>träffpoäng</HitPointsBasic>
@@ -145,7 +146,7 @@
   <!-- EN: permanent -->
   <Permanent>permanent</Permanent>
   <!-- EN: Resting -->
-  <CaravanResting>Vilar.</CaravanResting>
+  <CaravanResting>Vilar</CaravanResting>
   <!-- EN: using 1 bedroll -->
   <UsingBedroll>använder 1 sovsäck</UsingBedroll>
   <!-- EN: using {0} bedrolls -->

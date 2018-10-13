@@ -3,12 +3,12 @@
   
   <!-- UNUSED -->
   <BuildRapport.logRulesRecipient.rulesStrings>
-    <li>logentry->Lyssnade när [other_nameShortIndef] byggde en relation med mig.</li>
+    <li>UNUSED</li>
   </BuildRapport.logRulesRecipient.rulesStrings>
   
   <!-- UNUSED -->
   <RecruitAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Lyssnade på ett rekryteringstal från [other_nameShortIndef].</li>
+    <li>UNUSED.</li>
   </RecruitAttempt.logRulesRecipient.rulesStrings>
   
 </LanguageData>

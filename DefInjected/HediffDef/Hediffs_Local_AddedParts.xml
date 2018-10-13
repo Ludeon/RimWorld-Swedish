@@ -4,19 +4,19 @@
   <!-- EN: fist -->
   <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>en arkotek-arm</ArchotechArm.labelNoun>
+  <ArchotechArm.labelNoun>en arkotekarm</ArchotechArm.labelNoun>
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>arkotek-arm</ArchotechArm.label>
+  <ArchotechArm.label>arkotekarm</ArchotechArm.label>
   
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>ett arkotek-öga</ArchotechEye.labelNoun>
+  <ArchotechEye.labelNoun>ett arkoteköga</ArchotechEye.labelNoun>
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>arkotek-öga</ArchotechEye.label>
+  <ArchotechEye.label>arkoteköga</ArchotechEye.label>
   
   <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>ett arkotech-ben</ArchotechLeg.labelNoun>
+  <ArchotechLeg.labelNoun>ett arkotechben</ArchotechLeg.labelNoun>
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>arkotech-ben</ArchotechLeg.label>
+  <ArchotechLeg.label>arkotechben</ArchotechLeg.label>
   
   <!-- EN: fist -->
   <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
@@ -46,9 +46,9 @@
   <BionicLeg.label>bioniskt ben</BionicLeg.label>
   
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>en bioniskt ryggrad</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>en bionisk ryggrad</BionicSpine.labelNoun>
   <!-- EN: bionic spine -->
-  <BionicSpine.label>bioniskt ryggrad</BionicSpine.label>
+  <BionicSpine.label>bionisk ryggrad</BionicSpine.label>
   
   <!-- EN: a bionic stomach -->
   <BionicStomach.labelNoun>en bionisk mage</BionicStomach.labelNoun>
@@ -73,9 +73,9 @@
   <!-- EN: claw -->
   <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>klo</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
   <!-- EN: a power claw -->
-  <PowerClaw.labelNoun>en kraftklo</PowerClaw.labelNoun>
+  <PowerClaw.labelNoun>TODO</PowerClaw.labelNoun>
   <!-- EN: power claw -->
-  <PowerClaw.label>kraftklo</PowerClaw.label>
+  <PowerClaw.label>TODO</PowerClaw.label>
   
   <!-- EN: fist -->
   <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
@@ -85,9 +85,9 @@
   <SimpleProstheticArm.label>enkel armprotes</SimpleProstheticArm.label>
   
   <!-- EN: a prosthetic heart -->
-  <SimpleProstheticHeart.labelNoun>en enkel hjärtprotes</SimpleProstheticHeart.labelNoun>
+  <SimpleProstheticHeart.labelNoun>en hjärtprotes</SimpleProstheticHeart.labelNoun>
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>enkel hjärtprotes</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>hjärtprotes</SimpleProstheticHeart.label>
   
   <!-- EN: a prosthetic leg -->
   <SimpleProstheticLeg.labelNoun>en enkel benprotes</SimpleProstheticLeg.labelNoun>

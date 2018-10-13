@@ -2,36 +2,36 @@
 <LanguageData>
   
   <!-- EN: left claw -->
-  <Cougar.tools.left_claw.label>TODO</Cougar.tools.left_claw.label>
+  <Cougar.tools.left_claw.label>vänster klo</Cougar.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Cougar.tools.right_claw.label>TODO</Cougar.tools.right_claw.label>
+  <Cougar.tools.right_claw.label>höger klo</Cougar.tools.right_claw.label>
   <!-- EN: head -->
-  <Cougar.tools.head.label>TODO</Cougar.tools.head.label>
+  <Cougar.tools.head.label>huvud</Cougar.tools.head.label>
   <!-- EN: cougar -->
   <Cougar.label>puma</Cougar.label>
   <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
-  <Cougar.description>En av de farligaste stora katter, pumor är ensamma jägare med långa, vassa tänder och klor. De förföljer byte från dolda lägen innan dom kastar sig över det.\n\nTrost att människor är inte deras normala kost, kommer de inte att säga nej till en måltid av mänskligt kött.</Cougar.description>
+  <Cougar.description>En av de farligaste stora katterna, pumor är ensamma jägare med långa vassa tänder och klor. De förföljer byten från dolda lägen innan dom kastar sig över det.\n\nTrost att människor inte är deras normala kost kommer de inte att säga nej till en måltid av sårbart människokött.</Cougar.description>
   
   <!-- EN: left claw -->
-  <Lynx.tools.left_claw.label>TODO</Lynx.tools.left_claw.label>
+  <Lynx.tools.left_claw.label>vänster klo</Lynx.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Lynx.tools.right_claw.label>TODO</Lynx.tools.right_claw.label>
+  <Lynx.tools.right_claw.label>höger klo</Lynx.tools.right_claw.label>
   <!-- EN: head -->
-  <Lynx.tools.head.label>TODO</Lynx.tools.head.label>
+  <Lynx.tools.head.label>huvud</Lynx.tools.head.label>
   <!-- EN: lynx -->
   <Lynx.label>lodjur</Lynx.label>
   <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
-  <Lynx.description>En vildkatt större än en huskatt, men mindre än en puma. Lo överlever på en diet av små fåglar och djur. Deras mycket varma päls håller dem säkert från brutalt kalla temperaturer i de nordliga områdena.</Lynx.description>
+  <Lynx.description>En vildkatt som är större än en huskatt, men mindre än en puma. Lodjur överlever på en diet av små fåglar och djur. Deras mycket varma päls håller dem säkra från de brutalt kalla temperaturer i deras frusna territorier.</Lynx.description>
   
   <!-- EN: left claw -->
-  <Panther.tools.left_claw.label>TODO</Panther.tools.left_claw.label>
+  <Panther.tools.left_claw.label>vänster klo</Panther.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Panther.tools.right_claw.label>TODO</Panther.tools.right_claw.label>
+  <Panther.tools.right_claw.label>höger klo</Panther.tools.right_claw.label>
   <!-- EN: head -->
-  <Panther.tools.head.label>TODO</Panther.tools.head.label>
+  <Panther.tools.head.label>huvud</Panther.tools.head.label>
   <!-- EN: panther -->
   <Panther.label>panter</Panther.label>
   <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
-  <Panther.description>En smidig och kraftfull stor katt från den gamla jordens djungler. Ensamjägare med specialitet på bakhåll är pantrar mästare på att ta ner både stora och små byten. Åskådare tenderar att fokusera på deras graciösa rörelser, medan de i närmare kontakt märker oftast deras skallkrossande styrka.</Panther.description>
+  <Panther.description>En smidig och kraftfull stor katt från den gamla jordens djungler. Ensamjägare med specialitet på bakhåll, är pantrar mästare på att ta ner både stora och små byten. Åskådare tenderar till att fokusera på deras graciösa rörelser, medan de på närmre håll märker deras skallkrossande styrka.</Panther.description>
   
 </LanguageData>

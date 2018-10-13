@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <Arrow.deathMessage>{0} sköts ihjäl av en pil.</Arrow.deathMessage>
+  <Arrow.deathMessage>{0} har skjutits ihjäl av en pil.</Arrow.deathMessage>
   <!-- EN: arrow -->
-  <Arrow.label>Pil</Arrow.label>
+  <Arrow.label>pil</Arrow.label>
   
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <ArrowHighVelocity.deathMessage>{0} sköts ihjäl av en pil</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.deathMessage>{0} har skjutits ihjäl av en pil</ArrowHighVelocity.deathMessage>
   <!-- EN: arrow -->
-  <ArrowHighVelocity.label>Pil</ArrowHighVelocity.label>
+  <ArrowHighVelocity.label>pil</ArrowHighVelocity.label>
   
   <!-- EN: {0} has been shot to death. -->
-  <Bullet.deathMessage>{0} sköts ihjäl.</Bullet.deathMessage>
+  <Bullet.deathMessage>{0} har sjutits ihjäl.</Bullet.deathMessage>
   <!-- EN: bullet -->
-  <Bullet.label>Kula</Bullet.label>
+  <Bullet.label>kula</Bullet.label>
   
   <!-- EN: {0} has been stabbed to death. -->
-  <RangedStab.deathMessage>{0} höggs ihjäl.</RangedStab.deathMessage>
+  <RangedStab.deathMessage>{0} har stuckits till döds.</RangedStab.deathMessage>
   <!-- EN: stab -->
-  <RangedStab.label>Hugg</RangedStab.label>
+  <RangedStab.label>stick</RangedStab.label>
   
 </LanguageData>

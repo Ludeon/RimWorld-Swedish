@@ -145,11 +145,11 @@
   <NeedRoomSize.stages.spacious_interior.description>TODO</NeedRoomSize.stages.spacious_interior.description>
   
   <!-- UNUSED -->
-  <NeedSpace.stages.0.label>mycket trång interiör</NeedSpace.stages.0.label>
-  <NeedSpace.stages.0.description>Jag känner mig som en råtta i en liten bur.</NeedSpace.stages.0.description>
-  <NeedSpace.stages.1.label>trång interiör</NeedSpace.stages.1.label>
-  <NeedSpace.stages.1.description>Jag önskar att jag hade mer utrymme att röra sig och andas.</NeedSpace.stages.1.description>
-  <NeedSpace.stages.2.label>rymlig interiör</NeedSpace.stages.2.label>
-  <NeedSpace.stages.2.description>Detta är ett riktigt bekvämt öppen utrymme inomhus.</NeedSpace.stages.2.description>
+  <NeedSpace.stages.0.label>UNUSED</NeedSpace.stages.0.label>
+  <NeedSpace.stages.0.description>UNUSED</NeedSpace.stages.0.description>
+  <NeedSpace.stages.1.label>UNUSED</NeedSpace.stages.1.label>
+  <NeedSpace.stages.1.description>UNUSED</NeedSpace.stages.1.description>
+  <NeedSpace.stages.2.label>UNUSED</NeedSpace.stages.2.label>
+  <NeedSpace.stages.2.description>UNUSED</NeedSpace.stages.2.description>
   
 </LanguageData>

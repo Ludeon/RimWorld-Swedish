@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: an enemy force is waiting to ambush anyone who comes near -->
-  <AmbushEdge.descriptionDialogue>TODO</AmbushEdge.descriptionDialogue>
+  <AmbushEdge.descriptionDialogue>en fiendestyrka väntar på att överfalla vem som helst som kommer nära dem.</AmbushEdge.descriptionDialogue>
   <!-- EN: ambush -->
-  <AmbushEdge.label>TODO</AmbushEdge.label>
+  <AmbushEdge.label>bakhåll</AmbushEdge.label>
   <!-- EN: An ambush. -->
-  <AmbushEdge.description>TODO</AmbushEdge.description>
+  <AmbushEdge.description>Ett bakhåll</AmbushEdge.description>
   
 </LanguageData>

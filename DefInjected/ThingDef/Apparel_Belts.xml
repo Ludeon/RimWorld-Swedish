@@ -4,11 +4,11 @@
   <!-- EN: shield belt -->
   <Apparel_ShieldBelt.label>sköldbälte</Apparel_ShieldBelt.label>
   <!-- EN: A single-person energy shield device. It will attempt to stop any rapidly-moving projectile or energy attack. It does nothing against melee attacks or shots from point-blank range. It prevents firing out the same as it prevents firing in. -->
-  <Apparel_ShieldBelt.description>En personlig energiskyddsanordning. Det kommer att försöka stoppa varje snabbt rörlig projektil eller energiattack som kommer från avstånd. Det gör ingenting mot närstridsattacker eller skott ifrån närstidsavstånd. Det förhindrar också skott infrån och ut på avstånd längre än närstrid.</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.description>En personlig energiskyddsanordning. Det kommer att försöka stoppa varje snabbt inkommande projektil eller energiattack som avfyrats på avstånd. Det gör skyddar inget mot närstridsattacker eller skott på närstidsavstånd. Det förhindrar både inkommande och utgående skott.</Apparel_ShieldBelt.description>
   
   <!-- EN: smokepop belt -->
   <Apparel_SmokepopBelt.label>rökskyddsbälte</Apparel_SmokepopBelt.label>
   <!-- EN: An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Apparel_SmokepopBelt.description>Ett automatisk defensivt rökmoln. Det kommer att släppa ut ett tjockt rökmoln runt bäraren om den träffas av en projektil. Detta gör att bäraren göms från attackeraren och det hindrar även kanontorn från att låsa. Engångsanvändning.\n</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.description>Ett engångsföremål som automatiskt utsöndrar en defensiv rökridå. Om användaren träffas av ett skott kommer det släppa ut  ett rökmåln, vilket avsevärt försvårar inkommande skott och kanontorn att sikta.</Apparel_SmokepopBelt.description>
   
 </LanguageData>

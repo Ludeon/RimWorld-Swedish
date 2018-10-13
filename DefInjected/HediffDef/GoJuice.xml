@@ -4,10 +4,10 @@
   <!-- EN: withdrawal -->
   <GoJuiceAddiction.stages.withdrawal.label>abstinens</GoJuiceAddiction.stages.withdrawal.label>
   <!-- EN: go-juice addiction -->
-  <GoJuiceAddiction.label>go-juice-missbruk</GoJuiceAddiction.label>
+  <GoJuiceAddiction.label>go-juicemissbruk</GoJuiceAddiction.label>
   
   <!-- EN: a go-juice high -->
-  <GoJuiceHigh.labelNoun>en go-juice höjning</GoJuiceHigh.labelNoun>
+  <GoJuiceHigh.labelNoun>ett go-juicerus</GoJuiceHigh.labelNoun>
   <!-- EN: high on go-juice -->
   <GoJuiceHigh.label>hög på go-juice</GoJuiceHigh.label>
   
@@ -18,6 +18,6 @@
   <!-- EN: massive -->
   <GoJuiceTolerance.stages.massive.label>enorm</GoJuiceTolerance.stages.massive.label>
   <!-- EN: go-juice tolerance -->
-  <GoJuiceTolerance.label>go-juice tolerans</GoJuiceTolerance.label>
+  <GoJuiceTolerance.label>go-juicetolerans</GoJuiceTolerance.label>
   
 </LanguageData>

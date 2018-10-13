@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: flu (animals) -->
-  <Disease_AnimalFlu.label>influensa</Disease_AnimalFlu.label>
+  <Disease_AnimalFlu.label>influensa (djur)</Disease_AnimalFlu.label>
   
   <!-- EN: plague (animals) -->
-  <Disease_AnimalPlague.label>pest</Disease_AnimalPlague.label>
+  <Disease_AnimalPlague.label>pest (djur)</Disease_AnimalPlague.label>
   
   <!-- EN: fibrous mechanites -->
   <Disease_FibrousMechanites.label>fibrösa mekaniter</Disease_FibrousMechanites.label>
@@ -14,13 +14,13 @@
   <Disease_Flu.label>influensa</Disease_Flu.label>
   
   <!-- EN: gut worms -->
-  <Disease_GutWorms.label>magmask</Disease_GutWorms.label>
+  <Disease_GutWorms.label>bandmask</Disease_GutWorms.label>
   
   <!-- EN: malaria -->
   <Disease_Malaria.label>malaria</Disease_Malaria.label>
   
   <!-- EN: muscle parasites -->
-  <Disease_MuscleParasites.label>muskelparasiter</Disease_MuscleParasites.label>
+  <Disease_MuscleParasites.label>trikiner</Disease_MuscleParasites.label>
   
   <!-- EN: plague -->
   <Disease_Plague.label>pest</Disease_Plague.label>
@@ -29,6 +29,6 @@
   <Disease_SensoryMechanites.label>känselmekaniter</Disease_SensoryMechanites.label>
   
   <!-- EN: sleeping sickness -->
-  <Disease_SleepingSickness.label>sömnsjuka</Disease_SleepingSickness.label>
+  <Disease_SleepingSickness.label>narkolepsi</Disease_SleepingSickness.label>
   
 </LanguageData>

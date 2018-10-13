@@ -9,69 +9,69 @@
   <!-- EN: caravan packing spot -->
   <CaravanPackingSpot.label>packplats för karavan</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
-  <CaravanPackingSpot.description>Markerar den plats där karavanen formeras.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Markerar den plats där karavanen formas. Sätt denna nära dina lager för att snabba på lastningen.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
-  <CommsConsole.label>kommunikationspanel</CommsConsole.label>
+  <CommsConsole.label>kommunikationskonsoll</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
-  <CommsConsole.description>Används för att kommunicera med handelsskepp. Används även för handel och diplomati med andra fraktioner.</CommsConsole.description>
+  <CommsConsole.description>Används för att kommunicera med andra fraktioner och handelsskepp.</CommsConsole.description>
   
   <!-- EN: cryptosleep casket -->
   <CryptosleepCasket.label>kryptosömnkapsel</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
-  <CryptosleepCasket.description>En kryptosömnkapsel med intern energiförsörjning. Skapad för att försätta en person i dvala och skendött tillstånd under en längre tid.</CryptosleepCasket.description>
+  <CryptosleepCasket.description>En med elförsörjning självdriven kapsel som skapats för att hålla en person i dvala under en längre tid.</CryptosleepCasket.description>
   
   <!-- EN: Trigger firefoam popper -->
   <FirefoamPopper.comps.CompUsable.useLabel>Aktivera brandskumssmällare</FirefoamPopper.comps.CompUsable.useLabel>
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>brandskumssmällare</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
-  <FirefoamPopper.description>När eld kommer nära denna smällare, eller den aktiveras manuellt, sprejas ett stort cikulärt område med brandskum.</FirefoamPopper.description>
+  <FirefoamPopper.description>När den upptäcker eld smäller denna mekanism och sprejar ett skummande brandskyddsmedel i en cirkel runt sig själv. Kan även aktiveras manuellt</FirefoamPopper.description>
   
   <!-- EN: grave -->
   <Grave.label>grav</Grave.label>
   <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
-  <Grave.description>Lägg de döda i gravar för att ge dem en anständig slutlig viloplats. Kolonisatörer kan besöka gravar för meditativ glädje.</Grave.description>
+  <Grave.description>En anständig sista viloplats. Kolonister kommer besöka fyllda gravar på sin fritid för att uppfylla behovet av stilla meditation.</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>markpenetrerande skanner</GroundPenetratingScanner.label>
   <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
-  <GroundPenetratingScanner.description>En nedåtvänd radar, kombinerat med sonar och magnetiska kameror kan du upptäcka (men inte identifiera) mineraler begravd djupt under ytan. Kräver en enorm mängd el.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>En nedåtvänd radar, kombinerat med sonar- och magnetiska- kameror kan du upptäcka (men inte identifiera) mineraler begravd djupt under ytan. Kräver en enorm mängd el.</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>långdistans mineral scanner</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>långdistans mineralscanner</LongRangeMineralScanner.label>
   <!-- EN: Automatically detects precious minerals like gold or jade in destinations across the planet. The lumps are found on average once per 30 days within a radius of 30 planet tiles. Building more than one scanner in the same or nearby areas has little to no effect. -->
-  <LongRangeMineralScanner.description>Detekterar automatiskt värdefulla mineraler som guld eller jade i de närliggande områdena (men inte där den byggdes). Klumparna finns i genomsnitt en gång per 30 dagar inom en radie av 30 plattor. Att bygga mer än en skanner i samma eller närliggande områden har liten eller ingen effekt.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Detekterar automatiskt värdefulla mineraler som guld eller jade på olika ställen över planeten. Klumparna hittas i genomsnitt en gång per 30 dagar inom en radie av 30 plattor. Att bygga mer än en skanner i samma eller närliggande områden har liten eller ingen effekt.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
   <MarriageSpot.label>bröllopsplats</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
-  <MarriageSpot.description>En plats där bröllopscermonier kan hållas. Åskådare kan se på från båda sidorna.</MarriageSpot.description>
+  <MarriageSpot.description>Markerar en plats där bröllopscermonier kommer hållas. Åskådare kan se på från båda sidorna.</MarriageSpot.description>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>fuktpump</MoisturePump.label>
+  <MoisturePump.label>avfuktspump</MoisturePump.label>
   <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
   <MoisturePump.description>Pumpar mycket långsamt bort fukt från närliggande terräng, konverterar kärr eller grunt vatten till torrmark. Påverkar inte djupt vatten.</MoisturePump.description>
   
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>multianalysator</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>Ökar forskningshastigheten. Måste placeras jämte en högteknologisk forskningsbänk. En forskarbänk kan bara länkas samman med en multianalysator.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Ökar forskningshastigheten när den placeras nära högteknologiska forskningsbänkar och låser upp nya forskningsprojekt. Varje forskarbänk kan bara använda en multianalysator.</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
   <OrbitalTradeBeacon.label>handelsfyr</OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
-  <OrbitalTradeBeacon.description>Krävs för handel med handelsskepp i omloppsbana. Du kan bara sälja varor som är nära en handelsfyr. Kan vara under ett tak. Handelskepp kommer släppa varor nära handelsfyren.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>Krävs för handel med handelsskepp i omloppsbana. Du kan bara sälja varor som är nära handelsfyrar. Kan placeras innomhus.</OrbitalTradeBeacon.description>
   
   <!-- EN: party spot -->
   <PartySpot.label>festplats</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>Den plats som blir alla festers mittpunkt. Fester använder utrymmet runt om denna plats.</PartySpot.description>
+  <PartySpot.description>Markerar en plats som blir alla festers mittpunkt. </PartySpot.description>
   
   <!-- EN: pod launcher -->
   <PodLauncher.label>kapselskjutare</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>En tanknings port för att skjuta iväg en transportkapsel. kapselskjutare kan skjutas iväg som en grupp - men utskjutningsanordningar måste isåfall placeras intill varandra.</PodLauncher.description>
+  <PodLauncher.description>En tankningsstation för att skjuta iväg en transportkapsel. Kapselskjutare kan skjutas iväg som en grupp - men utskjutningsanordningar måste isåfall placeras intill varandra.</PodLauncher.description>
   
   <!-- EN: sarcophagus -->
   <Sarcophagus.label>sarkofag</Sarcophagus.label>
@@ -81,16 +81,16 @@
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>verktygsskåp</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
-  <ToolCabinet.description>Ökar arbetshastigheten. Måste placeras jämte en arbetsbänk. En arbetsbänk kan ha endast två länkade verktygsskåp samtidigt.</ToolCabinet.description>
+  <ToolCabinet.description>Ökar arbetshastigheten när det placeras nära arbetsplatser. En arbetsbänk kan använda upp till två verktygsskåp samtidigt.</ToolCabinet.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>transportkapsel</TransportPod.label>
   <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
-  <TransportPod.description>En utskjutningsbar transportkapsel som kan bära människor, föremål eller djur. Kan användas för transport, överraskningsanfall eller som förstärkning i strid.</TransportPod.description>
+  <TransportPod.description>En utskjutningsbar transportkapsel kapabel att bära människor, föremål eller djur. Kan användas för att leverera gåvor, transportera människor eller förnödenheter, överraskningsanfall eller som förstärkning vid strider.</TransportPod.description>
   
   <!-- EN: vitals monitor -->
   <VitalsMonitor.label>vitalparametersensor</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
-  <VitalsMonitor.description>Ökar kvalitén hos behandlingen av patienten. Måste placeras jämte en sjuksäng. En sjuksäng kan bara kopplas samman med en vitalparametersensor.</VitalsMonitor.description>
+  <VitalsMonitor.description>Ökar kvalitén på behandlingar av patienten, ger operationer större chans att lyckas och påskyndar imunitetsprocessen när den placeras direkt intill en sjukhussäng. Fungerar bara för sjukhussängar - vanliga sängar gynnas inte. En sjukhussäng kan bara kopplas samman med en vitalparametersensor.</VitalsMonitor.description>
   
 </LanguageData>

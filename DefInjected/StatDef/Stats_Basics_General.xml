@@ -4,41 +4,41 @@
   <!-- EN: beauty -->
   <Beauty.label>skönhet</Beauty.label>
   <!-- EN: How enjoyable an object is to look at. Beautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>Hur njutningsbart ett föremål är att vara runt och titta på.</Beauty.description>
+  <Beauty.description>Hur angenämnt ett föremål är att titta på. Vackra föremål tillfredställer karaktärers behov av skönhet.</Beauty.description>
   
   <!-- EN: cleanliness -->
-  <Cleanliness.label>renlighet</Cleanliness.label>
+  <Cleanliness.label>renhetsgrad</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
-  <Cleanliness.description>Hur rent ett föremål är.</Cleanliness.description>
+  <Cleanliness.description>Hur mycket ett föremål bidrar till en ytas renlighetsgrad i poäng.</Cleanliness.description>
   
   <!-- EN: comfort -->
   <Comfort.label>komfort</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on. Using comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>Hur bekvämt ett föremål är att sitta och ligga på.</Comfort.description>
+  <Comfort.description>Hur bekvämt ett föremål är att sitta eller ligga på. Att använda konfortabla föremål tillfredställer karaktärers behov av komfort.</Comfort.description>
   
   <!-- EN: {0} / day -->
-  <DeteriorationRate.formatString>{0}/d</DeteriorationRate.formatString>
+  <DeteriorationRate.formatString>{0} / dag</DeteriorationRate.formatString>
   <!-- EN: deterioration rate -->
-  <DeteriorationRate.label>försämringsgraden</DeteriorationRate.label>
+  <DeteriorationRate.label>försämringsgrad</DeteriorationRate.label>
   <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day. Deterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
-  <DeteriorationRate.description>Vilken hastighet detta fåremål försämras om det lämnas utomhus, speciellt i regn.</DeteriorationRate.description>
+  <DeteriorationRate.description>I vilken hastighet detta föremål försämras om det lämnas utomhus, i normala TODO. Försämringsgraden påverkas även av andra saker såsom väder, tak, giftigt nedfall eller om det lämnas i grunt vatten.</DeteriorationRate.description>
   
   <!-- EN: flammability -->
   <Flammability.label>lättantändlighet</Flammability.label>
   <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
-  <Flammability.description>Hur lätt ett föremål tar eld och hur starkt det brinner.</Flammability.description>
+  <Flammability.description>Hur lätt ett föremål fattar eld och hur fort eldstyrkan ökar.</Flammability.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChanceFixedHuman.label>TODO</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.label>chans för matförgiftning</FoodPoisonChanceFixedHuman.label>
   <!-- EN: The chance this food will cause food poisoning. -->
-  <FoodPoisonChanceFixedHuman.description>TODO</FoodPoisonChanceFixedHuman.description>
+  <FoodPoisonChanceFixedHuman.description>Chansen att denna mat orsakar matförgiftning.</FoodPoisonChanceFixedHuman.description>
   
   <!-- EN: ${0} -->
   <MarketValue.formatString>{0} kr</MarketValue.formatString>
   <!-- EN: market value -->
   <MarketValue.label>marknadsvärde</MarketValue.label>
   <!-- EN: The market value of an object. The actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
-  <MarketValue.description>Marknadsvärdet för ett föremål. Det faktiska försäljingspriset modifieras av ralationsnivån och förhandlingsfärdigheten.</MarketValue.description>
+  <MarketValue.description>Marknadsvärdet för ett föremål. Det faktiska försäljingspriset kommer justeras i relation till TODO, relationsstatus och andra kontextuella faktorer.</MarketValue.description>
   
   <!-- EN: {0} kg -->
   <Mass.formatString>{0} kg</Mass.formatString>
@@ -50,26 +50,26 @@
   <!-- EN: max hit points -->
   <MaxHitPoints.label>max träffpoäng</MaxHitPoints.label>
   <!-- EN: The maximum hit points of an object. This represents how much damage it can take before being destroyed. -->
-  <MaxHitPoints.description>Det maximala antalet träffpoäng ett föremål har. Detta representerar hur mycket skada det kan ta innan det förstörs.</MaxHitPoints.description>
+  <MaxHitPoints.description>Det maximala antalet TODO ett föremål har. Detta representerar hur mycket skada det kan ta innan det förstörs.</MaxHitPoints.description>
   
   <!-- EN: nutrition -->
-  <Nutrition.label>TODO</Nutrition.label>
+  <Nutrition.label>näring</Nutrition.label>
   <!-- EN: How nutritious this food is. -->
-  <Nutrition.description>TODO</Nutrition.description>
+  <Nutrition.description>Hur näringsrik denna mat är.</Nutrition.description>
   
   <!-- EN: sell price multiplier -->
-  <SellPriceFactor.label>multiplikator försäljningspris</SellPriceFactor.label>
+  <SellPriceFactor.label>TODO</SellPriceFactor.label>
   <!-- EN: A multiplier on the price at which you can sell items. -->
-  <SellPriceFactor.description>En multiplikator på det pris som du kan sälja föremålet.</SellPriceFactor.description>
+  <SellPriceFactor.description>En multiplikator på det pris som du kan sälja föremålet för.</SellPriceFactor.description>
   
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyTurret.label>TODO</ShootingAccuracyTurret.label>
+  <ShootingAccuracyTurret.label>träffsäkerhet</ShootingAccuracyTurret.label>
   <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyTurret.description>TODO</ShootingAccuracyTurret.description>
   
   <!-- EN: work to make -->
   <WorkToMake.label>arbetsinsats</WorkToMake.label>
   <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
-  <WorkToMake.description>Grundtiden det tar att göra detta, när alla material och verktyg är insamlade.</WorkToMake.description>
+  <WorkToMake.description> Den mängd arbete det tar att tillverka ett föremål, när allt material är insamlat.</WorkToMake.description>
   
 </LanguageData>

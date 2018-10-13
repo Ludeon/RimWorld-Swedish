@@ -8,14 +8,14 @@
     <li>r_logentry->[INITIATOR_nameDef] told [OTHER_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
-    <li>logentry->Gjorde slut med [other_nameShortIndef].</li>
+    <li>TODO</li>
   </Breakup.logRulesInitiator.rulesStrings>
   <!-- EN: breakup -->
-  <Breakup.label>gjort slut</Breakup.label>
+  <Breakup.label>TODO</Breakup.label>
   
   <!-- UNUSED -->
   <Breakup.logRulesRecipient.rulesStrings>
-    <li>logentry->Blev dumpad av [other_nameShortIndef].</li>
+    <li>UNUSED</li>
   </Breakup.logRulesRecipient.rulesStrings>
   
   <!-- EN:
@@ -24,14 +24,14 @@
     <li>r_logentry->[INITIATOR_nameDef] told [OTHER_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [OTHER_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>logentry->Friade till [other_nameShortIndef].</li>
+    <li>TODO</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
   <!-- EN: marriage proposal -->
-  <MarriageProposal.label>frieri</MarriageProposal.label>
+  <MarriageProposal.label>TODO</MarriageProposal.label>
   
   <!-- UNUSED -->
   <MarriageProposal.logRulesRecipient.rulesStrings>
-    <li>logentry->Blev friad till av [other_nameShortIndef].</li>
+    <li>UNUSED</li>
   </MarriageProposal.logRulesRecipient.rulesStrings>
   
   <!-- EN:
@@ -97,14 +97,14 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Försökte uppvakta [other_nameShortIndef].</li>
+    <li>TODO</li>
   </RomanceAttempt.logRulesInitiator.rulesStrings>
   <!-- EN: romance attempt -->
-  <RomanceAttempt.label>romansförsök</RomanceAttempt.label>
+  <RomanceAttempt.label>TODO</RomanceAttempt.label>
   
   <!-- UNUSED -->
   <RomanceAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Böev uppvaktad av [other_nameShortIndef].</li>
+    <li>UNUSED</li>
   </RomanceAttempt.logRulesRecipient.rulesStrings>
   
 </LanguageData>

@@ -8,7 +8,7 @@
   <!-- EN: Year -->
   <ClockYear>År</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
-  <DateReadoutTip>Antal dagar sen du kom hit: {0}\n Nuvarande kvartal: {4}\nNuvarande årstid: {2}\nÅret är uppdelat i 4 kvartal, Det går {3} dagar per kvartal. Kvartal är samma överallt men årstiderna kan vara olika i olika platser.\n\nLokal årstid för varje kvartal:\n{5}</DateReadoutTip>
+  <DateReadoutTip>Antal dagar som passerat sedan du anlände: {0}\n Nuvarande kvartal: {4}\nNuvarande årstid: {2}\nÅr är uppdelade i 4 kvartal, med {3} dagar per kvartal. Ett kvartal är likadana överallt, men årstiderna kan varriera mellan olika platser.\n\nLokala årstider för varje kvartal:\n{5}</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
   <FullDate>den {0} {1}, {2}</FullDate>
@@ -17,6 +17,6 @@
   <!-- EN: {0} of {1} -->
   <SeasonFullDate>den {0} {1}</SeasonFullDate>
   <!-- EN: Whole year -->
-  <WholeYear>Helt år</WholeYear>
+  <WholeYear>Helår</WholeYear>
   
 </LanguageData>

@@ -5,41 +5,41 @@
   <!-- EN: Manual priorities -->
   <ManualPriorities>Prioritera manuellt</ManualPriorities>
   <!-- EN: higher priority -->
-  <HigherPriority>Högre prioritet</HigherPriority>
+  <HigherPriority>högre prioritet</HigherPriority>
   <!-- EN: lower priority -->
-  <LowerPriority>Lägre prioritet</LowerPriority>
+  <LowerPriority>lägre prioritet</LowerPriority>
   <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
   <RelevantSkills>Relevanta förmågor: {0}\nGenomsnitt av relevanta förmågor: {1} / {2}</RelevantSkills>
   <!-- EN: Click to jump to: -->
-  <ClickToJumpTo>Tryck för att hoppa till:</ClickToJumpTo>
+  <ClickToJumpTo>Klicka för att hoppa till:</ClickToJumpTo>
   <!-- EN: {0} cannot do this kind of work. -->
-  <CannotDoThisWork>{0} kan inte utföra den här sortens arbete.</CannotDoThisWork>
+  <CannotDoThisWork>{0} kan inte utföra denna sortens arbete.</CannotDoThisWork>
   <!-- EN: (none) -->
   <NoneBrackets>(inget)</NoneBrackets>
   <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
-  <IncapableOfWorkTypeBecauseOfCapacities>Denna kolonist kan inte arbeta med den här typen av arbete på grund av sitt hälsotillstånd.</IncapableOfWorkTypeBecauseOfCapacities>
+  <IncapableOfWorkTypeBecauseOfCapacities>Denna kolonist kan inte utföra denna arbetsuppgift på grund av sitt hälsotillstånd.</IncapableOfWorkTypeBecauseOfCapacities>
   <!-- EN: E -->
-  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <EmergencyWorkMarker>A</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
-  <SelectedWorkTypeWithVeryBadSkill>Varning: Medelvärdet av relevanta färdigheter är väldigt lågt.</SelectedWorkTypeWithVeryBadSkill>
+  <SelectedWorkTypeWithVeryBadSkill>Varning: Medelvärdet av de relevanta färdigheterna är väldigt lågt.</SelectedWorkTypeWithVeryBadSkill>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Hantera utstyrsel</ManageOutfits>
   <!-- EN: Clear forced -->
-  <ClearForcedApparel>Töm tvång</ClearForcedApparel>
+  <ClearForcedApparel>Rensa påtvingade</ClearForcedApparel>
   <!-- EN: forced -->
-  <ApparelForcedLower>Tvinga</ApparelForcedLower>
+  <ApparelForcedLower>tvinga</ApparelForcedLower>
   <!-- EN: Forced apparel -->
-  <ForcedApparel>Tvinga på kläder</ForcedApparel>
+  <ForcedApparel>Påtvingade kläder</ForcedApparel>
   <!-- EN: Edit... -->
   <AssignTabEdit>Redigera...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
-  <ManageDrugPolicies>Hantera drogpolicy</ManageDrugPolicies>
+  <ManageDrugPolicies>Hantera drogpolicys</ManageDrugPolicies>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
-  <Copy>Klipp</Copy>
+  <Copy>Kopiera</Copy>
   <!-- EN: Paste -->
   <Paste>Klistra</Paste>
   <!-- EN: Allowed area -->
@@ -47,15 +47,15 @@
   
   <!-- Animals tab -->
   <!-- EN: Master -->
-  <Master>Herre</Master>
+  <Master>Ägare</Master>
   <!-- EN: Pregnant ({0} / {1}) -->
   <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
-  <BondedTo>Bundet till</BondedTo>
+  <BondedTo>Fäst vid</BondedTo>
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
-  <IsPredator>Denna varelse är en rovdjur. När det är hungrig, kommer det att jaga mindre varelser - eventuellt även människor.</IsPredator>
+  <IsPredator>Denna varelse är ett rovdjur. När det är hungrigt kommer det att jaga mindre varelser - eventuellt även människor.</IsPredator>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -67,17 +67,17 @@
   <!-- EN: Enemy of {0} -->
   <HostileTo>Fiende av {0}</HostileTo>
   <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>uvarande välvilja och relationstatus med denna fraktion.</CurrentGoodwillTip>
+  <CurrentGoodwillTip>Nuvarande välvilja och relationstatus med denna fraktion.</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>Denna fraktion är permanent fientlig. De kommer att skicka räder till dina bosättningar och husvagnar. Förhållandena med dem kommer aldrig att förbättras av någon anledning.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
   <CurrentGoodwillTip_Ally>Denna fraktion är allierad. De skickar krigare för att hjälpa dig när de kan. Om relationerna faller under {0} blir de neutrala.</CurrentGoodwillTip_Ally>
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
-  <CurrentGoodwillTip_Neutral>Denna fraktion är neutral. De kommer att handla och prata med dig fritt. Om relationerna faller under {0} blir de fientliga. Om relationerna stiger över {1} kommer de att bli allierade och börja aktivt arbeta för att hjälpa dig.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Neutral>Denna fraktion är neutral. De kommer att handla och prata med dig. Om relationerna faller under {0} blir de fientliga. Om relationerna stiger över {1} kommer de att bli allierade och aktivt börja arbeta för att hjälpa dig.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>Denna fraktion är fientlig. De kommer att skicka räder till dina bosättningar och husvagnar. Om relationerna stiger över {0} blir de neutrala.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>Denna fraktion är fientlig. De kommer att utföra räder mot dina bosättningar och karavaner. Om relationerna stiger över {0} blir de neutrala.</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
-  <CurrentGoodwillTip_NaturalGoodwill>Denna fraktion har ett neutralt välviljeintervall från {0} till {1}. Om välvilja är över {1} kommer den att falla med {3} per dag. Om goodwill är under {0}, kommer den att stiga med {2} per dag.</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwill>Denna fraktion har ett neutralt intervall av välvilja från {0} till {1}. Om välviljan är över {1} kommer den att falla med {3} per dag. Om välviljan är under {0}, kommer den att stiga med {2} per dag.</CurrentGoodwillTip_NaturalGoodwill>
   
   <!-- Social tab -->
   <!-- EN: Friend -->
@@ -85,7 +85,7 @@
   <!-- EN: Rival -->
   <Rival>Rival</Rival>
   <!-- EN: Acquaintance -->
-  <Acquaintance>Bekanta</Acquaintance>
+  <Acquaintance>Bekant</Acquaintance>
   
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
@@ -105,7 +105,7 @@
   <!-- EN: Last 300 days -->
   <Last300Days>Senaste 300 dagarna</Last300Days>
   <!-- EN: All -->
-  <AllDays>Alla</AllDays>
+  <AllDays>Allt</AllDays>
   <!-- EN: Value -->
   <Value>Värde</Value>
   <!-- EN: External -->
@@ -117,7 +117,7 @@
   <!-- EN: Show messages -->
   <ShowMessages>Visa meddelanden</ShowMessages>
   <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
-  <PinArchivableTip>Pinna eller avpinna det här meddelandet.\n\nDe äldsta avpinna meddelandena tas bort automatiskt från listan efter att ha nått gränsen för {0} meddelanden.</PinArchivableTip>
+  <PinArchivableTip>Markera eller avmarkera det här meddelandet.\n\nDe äldsta avmarkerade meddelandena tas bort automatiskt från listan efter att ha nått gränsen för {0} meddelanden.</PinArchivableTip>
   <!-- EN: no messages -->
   <NoMessages>inga meddelanden</NoMessages>
 
@@ -127,17 +127,17 @@
   <!-- EN: Storyteller -->
   <Storyteller>Spelledare</Storyteller>
   <!-- EN: Colony wealth (this map) -->
-  <ThisMapColonyWealthTotal>Kolonins rikedom (denna karta)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthTotal>Kolonins förmögenhet (denna karta)</ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->
-  <ThisMapColonyWealthItems>Kolonins rikedom (föremål) (denna karta)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>Kolonins förmögenhet (föremål) (denna karta)</ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
-  <ThisMapColonyWealthBuildings>Kolonins rikedom (byggnader) (denna karta)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthBuildings>Kolonins förmögenhet (byggnader) (denna karta)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (animals) (this map) -->
-  <ThisMapColonyWealthTameAnimals>Kolonins rikedom (djur) (denna karta)</ThisMapColonyWealthTameAnimals>
+  <ThisMapColonyWealthTameAnimals>Kolonins förmögenhet (djur) (denna karta)</ThisMapColonyWealthTameAnimals>
   <!-- EN: Major threats -->
-  <NumThreatBigs>Huvudsakliga hot</NumThreatBigs>
+  <NumThreatBigs>Största hot</NumThreatBigs>
   <!-- EN: Enemy raids -->
-  <NumEnemyRaids>Fientlig räd</NumEnemyRaids>
+  <NumEnemyRaids>Fientliga räder</NumEnemyRaids>
   <!-- EN: Damage taken (this map) -->
   <ThisMapDamageTaken>Skada tagen (denna karta)</ThisMapDamageTaken>
   <!-- EN: Colonists killed -->

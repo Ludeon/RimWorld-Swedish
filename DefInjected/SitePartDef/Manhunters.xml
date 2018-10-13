@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: There are manhunting animals in this area. -->
-  <Manhunters.arrivedLetter>TODO</Manhunters.arrivedLetter>
+  <Manhunters.arrivedLetter>Det finns människojagande djur i detta område.</Manhunters.arrivedLetter>
   <!-- EN: Manhunters -->
-  <Manhunters.arrivedLetterLabel>TODO</Manhunters.arrivedLetterLabel>
+  <Manhunters.arrivedLetterLabel>Människojägare</Manhunters.arrivedLetterLabel>
   <!-- EN: there is a group of {0} manhunting {1} wandering nearby -->
-  <Manhunters.descriptionDialogue>TODO</Manhunters.descriptionDialogue>
+  <Manhunters.descriptionDialogue>det finns en grupp {0} som människojagar {1} som vandrar i närheten </Manhunters.descriptionDialogue>
   <!-- EN: manhunter pack -->
   <Manhunters.label>människojagande flock</Manhunters.label>
   <!-- EN: A pack of manhunting animals. -->

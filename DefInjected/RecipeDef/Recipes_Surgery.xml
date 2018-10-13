@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- UNUSED -->
-  <RemoveMechanoidBodyPart.label>avlägsna en del</RemoveMechanoidBodyPart.label>
-  <RemoveMechanoidBodyPart.description>Avlägsna en kroppsdel.</RemoveMechanoidBodyPart.description>
-  <RemoveMechanoidBodyPart.jobString>Avlägsnar en kroppsdel.</RemoveMechanoidBodyPart.jobString>
+  <RemoveMechanoidBodyPart.label>UNUSED</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>UNUSED.</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>UNUSED</RemoveMechanoidBodyPart.jobString>
   
   <!-- UNUSED -->
-  <ShutDownMechanoid.label>stäng av</ShutDownMechanoid.label>
-  <ShutDownMechanoid.description>Stänger av.</ShutDownMechanoid.description>
-  <ShutDownMechanoid.jobString>Stänger av.</ShutDownMechanoid.jobString>
+  <ShutDownMechanoid.label>UNUSED</ShutDownMechanoid.label>
+  <ShutDownMechanoid.description>UNUSED</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>UNUSED</ShutDownMechanoid.jobString>
   
 </LanguageData>

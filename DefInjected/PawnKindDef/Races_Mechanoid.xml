@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   
-  <Mech_Centipede.labelPlural>Tusenfotingar</Mech_Centipede.labelPlural>
+  <Mech_Centipede.labelPlural>Mekaniska tusenfotingar</Mech_Centipede.labelPlural>
   <!-- EN: centipede -->
-  <Mech_Centipede.label>Tusenfoting</Mech_Centipede.label>
+  <Mech_Centipede.label>Mekanisk tusenfoting</Mech_Centipede.label>
   
   <!-- EN: lancer -->
   <Mech_Lancer.label>TODO</Mech_Lancer.label>

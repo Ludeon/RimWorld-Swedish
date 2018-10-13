@@ -4,10 +4,10 @@
   <!-- EN: withdrawal -->
   <SmokeleafAddiction.stages.withdrawal.label>abstinens</SmokeleafAddiction.stages.withdrawal.label>
   <!-- EN: smokeleaf dependence -->
-  <SmokeleafAddiction.label>rökblad-missbruk</SmokeleafAddiction.label>
+  <SmokeleafAddiction.label>rökbladsberoende</SmokeleafAddiction.label>
   
   <!-- EN: a smokeleaf high -->
-  <SmokeleafHigh.labelNoun>rökbladhög</SmokeleafHigh.labelNoun>
+  <SmokeleafHigh.labelNoun>ett rökbladsdus</SmokeleafHigh.labelNoun>
   <!-- EN: stoned on smokeleaf -->
   <SmokeleafHigh.label>hög på rökblad</SmokeleafHigh.label>
   
@@ -18,6 +18,6 @@
   <!-- EN: massive -->
   <SmokeleafTolerance.stages.massive.label>enorm</SmokeleafTolerance.stages.massive.label>
   <!-- EN: smokeleaf tolerance -->
-  <SmokeleafTolerance.label>rökblad-tolerans</SmokeleafTolerance.label>
+  <SmokeleafTolerance.label>rökbladstolerans</SmokeleafTolerance.label>
   
 </LanguageData>

@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: ancient asphalt highway -->
-  <AncientAsphaltHighway.label>forntida asfaltsmotorväg</AncientAsphaltHighway.label>
+  <AncientAsphaltHighway.label>forntida motorväg</AncientAsphaltHighway.label>
   
   <!-- EN: ancient asphalt road -->
-  <AncientAsphaltRoad.label>forntida asfaltväg</AncientAsphaltRoad.label>
+  <AncientAsphaltRoad.label>forntida asfaltsväg</AncientAsphaltRoad.label>
   
   <!-- EN: dirt path -->
-  <DirtPath.label>smutsväg</DirtPath.label>
+  <DirtPath.label>stig</DirtPath.label>
   
   <!-- EN: dirt road -->
   <DirtRoad.label>grusväg</DirtRoad.label>
   
   <!-- EN: stone road -->
-  <StoneRoad.label>stenväg</StoneRoad.label>
+  <StoneRoad.label>väg av gatsten</StoneRoad.label>
   
 </LanguageData>

@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: agarilux -->
-  <Agarilux.label>TODO</Agarilux.label>
+  <Agarilux.label>agrijus</Agarilux.label>
   <!-- EN: An enormous purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at. It dies when exposed to light. -->
-  <Agarilux.description>TODO</Agarilux.description>
+  <Agarilux.description>En enorm lila svamp. Dess storlek och lysande sporer gör denna svamp vacker att titta på. Den nör när den exponeras för ljus.</Agarilux.description>
   
   <!-- EN: bryolux -->
-  <Bryolux.label>TODO</Bryolux.label>
+  <Bryolux.label>byrojus</Bryolux.label>
   <!-- EN: A blue moss typically found in deep, dark caves. It is sticky, with tangled fibers, which slows anyone walking over it. Dies when exposed to light. -->
-  <Bryolux.description>TODO</Bryolux.description>
+  <Bryolux.description>En blå mossa vanligtvis växande i djupa mörka grottor. Den är kletig och har trassliga fiber som saktar ned vem som helst som går över den. Dör när den exponeras för ljus.</Bryolux.description>
   
   <!-- EN: glowstool -->
-  <Glowstool.label>TODO</Glowstool.label>
+  <Glowstool.label>glödklump</Glowstool.label>
   <!-- EN: A small brown mushroom typically found in caves. It smells like an old, dirty rag pulled from the stomach of a rotting muffalo - but it tastes surprisingly good when cooked. Dies when exposed to light. -->
-  <Glowstool.description>TODO</Glowstool.description>
+  <Glowstool.description>En liten brun svamp som vanligtvis finns i grottor. Den luktar som en gammal smutsig trasa hämtad från magen på enn ruttnande muffel - men den smakar förvånande gott när den tillagats. Dör när den utsätts för ljus.</Glowstool.description>
   
 </LanguageData>

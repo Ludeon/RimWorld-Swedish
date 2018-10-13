@@ -4,30 +4,30 @@
   <!-- EN: initial -->
   <Heatstroke.stages.initial-0.label>trivial-dold</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
-  <Heatstroke.stages.initial-1.label>trivial</Heatstroke.stages.initial-1.label>
+  <Heatstroke.stages.initial-1.label>begynnande</Heatstroke.stages.initial-1.label>
   <!-- EN: minor -->
-  <Heatstroke.stages.minor.label>lätt</Heatstroke.stages.minor.label>
+  <Heatstroke.stages.minor.label>mindre</Heatstroke.stages.minor.label>
   <!-- EN: serious -->
   <Heatstroke.stages.serious.label>allvarlig</Heatstroke.stages.serious.label>
   <!-- EN: extreme -->
-  <Heatstroke.stages.extreme.label>extrem</Heatstroke.stages.extreme.label>
+  <Heatstroke.stages.extreme.label>livshotande</Heatstroke.stages.extreme.label>
   <!-- EN: heatstroke -->
   <Heatstroke.label>värmeslag</Heatstroke.label>
   
   <!-- EN: shivering -->
-  <Hypothermia.stages.shivering-0.label>huttrande-dold</Hypothermia.stages.shivering-0.label>
+  <Hypothermia.stages.shivering-0.label>skälvande-dold</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
-  <Hypothermia.stages.shivering-1.label>huttrande</Hypothermia.stages.shivering-1.label>
+  <Hypothermia.stages.shivering-1.label>skälvande</Hypothermia.stages.shivering-1.label>
   <!-- EN: minor -->
-  <Hypothermia.stages.minor.label>lätt</Hypothermia.stages.minor.label>
+  <Hypothermia.stages.minor.label>mild</Hypothermia.stages.minor.label>
   <!-- EN: serious -->
-  <Hypothermia.stages.serious.label>allvarlig</Hypothermia.stages.serious.label>
+  <Hypothermia.stages.serious.label>svår</Hypothermia.stages.serious.label>
   <!-- EN: extreme -->
-  <Hypothermia.stages.extreme.label>extrem</Hypothermia.stages.extreme.label>
+  <Hypothermia.stages.extreme.label>livshotande</Hypothermia.stages.extreme.label>
   <!-- EN: hypothermia -->
   <Hypothermia.label>hypotermi</Hypothermia.label>
   
   <!-- EN: hypothermic slowdown -->
-  <HypothermicSlowdown.label>hypotermisk nedsaktning</HypothermicSlowdown.label>
+  <HypothermicSlowdown.label>hypotermiskt bromsad</HypothermicSlowdown.label>
   
 </LanguageData>

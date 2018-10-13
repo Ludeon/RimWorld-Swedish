@@ -2,68 +2,68 @@
 <LanguageData>
   
   <!-- EN: colored lights -->
-  <ColoredLights.label>färgade ljus</ColoredLights.label>
+  <ColoredLights.label>färgade lampor</ColoredLights.label>
   <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
-  <ColoredLights.description>Gör det möjligt för kolonister att konstruera färgade ljus för dekorativa syften.</ColoredLights.description>
+  <ColoredLights.description>Konstruera färgade lampor för dekorativa syften.</ColoredLights.description>
   
   <!-- EN: flatscreen television -->
-  <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
+  <FlatscreenTelevision.label>Platt-Tv</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
-  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>Producera Tv-apparater med högupplöst bild för mer nöje.</FlatscreenTelevision.description>
   
   <!-- EN: autocannon turret -->
-  <HeavyTurrets.label>TODO</HeavyTurrets.label>
+  <HeavyTurrets.label>automatkanontorn</HeavyTurrets.label>
   <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
-  <HeavyTurrets.description>TODO</HeavyTurrets.description>
+  <HeavyTurrets.description>Tillverka tunga långdistans autokanontorn.</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>sjuksäng</HospitalBed.label>
+  <HospitalBed.label>sjukhussäng</HospitalBed.label>
   <!-- EN: Construct hospital beds which improve medical outcomes. -->
-  <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
+  <HospitalBed.description>Bygg sjukhussängar som förbättrar medecinska resultat.</HospitalBed.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>långdistans mineral scanner</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>långdistans mineralscanner</LongRangeMineralScanner.label>
   <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
-  <LongRangeMineralScanner.description>Tillåter byggandet av långdistansminneskannrar som automatiskt upptäcker värdefulla mineraler som guld eller jade i de närliggande områdena (men inte där skannrarna byggdes).\n\nKlumparna återfinns i genomsnitt en gång per 30 dagar inom en radie av 30 rutor.\n\nAtt bygga mer än en skanner i samma eller närliggande områden har liten eller ingen effekt.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Konstruera en långdistans minneralscanner som dina forskare kan använda för att upptäcka värdefulla mineraler på planeten. Den kan ställas in på att hitta specifika mineraler. kräver avancerade komponenter för att konstruera.</LongRangeMineralScanner.description>
   
   <!-- EN: medicine production -->
   <MedicineProduction.label>medecintillverkning</MedicineProduction.label>
   <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
-  <MedicineProduction.description>Tillverkar medecin från örtmedicin, neutroamin och tyg.</MedicineProduction.description>
+  <MedicineProduction.description>Tillverka vanlig industriteknologisk medicin genom att kombinera örtmedecin, neuroamine och bommull.</MedicineProduction.description>
   
   <!-- EN: microelectronics -->
-  <MicroelectronicsBasics.label>mikroelektronisk grund</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.label>mikroelektronisk</MicroelectronicsBasics.label>
   <!-- EN: Work with complex microelectronics. This unlocks the high-tech research bench and comms console. -->
-  <MicroelectronicsBasics.description>Grunden till att arbeta med känslig och komplex elektronik. Detta låser upp högteknologisk forskningsbänk, kommunikationspanel och andra forskningsprojekt såsom Katodrör-TV och cryptosömn-kapslar.</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.description>Arbeta med komplex mikroelektronik. Detta låser upp den högteknologiska forskningsbänken och kommunikationskonsollen.</MicroelectronicsBasics.description>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>fuktpump</MoisturePump.label>
+  <MoisturePump.label>avfuktningspump</MoisturePump.label>
   <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
-  <MoisturePump.description>Tillåter tillverkning av fuktpumpar, för att avfukta marken omkring dom.</MoisturePump.description>
+  <MoisturePump.description>Konstruera avfuktningspumpar, som mycket sakta normaliserar jorden runt dem. De kan göra blöt mark till torr och konvertera mjuk sand till vanlig sand.</MoisturePump.description>
   
   <!-- EN: multibarrel weapons -->
   <MultibarrelWeapons.label>flerpipiga vapen</MultibarrelWeapons.label>
   <!-- EN: Assemble miniguns. -->
-  <MultibarrelWeapons.description>Tillåter dig att bygga en minigun.</MultibarrelWeapons.description>
+  <MultibarrelWeapons.description>Tillverka en minigun.</MultibarrelWeapons.description>
   
   <!-- EN: precision rifling -->
-  <PrecisionRifling.label>TODO</PrecisionRifling.label>
+  <PrecisionRifling.label>precitionsgevär</PrecisionRifling.label>
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
-  <PrecisionRifling.description>TODO</PrecisionRifling.description>
+  <PrecisionRifling.description>Tillverka exakt bearbetade skjutvapen såsom automatkarbiner och prickskyttegevär.</PrecisionRifling.description>
   
   <!-- EN: shield belt -->
   <ShieldBelt.label>sköldbälte</ShieldBelt.label>
   <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
-  <ShieldBelt.description>Moment-repulsions-fältteknik gör att du kan bygga sköldbälte, vilka står emot avståndsattacker som kommer in eller ut.</ShieldBelt.description>
+  <ShieldBelt.description>Bygg sköldbälten, som använder moment-repulsionsteknik för att blockera attacker från avståndsvapen både in och ut.</ShieldBelt.description>
   
   <!-- EN: sniper turret -->
-  <SniperTurret.label>TODO</SniperTurret.label>
+  <SniperTurret.label>Prickskytte kanontorn</SniperTurret.label>
   <!-- EN: Produce the extremely long-ranged sniper cannon turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
-  <SniperTurret.description>TODO</SniperTurret.description>
+  <SniperTurret.description>Tillverka kanontorn som har extremt lång räckvidd. De avfyrar urankulor som sliter sönder plastål som papper, men de är mindre effektiva på kort avstånd. </SniperTurret.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>transportkapsel</TransportPod.label>
   <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
-  <TransportPod.description>Tillverka uppskjutningsbara transportkapslar som du kan använda för att transportera personer och varor långa sträckor över planetens yta.</TransportPod.description>
+  <TransportPod.description>Tillverka uppskjutningsbara transportkapslar som du kan använda för att transportera personer och varor långa sträckor över planetens yta. Kan användas för plundringståg, resor, skicka gåvor m.m.</TransportPod.description>
   
 </LanguageData>

@@ -1,93 +1,96 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>fjällräv</Fox_Arctic.label>
   <!-- EN: arctic foxes -->
   <Fox_Arctic.labelPlural>fjällrävar</Fox_Arctic.labelPlural>
   <!-- EN: arctic fox puppy -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>fjällrävunge</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>fjällsrävunge</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
   <!-- EN: arctic fox puppies -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>fjällrävungar</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelMale>fjällrävunge</Fox_Arctic.lifeStages.arctic_fox_puppy.labelMale>
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelMalePlural>fjällrävungar</Fox_Arctic.lifeStages.arctic_fox_puppy.labelMalePlural>
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemale>fjällrävunge</Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemale>
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemalePlural>fjällrävungar</Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemalePlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>fjällrävsungar</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelMale>fjällrävsunge</Fox_Arctic.lifeStages.arctic_fox_puppy.labelMale>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelMalePlural>fjällrävsungar</Fox_Arctic.lifeStages.arctic_fox_puppy.labelMalePlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemale>fjällrävsunge</Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemale>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemalePlural>fjällrävsungar</Fox_Arctic.lifeStages.arctic_fox_puppy.labelFemalePlural>
   <Fox_Arctic.lifeStages.1.label>fjällräv</Fox_Arctic.lifeStages.1.label>
   <Fox_Arctic.lifeStages.1.labelPlural>fjällrävar</Fox_Arctic.lifeStages.1.labelPlural>
-  <Fox_Arctic.lifeStages.1.labelMale>fjällrävhane</Fox_Arctic.lifeStages.1.labelMale>
-  <Fox_Arctic.lifeStages.1.labelMalePlural>fjällrävhanar</Fox_Arctic.lifeStages.1.labelMalePlural>
-  <Fox_Arctic.lifeStages.1.labelFemale>fjällrävtik</Fox_Arctic.lifeStages.1.labelFemale>
-  <Fox_Arctic.lifeStages.1.labelFemalePlural>fjällrävtikar</Fox_Arctic.lifeStages.1.labelFemalePlural>
+  <Fox_Arctic.lifeStages.1.labelMale>fjällräv</Fox_Arctic.lifeStages.1.labelMale>
+  <Fox_Arctic.lifeStages.1.labelMalePlural>fjällräv</Fox_Arctic.lifeStages.1.labelMalePlural>
+  <Fox_Arctic.lifeStages.1.labelFemale>fjällräv</Fox_Arctic.lifeStages.1.labelFemale>
+  <Fox_Arctic.lifeStages.1.labelFemalePlural>fjällräv</Fox_Arctic.lifeStages.1.labelFemalePlural>
   <Fox_Arctic.lifeStages.2.label>fjällräv</Fox_Arctic.lifeStages.2.label>
   <Fox_Arctic.lifeStages.2.labelPlural>fjällrävar</Fox_Arctic.lifeStages.2.labelPlural>
-  <Fox_Arctic.lifeStages.2.labelMale>fjällrävhane</Fox_Arctic.lifeStages.2.labelMale>
-  <Fox_Arctic.lifeStages.2.labelMalePlural>fjällrävhanar</Fox_Arctic.lifeStages.2.labelMalePlural>
-  <Fox_Arctic.lifeStages.2.labelFemale>fjällrävtik</Fox_Arctic.lifeStages.2.labelFemale>
-  <Fox_Arctic.lifeStages.2.labelFemalePlural>fjällrävtikar</Fox_Arctic.lifeStages.2.labelFemalePlural>
-  <Fox_Arctic.labelMale>fjällrävhane</Fox_Arctic.labelMale>
-  <Fox_Arctic.labelMalePlural>fjällrävhanar</Fox_Arctic.labelMalePlural>
-  <Fox_Arctic.labelFemale>fjällrävtik</Fox_Arctic.labelFemale>
-  <Fox_Arctic.labelFemalePlural>fjällrävtikar</Fox_Arctic.labelFemalePlural>
-  <!-- EN: arctic fox -->
-  <Fox_Arctic.label>fjällräv</Fox_Arctic.label>
+  <Fox_Arctic.lifeStages.2.labelMale>fjällräv</Fox_Arctic.lifeStages.2.labelMale>
+  <Fox_Arctic.lifeStages.2.labelMalePlural>fjällrävar</Fox_Arctic.lifeStages.2.labelMalePlural>
+  <Fox_Arctic.lifeStages.2.labelFemale>fjällräv</Fox_Arctic.lifeStages.2.labelFemale>
+  <Fox_Arctic.lifeStages.2.labelFemalePlural>fjällrävar</Fox_Arctic.lifeStages.2.labelFemalePlural>
+  <Fox_Arctic.labelMale>fjällrävshane</Fox_Arctic.labelMale>
+  <Fox_Arctic.labelMalePlural>fjällrävshanar</Fox_Arctic.labelMalePlural>
+  <Fox_Arctic.labelFemale>fjällrävshona</Fox_Arctic.labelFemale>
+  <Fox_Arctic.labelFemalePlural>fjällrävshona</Fox_Arctic.labelFemalePlural>
+
   
-  <!-- EN: fennec foxes -->
-  <Fox_Fennec.labelPlural>fennekar</Fox_Fennec.labelPlural>
-  <!-- EN: fennec fox puppy -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>fennekvalp</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
-  <!-- EN: fennec fox puppies -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>fennekvalpar</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelMale>fennekvalp</Fox_Fennec.lifeStages.fennec_fox_puppy.labelMale>
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelMalePlural>fennekvalpar</Fox_Fennec.lifeStages.fennec_fox_puppy.labelMalePlural>
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>fennekvalp</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>fennekvalpar</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>
-  <Fox_Fennec.lifeStages.1.label>fennek</Fox_Fennec.lifeStages.1.label>
-  <Fox_Fennec.lifeStages.1.labelPlural>fennekar</Fox_Fennec.lifeStages.1.labelPlural>
-  <Fox_Fennec.lifeStages.1.labelMale>fennekhane</Fox_Fennec.lifeStages.1.labelMale>
-  <Fox_Fennec.lifeStages.1.labelMalePlural>fennekhanar</Fox_Fennec.lifeStages.1.labelMalePlural>
-  <Fox_Fennec.lifeStages.1.labelFemale>fennektik</Fox_Fennec.lifeStages.1.labelFemale>
-  <Fox_Fennec.lifeStages.1.labelFemalePlural>fennektikar</Fox_Fennec.lifeStages.1.labelFemalePlural>
-  <Fox_Fennec.lifeStages.2.label>fennek</Fox_Fennec.lifeStages.2.label>
-  <Fox_Fennec.lifeStages.2.labelPlural>fennekar</Fox_Fennec.lifeStages.2.labelPlural>
-  <Fox_Fennec.lifeStages.2.labelMale>fennekhane</Fox_Fennec.lifeStages.2.labelMale>
-  <Fox_Fennec.lifeStages.2.labelMalePlural>fennekhanar</Fox_Fennec.lifeStages.2.labelMalePlural>
-  <Fox_Fennec.lifeStages.2.labelFemale>fennektik</Fox_Fennec.lifeStages.2.labelFemale>
-  <Fox_Fennec.lifeStages.2.labelFemalePlural>fennektikar</Fox_Fennec.lifeStages.2.labelFemalePlural>
-  <Fox_Fennec.labelMale>fennekhane</Fox_Fennec.labelMale>
-  <Fox_Fennec.labelMalePlural>fennekhanar</Fox_Fennec.labelMalePlural>
-  <Fox_Fennec.labelFemale>fennektik</Fox_Fennec.labelFemale>
-  <Fox_Fennec.labelFemalePlural>fennektikar</Fox_Fennec.labelFemalePlural>
   <!-- EN: fennec fox -->
-  <Fox_Fennec.label>fennek</Fox_Fennec.label>
-  
-  <!-- EN: red foxes -->
-  <Fox_Red.labelPlural>rödrävar</Fox_Red.labelPlural>
-  <!-- EN: red fox puppy -->
-  <Fox_Red.lifeStages.red_fox_puppy.label>rödrävunge</Fox_Red.lifeStages.red_fox_puppy.label>
-  <!-- EN: red fox puppies -->
-  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>rödrävungar</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
-  <Fox_Red.lifeStages.red_fox_puppy.labelMale>rödrävunge</Fox_Red.lifeStages.red_fox_puppy.labelMale>
-  <Fox_Red.lifeStages.red_fox_puppy.labelMalePlural>rödrävungar</Fox_Red.lifeStages.red_fox_puppy.labelMalePlural>
-  <Fox_Red.lifeStages.red_fox_puppy.labelFemale>rödrävunge</Fox_Red.lifeStages.red_fox_puppy.labelFemale>
-  <Fox_Red.lifeStages.red_fox_puppy.labelFemalePlural>rödrävungar</Fox_Red.lifeStages.red_fox_puppy.labelFemalePlural>
-  <Fox_Red.lifeStages.1.label>rödräv</Fox_Red.lifeStages.1.label>
-  <Fox_Red.lifeStages.1.labelPlural>rödrävar</Fox_Red.lifeStages.1.labelPlural>
-  <Fox_Red.lifeStages.1.labelMale>rödrävhane</Fox_Red.lifeStages.1.labelMale>
-  <Fox_Red.lifeStages.1.labelMalePlural>rödrävhanar</Fox_Red.lifeStages.1.labelMalePlural>
-  <Fox_Red.lifeStages.1.labelFemale>rödrävtik</Fox_Red.lifeStages.1.labelFemale>
-  <Fox_Red.lifeStages.1.labelFemalePlural>rödrävtikar</Fox_Red.lifeStages.1.labelFemalePlural>
-  <Fox_Red.lifeStages.2.label>rödräv</Fox_Red.lifeStages.2.label>
-  <Fox_Red.lifeStages.2.labelPlural>rödrävar</Fox_Red.lifeStages.2.labelPlural>
-  <Fox_Red.lifeStages.2.labelMale>rödrävhane</Fox_Red.lifeStages.2.labelMale>
-  <Fox_Red.lifeStages.2.labelMalePlural>rödrävhanar</Fox_Red.lifeStages.2.labelMalePlural>
-  <Fox_Red.lifeStages.2.labelFemale>rödrävtik</Fox_Red.lifeStages.2.labelFemale>
-  <Fox_Red.lifeStages.2.labelFemalePlural>rödrävtikar</Fox_Red.lifeStages.2.labelFemalePlural>
-  <Fox_Red.labelMale>rödrävhane</Fox_Red.labelMale>
-  <Fox_Red.labelMalePlural>rödrävhanar</Fox_Red.labelMalePlural>
-  <Fox_Red.labelFemale>rödrävtik</Fox_Red.labelFemale>
-  <Fox_Red.labelFemalePlural>rödrävtikar</Fox_Red.labelFemalePlural>
+  <Fox_Fennec.label>ökenräv</Fox_Fennec.label>
+  <!-- EN: fennec foxes -->
+  <Fox_Fennec.labelPlural>ökenrävar</Fox_Fennec.labelPlural>
+  <!-- EN: fennec fox puppy -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>ökenrävsunge</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <!-- EN: fennec fox puppies -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>ökenrävsungar</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelMale>ökenrävsunge</Fox_Fennec.lifeStages.fennec_fox_puppy.labelMale>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelMalePlural>ökenrävsungar</Fox_Fennec.lifeStages.fennec_fox_puppy.labelMalePlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>ökenrävsvalp</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemale>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>ökenrävsungar</Fox_Fennec.lifeStages.fennec_fox_puppy.labelFemalePlural>
+  <Fox_Fennec.lifeStages.1.label>ökenräv</Fox_Fennec.lifeStages.1.label>
+  <Fox_Fennec.lifeStages.1.labelPlural>ökenrävar</Fox_Fennec.lifeStages.1.labelPlural>
+  <Fox_Fennec.lifeStages.1.labelMale>fennek</Fox_Fennec.lifeStages.1.labelMale>
+  <Fox_Fennec.lifeStages.1.labelMalePlural>ökenrävar</Fox_Fennec.lifeStages.1.labelMalePlural>
+  <Fox_Fennec.lifeStages.1.labelFemale>fennektik</Fox_Fennec.lifeStages.1.labelFemale>
+  <Fox_Fennec.lifeStages.1.labelFemalePlural>ökenrävar</Fox_Fennec.lifeStages.1.labelFemalePlural>
+  <Fox_Fennec.lifeStages.2.label>ökenräv</Fox_Fennec.lifeStages.2.label>
+  <Fox_Fennec.lifeStages.2.labelPlural>ökenrävar</Fox_Fennec.lifeStages.2.labelPlural>
+  <Fox_Fennec.lifeStages.2.labelMale>övenräv</Fox_Fennec.lifeStages.2.labelMale>
+  <Fox_Fennec.lifeStages.2.labelMalePlural>ökenrävar</Fox_Fennec.lifeStages.2.labelMalePlural>
+  <Fox_Fennec.lifeStages.2.labelFemale>ökenräv</Fox_Fennec.lifeStages.2.labelFemale>
+  <Fox_Fennec.lifeStages.2.labelFemalePlural>ökenrävar</Fox_Fennec.lifeStages.2.labelFemalePlural>
+  <Fox_Fennec.labelMale>ökenräv</Fox_Fennec.labelMale>
+  <Fox_Fennec.labelMalePlural>ökenrävar</Fox_Fennec.labelMalePlural>
+  <Fox_Fennec.labelFemale>ökenräv</Fox_Fennec.labelFemale>
+  <Fox_Fennec.labelFemalePlural>ökenrävar</Fox_Fennec.labelFemalePlural>
+
   <!-- EN: red fox -->
-  <Fox_Red.label>rödräv</Fox_Red.label>
-  
+  <Fox_Red.label>räv</Fox_Red.label>
+  <!-- EN: red foxes -->
+  <Fox_Red.labelPlural>rävar</Fox_Red.labelPlural>
+  <!-- EN: red fox puppy -->
+  <Fox_Red.lifeStages.red_fox_puppy.label>rävunge</Fox_Red.lifeStages.red_fox_puppy.label>
+  <!-- EN: red fox puppies -->
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>rävungar</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
+  <Fox_Red.lifeStages.red_fox_puppy.labelMale>rävunge</Fox_Red.lifeStages.red_fox_puppy.labelMale>
+  <Fox_Red.lifeStages.red_fox_puppy.labelMalePlural>rävungar</Fox_Red.lifeStages.red_fox_puppy.labelMalePlural>
+  <Fox_Red.lifeStages.red_fox_puppy.labelFemale>rävunge</Fox_Red.lifeStages.red_fox_puppy.labelFemale>
+  <Fox_Red.lifeStages.red_fox_puppy.labelFemalePlural>rävungar</Fox_Red.lifeStages.red_fox_puppy.labelFemalePlural>
+  <Fox_Red.lifeStages.1.label>räv</Fox_Red.lifeStages.1.label>
+  <Fox_Red.lifeStages.1.labelPlural>rävar</Fox_Red.lifeStages.1.labelPlural>
+  <Fox_Red.lifeStages.1.labelMale>räv</Fox_Red.lifeStages.1.labelMale>
+  <Fox_Red.lifeStages.1.labelMalePlural>rävar</Fox_Red.lifeStages.1.labelMalePlural>
+  <Fox_Red.lifeStages.1.labelFemale>räv</Fox_Red.lifeStages.1.labelFemale>
+  <Fox_Red.lifeStages.1.labelFemalePlural>rävar</Fox_Red.lifeStages.1.labelFemalePlural>
+  <Fox_Red.lifeStages.2.label>räv</Fox_Red.lifeStages.2.label>
+  <Fox_Red.lifeStages.2.labelPlural>rävar</Fox_Red.lifeStages.2.labelPlural>
+  <Fox_Red.lifeStages.2.labelMale>räv</Fox_Red.lifeStages.2.labelMale>
+  <Fox_Red.lifeStages.2.labelMalePlural>rävar</Fox_Red.lifeStages.2.labelMalePlural>
+  <Fox_Red.lifeStages.2.labelFemale>räv</Fox_Red.lifeStages.2.labelFemale>
+  <Fox_Red.lifeStages.2.labelFemalePlural>rävar</Fox_Red.lifeStages.2.labelFemalePlural>
+  <Fox_Red.labelMale>rävhane</Fox_Red.labelMale>
+  <Fox_Red.labelMalePlural>rävhanar</Fox_Red.labelMalePlural>
+  <Fox_Red.labelFemale>rävhona</Fox_Red.labelFemale>
+  <Fox_Red.labelFemalePlural>rävhonor</Fox_Red.labelFemalePlural>
+
+  <!-- EN: warg -->
+  <Warg.label>jättevarg</Warg.label>
   <Warg.labelPlural>jättevargar</Warg.labelPlural>
   <!-- EN: warg puppy -->
   <Warg.lifeStages.warg_puppy.label>jättevargvalp</Warg.lifeStages.warg_puppy.label>
@@ -99,52 +102,54 @@
   <Warg.lifeStages.warg_puppy.labelFemalePlural>jättevargvalpar</Warg.lifeStages.warg_puppy.labelFemalePlural>
   <Warg.lifeStages.1.label>jättevarg</Warg.lifeStages.1.label>
   <Warg.lifeStages.1.labelPlural>jättevargar</Warg.lifeStages.1.labelPlural>
-  <Warg.lifeStages.1.labelMale>jättevarghane</Warg.lifeStages.1.labelMale>
-  <Warg.lifeStages.1.labelMalePlural>jättevarghanar</Warg.lifeStages.1.labelMalePlural>
-  <Warg.lifeStages.1.labelFemale>jättevargtik</Warg.lifeStages.1.labelFemale>
-  <Warg.lifeStages.1.labelFemalePlural>jättevargtikar</Warg.lifeStages.1.labelFemalePlural>
+  <Warg.lifeStages.1.labelMale>jättevarg</Warg.lifeStages.1.labelMale>
+  <Warg.lifeStages.1.labelMalePlural>jättevargar</Warg.lifeStages.1.labelMalePlural>
+  <Warg.lifeStages.1.labelFemale>jättevarg</Warg.lifeStages.1.labelFemale>
+  <Warg.lifeStages.1.labelFemalePlural>jättevargar</Warg.lifeStages.1.labelFemalePlural>
   <Warg.lifeStages.2.label>jättevarg</Warg.lifeStages.2.label>
   <Warg.lifeStages.2.labelPlural>jättevargar</Warg.lifeStages.2.labelPlural>
-  <Warg.lifeStages.2.labelMale>jättevarghane</Warg.lifeStages.2.labelMale>
-  <Warg.lifeStages.2.labelMalePlural>jättevarghanar</Warg.lifeStages.2.labelMalePlural>
-  <Warg.lifeStages.2.labelFemale>jättevargtik</Warg.lifeStages.2.labelFemale>
-  <Warg.lifeStages.2.labelFemalePlural>jättevargtikar</Warg.lifeStages.2.labelFemalePlural>
+  <Warg.lifeStages.2.labelMale>jättevarg</Warg.lifeStages.2.labelMale>
+  <Warg.lifeStages.2.labelMalePlural>jättevargar</Warg.lifeStages.2.labelMalePlural>
+  <Warg.lifeStages.2.labelFemale>jättevarg</Warg.lifeStages.2.labelFemale>
+  <Warg.lifeStages.2.labelFemalePlural>jättevargar</Warg.lifeStages.2.labelFemalePlural>
   <Warg.labelMale>jättevarghane</Warg.labelMale>
   <Warg.labelMalePlural>jättevarghanar</Warg.labelMalePlural>
-  <Warg.labelFemale>jättevargtik</Warg.labelFemale>
-  <Warg.labelFemalePlural>jättevargtikar</Warg.labelFemalePlural>
-  <!-- EN: warg -->
-  <Warg.label>jättevarg</Warg.label>
+  <Warg.labelFemale>jättevarghona</Warg.labelFemale>
+  <Warg.labelFemalePlural>jättevarghonor</Warg.labelFemalePlural>
+
   
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>polarvarg</Wolf_Arctic.label>
   <!-- EN: arctic wolves -->
   <Wolf_Arctic.labelPlural>polarvargar</Wolf_Arctic.labelPlural>
   <!-- EN: arctic wolf puppy -->
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>polarvargvalp</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>polarvargsvalp</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
   <!-- EN: arctic wolf puppies -->
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>polarvargvalpar</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>polarvargvalp</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>polarvargvalpar</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>polarvargvalp</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>polarvargvalpar</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>polarvargsvalpar</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>polarvargsvalp</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMale>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>polarvargsvalpar</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelMalePlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>polarvargsvalp</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemale>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>polarvargsvalpar</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelFemalePlural>
   <Wolf_Arctic.lifeStages.1.label>polarvarg</Wolf_Arctic.lifeStages.1.label>
   <Wolf_Arctic.lifeStages.1.labelPlural>polarvargar</Wolf_Arctic.lifeStages.1.labelPlural>
-  <Wolf_Arctic.lifeStages.1.labelMale>polarvarghane</Wolf_Arctic.lifeStages.1.labelMale>
-  <Wolf_Arctic.lifeStages.1.labelMalePlural>polarvarghanar</Wolf_Arctic.lifeStages.1.labelMalePlural>
-  <Wolf_Arctic.lifeStages.1.labelFemale>polarvargtik</Wolf_Arctic.lifeStages.1.labelFemale>
-  <Wolf_Arctic.lifeStages.1.labelFemalePlural>polarvargtikar</Wolf_Arctic.lifeStages.1.labelFemalePlural>
+  <Wolf_Arctic.lifeStages.1.labelMale>polarvarg</Wolf_Arctic.lifeStages.1.labelMale>
+  <Wolf_Arctic.lifeStages.1.labelMalePlural>polarvargar</Wolf_Arctic.lifeStages.1.labelMalePlural>
+  <Wolf_Arctic.lifeStages.1.labelFemale>polarvarg</Wolf_Arctic.lifeStages.1.labelFemale>
+  <Wolf_Arctic.lifeStages.1.labelFemalePlural>polarvargar</Wolf_Arctic.lifeStages.1.labelFemalePlural>
   <Wolf_Arctic.lifeStages.2.label>polarvarg</Wolf_Arctic.lifeStages.2.label>
   <Wolf_Arctic.lifeStages.2.labelPlural>polarvargar</Wolf_Arctic.lifeStages.2.labelPlural>
-  <Wolf_Arctic.lifeStages.2.labelMale>polarvarghane</Wolf_Arctic.lifeStages.2.labelMale>
-  <Wolf_Arctic.lifeStages.2.labelMalePlural>polarvarghanar</Wolf_Arctic.lifeStages.2.labelMalePlural>
-  <Wolf_Arctic.lifeStages.2.labelFemale>polarvargtik</Wolf_Arctic.lifeStages.2.labelFemale>
-  <Wolf_Arctic.lifeStages.2.labelFemalePlural>polarvargtikar</Wolf_Arctic.lifeStages.2.labelFemalePlural>
-  <Wolf_Arctic.labelMale>polarvarghane</Wolf_Arctic.labelMale>
-  <Wolf_Arctic.labelMalePlural>polarvarghanar</Wolf_Arctic.labelMalePlural>
-  <Wolf_Arctic.labelFemale>polarvargtik</Wolf_Arctic.labelFemale>
-  <Wolf_Arctic.labelFemalePlural>polarvargtikar</Wolf_Arctic.labelFemalePlural>
-  <!-- EN: arctic wolf -->
-  <Wolf_Arctic.label>polarvarg</Wolf_Arctic.label>
+  <Wolf_Arctic.lifeStages.2.labelMale>polarvarg</Wolf_Arctic.lifeStages.2.labelMale>
+  <Wolf_Arctic.lifeStages.2.labelMalePlural>polarvargar</Wolf_Arctic.lifeStages.2.labelMalePlural>
+  <Wolf_Arctic.lifeStages.2.labelFemale>polarvarg</Wolf_Arctic.lifeStages.2.labelFemale>
+  <Wolf_Arctic.lifeStages.2.labelFemalePlural>polarvargar</Wolf_Arctic.lifeStages.2.labelFemalePlural>
+  <Wolf_Arctic.labelMale>polarvargshane</Wolf_Arctic.labelMale>
+  <Wolf_Arctic.labelMalePlural>polarvargshanar</Wolf_Arctic.labelMalePlural>
+  <Wolf_Arctic.labelFemale>polarvargshona</Wolf_Arctic.labelFemale>
+  <Wolf_Arctic.labelFemalePlural>polarvargshonor</Wolf_Arctic.labelFemalePlural>
+
   
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>varg</Wolf_Timber.label>
   <!-- EN: timber wolves -->
   <Wolf_Timber.labelPlural>vargar</Wolf_Timber.labelPlural>
   <!-- EN: timber wolf puppy -->
@@ -157,21 +162,20 @@
   <Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>vargvalpar</Wolf_Timber.lifeStages.timber_wolf_puppy.labelFemalePlural>
   <Wolf_Timber.lifeStages.1.label>ungvarg</Wolf_Timber.lifeStages.1.label>
   <Wolf_Timber.lifeStages.1.labelPlural>ungvargar</Wolf_Timber.lifeStages.1.labelPlural>
-  <Wolf_Timber.lifeStages.1.labelMale>ungvarghane</Wolf_Timber.lifeStages.1.labelMale>
-  <Wolf_Timber.lifeStages.1.labelMalePlural>ungvarghanar</Wolf_Timber.lifeStages.1.labelMalePlural>
-  <Wolf_Timber.lifeStages.1.labelFemale>ungvarghona</Wolf_Timber.lifeStages.1.labelFemale>
-  <Wolf_Timber.lifeStages.1.labelFemalePlural>ungvarghonor</Wolf_Timber.lifeStages.1.labelFemalePlural>
+  <Wolf_Timber.lifeStages.1.labelMale>ungvarg</Wolf_Timber.lifeStages.1.labelMale>
+  <Wolf_Timber.lifeStages.1.labelMalePlural>ungvargar</Wolf_Timber.lifeStages.1.labelMalePlural>
+  <Wolf_Timber.lifeStages.1.labelFemale>ungvarg</Wolf_Timber.lifeStages.1.labelFemale>
+  <Wolf_Timber.lifeStages.1.labelFemalePlural>ungvargar</Wolf_Timber.lifeStages.1.labelFemalePlural>
   <Wolf_Timber.lifeStages.2.label>varg</Wolf_Timber.lifeStages.2.label>
   <Wolf_Timber.lifeStages.2.labelPlural>vargar</Wolf_Timber.lifeStages.2.labelPlural>
-  <Wolf_Timber.lifeStages.2.labelMale>varghane</Wolf_Timber.lifeStages.2.labelMale>
-  <Wolf_Timber.lifeStages.2.labelMalePlural>varghanar</Wolf_Timber.lifeStages.2.labelMalePlural>
-  <Wolf_Timber.lifeStages.2.labelFemale>vargtik</Wolf_Timber.lifeStages.2.labelFemale>
-  <Wolf_Timber.lifeStages.2.labelFemalePlural>female timber wolfs</Wolf_Timber.lifeStages.2.labelFemalePlural>
+  <Wolf_Timber.lifeStages.2.labelMale>varg</Wolf_Timber.lifeStages.2.labelMale>
+  <Wolf_Timber.lifeStages.2.labelMalePlural>vargar</Wolf_Timber.lifeStages.2.labelMalePlural>
+  <Wolf_Timber.lifeStages.2.labelFemale>varg</Wolf_Timber.lifeStages.2.labelFemale>
+  <Wolf_Timber.lifeStages.2.labelFemalePlural>vargar</Wolf_Timber.lifeStages.2.labelFemalePlural>
   <Wolf_Timber.labelMale>varghane</Wolf_Timber.labelMale>
   <Wolf_Timber.labelMalePlural>varghanar</Wolf_Timber.labelMalePlural>
-  <Wolf_Timber.labelFemale>vargtik</Wolf_Timber.labelFemale>
-  <Wolf_Timber.labelFemalePlural>vargtikar</Wolf_Timber.labelFemalePlural>
-  <!-- EN: timber wolf -->
-  <Wolf_Timber.label>varg</Wolf_Timber.label>
+  <Wolf_Timber.labelFemale>varghona</Wolf_Timber.labelFemale>
+  <Wolf_Timber.labelFemalePlural>varghonor</Wolf_Timber.labelFemalePlural>
+
   
 </LanguageData>

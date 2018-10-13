@@ -5,13 +5,13 @@
   <Category.label>kategori</Category.label>
   
   <!-- EN: hit points percentage -->
-  <HitPointsPercentage.label>träffpoäng procent</HitPointsPercentage.label>
+  <HitPointsPercentage.label>skadepoäng i procent</HitPointsPercentage.label>
   
   <!-- EN: market value -->
   <MarketValue.label>marknadsvärde</MarketValue.label>
   
   <!-- EN: mass -->
-  <Mass.label>TODO</Mass.label>
+  <Mass.label>vikt</Mass.label>
   
   <!-- EN: name -->
   <Name.label>namn</Name.label>

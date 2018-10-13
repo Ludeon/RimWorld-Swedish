@@ -25,16 +25,16 @@
   <!-- EN: Excising carcinoma. -->
   <ExciseCarcinoma.jobString>avlägsnar karcinom.</ExciseCarcinoma.jobString>
   <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} har lyckats att avlägsna {1}'s karcinom.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} har lyckats avlägsna {1}s karcinom.</ExciseCarcinoma.successfullyRemovedHediffMessage>
   <!-- EN: excise carcinoma -->
   <ExciseCarcinoma.label>avlägsna karcinom</ExciseCarcinoma.label>
   <!-- EN: Excise a carcinoma. -->
-  <ExciseCarcinoma.description>avlägsnar karcinom.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.description>avlägsnar ett karcinom.</ExciseCarcinoma.description>
   
   <!-- EN: Removing body part. -->
-  <RemoveBodyPart.jobString>Avlägsnar en kroppsdel.</RemoveBodyPart.jobString>
+  <RemoveBodyPart.jobString>Avlägsnar kroppsdel.</RemoveBodyPart.jobString>
   <!-- EN: remove part -->
-  <RemoveBodyPart.label>avlägsna en del</RemoveBodyPart.label>
+  <RemoveBodyPart.label>avlägsna del</RemoveBodyPart.label>
   <!-- EN: Remove a body part. -->
   <RemoveBodyPart.description>Avlägsna en kroppsdel.</RemoveBodyPart.description>
   

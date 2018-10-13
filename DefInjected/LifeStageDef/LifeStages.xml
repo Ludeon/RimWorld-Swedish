@@ -11,7 +11,7 @@
   <AnimalBabyTiny.label>baby</AnimalBabyTiny.label>
   
   <!-- EN: juvenile -->
-  <AnimalJuvenile.label>ungt djur</AnimalJuvenile.label>
+  <AnimalJuvenile.label>ungdjur</AnimalJuvenile.label>
   
   <!-- EN: adult -->
   <EusocialInsectAdult.label>vuxen</EusocialInsectAdult.label>
@@ -32,7 +32,7 @@
   <HumanlikeChild.label>barn</HumanlikeChild.label>
   
   <!-- EN: teenage -->
-  <HumanlikeTeenager.adjective>tonåren</HumanlikeTeenager.adjective>
+  <HumanlikeTeenager.adjective>tonår</HumanlikeTeenager.adjective>
   <!-- EN: teenager -->
   <HumanlikeTeenager.label>tonåring</HumanlikeTeenager.label>
   

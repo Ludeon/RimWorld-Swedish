@@ -4,21 +4,21 @@
   <!-- EN: grand sculpture -->
   <SculptureGrand.label>enorm skulptur</SculptureGrand.label>
   <!-- EN: A huge sculpture sized to dominate a room. -->
-  <SculptureGrand.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en medelstor bil.</SculptureGrand.description>
+  <SculptureGrand.description>En enorm skulptur, storleksmässig nog att ta över ett rum.</SculptureGrand.description>
   
   <!-- EN: large sculpture -->
   <SculptureLarge.label>stor skulptur</SculptureLarge.label>
   <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
-  <SculptureLarge.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en människa.</SculptureLarge.description>
+  <SculptureLarge.description>En skulptur ungefär lika stor som en människa, skulpteradfrån olika material till ett konstverk. </SculptureLarge.description>
   
   <!-- EN: small sculpture -->
   <SculptureSmall.label>liten skulptur</SculptureSmall.label>
   <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
-  <SculptureSmall.description>Ett material som formats till ett konstnärligt uttryck i ungefär samma storlek som en byst.</SculptureSmall.description>
+  <SculptureSmall.description>En mindra skulptur stor som en överkropp som skulpterats från konstnärligt material.</SculptureSmall.description>
   
   <!-- EN: snowman -->
   <Snowman.label>snögubbe</Snowman.label>
   <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
-  <Snowman.description>Ett uttryck för allts förgänglighet i en förnimbar mänsklig skepnad, skapad av snö.</Snowman.description>
+  <Snowman.description>Ett par stora snöbollar staplade på varandra och formade till att föreställa en person. Dessa tillverkar folk bara för nöjes skull.</Snowman.description>
   
 </LanguageData>

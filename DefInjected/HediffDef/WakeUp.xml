@@ -4,12 +4,12 @@
   <!-- EN: withdrawal -->
   <WakeUpAddiction.stages.withdrawal.label>abstinens</WakeUpAddiction.stages.withdrawal.label>
   <!-- EN: wake-up addiction -->
-  <WakeUpAddiction.label>vakna missbruk</WakeUpAddiction.label>
+  <WakeUpAddiction.label>va-knamissbruk</WakeUpAddiction.label>
   
   <!-- EN: a wake-up high -->
-  <WakeUpHigh.labelNoun>vaknahög</WakeUpHigh.labelNoun>
+  <WakeUpHigh.labelNoun>en va-kna tripp</WakeUpHigh.labelNoun>
   <!-- EN: high on wake-up -->
-  <WakeUpHigh.label>hög på vakna</WakeUpHigh.label>
+  <WakeUpHigh.label>hög på va-kna</WakeUpHigh.label>
   
   <!-- EN: small -->
   <WakeUpTolerance.stages.small-1.label>liten</WakeUpTolerance.stages.small-1.label>
@@ -18,6 +18,6 @@
   <!-- EN: massive -->
   <WakeUpTolerance.stages.massive.label>enorm</WakeUpTolerance.stages.massive.label>
   <!-- EN: wake-up tolerance -->
-  <WakeUpTolerance.label>vakna tolerans</WakeUpTolerance.label>
+  <WakeUpTolerance.label>va-knatolerans</WakeUpTolerance.label>
   
 </LanguageData>

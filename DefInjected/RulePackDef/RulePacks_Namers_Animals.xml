@@ -13,21 +13,7 @@
     <li>exoticname->[Color]</li>
   -->
   <NamerAnimalGenericFemale.rulePack.rulesStrings>
-    <li>name->[animalnameunisex]</li>
-    <li>name->[animalnameunisex]</li>
-    <li>name->[animalnameunisex]</li>
-    <li>name->[animalnamefemale]</li>
-    <li>name->[animalnamefemale]</li>
-    <li>name->[animalnamefemale]</li>
-    <li>name->[personnamefemale]</li>
-    <li>name->[personnamefemale]</li>
-    <li>name->[personnamefemale]</li>
-    <li>name->[exoticname]</li>
-    <li>exoticname->[badassadjective]</li>
-    <li>exoticname->[badassadjective]</li>
-    <li>exoticname->[concept]</li>
-    <li>exoticname->[concept]</li>
-    <li>exoticname->[color]</li>
+    <li>TODO</li>
   </NamerAnimalGenericFemale.rulePack.rulesStrings>
   
   <!-- EN:
@@ -42,21 +28,7 @@
     <li>exoticname->[Color]</li>
   -->
   <NamerAnimalGenericMale.rulePack.rulesStrings>
-    <li>name->[animalnameunisex]</li>
-    <li>name->[animalnameunisex]</li>
-    <li>name->[animalnameunisex]</li>
-    <li>name->[animalnamemale]</li>
-    <li>name->[animalnamemale]</li>
-    <li>name->[animalnamemale]</li>
-    <li>name->[personnamemale]</li>
-    <li>name->[personnamemale]</li>
-    <li>name->[personnamemale]</li>
-    <li>name->[exoticname]</li>
-    <li>exoticname->[badassadjective]</li>
-    <li>exoticname->[badassadjective]</li>
-    <li>exoticname->[concept]</li>
-    <li>exoticname->[concept]</li>
-    <li>exoticname->[color]</li>
+    <li>TODO</li>
   </NamerAnimalGenericMale.rulePack.rulesStrings>
   
 </LanguageData>

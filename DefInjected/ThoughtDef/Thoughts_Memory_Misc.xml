@@ -7,8 +7,8 @@
   <AteWithoutTable.stages.ate_without_table.description>Jag var tvungen att äta en måltid på marken. Kan vi inte få ett bord hit?</AteWithoutTable.stages.ate_without_table.description>
   
   <!-- UNUSED -->
-  <BondedAnimalAbandoned.stages.0.label>bundet djur {0} övergivet</BondedAnimalAbandoned.stages.0.label>
-  <BondedAnimalAbandoned.stages.0.description>Min bundna djur övergavs i mitten av ingenstans !</BondedAnimalAbandoned.stages.0.description>
+  <BondedAnimalAbandoned.stages.0.label>UNUSED</BondedAnimalAbandoned.stages.0.label>
+  <BondedAnimalAbandoned.stages.0.description>UNUSED</BondedAnimalAbandoned.stages.0.description>
   
   <!-- EN: bonded animal {0} banished -->
   <BondedAnimalBanished.stages.bonded_animal_banished.label>TODO</BondedAnimalBanished.stages.bonded_animal_banished.label>
@@ -26,12 +26,12 @@
   <Catharsis.stages.catharsis.description>Det kändes bra att äntligen visa mina känslor.</Catharsis.stages.catharsis.description>
   
   <!-- UNUSED -->
-  <ColonistAbandoned.stages.0.label>kolonist övergiven</ColonistAbandoned.stages.0.label>
-  <ColonistAbandoned.stages.0.description>Vi har just lämnat någon kvar. Jag hoppas att de kommer att klara sig, men jag är orolig.</ColonistAbandoned.stages.0.description>
+  <ColonistAbandoned.stages.0.label>UNUSED</ColonistAbandoned.stages.0.label>
+  <ColonistAbandoned.stages.0.description>UNUSED</ColonistAbandoned.stages.0.description>
   
   <!-- UNUSED -->
-  <ColonistAbandonedToDie.stages.0.label>kolonist lämnad att dö</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>Vi lämnade någon kvar på ett sådant sätt att det nästan inte finns något sätt för dom att överleva.</ColonistAbandonedToDie.stages.0.description>
+  <ColonistAbandonedToDie.stages.0.label>UNUSED</ColonistAbandonedToDie.stages.0.label>
+  <ColonistAbandonedToDie.stages.0.description>UNUSED</ColonistAbandonedToDie.stages.0.description>
   
   <!-- EN: colonist banished -->
   <ColonistBanished.stages.colonist_banished.label>TODO</ColonistBanished.stages.colonist_banished.label>
@@ -52,8 +52,8 @@
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
   <!-- UNUSED -->
-  <DefeatedMajorEnemy.stages.0.label>besegrade {0}</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>Jag tog ner ett stort hot! Jag är en hjälte!</DefeatedMajorEnemy.stages.0.description>
+  <DefeatedMajorEnemy.stages.0.label>UNUSED</DefeatedMajorEnemy.stages.0.label>
+  <DefeatedMajorEnemy.stages.0.description>UNUSED</DefeatedMajorEnemy.stages.0.description>
   
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>TODO</FailedToRescueRelative.stages.failed_to_rescue.label>
@@ -61,8 +61,8 @@
   <FailedToRescueRelative.stages.failed_to_rescue.description>TODO</FailedToRescueRelative.stages.failed_to_rescue.description>
   
   <!-- UNUSED -->
-  <GreenThumbHappy.stages.0.label>sådde en växt</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>Vad världen behöver är fler växter!</GreenThumbHappy.stages.0.description>
+  <GreenThumbHappy.stages.0.label>UNUSED</GreenThumbHappy.stages.0.label>
+  <GreenThumbHappy.stages.0.description>UNUSED</GreenThumbHappy.stages.0.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>dödat någon</KilledHumanlikeBloodlust.stages.killed_someone.label>

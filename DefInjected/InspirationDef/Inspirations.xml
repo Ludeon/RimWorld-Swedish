@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will move faster for the next 8 days. -->
-  <Frenzy_Go.beginLetter>TODO</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetter>[PAWN_nameIndef] har fått en ingivelse!\n\n[PAWN_pronoun] kommer röra sig snabbare under 8 kommande dagar. </Frenzy_Go.beginLetter>
   <!-- EN: Inspiration: Go frenzy -->
-  <Frenzy_Go.beginLetterLabel>TODO</Frenzy_Go.beginLetterLabel>
+  <Frenzy_Go.beginLetterLabel>Ingivelse: Vandringsfrenesi</Frenzy_Go.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (go frenzy). -->
-  <Frenzy_Go.endMessage>TODO</Frenzy_Go.endMessage>
+  <Frenzy_Go.endMessage>{0}s vandringsfrenesi har avtagit.</Frenzy_Go.endMessage>
   <!-- EN: Inspired: Go frenzy -->
-  <Frenzy_Go.baseInspectLine>TODO</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.baseInspectLine>Ingivelse: Vandringsfrenesi.</Frenzy_Go.baseInspectLine>
   <!-- EN: go frenzy -->
-  <Frenzy_Go.label>TODO</Frenzy_Go.label>
+  <Frenzy_Go.label>vandringsfrenesi</Frenzy_Go.label>
   
   <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_possessive] shoot more accurately for the next 8 days. -->
-  <Frenzy_Shoot.beginLetter>TODO</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetter>[PAWN_nameIndef] har fått en ingivelse!\n\n[PAWN_possessive] kommer att skjuta med större träffsäkerhet de kommande 8 dagarna.</Frenzy_Shoot.beginLetter>
   <!-- EN: Inspiration: Shoot frenzy -->
-  <Frenzy_Shoot.beginLetterLabel>TODO</Frenzy_Shoot.beginLetterLabel>
+  <Frenzy_Shoot.beginLetterLabel>Ingivelse: Skyttefrenesi</Frenzy_Shoot.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (shoot frenzy). -->
-  <Frenzy_Shoot.endMessage>TODO</Frenzy_Shoot.endMessage>
+  <Frenzy_Shoot.endMessage>{0}s skyttefrenesi har avtagit.</Frenzy_Shoot.endMessage>
   <!-- EN: Inspired: Shoot frenzy -->
-  <Frenzy_Shoot.baseInspectLine>TODO</Frenzy_Shoot.baseInspectLine>
+  <Frenzy_Shoot.baseInspectLine>Ingivelse: Skyttefrenesi</Frenzy_Shoot.baseInspectLine>
   <!-- EN: shoot frenzy -->
-  <Frenzy_Shoot.label>TODO</Frenzy_Shoot.label>
+  <Frenzy_Shoot.label>skyttefrenesi</Frenzy_Shoot.label>
   
   <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will work faster for the next 8 days. -->
-  <Frenzy_Work.beginLetter>TODO</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetter>[PAWN_nameIndef] har fått en ingivelse!\n\n[PAWN_possessive] kommer att arbeta snabbare de kommande 8 dagarna.</Frenzy_Work.beginLetter>
   <!-- EN: Inspiration: Work frenzy -->
-  <Frenzy_Work.beginLetterLabel>TODO</Frenzy_Work.beginLetterLabel>
+  <Frenzy_Work.beginLetterLabel>Ingivelse: Arbetsfrenesi</Frenzy_Work.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (work frenzy). -->
-  <Frenzy_Work.endMessage>TODO</Frenzy_Work.endMessage>
+  <Frenzy_Work.endMessage>{0}s arbetsfrenesi har avtagit.</Frenzy_Work.endMessage>
   <!-- EN: Inspired: Work frenzy -->
-  <Frenzy_Work.baseInspectLine>TODO</Frenzy_Work.baseInspectLine>
+  <Frenzy_Work.baseInspectLine>Ingivelse: Arbetsfrenesi</Frenzy_Work.baseInspectLine>
   <!-- EN: work frenzy -->
-  <Frenzy_Work.label>TODO</Frenzy_Work.label>
+  <Frenzy_Work.label>arbetsfrenesi</Frenzy_Work.label>
   
   <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\nThe next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
-  <Inspired_Creativity.beginLetter>TODO</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetter>[PAWN_nameIndef] har fått en ingivelse och inspirerats!\n\nNästa föremål,konstverk eller möbel som [PAWN_pronoun] tillverkar kommer bli två kvalitetsnivåer högre än vad det skulle blivit annars. Detta tillåter även tillverkning av legendariska föremål.\n\nIngivelsen kommer avta efter 8 dagar, eller när en tillverkning slutförts.</Inspired_Creativity.beginLetter>
   <!-- EN: Inspiration: Inspired creativity -->
-  <Inspired_Creativity.beginLetterLabel>TODO</Inspired_Creativity.beginLetterLabel>
+  <Inspired_Creativity.beginLetterLabel>Ingivelse: Ökad kreativitet</Inspired_Creativity.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (inspired creativity). -->
-  <Inspired_Creativity.endMessage>TODO</Inspired_Creativity.endMessage>
+  <Inspired_Creativity.endMessage>0}s ökade kreativitet har avtagit.</Inspired_Creativity.endMessage>
   <!-- EN: Inspired: Inspired creativity -->
-  <Inspired_Creativity.baseInspectLine>TODO</Inspired_Creativity.baseInspectLine>
+  <Inspired_Creativity.baseInspectLine>Ingivelse: Ökad kreativitet</Inspired_Creativity.baseInspectLine>
   <!-- EN: inspired creativity -->
-  <Inspired_Creativity.label>TODO</Inspired_Creativity.label>
+  <Inspired_Creativity.label>ökad kreativitet</Inspired_Creativity.label>
   
   <!-- EN: [PAWN_nameIndef] has experienced an inspiration!\n\n[PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
   <Inspired_Recruitment.beginLetter>TODO</Inspired_Recruitment.beginLetter>

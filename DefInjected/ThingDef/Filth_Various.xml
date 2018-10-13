@@ -26,15 +26,15 @@
   <Filth_FireFoam.label>bandskum</Filth_FireFoam.label>
   
   <!-- EN: chemfuel puddle -->
-  <Filth_Fuel.label>bränslepöl</Filth_Fuel.label>
+  <Filth_Fuel.label>pöl av kembränsle</Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
-  <Filth_Fuel.description>brinner på marken.</Filth_Fuel.description>
+  <Filth_Fuel.description>en pöl av brandfarligt kembränsle.</Filth_Fuel.description>
   
   <!-- EN: human filth -->
-  <Filth_HumanFilth.label>TODO</Filth_HumanFilth.label>
+  <Filth_HumanFilth.label>människosmuts</Filth_HumanFilth.label>
   
   <!-- EN: building rubble -->
-  <Filth_RubbleBuilding.label>byggavfall</Filth_RubbleBuilding.label>
+  <Filth_RubbleBuilding.label>byggrester</Filth_RubbleBuilding.label>
   
   <!-- EN: rock rubble -->
   <Filth_RubbleRock.label>stenspillror</Filth_RubbleRock.label>
@@ -46,13 +46,13 @@
   <Filth_Slime.label>slem</Filth_Slime.label>
   
   <!-- EN: trash -->
-  <Filth_Trash.label>TODO</Filth_Trash.label>
+  <Filth_Trash.label>skräp</Filth_Trash.label>
   
   <!-- EN: vomit -->
   <Filth_Vomit.label>spya</Filth_Vomit.label>
   
   <!-- EN: scattered sandbags -->
-  <SandbagRubble.label>spridda sandsäckar</SandbagRubble.label>
+  <SandbagRubble.label>utspridda sandsäckar</SandbagRubble.label>
   
   <!-- EN: scattered slag -->
   <SlagRubble.label>utspridd slagg</SlagRubble.label>

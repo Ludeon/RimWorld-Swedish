@@ -7,49 +7,49 @@
   <AIPersonaCore.description>En hyperavancerad datorkärna som innehåller en övermänsklig artificiell intelligens. I dess isolerade tillstånd är kärnan inaktiv. Installerad i en ordentlig stödstruktur däremot, kan den bli ett sinne med skrämmande kraft.</AIPersonaCore.description>
   
   <!-- EN: point -->
-  <ElephantTusk.tools.point.label>TODO</ElephantTusk.tools.point.label>
+  <ElephantTusk.tools.point.label>tipp</ElephantTusk.tools.point.label>
   <!-- EN: base -->
-  <ElephantTusk.tools.base.label>TODO</ElephantTusk.tools.base.label>
+  <ElephantTusk.tools.base.label>bas</ElephantTusk.tools.base.label>
   <!-- EN: elephant tusk -->
   <ElephantTusk.label>elefantbete</ElephantTusk.label>
   <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
-  <ElephantTusk.description>En elefantbete. Mycket slitstark och värdefullt. Dödliga men något otymplig som ett vapen.</ElephantTusk.description>
+  <ElephantTusk.description>En elefantbete. Mycket slitstark och värdefull. Dödliga men något otymplig som vapen.</ElephantTusk.description>
   
   <!-- EN: Use healer mech serum -->
-  <MechSerumHealer.comps.CompUsable.useLabel>TODO</MechSerumHealer.comps.CompUsable.useLabel>
+  <MechSerumHealer.comps.CompUsable.useLabel>Använd helande mekanitserum</MechSerumHealer.comps.CompUsable.useLabel>
   <!-- EN: healer mech serum -->
-  <MechSerumHealer.label>TODO</MechSerumHealer.label>
+  <MechSerumHealer.label>helande mekanitserum</MechSerumHealer.label>
   <!-- EN: A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed. -->
-  <MechSerumHealer.description>TODO</MechSerumHealer.description>
+  <MechSerumHealer.description>En engångsdos av jättekarraktär bestående av mekaniter inställda för att hela hälsotillstånd. Mekaniterna kommer enbart rikta in sig på det sämsta hälsotillståndet som besvärar någon vid en viss tidpunkt. Fungerar även på hälsotillstånd som annars ej skulle kunna behandlas. Mekaniterna kan även förvandla sig till biologisk materia och forma nya kroppsdelar samt organ om det behövs.</MechSerumHealer.description>
   
   <!-- EN: Use neurotrainer mech serum to learn {0} -->
-  <MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>Använd neurotränare för att lära dig {0}</MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>
+  <MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>Använd mekanitserum för inlärning av {0}</MechSerumNeurotrainer.comps.CompNeurotrainer.useLabel>
   <!-- EN: neurotrainer mech serum -->
-  <MechSerumNeurotrainer.label>neurotränare</MechSerumNeurotrainer.label>
+  <MechSerumNeurotrainer.label>mekanitserum för neuroträning</MechSerumNeurotrainer.label>
   <!-- EN: A one-use super-dose of mechanites tuned to train a specific skill. The dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <MechSerumNeurotrainer.description>En engångs nanoträningsenhet. Neurotränaren förs in genom ögonbanan och släpper nanomaskiner in i patientens hjärna som snabbt kan förbättra sina färdigheter inom ett visst område.</MechSerumNeurotrainer.description>
+  <MechSerumNeurotrainer.description>En engångsdos av jättekarraktär bestående av mekaniter inställda på att träna upp en specifik färdighet. dosen administreras genom ögonhålan. När de släppts ut och når hjärnan är mekaniterna snabba på att förbättra personens färdighet inom ett visst område och förvandlar sig själva till neuroner i den mån det behövs.</MechSerumNeurotrainer.description>
   
   <!-- EN: Use resurrector mech serum -->
-  <MechSerumResurrector.comps.CompUsable.useLabel>TODO</MechSerumResurrector.comps.CompUsable.useLabel>
+  <MechSerumResurrector.comps.CompUsable.useLabel>Använd återupplivande mekanitserum</MechSerumResurrector.comps.CompUsable.useLabel>
   <!-- EN: resurrector mech serum -->
-  <MechSerumResurrector.label>TODO</MechSerumResurrector.label>
+  <MechSerumResurrector.label>återupplivande mekanitserum</MechSerumResurrector.label>
   <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death. -->
-  <MechSerumResurrector.description>TODO</MechSerumResurrector.description>
+  <MechSerumResurrector.description>En engångsdos av jättekarraktär bestående av mekaniter inställda på att återuppliva de döda. Administreras till lik, mekaniterna reparerar nedbrutna vävnader och kickstartar kroppen tillbaka till liv. Tyvärr kommer de återupplivade tillbaka med hjärnskador, blindhet eller progressiv psykos. Resultatet blir bättre om mekaniterna administreras till en nyligen avliden kropp. Om kroppen är välbevarad kan den återupplivas en lång tid efter att döden inträffat. </MechSerumResurrector.description>
   
   <!-- EN: Use techprof subpersona core -->
-  <TechprofSubpersonaCore.comps.CompUsable.useLabel>TODO</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+  <TechprofSubpersonaCore.comps.CompUsable.useLabel>Använd teknologiskt säker subpersonlighets kärna</TechprofSubpersonaCore.comps.CompUsable.useLabel>
   <!-- EN: techprof subpersona core -->
-  <TechprofSubpersonaCore.label>TODO</TechprofSubpersonaCore.label>
+  <TechprofSubpersonaCore.label>teknologiskt säker subpersonnlighets kärna </TechprofSubpersonaCore.label>
   <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
-  <TechprofSubpersonaCore.description>TODO</TechprofSubpersonaCore.description>
+  <TechprofSubpersonaCore.description>En liten AIkärna som innehåller en låggradig subpersonlighet som är specialiserad på inlärningsteknologi. När den används kommer AIn lära dig teknologin för det du för tillfället forskar på, direkt och gratis. Kan enbart användas en gång.</TechprofSubpersonaCore.description>
   
   <!-- EN: point -->
-  <ThrumboHorn.tools.point.label>TODO</ThrumboHorn.tools.point.label>
+  <ThrumboHorn.tools.point.label>tipp</ThrumboHorn.tools.point.label>
   <!-- EN: base -->
-  <ThrumboHorn.tools.base.label>TODO</ThrumboHorn.tools.base.label>
+  <ThrumboHorn.tools.base.label>bas</ThrumboHorn.tools.base.label>
   <!-- EN: thrumbo horn -->
   <ThrumboHorn.label>thrumbohorn</ThrumboHorn.label>
   <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
-  <ThrumboHorn.description>En thrumbo's horn. Det är knivskarp, mycket hårt och ovärderliga på de flesta marknader. Detta är en sann trofé.</ThrumboHorn.description>
+  <ThrumboHorn.description>En thrumbos horn. Det är vasst som ett rakblad och ovärderligt på många marknader. Detta är en sann trofé men även ett dödligt närstridsvapen.</ThrumboHorn.description>
   
 </LanguageData>

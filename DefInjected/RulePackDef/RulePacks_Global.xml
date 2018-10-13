@@ -51,20 +51,7 @@
     <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
   -->
   <GlobalUtility.rulePack.rulesStrings>
-    <li>quantity_adjphrase->en grupp av</li>
-    <li>quantity_adjphrase->flera</li>
-    <li>quantity_adjphrase->dussin av</li>
-    <li>quantity_adjphrase->två</li>
-    <li>quantity_adjphrase->tre</li>
-    <li>quantity_adjphrase->fyra</li>
-    <li>quantity_adjphrase->fem</li>
-    <li>quantity_adjphrase->sex</li>
-    <li>quantity_adjphrase->oberäkneliga</li>
-    <li>quantity_adjphrase->oräkeliga</li>
-    <li>game->poker</li>
-    <li>game->shack</li>
-    <li>game->kortspel</li>
-    <li>game->backgammon</li>
+    <li>TODO</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:

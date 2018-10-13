@@ -11,10 +11,10 @@
   <ApparelDamaged.stages.tattered_apparel.description>Jag bär en trasig bit av en papperskorg. Kan jag inte få något anständigt att bära?</ApparelDamaged.stages.tattered_apparel.description>
   
   <!-- UNUSED -->
-  <CabinFever.stages.0.label>lappsjuka (lätt)</CabinFever.stages.0.label>
-  <CabinFever.stages.0.description>Jag har varit instängda i flera dagar. Jag behöver komma ut.</CabinFever.stages.0.description>
-  <CabinFever.stages.1.label>lappsjuka (allvarlig)</CabinFever.stages.1.label>
-  <CabinFever.stages.1.description>Jag har varit instängda som en råtta i här så länge. Jag behöver desperat få komma ut!</CabinFever.stages.1.description>
+  <CabinFever.stages.0.label>UNUSED</CabinFever.stages.0.label>
+  <CabinFever.stages.0.description>UNUSED</CabinFever.stages.0.description>
+  <CabinFever.stages.1.label>UNUSED</CabinFever.stages.1.label>
+  <CabinFever.stages.1.description>UNUSED</CabinFever.stages.1.description>
   
   <!-- EN: tainted {0} -->
   <DeadMansApparel.stages.tainted.label>död mans {0}</DeadMansApparel.stages.tainted.label>

@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: There are enemy turrets in this area. -->
-  <Turrets.arrivedLetter>TODO</Turrets.arrivedLetter>
+  <Turrets.arrivedLetter>Det finns fientliga kanontorn i detta område</Turrets.arrivedLetter>
   <!-- EN: Enemy turrets -->
-  <Turrets.arrivedLetterLabel>TODO</Turrets.arrivedLetterLabel>
+  <Turrets.arrivedLetterLabel>Fientliga kanontorn</Turrets.arrivedLetterLabel>
   <!-- EN: a ring of {0} enemy turrets defends the site -->
-  <Turrets.descriptionDialogue>TODO</Turrets.descriptionDialogue>
+  <Turrets.descriptionDialogue>En ring av {0} fientliga kanontorn försvarar platsen.</Turrets.descriptionDialogue>
   <!-- EN: turrets -->
   <Turrets.label>kanontorn</Turrets.label>
   <!-- EN: A group of turrets. -->
-  <Turrets.description>Några kanontorn.</Turrets.description>
+  <Turrets.description>Ett antal kanontorn.</Turrets.description>
   
 </LanguageData>

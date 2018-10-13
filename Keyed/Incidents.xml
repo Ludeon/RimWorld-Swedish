@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+<!-- TODO Gå igenom filen -->
   <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanitySingle>Galet djur</LetterLabelAnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>Galen {0}</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {0} has gone mad. It will attack everyone it sees. -->
   <AnimalInsanitySingle>En lokal {0} har blivit galen. Den kommer att attackera alla den ser.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->

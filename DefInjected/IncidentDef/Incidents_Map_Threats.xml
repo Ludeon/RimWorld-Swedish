@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: mass animal insanity -->
-  <AnimalInsanityMass.label>massivt djurvansinne</AnimalInsanityMass.label>
+  <AnimalInsanityMass.label>djurmasspsykos</AnimalInsanityMass.label>
   
   <!-- EN: single animal insanity -->
-  <AnimalInsanitySingle.label>ett djurvansinne</AnimalInsanitySingle.label>
+  <AnimalInsanitySingle.label>galet djur</AnimalInsanitySingle.label>
   
   <!-- EN: Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base. -->
-  <DeepDrillInfestation.letterText>Vibrationer från dina djupa borrar har förargat några underjordiska insekter. Nu tunnlar de uppåt för att söka hämnd!\n\nVarning - insekterna har blivit ilska och kommer att försöka förstöra din bas.</DeepDrillInfestation.letterText>
+  <DeepDrillInfestation.letterText>Vibrationer från dina djupborrar har förargat några underjordiska insekter. Nu gräver de sig uppåt för att söka hämnd!\n\nVarning - insekterna har blivit ilskna och kommer försöka att förstöra din bas.</DeepDrillInfestation.letterText>
   <!-- EN: Too deep: Infestation -->
-  <DeepDrillInfestation.letterLabel>Infestering</DeepDrillInfestation.letterLabel>
+  <DeepDrillInfestation.letterLabel>Insektsangrepp</DeepDrillInfestation.letterLabel>
   <!-- EN: deep drill infestation -->
-  <DeepDrillInfestation.label>djupborrinfestation</DeepDrillInfestation.label>
+  <DeepDrillInfestation.label>djupborrsangrepp</DeepDrillInfestation.label>
   
   <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
-  <Infestation.letterText>Gigantiska insekter tunnlar mot dig! De kommer att bryta igenom om några sekunder och yngla svärmar.\n\nDessa svärmar kommer att yngla mer insekter och tilverka mera svärmar.\n\nOm du inte vill att dom skall angripa heala området måste du förstöra svärmarna. Men akta dig - insekterna kommer att försvara sitt hem.</Infestation.letterText>
+  <Infestation.letterText>Gigantiska insekter gräver sig mot dig! De kommer att bryta igenom om några sekunder och placera ut insektskupor.\n\nFrån dessa kupor förökar sig fler insekter och fler insektskupor.\n\nOm du inte vill att insekterna ska angripa hela området behöver du förstöra insektskuporna. Var på din vakt - insekterna kommer försvara sina hem.</Infestation.letterText>
   <!-- EN: Infestation -->
-  <Infestation.letterLabel>Infestering</Infestation.letterLabel>
+  <Infestation.letterLabel>Insektsangrepp</Infestation.letterLabel>
   <!-- EN: infestation -->
-  <Infestation.label>infestering</Infestation.label>
+  <Infestation.label>Insektsangrepp</Infestation.label>
   
   <!-- EN: manhunter pack -->
   <ManhunterPack.label>människojagande flock</ManhunterPack.label>
   
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <PoisonShipPartCrash.letterText>En stor bit av ett fortida skepp har krashad i närheten.\n\nDet läcker giftigt material och kommer döda alla växter i en expanderande cirkel runt sig.\n\nFörstör det så fort som möjligt. Men akta dig - det kommer troligen att försvara sig.</PoisonShipPartCrash.letterText>
+  <PoisonShipPartCrash.letterText>En stor bit av ett fortida skepp har krashat i närheten.\n\nDess mystiska påverkan kommer döda alla växter i en expanderande cirkel runt sig självt.\n\nFörstör det så fort som möjligt. Men akta dig - det kommer troligen att försvara sig.</PoisonShipPartCrash.letterText>
   <!-- EN: Poison ship -->
   <PoisonShipPartCrash.letterLabel>Förgiftat skepp</PoisonShipPartCrash.letterLabel>
   <!-- EN: ship part crash (poison) -->
-  <PoisonShipPartCrash.label>skeppsdelskrash (gift)</PoisonShipPartCrash.label>
+  <PoisonShipPartCrash.label> krasch av skeppsdel (giftig)</PoisonShipPartCrash.label>
   
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard AI persona with psychic projection ability. And this AI is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <PsychicEmanatorShipPartCrash.letterText>En stor bit av ett fortida skepp har krashad i närheten.\n\nDina kolonister kan känna i sina sinnen förmaningar till avskyvärda handlingar. Det måste ha en AI personlighet ombord med psykiska projektions möjligheter. Den här AI:n är inte vänlig.\n\nFörstör det så fort som möjligt. Men akta dig - det kommer troligen att försvara sig.</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterText>En stor bit av ett fortida skepp har krashat i närheten.\n\nDina kolonister känner av det i sitt undermedvetna, som uppmanar dem till obeskrivliga handlingar. Det måste ha en AI personlighet ombord med psykiska projektionsmöjligheter. Den här AI:n är inte vänlig inställd.\n\nFörstör det så fort som möjligt. Men akta dig - det kommer troligen att försvara sig.</PsychicEmanatorShipPartCrash.letterText>
   <!-- EN: Psychic ship -->
-  <PsychicEmanatorShipPartCrash.letterLabel>Psysikst skepp</PsychicEmanatorShipPartCrash.letterLabel>
+  <PsychicEmanatorShipPartCrash.letterLabel>Psykiskt skepp</PsychicEmanatorShipPartCrash.letterLabel>
   <!-- EN: ship part crash (psychic) -->
-  <PsychicEmanatorShipPartCrash.label>skeppsdelskrash (Psysiks)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.label>krasch av skeppdel (psykisk)</PsychicEmanatorShipPartCrash.label>
   
   <!-- EN: enemy raid -->
-  <RaidEnemy.label>fientlig räd</RaidEnemy.label>
+  <RaidEnemy.label>fiendeangrepp</RaidEnemy.label>
   
 </LanguageData>

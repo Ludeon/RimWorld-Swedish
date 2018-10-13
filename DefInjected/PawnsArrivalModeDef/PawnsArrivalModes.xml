@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
-  <CenterDrop.textEnemy>TODO</CenterDrop.textEnemy>
+  <CenterDrop.textEnemy>En grupp {0} från {1} faller rakt ned mot dig!</CenterDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
-  <CenterDrop.textFriendly>TODO</CenterDrop.textFriendly>
+  <CenterDrop.textFriendly>En vänlig grupp {0} från {1} faller rakt ned mot dig!</CenterDrop.textFriendly>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textEnemy>TODO</EdgeDrop.textEnemy>
+  <EdgeDrop.textEnemy>En grupp {0} från {1} har landat med transportkapslar i närheten.</EdgeDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textFriendly>TODO</EdgeDrop.textFriendly>
+  <EdgeDrop.textFriendly>En vänligt grupp {0} från {1} har landat med transportkapslar i närheten.</EdgeDrop.textFriendly>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textEnemy>TODO</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textEnemy>Flera separata grupper av {0} från {1} har landat med transportkapslar i närheten </EdgeDropGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textFriendly>TODO</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textFriendly>Flera separata vänliga grupper av {0} från {1} har landat med transportkapslar i närheten</EdgeDropGroups.textFriendly>
   
   <!-- EN: A group of {0} from {1} have arrived nearby. -->
-  <EdgeWalkIn.textEnemy>TODO</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textEnemy>En grupp {0} från {1} har anlänt i närheten.</EdgeWalkIn.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
-  <EdgeWalkIn.textFriendly>TODO</EdgeWalkIn.textFriendly>
+  <EdgeWalkIn.textFriendly>En vänlig grupp {0} från {1} har anlänt i närheten.</EdgeWalkIn.textFriendly>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived nearby. -->
-  <EdgeWalkInGroups.textEnemy>TODO</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textEnemy>Flera separata grupper av {0} från {1} har anlänt i närheten.</EdgeWalkInGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived nearby. -->
-  <EdgeWalkInGroups.textFriendly>TODO</EdgeWalkInGroups.textFriendly>
+  <EdgeWalkInGroups.textFriendly>Flera separata vänliga grupper av {0} från {1} har anlänt i närheten.</EdgeWalkInGroups.textFriendly>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textEnemy>TODO</RandomDrop.textEnemy>
+  <RandomDrop.textEnemy>En grupp {0} från {1} har landat i transportkapslar. Deras kaplslar är utom kontroll och faller ned lite var stans i området!</RandomDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textFriendly>TODO</RandomDrop.textFriendly>
+  <RandomDrop.textFriendly>En vänlig grupp {0} från {1} har landat i transportkapslar. Deras kaplslar är utom kontroll och faller ned lite var stans i området!</RandomDrop.textFriendly>
   
 </LanguageData>

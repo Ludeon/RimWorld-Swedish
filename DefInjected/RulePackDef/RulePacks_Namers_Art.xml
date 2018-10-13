@@ -61,16 +61,8 @@
     <li>r_art_name(p=3)->[ColorBadass] [ANYPAWN_nameIndef]</li>
   -->
   <NamerArtWeapon.rulePack.rulesStrings>
-    <li>art_name->[badassconcept]</li>
-    <li>art_name->[badassanimal]en</li>
-    <li>art_name->[badassadjective] [badassanimal]</li>
-    <li>art_name->[badasscolor] [badassanimal]</li>
-    <li>art_name->[badassconcept] [badasscolor]</li>
-    <li>art_name->[anyPawn_nameShort]'s [badassconcept]</li>
-    <li>art_name->[badassconcept] av [anyPawn_nameShort]</li>
-    <li>art_name->[badasscolor] [anyPawn_nameShort]</li>
-    <li>art_name->[anyPawn_nameShort]'s [badassanimal]</li>
-    <li>art_name->[anyPawn_nameShort]'s [badassperson]</li>
+    <li>TODO</li>
+ 
   </NamerArtWeapon.rulePack.rulesStrings>
   
 </LanguageData>

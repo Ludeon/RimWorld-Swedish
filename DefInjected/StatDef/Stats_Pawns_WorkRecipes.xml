@@ -42,8 +42,8 @@
   <FoodPoisonChance.description>Sannolikheten för att denna person oavsiktligt kommer att förgifta en måltid de lagar.</FoodPoisonChance.description>
   
   <!-- UNUSED -->
-  <MechanoidOperationSuccessChance.label>chans till lyckad mekaniodoperation</MechanoidOperationSuccessChance.label>
-  <MechanoidOperationSuccessChance.description>Sannolikheten för att en karaktär kommer att lyckas när man försöker utföra en operation på en mechanoid. Fel kan resultera i enkel bortkastad tid eller katastrofala skador på karaktären.</MechanoidOperationSuccessChance.description>
+  <MechanoidOperationSuccessChance.label>UNUSED</MechanoidOperationSuccessChance.label>
+  <MechanoidOperationSuccessChance.description>UNUSED</MechanoidOperationSuccessChance.description>
   
   <!-- EN: sculpting speed -->
   <SculptingSpeed.label>hastighet att skulptera</SculptingSpeed.label>
@@ -61,8 +61,8 @@
   <SmithingSpeed.description>Hur snabbt denna person smider, tillverkar vapen, maskiner, ammunition och verktyg.</SmithingSpeed.description>
   
   <!-- UNUSED -->
-  <StonecuttingSpeed.label>stenarbeteshastighet</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Hur snabbt den här personen hugger ut block ifrån grovhuggna stenbitar.</StonecuttingSpeed.description>
+  <StonecuttingSpeed.label>UNUSED</StonecuttingSpeed.label>
+  <StonecuttingSpeed.description>UNUSED</StonecuttingSpeed.description>
   
   <!-- EN: tailoring speed -->
   <TailoringSpeed.label>hastighet att sy</TailoringSpeed.label>

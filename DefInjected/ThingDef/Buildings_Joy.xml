@@ -4,22 +4,22 @@
   <!-- EN: billiards table -->
   <BilliardsTable.label>biljardbord</BilliardsTable.label>
   <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
-  <BilliardsTable.description>Ett bord med en mjuk yta för att spela olika typer av biljard-spel.</BilliardsTable.description>
+  <BilliardsTable.description>Ett bord med en mjuk yta för att spela olika typer av biljard-spel. Tränar skytteförmåga.</BilliardsTable.description>
   
   <!-- EN: chess table -->
   <ChessTable.label>schackbord</ChessTable.label>
   <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
-  <ChessTable.description>Kungen av strategispel. Roligt några timmar här och där, även om man spelar ensam.</ChessTable.description>
+  <ChessTable.description>Det uråldriga spelet om kungar. Roligt några timmar här och där, även om man spelar ensam. Det tränar intellektuell förmåga</ChessTable.description>
   
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>platt-TV</FlatscreenTelevision.label>
   <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <FlatscreenTelevision.description>En högteknologisk platt-tv med kristallklar skärm och skarpa färger. Mer underhållande än en gamal brusande katodrör-tv.</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>En högteknologisk platt-tv med kristallklar skärm och skarpa färger. Fånga upp sändningar från uråldriga satteliter och allmänt förekommande datorpost.</FlatscreenTelevision.description>
   
   <!-- EN: game-of-Ur board -->
-  <GameOfUrBoard.label>TODO</GameOfUrBoard.label>
+  <GameOfUrBoard.label>Urspels tavla</GameOfUrBoard.label>
   <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
-  <GameOfUrBoard.description>TODO</GameOfUrBoard.description>
+  <GameOfUrBoard.description>daterat från 2500 f.Kr., detta spännande och irriterande brädspel kan spelas av en eller två personer. Det tränar intelektuell förmåga.</GameOfUrBoard.description>
   
   <!-- EN: hoopstone ring -->
   <HoopstoneRing.label>TODO</HoopstoneRing.label>
@@ -29,17 +29,17 @@
   <!-- EN: horseshoes pin -->
   <HorseshoesPin.label>hästskokastning</HorseshoesPin.label>
   <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
-  <HorseshoesPin.description>En enkel gammal lek som kan spelas med ett par hästskor och en pinne i marken. Spelarna kastar hästskon och ska försöka hamna så nära pinnen som möjligt. Det är avslappnande och tränar även upp öga-hand koordination.</HorseshoesPin.description>
+  <HorseshoesPin.description>Ett enkelt gammalt spel som kan spelas med ett par hästskor och en stor pinne i marken. Spelarna kastar hästskor och ska försöka hamna på pinnen. Det är avslappnande och tränar även upp skytteförmåga.</HorseshoesPin.description>
   
   <!-- EN: megascreen television -->
-  <MegascreenTelevision.label>jätteplatt-tv</MegascreenTelevision.label>
+  <MegascreenTelevision.label>jättestor platt-tv</MegascreenTelevision.label>
   <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <MegascreenTelevision.description>En enorm högteknologisk tv. Dess gigantiska ultra-klara bilder hoppar nästan ut ut skärmen. Väldigt underhållande.</MegascreenTelevision.description>
+  <MegascreenTelevision.description>En enorm högteknologisk tv. Gigantisk, ultra-klara bilder hoppar nästan ut ut skärmen. Väldigt underhållande. Plockar upp sändningar från uråldriga satteliter och allmänt förekommande datorpost.</MegascreenTelevision.description>
   
   <!-- EN: poker table -->
-  <PokerTable.label>TODO</PokerTable.label>
+  <PokerTable.label>pokerbord</PokerTable.label>
   <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
-  <PokerTable.description>TODO</PokerTable.description>
+  <PokerTable.description>ett bord designat för att spela kortspel såsom poker. Ett utmärkt sätt att testa dina strategiska förmågor, och en gnutta tur.</PokerTable.description>
   
   <!-- EN: telescope -->
   <Telescope.label>teleskop</Telescope.label>
@@ -49,6 +49,6 @@
   <!-- EN: tube television -->
   <TubeTelevision.label>katodrör-TV</TubeTelevision.label>
   <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
-  <TubeTelevision.description>Ett katodstrålerör används för att visa rörliga bilder med ljud. Även ute i kransvärldarna finns det ofta gamla sändare som visar något åtminstone någorlunda intressant.</TubeTelevision.description>
+  <TubeTelevision.description>Ett katodörTV som används för att visa rörliga bilder med ljud. Även på kransvärldarna finns det ofta gamla sändare som visar något, åtminstone någorlunda intressant.</TubeTelevision.description>
   
 </LanguageData>

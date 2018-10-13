@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: take to best stockpile -->
-  <BestStockpile.label>bär till det bästa förrådet</BestStockpile.label>
+  <BestStockpile.label>ta till lämpligast lager</BestStockpile.label>
   
   <!-- EN: drop on floor -->
-  <DropOnFloor.label>släpp på marken</DropOnFloor.label>
+  <DropOnFloor.label>släpp på golvet</DropOnFloor.label>
   
   <!-- EN: take to {0} -->
-  <SpecificStockpile.label>bär till {0}</SpecificStockpile.label>
+  <SpecificStockpile.label>ta till {0}</SpecificStockpile.label>
   
 </LanguageData>

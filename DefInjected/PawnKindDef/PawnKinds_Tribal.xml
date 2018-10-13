@@ -6,23 +6,23 @@
   <Tribal_Archer.label>pilbågsskytt</Tribal_Archer.label>
   
   <!-- EN: berserker -->
-  <Tribal_Berserker.label>TODO</Tribal_Berserker.label>
+  <Tribal_Berserker.label>bärsärk</Tribal_Berserker.label>
   
   <!-- EN: berserker chief -->
-  <Tribal_ChiefMelee.label>TODO</Tribal_ChiefMelee.label>
+  <Tribal_ChiefMelee.label>ledande bärsärk</Tribal_ChiefMelee.label>
   
-  <Tribal_ChiefRanged.labelPlural>hövdingar</Tribal_ChiefRanged.labelPlural>
+  <Tribal_ChiefRanged.labelPlural>avståndsbeväpnade ledare</Tribal_ChiefRanged.labelPlural>
   <!-- EN: archer chief -->
-  <Tribal_ChiefRanged.label>hövding</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.label>ledande bågskytt</Tribal_ChiefRanged.label>
   
   <!-- EN: heavy archer -->
   <Tribal_HeavyArcher.label>TODO</Tribal_HeavyArcher.label>
   
   <!-- EN: hunter -->
-  <Tribal_Hunter.label>TODO</Tribal_Hunter.label>
+  <Tribal_Hunter.label>jägare</Tribal_Hunter.label>
   
   <!-- EN: penitent -->
-  <Tribal_Penitent.label>TODO</Tribal_Penitent.label>
+  <Tribal_Penitent.label>botgörare</Tribal_Penitent.label>
   
   <Tribal_Trader.labelPlural>handlare</Tribal_Trader.labelPlural>
   <!-- EN: trader -->

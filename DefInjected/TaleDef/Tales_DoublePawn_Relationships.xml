@@ -36,7 +36,7 @@
     <li>desc_sentence->[firstPawn_nameShortDef] rör [secondPawn_nameShortDef] aggressivt.</li>
   </BecameLover.rulePack.rulesStrings>
   <!-- EN: became lover -->
-  <BecameLover.label>blir älskare</BecameLover.label>
+  <BecameLover.label>blev älskare</BecameLover.label>
   
   <!-- EN:
     <li>tale_noun->[HUMAN_nameDef]'s bonding with [ANIMAL_nameDef]</li>
@@ -65,7 +65,7 @@
     <li>desc_sentence->[animal_nameShortDef] svarar positivt.</li>
   </BondedWithAnimal.rulePack.rulesStrings>
   <!-- EN: bond developed -->
-  <BondedWithAnimal.label>band utvecklas</BondedWithAnimal.label>
+  <BondedWithAnimal.label>band utvecklat</BondedWithAnimal.label>
   
   <!-- EN:
     <li>tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]</li>
@@ -100,7 +100,7 @@
     <li>desc_sentence->[secondPawn_nameShortDef] gestikulerade ilsket åt [firstPawn_nameShortDef].</li>
   </Breakup.rulePack.rulesStrings>
   <!-- EN: breakup -->
-  <Breakup.label>slut</Breakup.label>
+  <Breakup.label>TODO</Breakup.label>
   
   <!-- EN:
     <li>tale_noun->the marriage of [SPOUSE1_nameDef] and [SPOUSE2_nameDef]</li>

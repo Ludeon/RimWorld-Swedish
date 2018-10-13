@@ -2,36 +2,36 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>Inget</WorkTagNone>
+  <WorkTagNone>inget</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>Intellektuell</WorkTagIntellectual>
+  <WorkTagIntellectual>intellektuell</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>Korkad arbetare</WorkTagManualDumb>
+  <WorkTagManualDumb>simpelt arbete</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>Skicklig arbetare</WorkTagManualSkilled>
+  <WorkTagManualSkilled>skickligt arbete</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>Våldsam</WorkTagViolent>
+  <WorkTagViolent>våld</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>Omtänksam</WorkTagCaring>
+  <WorkTagCaring>omtanke</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>Social</WorkTagSocial>
+  <WorkTagSocial>social</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>Djurvan</WorkTagAnimals>
+  <WorkTagAnimals>djurhantering</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>Konstnärlig</WorkTagArtistic>
+  <WorkTagArtistic>konst</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>Tillverkning</WorkTagCrafting>
+  <WorkTagCrafting>tillverkning</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>Matlagning</WorkTagCooking>
+  <WorkTagCooking>matlagning</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>Brandbekämpning</WorkTagFirefighting>
+  <WorkTagFirefighting>eldsläckning</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>Städning</WorkTagCleaning>
+  <WorkTagCleaning>städning</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>Släpning</WorkTagHauling>
+  <WorkTagHauling>släpa</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>Odling</WorkTagPlantWork>
+  <WorkTagPlantWork>odling</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>Gruvarbete</WorkTagMining>
+  <WorkTagMining>malmbrytning</WorkTagMining>
 
 </LanguageData>

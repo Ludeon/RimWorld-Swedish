@@ -14,10 +14,10 @@
   <BasicsPawn.label>Grund</BasicsPawn.label>
   
   <!-- EN: Building -->
-  <Building.label>Byggnader</Building.label>
+  <Building.label>Byggnation</Building.label>
   
-  <!-- EN: Offsets when equipped -->
-  <EquippedStatOffsets.label>Offset när utrustad</EquippedStatOffsets.label>
+  <!-- EN: Offsets when equipped  TODO-->
+  <EquippedStatOffsets.label>Offsets när utrustad</EquippedStatOffsets.label>
   
   <!-- EN: Combat -->
   <PawnCombat.label>Strid</PawnCombat.label>
@@ -32,16 +32,16 @@
   <PawnWork.label>Arbete</PawnWork.label>
   
   <!-- EN: Multipliers when equipment made of this -->
-  <StuffOfEquipmentStatFactors.label>Multiplikatorer när utrustning gjorda av detta</StuffOfEquipmentStatFactors.label>
+  <StuffOfEquipmentStatFactors.label>Multiplikatorer när utrustning är gjord av detta</StuffOfEquipmentStatFactors.label>
   
   <!-- EN: Multipliers when made of this -->
-  <StuffStatFactors.label>Multiplikatorer när gjord av detta</StuffStatFactors.label>
+  <StuffStatFactors.label>Multiplikatorer när gjort av detta</StuffStatFactors.label>
   
-  <!-- EN: Offsets when made of this -->
-  <StuffStatOffsets.label>Offset när gjord av detta</StuffStatOffsets.label>
+  <!-- EN: Offsets when made of this TODO -->
+  <StuffStatOffsets.label>Offsets när gjord av detta</StuffStatOffsets.label>
   
   <!-- EN: Surgical -->
-  <Surgery.label>TODO</Surgery.label>
+  <Surgery.label>Kirurgisk</Surgery.label>
   
   <!-- EN: Weapon -->
   <Weapon.label>Vapen</Weapon.label>

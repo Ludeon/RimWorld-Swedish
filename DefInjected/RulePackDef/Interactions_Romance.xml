@@ -5,18 +5,18 @@
     <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
   -->
   <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] accepterade och dom två är nu förlovade.</li>
+    <li>sent->[RECIPIENT_nameDef] accepterade och de två är nu förlovade.</li>
   </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
   -->
   <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] avvisade frierit.</li>
+    <li>sent->[RECIPIENT_nameDef] avvisade frierit.</li>
   </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+    <li>sent->It was too much for the relationship to continue, and the two have now broken up.TODO</li>
   -->
   <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
     <li>sent->det blev för mycket för förhållandet att kunna fortsätta så dom två har du gjort slut.</li>
@@ -28,7 +28,7 @@
     <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
   -->
   <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] acceperade och är nu [initiator_nameShortDef]'s älskare.</li>
+    <li>sent->[RECIPIENT_nameDef] acceperade och är nu [INITIATOR_nameDef]s älskare.</li>
   </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
@@ -41,7 +41,7 @@
     <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
   -->
   <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
-    <li>sent->[recipient_nameShortDef] avvisade avancemanget.</li>
+    <li>sent->[RECIPIENT_nameDef] avvisade avancemanget.</li>
   </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>

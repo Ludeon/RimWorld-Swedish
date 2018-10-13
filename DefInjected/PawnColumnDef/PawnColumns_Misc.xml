@@ -11,13 +11,13 @@
   <DrugPolicy.label>drogpolicy</DrugPolicy.label>
   
   <!-- EN: Hostility response -->
-  <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
+  <HostilityResponse.headerTip>Hotreaktion</HostilityResponse.headerTip>
   
   <!-- EN: master -->
-  <Master.label>herre</Master.label>
+  <Master.label>husbonde</Master.label>
   
   <!-- EN: Medical care -->
-  <MedicalCare.headerTip>TODO</MedicalCare.headerTip>
+  <MedicalCare.headerTip>Medicinsk vård</MedicalCare.headerTip>
   
   <!-- EN: current outfit -->
   <Outfit.label>nuvarande utstyrsel</Outfit.label>

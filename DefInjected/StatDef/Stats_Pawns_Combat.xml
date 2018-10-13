@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: aiming time -->
-  <AimingDelayFactor.label>sikttid</AimingDelayFactor.label>
+  <AimingDelayFactor.label>tid att sikta</AimingDelayFactor.label>
   <!-- EN: How long it takes to shoot after choosing a target. -->
-  <AimingDelayFactor.description>Hur lång tid det tar att attackera efter att ha siktat.</AimingDelayFactor.description>
+  <AimingDelayFactor.description>Hur lång tid det tar att skjuta efter att ha valt ut ett mål.</AimingDelayFactor.description>
   
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>TODO</MeleeArmorPenetration.label>
@@ -14,21 +14,21 @@
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>chans att ducka i närstrid</MeleeDodgeChance.label>
   <!-- EN: Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
-  <MeleeDodgeChance.description>Chans att undvika en närstrids attack som annars skulle ha träffat. Karaktärerna kan inte ducka när den siktar eller skjuter med ett avståndsvapen.</MeleeDodgeChance.description>
+  <MeleeDodgeChance.description>Chans att undvika en närstrids attack som annars skulle ha träffat. Karaktärerna kan inte ducka när de siktar eller skjuter med ett avståndsvapen.</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
   <MeleeDPS.label>Närstrids DPS</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>Standard skada per sekund (eng. Damage Per Second) i närstrid.</MeleeDPS.description>
+  <MeleeDPS.description>Standardskada per sekund (eng. Damage Per Second) i närstrid. Denna TODO ignorerar målets skydd såsom att ducka eller rustning</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
   <MeleeHitChance.label>träffchans närstrid</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>Bas {0}%s chans att träffa i närstrid.</MeleeHitChance.description>
+  <MeleeHitChance.description>TODO</MeleeHitChance.description>
   
   <!-- UNUSED -->
-  <ShootingAccuracy.label>träffsäkerhet skytte</ShootingAccuracy.label>
-  <ShootingAccuracy.description>Bas {0}%s chans att träffa per ruta av skottavstånd.</ShootingAccuracy.description>
+  <ShootingAccuracy.label>UNUSED</ShootingAccuracy.label>
+  <ShootingAccuracy.description>UNUSED</ShootingAccuracy.description>
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>

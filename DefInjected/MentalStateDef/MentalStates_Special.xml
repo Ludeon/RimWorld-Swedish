@@ -6,7 +6,7 @@
   <!-- EN: manhunter -->
   <Manhunter.beginLetterLabel>människojägare</Manhunter.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <Manhunter.recoveryMessage>{0}'s människojagande blodlust har kommit till sitt slut.</Manhunter.recoveryMessage>
+  <Manhunter.recoveryMessage>{0}s människojagande blodlust har avtagit.</Manhunter.recoveryMessage>
   <!-- EN: Maddened: Manhunter -->
   <Manhunter.baseInspectLine>Galen: Människojägare</Manhunter.baseInspectLine>
   <!-- EN: manhunter -->
@@ -17,7 +17,7 @@
   <!-- EN: manhunter -->
   <ManhunterPermanent.beginLetterLabel>människojägare</ManhunterPermanent.beginLetterLabel>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <ManhunterPermanent.recoveryMessage>{0}'s människojagande blodlust har kommit till sitt slut.</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.recoveryMessage>{0}s människojagande blodlust avtagit.</ManhunterPermanent.recoveryMessage>
   <!-- EN: Maddened: Manhunter -->
   <ManhunterPermanent.baseInspectLine>Galen: Människojägare</ManhunterPermanent.baseInspectLine>
   <!-- EN: manhunter -->
@@ -40,14 +40,14 @@
   <SocialFighting.label>grälar</SocialFighting.label>
   
   <!-- EN: {0} has broken down and is wandering around confused. -->
-  <WanderConfused.beginLetter>{0} är nedbruten och vandrar runt förvirrad.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetter>{0} har ett sammanbrott och strövar runt alldeles förvirrad.</WanderConfused.beginLetter>
   <!-- EN: confusion -->
   <WanderConfused.beginLetterLabel>förvirring</WanderConfused.beginLetterLabel>
   <!-- EN: {0} is no longer confused. -->
   <WanderConfused.recoveryMessage>{0} är inte längre förvirrad.</WanderConfused.recoveryMessage>
   <!-- EN: Mental state: Confused and wandering -->
-  <WanderConfused.baseInspectLine>Mentalt tillstånd: Vandrar och är förvirrad</WanderConfused.baseInspectLine>
+  <WanderConfused.baseInspectLine>Mentalt tillstånd: Förvirrat strövande</WanderConfused.baseInspectLine>
   <!-- EN: confused wandering -->
-  <WanderConfused.label>vandrar förvirrat</WanderConfused.label>
+  <WanderConfused.label>Förvirrat strövande</WanderConfused.label>
   
 </LanguageData>

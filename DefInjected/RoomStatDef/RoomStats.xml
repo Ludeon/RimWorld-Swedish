@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: hideous -->
-  <Beauty.scoreStages.hideous.label>otäckt</Beauty.scoreStages.hideous.label>
+  <Beauty.scoreStages.hideous.label>gräsligt</Beauty.scoreStages.hideous.label>
   <!-- EN: ugly -->
   <Beauty.scoreStages.ugly.label>fult</Beauty.scoreStages.ugly.label>
   <!-- EN: neutral -->
-  <Beauty.scoreStages.neutral.label>normalt</Beauty.scoreStages.neutral.label>
+  <Beauty.scoreStages.neutral.label>neutralt</Beauty.scoreStages.neutral.label>
   <!-- EN: pretty -->
   <Beauty.scoreStages.pretty.label>fint</Beauty.scoreStages.pretty.label>
   <!-- EN: beautiful -->
@@ -21,39 +21,39 @@
   <Beauty.label>skönhet</Beauty.label>
   
   <!-- EN: very dirty -->
-  <Cleanliness.scoreStages.very_dirty.label>väldigt smutsigt</Cleanliness.scoreStages.very_dirty.label>
+  <Cleanliness.scoreStages.very_dirty.label>riktigt skitigt</Cleanliness.scoreStages.very_dirty.label>
   <!-- EN: dirty -->
-  <Cleanliness.scoreStages.dirty.label>smutsigt</Cleanliness.scoreStages.dirty.label>
+  <Cleanliness.scoreStages.dirty.label>skitigt</Cleanliness.scoreStages.dirty.label>
   <!-- EN: slightly dirty -->
-  <Cleanliness.scoreStages.slightly_dirty.label>lite smutsigt</Cleanliness.scoreStages.slightly_dirty.label>
+  <Cleanliness.scoreStages.slightly_dirty.label>halvskitigt</Cleanliness.scoreStages.slightly_dirty.label>
   <!-- EN: clean -->
   <Cleanliness.scoreStages.clean.label>rent</Cleanliness.scoreStages.clean.label>
   <!-- EN: sterile -->
   <Cleanliness.scoreStages.sterile.label>sterilt</Cleanliness.scoreStages.sterile.label>
   <!-- EN: cleanliness -->
-  <Cleanliness.label>rent</Cleanliness.label>
+  <Cleanliness.label>renhetsgrad</Cleanliness.label>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
+  <FoodPoisonChance.label>chans för matförgiftning</FoodPoisonChance.label>
   
   <!-- UNUSED -->
-  <FoodPoisonChanceFactor.label>matförgiftningschans-faktor</FoodPoisonChanceFactor.label>
+  <FoodPoisonChanceFactor.label>UNUSED</FoodPoisonChanceFactor.label>
   
   <!-- EN: grave visiting recreation factor -->
   <GraveVisitingJoyGainFactor.label>gravbesök glädje-faktor</GraveVisitingJoyGainFactor.label>
   
   <!-- EN: awful -->
-  <Impressiveness.scoreStages.awful.label>förfärligt</Impressiveness.scoreStages.awful.label>
+  <Impressiveness.scoreStages.awful.label>fruktansvärt</Impressiveness.scoreStages.awful.label>
   <!-- EN: dull -->
-  <Impressiveness.scoreStages.dull.label>motbjudande</Impressiveness.scoreStages.dull.label>
+  <Impressiveness.scoreStages.dull.label>trist</Impressiveness.scoreStages.dull.label>
   <!-- EN: mediocre -->
-  <Impressiveness.scoreStages.mediocre.label>tråkigt</Impressiveness.scoreStages.mediocre.label>
+  <Impressiveness.scoreStages.mediocre.label>mediokert</Impressiveness.scoreStages.mediocre.label>
   <!-- EN: decent -->
-  <Impressiveness.scoreStages.decent.label>mediokert</Impressiveness.scoreStages.decent.label>
+  <Impressiveness.scoreStages.decent.label>anständigt</Impressiveness.scoreStages.decent.label>
   <!-- EN: slightly impressive -->
-  <Impressiveness.scoreStages.slightly_impressive.label>intressant</Impressiveness.scoreStages.slightly_impressive.label>
+  <Impressiveness.scoreStages.slightly_impressive.label>smått imponerande</Impressiveness.scoreStages.slightly_impressive.label>
   <!-- EN: somewhat impressive -->
-  <Impressiveness.scoreStages.somewhat_impressive.label>något imponerande</Impressiveness.scoreStages.somewhat_impressive.label>
+  <Impressiveness.scoreStages.somewhat_impressive.label>tämligen imponerande</Impressiveness.scoreStages.somewhat_impressive.label>
   <!-- EN: very impressive -->
   <Impressiveness.scoreStages.very_impressive.label>väldigt imponerande</Impressiveness.scoreStages.very_impressive.label>
   <!-- EN: extremely impressive -->
@@ -61,20 +61,20 @@
   <!-- EN: unbelievably impressive -->
   <Impressiveness.scoreStages.unbelievably_impressive.label>otroligt imponerande</Impressiveness.scoreStages.unbelievably_impressive.label>
   <!-- EN: wondrously impressive -->
-  <Impressiveness.scoreStages.wondrously_impressive.label>mirakulöst imponerande</Impressiveness.scoreStages.wondrously_impressive.label>
+  <Impressiveness.scoreStages.wondrously_impressive.label>sagolikt</Impressiveness.scoreStages.wondrously_impressive.label>
   <!-- EN: impressiveness -->
-  <Impressiveness.label>imponerande</Impressiveness.label>
+  <Impressiveness.label>effektfullhet</Impressiveness.label>
   
   <!-- EN: infection chance factor -->
-  <InfectionChanceFactor.label>infektionsrisk-faktor</InfectionChanceFactor.label>
+  <InfectionChanceFactor.label>infektionsrisk</InfectionChanceFactor.label>
   
   <!-- EN: research speed factor -->
-  <ResearchSpeedFactor.label>förskingshastighets-faktor</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.label>forskingshastighet</ResearchSpeedFactor.label>
   
   <!-- EN: cramped -->
-  <Space.scoreStages.cramped.label>trångt</Space.scoreStages.cramped.label>
+  <Space.scoreStages.cramped.label>mycket trångt</Space.scoreStages.cramped.label>
   <!-- EN: rather tight -->
-  <Space.scoreStages.rather_tight.label>ganska snävt</Space.scoreStages.rather_tight.label>
+  <Space.scoreStages.rather_tight.label>trångt</Space.scoreStages.rather_tight.label>
   <!-- EN: average-sized -->
   <Space.scoreStages.averagesized.label>lagom</Space.scoreStages.averagesized.label>
   <!-- EN: somewhat spacious -->
@@ -89,30 +89,30 @@
   <Space.label>utrymme</Space.label>
   
   <!-- EN: surgery success chance cleanliness factor -->
-  <SurgerySuccessChanceCleanlinessFactor.label>TODO</SurgerySuccessChanceCleanlinessFactor.label>
+  <SurgerySuccessChanceCleanlinessFactor.label>renlighetens inverkan på chansen för kirurgingrepp att lyckas  </SurgerySuccessChanceCleanlinessFactor.label>
   
   <!-- UNUSED -->
-  <SurgerySuccessChanceFactor.label>lyckad kirurgichans-faktor</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.label>UNUSED</SurgerySuccessChanceFactor.label>
   
   <!-- EN: impoverished -->
   <Wealth.scoreStages.impoverished.label>urfattigt</Wealth.scoreStages.impoverished.label>
   <!-- EN: somewhat poor -->
-  <Wealth.scoreStages.somewhat_poor.label>fattigt</Wealth.scoreStages.somewhat_poor.label>
+  <Wealth.scoreStages.somewhat_poor.label>skralt</Wealth.scoreStages.somewhat_poor.label>
   <!-- EN: mediocre -->
   <Wealth.scoreStages.mediocre.label>mediokert</Wealth.scoreStages.mediocre.label>
   <!-- EN: somewhat rich -->
-  <Wealth.scoreStages.somewhat_rich.label>smårikt</Wealth.scoreStages.somewhat_rich.label>
+  <Wealth.scoreStages.somewhat_rich.label>tämligrn förmöget</Wealth.scoreStages.somewhat_rich.label>
   <!-- EN: rich -->
-  <Wealth.scoreStages.rich.label>rikt</Wealth.scoreStages.rich.label>
+  <Wealth.scoreStages.rich.label>förmöget</Wealth.scoreStages.rich.label>
   <!-- EN: luxurious -->
-  <Wealth.scoreStages.luxurious.label>lyxit</Wealth.scoreStages.luxurious.label>
+  <Wealth.scoreStages.luxurious.label>lyxigt</Wealth.scoreStages.luxurious.label>
   <!-- EN: very luxurious -->
-  <Wealth.scoreStages.very_luxurious.label>väldigt lyxit</Wealth.scoreStages.very_luxurious.label>
+  <Wealth.scoreStages.very_luxurious.label>väldigt lyxigt</Wealth.scoreStages.very_luxurious.label>
   <!-- EN: extremely luxurious -->
-  <Wealth.scoreStages.extremely_luxurious.label>extremt lyxit</Wealth.scoreStages.extremely_luxurious.label>
+  <Wealth.scoreStages.extremely_luxurious.label>extremt lyxigt</Wealth.scoreStages.extremely_luxurious.label>
   <!-- EN: unbelievably luxurious -->
-  <Wealth.scoreStages.unbelievably_luxurious.label>otroligt lyxit</Wealth.scoreStages.unbelievably_luxurious.label>
+  <Wealth.scoreStages.unbelievably_luxurious.label>otroligt lyxigt</Wealth.scoreStages.unbelievably_luxurious.label>
   <!-- EN: wealth -->
-  <Wealth.label>rikedom</Wealth.label>
+  <Wealth.label>förmögenhet</Wealth.label>
   
 </LanguageData>

@@ -16,6 +16,7 @@
     <li>r_name->[story] [RomanNumeral]</li>
   -->
   <NamerScenario.rulePack.rulesStrings>
+    <li>TODO</li>
     <li>name->[story] [trans] [weapon]</li>
     <li>name->[story] [trans] [animal]</li>
     <li>name->[story] [trans] [terrainfeature]</li>

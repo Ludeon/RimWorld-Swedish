@@ -15,7 +15,7 @@
   <!-- EN: Allow -->
   <Always>Tillåt</Always>
   <!-- EN: Do not allow -->
-  <Never>Tillåt ej</Never>
+  <Never>Ej tillåtet</Never>
   
   <!-- Price types -->
   <!-- EN: very cheap -->
@@ -31,13 +31,13 @@
 
   <!-- Storage priority labels -->
   <!-- EN: unstored -->
-  <StoragePriorityUnstored>tom</StoragePriorityUnstored>
+  <StoragePriorityUnstored>olagrat</StoragePriorityUnstored>
   <!-- EN: low -->
   <StoragePriorityLow>låg</StoragePriorityLow>
   <!-- EN: normal -->
   <StoragePriorityNormal>normal</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>föredraget</StoragePriorityPreferred>
+  <StoragePriorityPreferred>att föredra</StoragePriorityPreferred>
   <!-- EN: important -->
   <StoragePriorityImportant>viktig</StoragePriorityImportant>
   <!-- EN: critical -->
@@ -51,7 +51,7 @@
   <!-- EN: corpses -->
   <FoodTypeFlags_Corpse>lik</FoodTypeFlags_Corpse>
   <!-- EN: seeds -->
-  <FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
+  <FoodTypeFlags_Seed>frön</FoodTypeFlags_Seed>
   <!-- EN: animal products -->
   <FoodTypeFlags_AnimalProduct>djurprodukter</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
@@ -61,7 +61,7 @@
   <!-- EN: meals -->
   <FoodTypeFlags_Meal>måltider</FoodTypeFlags_Meal>
   <!-- EN: processed foods -->
-  <FoodTypeFlags_Processed>processerad mat</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Processed>halvfabrikat</FoodTypeFlags_Processed>
   <!-- EN: liquor -->
   <FoodTypeFlags_Liquor>alkohol</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
@@ -69,7 +69,7 @@
 
   <!-- Quality category -->
   <!-- EN: awful -->
-  <QualityCategory_Awful>förfärlig</QualityCategory_Awful>
+  <QualityCategory_Awful>avskyvärd</QualityCategory_Awful>
   <!-- EN: poor -->
   <QualityCategory_Poor>dålig</QualityCategory_Poor>
   <!-- EN: normal -->
@@ -83,7 +83,7 @@
   <!-- EN: legendary -->
   <QualityCategory_Legendary>legendarisk</QualityCategory_Legendary>
   <!-- EN: awfl -->
-  <QualityCategoryShort_Awful>fflg</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Awful>avsk</QualityCategoryShort_Awful>
   <!-- EN: poor -->
   <QualityCategoryShort_Poor>dålg</QualityCategoryShort_Poor>
   <!-- EN: norm -->
@@ -95,13 +95,13 @@
   <!-- EN: mast -->
   <QualityCategoryShort_Masterwork>mäst</QualityCategoryShort_Masterwork>
   <!-- EN: legd -->
-  <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Legendary>legn</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
   <!-- EN: Starving -->
   <HungerLevel_Starving>Svälter</HungerLevel_Starving>
   <!-- EN: Urgently hungry -->
-  <HungerLevel_UrgentlyHungry>Akut hungrig</HungerLevel_UrgentlyHungry>
+  <HungerLevel_UrgentlyHungry>Vrålhungrig</HungerLevel_UrgentlyHungry>
   <!-- EN: Hungry -->
   <HungerLevel_Hungry>Hungrig</HungerLevel_Hungry>
   <!-- EN: Fed -->
@@ -145,7 +145,7 @@
   <!-- EN: Uploading preview file -->
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Laddar upp förhandsgranskningsfil</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <!-- EN: Committing changes -->
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Genomför ändringar</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Utför förändringar</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
   <!-- EN: local folder -->
@@ -155,13 +155,13 @@
   
   <!-- Medical care category -->
   <!-- EN: No medical care -->
-  <MedicalCareCategory_NoCare>Ingen medicinsk tillsyn</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>Ingen medicinsk vård</MedicalCareCategory_NoCare>
   <!-- EN: Doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>Vård av doktor, men ingen medicin</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>Vård av läkare, men ingen medicin</MedicalCareCategory_NoMeds>
   <!-- EN: Herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>Naturläkemedel eller värre</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>Naturläkemedel eller sämre</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: Industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>Vanlig medicin eller värre</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Vanlig medicin eller sämre</MedicalCareCategory_NormalOrWorse>
   <!-- EN: Best quality medicine -->
   <MedicalCareCategory_Best>Bästa möjliga sjukvård</MedicalCareCategory_Best>
 
@@ -175,11 +175,11 @@
   
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
-  <HediffGrowthMode_Growing>ökande</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Growing>växer</HediffGrowthMode_Growing>
   <!-- EN: stable -->
   <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
   <!-- EN: remission -->
-  <HediffGrowthMode_Remission>minskar</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Remission>vissnar</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
   <!-- EN: animal -->
@@ -191,7 +191,7 @@
   <!-- EN: industrial -->
   <TechLevel_Industrial>industriell</TechLevel_Industrial>
   <!-- EN: spacer -->
-  <TechLevel_Spacer>rymdfarare</TechLevel_Spacer>
+  <TechLevel_Spacer>rymdålder</TechLevel_Spacer>
   <!-- EN: ultra -->
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
   <!-- EN: archotech -->
@@ -201,7 +201,7 @@
   <!-- EN: Standing -->
   <PlayerPawnsArriveMethod_Standing>Stående</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
-  <PlayerPawnsArriveMethod_DropPods>Räddningskapsel</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>Räddningskapslar</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <!-- EN: all characters -->
@@ -209,7 +209,7 @@
   <!-- EN: player starting characters -->
   <PawnGenerationContext_PlayerStarter>spelarens startkaraktärer</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>icke-spelarkaraktärer</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>Ej spelbara karaktärer</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
@@ -273,13 +273,13 @@
 
   <!-- Food poison cause -->
   <!-- EN: incompetent cook -->
-  <FoodPoisonCause_IncompetentCook>inkompetent kock</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_IncompetentCook>kass kock</FoodPoisonCause_IncompetentCook>
   <!-- EN: dirty cooking area -->
-  <FoodPoisonCause_FilthyKitchen>smutsigt matlagningsområdet</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_FilthyKitchen>skitig tillagningsyta</FoodPoisonCause_FilthyKitchen>
   <!-- EN: rotten food -->
   <FoodPoisonCause_Rotten>rutten mat</FoodPoisonCause_Rotten>
   <!-- EN: dangerous food type -->
-  <FoodPoisonCause_DangerousFoodType>farlig livsmedelstyp</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_DangerousFoodType>farligt livsmedel</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
   <!-- EN: none -->

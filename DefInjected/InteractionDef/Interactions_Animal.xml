@@ -26,14 +26,14 @@
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
-    <li>logentry->Pratade med [other_nameShortIndef], försöker bygga en relation.</li>
+    <li>TODO</li>
   </AnimalChat.logRulesInitiator.rulesStrings>
   <!-- EN: animal chat -->
   <AnimalChat.label>prata med djur</AnimalChat.label>
   
   <!-- UNUSED -->
   <AnimalChat.logRulesRecipient.rulesStrings>
-    <li>logentry->Svarar positivt till [other_nameShortIndef]'s vänliga kommunikation.</li>
+    <li>UNUSED</li>
   </AnimalChat.logRulesRecipient.rulesStrings>
   
   <!-- EN:
@@ -70,7 +70,7 @@
   
   <!-- UNUSED -->
   <Nuzzle.logRulesRecipient.rulesStrings>
-    <li>logentry->Blev gosad med av [other_nameShortIndef].</li>
+    <li>UNUSED</li>
   </Nuzzle.logRulesRecipient.rulesStrings>
   
   <!-- EN:
@@ -98,7 +98,7 @@
   
   <!-- UNUSED -->
   <TameAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Ser på när [other_nameShortIndef] försöker tämja mig.</li>
+    <li>UNUSED</li>
   </TameAttempt.logRulesRecipient.rulesStrings>
   
   <!-- EN:
@@ -114,14 +114,14 @@
     <li>tried->attempted</li>
   -->
   <TrainAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Tränade [other_nameShortIndef].</li>
+    <li>TODO</li>
   </TrainAttempt.logRulesInitiator.rulesStrings>
   <!-- EN: train attempt -->
   <TrainAttempt.label>träningsförsök</TrainAttempt.label>
   
   <!-- UNUSED -->
   <TrainAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Blev tränad av [other_nameShortIndef].</li>
+    <li>UNUSED</li>
   </TrainAttempt.logRulesRecipient.rulesStrings>
   
 </LanguageData>

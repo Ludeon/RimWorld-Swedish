@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: do forever -->
-  <Forever.label>gör för evigt</Forever.label>
+  <Forever.label>tillverka förevigt</Forever.label>
   
   <!-- EN: do X times -->
-  <RepeatCount.label>gör X gånger</RepeatCount.label>
+  <RepeatCount.label>tillverka X antal gånger</RepeatCount.label>
   
   <!-- EN: do until you have X -->
-  <TargetCount.label>gör till du har X</TargetCount.label>
+  <TargetCount.label>tillverka tills det finns X</TargetCount.label>
   
 </LanguageData>

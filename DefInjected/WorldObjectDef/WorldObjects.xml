@@ -22,14 +22,14 @@
   <DestroyedSettlement.description>En förstörd fraktionsbas.</DestroyedSettlement.description>
   
   <!-- EN: landed ship -->
-  <EscapeShip.label>resans destination</EscapeShip.label>
+  <EscapeShip.label>Landat skepp</EscapeShip.label>
   <!-- EN: The location of a hidden ship which can help you escape the planet. -->
-  <EscapeShip.description>Placeringen av ett dolt skepp som kan hjälpa dig att fly planeten.</EscapeShip.description>
+  <EscapeShip.description>Platsen för ett dolt skepp som kan hjälpa dig att fly planeten.</EscapeShip.description>
   
   <!-- EN: peace talks -->
-  <PeaceTalks.label>TODO</PeaceTalks.label>
+  <PeaceTalks.label>fredssamtal</PeaceTalks.label>
   <!-- EN: A site designated for peace talks. -->
-  <PeaceTalks.description>TODO</PeaceTalks.description>
+  <PeaceTalks.description>En plats reserverad för fredssamtal.</PeaceTalks.description>
   
   <!-- EN: waypoint -->
   <RoutePlannerWaypoint.label>vägpunkt</RoutePlannerWaypoint.label>
@@ -37,7 +37,7 @@
   <RoutePlannerWaypoint.description>En temporär vägpunkt.</RoutePlannerWaypoint.description>
   
   <!-- EN: settlement -->
-  <Settlement.label>fraktionsbas</Settlement.label>
+  <Settlement.label>bosättning</Settlement.label>
   <!-- EN: A base of one of the factions. -->
   <Settlement.description>En bas till en av fraktionerna.</Settlement.description>
   

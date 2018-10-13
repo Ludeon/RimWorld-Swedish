@@ -1,34 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   
-  <Boomalope.labelPlural>bombaloper</Boomalope.labelPlural>
-  <!-- EN: boomalope calf -->
-  <Boomalope.lifeStages.boomalope_calf.label>bombalopkalv</Boomalope.lifeStages.boomalope_calf.label>
-  <!-- EN: boomalope calves -->
-  <Boomalope.lifeStages.boomalope_calf.labelPlural>bombalopkalvar</Boomalope.lifeStages.boomalope_calf.labelPlural>
-  <Boomalope.lifeStages.boomalope_calf.labelMale>bombalopkalv</Boomalope.lifeStages.boomalope_calf.labelMale>
-  <Boomalope.lifeStages.boomalope_calf.labelMalePlural>bombalopkalvar</Boomalope.lifeStages.boomalope_calf.labelMalePlural>
-  <Boomalope.lifeStages.boomalope_calf.labelFemale>bombalopkalv</Boomalope.lifeStages.boomalope_calf.labelFemale>
-  <Boomalope.lifeStages.boomalope_calf.labelFemalePlural>bombalopkalvar</Boomalope.lifeStages.boomalope_calf.labelFemalePlural>
-  <Boomalope.lifeStages.1.label>bombalop</Boomalope.lifeStages.1.label>
-  <Boomalope.lifeStages.1.labelPlural>bombaloper</Boomalope.lifeStages.1.labelPlural>
-  <Boomalope.lifeStages.1.labelMale>bombaloptjurkalv</Boomalope.lifeStages.1.labelMale>
-  <Boomalope.lifeStages.1.labelMalePlural>bombaloptjurkalvar</Boomalope.lifeStages.1.labelMalePlural>
-  <Boomalope.lifeStages.1.labelFemale>bombalopkvigkalv</Boomalope.lifeStages.1.labelFemale>
-  <Boomalope.lifeStages.1.labelFemalePlural>bombalopkvigkalvar</Boomalope.lifeStages.1.labelFemalePlural>
-  <Boomalope.lifeStages.2.label>bombalop</Boomalope.lifeStages.2.label>
-  <Boomalope.lifeStages.2.labelPlural>bombaloper</Boomalope.lifeStages.2.labelPlural>
-  <Boomalope.lifeStages.2.labelMale>bombaloptjur</Boomalope.lifeStages.2.labelMale>
-  <Boomalope.lifeStages.2.labelMalePlural>bombaloptjurar</Boomalope.lifeStages.2.labelMalePlural>
-  <Boomalope.lifeStages.2.labelFemale>bombalopkviga</Boomalope.lifeStages.2.labelFemale>
-  <Boomalope.lifeStages.2.labelFemalePlural>bombalopkvigor</Boomalope.lifeStages.2.labelFemalePlural>
-  <Boomalope.labelMale>bombaloptjur</Boomalope.labelMale>
-  <Boomalope.labelMalePlural>bombaloptjurar</Boomalope.labelMalePlural>
-  <Boomalope.labelFemale>bombalopko</Boomalope.labelFemale>
-  <Boomalope.labelFemalePlural>bombalopkor</Boomalope.labelFemalePlural>
   <!-- EN: boomalope -->
-  <Boomalope.label>bombalop</Boomalope.label>
-  
+  <Boomalope.label>bombalomp</Boomalope.label>
+  <Boomalope.labelPlural>bombalomper</Boomalope.labelPlural>
+  <!-- EN: boomalope calf -->
+  <Boomalope.lifeStages.boomalope_calf.label>bombalompunge</Boomalope.lifeStages.boomalope_calf.label>
+  <!-- EN: boomalope calves -->
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>bombalompungar</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Boomalope.lifeStages.boomalope_calf.labelMale>bombalompunge</Boomalope.lifeStages.boomalope_calf.labelMale>
+  <Boomalope.lifeStages.boomalope_calf.labelMalePlural>bombalompungar</Boomalope.lifeStages.boomalope_calf.labelMalePlural>
+  <Boomalope.lifeStages.boomalope_calf.labelFemale>bombalompunge</Boomalope.lifeStages.boomalope_calf.labelFemale>
+  <Boomalope.lifeStages.boomalope_calf.labelFemalePlural>bombalompungar</Boomalope.lifeStages.boomalope_calf.labelFemalePlural>
+  <Boomalope.lifeStages.1.label>bombalomp</Boomalope.lifeStages.1.label>
+  <Boomalope.lifeStages.1.labelPlural>bombalomper</Boomalope.lifeStages.1.labelPlural>
+  <Boomalope.lifeStages.1.labelMale>bombalomp</Boomalope.lifeStages.1.labelMale>
+  <Boomalope.lifeStages.1.labelMalePlural>bombalomp</Boomalope.lifeStages.1.labelMalePlural>
+  <Boomalope.lifeStages.1.labelFemale>bombalomp</Boomalope.lifeStages.1.labelFemale>
+  <Boomalope.lifeStages.1.labelFemalePlural>bombalomp</Boomalope.lifeStages.1.labelFemalePlural>
+  <Boomalope.lifeStages.2.label>bombalomp</Boomalope.lifeStages.2.label>
+  <Boomalope.lifeStages.2.labelPlural>bombalomper</Boomalope.lifeStages.2.labelPlural>
+  <Boomalope.lifeStages.2.labelMale>bombalomp</Boomalope.lifeStages.2.labelMale>
+  <Boomalope.lifeStages.2.labelMalePlural>bombalomp</Boomalope.lifeStages.2.labelMalePlural>
+  <Boomalope.lifeStages.2.labelFemale>bombalomp</Boomalope.lifeStages.2.labelFemale>
+  <Boomalope.lifeStages.2.labelFemalePlural>bombalomp</Boomalope.lifeStages.2.labelFemalePlural>
+  <Boomalope.labelMale>bombalomp</Boomalope.labelMale>
+  <Boomalope.labelMalePlural>bombalomp</Boomalope.labelMalePlural>
+  <Boomalope.labelFemale>bombalomp</Boomalope.labelFemale>
+  <Boomalope.labelFemalePlural>bombalomp</Boomalope.labelFemalePlural>
+
+  <!-- EN: cobra -->
+  <Cobra.label>kobra</Cobra.label>
   <Cobra.labelPlural>kobror</Cobra.labelPlural>
   <Cobra.lifeStages.0.label>kobraunge</Cobra.lifeStages.0.label>
   <Cobra.lifeStages.0.labelPlural>kobraungar</Cobra.lifeStages.0.labelPlural>
@@ -38,23 +40,23 @@
   <Cobra.lifeStages.0.labelFemalePlural>kobraungar</Cobra.lifeStages.0.labelFemalePlural>
   <Cobra.lifeStages.1.label>kobra</Cobra.lifeStages.1.label>
   <Cobra.lifeStages.1.labelPlural>kobror</Cobra.lifeStages.1.labelPlural>
-  <Cobra.lifeStages.1.labelMale>kobrahane</Cobra.lifeStages.1.labelMale>
-  <Cobra.lifeStages.1.labelMalePlural>kobrahanar</Cobra.lifeStages.1.labelMalePlural>
-  <Cobra.lifeStages.1.labelFemale>kobrahona</Cobra.lifeStages.1.labelFemale>
-  <Cobra.lifeStages.1.labelFemalePlural>kobrahonor</Cobra.lifeStages.1.labelFemalePlural>
+  <Cobra.lifeStages.1.labelMale>kobra</Cobra.lifeStages.1.labelMale>
+  <Cobra.lifeStages.1.labelMalePlural>kobror</Cobra.lifeStages.1.labelMalePlural>
+  <Cobra.lifeStages.1.labelFemale>kobra</Cobra.lifeStages.1.labelFemale>
+  <Cobra.lifeStages.1.labelFemalePlural>kobra</Cobra.lifeStages.1.labelFemalePlural>
   <Cobra.lifeStages.2.label>kobra</Cobra.lifeStages.2.label>
   <Cobra.lifeStages.2.labelPlural>kobror</Cobra.lifeStages.2.labelPlural>
-  <Cobra.lifeStages.2.labelMale>kobrahane</Cobra.lifeStages.2.labelMale>
-  <Cobra.lifeStages.2.labelMalePlural>kobrahanar</Cobra.lifeStages.2.labelMalePlural>
-  <Cobra.lifeStages.2.labelFemale>kobrahona</Cobra.lifeStages.2.labelFemale>
-  <Cobra.lifeStages.2.labelFemalePlural>kobrahonor</Cobra.lifeStages.2.labelFemalePlural>
-  <Cobra.labelMale>kobrahane</Cobra.labelMale>
-  <Cobra.labelMalePlural>kobrahanar</Cobra.labelMalePlural>
-  <Cobra.labelFemale>kobrahona</Cobra.labelFemale>
-  <Cobra.labelFemalePlural>kobrahonor</Cobra.labelFemalePlural>
-  <!-- EN: cobra -->
-  <Cobra.label>kobra</Cobra.label>
-  
+  <Cobra.lifeStages.2.labelMale>kobra</Cobra.lifeStages.2.labelMale>
+  <Cobra.lifeStages.2.labelMalePlural>kobror</Cobra.lifeStages.2.labelMalePlural>
+  <Cobra.lifeStages.2.labelFemale>kobra</Cobra.lifeStages.2.labelFemale>
+  <Cobra.lifeStages.2.labelFemalePlural>kobra</Cobra.lifeStages.2.labelFemalePlural>
+  <Cobra.labelMale>kobra</Cobra.labelMale>
+  <Cobra.labelMalePlural>kobror</Cobra.labelMalePlural>
+  <Cobra.labelFemale>kobra</Cobra.labelFemale>
+  <Cobra.labelFemalePlural>kobra</Cobra.labelFemalePlural>
+
+    <!-- EN: monkey -->
+  <Monkey.label>apa</Monkey.label>
   <Monkey.labelPlural>apor</Monkey.labelPlural>
   <Monkey.lifeStages.0.label>apunge</Monkey.lifeStages.0.label>
   <Monkey.lifeStages.0.labelPlural>apungar</Monkey.lifeStages.0.labelPlural>
@@ -64,10 +66,10 @@
   <Monkey.lifeStages.0.labelFemalePlural>apungar</Monkey.lifeStages.0.labelFemalePlural>
   <Monkey.lifeStages.1.label>apa</Monkey.lifeStages.1.label>
   <Monkey.lifeStages.1.labelPlural>apor</Monkey.lifeStages.1.labelPlural>
-  <Monkey.lifeStages.1.labelMale>aphane</Monkey.lifeStages.1.labelMale>
-  <Monkey.lifeStages.1.labelMalePlural>aphanar</Monkey.lifeStages.1.labelMalePlural>
-  <Monkey.lifeStages.1.labelFemale>aphona</Monkey.lifeStages.1.labelFemale>
-  <Monkey.lifeStages.1.labelFemalePlural>aphonor</Monkey.lifeStages.1.labelFemalePlural>
+  <Monkey.lifeStages.1.labelMale>apa</Monkey.lifeStages.1.labelMale>
+  <Monkey.lifeStages.1.labelMalePlural>apor</Monkey.lifeStages.1.labelMalePlural>
+  <Monkey.lifeStages.1.labelFemale>apa</Monkey.lifeStages.1.labelFemale>
+  <Monkey.lifeStages.1.labelFemalePlural>apa</Monkey.lifeStages.1.labelFemalePlural>
   <Monkey.lifeStages.2.label>apa</Monkey.lifeStages.2.label>
   <Monkey.lifeStages.2.labelPlural>apor</Monkey.lifeStages.2.labelPlural>
   <Monkey.lifeStages.2.labelMale>aphane</Monkey.lifeStages.2.labelMale>
@@ -78,7 +80,6 @@
   <Monkey.labelMalePlural>aphanar</Monkey.labelMalePlural>
   <Monkey.labelFemale>aphona</Monkey.labelFemale>
   <Monkey.labelFemalePlural>aphonor</Monkey.labelFemalePlural>
-  <!-- EN: monkey -->
-  <Monkey.label>apa</Monkey.label>
+
   
 </LanguageData>

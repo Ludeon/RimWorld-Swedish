@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: crashed ship part (incoming) -->
-  <CrashedShipPartIncoming.label>TODO</CrashedShipPartIncoming.label>
+  <CrashedShipPartIncoming.label>kraschande skeppsdel (inkommande)</CrashedShipPartIncoming.label>
   
   <!-- EN: drop pod (incoming) -->
-  <DropPodIncoming.label>räddningskapsel (inkommande)</DropPodIncoming.label>
+  <DropPodIncoming.label>transportkapsel (inkommande)</DropPodIncoming.label>
   
   <!-- EN: drop pod (leaving) -->
-  <DropPodLeaving.label>räddningskapsel (lämnar)</DropPodLeaving.label>
+  <DropPodLeaving.label>transportkapsel (lämnar)</DropPodLeaving.label>
   
   <!-- EN: drop pod (incoming) -->
-  <ExplosiveDropPodIncoming.label>TODO</ExplosiveDropPodIncoming.label>
+  <ExplosiveDropPodIncoming.label>transportkapsel (inkommande)</ExplosiveDropPodIncoming.label>
   
   <!-- EN: meteorite (incoming) -->
-  <MeteoriteIncoming.label>TODO</MeteoriteIncoming.label>
+  <MeteoriteIncoming.label>meteorit (inkommande)</MeteoriteIncoming.label>
   
   <!-- EN: ship chunk (incoming) -->
-  <ShipChunkIncoming.label>TODO</ShipChunkIncoming.label>
+  <ShipChunkIncoming.label>skeppsbit (inkommande)</ShipChunkIncoming.label>
   
 </LanguageData>

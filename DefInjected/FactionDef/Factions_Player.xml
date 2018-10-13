@@ -6,17 +6,17 @@
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>kolonister</PlayerColony.pawnsPlural>
   <!-- EN: New Arrivals -->
-  <PlayerColony.label>koloni</PlayerColony.label>
+  <PlayerColony.label>Nyanlända</PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
-  <PlayerColony.description>Din egen koloni.</PlayerColony.description>
+  <PlayerColony.description>En koloni av nyligen anlända utom-jordlingar.</PlayerColony.description>
   
   <!-- EN: tribesman -->
-  <PlayerTribe.pawnSingular>stammedlem</PlayerTribe.pawnSingular>
+  <PlayerTribe.pawnSingular>TODO</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
-  <PlayerTribe.pawnsPlural>stammedlemmar</PlayerTribe.pawnsPlural>
+  <PlayerTribe.pawnsPlural>TODO</PlayerTribe.pawnsPlural>
   <!-- EN: New Tribe -->
-  <PlayerTribe.label>stam</PlayerTribe.label>
+  <PlayerTribe.label>Ny folkstam</PlayerTribe.label>
   <!-- EN: A small tribe. -->
-  <PlayerTribe.description>Din egen stam.</PlayerTribe.description>
+  <PlayerTribe.description>En liten folkstam.</PlayerTribe.description>
   
 </LanguageData>

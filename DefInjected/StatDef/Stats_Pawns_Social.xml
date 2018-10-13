@@ -7,8 +7,8 @@
   <NegotiationAbility.description>När den här personen ger gåvor till en annan fraktion, är denna multiplikator på deras inverkan på fraktionens relationer.</NegotiationAbility.description>
   
   <!-- UNUSED -->
-  <RecruitPrisonerChance.label>chans att rekrytera fånge</RecruitPrisonerChance.label>
-  <RecruitPrisonerChance.description>Baschans den här personen har för att rekrytera en fånge.</RecruitPrisonerChance.description>
+  <RecruitPrisonerChance.label>UNUSED</RecruitPrisonerChance.label>
+  <RecruitPrisonerChance.description>UNUSED</RecruitPrisonerChance.description>
   
   <!-- EN: social impact -->
   <SocialImpact.label>inverkan på social interaktion</SocialImpact.label>

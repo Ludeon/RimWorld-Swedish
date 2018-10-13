@@ -27,27 +27,8 @@
     <li>desc_sentence->[CAPTURER_nameDef] is kicking [PRISONER_nameDef] for no obvious reason.</li>
   -->
   <Captured.rulePack.rulesStrings>
-    <li>tale_noun->infångandet av [prisoner_nameShortDef]</li>
-    <li>image->[capturer_nameFull] fångade [prisoner_nameFull] [circumstance_group]</li>
-    <li>image->[capturer_nameFull] band [prisoner_nameFull]'s händer [circumstance_group]</li>
-    <li>image->[capturer_nameFull] smällde [prisoner_nameFull] medans [capturer__nameShortDef] tillfångatog [prisoner_objective] [circumstance_group]</li>
-    <li>circumstance_phrase->medan [prisoner_pronoun] våndas på marken</li>
-    <li>circumstance_phrase->när [prisoner_pronoun] vrider sig i smärta</li>
-    <li>circumstance_phrase->med proffesionell effektivitet</li>
-    <li>circumstance_phrase->hårt och amatörsmässigt</li>
-    <li>circumstance_phrase->med uppenbart övervåld</li>
-    <li>circumstance_phrase->med uppenbar njutning</li>
-    <li>circumstance_phrase->med ett leende av dominans</li>
-    <li>desc_sentence->[capturer_nameShortDef] ser in i [prisoner_nameShortDef]'s ögon med en känsla av dominans.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] är skadad och verkar ha ont.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] ser uppgivet till [prisoner_possessive] öde. </li>
-    <li>desc_sentence->[prisoner_nameShortDef] morrar med vrede av nederlaget.</li>
-    <li>desc_sentence->[capturer_nameShortDef] slår [prisoner_nameShortDef] för att kuva [prisoner_objective].</li>
-    <li>desc_sentence->[capturer_nameShortDef] vrider [prisoner_nameShortDef]'s öra.</li>
-    <li>desc_sentence->[capturer_nameShortDef] håller [prisoner_nameShortDef] i ett ledlås.</li>
-    <li>desc_sentence->[capturer_nameShortDef] spottar i [prisoner_nameShortDef]'s ansikte.</li>
-    <li>desc_sentence->[capturer_nameShortDef] skrattar åt tårar som väller upp från [prisoner_nameShortDef]'s ögon.</li>
-    <li>desc_sentence->[capturer_nameShortDef] sparkar [prisoner_nameShortDef] utan uppenbar anledning.</li>
+    <li>TODO</li>
+   
   </Captured.rulePack.rulesStrings>
   <!-- EN: person captured -->
   <Captured.label>person fångad</Captured.label>
@@ -72,21 +53,11 @@
     <li>desc_sentence->[PATIENT_nameDef] is shaking and writhing.</li>
   -->
   <DidSurgery.rulePack.rulesStrings>
-    <li>tale_noun->[patient_nameShortDef]'s operation</li>
-    <li>image->[surgeon_nameFull] söver [patient_nameFull] med bedövningsmedel [circumstance_group]</li>
-    <li>image->[surgeon_nameFull] händerna djupt ingrävda i [patient_nameFull] under operationen [circumstance_group]</li>
-    <li>image->[surgeon_nameFull] skär in i [patient_nameFull] under operationen [circumstance_group]</li>
-    <li>circumstance_phrase->när [patient_pronoun] darrar av rädsla</li>
-    <li>circumstance_phrase->när blodet samlas runt [surgeon_nameShortDef]'s fötter</li>
-    <li>circumstance_phrase->omgiven av skrämmande kirurgiska verktyg</li>
-    <li>circumstance_phrase->med improviserade men effektiva verktyg</li>
-    <li>desc_sentence->[surgeon_nameShortDef] svettas ymnigt.</li>
-    <li>desc_sentence->[surgeon_nameShortDef] ser otroligt fokuserad ut.</li>
-    <li>desc_sentence->[surgeon_nameShortDef] har blod smetat i [surgeon_possessive] ansikte.</li>
-    <li>desc_sentence->[patient_nameShortDef] skakar och vrider sig.</li>
+    <li>TODO</li>
+
   </DidSurgery.rulePack.rulesStrings>
   <!-- EN: surgery performed -->
-  <DidSurgery.label>utförd operation</DidSurgery.label>
+  <DidSurgery.label>operation utförd</DidSurgery.label>
   
   <!-- EN:
     <li>tale_noun->[executioner] executing [PRISONER_nameDef]</li>
@@ -118,31 +89,7 @@
     <li>desc_sentence->[PRISONER_nameDef] looks defiant.</li>
   -->
   <ExecutedPrisoner.rulePack.rulesStrings>
-    <li>tale_noun->avrättningen av [prisoner_nameShortDef]</li>
-    <li>image->[warden_nameFull] avrättar [prisoner_nameFull] [circumstance_group]</li>
-    <li>image->[warden_nameFull] avlivar [prisoner_nameFull] [circumstance_group]</li>
-    <li>image->[warden_nameFull] förbered att avrätta [prisoner_nameFull] [circumstance_group]</li>
-    <li>image->[warden_nameFull] gå in i fängelsecellen, kommer att avrätta [prisoner_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->när [prisoner_pronoun] våndas på marken</li>
-    <li>circumstance_phrase->när [prisoner_pronoun] vrider sig i smärta</li>
-    <li>circumstance_phrase->när [prisoner_pronoun] ropar i skräck</li>
-    <li>circumstance_phrase->med professionell effektivitet</li>
-    <li>circumstance_phrase->hårt och amatörsmässigt</li>
-    <li>circumstance_phrase->med uppenbart övervåld</li>
-    <li>circumstance_phrase->med uppenbar njutning</li>
-    <li>circumstance_phrase->med ett leende av dominans</li>
-    <li>circumstance_phrase->med tårar rinnande från [warden_possessive] kinder</li>
-    <li>circumstance_phrase->med en blick av fullkomlig likgiltighet</li>
-    <li>circumstance_phrase->medan tillfogande onödig smärta</li>
-    <li>circumstance_phrase->mednas tänkandes på något annat</li>
-    <li>circumstance_phrase->för det större goda</li>
-    <li>desc_sentence->[warden_nameShortDef] svettas ymnigt.</li>
-    <li>desc_sentence->[warden_nameShortDef] dreglar lite.</li>
-    <li>desc_sentence->[warden_nameShortDef] har blod smetat i [warden_possessive] ansikte.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] skakar och våndas.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] verkar ha gett upp helt.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] har stängt [prisoner_possessive] ögon, verkar bedja till en högre makt.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] ser trotsig ut.</li>
+    <li>TODO</li>
   </ExecutedPrisoner.rulePack.rulesStrings>
   <!-- EN: prisoner executed -->
   <ExecutedPrisoner.label>fånge avrättad</ExecutedPrisoner.label>
@@ -162,16 +109,8 @@
     <li>desc_sentence->[PREY_nameDef] is looking around as though [PREY_pronoun] senses that something is wrong.</li>
   -->
   <Hunted.rulePack.rulesStrings>
-    <li>tale_noun->[hunter_nameShortDef]'s lyckade jakt</li>
-    <li>image->[prey_nameFull] being hunted by [hunter_nameFull] [circumstance_group]</li>
-    <li>image->[hunter_nameFull] jagar [prey_nameFull] på håll [circumstance_group]</li>
-    <li>image->[hunter_nameFull] jagar [prey_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->när [prey_nameShortDef] slappnar av</li>
-    <li>circumstance_phrase->när [prey_nameShortDef] färdas</li>
-    <li>circumstance_phrase->när [prey_nameShortDef] äter</li>
-    <li>desc_sentence->[prey_nameShortDef] verkar helt omedveten.</li>
-    <li>desc_sentence->[hunter_nameShortDef] greppar [hunter_possessive] vapen hårt.</li>
-    <li>desc_sentence->[prey_nameShortDef] ser sig omkring [prey_pronoun] känner att någonting är fel.</li>
+    <li>TODO</li>
+
   </Hunted.rulePack.rulesStrings>
   <!-- EN: animal hunted -->
   <Hunted.label>djur jagad</Hunted.label>
@@ -198,23 +137,7 @@
     <li>desc_sentence->[VICTIM_nameDef] appears to be badly wounded.</li>
   -->
   <KidnappedColonist.rulePack.rulesStrings>
-    <li>tale_noun->kidnappningen av [victim_nameShortDef]</li>
-    <li>image->[kidnapper_nameFull] bär [victim_nameFull] iväg till [kidnapper_factionName] [circumstance_group]</li>
-    <li>image->[kidnapper_nameFull] från [kidnapper_factionName] kidnappar [victim_nameFull] [circumstance_group]</li>
-    <li>image->[kidnapper_nameFull] kidnappar [victim_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->när [victim_pronoun] vrider sig i smärta</li>
-    <li>circumstance_phrase->med professionell effektivitet</li>
-    <li>circumstance_phrase->hårt och amatörsmässigt</li>
-    <li>circumstance_phrase->med uppenbart övervåld</li>
-    <li>circumstance_phrase->med uppenbar njutning</li>
-    <li>circumstance_phrase->med ett leende av dominans</li>
-    <li>circumstance_phrase->täckt i blod och smuts</li>
-    <li>desc_sentence->[victim_nameShortDef] verkar ha gett upp helt.</li>
-    <li>desc_sentence->[victim_nameShortDef] har stängt [victim_possessive] ögon, verkar bedja till en högre makt.</li>
-    <li>desc_sentence->[victim_nameShortDef] ser trotsig ut.</li>
-    <li>desc_sentence->[victim_nameShortDef] skriker av ilska och skräck.</li>
-    <li>desc_sentence->[victim_nameShortDef] ser bruten och utmattad ut.</li>
-    <li>desc_sentence->[victim_nameShortDef] varkar vara svårt skadad.</li>
+    <li>TODO</li>
   </KidnappedColonist.rulePack.rulesStrings>
   <!-- EN: colonist kidnapped -->
   <KidnappedColonist.label>kolonist kidnappad</KidnappedColonist.label>
@@ -248,43 +171,19 @@
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
   <KilledBy.rulePack.rulesStrings>
-    <li>tale_noun->[victim_nameShortDef]'s mördades av [killer_nameShortDef]</li>
-    <li>tale_noun->mordet på [victim_nameShortDef] av [killer_nameShortDef]</li>
-    <li>tale_noun->mordet på [victim_nameShortDef]</li>
-    <li>image->[victim_nameFull] blir mördad av [killer_nameFull] [circumstance_group]</li>
-    <li>image->[killer_nameFull] mördar [victim_nameFull] [circumstance_group]</li>
-    <li>image->[killer_nameFull] avslutar [victim_nameFull]'s liv [circumstance_group]</li>
-    <li>image->[killer_nameFull] mördar brutalt [victim_nameFull] [circumstance_group]</li>
-    <li>image->[victim_nameFull] blir mördad av [circumstance_group]</li>
-    <li>circumstance_phrase->till synes utan ånger</li>
-    <li>circumstance_phrase->med kall effektivitet</li>
-    <li>circumstance_phrase->med passionerad ilska</li>
-    <li>circumstance_phrase->med snabba, effektiva rörelser</li>
-    <li>circumstance_phrase->utan känslor eller uttryck</li>
-    <li>circumstance_phrase->utav dyster nödvändighet</li>
-    <li>circumstance_phrase->i en fegt, halvhjärtat sätt</li>
-    <li>desc_sentence->Solen går ner bakom dem i en symbolisk eko av händelsen.</li>
-    <li>desc_sentence->[quantity_adjphrase] [animal]s ser på.</li>
-    <li>desc_sentence->En [outlander] ser tyst[side_position].</li>
-    <li>desc_sentence->Blod samlas runt [victim_nameShortDef]'s kropp.</li>
-    <li>desc_sentence->[victim_nameShortDef]'s ögon ses i ett realistiskt livlös tillfälle.</li>
-    <li>desc_sentence->[killer_nameShortDef] blottar [killer_possessive] tänder.</li>
-    <li>desc_sentence->[killer_nameShortDef] verkar nöjd.</li>
-    <li>desc_sentence->[killer_nameShortDef] ser bekymrat på vad [killer_pronoun] gör.</li>
-    <li>desc_sentence->[killer_nameShortDef] ser nöjd med situationen.</li>
-    <li>desc_sentence->[killer_nameShortDef] ser segerrik ut.</li>
+    <li>TODO</li>
   </KilledBy.rulePack.rulesStrings>
   <!-- EN: death -->
-  <KilledBy.label>mord</KilledBy.label>
+  <KilledBy.label>TODO</KilledBy.label>
   
   <!-- EN: colonist killed -->
   <KilledColonist.label>kolonist dödad</KilledColonist.label>
   
   <!-- EN: colony animal killed -->
-  <KilledColonyAnimal.label>kolonidjur dödad</KilledColonyAnimal.label>
+  <KilledColonyAnimal.label>kolonidjur dödat</KilledColonyAnimal.label>
   
   <!-- UNUSED -->
-  <KilledMajorColonyEnemy.label>huvudfiende för kolonin dödad</KilledMajorColonyEnemy.label>
+  <KilledMajorColonyEnemy.label>UNUSED</KilledMajorColonyEnemy.label>
   
   <!-- EN:
     <li>tale_noun->[RECRUITER_nameDef] recruiting [JOINER_nameDef]</li>
@@ -304,19 +203,8 @@
     <li>desc_sentence->[JOINER_nameDef] looks hopeful.</li>
   -->
   <Recruited.rulePack.rulesStrings>
-    <li>tale_noun->rekryteringen av [joiner_nameShortDef]</li>
-    <li>image->[recruiter_nameFull] rekryterar [joiner_nameFull] [circumstance_group]</li>
-    <li>image->[recruiter_nameFull] välkomnar [joiner_nameFull] när [joiner_pronoun] bir en kolonist [circumstance_group]</li>
-    <li>image->[recruiter_nameFull] talar övertygande med [joiner_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->med uppenbar välvija</li>
-    <li>circumstance_phrase->med en rejäl handskakning</li>
-    <li>circumstance_phrase->med leenden laget runt</li>
-    <li>circumstance_phrase->framför hela kolonin</li>
-    <li>circumstance_phrase->i en fägelsecell</li>
-    <li>desc_sentence->[joiner_nameShortDef] nickar förstående.</li>
-    <li>desc_sentence->[joiner_nameShortDef] ler och har ögonkontakt.</li>
-    <li>desc_sentence->[joiner_nameShortDef] ser lättad ut.</li>
-    <li>desc_sentence->[joiner_nameShortDef] ser hoppfull ut.</li>
+    <li>TODO</li>
+
   </Recruited.rulePack.rulesStrings>
   <!-- EN: person recruited -->
   <Recruited.label>person rekryterad</Recruited.label>
@@ -344,24 +232,7 @@
     <li>desc_sentence->An air of hopelessness pervades the situation.</li>
   -->
   <SoldPrisoner.rulePack.rulesStrings>
-    <li>tale_noun->försäljningen av [prisoner_nameShortDef] till en handlare</li>
-    <li>image->[trader_nameFull] böper [prisoner_nameFull] från [seller_nameFull] [circumstance_group]</li>
-    <li>image->[seller_nameFull] säljer [prisoner_nameFull] till [trader_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->när dom andra kolonisterna ser på ogillande</li>
-    <li>circumstance_phrase->när [seller_nameShortDef] räknar [trader_possessive] pengar</li>
-    <li>circumstance_phrase->när [prisoner_nameShortDef] stönar klagande</li>
-    <li>circumstance_phrase->till [prisoner_nameShortDef]'s förtret</li>
-    <li>desc_sentence->[trader_nameShortDef] ler djävulskt.</li>
-    <li>desc_sentence->[seller_nameShortDef] skrattar galet.</li>
-    <li>desc_sentence->[seller_nameShortDef] ger motvilligt över [prisoner_nameShortDef] till handlaren.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] stirrar trotsigt mot [prisoner_possessive] nya herre.</li>
-    <li>desc_sentence->[trader_nameShortDef] drar [prisoner_nameShortDef] bort med [prisoner_possessive] kedjor.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] stirrar på [seller_nameShortDef], konspirerar [prisoner_possessive] hämnd.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] gråter.</li>
-    <li>desc_sentence->[prisoner_nameShortDef] spottar i [seller_nameShortDef]'s ansikte.</li>
-    <li>desc_sentence->[Prisoner_nameShortDef] smälter ner i marken.</li>
-    <li>desc_sentence->[Seller_nameShortDef] kastar kedjor [prisoner_nameShortDef] till [trader_nameShortDef]'s händer.</li>
-    <li>desc_sentence->En känsla av hopplöshet genomsyrar situationen.</li>
+    <li>TODO</li>
   </SoldPrisoner.rulePack.rulesStrings>
   <!-- EN: prisoner sold -->
   <SoldPrisoner.label>fånge såld</SoldPrisoner.label>
@@ -384,23 +255,11 @@
     <li>desc_sentence->[TAMER_nameDef] is projecting a powerful sense of love towards [ANIMAL_nameDef].</li>
   -->
   <TamedAnimal.rulePack.rulesStrings>
-    <li>tale_noun->[human_nameShortDef]'s tämjande av [animal_nameShortDef]</li>
-    <li>image->[human_nameFull] tämjer [animal_nameFull] [circumstance_group]</li>
-    <li>image->[human_nameFull] erbjuder en bit mat till [animal_nameFull] [circumstance_group]</li>
-    <li>image->[human_nameFull] viskar till en skygg [animal_nameFull] [circumstance_group]</li>
-    <li>image->[human_nameFull] lugnar en vild [animal_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->med stor omsorg och försiktighet</li>
-    <li>circumstance_phrase->med ett leende</li>
-    <li>circumstance_phrase->medan utmattad men glad</li>
-    <li>desc_sentence->[animal_nameShortDef] morrar agressivt.</li>
-    <li>desc_sentence->[animal_nameShortDef] ser sömnig ut och drucken med kärlek.</li>
-    <li>desc_sentence->[animal_nameShortDef] verkar vara i någon sorts hypnotiskt tillstånd.</li>
-    <li>desc_sentence->[animal_nameShortDef] ser ut att vara rädd men intresserad.</li>
-    <li>desc_sentence->[animal_nameShortDef] verkar fascinerad.</li>
-    <li>desc_sentence->[human_nameShortDef] projicerar en stark känsla av kärlek till [animal_nameShortDef].</li>
+    <li>TODO</li>
+
   </TamedAnimal.rulePack.rulesStrings>
   <!-- EN: animal tamed -->
-  <TamedAnimal.label>djur tämjd</TamedAnimal.label>
+  <TamedAnimal.label>djur tämjt</TamedAnimal.label>
   
   <!-- EN:
     <li>tale_noun->a trade between [SELLER_nameFull] and [BUYER_nameFull]</li>
@@ -418,19 +277,7 @@
     <li>desc_sentence->[BUYER_nameDef] is taking [BUYER_possessive] goods.</li>
   -->
   <TradedWith.rulePack.rulesStrings>
-    <li>tale_noun->en handel mellan [seller_fullName] och [buyer_fullName]</li>
-    <li>image->[buyer_nameFull] köper varor från [seller_nameFull] [circumstance_group]</li>
-    <li>image->[seller_nameFull] säljer varor till [buyer_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->med giriga avsikt</li>
-    <li>circumstance_phrase->medan [seller_nameShortDef] smilar åt [buyer_shortNameDef]</li>
-    <li>desc_sentence->[buyer_nameShortDef] undersöker [seller_nameShortDef]'s varor.</li>
-    <li>desc_sentence->[seller_nameShortDef] beaktar ett föremål.</li>
-    <li>desc_sentence->[seller_nameShortDef] börjar pruta.</li>
-    <li>desc_sentence->[buyer_nameShortDef] argumenterar med [seller_nameShortDef].</li>
-    <li>desc_sentence->[seller_nameShortDef] och [buyer_nameShortDef] kommer överens över ett pris.</li>
-    <li>desc_sentence->[buyer_nameShortDef] betalar för ett föremål.</li>
-    <li>desc_sentence->[seller_nameShortDef] räknar [seller_possessive] pengar.</li>
-    <li>desc_sentence->[buyer_nameShortDef] tar [buyer_possessive] varor.</li>
+    <li>TODO</li>
   </TradedWith.rulePack.rulesStrings>
   <!-- EN: traded with someone -->
   <TradedWith.label>handla med någon</TradedWith.label>
@@ -470,36 +317,7 @@
     <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_ShortDefinite].</li>
   -->
   <TrainedAnimal.rulePack.rulesStrings>
-    <li>tale_noun->träningen av [animal_nameShortDef]</li>
-    <li>image->[human_nameFull] [train_syn] [animal_nameFull] i [trainable_label] [circumstance_group]</li>
-    <li>image->[human_nameFull] Lär [trainable_label] till [animal_nameFull] [circumstance_group]</li>
-    <li>image->[human_nameFull] övar [trainable_label] med [animal_nameFull] [circumstance_group]</li>
-    <li>train_syn->tränar</li>
-    <li>train_syn->drillar</li>
-    <li>train_syn->coachar</li>
-    <li>train_syn->indoktrinerar</li>
-    <li>train_syn->utbildar</li>
-    <li>circumstance_phrase->när andra ser på</li>
-    <li>circumstance_phrase->när vilda [animal] ser på med avsky</li>
-    <li>circumstance_phrase->när [animal_nameShortDef] kommer ihåg enklare dagar när [animal_pronoun] var en vildsint best</li>
-    <li>circumstance_phrase->när [human_nameShortDef] funderar på vad det blir till lunch</li>
-    <li>circumstance_phrase->när andra kolonister gör verkligt arbete</li>
-    <li>desc_sentence->[human_nameShortDef] ser nöjd ut.</li>
-    <li>desc_sentence->[human_nameShortDef] ler.</li>
-    <li>desc_sentence->[human_nameShortDef] ser utråkat ut.</li>
-    <li>desc_sentence->[human_nameShortDef] svänger hotfullt [human_possessive] en näve.</li>
-    <li>desc_sentence->[human_nameShortDef] skrynklar [human_possessive] pannan i koncentration.</li>
-    <li>desc_sentence->[animal_nameShortDef] ser förvånad ut.</li>
-    <li>desc_sentence->[animal_nameShortDef] har ett vapen i [animal_possessive] mun.</li>
-    <li>desc_sentence->[animal_nameShortDef] avger besvärade grymningar.</li>
-    <li>desc_sentence->[human_nameShortDef] skakar [human_possessive] huvud i frustration.</li>
-    <li>desc_sentence->[animal_nameShortDef] darrar av rädsla.</li>
-    <li>desc_sentence->[animal_nameShortDef] verkar förvandlas till en [vegetable].</li>
-    <li>desc_sentence->[animal_nameShortDef] representeras av en hög elverktyg.</li>
-    <li>desc_sentence->[animal_nameShortDef] är hälften [color] och hälften [color].</li>
-    <li>desc_sentence->[animal_nameShortDef] är täckt av fjäll.</li>
-    <li>desc_sentence->[human_nameShortDef] avbildas med [quantity] armar.</li>
-    <li>desc_sentence->[human_nameShortDef] förvandlas till [animal_ShortDefinite].</li>
+    <li>TODO</li>
   </TrainedAnimal.rulePack.rulesStrings>
   <!-- EN: animal trained -->
   <TrainedAnimal.label>djur tränat</TrainedAnimal.label>

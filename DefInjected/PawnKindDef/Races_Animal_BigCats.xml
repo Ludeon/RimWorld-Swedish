@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
+    <!-- EN: cougar -->
+  <Cougar.label>puma</Cougar.label>
   <Cougar.labelPlural>pumor</Cougar.labelPlural>
   <Cougar.lifeStages.0.label>pumaunge</Cougar.lifeStages.0.label>
   <Cougar.lifeStages.0.labelPlural>pumaungar</Cougar.lifeStages.0.labelPlural>
@@ -10,32 +11,30 @@
   <Cougar.lifeStages.0.labelFemalePlural>pumaungar</Cougar.lifeStages.0.labelFemalePlural>
   <Cougar.lifeStages.1.label>puma</Cougar.lifeStages.1.label>
   <Cougar.lifeStages.1.labelPlural>pumor</Cougar.lifeStages.1.labelPlural>
-  <Cougar.lifeStages.1.labelMale>pumahanne</Cougar.lifeStages.1.labelMale>
-  <Cougar.lifeStages.1.labelMalePlural>pumahannar</Cougar.lifeStages.1.labelMalePlural>
+  <Cougar.lifeStages.1.labelMale>pumahane</Cougar.lifeStages.1.labelMale>
+  <Cougar.lifeStages.1.labelMalePlural>pumahanar</Cougar.lifeStages.1.labelMalePlural>
   <Cougar.lifeStages.1.labelFemale>pumahona</Cougar.lifeStages.1.labelFemale>
   <Cougar.lifeStages.1.labelFemalePlural>pumahonor</Cougar.lifeStages.1.labelFemalePlural>
   <Cougar.lifeStages.2.label>puma</Cougar.lifeStages.2.label>
   <Cougar.lifeStages.2.labelPlural>pumor</Cougar.lifeStages.2.labelPlural>
   <Cougar.lifeStages.2.labelMale>pumahanne</Cougar.lifeStages.2.labelMale>
-  <Cougar.lifeStages.2.labelMalePlural>pumahannar</Cougar.lifeStages.2.labelMalePlural>
+  <Cougar.lifeStages.2.labelMalePlural>pumahanar</Cougar.lifeStages.2.labelMalePlural>
   <Cougar.lifeStages.2.labelFemale>pumahona</Cougar.lifeStages.2.labelFemale>
   <Cougar.lifeStages.2.labelFemalePlural>pumahonor</Cougar.lifeStages.2.labelFemalePlural>
-  <Cougar.labelMale>pumahanne</Cougar.labelMale>
-  <Cougar.labelMalePlural>pumahannar</Cougar.labelMalePlural>
+  <Cougar.labelMale>pumahane</Cougar.labelMale>
+  <Cougar.labelMalePlural>pumahanar</Cougar.labelMalePlural>
   <Cougar.labelFemale>pumahona</Cougar.labelFemale>
   <Cougar.labelFemalePlural>pumahonor</Cougar.labelFemalePlural>
-  <!-- EN: cougar -->
-  <Cougar.label>puma</Cougar.label>
   
   <!-- EN: lynx -->
   <Lynx.labelPlural>lodjur</Lynx.labelPlural>
   <!-- EN: lynx kitten -->
-  <Lynx.lifeStages.lynx_kitten.label>lodjurunge</Lynx.lifeStages.lynx_kitten.label>
-  <Lynx.lifeStages.lynx_kitten.labelPlural>lodjurungar</Lynx.lifeStages.lynx_kitten.labelPlural>
+  <Lynx.lifeStages.lynx_kitten.label>lodjursunge</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.lifeStages.lynx_kitten.labelPlural>lodjursungar</Lynx.lifeStages.lynx_kitten.labelPlural>
   <Lynx.lifeStages.lynx_kitten.labelMale>lodjursunge</Lynx.lifeStages.lynx_kitten.labelMale>
-  <Lynx.lifeStages.lynx_kitten.labelMalePlural>lodjurungar</Lynx.lifeStages.lynx_kitten.labelMalePlural>
+  <Lynx.lifeStages.lynx_kitten.labelMalePlural>lodjursungar</Lynx.lifeStages.lynx_kitten.labelMalePlural>
   <Lynx.lifeStages.lynx_kitten.labelFemale>lodjursunge</Lynx.lifeStages.lynx_kitten.labelFemale>
-  <Lynx.lifeStages.lynx_kitten.labelFemalePlural>lodjurungar</Lynx.lifeStages.lynx_kitten.labelFemalePlural>
+  <Lynx.lifeStages.lynx_kitten.labelFemalePlural>lodjursungar</Lynx.lifeStages.lynx_kitten.labelFemalePlural>
   <Lynx.lifeStages.1.label>lodjur</Lynx.lifeStages.1.label>
   <Lynx.lifeStages.1.labelPlural>lodjur</Lynx.lifeStages.1.labelPlural>
   <Lynx.lifeStages.1.labelMale>lodjurshane</Lynx.lifeStages.1.labelMale>
@@ -52,9 +51,9 @@
   <Lynx.labelMalePlural>lodjurshanar</Lynx.labelMalePlural>
   <Lynx.labelFemale>lodjurshona</Lynx.labelFemale>
   <Lynx.labelFemalePlural>lodjurshonor</Lynx.labelFemalePlural>
-  <!-- EN: lynx -->
-  <Lynx.label>lodjur</Lynx.label>
-  
+
+  <!-- EN: panther -->
+  <Panther.label>panter</Panther.label>
   <Panther.labelPlural>pantrar</Panther.labelPlural>
   <Panther.lifeStages.0.label>panterunge</Panther.lifeStages.0.label>
   <Panther.lifeStages.0.labelPlural>panterungar</Panther.lifeStages.0.labelPlural>
@@ -78,7 +77,5 @@
   <Panther.labelMalePlural>panterhanar</Panther.labelMalePlural>
   <Panther.labelFemale>panterhona</Panther.labelFemale>
   <Panther.labelFemalePlural>panterhonor</Panther.labelFemalePlural>
-  <!-- EN: panther -->
-  <Panther.label>panter</Panther.label>
   
 </LanguageData>

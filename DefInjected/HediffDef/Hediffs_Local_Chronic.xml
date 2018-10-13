@@ -27,22 +27,22 @@
   <BadBack.label>dålig rygg</BadBack.label>
   
   <!-- EN: blindness -->
-  <Blindness.label>blind</Blindness.label>
+  <Blindness.label>blindhet</Blindness.label>
   
   <!-- EN: minor -->
   <Carcinoma.stages.minor-0.label>in situ</Carcinoma.stages.minor-0.label>
   <!-- EN: minor -->
   <Carcinoma.stages.minor-1.label>in situ</Carcinoma.stages.minor-1.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-0.label>metastaserar</Carcinoma.stages.major-0.label>
+  <Carcinoma.stages.major-0.label>metastaserar TODO</Carcinoma.stages.major-0.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-1.label>metastaserar</Carcinoma.stages.major-1.label>
+  <Carcinoma.stages.major-1.label>metastaserar TODO</Carcinoma.stages.major-1.label>
   <!-- EN: extreme -->
   <Carcinoma.stages.extreme-0.label>invasiv</Carcinoma.stages.extreme-0.label>
   <!-- EN: extreme -->
   <Carcinoma.stages.extreme-1.label>invasiv</Carcinoma.stages.extreme-1.label>
   <!-- EN: a carcinoma -->
-  <Carcinoma.labelNoun>en cancer</Carcinoma.labelNoun>
+  <Carcinoma.labelNoun>har cancer</Carcinoma.labelNoun>
   <!-- EN: carcinoma -->
   <Carcinoma.label>cancer</Carcinoma.label>
   
@@ -52,15 +52,15 @@
   <Cataract.label>gråstarr</Cataract.label>
   
   <!-- EN: dementia -->
-  <Dementia.label>dement</Dementia.label>
+  <Dementia.label>demens</Dementia.label>
   
   <!-- EN: frailty -->
-  <Frail.labelNoun>skörhet</Frail.labelNoun>
+  <Frail.labelNoun>skörhet TODO</Frail.labelNoun>
   <!-- EN: frail -->
-  <Frail.label>skör</Frail.label>
+  <Frail.label>skör TODO</Frail.label>
   
   <!-- EN: hearing loss -->
-  <HearingLoss.label>lomhörd</HearingLoss.label>
+  <HearingLoss.label>hörselnedsättning</HearingLoss.label>
   
   <!-- EN: minor -->
   <HeartArteryBlockage.stages.minor-0.label>lindrig</HeartArteryBlockage.stages.minor-0.label>

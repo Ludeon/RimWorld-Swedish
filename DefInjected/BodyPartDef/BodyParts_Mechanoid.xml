@@ -11,7 +11,7 @@
   <FluidReprocessor.label>vätskebahandlare</FluidReprocessor.label>
   
   <!-- EN: sound sensor -->
-  <HearingSensor.label>auditiv detektor</HearingSensor.label>
+  <HearingSensor.label>hörselsensor</HearingSensor.label>
   
   <!-- EN: arm -->
   <MechanicalArm.label>arm</MechanicalArm.label>
@@ -74,9 +74,9 @@
   <Reactor.label>reaktor</Reactor.label>
   
   <!-- EN: visual sensor -->
-  <SightSensor.label>visuell detektor</SightSensor.label>
+  <SightSensor.label>synsensor</SightSensor.label>
   
   <!-- EN: chemical analyzer -->
-  <SmellSensor.label>olfaktorisk detektor</SmellSensor.label>
+  <SmellSensor.label>kemisk analysator</SmellSensor.label>
   
 </LanguageData>

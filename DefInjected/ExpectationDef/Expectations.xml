@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: extremely low -->
-  <ExtremelyLow.label>extremt låga</ExtremelyLow.label>
+  <ExtremelyLow.label>extremt låg</ExtremelyLow.label>
   
   <!-- EN: high -->
-  <High.label>höga</High.label>
+  <High.label>hög</High.label>
   
   <!-- EN: low -->
-  <Low.label>låga</Low.label>
+  <Low.label>låg</Low.label>
   
   <!-- EN: moderate -->
   <Moderate.label>medel</Moderate.label>
   
   <!-- EN: sky high -->
-  <SkyHigh.label>skyhöga</SkyHigh.label>
+  <SkyHigh.label>skyhög</SkyHigh.label>
   
   <!-- EN: very low -->
-  <VeryLow.label>väldigt låga</VeryLow.label>
+  <VeryLow.label>väldigt låg</VeryLow.label>
   
 </LanguageData>

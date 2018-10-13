@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: Burning apparel. -->
-  <BurnApparel.jobString>Bränner kläder.</BurnApparel.jobString>
+  <BurnApparel.jobString>Eldar upp kläder.</BurnApparel.jobString>
   <!-- EN: burn apparel -->
-  <BurnApparel.label>bränn kläder</BurnApparel.label>
+  <BurnApparel.label>elda kläder</BurnApparel.label>
   <!-- EN: Burn unwanted apparel to completely destroy it. -->
-  <BurnApparel.description>Bränn kläder för att helt bli av med dom.</BurnApparel.description>
+  <BurnApparel.description>Elda upp kläder för att bli av med dem.</BurnApparel.description>
   
   <!-- UNUSED -->
-  <BurnApparelCampfire.label>bränn kläder</BurnApparelCampfire.label>
-  <BurnApparelCampfire.description>Bränn kläder för att helt bli av med dom.</BurnApparelCampfire.description>
-  <BurnApparelCampfire.jobString>Bränner kläder.</BurnApparelCampfire.jobString>
+  <BurnApparelCampfire.label>UNUSED</BurnApparelCampfire.label>
+  <BurnApparelCampfire.description>UNUSED</BurnApparelCampfire.description>
+  <BurnApparelCampfire.jobString>UNUSED</BurnApparelCampfire.jobString>
   
   <!-- EN: Burning drugs. -->
-  <BurnDrugs.jobString>Bränner droger.</BurnDrugs.jobString>
+  <BurnDrugs.jobString>Eldar upp droger.</BurnDrugs.jobString>
   <!-- EN: burn drugs -->
-  <BurnDrugs.label>bränn droger</BurnDrugs.label>
+  <BurnDrugs.label>Elda upp droger</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
-  <BurnDrugs.description>Bränn droger för att helt bli av med dom.</BurnDrugs.description>
+  <BurnDrugs.description>Bränn upp droger för att helt bli av med dem.</BurnDrugs.description>
   
   <!-- EN: Cremating. -->
   <CremateCorpse.jobString>Kremerar.</CremateCorpse.jobString>
   <!-- EN: cremate corpse -->
-  <CremateCorpse.label>kremera kropp</CremateCorpse.label>
+  <CremateCorpse.label>kremera lik</CremateCorpse.label>
   <!-- EN: Cremate a corpse to completely destroy it. -->
-  <CremateCorpse.description>Kremera en kropp för att helt förstöra den.</CremateCorpse.description>
+  <CremateCorpse.description>Kremera ett lik för att bli av med det.</CremateCorpse.description>
   
 </LanguageData>

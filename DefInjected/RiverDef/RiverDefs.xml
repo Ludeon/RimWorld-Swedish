@@ -5,12 +5,12 @@
   <Creek.label>bäck</Creek.label>
   
   <!-- EN: huge river -->
-  <HugeRiver.label>enorm flod</HugeRiver.label>
+  <HugeRiver.label>älv</HugeRiver.label>
   
   <!-- EN: large river -->
-  <LargeRiver.label>stor flod</LargeRiver.label>
+  <LargeRiver.label>flod</LargeRiver.label>
   
   <!-- EN: river -->
-  <River.label>flod</River.label>
+  <River.label>ström</River.label>
   
 </LanguageData>

@@ -4,10 +4,10 @@
   <!-- EN: withdrawal -->
   <AmbrosiaAddiction.stages.withdrawal.label>abstinens</AmbrosiaAddiction.stages.withdrawal.label>
   <!-- EN: ambrosia addiction -->
-  <AmbrosiaAddiction.label>ambrosia missbruk</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.label>ambrosiamissbruk</AmbrosiaAddiction.label>
   
   <!-- EN: ambrosia warmth -->
-  <AmbrosiaHigh.label>ambrosia varm</AmbrosiaHigh.label>
+  <AmbrosiaHigh.label>ambrosiavarm</AmbrosiaHigh.label>
   
   <!-- EN: small -->
   <AmbrosiaTolerance.stages.small-1.label>liten</AmbrosiaTolerance.stages.small-1.label>
@@ -16,6 +16,6 @@
   <!-- EN: massive -->
   <AmbrosiaTolerance.stages.massive.label>enorm</AmbrosiaTolerance.stages.massive.label>
   <!-- EN: ambrosia tolerance -->
-  <AmbrosiaTolerance.label>ambrosia tolerans</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.label>ambrosiatolerans</AmbrosiaTolerance.label>
   
 </LanguageData>

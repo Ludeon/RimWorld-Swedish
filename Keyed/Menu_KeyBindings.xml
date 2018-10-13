@@ -8,10 +8,10 @@
   <!-- EN: Reset to default -->
   <ResetBinding>Återställ till standard</ResetBinding>
   <!-- EN: Left-click to bind this key or right-click for options -->
-  <BindingButtonToolTip>Vänsterklicka för att binda denna tangent eller högerklicka för mer alternativ</BindingButtonToolTip>
+  <BindingButtonToolTip>Vänsterklicka för att tilldela denna tangent, högerklicka för fler alternativ</BindingButtonToolTip>
   <!-- EN: Press any key or Esc to cancel... -->
-  <PressAnyKeyOrEsc>Tryck på någon tangen eller Esc för att avbryta...</PressAnyKeyOrEsc>
+  <PressAnyKeyOrEsc>Tryck på en tangent eller Esc för att avbryta...</PressAnyKeyOrEsc>
   <!-- EN: Key binding overwritten: {0} -->
-  <KeyBindingOverwritten>Tangentbords bindning överskriven: {0}</KeyBindingOverwritten>
+  <KeyBindingOverwritten>Tangentkomando överskrivet: {0}</KeyBindingOverwritten>
   
 </LanguageData>

@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: {0} has been bitten to death. -->
-  <Bite.deathMessage>{0} bets ihjäl.</Bite.deathMessage>
+  <Bite.deathMessage>{0} har bitits ihjäl.</Bite.deathMessage>
   <!-- EN: bite -->
-  <Bite.label>Bett</Bite.label>
+  <Bite.label>bett</Bite.label>
   
   <!-- EN: {0} has been beaten to death. -->
   <Blunt.deathMessage>{0} har slagits ihjäl.</Blunt.deathMessage>
   <!-- EN: blunt -->
-  <Blunt.label>Slag</Blunt.label>
+  <Blunt.label>slag</Blunt.label>
   
   <!-- EN: {0} has been crushed to death. -->
-  <Crush.deathMessage>{0} krossades ihjäl.</Crush.deathMessage>
+  <Crush.deathMessage>{0} har krossats till döds.</Crush.deathMessage>
   <!-- EN: crush -->
-  <Crush.label>Krosskada</Crush.label>
+  <Crush.label>krosskada</Crush.label>
   
   <!-- EN: {0} has been cut to death. -->
-  <Cut.deathMessage>{0} avled av sina skärskador.</Cut.deathMessage>
+  <Cut.deathMessage>{0} har skurits ihjäl.</Cut.deathMessage>
   <!-- EN: cut -->
-  <Cut.label>Skärskada</Cut.label>
+  <Cut.label>skärsår</Cut.label>
   
   <!-- EN: {0} has been beaten to death. -->
-  <Poke.deathMessage>{0} har stuckits ihjäl.</Poke.deathMessage>
+  <Poke.deathMessage>{0} har slagits ihjäl.</Poke.deathMessage>
   <!-- EN: blunt -->
-  <Poke.label>Stick</Poke.label>
+  <Poke.label>slag</Poke.label>
   
   <!-- EN: {0} has been torn to death. -->
-  <Scratch.deathMessage>{0} har rivits ihjäl.</Scratch.deathMessage>
+  <Scratch.deathMessage>{0} har slitits ihjäl.</Scratch.deathMessage>
   <!-- EN: scratch -->
-  <Scratch.label>Rivsår</Scratch.label>
+  <Scratch.label>rivsår</Scratch.label>
   
   <!-- EN: {0} has been stabbed to death. -->
-  <Stab.deathMessage>{0} höggs ihjäl.</Stab.deathMessage>
+  <Stab.deathMessage>{0} har knivhuggits till döds.</Stab.deathMessage>
   <!-- EN: stab -->
-  <Stab.label>Hugg</Stab.label>
+  <Stab.label>knivhugg</Stab.label>
   
   <!-- EN: {0} has been bitten to death. -->
-  <ToxicBite.deathMessage>{0} dog av förgiftat bett.</ToxicBite.deathMessage>
+  <ToxicBite.deathMessage>{0} har bitits ihjäl.</ToxicBite.deathMessage>
   <!-- EN: toxic bite -->
-  <ToxicBite.label>Giftigt bett</ToxicBite.label>
+  <ToxicBite.label>giftbett</ToxicBite.label>
   
 </LanguageData>

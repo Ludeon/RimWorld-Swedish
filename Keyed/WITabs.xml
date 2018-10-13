@@ -41,17 +41,17 @@
   <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>Fångar och djur</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>Lager</CaravanItems>
+  <CaravanItems>Packning</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>Klicka för att öppna en flik med mer information.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
   <CaravanPrisoners>Fångar</CaravanPrisoners>
   <!-- EN: Inventory -->
-  <CaravanWeaponsAndApparel>Lager</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>Packning</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
   <NoneCapable>Ingen kapabel</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>Karavanen flyttar sig inte</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>Karavanen står still</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
@@ -63,12 +63,12 @@
 
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>Huruvida den här personen eller djuret ska bäras av andra husvagnsmedlemmar när de är sjuka.\n\nBurna karavanmedlemmar kan vila även om karvanen rör på sig, men de saktar ner den.</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>Huruvida den här personen eller djuret ska bäras av andra karavanmedlemmar när de är sjuka.\n\nBurna karavanmedlemmar kan vila även om karvanen rör på sig, men de saktar ner den.</BeCarriedIfSickTip>
   
   <!-- Planet -->
   <!-- EN: Seed -->
   <PlanetSeed>frö</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>Rapportering</PlanetCoverageShort>
+  <PlanetCoverageShort>Täckning</PlanetCoverageShort>
 
 </LanguageData>

@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: chemical consumption -->
-  <Chemical.label>kemisk</Chemical.label>
+  <Chemical.label>kemisk konsumtion</Chemical.label>
   
   <!-- EN: cerebral play -->
-  <Gaming_Cerebral.label>spel (intelektuell)</Gaming_Cerebral.label>
+  <Gaming_Cerebral.label>intelektuellt spel</Gaming_Cerebral.label>
   
   <!-- EN: dexterity play -->
-  <Gaming_Dexterity.label>spel (smidighet)</Gaming_Dexterity.label>
+  <Gaming_Dexterity.label>skicklighetsspel</Gaming_Dexterity.label>
   
   <!-- EN: food consumption -->
-  <Gluttonous.label>glupsk</Gluttonous.label>
+  <Gluttonous.label>matkonsumtion</Gluttonous.label>
   
   <!-- UNUSED -->
-  <Lewd.label>oanständig</Lewd.label>
+  <Lewd.label>UNUSED</Lewd.label>
   
   <!-- EN: solitary relaxation -->
-  <Meditative.label>meditativ</Meditative.label>
+  <Meditative.label>avskild avkoppling</Meditative.label>
   
   <!-- UNUSED -->
-  <Passive.label>passiv</Passive.label>
+  <Passive.label>UNUSED</Passive.label>
   
   <!-- EN: social interaction -->
-  <Social.label>social</Social.label>
+  <Social.label>social interaktion</Social.label>
   
   <!-- UNUSED -->
-  <Study.label>studera</Study.label>
+  <Study.label>UNUSED</Study.label>
   
   <!-- EN: telescope study -->
-  <Telescope.label>TODO</Telescope.label>
+  <Telescope.label>Astronomistudier</Telescope.label>
   
   <!-- EN: television watching -->
-  <Television.label>TODO</Television.label>
+  <Television.label>Tv-tittande</Television.label>
   
   <!-- UNUSED -->
-  <Work.label>arbete</Work.label>
+  <Work.label>UNUSED</Work.label>
   
 </LanguageData>

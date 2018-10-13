@@ -12,8 +12,8 @@
   <DoorOpenSpeed.description>Den hastighet med vilken dörren öppnas</DoorOpenSpeed.description>
   
   <!-- UNUSED -->
-  <EntertainmentStrengthFactor.label>styrkefaktor för underhållning</EntertainmentStrengthFactor.label>
-  <EntertainmentStrengthFactor.description>Hur effektivt detta föremål underhåller persone och ger dem glädje.</EntertainmentStrengthFactor.description>
+  <EntertainmentStrengthFactor.label>UNUSED</EntertainmentStrengthFactor.label>
+  <EntertainmentStrengthFactor.description>UNUSED</EntertainmentStrengthFactor.description>
   
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>hastighetsfaktor för immunitetsförstärknings</ImmunityGainSpeedFactor.label>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: temperate forest -->
-  <TemperateForest.label>Tempererad Skog</TemperateForest.label>
+  <TemperateForest.label>tempererad Skog</TemperateForest.label>
   <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
-  <TemperateForest.description>Mängder av lövträd samsas med bördiga gläntor. Många djurarter rör sig runt i träden och på slätten.</TemperateForest.description>
+  <TemperateForest.description>Mängder av lövträd samsas med bördiga gläntor. Många djurarter rör sig bland träden och på ängarna.</TemperateForest.description>
   
   <!-- EN: temperate swamp -->
-  <TemperateSwamp.label>Tempererad Träskmark</TemperateSwamp.label>
+  <TemperateSwamp.label>träskmark</TemperateSwamp.label>
   <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
-  <TemperateSwamp.description>Våtmarkerna kvävas med vegetation och sjukdommar. Tät överväxt gör det svårt att flytta sig runt, och att rensa områden för byggnation tar lång tid. Mycket av terrängen är för sankt att stödja tunga strukturer.</TemperateSwamp.description>
+  <TemperateSwamp.description>Våtmarker med tät vegetation och sjukdommar. Täta och förvuxna växter gör det svårt att förflytta sig, och att rensa områden för byggnation tar lång tid. Mycket av terrängen är för sank för att stödja tunga konstruktioner.</TemperateSwamp.description>
   
 </LanguageData>

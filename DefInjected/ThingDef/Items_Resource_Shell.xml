@@ -5,16 +5,16 @@
   <Bullet_Shell_AntigrainWarhead.label>TODO</Bullet_Shell_AntigrainWarhead.label>
   
   <!-- EN: EMP shell -->
-  <Bullet_Shell_EMP.label>EMP-bomber</Bullet_Shell_EMP.label>
+  <Bullet_Shell_EMP.label>EMPpatron</Bullet_Shell_EMP.label>
   
   <!-- EN: firefoam shell -->
-  <Bullet_Shell_Firefoam.label>TODO</Bullet_Shell_Firefoam.label>
+  <Bullet_Shell_Firefoam.label>brandskumspatron</Bullet_Shell_Firefoam.label>
   
   <!-- EN: high-explosive shell -->
-  <Bullet_Shell_HighExplosive.label>explosiv granat</Bullet_Shell_HighExplosive.label>
+  <Bullet_Shell_HighExplosive.label>högexplosiv patron</Bullet_Shell_HighExplosive.label>
   
   <!-- EN: incendiary shell -->
-  <Bullet_Shell_Incendiary.label>brandgranat</Bullet_Shell_Incendiary.label>
+  <Bullet_Shell_Incendiary.label>brandpatron</Bullet_Shell_Incendiary.label>
   
   <!-- EN: antigrain warhead -->
   <Shell_AntigrainWarhead.label>TODO</Shell_AntigrainWarhead.label>
@@ -22,22 +22,22 @@
   <Shell_AntigrainWarhead.description>TODO</Shell_AntigrainWarhead.description>
   
   <!-- EN: EMP shell -->
-  <Shell_EMP.label>TODO</Shell_EMP.label>
+  <Shell_EMP.label>EMPpatron</Shell_EMP.label>
   <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
   <Shell_EMP.description>TODO</Shell_EMP.description>
   
   <!-- EN: firefoam shell -->
-  <Shell_Firefoam.label>TODO</Shell_Firefoam.label>
+  <Shell_Firefoam.label>brandskumspatron</Shell_Firefoam.label>
   <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
   <Shell_Firefoam.description>TODO</Shell_Firefoam.description>
   
   <!-- EN: high-explosive shell -->
-  <Shell_HighExplosive.label>granat</Shell_HighExplosive.label>
+  <Shell_HighExplosive.label>högexplosiv patron</Shell_HighExplosive.label>
   <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_HighExplosive.description>Skjuts från granatkastare. Exploderar när den skadas.</Shell_HighExplosive.description>
+  <Shell_HighExplosive.description>Skjuts från patronkastare. Exploderar när den skadas.</Shell_HighExplosive.description>
   
   <!-- EN: incendiary shell -->
-  <Shell_Incendiary.label>TODO</Shell_Incendiary.label>
+  <Shell_Incendiary.label>brandpatron</Shell_Incendiary.label>
   <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
   <Shell_Incendiary.description>TODO</Shell_Incendiary.description>
   

@@ -6,27 +6,27 @@
   <!-- EN: psychic animal pulser -->
   <PsychicAnimalPulser.label>psykisk djurpulsar</PsychicAnimalPulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. -->
-  <PsychicAnimalPulser.description>En engångs artefakt som driver alla djur i regionen till ilska att bli människojajagare.</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.description>En psykisk verkställare som använder breda vågor, kan användas en gång. Den psykiska pulseringen fyller lägre utvecklade medvetanden med hemska bilder och driver alla djur i området till människojagande raseri.</PsychicAnimalPulser.description>
   
   <!-- EN: Activate -->
   <PsychicInsanityLance.comps.CompUsable.useLabel>Aktivera</PsychicInsanityLance.comps.CompUsable.useLabel>
   <!-- EN: psychic insanity lance -->
-  <PsychicInsanityLance.label>psykisk vansinnes-lans</PsychicInsanityLance.label>
+  <PsychicInsanityLance.label>psykisk vansinneslans</PsychicInsanityLance.label>
   <!-- EN: A one-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving him into a berserk state. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicInsanityLance.description>En engångs artefakt som driver en personer till ett bärsärkagångtillstånd från avstånd - även genom väggar.</PsychicInsanityLance.description>
+  <PsychicInsanityLance.description>En psykisk verkställare som kan användas en gång. TODO </PsychicInsanityLance.description>
   
   <!-- EN: Activate -->
   <PsychicShockLance.comps.CompUsable.useLabel>Aktivera</PsychicShockLance.comps.CompUsable.useLabel>
   <!-- EN: psychic shock lance -->
-  <PsychicShockLance.label>psykisk chock-lans</PsychicShockLance.label>
+  <PsychicShockLance.label>psykisk chocklans</PsychicShockLance.label>
   <!-- EN: A one-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping him into a state of psychic shock. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicShockLance.description>En engångs artefakt som styr psykiska störningar mot en karaktär som sätter den i ett tillstånd av psykisk chock en stund. Stor risk för hjärnskador.</PsychicShockLance.description>
+  <PsychicShockLance.description>En psykisk verkställare som kan användas en gång. TODO</PsychicShockLance.description>
   
   <!-- EN: Activate -->
   <PsychicSoothePulser.comps.CompUsable.useLabel>Aktivera</PsychicSoothePulser.comps.CompUsable.useLabel>
   <!-- EN: psychic soothe pulser -->
   <PsychicSoothePulser.label>psykisk lugnande pulsar</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
-  <PsychicSoothePulser.description>En engångs artefakt som ger en tillfällig humöruppsving för alla i området.</PsychicSoothePulser.description>
+  <PsychicSoothePulser.description>En psykisk verkställare med breda vågor som kan användas en gång. TODO</PsychicSoothePulser.description>
   
 </LanguageData>

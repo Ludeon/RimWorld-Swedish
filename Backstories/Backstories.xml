@@ -16,17 +16,17 @@
     <!-- EN: abandoned -->
     <titleShort>Övergiven</titleShort>
     <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents left [PAWN_objective] out in the elements. Somehow, [PAWN_pronoun] survived. -->
-    <desc>[PAWN_nameDef] föddes sjuk. Tanken att [PAWN_pronoun] bara skulle bli en börda för klanen, lämnade [PAWN_possessive] föräldrar utomhus. På något sätt, överlevde [PAWN_pronoun].</desc>
+    <desc>[PAWN_nameDef] föddes sjuk. Tanken att [PAWN_pronoun] bara skulle bli en börda för klanen, fick [PAWN_possessive] föräldrar att lämna [PAWN_nameDef] i vildmarken. På något sätt, överlevde [PAWN_pronoun].</desc>
   </AbandonedChild60>
   
-  XX
+  
   <AbandonedOrphan61>
     <!-- EN: abandoned orphan -->
     <title>Övergiven och föräldralrlös</title>
     <!-- EN: orphan -->
     <titleShort>Föräldralös</titleShort>
     <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-    <desc>Övergiven vid födseln, startade den unga [PAWN_possessive] liv på barnhem. XXX, [PAWN_pronoun] blev en smart bråkstake.</desc>
+    <desc>Övergiven vid födseln, startade den unga [PAWN_possessive] liv på barnhem.\n\nEn rackare som [PAWN_pronoun] blev en smart bråkstake.</desc>
   </AbandonedOrphan61>
   
   <Abductee43>
@@ -35,47 +35,43 @@
     <!-- EN: abductee -->
     <titleShort>Bortrövad</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-    <desc>[PAWN_nameDef] blev bortrövad som barn och tvingad till att utföra simpla arbetsuppgifter på ett piratskepp.</desc>
+    <desc>[PAWN_nameDef] blev bortrövad som barn och tvingad till att utföra simpelt arebete på ett piratskepp.</desc>
   </Abductee43>
   
-  XX
   <Abductee80>
     <!-- EN: abductee -->
     <title>Bortrövad</title>
     <!-- EN: abductee -->
     <titleShort>Bortrövad</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand his genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for his captors and eventually escaped. -->
-    <desc> [PAWN_nameDef] blev bortrövad av XXX när [PAWN_pronoun] fortfarande var bäbis. De experimenterade på [Pawn_ objective] för att förstå hans genetiska struktur. XXX [PAWN_pronoun] växte upp, och blev lite för stor och lite för stark för hans kidnappare och kunde slutligen rymma.</desc>
+    <desc> [PAWN_nameDef] blev bortrövad av xenomänniskor när [PAWN_pronoun] fortfarande var en bebis. De experimenterade på [Pawn_ objective] för att förstå [PAWN_pronoun] genetiska struktur.\n\nNär [PAWN_pronoun] växte upp, och blev lite för stor och lite för stark för [PAWN_pronoun] kidnappare och kunde [PAWN_pronoun] slutligen rymma.</desc>
   </Abductee80>
   
-XX
   <AcademyStudent80>
     <!-- EN: academy student  -->
     <title>TODO</title>
     <!-- EN: student  -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. He was very tall and was known for his good looks.\n\nThough he worried more about his hairstyle than his grades, he still somehow passed the final exams. -->
-    <desc>[PAWN_nameDef] gick i skolan precis som en duktig rymdkadett förväntades. Han var väldigt lång och var känd för sitt fina utseende. XX oroade han sig mera för sin frisyr än sina betyg, på något sätt klarade han ändå sitt examensprov </desc>
+    <desc>[PAWN_nameDef] gick i skolan precis som en duktig rymdkadett förväntades. [PAWN_pronoun] var väldigt lång och var känd för sitt fina utseende.\n\nMen [PAWN_pronoun] oroade sig mer för sin frisyr än sina betyg, på något sätt klarade [PAWN_pronoun] ändå sitt examensprov </desc>
   </AcademyStudent80>
   
-  XX
   <AccursedChild81>
     <!-- EN: accursed child -->
     <title> TODO</title>
     <!-- EN: cursed -->
-    <titleShort>Förbannat</titleShort>
+    <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
-    <desc>[PAWN_nameDef] föddes då fullmånen lös som starkast. De äldre förklarade [PAWN_objective] för ett barn som mörkret fört med sig och tog [PAWN_possessive] under sina vingar. Under hela sin barndom fick [PAWN_possessive] spendra med att studera folktro och ritualer av [PAWN_possessive] folk - fram till kallelsens dag.  </desc>
+    <desc>[PAWN_nameDef] föddes då fullmånen lös som starkast. De äldre förklarade [PAWN_objective] för ett barn som mörkret fört med sig och tog [PAWN_possessive] under sina vingar.\n\nUnder hela sin barndom fick [PAWN_possessive] spendra med att studera folktro och ritualer av [PAWN_possessive] folk - fram till kallelsens dag.  </desc>
   </AccursedChild81>
   
-  XX
   <AceFighterPilot38>
     <!-- EN: ace fighter pilot -->
-    <title>TODO </title>
+    <title>Flygaress </title>
     <!-- EN: ace -->
-    <titleShort> TODO</titleShort>
+    <titleShort>Ess</titleShort>
     <!-- EN: [PAWN_nameDef] graduated from the Star Academy with honors and distinguished himself as an ace fighter pilot in three campaigns against more advanced aggressor cultures. \n\nHowever, after one vicious battle, he found himself stranded and his carrier ship destroyed. With nowhere to go, he entered his escape pod and prayed. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] tog examen från Stjärnakademin med hedersbetygelser och som en framstående stridspilot i tre manövrar mot mer avancerade aggressiva kulturer.\n\nEfter en våldsam strid fann [PAWN_pronoun] sig själv strandsatt och [PAWN_possessive] moderskepp förstört. Utan någonstans att ta vägen gick [PAWN_pronoun] in i sin nödkapsel och bad en stilla bön. </desc>
   </AceFighterPilot38>
   
   <AcolyteOfStars63>
@@ -84,7 +80,7 @@ XX
     <!-- EN: priest -->
     <titleShort>TODO</titleShort>
     <!-- EN: Ever the dreamer, [PAWN_nameDef] traveled across the universe to find the thing he felt was calling to him.\n\n[PAWN_pronoun] became poorer and poorer, but used every means possible to carry on. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef]som alltid haft stora drömmar reste runt i universum för att finna sitt kall i livet.\n\n[PAWN_pronoun] fick alltmer ont om pengar, men använde alla tänkbara resurser för att fortsätta sin resa.</desc>
   </AcolyteOfStars63>
   
   <Actor42>
@@ -93,106 +89,106 @@ XX
     <!-- EN: actor -->
     <titleShort>Skådespelare</titleShort>
     <!-- EN: [PAWN_nameDef] travelled [PAWN_possessive] homeworld with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
-    <desc>[PAWN_nameDef] reste runt i sin hemvärld med ett företag av aktörer och spelade upp pjäser för packade teatrar och kärleksfull publik överallt. [PAWN_pronoun] var en perfektionist, och gjorde själv sin egen rekvisita och kostymer istället för att använda de [PAWN_pronoun] fick.</desc>
+    <desc>[PAWN_nameDef] reste runt i sin hemvärld med en teatergrupp och uppträdee för fullsatta hus med stående ovationer från publiken. [PAWN_pronoun] var perfektionist och tillverkade själv sin rekvisita och sina kostymer, istället för att använda de [PAWN_pronoun] fick.</desc>
   </Actor42>
   
   <AddictionCounsel60>
     <!-- EN: addiction counsel -->
     <title>TODO</title>
     <!-- EN: counselor -->
-    <titleShort>TODO</titleShort>
+    <titleShort>tearapeut</titleShort>
     <!-- EN: After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions. -->
-    <desc>TODO</desc>
+    <desc>Efter att ha blivit nykter från sitt joywiremissbruk ändrade [PAWN_nameDef] levnadssätt och svor [PAWN_pronoun] en ed på att hjälpa andra.\n\n[PAWN_pronoun]Reste mellan städerna och använde sig av medicinsk kunskap, konst och hantverk för att hjälpa de som kämpade mot sitt eget missbruk </desc>
   </AddictionCounsel60>
   
   <Adventurer19>
     <!-- EN: adventurer -->
-    <title>TODO</title>
+    <title>äventyrare</title>
     <!-- EN: adventurer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>äventyrare</titleShort>
     <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] TODO dragning till äventyr tog [PAWN_objective] till olika planeter. [PAWN_pronoun] besökte de mest lysande glittervärldarna och de mörkast krigshärjade planeterna i [PAWN_possessive] sökande efter spänning och nymodigheter.\n\n[PAWN_pronoun] arbetade så lite som möjligt, och tog tvekbart moraliskt försvarbara jobb för att tjäna snabba pengar. Av alla jobb hatade [PAWN_pronoun] matlagning allra mest.  </desc>
   </Adventurer19>
   
   <AdventuringChild56>
     <!-- EN: adventuring child -->
     <title>TODO</title>
     <!-- EN: adventurer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>äventyrare</titleShort>
     <!-- EN: Axle was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port. -->
-    <desc>TODO</desc>
+   TODO <desc>Axle uppfostrades till att bli ingengör. Under flera år planerade han att rymma för att gömma sig på ett fraktskepp och börja ett mer spänningsfyllt liv.\n\nEn natt när hans föräldrar somnat lyckades han smyga ombord på ett fraktskepp precis innan det lämnade hamnen.</desc>
   </AdventuringChild56>
   
   <AdventurousWeirdo83>
     <!-- EN: adventurous weirdo -->
-    <title>TODO</title>
+    <title>galen våghals</title>
     <!-- EN: weirdo -->
-    <titleShort>TODO</titleShort>
+    <titleShort>våghals</titleShort>
     <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated his life to his twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-    <desc>TODO</desc>
+   XXX <desc>Som en kretiv och annorlunda person har [PAWN_nameDef] dedikerat sitt liv till sin förkärlek för medeltida historia och högteknologi.\n\n[PAWN_pronoun] var fachinerad av idéen att bli 'himmelsriddare' med en glittrande rustning och ett stort svärd.   </desc>
   </AdventurousWeirdo83>
   
   <AdventurousYouth79>
     <!-- EN: adventurous youth -->
-    <title>TODO</title>
+    <title>ung äventyrare</title>
     <!-- EN: adventurer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>äventyrare</titleShort>
     <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring his teenage years, [PAWN_nameDef] made numerous enemies -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] gick ofta på upptäcksfärd runt [PAWN_possessive] familjs stora herrgård, och hittade små underverk formade av naturen, gömda i katakomber, bäckar och grottor.\n\nUnder tonåren skaffade sig [PAWN_nameDef] många ovänner.</desc>
   </AdventurousYouth79>
   
   <AerospaceEngineer44>
     <!-- EN: aerospace engineer -->
     <title>TODO</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ingenjör</titleShort>
     <!-- EN: [PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] var ingenjör och ansvarig för produktionen av flygplan och rymdskepp. [PAWN_pronoun] fokuserade på att förbättra produktionslinjen och var känd för [PAWN_possessive] expertis gällande tekniska och vetenskapliga problem.</desc>
   </AerospaceEngineer44>
   
   <AIProgrammer5>
     <!-- EN: aI programmer -->
-    <title>TODO</title>
+    <title>AI-programmerare</title>
     <!-- EN: programmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>programmerare</titleShort>
     <!-- EN: Michael enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing. -->
-    <desc>TODO</desc>
+   TODO <desc>Michael anmälde sig till militärens robotbyrå för att utveckla smartare strids-AIn.\n\n Under den tid han var där pratade han aldrig med någon människa. Han spenderade all sin tid samtalandes med den AI han utvecklade.</desc>
   </AIProgrammer5>
   
   <AIResearcher30>
     <!-- EN: aI researcher -->
     <title>AI-forskare</title>
     <!-- EN: researcher -->
-    <titleShort>Forskare</titleShort>
+    <titleShort>forskare</titleShort>
     <!-- EN: Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication. -->
-    <desc>[PAWN_nameDef] var en känd forskare inom artificiell intelligens, robotik och interaktiv holografi. [PAWN_possessive] vänskap med de konstgjorda sinnen [PAWN_pronoun] skapade gav [PAWN_objective] självförtroendet att interagera med riktiga människor, och [PAWN_pronoun] utmärkte sig snart på personlig kommunikation.</desc>
+    <desc>[PAWN_nameDef] var en känd forskare inom artificiell intelligens, robotar och interaktiv holografi. [PAWN_possessive] vänskap med de konstgjorda medvetanden [PAWN_pronoun] skapade gav [PAWN_objective] självförtroendet att interagera med riktiga människor, och [PAWN_pronoun] utmärkte sig snart gällande personlig kommunikation.</desc>
   </AIResearcher30>
   
   <AlcoholicTrucker58>
     <!-- EN: alcoholic trucker -->
     <title>TODO</title>
     <!-- EN: alcoholic -->
-    <titleShort>TODO</titleShort>
+    <titleShort>alkoholist</titleShort>
     <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when he killed his wife and daughter in a crash.\n\nHis body was repaired with an experimental nano-genetic therapy. Now his muscles continually regenerate and harden, and every movement tears the tissue anew. He bears the pain in silence. -->
-    <desc>TODO</desc>
+   TODO<desc>[PAWN_nameDef] var rymdchaufför och arbetade för Arcknigt Industri när [PAWN_pronoun] hade ihjäl sin XXX och dotter i en krasch.\n\n[PAWN_pronoun] kropp opererades med experimentell nanogenetisk terapi. [PAWN_pronoun] muskler fortsätter att kontinuerligt regenereras och stelna, varje rörelse sliter sönder vävnader på nytt. [PAWN_pronoun] uthärdar smärtan utan ett knyst. </desc>
   </AlcoholicTrucker58>
   
   <AmateurAstronomer86>
     <!-- EN: amateur astronomer -->
-    <title>TODO</title>
+    <title>amatör astronom</title>
     <!-- EN: astronomer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>astronom</titleShort>
     <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through his telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] var faschinerad av astronomi. [PAWN_pronoun] spenderade timmar med att titta på planeter och neblousor genom sitt teleskop.\n\n[PAWN_pronoun] blir känd för upptäckten av en liten komet, som år senare slog ned på en närbelägen måne och där avbröt det pågående gruvarbetet.</desc>
   </AmateurAstronomer86>
   
   <AmateurBotanist14>
     <!-- EN: amateur botanist -->
-    <title>TODO</title>
+    TODO<title>amatör botaniker</title>
     <!-- EN: botanist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>botaniker</titleShort>
     <!-- EN: Spending many summers crawling through dirt, Christian found he had quite the green thumb. Instead of learning to cook the food he grew, he just grew more and more. -->
-    <desc>STODO</desc>
+    TODO<desc>Efter att under flera sommrar krälat genom smuts och lera insåg Cristian att han hade relativt gröna fingrar. Istället för att lära sig laga det han odlade, odlade han bara mer och mer.</desc>
   </AmateurBotanist14>
   
   <AmateurEngineer34>
@@ -264,7 +260,7 @@ XX
     <!-- EN: survivor -->
     <titleShort>Överlevare</titleShort>
     <!-- EN: [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents did whatever they had to to survive. -->
-    <desc>[PAWN_nameDef] föddes under en tid av oro på [PAWN_possessive] hemvärld, eftersom klimatförändringarna hotade massvält och översvämningar. När [PAWN_pronoun] växte upp förvärrades situationen. Miljarder dog och fredliga stater föll i anarki. [PAWN_nameDef] och [PAWN_possessive] föräldrar gjorde vad de var tvungna för att överleva.</desc>
+    <desc>[PAWN_nameDef] föddes under en orolig tid i [PAWN_possessive] hemvärld eftersom klimatförändringarna hotade med mhungersnöd och översvämningar. När [PAWN_pronoun] växte upp förvärrades situationen - miljarder dog och fredliga stater förföll till anarki. [PAWN_nameDef] och [PAWN_possessive] föräldrar gjorde vad de var tvungna för att överleva.</desc>
   </ApocalypseSurvivor23>
   
   <ApprenticeOracle83>
@@ -291,7 +287,7 @@ XX
     <!-- EN: architect -->
     <titleShort>Arkitekt</titleShort>
     <!-- EN: [PAWN_nameDef] designed and constructed buildings. On [PAWN_possessive] glitterworld home, most of the technical aspects of architecture were handled by an AI. This enabled [PAWN_objective] to push the artistic limits of the craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty at building sites. -->
-    <desc>[PAWN_nameDef] konstruerade och uppförda byggnader. De flesta av de tekniska aspekterna av arkitektur sköttes av en AI på [PAWN_possessive] glittevärldshem. Detta gjorde det möjligt för [PAWN_objective] att driva mot de konstnärliga gränserna, men innebar också att [PAWN_pronoun] aldrig var tvungen att få sina händer smutsiga på byggarbetsplatser.</desc>
+    <desc>[PAWN_nameDef] ritade och konstruerade byggnader. I [PAWN_possessive] glittervärlds hem sköttes de flesta av de tekniska delarna inom arkitektur genom en AI. Detta gjorde det möjligt för [PAWN_objective] att driva på de konstnärliga gränserna inom arkitektur, men innebar även att [PAWN_pronoun] aldrig behövde delta i arbetet på byggarbetsplatser.</desc>
   </Architect28>
   
   <ArchotechSpy40>
@@ -305,20 +301,20 @@ XX
   
   <ArmyCook51>
     <!-- EN: army cook -->
-    <title>Armekock</title>
+    <title>fältkock</title>
     <!-- EN: cook -->
-    <titleShort>Kock</titleShort>
+    <titleShort>kock</titleShort>
     <!-- EN: Ben joined the army as a worker and spent most of his time cooking and repairing. While he was stationed on a dangerous planet, he underwent basic shooting and survival training. -->
-    <desc>[PAWN_nameDef] gick med i armén som arbetare och tillbringade mestadels tid på matlagning och reparation. Medan [PAWN_pronoun] var stationerad på en farlig planet, genomgick [PAWN_pronoun] grundläggande skytte och överlevnadsträning.</desc>
+    <desc>[PAWN_nameDef] tog värvning i militären och tillbringade mestadels sin tid på matlagning och underhållsarbete. När [PAWN_pronoun] var stationerad på en farlig planet genomgick [PAWN_pronoun] grundläggande skytte- och överlevnads- träning.</desc>
   </ArmyCook51>
   
   <ArmyScientist35>
     <!-- EN: army scientist -->
-    <title>Armevetenskapsman</title>
+    <title>militärforskare</title>
     <!-- EN: scientist -->
-    <titleShort>Vetenskapsman</titleShort>
+    <titleShort>forskare</titleShort>
     <!-- EN: [PAWN_nameDef] did scientific research for a planetary army. [PAWN_pronoun] studied war scenarios and designed weapon systems to help win battles with a minimum of fuss. -->
-    <desc>[PAWN_nameDef] gjorde vetenskaplig forskning för en planetarisk armé. [PAWN_pronoun] studerade krigsscenarier och utformade vapensystem för att hjälpa till att vinna strider med ett minimum av väsen.</desc>
+    <desc>[PAWN_nameDef] utförde forskning för en mänsklig armé. [PAWN_pronoun] studerade olika krigsscenarier och utformade vapensystem med syfte att vinna strider, med minimal uppståndelse.</desc>
   </ArmyScientist35>
   
   <ArmySergeant1>
@@ -386,11 +382,11 @@ XX
   
   <AsceticPriest11>
     <!-- EN: ascetic priest -->
-    <title>Asketisk präst</title>
+    <title>asketisk munk</title>
     <!-- EN: priest -->
-    <titleShort>Präst</titleShort>
+    <titleShort>munk</titleShort>
     <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery on a peaceful backwater planet to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
-    <desc>Efter att ha tagit ett löfte om tystnad, anslut [PAWN_nameDef] dig till ett kloster på en lugn bakvattenplanet för att tillbringa sina dagar i lugn kontemplation.\n\n[PAWN_pronoun] fann lycka i att odla grönsaker i trädgården och göra ost i klostret källare.</desc>
+    <desc>Efter att ha avlagt ett tystnadslöfte anslöt sig [PAWN_nameDef] till ett kloster på en lugn vattenplanet för att tillbringa sina dagar i tyst kontemplation.\n\n[PAWN_pronoun] fann en glädje i att odla grönsaker i trädgården och göra ost i klostrets källare.</desc>
   </AsceticPriest11>
   
   <AspergersRebel66>
@@ -426,7 +422,7 @@ XX
     <!-- EN: pop idol -->
     <titleShort>Popstjärna</titleShort>
     <!-- EN: Min was being trained in song and dance to become the next big pop idol. She grew up being taken care of by company handlers.\n\nShe never knew manual labor, but learned a lot about music and social etiquette. -->
-    <desc>[PAWN_nameDef] blev utbildad i sång och dans för att bli nästa stora popstjärna. [PAWN_pronoun] växte upp och blev omhändertagen av företagshanterare.\n\n[PAWN_pronoun] lärde sig aldrig om manuellt arbete, men lärde sig mycket om musik och social etikett.</desc>
+    <desc>[PAWN_nameDef] tränades i sång och dans för att bli nästa stora popstjärna. [PAWN_pronoun] växte upp och blev omhändertagen av skivbolagets personal.\n\n[PAWN_pronoun] lärde sig aldrig något om praktiskt arbete, däremot lärde [PAWN_pronoun] sig mycket om musik och etikett.</desc>
   </AspiringPopIdol61>
   
   <Assassin16>
@@ -444,7 +440,7 @@ XX
     <!-- EN: assassin -->
     <titleShort>Lönnmördare</titleShort>
     <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
-    <desc>[PAWN_nameDef] var en professionell lönnmördare. [PAWN_pronoun] var kall, beräknande, och gjorde en bra vinst. I den branschen där en fullkomlig brist på empati var en tillgång.</desc>
+    <desc>[PAWN_nameDef] var en professionell lönnmördare. [PAWN_pronoun] var kall, beräknande och tjänade mycket pengar. I den här branschen var  en fullkomlig brist på empati en tillgång.</desc>
   </Assassin20>
   
   <Athlete23>
@@ -458,11 +454,11 @@ XX
   
   <AwkwardNerd12>
     <!-- EN: awkward nerd -->
-    <title>Pinsam nörd</title>
+    <title>pinsam nörd</title>
     <!-- EN: nerd -->
-    <titleShort>Nörd</titleShort>
+    <titleShort>nörd</titleShort>
     <!-- EN: Always fascinated by machines, Dave spent his time studying robotics and holography. He preferred the company of his scientific creations to that of other people. -->
-    <desc>Alltid fascinerad av maskiner spenderade [PAWN_nameDef] sin tid på att studera robotik och holografi. [PAWN_pronoun] föredrog gemenskap med sina vetenskapliga skapelser till andra människors.</desc>
+    <desc>Alltid fascinerad av maskiner spenderade [PAWN_nameDef] sin tid på att studera robotik och holografi. [PAWN_pronoun] föredrog sällskap av sina vetenskapliga skapelser, istället för de där andra.</desc>
   </AwkwardNerd12>
   
   <AWOLSoldier20>
@@ -476,11 +472,11 @@ XX
   
   <BanditLeader36>
     <!-- EN: bandit leader -->
-    <title>Banditledare</title>
+    <title>Ledarskurk</title>
     <!-- EN: bandit -->
-    <titleShort>Bandit</titleShort>
+    <titleShort>Skurk</titleShort>
     <!-- EN: [PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. His dog Rest never left his side. -->
-    <desc>[PAWN_nameDef] steg upp i brottsorganisationens ledning och blev så småningom ledare för en av sina mest avlägsna celler av banditer. [PAWN_possessive] hund Rufus lämnade aldrig [PAWN_possessive] sida.</desc>
+    <desc>[PAWN_nameDef] gjorde karriär inom den kriminella organisationen. [PAWN_pronoun] blev tillslut ledare för den mest undanskymda grupperingen av skurkar. [PAWN_possessive] hund Rufus lämnade aldrig [PAWN_possessive] sida.</desc>
   </BanditLeader36>
   
   <BanishedSoldier76>
@@ -489,7 +485,7 @@ XX
     <!-- EN: outlaw -->
     <titleShort>Fredlös</titleShort>
     <!-- EN: [PAWN_nameDef] became the most physically intimidating of the slaves, spending his little free time obsessively sculpting his body. His efforts eventually paid off when the lord offered him a job as a personal bodyguard.\n\nLater, when he plotted to use his position to kill the lord and free the slaves, he was discovered and barely escaped with his life. -->
-    <desc>NAMN blev den mest fysiskt skrämmande av slavarna och spenderade sin lilla lediga tid på att obsessivt skulptera sin kropp. [PAWN_possessive] ansträngningar betalade sig slutligen när herren erbjöd [PAWN_objective] ett jobb som personlig livvakt.\n\nSenare, när [PAWN_pronoun] planerade att använda sin position att döda herren och frigöra slavarna, upptäcktes [PAWN_pronoun] och lyckades fly knappt med sitt liv i behåll.</desc>
+   XXX  <desc>[PAWN_nameDef] blev den fysiskt mest hotfulla av alla slavar. [PAWN_pronoun] spenderade den lilla lediga som fanns med att maniskt  bygga muskler. [PAWN_possessive] ansträngningar betalade sig slutligen när fursten erbjöd [PAWN_objective] ett jobb som personlig livvakt.\n\nSenare när [PAWN_pronoun] planerade att använda sin position för att döda fursten och befria slavarna upptäcktes [PAWN_pronoun] och lyckades med nöd och näppe fly.</desc>
   </BanishedSoldier76>
   
   <Bartender55>
@@ -498,7 +494,7 @@ XX
     <!-- EN: barkeep -->
     <titleShort>Bartender</titleShort>
     <!-- EN: [PAWN_nameDef] worked as a bartender on a seedy space station. The job entailed one part drink mixing, one part diplomacy, and one part head-bashing. -->
-    <desc>[PAWN_nameDef] arbetade som bartender på en förslappad rymdstation. Jobbet innebar en del drinkblandande, en del diplomati, och en del skallande.</desc>
+    <desc>[PAWN_nameDef] arbetade som bartender på en sjaskig rymdstation. Jobbet innebar en del drinkblandande, en del diplomati och en del skallande.</desc>
   </Bartender55>
   
   <BattlefieldTech75>

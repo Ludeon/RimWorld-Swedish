@@ -4,64 +4,64 @@
   <!-- EN: Cancel -->
   <DesignatorCancel>Arbryt</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>Avbryt markerad byggnad, gruvarbete, bortdragning, skörd, och alla andra markeringar.</DesignatorCancelDesc>
+  <DesignatorCancelDesc>Avbryt planerad konstruktion, gruvarbete, släpande, skördande och alla andra givna uppdrag.</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
   <DesignatorCutPlants>Gallra växter</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc>Markerar växter som ska gallras och förstöras. Växterna kommer att förstöras helt, eventuell mat och andra resurser kommer att skördas.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Markerar växter som ska gallras och tas bort. Växterna kommer att tas bort helt, eventuell mat och andra resurser kommer att skördas.</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
-  <DesignatorDeconstruct>Riv</DesignatorDeconstruct>
+  <DesignatorDeconstruct>Demontera</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc>Riv byggnader och återvinn en del av dess resurser.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Demontera detta och återvinn en del av resurserna.</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>Demontera</DesignatorUninstall>
+  <DesignatorUninstall>Urinstallera</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc>Montera ner objektet så att det kan flyttas, säljas, eller monteras någon annanstans.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Montera ner detta så att det kan flyttas, säljas, eller installeras någon annanstans.</DesignatorUninstallDesc>
 
   <!-- EN: Harvest -->
   <DesignatorHarvest>Skörda</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
-  <DesignatorHarvestDesc>Markerar växter som ska skördas för sin mat eller andra produkter.</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>Markerar växter som ska skördas.</DesignatorHarvestDesc>
 
   <!-- EN: Chop wood -->
-  <DesignatorHarvestWood>Avverka träd</DesignatorHarvestWood>
+  <DesignatorHarvestWood>Hugg ved</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
-  <DesignatorHarvestWoodDesc>Markerar träd som ska avverkas för sitt trä.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Markerar träd som ska huggas ned.</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
-  <DesignatorHaulThings>Frakta</DesignatorHaulThings>
+  <DesignatorHaulThings>Släpa saker</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>Markera stenar och andra saker som ska bli bortfraktade till dumpingplatser. Behövs inte för saker som mat eller döda kroppar, som alltid kan fraktas bort.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Markera stenar och andra föremål som ska fraktas till skrotlager. Behövs inte för mat eller döda djur och människor, de kan alltid bäras iväg.</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>Kan bara markera fraktbarbara men-inte-alltid-bortfraktade saker (som stenar).</MustHaulHaulables>
+  <MustHaulHaulables>Avser enbart transporterbara inte-alltid-bortfraktade saker (exempelvis stenar).</MustHaulHaulables>
 
   <!-- EN: Hunt -->
   <DesignatorHunt>Jaga</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <DesignatorHuntDesc>Markera djur som ska jagas av dina jägare.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>Markera de djur som ska jagas av dina jägare.</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
-  <DesignatorMine>Gruva</DesignatorMine>
+  <DesignatorMine>Gruvaarbete</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
-  <DesignatorMineDesc>Markera klippor som ska gruvas ut.</DesignatorMineDesc>
+  <DesignatorMineDesc>Markera klippor som ska huggas ur.</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>Släta yta</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>Släta till yta</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>Markera ojämn sten terräng och väggar som ska slätas ut.</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Markera ojämn marksten och väggar som ska slätas till.</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>Planera</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>Skissa på dina planer. Dessa gör inget, förutom att hjälpa dig att planera framtida expansioner.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Skissa upp dina planer. Dessa påverkar ingetnting, förutom att hjälpa dig att planera framtida byggnationer.</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
-  <DesignatorPlanRemove>Ta bort planer</DesignatorPlanRemove>
+  <DesignatorPlanRemove>Ta bort planering</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
-  <DesignatorPlanRemoveDesc>Ta bort skisser.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>Tar bort skisser.</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
   <DesignatorForbid>Förbjud</DesignatorForbid>
@@ -74,18 +74,18 @@
   <DesignatorUnforbidDesc>Markera föremål som tillåtna. Kolonisterna kommer att kunna interagera med de utvalda föremålen.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
-  <DesignatorAreaHomeExpand>Utöka hemområde</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>Utöka tomtmark</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
-  <DesignatorAreaHomeExpandDesc>Kolonister kommer bara att reparera byggnader, städa, och släcka bränder inom hemområdet.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>Kolonister kommer bara att reparera byggnader, städa, och släcka bränder inom tomten.</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
-  <DesignatorAreaHomeClear>Radera hemområde</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>Minska tomtmark</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
-  <DesignatorAreaHomeClearDesc>Tar bort ett hemområde. Kolonister kommer inte längre att städa, reparera eller släcka bränder här.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>Minskar tomtmarken. Kolonister kommer inte längre att städa, reparera eller släcka bränder här.</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>Utöka takområde</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Utöka takyta</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
-  <DesignatorAreaBuildRoofExpandDesc>Kolonister kommer bygga tak i det här området.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonister kommer bygga tak i detta område.</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
   <DesignatorAreaNoRoofExpand>Utöka taklöst område</DesignatorAreaNoRoofExpand>
@@ -93,23 +93,23 @@
   <DesignatorAreaNoRoofExpandDesc>Skapa ett område där tak inte kommer att byggas. Kolonister kommer även att riva existerande tak.</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>Ignorera takområde</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>Ignorera takyta</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>Kolonister kommer att ignorera tak i detta område.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Expand snow clear area -->
   <DesignatorAreaSnowClearExpand>Utöka snöröjningsområde</DesignatorAreaSnowClearExpand>
   <!-- EN: Create a area which colonists will try to keep clear of snow. -->
-  <DesignatorAreaSnowClearExpandDesc>Skapa ett område där dina kolonister skyfflar bort snö.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearExpandDesc>Skapa ett område där dina kolonister skottar bort snö.</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow clear Area -->
   <DesignatorAreaSnowClearClear>Radera snöröjningsområde</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc>Ta bort område som ska snöröjas. Kolonister kommer inte längre att hålla området fritt från snö.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>Ta bort områden som ska skottas. Kolonister kommer inte längre att hålla området fritt från snö.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
   <DesignatorExpandAreaAllowed>Utöka tillåtet område</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorExpandAreaAllowedDesc>Expandera det tillåtna området.\n\nTillåtna områden är begränsade områden där kolonisterna kan röra sig fritt. De kommer inte att utföra arbeten eller tillfredställa sina behov utanför det designerade området.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>Expandera det tillåtna området.\n\nTillåtna områden är begränsade områden där kolonisterna kan röra sig fritt. De kommer inte att utföra arbeten eller tillfredställa sina behov utanför det tillåtna området.</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
   <DesignatorClearAreaAllowed>Radera tillåtna områden</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
@@ -118,20 +118,20 @@
   <ManageAreas>Hantera områden...</ManageAreas>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
-  <DesignatorGrowingZoneDesc>Skapa en zon där dina kolonister kommer att försöka odla en specificerad planta.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Skapar en zon där dina kolonister ska försöka odla en specifik gröda.</DesignatorGrowingZoneDesc>
 
   <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageResourcesDesc>Skapa ett förråd där dina kolonister kommer att förvara resurser.\nDetta verktyg kan också användas för att utöka ett redan existerande förråd.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Skapar ett lager där dina kolonister kommer att förvara resurser.\nDetta verktyg kan också användas för att utöka ett redan existerande lagerplats.</DesignatorZoneCreateStorageResourcesDesc>
 
   <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageDumpingDesc>Skapa ett förråd där dina kolonister kommer att förvara skräp.\nDetta verktyg kan också användas för att utöka ett existerande förråd.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Skapar en yta där dina kolonister kommer att förvara skrot.\nDetta verktyg kan också användas för att utöka ett existerande område .</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
   <DesignatorZoneDelete>Radera zoner</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
   <DesignatorZoneDeleteSingular>Radera zon</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
-  <DesignatorZoneDeleteDesc>Tar bort zoner, som förrådzoner eller odlingsmark.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>Tar bort zoner, exempelvis olika lager eller odlingsmark.</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
   <DesignatorZoneExpand>Expandera zoner</DesignatorZoneExpand>
@@ -139,32 +139,32 @@
   <!-- EN: Claim -->
   <DesignatorClaim>Annektera</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
-  <DesignatorClaimDesc>Annektera en neutral byggnad, så som gamla ruiner och övergivna belägringsbaser. Annekterade byggnader kan rustas upp och underhållas av dina kolonister.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>Gör anspråk på en neutral byggnad, såsom ruiner och övergivna baser. Annekterade byggnader kan rustas upp och underhållas av dina kolonister.</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
-  <DesignatorRemoveFloor>Avlägsna golv</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>Riv golv</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
-  <DesignatorRemoveFloorDesc>Avlägsna golv och öppna upp underliggande terräng.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloorDesc>Avlägsna golv och exponerar underliggande mark.</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>Riv bron</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>Riv bro</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>Ta bort broar för att visa terrängen nedanför.</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridgeDesc>Tar bort broar och exponerar underliggande mark.</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
-  <DesignatorStrip>Ta av kläder</DesignatorStrip>
+  <DesignatorStrip>Klä av</DesignatorStrip>
   <!-- EN: Strip apparel from corpses and the wounded. -->
-  <DesignatorStripDesc>Klä av kläderna från skadade och döda kroppar.</DesignatorStripDesc>
+  <DesignatorStripDesc>Klä av plagg från skadade och döda personer.</DesignatorStripDesc>
 
   <!-- EN: Rearm trap -->
-  <DesignatorRearmTrap>Armera fälla</DesignatorRearmTrap>
+  <DesignatorRearmTrap>Återställ fälla</DesignatorRearmTrap>
   <!-- EN: Rearm a sprung trap so it can be triggered again. -->
-  <DesignatorRearmTrapDesc>Armera en utlöst fälla så att den kan utlösas igen.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrapDesc>återställ en utlöst fälla så att den kan utlösas igen.</DesignatorRearmTrapDesc>
 
   <!-- EN: Open -->
   <DesignatorOpen>Öppna</DesignatorOpen>
   <!-- EN: Open containers. -->
-  <DesignatorOpenDesc>Öppna en grav eller behållare.</DesignatorOpenDesc>
+  <DesignatorOpenDesc>Öppna behållare.</DesignatorOpenDesc>
   
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>Slakta</DesignatorSlaughter>
@@ -178,39 +178,39 @@
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
-  <UnchosenStuff>Ej valt material</UnchosenStuff>
+  <UnchosenStuff>Material ej valt</UnchosenStuff>
   <!-- EN: Too close to map edge. -->
   <TooCloseToMapEdge>För nära kartans kant.</TooCloseToMapEdge>
   <!-- EN: Out of bounds. -->
-  <OutOfBounds>Utanför gräns.</OutOfBounds>
+  <OutOfBounds>Utanför gränsen.</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>Kan inte placera i oupptäkta områden.</CannotPlaceInUndiscovered>
   <!-- EN: Interaction spot is blocked by {0}. -->
-  <InteractionSpotBlocked>Interaktionsplats är blockerad av {0}.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>Plsts för interaktion är blockerad av {0}.</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
-  <InteractionSpotOutOfBounds>Interaktionsplats är utanför gräns.</InteractionSpotOutOfBounds>
+  <InteractionSpotOutOfBounds>Plats för interaktion är utanför gränsen.</InteractionSpotOutOfBounds>
   <!-- EN: Interaction spot will be blocked by {0}. -->
-  <InteractionSpotWillBeBlocked>Interaktionsplats kommer blockeras av {0}.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>Plats för interaktion kommer blockeras av {0}.</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
-  <WouldBlockInteractionSpot>{0} skulle blockera {1}s interaktionsplats.</WouldBlockInteractionSpot>
+  <WouldBlockInteractionSpot>{0} skulle blockera {1}s Plats för interaktion.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>Denna terräng är redan {0}.</TerrainIsAlready>
   <!-- EN: The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed>Ytan är redan märkt för utjämning</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>Ytan är redan markerad för att slätas ut</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
-  <IdenticalThingExists>Identiskt objekt finns redan här.</IdenticalThingExists>
+  <IdenticalThingExists>Identiskt föremål finns redan här.</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
-  <IdenticalBlueprintExists>Identisk plan finns redan här.</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>Identisk ritning finns redan här.</IdenticalBlueprintExists>
   <!-- EN: The terrain here cannot support this. -->
-  <TerrainCannotSupport>Denna terräng stödjer inte detta.</TerrainCannotSupport>
+  <TerrainCannotSupport>Denna terräng kan inte stödja detta.</TerrainCannotSupport>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Platsen är redan upptagen.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
-  <SpaceBeingSmoothed>Platser hållar på att jämnas ut.</SpaceBeingSmoothed>
+  <SpaceBeingSmoothed>Området håller redan på att jämnas till.</SpaceBeingSmoothed>
   <!-- EN: Must target a removable floor. -->
-  <TerrainMustBeRemovable>Terrängen måste kunnas ta bort.</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>Markera ett golv som går att ta bort.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
-  <MustBeOnMovingWater>Vattenhjulet måste vara på rörligt vatten.</MustBeOnMovingWater>
+  <MustBeOnMovingWater>Vattenhjulet måste placeras i strömmande.</MustBeOnMovingWater>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -220,12 +220,12 @@
   
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
-  <TransmitsPower>Överför ström</TransmitsPower>
+  <TransmitsPower>Förmedlar ström</TransmitsPower>
   <!-- EN: Construction needed -->
-  <ConstructionNeeded>Byggnad behövs</ConstructionNeeded>
+  <ConstructionNeeded>Byggnation behövs</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
   <NoColonistWithConstructionSkillTip>Ingen av dina {0} har denna färdighet.</NoColonistWithConstructionSkillTip>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alla dina {0} som har denna färdighet tilldelas inte {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alla dina {0} som har denna färdighet har ej tilldelats arbetsuppgiften {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
 </LanguageData>

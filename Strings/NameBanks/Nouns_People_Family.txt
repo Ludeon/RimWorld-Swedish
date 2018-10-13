@@ -1,8 +1,9 @@
-﻿mother
+﻿TODO - dotter och kvinnliga släktingar?
+mamma
 son
-father
-brother
-uncle
-nephew
-aunt
+pappa
+bror
+farbror
+syskonbarn
+faster
 

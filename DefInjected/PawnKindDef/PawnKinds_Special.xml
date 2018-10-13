@@ -6,12 +6,12 @@
   <Slave.label>slav</Slave.label>
   
   <!-- EN: wild men -->
-  <WildMan.labelPlural>TODO</WildMan.labelPlural>
+  <WildMan.labelPlural>manliga vildar</WildMan.labelPlural>
   <!-- EN: wild woman -->
-  <WildMan.labelFemale>TODO</WildMan.labelFemale>
+  <WildMan.labelFemale>kvninnliga vildar</WildMan.labelFemale>
   <!-- EN: wild women -->
-  <WildMan.labelFemalePlural>TODO</WildMan.labelFemalePlural>
+  <WildMan.labelFemalePlural>vilde</WildMan.labelFemalePlural>
   <!-- EN: wild man -->
-  <WildMan.label>TODO</WildMan.label>
+  <WildMan.label>vilde</WildMan.label>
   
 </LanguageData>

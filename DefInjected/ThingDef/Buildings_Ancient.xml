@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: ancient concrete barrier -->
-  <AncientConcreteBarrier.label>forntida betongbarriär</AncientConcreteBarrier.label>
+  <AncientConcreteBarrier.label>uråldrig betongbarriär</AncientConcreteBarrier.label>
   <!-- EN: A traffic management solution from long ago. -->
-  <AncientConcreteBarrier.description>En trafikledningslösning från länge sedan.</AncientConcreteBarrier.description>
+  <AncientConcreteBarrier.description>En trafikledningslösning från mycket länge sedan.</AncientConcreteBarrier.description>
   
   <!-- EN: ancient lamppost -->
-  <AncientLamppost.label>forntida lyktstolpe</AncientLamppost.label>
+  <AncientLamppost.label>uråldrig lyktstolpe</AncientLamppost.label>
   <!-- EN: Road lighting from long ago. No longer functional. -->
-  <AncientLamppost.description>Vägbelysning från länge sedan. Ej längre funktionell.</AncientLamppost.description>
+  <AncientLamppost.description>Vägbelysning från mycket länge sendan. Går ej att använda längre.</AncientLamppost.description>
   
 </LanguageData>

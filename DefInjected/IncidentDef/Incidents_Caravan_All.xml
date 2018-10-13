@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
-  <Ambush.letterText>Er karavan har råkat i ett bakhåll av {0} från {1}!</Ambush.letterText>
+  <Ambush.letterText>{0} har utsatts för bakhåll av {1} från {2}!</Ambush.letterText>
   <!-- EN: Caravan ambushed -->
-  <Ambush.letterLabel>Karavan i bakhåll</Ambush.letterLabel>
+  <Ambush.letterLabel>Karavan utsatt för bakhåll</Ambush.letterLabel>
   <!-- EN: ambush -->
   <Ambush.label>bakhåll</Ambush.label>
   
   <CaravanDemand.letterText>Er karavan har råkat i ett bakhåll av {0} från {1}!</CaravanDemand.letterText>
   <CaravanDemand.letterLabel>Karavan i bakhåll</CaravanDemand.letterLabel>
   <!-- EN: payment demand -->
-  <CaravanDemand.label>tullkrav</CaravanDemand.label>
+  <CaravanDemand.label>lösensumma</CaravanDemand.label>
   
   <!-- EN: caravan meeting -->
   <CaravanMeeting.label>karavanmöte</CaravanMeeting.label>
   
   <!-- EN: {0} has been ambushed by manhunting {1}! -->
-  <ManhunterAmbush.letterText>{0} har råkat i ett bakhåll av människojagande {0}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>{0} har råkat i bakhåll av människojagande {1}!</ManhunterAmbush.letterText>
   <!-- EN: Caravan ambushed (manhunters) -->
-  <ManhunterAmbush.letterLabel>Karavan i bakhåll (människojagägare)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterLabel>Karavan utsatt för bakhåll (människojägare)</ManhunterAmbush.letterLabel>
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>bakhåll människojägare</ManhunterAmbush.label>
+  <ManhunterAmbush.label>bakhåll av människojägare</ManhunterAmbush.label>
   
 </LanguageData>

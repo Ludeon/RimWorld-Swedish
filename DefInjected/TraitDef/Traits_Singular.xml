@@ -77,8 +77,8 @@
   <Greedy.degreeDatas.greedy.description>[PAWN_nameDef] behöver ett riktigt imponerande sovrum. [PAWN_possessive] humör försämras om inte [PAWN_pronoun] får som [PAWN_pronoun] vill.</Greedy.degreeDatas.greedy.description>
   
   <!-- UNUSED -->
-  <GreenThumb.degreeDatas.0.label>gröna fingrar</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef]s passion är trädgårdsarbete. [PAWN_pronoun]s humör förbättras för varje växt [PAWN_pronoun] sår.</GreenThumb.degreeDatas.0.description>
+  <GreenThumb.degreeDatas.0.label>UNUSED</GreenThumb.degreeDatas.0.label>
+  <GreenThumb.degreeDatas.0.description>UNUSED</GreenThumb.degreeDatas.0.description>
   
   <!-- EN: indoorsman -->
   <Indoorsman.degreeDatas.indoorsman.label>TODO</Indoorsman.degreeDatas.indoorsman.label>

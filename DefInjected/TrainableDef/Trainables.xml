@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: haul -->
-  <Haul.label>frakta</Haul.label>
+  <Haul.label>släpa</Haul.label>
   <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
-  <Haul.description>Djuret kommer slumpmässigt frakta föremål då och då (även om det inte kan riktas att frakta specifika objekt).</Haul.description>
+  <Haul.description>Djuret kommer slumpmässigt släpa föremål då och då (även om det inte kan riktas att frakta specifika objekt.</Haul.description>
   
   <!-- EN: obedience -->
   <Obedience.label>lydnad</Obedience.label>
   <!-- EN: The animal can be assigned a master who it will follow and defend. -->
-  <Obedience.description>Djuret kan tilldelas en herre som den kommer att följa och försvara.</Obedience.description>
+  <Obedience.description>Djuret kan tilldelas en husbonde som det kommer att följa och försvara.</Obedience.description>
   
   <!-- EN: release -->
   <Release.label>släpp loss</Release.label>
   <!-- EN: The animal can be released to attack distant targets instead of just defending its master. -->
-  <Release.description>Djuret kan släppas loss för att attackera avlägsna mål i stället för att bara försvara herren.</Release.description>
+  <Release.description>Djuret kan släppas loss för att attackera avlägsna mål i stället för att bara försvara husbonden.</Release.description>
   
   <!-- EN: rescue -->
   <Rescue.label>rädda</Rescue.label>
   <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
-  <Rescue.description>Djuret kommer att rädda sårade allierade och frakta dem till säkerhet.</Rescue.description>
+  <Rescue.description>Djuret kommer att rädda sårade allierade och dra dem till säkerhet.</Rescue.description>
   
   <!-- EN: tameness -->
-  <Tameness.label>TODO</Tameness.label>
+  <Tameness.label>tamhet</Tameness.label>
   <!-- EN: The animal can learn to consider itself a member of your colony. -->
-  <Tameness.description>TODO</Tameness.description>
+  <Tameness.description>Djuret kan lära sig att se sig själv som en medlem av din koloni.</Tameness.description>
   
 </LanguageData>

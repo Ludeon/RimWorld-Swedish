@@ -2,46 +2,46 @@
 <LanguageData>
   
   <!-- EN: claws -->
-  <Cassowary.tools.claws.label>TODO</Cassowary.tools.claws.label>
+  <Cassowary.tools.claws.label>klor</Cassowary.tools.claws.label>
   <!-- EN: beak -->
-  <Cassowary.tools.beak.label>TODO</Cassowary.tools.beak.label>
+  <Cassowary.tools.beak.label>näbb</Cassowary.tools.beak.label>
   <!-- EN: head -->
-  <Cassowary.tools.head.label>TODO</Cassowary.tools.head.label>
+  <Cassowary.tools.head.label>huvud</Cassowary.tools.head.label>
   <!-- EN: bird meat -->
-  <Cassowary.race.meatLabel>TODO</Cassowary.race.meatLabel>
+  <Cassowary.race.meatLabel>fågelkött</Cassowary.race.meatLabel>
   <!-- EN: cassowary -->
   <Cassowary.label>kasuar</Cassowary.label>
   <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
-  <Cassowary.description>En stor fågel som ej kan flyga med färgglada fjädrar. Även om det är vacker, gör dess spark ont.</Cassowary.description>
+  <Cassowary.description>En stor fågel som ej kan flyga med färgglada fjädrar. Även om den är vacker gör deras sparkar ont. Den är känd för att ha kort stubin när den skadas av våld eller konfronteras med inkompetenta djurtämjare.</Cassowary.description>
   
   <!-- EN: claws -->
-  <Emu.tools.claws.label>TODO</Emu.tools.claws.label>
+  <Emu.tools.claws.label>klor</Emu.tools.claws.label>
   <!-- EN: beak -->
-  <Emu.tools.beak.label>TODO</Emu.tools.beak.label>
+  <Emu.tools.beak.label>näbb</Emu.tools.beak.label>
   <!-- EN: head -->
-  <Emu.tools.head.label>TODO</Emu.tools.head.label>
+  <Emu.tools.head.label>huvud</Emu.tools.head.label>
   <!-- EN: emu -->
   <Emu.label>emu</Emu.label>
   <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
   <Emu.description>En stor fågel som ej kan flyga med pärlformade ögon i sitt fula ansikte. Tack vare sin dåliga inställning är den det stora rövhålet i fågelvärlden.</Emu.description>
   
   <!-- EN: claws -->
-  <Ostrich.tools.claws.label>TODO</Ostrich.tools.claws.label>
+  <Ostrich.tools.claws.label>klor</Ostrich.tools.claws.label>
   <!-- EN: beak -->
-  <Ostrich.tools.beak.label>TODO</Ostrich.tools.beak.label>
+  <Ostrich.tools.beak.label>näbb</Ostrich.tools.beak.label>
   <!-- EN: head -->
-  <Ostrich.tools.head.label>TODO</Ostrich.tools.head.label>
+  <Ostrich.tools.head.label>huvud</Ostrich.tools.head.label>
   <!-- EN: ostrich -->
   <Ostrich.label>struts</Ostrich.label>
   <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
   <Ostrich.description>Den största omodifierade fågelarter. Strutsar är kända för sin snabba sprint, sina stora ägg och sin kraftfulla spark.</Ostrich.description>
   
   <!-- EN: claws -->
-  <Turkey.tools.claws.label>TODO</Turkey.tools.claws.label>
+  <Turkey.tools.claws.label>klor</Turkey.tools.claws.label>
   <!-- EN: beak -->
-  <Turkey.tools.beak.label>TODO</Turkey.tools.beak.label>
+  <Turkey.tools.beak.label>näbb</Turkey.tools.beak.label>
   <!-- EN: head -->
-  <Turkey.tools.head.label>TODO</Turkey.tools.head.label>
+  <Turkey.tools.head.label>huvud</Turkey.tools.head.label>
   <!-- EN: turkey -->
   <Turkey.label>kalkon</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->

@@ -19,7 +19,7 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-    <li>logentry->Hade ett trevligt samtal med [other_nameShortIndef].</li>
+    <li>TODO</li>
   </Chitchat.logRulesInitiator.rulesStrings>
   <!-- EN: chitchat -->
   <Chitchat.label>småprat</Chitchat.label>
@@ -40,7 +40,7 @@
     <li>subject->[TalkTopicHeavy]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>logentry->Hade ett djupt samtal med [other_nameShortIndef].</li>
+    <li>TODO</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
   <!-- EN: deep talk -->
   <DeepTalk.label>djupt samtal</DeepTalk.label>
@@ -65,14 +65,14 @@
     <li>insultcomparison->[Enemy]</li>
   -->
   <Insult.logRulesInitiator.rulesStrings>
-    <li>logentry->Förolämpade [other_nameShortIndef].</li>
+    <li>TODO</li>
   </Insult.logRulesInitiator.rulesStrings>
   <!-- EN: insult -->
   <Insult.label>förolämpa</Insult.label>
   
   <!-- UNUSED -->
   <Insult.logRulesRecipient.rulesStrings>
-    <li>logentry->Blev förolämpad av [other_nameShortIndef].</li>
+    <li>UNUSED</li>
   </Insult.logRulesRecipient.rulesStrings>
   
   <!-- EN:
@@ -92,14 +92,14 @@
     <li>complimented->said good things about</li>
   -->
   <KindWords.logRulesInitiator.rulesStrings>
-    <li>logentry->Sa vänliga ord till [other_nameShortIndef].</li>
+    <li>TODO</li>
   </KindWords.logRulesInitiator.rulesStrings>
   <!-- EN: kind words -->
   <KindWords.label>vänliga ord</KindWords.label>
   
   <!-- UNUSED -->
   <KindWords.logRulesRecipient.rulesStrings>
-    <li>logentry->Fick vänliga ord av [other_nameShortIndef].</li>
+    <li>UNUSED</li>
   </KindWords.logRulesRecipient.rulesStrings>
   
   <!-- EN:
@@ -120,14 +120,14 @@
     <li>madefunof->offered a backhanded compliment about</li>
   -->
   <Slight.logRulesInitiator.rulesStrings>
-    <li>logentry->Förringade [other_nameShortIndef].</li>
+    <li>TODO.</li>
   </Slight.logRulesInitiator.rulesStrings>
   <!-- EN: slight -->
-  <Slight.label>förringa</Slight.label>
+  <Slight.label>TODO</Slight.label>
   
   <!-- UNUSED -->
   <Slight.logRulesRecipient.rulesStrings>
-    <li>logentry->Blev förringad av [other_nameShortIndef].</li>
+    <li>UNUSED</li>
   </Slight.logRulesRecipient.rulesStrings>
   
 </LanguageData>

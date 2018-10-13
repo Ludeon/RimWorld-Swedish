@@ -10,8 +10,8 @@
   <!-- EN: severe -->
   <Malnutrition.stages.severe.label>allvarlig</Malnutrition.stages.severe.label>
   <!-- EN: extreme -->
-  <Malnutrition.stages.extreme.label>extrem</Malnutrition.stages.extreme.label>
+  <Malnutrition.stages.extreme.label>livshotande</Malnutrition.stages.extreme.label>
   <!-- EN: malnutrition -->
-  <Malnutrition.label>Näringsbrist</Malnutrition.label>
+  <Malnutrition.label>undernäring</Malnutrition.label>
   
 </LanguageData>

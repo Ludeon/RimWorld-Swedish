@@ -2,53 +2,53 @@
 <LanguageData>
   
   <!-- EN: advanced helmet -->
-  <Apparel_AdvancedHelmet.label>advancerad helmet</Apparel_AdvancedHelmet.label>
+  <Apparel_AdvancedHelmet.label>advancerad hjälm</Apparel_AdvancedHelmet.label>
   <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
-  <Apparel_AdvancedHelmet.description>En lättvikts hjälm med komplex design, förstärkt med plastål. Inte effektivt mot trubbiga vapen.</Apparel_AdvancedHelmet.description>
+  <Apparel_AdvancedHelmet.description>En lättviktshjälm med komplex design, förstärkt med plastål. Ej effektiv mot trubbiga vapen.</Apparel_AdvancedHelmet.description>
   
   <!-- EN: bowler hat -->
   <Apparel_BowlerHat.label>plommonstop</Apparel_BowlerHat.label>
   <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
-  <Apparel_BowlerHat.description>En snygg hatt som projekterar en lite urban, pengarälskande stil. Förbättrar sociala konsekvenser.</Apparel_BowlerHat.description>
+  <Apparel_BowlerHat.description>En snygg hatt som ger intryck av en något urban och pengarälskande stil. Förbättrar social inverkan.</Apparel_BowlerHat.description>
   
   <!-- EN: cowboy hat -->
   <Apparel_CowboyHat.label>cowboyhatt</Apparel_CowboyHat.label>
   <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
-  <Apparel_CowboyHat.description>Elegant men ändå robust, håller sol och regn utanför och ger den dom bär den lite extra charm. Det är den viktigaste delen av den traditionella western-klädseln.</Apparel_CowboyHat.description>
+  <Apparel_CowboyHat.description>Denna eleganta men ändå robusta hatt håller sol och regn borta - och ger den dom bär den lite extra charm. Det är den viktigaste delen av den traditionella western-klädseln.</Apparel_CowboyHat.description>
   
   <!-- EN: power armor helmet -->
-  <Apparel_PowerArmorHelmet.label>hjälm till kraftrustning</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.label>kraftrustningshjälm</Apparel_PowerArmorHelmet.label>
   <!-- EN: A powered-armor helmet, with built-in status computer and layered plasteel armor. Usually used by heavy infantry and space marines in spacer-tech militaries. -->
-  <Apparel_PowerArmorHelmet.description>En del till kraftrustningen, används främst av tung infanteri.</Apparel_PowerArmorHelmet.description>
+  <Apparel_PowerArmorHelmet.description>En kraftutrustningshjälm med en inbyggd statusuppdaterande dator och med skikt av plastål. Brukar användas av tungt infanteri och rymdsoldater inom rymdteknisk militär.</Apparel_PowerArmorHelmet.description>
   
   <!-- EN: psychic foil helmet -->
-  <Apparel_PsychicFoilHelmet.label>psykisk foliehatt</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.label>foliehatt</Apparel_PsychicFoilHelmet.label>
   <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
-  <Apparel_PsychicFoilHelmet.description>En tunn hjälm innehållande finstämda blad av psykiskt absorberande folie. Minskar effekten av psykiska händelser.</Apparel_PsychicFoilHelmet.description>
+  <Apparel_PsychicFoilHelmet.description>En tunn hjälm innehållande finstämda blad av psykiskt absorberande folie. Minskar effekten av psykiska vågor.</Apparel_PsychicFoilHelmet.description>
   
   <!-- EN: simple helmet -->
   <Apparel_SimpleHelmet.label>enkel hjälm</Apparel_SimpleHelmet.label>
   <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
-  <Apparel_SimpleHelmet.description>En enkel hjälm som ger måttligt skydd mot vassa attacker. Inte effektivt mot trubbiga vapen.</Apparel_SimpleHelmet.description>
+  <Apparel_SimpleHelmet.description>En enkel hjälm som ger måttligt skydd mot skarpa attacker. Ej effektiv mot trubbiga vapen.</Apparel_SimpleHelmet.description>
   
   <!-- EN: tribal headdress -->
-  <Apparel_TribalHeaddress.label>TODO</Apparel_TribalHeaddress.label>
+  <Apparel_TribalHeaddress.label>traditionell huvudbonad</Apparel_TribalHeaddress.label>
   <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
-  <Apparel_TribalHeaddress.description>TODO</Apparel_TribalHeaddress.description>
+  <Apparel_TribalHeaddress.description>En elegant och traditionell utstyrsel som ofta har en religiös innebörd. Stärker socialt inflytande.   </Apparel_TribalHeaddress.description>
   
   <!-- EN: tuque -->
   <Apparel_Tuque.label>mössa</Apparel_Tuque.label>
   <!-- EN: A soft, thick cap. Great for keeping warm in winter. -->
-  <Apparel_Tuque.description>En mjuk, tjock mössa. Perfekt för att hålla sig varmt på vintern.</Apparel_Tuque.description>
+  <Apparel_Tuque.description>En mjuk och tjock mössa. Perfekt för att hålla sig varm på vintern.</Apparel_Tuque.description>
   
   <!-- EN: war mask -->
-  <Apparel_WarMask.label>TODO</Apparel_WarMask.label>
+  <Apparel_WarMask.label>krigsmask</Apparel_WarMask.label>
   <!-- EN: An artistically terrifying war mask. Hides the wearer's face and makes them more confident. -->
-  <Apparel_WarMask.description>TODO</Apparel_WarMask.description>
+  <Apparel_WarMask.description>En konstnärlig och skrämmande krigsmask. Gömmer bärarens ansikte och gör dem mer självsäkra. </Apparel_WarMask.description>
   
   <!-- EN: war veil -->
-  <Apparel_WarVeil.label>TODO</Apparel_WarVeil.label>
+  <Apparel_WarVeil.label>krigsslöja</Apparel_WarVeil.label>
   <!-- EN: A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
-  <Apparel_WarVeil.description>TODO</Apparel_WarVeil.description>
+  <Apparel_WarVeil.description>en krigsslöja tillverkad av förstärkt tyg, itusliten för att verka skadad i strid. Vissa tror att detta fungerar som en talisman för modighet.</Apparel_WarVeil.description>
   
 </LanguageData>

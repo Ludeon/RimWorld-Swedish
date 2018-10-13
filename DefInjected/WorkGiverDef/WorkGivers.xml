@@ -16,9 +16,9 @@
   <BuildRoofs.label>montera tak</BuildRoofs.label>
   
   <!-- UNUSED -->
-  <BuryCorpses.label>begrava lik</BuryCorpses.label>
-  <BuryCorpses.verb>begrav</BuryCorpses.verb>
-  <BuryCorpses.gerund>begraver</BuryCorpses.gerund>
+  <BuryCorpses.label>UNUSED</BuryCorpses.label>
+  <BuryCorpses.verb>UNUSED</BuryCorpses.verb>
+  <BuryCorpses.gerund>UNUSED</BuryCorpses.gerund>
   
   <!-- EN: chat with -->
   <ChatWithPrisoner.verb>snacka med</ChatWithPrisoner.verb>
@@ -133,9 +133,9 @@
   <DoBillsButcherFlesh.label>stycka djur</DoBillsButcherFlesh.label>
   
   <!-- UNUSED -->
-  <DoBillsComponentAssemblyBench.label>monterar komponent</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>tillverka komponent</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>tillverkar komponent vid</DoBillsComponentAssemblyBench.gerund>
+  <DoBillsComponentAssemblyBench.label>UNUSED</DoBillsComponentAssemblyBench.label>
+  <DoBillsComponentAssemblyBench.verb>UNUSED</DoBillsComponentAssemblyBench.verb>
+  <DoBillsComponentAssemblyBench.gerund>UNUSED</DoBillsComponentAssemblyBench.gerund>
   
   <!-- EN: cook -->
   <DoBillsCook.verb>laga</DoBillsCook.verb>
@@ -208,9 +208,9 @@
   <DoBillsMedicalHumanOperation.label>operera på människa</DoBillsMedicalHumanOperation.label>
   
   <!-- UNUSED -->
-  <DoBillsMedicalMechanoidOperation.label>arbetar på mekanoid</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>ändra</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>ändrar</DoBillsMedicalMechanoidOperation.gerund>
+  <DoBillsMedicalMechanoidOperation.label>UNUSED</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>UNUSED</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>UNUSED</DoBillsMedicalMechanoidOperation.gerund>
   
   <!-- EN: produce drugs -->
   <DoBillsProduceDrugs.verb>tillverka droger</DoBillsProduceDrugs.verb>
@@ -437,14 +437,14 @@
   <Open.label>öppna behållare</Open.label>
   
   <!-- UNUSED -->
-  <PatientGoToBed.label>återhämta sig i säng</PatientGoToBed.label>
-  <PatientGoToBed.verb>få sängläge i</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>får sängläge i</PatientGoToBed.gerund>
+  <PatientGoToBed.label>UNUSED</PatientGoToBed.label>
+  <PatientGoToBed.verb>UNUSED</PatientGoToBed.verb>
+  <PatientGoToBed.gerund>UNUSED</PatientGoToBed.gerund>
   
   <!-- UNUSED -->
-  <PatientGoToBedEmergency.label>gå till säng för akut behandling</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>få behandling i</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>får behandling i</PatientGoToBedEmergency.gerund>
+  <PatientGoToBedEmergency.label>UNUSED</PatientGoToBedEmergency.label>
+  <PatientGoToBedEmergency.verb>UNUSED</PatientGoToBedEmergency.verb>
+  <PatientGoToBedEmergency.gerund>UNUSED</PatientGoToBedEmergency.gerund>
   
   <!-- EN: receive treatment in -->
   <PatientGoToBedEmergencyTreatment.verb>TODO</PatientGoToBedEmergencyTreatment.verb>

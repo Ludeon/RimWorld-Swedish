@@ -6,13 +6,13 @@
   <!-- EN: butcher creature -->
   <ButcherCorpseFlesh.label>slakta varelse</ButcherCorpseFlesh.label>
   <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
-  <ButcherCorpseFlesh.description>Slaktar en varelse för att utvinna dess kött i användbar form.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.description>Slaktar en varelse för att ta reda på kött, skinn och andra produkter.</ButcherCorpseFlesh.description>
   
   <!-- EN: Disassembling mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Plockar isär mekanoid.</ButcherCorpseMechanoid.jobString>
   <!-- EN: disassemble mechanoid -->
   <ButcherCorpseMechanoid.label>plocka isär mekanoid</ButcherCorpseMechanoid.label>
   <!-- EN: Disassemble a dead mechanoid into its component parts. -->
-  <ButcherCorpseMechanoid.description>Plockar en död mekanoid i delar.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>Plockar isär en död mekanoid och tar tillvara på komponenter.</ButcherCorpseMechanoid.description>
   
 </LanguageData>

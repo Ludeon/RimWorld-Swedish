@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: blight -->
-  <Blight.label>TODO</Blight.label>
+  <Blight.label>mjöldagg</Blight.label>
   
   <!-- EN: explosion -->
-  <Explosion.label>TODO</Explosion.label>
+  <Explosion.label>explosion</Explosion.label>
   
   <!-- EN: rect trigger -->
-  <RectTrigger.label>Avtryckare</RectTrigger.label>
+  <RectTrigger.label>avtryckare</RectTrigger.label>
   
   <!-- EN: tornado -->
-  <Tornado.label>TODO</Tornado.label>
+  <Tornado.label>tornado</Tornado.label>
   
   <!-- EN: tunnel -->
-  <TunnelHiveSpawner.label>TODO</TunnelHiveSpawner.label>
+  <TunnelHiveSpawner.label>tunnel</TunnelHiveSpawner.label>
   
 </LanguageData>

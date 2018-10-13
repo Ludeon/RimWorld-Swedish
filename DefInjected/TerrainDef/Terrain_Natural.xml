@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: gravel -->
-  <Gravel.tools.gravel.label>TODO</Gravel.tools.gravel.label>
+  <Gravel.tools.gravel.label>grus</Gravel.tools.gravel.label>
   <!-- EN: stony soil -->
   <Gravel.label>grus</Gravel.label>
   
@@ -10,7 +10,7 @@
   <Ice.label>Is</Ice.label>
   
   <!-- EN: mud -->
-  <MarshyTerrain.tools.mud.label>TODO</MarshyTerrain.tools.mud.label>
+  <MarshyTerrain.tools.mud.label>lera</MarshyTerrain.tools.mud.label>
   <!-- EN: marshy soil -->
   <MarshyTerrain.label>träskmark</MarshyTerrain.label>
   
@@ -18,27 +18,27 @@
   <MossyTerrain.label>lavtäckt mark</MossyTerrain.label>
   
   <!-- EN: mud -->
-  <Mud.tools.mud.label>TODO</Mud.tools.mud.label>
+  <Mud.tools.mud.label>lera</Mud.tools.mud.label>
   <!-- EN: mud -->
   <Mud.label>lera</Mud.label>
   
   <!-- EN: sand -->
-  <Sand.tools.sand.label>TODO</Sand.tools.sand.label>
+  <Sand.tools.sand.label>sand</Sand.tools.sand.label>
   <!-- EN: sand -->
   <Sand.label>sand</Sand.label>
   
   <!-- EN: sand -->
-  <SoftSand.tools.sand.label>TODO</SoftSand.tools.sand.label>
+  <SoftSand.tools.sand.label>sand</SoftSand.tools.sand.label>
   <!-- EN: soft sand -->
-  <SoftSand.label>TODO</SoftSand.label>
+  <SoftSand.label>finkornig sand</SoftSand.label>
   
   <!-- EN: dirt -->
-  <Soil.tools.dirt.label>TODO</Soil.tools.dirt.label>
+  <Soil.tools.dirt.label>jord</Soil.tools.dirt.label>
   <!-- EN: soil -->
   <Soil.label>jord</Soil.label>
   
   <!-- EN: dirt -->
-  <SoilRich.tools.dirt.label>TODO</SoilRich.tools.dirt.label>
+  <SoilRich.tools.dirt.label>jord</SoilRich.tools.dirt.label>
   <!-- EN: rich soil -->
   <SoilRich.label>bördig jord</SoilRich.label>
   

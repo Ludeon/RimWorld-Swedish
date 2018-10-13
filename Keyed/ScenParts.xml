@@ -9,12 +9,12 @@
   <!-- EN: Start with {0} people, chosen from {1}. -->
   <ScenPart_StartWithPawns>Du startar med {0} personer.</ScenPart_StartWithPawns>
   <!-- EN: chosen from -->
-  <ScenPart_StartWithPawns_OutOf>vald från</ScenPart_StartWithPawns_OutOf>
+  <ScenPart_StartWithPawns_OutOf>valda från</ScenPart_StartWithPawns_OutOf>
   <!-- EN: random pet -->
   <RandomPet>slumpat husdjur</RandomPet>
 
   <!-- EN: Start with research: {0} -->
-  <ScenPart_StartingResearchFinished>Börjar med forskning: {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Börja med forskning: {0}</ScenPart_StartingResearchFinished>
   
   <!-- EN: Arrive in drop pods. -->
   <ScenPart_ArriveInDropPods>Anländer i räddningskapsel.</ScenPart_ArriveInDropPods>
@@ -26,7 +26,7 @@
   <!-- EN: {0} have a {1} chance to start with {2}. -->
   <ScenPart_PawnsHaveHediff>{0} har en {1} chans att starta med {2}.</ScenPart_PawnsHaveHediff>
   <!-- EN: severity: {0} -->
-  <ConfigurableSeverity>stränghet: {0}</ConfigurableSeverity>
+  <ConfigurableSeverity>hårdhet: {0}</ConfigurableSeverity>
 
   <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
   <ScenPart_SetNeed>{0} har en {1} chans att ha deras {2} satt mellan {3} och {4}.</ScenPart_SetNeed>
@@ -42,7 +42,7 @@
   
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->
-  <ScenPart_StartingPawnAgeMin>Dina personer kommer vara lägst {0} år gamala.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMin>Dina personer kommer att vara minst {0} år gamala.</ScenPart_StartingPawnAgeMin>
   <!-- EN: Your people will be at most {0} years old. -->
   <ScenPart_StartingPawnAgeMax>Dina personer kommer att vara högst {0} år gamla.</ScenPart_StartingPawnAgeMax>
   <!-- EN: Your people will be between {0} and {1} years old. -->
@@ -57,10 +57,10 @@
   <!-- EN: Permanent game condition(s) -->
   <ScenPart_PermaGameCondition>Permanenta spelvillkor</ScenPart_PermaGameCondition>
   <!-- EN: Incident(s) disabled -->
-  <ScenPart_DisableIncident>Händelse inaktiverad</ScenPart_DisableIncident>
+  <ScenPart_DisableIncident>Händelse(r) inaktiverad</ScenPart_DisableIncident>
   <!-- EN: Incident created -->
   <ScenPart_CreateIncident>Händelse skapad</ScenPart_CreateIncident>
   <!-- EN: Can never build -->
-  <ScenPart_DisallowBuilding>Kan aldrig bli byggt</ScenPart_DisallowBuilding>
+  <ScenPart_DisallowBuilding>Kan aldrig byggas</ScenPart_DisallowBuilding>
 
 </LanguageData>

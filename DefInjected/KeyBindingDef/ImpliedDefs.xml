@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: Toggle Djur tab -->
-  <MainTab_Animals.label>Växla djurfliken</MainTab_Animals.label>
+  <MainTab_Animals.label>Skifta djurfliken</MainTab_Animals.label>
   
   <!-- EN: Toggle Arkitekt tab -->
-  <MainTab_Architect.label>Växla arkitektfliken</MainTab_Architect.label>
+  <MainTab_Architect.label>Skifta arkitektfliken</MainTab_Architect.label>
   
   <!-- EN: Toggle Tilldela tab -->
-  <MainTab_Assign.label>Växla tilldelafliken</MainTab_Assign.label>
+  <MainTab_Assign.label>Skifta tilldelningsaflik</MainTab_Assign.label>
   
   <!-- EN: Toggle Fraktioner tab -->
-  <MainTab_Factions.label>Växla fraktionsfliken</MainTab_Factions.label>
+  <MainTab_Factions.label>Skifta fraktionsflik</MainTab_Factions.label>
   
   <!-- EN: Toggle Historia tab -->
-  <MainTab_History.label>Växla historikfliken</MainTab_History.label>
+  <MainTab_History.label>Skifta historikflik</MainTab_History.label>
   
   <!-- EN: Toggle Begränsa tab -->
-  <MainTab_Restrict.label>Växla begränsafliken</MainTab_Restrict.label>
+  <MainTab_Restrict.label>Skifta begränsningsaflik</MainTab_Restrict.label>
   
   <!-- EN: Toggle Arbete tab -->
-  <MainTab_Work.label>Växla arbetsfliken</MainTab_Work.label>
+  <MainTab_Work.label>Skifta arbetsflik</MainTab_Work.label>
   
   <!-- EN: Toggle Värld tab -->
-  <MainTab_World.label>Växla världsfliken</MainTab_World.label>
+  <MainTab_World.label>Skifta världsflik</MainTab_World.label>
   
 </LanguageData>
