@@ -1,88 +1,88 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.skillLabel>djur</Animals.skillLabel>
-  <!-- EN: animals -->
   <Animals.label>djur</Animals.label>
   <!-- EN: Taming, training, and controlling animals. -->
-  <Animals.description>Tämja, träna, hantera och kontrollera djur.</Animals.description>
+  <Animals.description>Tämja, träna och kontrollera djur.</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>djur</Animals.skillLabel>
   
-  <!-- EN: artistic -->
-  <Artistic.skillLabel>konstnärlig</Artistic.skillLabel>
   <!-- EN: artistic -->
   <Artistic.label>konstnärlig</Artistic.label>
   <!-- EN: Crafting art. -->
-  <Artistic.description>Skapa konstverk.</Artistic.description>
+  <Artistic.description>Skapa konst.</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>konstnärlig</Artistic.skillLabel>
   
-  <!-- EN: construction -->
-  <Construction.skillLabel>konstruktion</Construction.skillLabel>
   <!-- EN: construction -->
   <Construction.label>konstruktion</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>Konstruktion och demolering av byggnader och möbler.</Construction.description>
+  <Construction.description>Konstruera och demolera byggnader och möbler.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>konstruktion</Construction.skillLabel>
   
-  <!-- EN: cooking -->
-  <Cooking.skillLabel>matlagning</Cooking.skillLabel>
   <!-- EN: cooking -->
   <Cooking.label>matlagning</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
   <Cooking.description>Laga mat av råa ingridienser snabbt och utan att orsaka matförgiftning .</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>matlagning</Cooking.skillLabel>
   
-  <!-- EN: crafting -->
-  <Crafting.skillLabel>hantverk</Crafting.skillLabel>
   <!-- EN: crafting -->
   <Crafting.label>hantverk</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
   <Crafting.description>Tillverka vanliga föremål inklusive vapen, komponenter och raffinerade resurser.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>hantverk</Crafting.skillLabel>
   
-  <!-- EN: intellectual -->
-  <Intellectual.skillLabel>intellektuell</Intellectual.skillLabel>
   <!-- EN: intellectual -->
   <Intellectual.label>intellektuell</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
   <Intellectual.description>Bedriva forskning och läkemedelsframställning </Intellectual.description>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>intellektuell</Intellectual.skillLabel>
   
-  <!-- EN: medical -->
-  <Medicine.skillLabel>medicin</Medicine.skillLabel>
   <!-- EN: medical -->
   <Medicine.label>medicin</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
-  <Medicine.description>Behandling av sår och sjukdomar samt kirurgi.</Medicine.description>
+  <Medicine.description>Vård av sår och sjukdomar samt kirurgi.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>medicin</Medicine.skillLabel>
   
-  <!-- EN: melee -->
-  <Melee.skillLabel>närstrid</Melee.skillLabel>
   <!-- EN: melee -->
   <Melee.label>närstrid</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
-  <Melee.description>Använder alla typer av närstridsvapen, inkluderat obeväpnad strid.</Melee.description>
+  <Melee.description> Närstrid, med och utan vapen.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>närstrid</Melee.skillLabel>
   
-  <!-- EN: mining -->
-  <Mining.skillLabel>gruvarbete</Mining.skillLabel>
   <!-- EN: mining -->
   <Mining.label>gruvarbete</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
-  <Mining.description>Gräver tunnlar och bryter mineraler och utvinner resurser begravda under jorden.</Mining.description>
+  <Mining.description>Gräver tunnlar och utvinner resurser begravda under jorden.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>gruvarbete</Mining.skillLabel>
   
-  <!-- EN: plants -->
-  <Plants.skillLabel>odling</Plants.skillLabel>
   <!-- EN: plants -->
   <Plants.label>odling</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
   <Plants.description>Så, ta hand om och och skörda olika grödor. Samla förnödenheter under resor.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>odling</Plants.skillLabel>
   
-  <!-- EN: shooting -->
-  <Shooting.skillLabel>skytte</Shooting.skillLabel>
   <!-- EN: shooting -->
   <Shooting.label>skytte</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
-  <Shooting.description>Använder alla typer av avståndsvapen.</Shooting.description>
+  <Shooting.description>Skytte, med både hög- och låg- teknologiska vapen.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>skytte</Shooting.skillLabel>
   
-  <!-- EN: social -->
-  <Social.skillLabel>social</Social.skillLabel>
   <!-- EN: social -->
   <Social.label>social</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
   <Social.description>Förhandla, övertyga, manipulera, leda och muntra upp andra.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>social</Social.skillLabel>
   
 </LanguageData>

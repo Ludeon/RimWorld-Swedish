@@ -1,15 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: There are enemy turrets in this area. -->
-  <Turrets.arrivedLetter>Det finns fientliga kanontorn i detta område</Turrets.arrivedLetter>
-  <!-- EN: Enemy turrets -->
-  <Turrets.arrivedLetterLabel>Fientliga kanontorn</Turrets.arrivedLetterLabel>
-  <!-- EN: a ring of {0} enemy turrets defends the site -->
-  <Turrets.descriptionDialogue>En ring av {0} fientliga kanontorn försvarar platsen.</Turrets.descriptionDialogue>
   <!-- EN: turrets -->
   <Turrets.label>kanontorn</Turrets.label>
   <!-- EN: A group of turrets. -->
   <Turrets.description>Ett antal kanontorn.</Turrets.description>
+  <!-- EN: There are enemy turrets in this area. -->
+  <Turrets.arrivedLetter>Det finns fientliga kanontorn i detta område.</Turrets.arrivedLetter>
+  <!-- EN: {0} defend the site -->
+  <Turrets.descriptionDialogue>{0} försvarar platsen.</Turrets.descriptionDialogue>
+  
+  <!-- UNUSED -->
+  <Turrets.arrivedLetterLabel>UNUSED</Turrets.arrivedLetterLabel>
   
 </LanguageData>
