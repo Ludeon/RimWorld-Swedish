@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: haul -->
-  <Haul.label>släpa</Haul.label>
+  <Haul.label>frakta</Haul.label>
   <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
-  <Haul.description>Djuret kommer slumpmässigt släpa föremål då och då (även om det inte kan riktas att frakta specifika objekt.</Haul.description>
+  <Haul.description>Djuret kommer slumpmässigt frakta föremål då och då (även om det inte kan riktas att frakta specifika objekt.</Haul.description>
   
   <!-- EN: obedience -->
   <Obedience.label>lydnad</Obedience.label>
