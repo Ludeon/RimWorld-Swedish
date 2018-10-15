@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
@@ -118,8 +118,8 @@
 
   <!-- EN: Boredom -->
   <Boredom>Långtråkigt</Boredom>
-  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {1}:\n\n{2} -->
-  <BoredomDesc>Dessa kolonister har antingen behov av rekreation eller är beordrade till rektreation, men är uttråkad av alla tillgängliga rekreationsformer:\n\n{0}\n\nSkaffa dem lite mer varierade rekreation.\n\nNuvarande tillgängliga rekreationsområden för {1}:\n\n{2}</BoredomDesc>
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
+  <BoredomDesc>Dessa kolonister har antingen behov av rekreation eller är beordrade till rektreation, men är uttråkad av alla tillgängliga rekreationsformer:\n\n{0}\n\nSkaffa dem lite mer varierade rekreation.\n\nNuvarande tillgängliga rekreationsområden för {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries> Det behövs batterier</NeedBatteries>
@@ -152,9 +152,9 @@
   <ColonistNeedsTreatmentDesc>Dessa kolonister behöver medicinsk vård. Utan den riskerar de att dö från sina skador, eller att skadorna blir permanenta.\n\n{0}\nBehandla dem genom att ta kolonisten till en sjuksäng.\n\n(Först, avsätt en sjuksäng genom att markera valfri säng och ange att den ska vara en sjuksäng. Därefter, markera den skadade kolonisten och högerklicka på sjuksängen för att göra den till patient.)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
-  <AlertHypothermia>TODO</AlertHypothermia>
+  <AlertHypothermia>Hypotermi</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>Dessa kolonister lider av TODO.\n\n{0}\nSe till att deras kläder är lämpliga för årstiden och att rummen innomhus är tillräckligt uppvärmda.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>Dessa kolonister lider av hypotermi.\n\n{0}\nSe till att deras kläder är lämpliga för årstiden och att rummen innomhus är tillräckligt uppvärmda.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} patienter väntar på opereration</PatientsAwaitingMedicalOperation>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Audiovisuals -->
@@ -81,16 +81,6 @@
   <!-- EN: Fullscreen -->
   <Fullscreen>Fullskärm</Fullscreen>
 
-  <!-- Privacy -->
-  <!-- EN: Privacy -->
-  <Privacy>Integritet</Privacy>
-  <!-- EN: User name -->
-  <UserName>Användarnamn</UserName>
-  <!-- EN: Gameplay data upload pref. -->
-  <ChooseHistoryUploadPref> Preferens för uppladdning av speldata.</ChooseHistoryUploadPref>
-  <!-- EN: Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous. -->
-  <AboutHistoryUpload>Användarens speldata hjälper utvecklare att balansera spelet. Om du går med på det kommer din information att skickas varje {0} speldag (och i sällsynta fall, exempelvis vid slutet av ett spel) till RimWorlds server för analys. Uppladdad data består endast av statistik och speldata realterat till spelet - ingen personlig information skickas förutom användarnanmet, vilket betyder att det är helt anonymt.</AboutHistoryUpload>
-
   <!-- Mods -->
   <!-- EN: Select mod... -->
   <SelectMod>Välj modd...</SelectMod>
@@ -104,6 +94,10 @@
   <ResetAndRestart>Dina val har återställts. Spelet startas nu om automatiskt.</ResetAndRestart>
   
   <!-- UNUSED -->
+  <Privacy>Integritet</Privacy>
+  <UserName>Användarnamn</UserName>
+  <ChooseHistoryUploadPref> Preferens för uppladdning av speldata.</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Användarens speldata hjälper utvecklare att balansera spelet. Om du går med på det kommer din information att skickas varje {0} speldag (och i sällsynta fall, exempelvis vid slutet av ett spel) till RimWorlds server för analys. Uppladdad data består endast av statistik och speldata realterat till spelet - ingen personlig information skickas förutom användarnanmet, vilket betyder att det är helt anonymt.</AboutHistoryUpload>
   <MaxNumberOfPlayerHomes>UNUSED</MaxNumberOfPlayerHomes>
 
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
@@ -6,8 +6,8 @@
   <TabBills>Beställning</TabBills>
   <!-- EN: Growing -->
   <TabGrowing>Växer</TabGrowing>
-  <!-- EN: Story -->
-  <TabCharacter>Karaktär</TabCharacter>
+  <!-- EN: Bio -->
+  <TabCharacter>Biografi</TabCharacter>
   <!-- EN: Training -->
   <TabTraining>Träning</TabTraining>
   <!-- EN: Prisoner -->
@@ -40,6 +40,8 @@
   <TabLog>Logg</TabLog>
   <!-- EN: Caravan -->
   <TabFormingCaravan>Karavan</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>Innehåll</TabTransporterContents>
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -50,8 +52,8 @@
   <MinimumSkill>Min färdighet</MinimumSkill>
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>AVSTÄNGD</SuspendedCaps>
-  <!-- EN: Worker: {0} -->
-  <BoundWorkerIs>Arbetare: {0}</BoundWorkerIs>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>Arbetare: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>Plantera</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
@@ -157,7 +159,7 @@
   <!-- EN: Self-tend -->
   <SelfTend>Självbehandla</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>{0} med självbehandla aktiverat kommer automatiskt ta hand om sina egna sår med {1}s effektivitet.</SelfTendTip>
+  <SelfTendTip>{0} med självbehandla aktiverat kommer automatiskt ta hand om sina egna sår med {1} av normal effektivitet.</SelfTendTip>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
@@ -194,8 +196,8 @@
   <Trainability>Träningsförmåga</Trainability>
   <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>Kräver träningsbar intelligens {0}.</CannotTrainNotSmartEnough>
-  <!-- EN: {0} is too small to train this. -->
-  <CannotTrainTooSmall>{0} är för liten för att kunna träna detta.</CannotTrainTooSmall>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{1_labelShort} är för liten för att kunna träna detta.</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Förutsättning behövs: {0}</TrainingNeedsPrerequisite>
@@ -211,10 +213,10 @@
   <Slave>Slav</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>Fraktionens ledare</FactionLeader>
-  <!-- EN: Opinion of {0} -->
-  <OpinionOf>Åsikt om {0}</OpinionOf>
-  <!-- EN: {0}'s opinion of me -->
-  <SomeonesOpinionOfMe>{0}s åsikt om mig</SomeonesOpinionOfMe>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>Åsikt om {1_labelShort}</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>{1_labelShort}s åsikt om mig</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>Jag är död</IAmDead>
   <!-- EN: I'm a psychopath -->
@@ -259,6 +261,10 @@
   <FormingCaravanStatus_GatheringSlaves>Samlar slavar</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
   <FormingCaravanStatus_GatheringSlaves_Pause>Samlar slavar (väntar)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>Samlar däckade personer</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Samlar däckade personer (väntar)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>Lämnar</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
@@ -277,5 +283,11 @@
   <PackAnimalsCountLower>packdjur</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
   <InMentalStateCountLower>Mentalt nedbrutna</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>Ta bort {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>Vill du verkligen ta bort {0}?</ConfirmRemoveItemDialog>
 
 </LanguageData>

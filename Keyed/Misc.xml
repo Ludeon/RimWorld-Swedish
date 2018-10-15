@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Autosaving -->
@@ -82,7 +82,7 @@
   <CorpseLabel>{0} kadaver</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Död kropp av en {0}.</CorpseDesc>
-  <!-- EN: {0} (dead) -->
+  <!-- EN: {1_label} (dead) -->
   <DeadLabel>{0} (död)</DeadLabel>
 
   <!-- EN: rough {0} -->
@@ -111,10 +111,10 @@
   <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
 
-  <!-- EN: {0}'s {1} -->
-  <SomeonesRoom>{0}s {1}</SomeonesRoom>
-  <!-- EN: {0} and {1}'s {2} -->
-  <CouplesRoom>{0} och {1}s {2}</CouplesRoom>
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{PAWN_labelShort}s {1}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{PAWN1_labelShort} och {PAWN2_labelShort}s {2}</CouplesRoom>
   
   <!-- EN: (various) -->
   <VariousLabel>(diverse)</VariousLabel>
@@ -132,5 +132,5 @@
   <West>Väster</West>
   <!-- EN: East -->
   <East>Öster</East>
-
+  
 </LanguageData>

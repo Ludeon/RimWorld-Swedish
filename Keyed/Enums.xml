@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Glow -->
@@ -8,15 +8,7 @@
   <Lit>Upplyst</Lit>
   <!-- EN: Brightly lit -->
   <LitBrightly>Välbelyst</LitBrightly>
-  
-  <!-- History upload pref -->
-  <!-- EN: Undecided -->
-  <Unspecified>Obestämt</Unspecified>
-  <!-- EN: Allow -->
-  <Always>Tillåt</Always>
-  <!-- EN: Do not allow -->
-  <Never>Ej tillåtet</Never>
-  
+
   <!-- Price types -->
   <!-- EN: very cheap -->
   <PriceTypeVeryCheap>väldigt billigt</PriceTypeVeryCheap>
@@ -294,5 +286,10 @@
   <PsychicDroneLevel_BadHigh>hög</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
   <PsychicDroneLevel_BadExtreme>extrem</PsychicDroneLevel_BadExtreme>
+
+  <!-- UNUSED -->
+  <Unspecified>Obestämt</Unspecified>
+  <Always>Tillåt</Always>
+  <Never>Ej tillåtet</Never>
 
 </LanguageData>

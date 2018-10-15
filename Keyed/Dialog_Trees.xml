@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
   <FactionGreetingHostile>{0} häver ur sig ett par tillmälen mot skärmen och lägger på.</FactionGreetingHostile>
-  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of [PAWN_possessive] settlements or releasing [PAWN_possessive] faction's prisoners unharmed. Until then, [PAWN_pronoun] is unwilling to talk.\n\nMuttering an insult, [PAWN_pronoun] disconnects. -->
-  <FactionGreetingHostileAppreciative>{0} kräver att du utför en välvillighetsgest, såsom att ge bort gåvor till en av [PAWN_possessive] bosättningar eller släppa fångar från [PAWN_pronoun] oskadda. Fram tills dess är inte [PAWN_pronoun] villig att prata.\n\n[PAWN_pronoun] kopplar från, muttrandes en förolämpning.</FactionGreetingHostileAppreciative>
-  <!-- EN: {0} greets {1} warily asks what business you want to handle. -->
-  <FactionGreetingWary>{0} hälsar försiktigt på {1} och undrar vad [PAWN_pronoun] vill.</FactionGreetingWary>
-  <!-- EN: {0} greets {1} warmly and asks what [PAWN_pronoun] can do to help you. -->
-  <FactionGreetingWarm>{0} hälsar hjärtligt på {1} och undrar hur [PAWN_pronoun] kan hjälpa till.</FactionGreetingWarm>
+  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
+  <FactionGreetingHostileAppreciative>{0} kräver att du utför en välvillighetsgest, såsom att ge bort gåvor till en av {0_possessive} bosättningar eller släppa fångar från {0_possessive} oskadda. Fram tills dess är inte {0_pronoun} villig att prata.\n\n{0_pronoun} kopplar från, muttrandes en förolämpning.</FactionGreetingHostileAppreciative>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warily and asks what business you want to handle. -->
+  <FactionGreetingWary>{0} hälsar försiktigt på {NEGOTIATOR_labelShort} och undrar vad du vill.</FactionGreetingWary>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
+  <FactionGreetingWarm>{0} hälsar hjärtligt på {NEGOTIATOR_labelShort} och undrar hur {LEADER_pronoun} kan hjälpa till.</FactionGreetingWarm>
 
   <!-- EN: Disconnect -->
   <Disconnect>Koppla från</Disconnect>
@@ -60,5 +60,7 @@
   <MilitaryAidSent>{0} har bifallit din begäran och skickar militärunderstöd omgående.</MilitaryAidSent>
   <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
   <CantSendMilitaryAidInTime>{0} ber om ursäkt och säger att de inte kommer att kunna komma fram i tid.\n\n (Den här fraktionens teknik är för låg för transportkappslar)</CantSendMilitaryAidInTime>
+  <!-- EN: hostile visitors present -->
+  <HostileVisitorsPresent>fientliga besökare närvarande</HostileVisitorsPresent>
 
 </LanguageData>

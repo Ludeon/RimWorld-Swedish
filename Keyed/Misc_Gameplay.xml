@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- TODO Gå igenom filen-->
   <!-- Various -->
   <!-- EN: hit points -->
   <HitPointsBasic>träffpoäng</HitPointsBasic>
@@ -18,7 +17,7 @@
   <!-- EN: For colonist use -->
   <ForColonistUse>För användning av kolonister</ForColonistUse>
   <!-- EN: Medical -->
-  <MedicalBed>Medicin</MedicalBed>
+  <MedicalBed>Medicinsk</MedicalBed>
   <!-- EN: Owner -->
   <Owner>Ägare</Owner>
   <!-- EN: Owners -->
@@ -32,7 +31,7 @@
   <!-- EN: Unowned -->
   <Unowned>Oägd</Unowned>
   <!-- EN: Dead for {0} -->
-  <DeadTime>Död {0}</DeadTime>
+  <DeadTime>Död i {0}</DeadTime>
   <!-- EN: walk speed {0} -->
   <WalkSpeed>gånghastighet {0}</WalkSpeed>
   <!-- EN: fert. -->
@@ -50,17 +49,17 @@
   <!-- EN: fresh -->
   <FreshMissingBodyPart>färskt</FreshMissingBodyPart>
   <!-- EN: developed immunity -->
-  <DevelopedImmunityLower>utvecklad immunitet</DevelopedImmunityLower>
+  <DevelopedImmunityLower>utvecklat immunitet</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>Behöver behandling nu</NeedsTendingNow>
+  <NeedsTendingNow>Behöver vård nu</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>Kan behandla nu</CanTendNow>
+  <CanTendNow>Kan vårdas nu</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>Behandling utgår om {0}</TreatmentExpiresIn>
+  <TreatmentExpiresIn>Vård försvinner om {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>Kommer behöva behandling om {0}</NextTendIn>
+  <NextTendIn>Kan vårdas om {0}</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>Behandlingskvalitet</TendQuality>
+  <TendQuality>Vårdkvalitet</TendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>ingen {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
@@ -74,7 +73,7 @@
   <!-- EN: Apparel -->
   <Apparel>Kläder</Apparel>
   <!-- EN: Inventory -->
-  <Inventory>Förråd</Inventory>
+  <Inventory>Packning</Inventory>
   <!-- EN: Information -->
   <ThingInfo>Information</ThingInfo>
   <!-- EN: Drop -->
@@ -94,11 +93,11 @@
   <!-- EN: Power -->
   <PowerSwitch_Power>Effekt</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>Glädje tolerans</JoyTolerances>
+  <JoyTolerances>TODO</JoyTolerances>
   <!-- EN: Milk fullness -->
   <MilkFullness>Mjölkfyllnad</MilkFullness>
   <!-- EN: Wool growth -->
-  <WoolGrowth>Yllelägd</WoolGrowth>
+  <WoolGrowth>Ullmängd</WoolGrowth>
   <!-- EN: Egg progress -->
   <EggProgress>Äggutveckling</EggProgress>
   <!-- EN: Fertilized -->
@@ -114,27 +113,27 @@
   <!-- EN: Ruined by temperature. -->
   <RuinedByTemperature>Förstört av temperatur.</RuinedByTemperature>
   <!-- EN: Missing body parts -->
-  <CorpsePercentMissing>Saknad kroppsdel</CorpsePercentMissing>
+  <CorpsePercentMissing>Saknade kroppsdelar</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>Fortplantning inom</HiveReproducesIn>
+  <HiveReproducesIn>Reproducerar om</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>Vilande, fortplantas ej.</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>Vilande: reproducerar ej.</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>Nästa {0} in</NextSpawnedItemIn>
+  <NextSpawnedItemIn>Nästa {0} om</NextSpawnedItemIn>
   <!-- EN: Broken down -->
   <BrokenDown>Nedbruten</BrokenDown>
   <!-- EN: (bond) -->
   <BondBrackets>(band)</BondBrackets>
   <!-- EN: Fuel -->
-  <Fuel>Drivmedel</Fuel>
+  <Fuel>Bränsle</Fuel>
   <!-- EN: Fuel -->
-  <FuelLevelGizmoLabel>Drivmedel</FuelLevelGizmoLabel>
+  <FuelLevelGizmoLabel>Bränsle</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>Sätt drivmedelnivå till {0}</SetTargetFuelLevel>
+  <SetTargetFuelLevel>Sätt bränslenivå till {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>Sätt drivmedelnivå till {0}\nMax räckvidd: {1} rutor</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Sätt bränslenivå till {0}\nMax räckvidd: {1} rutor</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel>Drivmedelnivå: {0}</ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>Bränslenivå: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>fiender</Enemies>
   <!-- EN: time passed -->
@@ -156,17 +155,17 @@
   <!-- EN: Estimated days to arrive: {0} -->
   <CaravanEstimatedDaysToDestination>Est. dagar att komma fram: {0}</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
-  <CaravanImmobilizedByMass>Immobil: alltför mycket vikt.</CaravanImmobilizedByMass>
+  <CaravanImmobilizedByMass>Imobiliserad: alltför mycket vikt.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
   <CaravanOutOfFood>Slut på mat.</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
-  <CaravanDaysOfFood>Dagar av mat: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFood>Dagsransoner: {0}</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
   <CaravanDaysOfFoodRot>Dagsransoner: {0}, ruttnar om {1} dagar</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
   <AllCaravanMembersDowned>Stannade på grund av: alla är avsvimmade.</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone has a mental break. -->
-  <AllCaravanMembersMentalBreak>Stannade på grund av: alla fick ett mentalt bryt.</AllCaravanMembersMentalBreak>
+  <AllCaravanMembersMentalBreak>Stannade på grund av: alla fick ett nervsammanbrott.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
   <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
   <!-- EN: 1 animal -->
@@ -180,11 +179,9 @@
   <!-- EN: {0} in mental state -->
   <CaravanPawnsInMentalState>{0} i mentalt tillstånd</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
-  <CaravanPawnsDowned>{0} nere</CaravanPawnsDowned>
+  <CaravanPawnsDowned>{0} däckad</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
   <CaravanTraveling>Reser.</CaravanTraveling>
-  <!-- EN: Resting. -->
-  <CaravanPaused>Vilar.</CaravanPaused>
   <!-- EN: Waiting. -->
   <CaravanWaiting>Väntar.</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
@@ -192,59 +189,59 @@
   <!-- EN: Using bedrolls due to illness -->
   <UsingBedrollsDueToIllness>Använder sovsäckar på grund av sjukdom</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
-  <CurrentTileMovementTime>Nuvarande rörelsetid rutor</CurrentTileMovementTime>
+  <CurrentTileMovementTime>Nuvarande rutas förflyttningshastighet</CurrentTileMovementTime>
   <!-- EN: Visibility -->
   <Visibility>Synlighet</Visibility>
   <!-- EN: Temperature -->
   <Temperature>Temperatur</Temperature>
   <!-- EN: bad temperature -->
-  <BadTemperature>Dålig temperatur</BadTemperature>
+  <BadTemperature>dålig temperatur</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
   <IdealFermentingTemperature>Idealisk jäsningstemperatur</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>{0} effekt multiplikator</DrugEffectMultiplier>
+  <DrugEffectMultiplier>{0} effektmultiplikator: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
   <CaravanVisiting>Besöker {0}.</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>Går in till {0}.</CaravanEntering>
+  <CaravanEntering>Går in i {0}.</CaravanEntering>
   <!-- EN: Attacking {0}. -->
   <CaravanAttacking>Attackerar {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Erbjudande gåvor till {0}.</CaravanOfferingGifts>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Var buret av ett lik.</WasWornByCorpse>
+  <WasWornByCorpse>Fördärvat eftersom detburits av ett lik.</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>D</WornByCorpseChar>
+  <WornByCorpseChar>F</WornByCorpseChar>
   <!-- EN: unroofed -->
   <DeterioratingUnroofed>utan tak</DeterioratingUnroofed>
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>utomhus</DeterioratingOutdoors>
   <!-- EN: Deteriorating because of -->
-  <DeterioratingBecauseOf>Försvagas på grund av</DeterioratingBecauseOf>
+  <DeterioratingBecauseOf>Försämras på grund av</DeterioratingBecauseOf>
   <!-- EN: Map -->
   <Map>Karta</Map>
   <!-- EN: {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown>{0} timmar tills dom lämnar</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdown>{0} till avfärd</ForceExitAndRemoveMapCountdown>
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>Dina kolonisatörer automatiskt ombilda karavanen och lämna detta område efter {0} timmar.</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>Dina kolonister kommer automatiskt återförena karavanen och lämna detta område om {0} .</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
   <Room>Rum</Room>
   <!-- EN: Beauty here -->
   <BeautyHere>Skönhet här</BeautyHere>
   <!-- EN: No power -->
-  <NoPower>Ingen ström</NoPower>
+  <NoPower>Ingen el</NoPower>
   <!-- EN: Work speed penalty -->
-  <WorkSpeedPenalty>Försämring av arbetshastigheten</WorkSpeedPenalty>
+  <WorkSpeedPenalty>Arbetshastighetspåverkan</WorkSpeedPenalty>
   <!-- EN: DISABLED -->
   <DisabledCommand>INAKTIVERAD</DisabledCommand>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>Redo för avfyring.</ReadyForLaunch>
+  <ReadyForLaunch>Redo för uppskjutning.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>Ej redo för avfyring</NotReadyForLaunch>
+  <NotReadyForLaunch>Ej redo för uppskjutning</NotReadyForLaunch>
   <!-- EN: no fueling port -->
-  <NotAllInGroupConnectedToFuelingPort>ingen bränslepåfyllning port</NotAllInGroupConnectedToFuelingPort>
+  <NotAllInGroupConnectedToFuelingPort>ingen bränsleport</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>ingen bränsle</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>inget bränsle</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
   <TransportPodInGroupHasSomethingLeftToLoad>lastning pågår</TransportPodInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
@@ -252,41 +249,41 @@
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>Inte tillräckligt med bränsle</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>{0} of {1}</SettlementTrader>
+  <SettlementTrader>{0} av {1}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
-  <RoomSurgerySuccessChanceFactor>Rummets förbättringschans för en lyckad operation</RoomSurgerySuccessChanceFactor>
+  <RoomSurgerySuccessChanceFactor>TODO</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
-  <RoomInfectionChanceFactor>Rummets förbättringschans för en lyckad infektionsbehandling</RoomInfectionChanceFactor>
+  <RoomInfectionChanceFactor>TODO</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
   <VentClosed>Stängd</VentClosed>
-  <!-- EN: worn by {0} -->
-  <WornBy>buren av {0}</WornBy>
-  <!-- EN: equipped by {0} -->
-  <EquippedBy>utrustad av {0}</EquippedBy>
-  <!-- EN: {0} wants this destroyed.\n    Reward: {1}. -->
-  <QuestTargetDestroyInspectString>{0} vill ha detta förstört.\n    Belöning: {1}.</QuestTargetDestroyInspectString>
+  <!-- EN: worn by {1_labelShort} -->
+  <WornBy>buren av {1_labelShort}</WornBy>
+  <!-- EN: equipped by {1_labelShort} -->
+  <EquippedBy>bärs av {1_labelShort}</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
+  <QuestTargetDestroyInspectString>{0} vill ha detta förstört.\n    Belöning: {1} ({2}).</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Tid kvar: {0}</WorldObjectTimeout>
-  <!-- EN: Contents: {0} -->
+  <!-- EN: Contents: {0} ({1}) -->
   <ItemStashContents>Innehåll: {0}.</ItemStashContents>
   <!-- EN: Click to sort by this column. -->
   <ClickToSortByThisColumn>Klicka för att sortera denna kolumn.</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
-  <WorkPriorityShiftClickTip>Shift + klick: Öka Prioritet\nShift + Höger Klick: Minska prioritet</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickTip>Shift + klick: Öka Prioritet\nShift + Högerklick: Minska prioritet</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
-  <WorkPriorityShiftClickEnableDisableTip>Shift + klick: Aktivera alla\nShift + höger klick: Inaktivera alla</WorkPriorityShiftClickEnableDisableTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + klick: Aktivera alla\nShift + högerklick: Inaktivera alla</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
-  <AllowedAreaShiftClickTip>Shift + klick: Sätt alla till hem\nShift + höger klick: Sätt alla till obegränsad</AllowedAreaShiftClickTip>
+  <AllowedAreaShiftClickTip>Shift + klick: Sätt alla till hem\nShift + högerklick: Sätt alla till obegränsad</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
-  <CheckboxShiftClickTip>Shift + klick: Markera alla\nShift + höger klick: Avmarkera alla</CheckboxShiftClickTip>
+  <CheckboxShiftClickTip>Shift + klick: Markera alla\nShift + högerklick: Avmarkera alla</CheckboxShiftClickTip>
   <!-- EN: Known threat: {0} -->
-  <KnownSiteThreat>Hot: {0}.</KnownSiteThreat>
+  <KnownSiteThreat> Kännt hot: {0}.</KnownSiteThreat>
   <!-- EN: Known threats: {0} -->
-  <KnownSiteThreats>Hot: {0}.</KnownSiteThreats>
-  <!-- EN: Known threats: None -->
-  <KnownSiteThreatsNone>Hot: inga.</KnownSiteThreatsNone>
+  <KnownSiteThreats>Kända hot: {0}.</KnownSiteThreats>
+  <!-- EN: Threats: Unknown -->
+  <KnownSiteThreatsNone>Hot: Okänt.</KnownSiteThreatsNone>
   <!-- EN: Skill Requirements -->
-  <SkillRequirements>färdighetskrav</SkillRequirements>
+  <SkillRequirements>Färdighetskrav</SkillRequirements>
   <!-- EN: Products -->
   <Products>Produkter</Products>
   <!-- EN: {0} of {1} -->
@@ -296,13 +293,13 @@
   <!-- EN: Refugee -->
   <Refugee>Flykting</Refugee>
   <!-- EN: Terrain movement difficulty -->
-  <TileMovementDifficulty>Terängens förflyttningsvårighetgrad</TileMovementDifficulty>
+  <TileMovementDifficulty>Terängens svårighet vid förflyttning</TileMovementDifficulty>
   <!-- EN: Impassable -->
   <Impassable>Oframkomlig</Impassable>
   <!-- EN: Caravan movement speed -->
   <CaravanMovementSpeedFull>Karavanens förflyttningshastighet</CaravanMovementSpeedFull>
   <!-- EN: downed -->
-  <DownedLower>nere</DownedLower>
+  <DownedLower>däckad</DownedLower>
   <!-- EN: carried -->
   <Carried>buren</Carried>
   <!-- EN: Avg. person move speed -->
@@ -310,7 +307,7 @@
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Multiplikator för buren vikt: {0}</MultiplierForCarriedMass>
   <!-- EN: Caravan members speed -->
-  <FinalCaravanPawnsMovementSpeed>Karavanens medlemmars hastighet</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanPawnsMovementSpeed>Karavanmedlemmars hastighet</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
   <FinalCaravanMovementSpeed>Slutgiltlig hastighet</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
@@ -323,8 +320,8 @@
   <NoDietCategoryLetter>Inget brev</NoDietCategoryLetter>
   <!-- EN: Expires in -->
   <ExpiresIn>Går ut om</ExpiresIn>
-  <!-- EN: {0}'s caravan -->
-  <CaravanLeaderCaravanName>{0}'s karavan</CaravanLeaderCaravanName>
+  <!-- EN: {1_labelShort}'s caravan -->
+  <CaravanLeaderCaravanName>{1_labelShort}s karavan</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
   <Reason>Anledning</Reason>
   <!-- EN: Relations with {0} -->
@@ -334,21 +331,31 @@
   <!-- EN: your caravan -->
   <yourCaravan>din karavan</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>{0} vildmark</CreatureWildness>
+  <CreatureWildness>{0} vildhet</CreatureWildness>
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} träningsförmåga</CreatureTrainability>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} med {1}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
-  <EnterCooldown>Du kan inte återända på ytterligare {0} dagar.</EnterCooldown>
+  <EnterCooldown>Du kan inte återvända på ytterligare {0} dagar.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>Karavan</Caravan>
   <!-- EN: there may be danger there -->
-  <HiddenOrNoSitePartDescription>det kan finnas fara där</HiddenOrNoSitePartDescription>
+  <HiddenOrNoSitePartDescription>det kan finnas faror där</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>klump av {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>inget aktivt forskningsprojekt</NoActiveResearchProjectToFinish>
+  <!-- EN: turret -->
+  <Turret>torn</Turret>
+  <!-- EN: turrets -->
+  <Turrets>torn</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>granatkastare</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>granatkastare</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>fiende</Enemy>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
@@ -358,9 +365,9 @@
   <!-- EN: Fermented -->
   <Fermented>Jäst</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
-  <FermentationProgress>Utveckling: {0} (färdigt inom {1}).</FermentationProgress>
+  <FermentationProgress>Process: {0} ({1} kvar).</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>Ej ideal temperatur. Jäshastighets-multiplikator: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>Ej ideal temperatur. Jäshastighet: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
@@ -370,7 +377,7 @@
   <!-- EN: Treatment failed\n{0} chance -->
   <TextMote_TreatFailed>Behandling misslyckades\n{0} chans</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
-  <TextMote_HarvestFailed>Skörda\nmisslyckades</TextMote_HarvestFailed>
+  <TextMote_HarvestFailed>Skörd\ntillklantad</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
   <TextMote_YieldWasted>Skörd\nförlorad</TextMote_YieldWasted>
   <!-- EN: Product\nwasted -->
@@ -388,17 +395,17 @@
   <!-- EN: Trained: {0}\n{1} chance -->
   <TextMote_TrainSuccess>Tränad: {0}\n{1} chans</TextMote_TrainSuccess>
   <!-- EN: Repair\nbotched -->
-  <TextMote_FixBrokenDownBuildingFail>Reparation\nmisslyckades</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_FixBrokenDownBuildingFail>Reparation\ntillklantad</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
-  <TextMote_ConstructionFail>Konstruktion\nmisslyckades</TextMote_ConstructionFail>
+  <TextMote_ConstructionFail>Konstruktion\ntillklantad</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
   <TextMote_Dodge>Ducka</TextMote_Dodge>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>{0} behandlad</TextMote_Tended>
+  <TextMote_Tended>{0} vårdad</TextMote_Tended>
   <!-- EN: low mood -->
   <lowMood>dåligt humör</lowMood>
   <!-- EN: low opinion -->
-  <lowOpinion>dålig åsikt om</lowOpinion>
+  <lowOpinion>låg uppfattning</lowOpinion>
 
   <!-- Areas -->
   <!-- EN: Home -->
@@ -408,7 +415,7 @@
   <!-- EN: No roof -->
   <NoRoof>Inget tak</NoRoof>
   <!-- EN: Snow clear -->
-  <SnowClear>Snö skottad</SnowClear>
+  <SnowClear>Snöskottning</SnowClear>
   <!-- EN: Area {0} -->
   <AreaDefaultLabel>Område {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
@@ -420,13 +427,13 @@
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>kan inte beordra en icke-kontrollerad enhet.</CannotOrderNonControlled>
-  <!-- EN: {0} is incapable of violence. -->
-  <IsIncapableOfViolence>{0} är inte kapabel till våld.</IsIncapableOfViolence>
+  <CannotOrderNonControlled>Kan inte beordra karaktärer du inte kontrollerar.</CannotOrderNonControlled>
+  <!-- EN: {1_labelShort} is incapable of violence. -->
+  <IsIncapableOfViolence>{1_labelShort} är pacifist.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>ej kababel till våld</IsIncapableOfViolenceShort>
-  <!-- EN: {0} is not drafted. -->
-  <IsNotDrafted>{0} är inte kommenderad.</IsNotDrafted>
+  <IsIncapableOfViolenceShort>pacifist</IsIncapableOfViolenceShort>
+  <!-- EN: {1_labelShort} is not drafted. -->
+  <IsNotDrafted>{1_labelShort} är inte kommenderad.</IsNotDrafted>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -446,39 +453,39 @@
   <!-- EN: Minimum range -->
   <MinimumRange>Minimal räckvidd</MinimumRange>
   <!-- EN: Can fire in -->
-  <CanFireIn>Kan skjuta inom</CanFireIn>
+  <CanFireIn>Kan skjuta om</CanFireIn>
   <!-- EN: Cannot fire -->
-  <CannotFire>kan inte skjuta</CannotFire>
+  <CannotFire>Kan inte skjuta</CannotFire>
   <!-- EN: roofed -->
   <Roofed>takbelagt</Roofed>
-  <!-- EN: Shell loaded: {0} -->
-  <ShellLoaded>Granat laddad</ShellLoaded>
+  <!-- EN: Shell loaded: {1_label} -->
+  <ShellLoaded>Granat laddad: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Ej laddad</ShellNotLoaded>
 
   <!-- Job reports -->
-  <!-- EN: hauling {0} to {1}. -->
-  <ReportHaulingTo>Fraktar {0} till {1}.</ReportHaulingTo>
-  <!-- EN: hauling {0}. -->
-  <ReportHauling>Fraktar {0}.</ReportHauling>
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
+  <ReportHaulingTo>fraktar {THING_label} till {DESTINATION}.</ReportHaulingTo>
+  <!-- EN: hauling {1_label}. -->
+  <ReportHauling>fraktar {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>fraktar.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
-  <ReportSleeping>Sover.</ReportSleeping>
+  <ReportSleeping>sover.</ReportSleeping>
   <!-- EN: resting. -->
-  <ReportResting>Vilar.</ReportResting>
+  <ReportResting>vilar.</ReportResting>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>Tittar på soluppgången</WatchingSunrise>
+  <WatchingSunrise>tittar på soluppgången</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>Tittar på moln</CloudWatching>
+  <CloudWatching>tittar på moln</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>Tittar på solnedgången</WatchingSunset>
+  <WatchingSunset>tittar på solnedgången</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>Tittar på stjärnorna</Stargazing>
+  <Stargazing>stjärnskådar</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>Tittar på solförmörkelse</WatchingEclipse>
+  <WatchingEclipse>Tittar på solförmörkelsen</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>tittar på norrsken</WatchingAurora>
+  <WatchingAurora>tittar på norrskenet</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>använder {0} på {1}.</UsingVerb>
   <!-- EN: area -->
@@ -488,15 +495,15 @@
   <!-- EN: standing. -->
   <ReportStanding>står.</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>släcker eld.</ReportExtinguishingFire>
-  <!-- EN: extinguishing fire on {0}. -->
-  <ReportExtinguishingFireOn>släcker eld i {0}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFire>släcker eldsvåda.</ReportExtinguishingFire>
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
+  <ReportExtinguishingFireOn>släcker eldsvåda på {TARGET_label}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>gräver upp lik.</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>Är på bröllopscermoni</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>Närvarar vid bröllopscermoni</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
   <LordReportAttendingParty>Är på fest</LordReportAttendingParty>
   <!-- EN: Forming caravan -->
@@ -519,8 +526,8 @@
   <Weather>Väder</Weather>
   <!-- EN: Cover -->
   <ShootingCover>Skydd</ShootingCover>
-  <!-- EN: {0} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{0} stoppar {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: {COVER_label} stops {1} -->
+  <CoverThingBlocksPercentOfShots>{COVER_label} stoppar {1}</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>inget skydd</NoCoverLower>
   <!-- EN: Execution -->
@@ -542,11 +549,11 @@
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
-  <ThoughtExpiresIn>Går ut om: {0}</ThoughtExpiresIn>
+  <ThoughtExpiresIn>Upphör om: {0}</ThoughtExpiresIn>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>Börjar gå ut om: {0}</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>Börjar upphöra om: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>Har gått ut om: {0}</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>Slutar upphöra om: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>Extrem sammanbrottsgräns</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
@@ -555,28 +562,28 @@
   <MentalBreakThresholdMinor>Mindre sammanbrottsgräns</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
-  <!-- EN: {0} {1} -->
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <!-- EN: {PAWN_gender} {1} -->
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} av {1}</PawnMainDescFactionedWrap>
-  <!-- EN: {1} {0} -->
-  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <!-- EN: {2_lifeStageAdjective} {0} -->
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Fraktion</Faction>
   <!-- EN: Equipped -->
-  <Equipped>Utrustat</Equipped>
+  <Equipped>Utrustad</Equipped>
   <!-- EN: nothing -->
-  <EquippedNothing>Ingenting</EquippedNothing>
+  <EquippedNothing>ingenting</EquippedNothing>
   <!-- EN: Dead -->
   <Dead>Död</Dead>
   <!-- EN: Unconscious -->
-  <Unconscious>Avsvimmad</Unconscious>
+  <Unconscious>Medvetslös</Unconscious>
   <!-- EN: In shock due to pain -->
   <PainShock>I chock på grund av smärta</PainShock>
   <!-- EN: Pain shock -->
   <PainShockShort>Smärtshock</PainShockShort>
   <!-- EN: Incapacitated -->
-  <Incapacitated>Oförmögen</Incapacitated>
+  <Incapacitated>Handlingsförlamad</Incapacitated>
   <!-- EN: In restraints (slowed) -->
   <InRestraints>I handbojor (nedsaktad)</InRestraints>
   <!-- EN: Carrying -->
@@ -588,7 +595,7 @@
   <!-- EN: State -->
   <State>Tillstånd</State>
   <!-- EN: stun -->
-  <StunLower>bedövad</StunLower>
+  <StunLower>bedöva</StunLower>
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
@@ -608,13 +615,13 @@
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
-  <PowerNotConnected>Ingen anslutning till ström.</PowerNotConnected>
-  <!-- EN: Connected rate/stored: {0} W / {1} Wd -->
-  <PowerConnectedRateStored>Ansluten takt/lagrad: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerNotConnected>Ingen elanslutning.</PowerNotConnected>
+  <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
+  <PowerConnectedRateStored>TODO {0} W / {1} Wd</PowerConnectedRateStored>
   <!-- EN: Power needed -->
-  <PowerNeeded>Behöver ström</PowerNeeded>
+  <PowerNeeded>Behöver el</PowerNeeded>
   <!-- EN: Power output -->
-  <PowerOutput>Strömproduktion</PowerOutput>
+  <PowerOutput>Elproduktion</PowerOutput>
   <!-- EN: Stored -->
   <PowerBatteryStored>Lagrat</PowerBatteryStored>
   <!-- EN: Efficiency -->
@@ -626,17 +633,17 @@
   <!-- EN: Target temperature -->
   <TargetTemperature>Måltemperatur</TargetTemperature>
   <!-- EN: Current power use -->
-  <PowerConsumptionMode>Nuvarande Effektanvändning</PowerConsumptionMode>
+  <PowerConsumptionMode>Nuvarande elanvändning</PowerConsumptionMode>
   <!-- EN: high -->
-  <PowerConsumptionHigh>Hög</PowerConsumptionHigh>
+  <PowerConsumptionHigh>hög</PowerConsumptionHigh>
   <!-- EN: low -->
-  <PowerConsumptionLow>Låg</PowerConsumptionLow>
+  <PowerConsumptionLow>låg</PowerConsumptionLow>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
   <Indoors>Inomhus</Indoors>
   <!-- EN: Unroofed -->
-  <IndoorsUnroofed>Ej tak</IndoorsUnroofed>
+  <IndoorsUnroofed>Taklös</IndoorsUnroofed>
   <!-- EN: Outdoors -->
   <Outdoors>Utomhus</Outdoors>
 
@@ -648,23 +655,23 @@
   <!-- EN: Dessicated -->
   <RotStateDessicated>Uttorkad</RotStateDessicated>
   <!-- EN: Frozen (won't spoil) -->
-  <CurrentlyFrozen>Frusen (kommer ej förstöras)</CurrentlyFrozen>
+  <CurrentlyFrozen>Fryst (kommer ej ruttna)</CurrentlyFrozen>
   <!-- EN: Refrigerated (spoils in {0}) -->
-  <CurrentlyRefrigerated>Kylt (förstörs om {0})</CurrentlyRefrigerated>
+  <CurrentlyRefrigerated>Kylt (ruttnar om {0})</CurrentlyRefrigerated>
   <!-- EN: Not refrigerated (spoils in {0}) -->
-  <NotRefrigerated>Ej kylt (förstörs om {0})</NotRefrigerated>
+  <NotRefrigerated>Ej kylt (ruttnar om {0})</NotRefrigerated>
   <!-- EN: over a decade -->
   <OverADecade>över ett årtionde</OverADecade>
   <!-- EN: less than a day -->
   <LessThanADay>mindre än en dag</LessThanADay>
 
   <!-- Shooting tooltip -->
-  <!-- EN: Shot by {0} -->
-  <ShotBy>Skjuten av {0}</ShotBy>
+  <!-- EN: Shot by {1_labelShort} -->
+  <ShotBy>Skjuten av {1_labelShort}</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>Kan inte träffa mål.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>Mäniskojägare chans per träff</ManhunterPerHit>
+  <ManhunterPerHit>Mäniskojägarchans per träff</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->
@@ -674,23 +681,23 @@
   <!-- EN: {0} grown -->
   <PercentGrowth>{0}% tillväxt</PercentGrowth>
   <!-- EN: Growth rate -->
-  <GrowthRate>tillväxt</GrowthRate>
+  <GrowthRate>tillväxthastighet</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
-  <FullyGrownIn>Fullt tillväxt om {0} av tillväxt.</FullyGrownIn>
+  <FullyGrownIn>Fullt tillväxt om {0} av tillväxten.</FullyGrownIn>
   <!-- EN: Needs light level -->
-  <PlantNeedsLightLevel>Behöver ljus nivå</PlantNeedsLightLevel>
+  <PlantNeedsLightLevel>Behöver ljusnivå</PlantNeedsLightLevel>
   <!-- EN: Resting -->
   <PlantResting>Vilar</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>Utanför ideal temperaturnivå (växer {0}% av normal hastighet)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>Ej ideal temperatur (växer med {0}% av normal hastighet)</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>Utanför ideal temperaturnivå (växer ej)</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>Utanför ideal temperatur. Växer inte.</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
-  <ReadyToHarvest>Redo för skörd.</ReadyToHarvest>
+  <ReadyToHarvest>Redo att skördas.</ReadyToHarvest>
   <!-- EN: Mature. -->
   <Mature>Mogen.</Mature>
   <!-- EN: Growing period -->
-  <OutdoorGrowingPeriod>Växtperiod: {0}</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>Växtperiod</OutdoorGrowingPeriod>
   <!-- EN: Never -->
   <NoGrowingPeriod>Aldrig</NoGrowingPeriod>
   <!-- EN: Year-round -->
@@ -700,7 +707,7 @@
   <!-- EN: Cannot grow (bad seasonal temperature). -->
   <CannotGrowBadSeasonTemperature>Kan inte växa (dålig säsongstemperatur).</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
-  <Blighted>Förödelse</Blighted>
+  <Blighted>Angripen av mjöldagg</Blighted>
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>Döende för att den utsatts för ljus</DyingBecauseExposedToLight>
 
@@ -708,9 +715,9 @@
   <!-- EN: Zone -->
   <Zone>Zon</Zone>
   <!-- EN: Growing zone -->
-  <GrowingZone>Växtzon</GrowingZone>
+  <GrowingZone>Odlingsyta</GrowingZone>
   <!-- EN: Stockpile zone -->
-  <Stockpile>Förråd</Stockpile>
+  <Stockpile>Lager</Stockpile>
   <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>Dumpingsplats</DumpingStockpile>
   <!-- EN: Priority -->
@@ -738,17 +745,17 @@
   <!-- EN: Toggle visiblity of zones. -->
   <ZoneVisibilityToggleButton>Växla synlightet av zoner.</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>Växla skönhetsvy.\n\nVisa skönheten i världen som skulle uppfattas av en karaktär som står där musen pekar.</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>Växla skönhetsvy.\n\nVisa skönheten i världen som den skulle uppfattas av en karaktär som står där musen pekar.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
   <ShowRoomStatsToggleButton>Växla rumsvy.\n\nVisa rumsstatistik för rummet där musen pekar.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>Växlar kolonistfältet.\n\nVisar ikoner och grundläggande status för alla kolonister överst på sidan.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>Växlar kolonistfältet.\n\nVisar ikoner och grundläggande status för alla kolonister överst på sidan.\n\nDu kan ändra ordningen på dina kolonister genom att högerklicka och dra.</ShowColonistBarToggleButton>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
   <AutoHomeAreaToggleButton>Växlar att automatiskt expandera hemområdet runt nya konstruktioner.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>Växla automatiskt ombyggnad av förstörda strukturer i hemområdet.</AutoRebuildButton>
+  <AutoRebuildButton>Växlar automatiskt återbyggnation av förstörda konstruktioner i hemområdet.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>Växlar kategorisering vy av resurslistan överst till vänster.</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>Växlar kategoriseringsvy av resurslistan.</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
   <ShowAnimalNamesToggleButton>Växlar visa namn på tama djur.</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
@@ -763,10 +770,8 @@
   <ShowWorldFeaturesToggleButton>Byt synlighet av namn på landformationer.</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
-  <!-- EN: Fire -->
-  <Fire>Brand</Fire>
-  <!-- EN: Fire on {0} -->
-  <FireOn>Brand på {0}</FireOn>
+  <!-- EN: fire on {1_label} -->
+  <FireOn>Eldsvåda på {0}</FireOn>
   <!-- EN: Burning -->
   <Burning>Brinner</Burning>
   <!-- EN: fire size {0} -->
@@ -778,7 +783,7 @@
   <!-- EN: time left -->
   <TimeLeft>tid kvar</TimeLeft>
   <!-- EN: impact date -->
-  <ImpactDate>påverkar datum</ImpactDate>
+  <ImpactDate>påverkarnsdatum</ImpactDate>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
@@ -786,15 +791,15 @@
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>kommer att ha reducerad arbetshastighet</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>{0} få reducerad arbetshastighet</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Kan inte placeras under ett tak.</MustPlaceUnroofed>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Måste placeras med huvudet fäst mot skeppets strukturella balk.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Måste placeras bredvid något som behöver en tratt.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Måste placeras bredvid något som behöver en foderapparat.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>Måste placeras på en ånggejser.</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>Måste placeras på en gejser.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
   <MustPlaceCoolerWithFreeSpaces>Både den varma och den kalla sidan av kylaren måste vara exponerad.</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
@@ -805,7 +810,9 @@
   <MustPlaceNearFuelingPort>Måste vara placerad jämte avskjutningsrampens bränsleuttag.</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
   <MustPlaceOnDrillable>Måste placeras på borrbara resurser.</MustPlaceOnDrillable>
-  
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>Kan ej placeras bredvid fällor.</CannotPlaceAdjacentTrap>
+
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
   <WindTurbine_WindPathIsBlockedBy>Blockerad av</WindTurbine_WindPathIsBlockedBy>
@@ -819,8 +826,8 @@
   <!-- Cryptosleep casket -->
   <!-- EN: Contains -->
   <CasketContains>Innehåller</CasketContains>
-  <!-- EN: Warning!\n\n[PAWN_nameDef] is your last free-standing colonist! If you let [PAWN_objective] step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>Varning!\n\n[PAWN_nameDef] är din sista fristående kolonist! Om du låter [PAWN_objective] gå in i kistan kommer du inte kunna fortsätta spela. Är du säker på att du vill fullfölja?</CasketWarning>
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <CasketWarning>Varning!\n\n{PAWN_nameDef} är din sista fristående kolonist! Om du låter {PAWN_objective} gå in i den kapseln kommer du inte kunna fortsätta spela. Är du säker på att du vill fullfölja?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
@@ -832,23 +839,23 @@
   <!-- EN: requires -->
   <ShipReportMissingPartRequires>kräver</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
-  <ShipReportNoFullPods>Inga fulla cryptosömnkapslar</ShipReportNoFullPods>
+  <ShipReportNoFullPods>Inga fyllda kryptosömnkapslar</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
   <ShipReportHibernating>Hibernerande komponenter</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
-  <ShipReportNotReady>Komponent ännu inte klar</ShipReportNotReady>
+  <ShipReportNotReady>Komponent är inte klar än</ShipReportNotReady>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>Charlon Whitestone är redo att starta reaktorns vilolägesåterställningssekvens. Han varnar dig för att processen tar cirka 15 dagar och energiresignaturen kommer att kunna detekteras från ett långt avstånd.\n\nDenna typen av energiresignatur indikerar interstellär flygningskapacitet och kommer att locka gäng av desperata raiders och svärmar av dödliga mekanoider. Du kommer att bli överfallen med en intensitet som du aldrig sett. Se till att dina försvar är förberedda först.</HibernateWarning>
+  <HibernateWarning>Charlon Whitestone är redo att starta reaktorns vilolägesåterställningssekvens.\n\n Han varnar dig för att processen tar cirka 15 dagar och energiresignaturen kommer att kunna detekteras från ett långt avstånd.\n\nDenna typ av energiresignatur indikerar interstellär flygkapacitet och kommer att locka till sig grupper av desperata banditer och svärmar av dödliga mekanoider.\n\n Du kommer att bli överfallen med en intensitet som du aldrig sett tidigare. Se till att dina försvar är förberedda först.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>Reaktorn är klar att starta upp.\n\n Processen tar cirka 15 dagar, och energiresignaturen kan detekteras från ett långt avstånd. Denna typ av energi signatur indikerar interstellär flygningskapacitet, och kommer att locka gäng desperata raiders och svärmar av dödliga mekanoider.\n\nDu kommer att bli angripen med en intensitet du aldrig sett. Se till att dina försvar är förberedda först.</HibernateWarningStandalone>
+  <HibernateWarningStandalone>Reaktorn är färdig för uppstart.\n\n Processen tar cirka 15 dagar, och energiresignaturen kan detekteras från ett långt avstånd. Denna typ av energiresignatur indikerar interstellär flygkapacitet och kommer att locka till sig grupper av desperata banditer och svärmar av dödliga mekanoider.\n\n Du kommer att bli överfallen med en intensitet som du aldrig sett tidigare. Se till att dina försvar är förberedda först.</HibernateWarningStandalone>
   <!-- EN: Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>Charlon Whitestone är redo att starta reaktorns återställningssekvens för viloläge. Han varnar dig för att processen tar cirka 15 dagar.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>Charlon Whitestone är redo att starta reaktorns återställningssekvens. Han varnar dig för att processen tar cirka 15 dagar.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
-  <HibernateWarningStandalonePacifist>Reaktorn är klar att starta upp. Processen tar cirka 15 dagar.</HibernateWarningStandalonePacifist>
+  <HibernateWarningStandalonePacifist>Reaktorn är klar att startas upp. Processen tar cirka 15 dagar.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
-  <!-- EN: {0} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <NeurotrainerUsed>{0} använder {1} neurotränare att gå ifrån nivå {2} till nivå {3}.</NeurotrainerUsed>
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <NeurotrainerUsed>{USER_labelShort} använde {1} neurotränare för att gå ifrån nivå {2} till nivå {3}.</NeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -880,7 +887,7 @@
   <!-- EN: mental state -->
   <Mood_MentalState>mentalt tillstånd</Mood_MentalState>
   <!-- EN: about to break -->
-  <Mood_AboutToBreak>påväg att få ett sammanbrott</Mood_AboutToBreak>
+  <Mood_AboutToBreak>påväg att få ett nervsammanbrott</Mood_AboutToBreak>
   <!-- EN: on edge -->
   <Mood_OnEdge>på gränsen</Mood_OnEdge>
   <!-- EN: stressed -->
@@ -890,17 +897,17 @@
   <!-- EN: content -->
   <Mood_Content>nöjd</Mood_Content>
   <!-- EN: happy -->
-  <Mood_Happy>lycklig</Mood_Happy>
+  <Mood_Happy>glad</Mood_Happy>
 
   <!-- Game over -->
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>Alla är döda eller bordade. Denna historia är över.\n\nKanske någon annan kan ha behov av ruinerna du lämnar efter dig.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>Alla är döda eller borta. Denna historia är över.\n\n Någon annan kanske kan använda sig av ruinerna på denna plats.</GameOverEveryoneDead>
   <!-- EN: You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunched>Du har lyckats starta skeppet! Dessa kolonister klarade sig:\n\n{0}\nDessa kolonister lämnades kvar:\n\n{1}\nAI'n kommer nu försöka vägleda skeppet till ett säkert ställe. Det kanske släpper av dig på en bättre planet i det här solsystemet. Eller så kanske det undergår en resa som kan ta flera århundranden till en annan stjärna. Det kanske till och med bestämmer sig för att gömma sig under is på en asteroid i ett par tusen år, i väntan på en bättre epok.\n\nDet får du reda på när du vaknar.</GameOverShipLaunched>
+  <GameOverShipLaunched>Du har lyckats skjuta upp skeppet! Dessa kolonister klarade sig:\n\n{0}\nDessa kolonister lämnades kvar:\n\n{1}\nDin AI kommer nu försöka vägleda skeppet till ett säkert ställe. Den kanske kan hitta en välmående planet för dig i det här solsystemet. Eller så kanske den påbörjar en resa som kan ta flera århundranden till en annan stjärna. Den kanske till och med bestämmer sig för att gömma sig under is på en asteroid i ett par tusen år, i väntan på att någon bygger en ny glittervärld här.\n\nDet får du reda på när du vaknar upp.</GameOverShipLaunched>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>Vid nära ljushastighet slår planetdödarens vapen ner i marken med kraften av flera biljoners atombomber. Likt en vattenbalong som skjutits med ett gevär, förvätskas denna värld under den kraftiga smällen och sprider sina smälta inälvor ut i kosmos.\n\nDen delen som var {0} är nu ett midre astreoidbälte. Resten är en smält, radioaktiv helvete, konstant porlande med kilometerhöga planetskälvningar.\n\nNi överlevde inte.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>I nästan ljusets hastighet slår planetdödarens vapen ner i marken med kraften av flera biljoners atombomber. Likt en vattenbalong som skjutits med ett gevär förvätskas denna värld under den kraftiga smällen och sprider sina smälta inälvor ut i kosmos.\n\nDen delen som var {0} är nu ett midre astreoidbälte. Resten är en smält, radioaktivt helvete som konstant krusar sig med kilometerhöga planetskälvningar.\n\nDu överlevde inte.</GameOverPlanetkillerImpact>
   <!-- EN: As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up. -->
-  <GameOverArrivedAtJourneyDestination>När ni bordar skeppet blir ni välkomnade av besättningen med öppna armar. Dom verkar glada över att ta åtminstånde en till person med sig.\n\nDessa kolonister klarade sig:\n\n{0}\nDessa kolonister lämnades kvar:\n\n{1}\nAI'n kommer nu försöka vägleda skeppet till ett säkert ställe. Det kanske släpper av dig på en bättre planet i det här solsystemet. Eller så kanske det undergår en resa som kan ta flera århundranden till en annan stjärna. Det kanske till och med bestämmer sig för att gömma sig under is på en asteroid i ett par tusen år, i väntan på en bättre epok.\n\nDet får du reda på när du vaknar.</GameOverArrivedAtJourneyDestination>
+  <GameOverArrivedAtJourneyDestination>När ni bordar skeppet blir ni välkomnade av besättningen med öppna armar. De verkar glada över att ta åtminstånde en till person med sig.\n\nDessa kolonister klarade sig:\n\n{0}\nDessa kolonister lämnades kvar:\n\n{1}\nAIn kommer nu försöka vägleda skeppet till ett säkert ställe. Den kanske kan hitta en välmående planet för dig i det här solsystemet. Eller så kanske den påbörjar en resa som kan ta flera århundranden till en annan stjärna. Den kanske till och med bestämmer sig för att gömma sig under is på en asteroid i ett par tusen år, i väntan på att någon bygger en ny glittervärld här.\n\nDet får du reda på när du vaknar upp</GameOverArrivedAtJourneyDestination>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Fortsätt spela</GameOverKeepPlaying>
   <!-- EN: Main menu -->
@@ -908,27 +915,19 @@
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
-  <LifespanExpiry>Går ut om:</LifespanExpiry>
-
-  <!-- Traps -->
-  <!-- EN: Armed -->
-  <TrapArmed>Gillrad</TrapArmed>
-  <!-- EN: Not armed -->
-  <TrapNotArmed>Ej gillrad</TrapNotArmed>
-  <!-- EN: Rearming cost: {0} -->
-  <TrapRearmingCost>Laddkostnad: {0}</TrapRearmingCost>
+  <LifespanExpiry>Upphör om:</LifespanExpiry>
 
   <!-- Facilities -->
   <!-- EN: inactive -->
   <InactiveFacility>inaktiv</InactiveFacility>
 
   <!-- Hediffs growth modes -->
-  <!-- EN: {0}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{0}'s {1} växer nu.</DiseaseGrowthModeChanged_Growing>
-  <!-- EN: {0}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{0}'s {1} är nu stabil.</DiseaseGrowthModeChanged_Stable>
-  <!-- EN: {0}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{0}'s {1} minskar nu.</DiseaseGrowthModeChanged_Remission>
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}s {1} växer</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}s {1} är nu stabil.</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}s {1} är nu i regrission.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
@@ -937,16 +936,16 @@
   <MarriageSpotNotUsable>Ej användbar: {0}.</MarriageSpotNotUsable>
   <!-- EN: blocked -->
   <MarriageSpotNotStandable>blockerad</MarriageSpotNotStandable>
-  <!-- EN: too dangerous for {0} -->
-  <MarriageSpotDangerous>För farlig för {0}</MarriageSpotDangerous>
-  <!-- EN: forbidden for {0} -->
-  <MarriageSpotForbidden>förbjuden för {0}</MarriageSpotForbidden>
+  <!-- EN: too dangerous for {1_labelShort} -->
+  <MarriageSpotDangerous>För farlig för {1_labelShort}</MarriageSpotDangerous>
+  <!-- EN: forbidden for {1_labelShort} -->
+  <MarriageSpotForbidden>förbjuden för {1_labelShort}</MarriageSpotForbidden>
   <!-- EN: reserved -->
   <MarriageSpotReserved>reserverad</MarriageSpotReserved>
-  <!-- EN: unreachable for {0} -->
-  <MarriageSpotUnreachable>onåbar för {0}</MarriageSpotUnreachable>
+  <!-- EN: unreachable for {1_labelShort} -->
+  <MarriageSpotUnreachable>onåbar för {1_labelShort}</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
-  <MarriageSpotInPrisonCell>i fängelse cell</MarriageSpotInPrisonCell>
+  <MarriageSpotInPrisonCell>i fängelsecell</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
   <NotEnjoyableOutsideTemperature>obekväm temperatur</NotEnjoyableOutsideTemperature>
 
@@ -958,7 +957,7 @@
   <!-- EN: Fleeing -->
   <ActivityIconFleeing>Flyr</ActivityIconFleeing>
   <!-- EN: Fighting -->
-  <ActivityIconAttacking>Kämpar</ActivityIconAttacking>
+  <ActivityIconAttacking>Slåss</ActivityIconAttacking>
   <!-- EN: Idle -->
   <ActivityIconIdle>Sysslolös</ActivityIconIdle>
   <!-- EN: Burning -->
@@ -968,29 +967,29 @@
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>Dagar för underhåll.</DueForMaintenance>
+  <DueForMaintenance>Förväntat underhåll.</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
-  <DeterioratingDueToLackOfMaintenance>Försämras på grund av brist på underhåll.</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Försämras på grund av bristande underhåll.</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>Framsteg till nästa klump</ProgressToNextLump>
+  <ProgressToNextLump>Process till nästa klump</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>Resurser nedan</ResourceBelow>
+  <ResourceBelow>Resurser nedanför</ResourceBelow>
   <!-- EN: Progress to next portion -->
-  <ProgressToNextPortion>Framsteg till nästa del</ProgressToNextPortion>
+  <ProgressToNextPortion>Process till nästa del</ProgressToNextPortion>
   <!-- EN: No resources below. -->
-  <DeepDrillNoResources>Inga resurser nedan.</DeepDrillNoResources>
+  <DeepDrillNoResources>Inga resurser nedanför.</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>Djup-borrresurser uttömd, borren är automatiskt förbjuden. Tillåt att börja gruva av {0}.</DeepDrillExhausted>
+  <DeepDrillExhausted>Djupborrsresurser uttömda, borren är automatiskt förbjuden. Tillåt att börja gräva upp {0}.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>Djup-borrresurser uttömd.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>Djup-borrsresurser uttömda.</DeepDrillExhaustedNoFallback>
 
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>Guide</LearningHelper>
   <!-- EN: Mark as learned -->
-  <MarkLearned>Markera som lärt</MarkLearned>
+  <MarkLearned>Markera som lärd</MarkLearned>
   <!-- EN: Already learned -->
   <AlreadyLearned>Redan lärt</AlreadyLearned>
   <!-- EN: Filter -->
@@ -1002,17 +1001,17 @@
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>Klicka för att gå in i planeringsläge där ni kan planera er resa och räkna ut avstånd mellan vägpunkter.</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>Klicka för att gå in i planeringsläge där du kan planera er resa och räkna ut avstånd mellan vägpunkter.</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
-  <RoutePlannerAddTwoOrMoreWaypoints>Lägg till två eller mer vägpunkter.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddTwoOrMoreWaypoints>Lägg till två eller fler vägpunkter.</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
-  <RoutePlannerAddOneOrMoreWaypoints>Lägg till en eller mer vägpunkter.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Lägg till en eller fler vägpunkter.</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>Total rutttid: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>Planeringsläge använder karavanens standardhastighet. Den verkliga hastigheten kan variera.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Planeringsläget använder karavanens standardhastighet. Den verkliga hastigheten kan variera.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>Kalkulera för: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Kalkulerar för: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>Höger musknapp: Lägg till/ta bort vägpunkt.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: ESC: Exit planning mode. -->
@@ -1026,11 +1025,11 @@
   <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToTile>Est. restid: {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
-  <ForagedFoodAmount>Samlad mat</ForagedFoodAmount>
+  <ForagedFoodAmount>Insamlad mat</ForagedFoodAmount>
 
   <!-- Outfits -->
   <!-- EN: Anything -->
-  <OutfitAnything>Allt</OutfitAnything>
+  <OutfitAnything>Vad som helst</OutfitAnything>
   <!-- EN: Worker -->
   <OutfitWorker>Arbetare</OutfitWorker>
   <!-- EN: Soldier -->
@@ -1042,12 +1041,19 @@
   <!-- EN: Hibernating -->
   <HibernatableHibernating>Hibernerar</HibernatableHibernating>
   <!-- EN: Starting up -->
-  <HibernatableStartingUp>Startar upp</HibernatableStartingUp>
+  <HibernatableStartingUp>Startar</HibernatableStartingUp>
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
   <ClickToSeeAvailableOrders_WorldObject>{0}: Se tillgängliga order ...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>Se tillgängliga order ...</ClickToSeeAvailableOrders_Empty>
+
+  <!-- UNUSED -->
+  <CaravanPaused>UNUSED.</CaravanPaused>
+  <Fire>UNUSED</Fire>
+  <TrapArmed>UNUSED</TrapArmed>
+  <TrapNotArmed>UNUSED</TrapNotArmed>
+  <TrapRearmingCost>UNUSED</TrapRearmingCost>
 
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Cancel -->
@@ -68,9 +68,9 @@
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
   <DesignatorForbidDesc>Markera föremål som förbjudna. Kolonister kommer inte att kunna interagera med de utvalda föremålen.</DesignatorForbidDesc>
 
-  <!-- EN: Unforbid -->
+  <!-- EN: Allow -->
   <DesignatorUnforbid>Tillåt</DesignatorUnforbid>
-  <!-- EN: Mark items as unforbidden. Colonists will be able to interact with the designated items. -->
+  <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
   <DesignatorUnforbidDesc>Markera föremål som tillåtna. Kolonisterna kommer att kunna interagera med de utvalda föremålen.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
@@ -156,11 +156,6 @@
   <!-- EN: Strip apparel from corpses and the wounded. -->
   <DesignatorStripDesc>Klä av plagg från skadade och döda personer.</DesignatorStripDesc>
 
-  <!-- EN: Rearm trap -->
-  <DesignatorRearmTrap>Återställ fälla</DesignatorRearmTrap>
-  <!-- EN: Rearm a sprung trap so it can be triggered again. -->
-  <DesignatorRearmTrapDesc>återställ en utlöst fälla så att den kan utlösas igen.</DesignatorRearmTrapDesc>
-
   <!-- EN: Open -->
   <DesignatorOpen>Öppna</DesignatorOpen>
   <!-- EN: Open containers. -->
@@ -185,12 +180,12 @@
   <OutOfBounds>Utanför gränsen.</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>Kan inte placera i oupptäkta områden.</CannotPlaceInUndiscovered>
-  <!-- EN: Interaction spot is blocked by {0}. -->
-  <InteractionSpotBlocked>Plsts för interaktion är blockerad av {0}.</InteractionSpotBlocked>
+  <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
+  <InteractionSpotBlocked>Plsts för interaktion är blockerad av {1_labelShort}.</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
   <InteractionSpotOutOfBounds>Plats för interaktion är utanför gränsen.</InteractionSpotOutOfBounds>
-  <!-- EN: Interaction spot will be blocked by {0}. -->
-  <InteractionSpotWillBeBlocked>Plats för interaktion kommer blockeras av {0}.</InteractionSpotWillBeBlocked>
+  <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
+  <InteractionSpotWillBeBlocked>Plats för interaktion kommer blockeras av {1_labelShort}.</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
   <WouldBlockInteractionSpot>{0} skulle blockera {1}s Plats för interaktion.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
@@ -203,6 +198,8 @@
   <IdenticalBlueprintExists>Identisk ritning finns redan här.</IdenticalBlueprintExists>
   <!-- EN: The terrain here cannot support this. -->
   <TerrainCannotSupport>Denna terräng kan inte stödja detta.</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that can support: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>{0_label} behöver terräng som kan stödja: {1_label}</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Platsen är redan upptagen.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
@@ -227,5 +224,9 @@
   <NoColonistWithConstructionSkillTip>Ingen av dina {0} har denna färdighet.</NoColonistWithConstructionSkillTip>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alla dina {0} som har denna färdighet har ej tilldelats arbetsuppgiften {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+
+  <!-- UNUSED -->
+  <DesignatorRearmTrap>Återställ fälla</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>återställ en utlöst fälla så att den kan utlösas igen.</DesignatorRearmTrapDesc>
 
 </LanguageData>

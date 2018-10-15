@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Main menu -->
@@ -62,6 +62,10 @@
   <TranslationHowToContribute>Du kan också bidra. Klicka nedan för att lära dig mer (öppnar webbläsare).</TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>Lär dig mer</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>Vrning: Detta är en ostabil utvecklarverision. Detta betyder att vi gör experiment med designen och teknisk utveckling.\n\nVissa saker kommer vara temporärt obalanserat med flit. Detta är en klassisk spelutvecklarmetod där vi medvetet går för långt med balansförändringar för att bättre förstå dess gränser. Vi kan sedan använda denna information för att avgöra de slutgiltiga balanspoängen.\n\nDet kommer även förekomma buggar, det inkluderar även de som förstör spelet. Sparade filers kompabilitet kan gå sönder med tiden.\n\nOm du är okej med allt detta, tack för att du testar! Om du inte vill bidra till våra experiment, var snäll och spela den senaste stabila verisionen.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -160,6 +164,8 @@
   <ModTargetVersion>För version: {0}</ModTargetVersion>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Denna modd är ej tillverkad för denna version av RimWorld, och kommer troligtvis inte fungera helt korrekt.</ModNotMadeForThisVersion>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>Denna modd var byggd för en nyare verision av RimWorld än denna och kommer antagligen inte fungera korrekt.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
   <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: {0}.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
@@ -210,28 +216,32 @@
   <MustChooseDifficulty>Välj svårighetsgrad.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
   <Difficulty>Svårighetsgrad</Difficulty>
-  <!-- TODO- EN: Commitment mode -->
+  <!-- EN: Commitment mode -->
   <CommitmentMode>Engagemangsläge</CommitmentMode>
   <!-- EN: Reload anytime mode -->
   <ReloadAnytimeMode>Möjlighet att ladda om när som helst</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
   <MustChoosePermadeath>Vänligen välj om du vill spela: engagemangsläge eller ladda om när som helst.</MustChoosePermadeath>
-  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, it's designed to encourage recovery after losses. Even losing all but one person is not the end of the game - it's part of the story.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his parents got killed - loss and recovery is dramatic! -->
-  <PermadeathModeInfo>Du kan bara spara när du avslutar.\n\n Eftersom RimWorld är en historie-generator är den utformad för att uppmuntra återhämtning efter förluster. Även om du förlorar allt utom en person är det inte slutet på spelet - det är en del av historien.\n\n Att spela genom dessa hemska situationer skapar en historia med både tragedi och triumf. Det är på detta sätt RimWorld utformats för att spelas.\n\nDet finns en anledning till att Luke Skywalker inte slutade när hans föräldrar dödades - förlust och återhämtning är dramatiskt!</PermadeathModeInfo>
-  <!-- EN: You can save and load the game at any time.\n\nThis isn't a bad choice if you're still learning the game, if it fits your personal playstyle or goals, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>Du kan spara och ladda om spelet när som helst.\n\nDetta är inte ett dåligt val om du fortfarande lär dig spelet, passar din personliga spelstil eller mål, om du använder moddar som kan ha sönder din spelomgång eller om du har ett självständigt XXX engagemangsläge.</ReloadAnytimeModeInfo>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>Du kan spara och ladda om spelet när som helst.\n\nDetta är bra val om du fortfarande lär dig spelet, passar din personliga spelstil, om du använder moddar som kan ha sönder din spelomgång eller om du själv tänkt upprätthålla ett engagemangsläge. </ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>Du kan bara spara när du avslutar spelet.\n\n Eftersom RimWorld är en historie-generator, även om du förlorar allt utom en person är det inte slutet på spelet - det är en del av historien.\n\nSpelet är utformat för att möjliggöra återhämtning efter förluster. Att spela genom dessa hemska situationer skapar en historia med både tragedi och triumf. Det är på detta sätt RimWorld utformats för att spelas.\n\nDet finns en anledning till att Luke Skywalker inte slutade och laddade om när hans familj blev dödad - förlust och återhämtning är dramatiskt!</PermadeathModeInfo>
   <!-- EN: Storyteller and difficulty can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>Berättare och svårighetsgrad kan ändras när som helst.</CanChangeStorytellerSettingsDuringPlay>
+  <!-- EN: Merciless mode -->
+  <UnlockExtremeDifficulty>Skoningslös</UnlockExtremeDifficulty>
+  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
+  <ConfirmUnlockExtremeDifficulty>Skoningslöst är ett speciellt spelläge där varje utmaning är satt till extrema nivåer.\n\nSkoningslösa nivån låses aoutomatiskt upp när du når en specifika milstenar. Men, du kan låsa upp det nu.\n\nDetta val rekommenderas enbart när du spelat riktigt svåra nivåer av spelet minst en gång och vill ha en god chans att dö även om du gör ditt bästa.</ConfirmUnlockExtremeDifficulty>
 
-  <!-- Landing site select -->
-  <!-- EN: Select landing site -->
-  <SelectLandingSite>Välj landingsplats</SelectLandingSite>
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>Välj startplats</SelectStartingSite>
   <!-- EN: Select random site -->
   <SelectRandomSite>Slumppa en plats</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Välj plats</SelectSite>
-  <!-- EN: Please select a landing site. -->
-  <MustSelectLandingSite>Välja en landningsplats.</MustSelectLandingSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>Var god och välj en plats</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Du kan inte landa i den här biomen: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
@@ -338,7 +348,7 @@
   <Health>Hälsa</Health>
   <!-- EN: Relations -->
   <Relations>Relationer</Relations>
-  <!-- TODO- EN: Team skills -->
+  <!-- EN: Team skills -->
   <TeamSkills>Lagarbete</TeamSkills>
   <!-- EN: Selected -->
   <StartingPawnsSelected>Vald</StartingPawnsSelected>
@@ -376,5 +386,9 @@
   <GeneratingMap>Genererar karta</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Genererar karta för sammandrabbning</GeneratingMapForNewEncounter>
+
+  <!-- UNUSED -->
+  <SelectLandingSite>Välj landingsplats</SelectLandingSite>
+  <MustSelectLandingSite>Välja en landningsplats.</MustSelectLandingSite>
 
 </LanguageData>

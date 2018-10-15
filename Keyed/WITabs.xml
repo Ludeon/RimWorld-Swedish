@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- WITab titles -->
@@ -18,10 +18,10 @@
   <TabCaravanItems>Föremål</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{0}}x {0} -->
-  <AbandonSliderText>Överge {{0}}x {0}</AbandonSliderText>
-  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Vill du verkligen överge {0}?\n\nÖvergivna föremål försvinner och kan aldrig återfås igen.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon {{0}}x {1_labelShort} -->
+  <AbandonSliderText>Överge {{0}}x {1_labelShort}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>Vill du verkligen överge {1_label}?\n\nÖvergivna föremål försvinner och kan aldrig återfås igen.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>Överge</AbandonTip>
   <!-- EN: Banish -->
@@ -32,8 +32,8 @@
   <AbandonAllTip>Överge (allt)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Övergivna föremål försvinner och kan aldrig återfås igen.</AbandonItemTipExtraText>
-  <!-- EN: {0} will most likely die. -->
-  <BanishTipWillDie>{0} kommer sannolikt att dö.</BanishTipWillDie>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>{1_labelShort} kommer sannolikt att dö.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->

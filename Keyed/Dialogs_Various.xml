@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
- <!-- TODO Gå igenom hela filen-->
   <!-- EN: Confirm -->
   <Confirm>Bekräfta</Confirm>
   <!-- EN: Go back -->
@@ -120,7 +119,7 @@
   <MissingMods>Vissa moddar är inte tillgängliga och måste installeras</MissingMods>
   
   <!-- Player faction naming -->
-  <!-- EN: {0} thinks that you should give your faction a name. What should your faction be called? -->
+  <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
   <NamePlayerFactionMessage>{0} föreslår att du ger din fraktion ett namn. Vad skall din fraktion heta?</NamePlayerFactionMessage>
   <!-- EN: Your faction is now known as {0}. -->
   <PlayerFactionGainsName>Din fraktion är numera känd som {0}.</PlayerFactionGainsName>
@@ -128,7 +127,7 @@
   <PlayerFactionNameIsInvalid>Det namnet är ogiltigt.</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called? -->
+  <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
   <NamePlayerFactionBaseMessage>Det verkar som du kommer vara tvungen att stanna här ett tag. {0} föreslår att du ger din lokala kolonin ett namn.\n\nVad ska vi döpa den till?</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
   <PlayerFactionBaseGainsName>Den här kolonin är numera känd som {0}.</PlayerFactionBaseGainsName>
@@ -136,7 +135,7 @@
   <PlayerFactionBaseNameIsInvalid>Det namnet är ogiltigt.</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
-  <!-- EN: Since it looks like you'll be here for a while, {0} also thinks that you should give this community a name. What should this local community be called? -->
+  <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>Det verkar som du kommer vara tvungen att stanna här ett tag. {0} föreslår också att du skall ge kolonin ett namn.Vad ska vi döpa den här lokala kolonin till?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
   <PlayerFactionAndBaseGainsName>Din fraktion är numera känd som {0} och denna kolonin är numera känd som {1}.</PlayerFactionAndBaseGainsName>
@@ -150,7 +149,7 @@
   <ZoneGainsName>Zonen kallas numera {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <!-- EN: This person's nickname is now {0}. [PAWN_possessive] title is {1}. -->
+  <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>Kolonistens smeknamn är numera {0}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>Djurets namn är nu {0}.</AnimalGainsName>
@@ -178,7 +177,7 @@
   <ResolutionRevert>Återställ</ResolutionRevert>
 
   <!-- Confirm permanently disable dev mode -->
-  <!-- EN: Do you really want to permanently disable development mode on this computer? -->
+  <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
   <ConfirmPermanentlyDisableDevMode>Vill du verkligen permanent avaktivera utvecklingsläget på den här datorn?</ConfirmPermanentlyDisableDevMode>
 
   <!-- Research -->
@@ -335,6 +334,10 @@
   <GrowingTime>Växthastighet</GrowingTime>
   <!-- EN: Harvest yield -->
   <HarvestYield>Skördemängd</HarvestYield>
+  <!-- EN: Min growth temperature -->
+  <MinGrowthTemperature>TODO</MinGrowthTemperature>
+  <!-- EN: Max growth temperature -->
+  <MaxGrowthTemperature>TODO</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
   <GrowingTimeDesc>Växter växer bara under en del av dagen och endast när de får ljus. Detta värde anger hur länge växten aktivt måste växa för att nå full storlek. Den faktiska tiden brukar vara ungefär dubbelt så lång. Under låg temperatur tar det ännu längre tid.</GrowingTimeDesc>
   <!-- EN: days -->
@@ -409,8 +412,6 @@
   <Skill>Färdighet</Skill>
   <!-- EN: Success rate multiplier -->
   <SurgerySuccessChanceFactor>Succemultiplikator</SurgerySuccessChanceFactor>
-  <!-- EN: Requires bed -->
-  <SurgeryRequireBed>Behöver säng</SurgeryRequireBed>
   <!-- EN: Work speed governed by -->
   <WorkSpeedStat>Arbetshastighet styrs av</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
@@ -425,7 +426,7 @@
   <NuzzleIntervalExplanation>Hur ofta ett djur kommer att gosa med vänliga kolonister i genomsnitt.\n\nGosa är ett beteende som delas av många djurarter där djuret pressar sin näsa eller nosparti mot en vän som ett tecken på kärlek. De flesta människor tycker detta är sött och det kommer att ge dem gott humör under en tidsperiod.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Chans att hämnas vid skada</HarmedRevengeChance>
-  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon. -->
+  <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
   <HarmedRevengeChanceExplanation>Chansen att denna varelse vill hämnas efter att ha skadats av en angripare inom räckvidd för ett gevär.\n\nDenna chans ökar om angriparen är närmre. Om attacken sker på mycket nära håll är chansen tre gånger större.\n\nDen här chansen tillämpas varje gång en skada uppstår, alltså är det mindre risk att detta sker med långsammare vapen som gör stor skada.\n\n För att minimera chansen av att en varelse vil hämnas, attackera den från gevärsavstånd med ett långsamt skjutvapen.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Hämdschans vid misslyckat tänjningsförsök</TameFailedRevengeChance>
@@ -433,6 +434,18 @@
   <TerrainRequirement>Terrängbehov</TerrainRequirement>
   <!-- EN: Supports -->
   <Supports>Hjälper</Supports>
+  <!-- EN: Trap armor penetration -->
+  <TrapArmorPenetration>TODO</TrapArmorPenetration>
+  <!-- EN: Rearm cost -->
+  <RearmCost>TODO</RearmCost>
+  <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
+  <RearmCostExplanation>TODO</RearmCostExplanation>
+  <!-- EN: Shots before rearm -->
+  <ShotsBeforeRearm>TODO</ShotsBeforeRearm>
+  <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
+  <ShotsBeforeRearmExplanation>TODO</ShotsBeforeRearmExplanation>
+  <!-- EN: Power consumption -->
+  <PowerConsumption>TODO</PowerConsumption>
 
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -467,9 +480,9 @@
   <TraderWillNotTrade>Handlaren vill inte köpa detta.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>Förhandlare</Negotiator>
-  <!-- EN: Your negotiator {0} cannot talk properly because of poor health. -->
+  <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>Din förhandlare {0} kan inte tala ordentligt på grund av sin dåliga hälsa.</NegotiatorTalkingImpaired>
-  <!-- EN: Your negotiator {0} cannot hear properly because of poor health. -->
+  <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
   <NegotiatorHearingImpaired>Din förhandlare {0} kan inte höra ordentligt på grund av sin dåliga hälsa.</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>Detta kommer att påverka handelspriserna.\n\nÖverväg att använda en friskare förhandlare.</NegotiatorCapacityImpaired>
@@ -525,7 +538,7 @@
   <CaravanCouldNotFindPackingSpot>Kunde inte hitta någon giltig packningsplats. Se till att vald utgång ({0}) är tillgänglig.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>Varning: några av de tilldelade kolonisterna inte kan nå utgången ({0}).</CaravanCouldNotFindReachableExitSpot>
-  <!-- EN: {0} is unreachable by any of the assigned colonists. -->
+  <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
   <CaravanPawnIsUnreachable>{0} är onåbar för några av de tilldelade kolonisterna.</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>Ingen av de tilldelade koloniserna har möjlighet att nå {0}.</CaravanItemIsUnreachableSingle>
@@ -545,7 +558,7 @@
   <InfiniteDaysWorthOfFoodInfo>Obegränsat</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
   <DaysWorthOfFoodTooltip>Det ungefärliga antaet dagar innan åtminstonde en person eller ett djur kommer ha slut på mat. Olika arter har olika dieter så en kan få slut på mat innan andra. Värdet kalkyleras bättre efter att en väg har valts,\n\nPåverkat av:\n  - Medhavd typ av mat och antal\n  - Karavanmedlemmar och deras dieter\n  - hastighet som mat insamlas\n  - Om djur kan beta\n  Tid till att mat ruttnar\n  - I varmt väder ruttnar mat snabbare</DaysWorthOfFoodTooltip>
-  <!-- EN: \n(only the first waypoint is taken into account) -->
+  <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(endast den första vägpunkten beaktas)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>Karavanen har endast {0} dagar med mat och kommer bli hungriga mycket snabbt.</DaysWorthOfFoodWarningDialog>
@@ -585,6 +598,8 @@
   <MassCapacity>Viktkapacitet</MassCapacity>
   <!-- EN: Mass -->
   <Mass>Vikt</Mass>
+  <!-- EN: Caravan mass -->
+  <CaravanMass>TODO</CaravanMass>
   <!-- EN: Equipment and apparel mass -->
   <EquipmentAndApparelMass>Utrustning och kläders vikt</EquipmentAndApparelMass>
   <!-- EN: Inventory mass -->
@@ -649,7 +664,7 @@
   <TooBigTransportersMassUsage>De tilldelade människorna och föremålen är för tunga för transportkapslarna.</TooBigTransportersMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>Du kan inte skicka tomma transportkapslar.</CantSendEmptyTransportPods>
-  <!-- EN: {0} can't reach the transport pods. -->
+  <!-- EN: {1_labelShort} can't reach the transport pods. -->
   <PawnCantReachTransporters>{0} kan inte nå transportkapslarna.</PawnCantReachTransporters>
   <!-- EN: There is no path between the transport pods and the {0}. -->
   <TransporterItemIsUnreachableSingle>Det finns ingen väg mellan transportkapseln och {0}.</TransporterItemIsUnreachableSingle>
@@ -705,6 +720,8 @@
   <DeleteDrugPolicy>Ta bort riktlinjer...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Drogpolicy används av {0}.</DrugPolicyInUse>
+  <!-- EN: Food restriction is in use by {0}. -->
+  <FoodRestrictionInUse>TODO</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Sociala droger</SocialDrugs>
   <!-- EN: No drugs -->
@@ -760,6 +777,30 @@
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>Schemalagd\n\nAnvänd den här drogen på ett definierat schema, när vissa villkor är uppfyllda.</DrugUsageTipScheduled>
 
+  <!-- Food restriction management -->
+  <!-- EN: Food restriction -->
+  <FoodRestriction>TODO</FoodRestriction>
+  <!-- EN: Lavish -->
+  <FoodRestrictionLavish>TODO</FoodRestrictionLavish>
+  <!-- EN: Fine -->
+  <FoodRestrictionFine>TODO</FoodRestrictionFine>
+  <!-- EN: Simple -->
+  <FoodRestrictionSimple>TODO</FoodRestrictionSimple>
+  <!-- EN: Paste -->
+  <FoodRestrictionPaste>TODO</FoodRestrictionPaste>
+  <!-- EN: Raw -->
+  <FoodRestrictionRaw>TODO</FoodRestrictionRaw>
+  <!-- EN: Nothing -->
+  <FoodRestrictionNothing>TODO</FoodRestrictionNothing>
+  <!-- EN: Select food restriction -->
+  <SelectFoodRestriction>TODO</SelectFoodRestriction>
+  <!-- EN: New food restriction -->
+  <NewFoodRestriction>TODO</NewFoodRestriction>
+  <!-- EN: Delete food restriction -->
+  <DeleteFoodRestriction>TODO</DeleteFoodRestriction>
+  <!-- EN: No food restriction selected -->
+  <NoFoodRestrictionSelected>TODO</NoFoodRestrictionSelected>
+
   <!-- Medical settings -->
   <!-- EN: Defaults -->
   <MedGroupDefaults>Standard</MedGroupDefaults>
@@ -793,29 +834,36 @@
   <ConfirmMoveAutoJoinableCaravan>Vissa djur eller fångar försöker gå med i denna karavan. Om du flyttar den, kommer de inte att kunna längre.\n\nDjur, fångar och nekade kolonister som lämnas kvar i en karta utan några ej däckad kolonister anses vara övergivna och kan fångas av fienderna.\n\nÄr du säker på att du vill flytta din karavan?</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
-  <!-- EN: Do you really want to banish {0}? -->
-  <ConfirmBanishPawnDialog>Vill du verkligen förvisa {0}?</ConfirmBanishPawnDialog>
-  <!-- EN: {0} will most likely die. -->
-  <ConfirmBanishPawnDialog_LeftToDie>{0} kommer sannolikt att dö.</ConfirmBanishPawnDialog_LeftToDie>
-  <!-- EN: {0} will take the following items with [PAWN_objective]: -->
-  <ConfirmBanishPawnDialog_Items>{0} tar följande objekt med [PAWN_objective]:</ConfirmBanishPawnDialog_Items>
+  <!-- EN: Do you really want to banish {1_label}? -->
+  <ConfirmBanishPawnDialog>Vill du verkligen förvisa {1_label}?</ConfirmBanishPawnDialog>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} kommer sannolikt att dö.</ConfirmBanishPawnDialog_LeftToDie>
+  <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} tar följande objekt med {1_objective}:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
   <ConfirmBanishPawnDialog_AllColonistsThoughts>Alla kolonister kommer att få följande tankar:</ConfirmBanishPawnDialog_AllColonistsThoughts>
-  <!-- EN: Banishing {0} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>Förvisa {0} kommer att få följande personer att få följande tankar:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
+  <ConfirmBanishPawnDialog_IndividualThoughts>Förvisning av {1_labelShort} kommer att få följande personer att få följande tankar:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
-  <!-- EN: Pod group isn't completely loaded. {0} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>Kapselgrupp är inte helt lastad. {0} saknas. Vill du skicka ändå?</ConfirmSendNotCompletelyLoadedPods>
+  <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
+  <ConfirmSendNotCompletelyLoadedPods>Kapselgrupp är inte helt lastad. {1_labelShort} saknas. Vill du skicka ändå?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
-  <ConfirmSettleNearFactionBase>Eftersom denna plats ligger inom {0} område från en annan fraktionsbas, kommer de att känna att du inkräktar på deras mark och förbindelserna med dessa fraktioner kommer att försämras varje {1} dar.\n\nBygg här ändå?</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Eftersom denna plats ligger inom {0} områden från en annan fraktionsbas kommer de känna att du inkräktar på deras mark och förbindelserna med dessa fraktioner kommer att försämras varje {1} dar.\n\nBygg här ändå?</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>Är du säker på att du vill städa upp alla översättningsfiler för språk {0}?\n\nDetta kommer att:\n - Lägga till markeringar för saknade keyed översättningar, def-injected översättningar, and bakgrunder\n - Lägga till eller uppdatera kommentarer som innehåller den original oöversatta texten\n - Flytta alla keyed och def-injected översättningar till lämpliga XML-filer\n - Använd automatiska formatering till alla XML-filer\n - Uppdatera bakåtkompatibla def namn\n - Ta bort alla befintliga XML-kommentarer (utom i full-list injektioner)\n\nIcke XML-filer kommer inte att tas bort eller ändras.\n\nKom ihåg att starta om spelet efter att du har ändrat språkfilerna innan du kör det här verktyget för att ladda om alla data.\n\nKontrollera att säkerhetskopierat alla översättningsfiler innan du använder det här verktyget.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>Är du säker på att du vill städa upp alla översättningsfiler för språk {0}?\n\nDetta kommer att:\n - Lägga till markeringar för saknade keyed översättningar, def-injected översättningar och bakgrunder\n - Lägga till eller uppdatera kommentarer som innehåller den original oöversatta texten\n - Flytta alla keyed och def-injected översättningar till lämpliga XML-filer\n - Använda automatiska formateringar till alla XML-filer\n - Uppdatera bakåtkompatibla def namn\n - Ta bort alla befintliga XML-kommentarer (utom i full-list injektioner)\n\nIcke XML-filer kommer inte att tas bort eller ändras.\n\nKom ihåg att starta om spelet efter att du har ändrat språkfilerna innan du kör det här verktyget för att ladda om alla data.\n\nKontrollera att du säkerhetskopierat alla översättningsfiler innan du använder det här verktyget.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
   <ConfirmCleanupTranslationFiles_Confirm>Ja, jag har en säkerhetskopia</ConfirmCleanupTranslationFiles_Confirm>
+
+  <!-- Load transporters -->
+  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>Karavanen kommer att stå still om du skickar transportkapslar till ett tomt område. Fortsätt ändå?</TransportersCaravanWillBeImmobile>
+
+  <!-- UNUSED -->
+  <SurgeryRequireBed>Behöver säng</SurgeryRequireBed>
 
 </LanguageData>

@@ -1,13 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Forbid -->
   <!-- EN: Forbid -->
   <CommandForbid>Förbjud</CommandForbid>
-  <!-- EN: Forbidden - colonists will not interact with this. -->
-  <CommandForbiddenDesc>Förbjudet - kolonister kommer ej att använda detta.</CommandForbiddenDesc>
-  <!-- EN: Not forbidden - colonists may interact with this. -->
-  <CommandNotForbiddenDesc>Inte förbjudet - kolonister kommer använda detta.</CommandNotForbiddenDesc>
+  <!-- EN: Allow -->
+  <CommandAllow>Tillåt</CommandAllow>
+  <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
+  <CommandForbiddenDesc>Förbjudet: Dina kolonister kommer ej att använda detta. Klicka för att tillåta.</CommandForbiddenDesc>
+  <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
+  <CommandNotForbiddenDesc>Tillåtet: Dina kolonister kommer använda detta. Klicka för att förbjuda.</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->
@@ -39,8 +41,8 @@
   <CommandUndraftLabel>Upphäv kommendering</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Växla Kommendering.\n\nKommenderade personer tar direkta order och slåss. De kommer inte arbeta, äta eller vila.</CommandToggleDraftDesc>
-  <!-- EN: {0} cannot walk. -->
-  <IsIncapped>{0} kan inte gå.</IsIncapped>
+  <!-- EN: {1_labelShort} cannot walk. -->
+  <IsIncapped>{1_labelShort} kan inte gå.</IsIncapped>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Fri eldgivning</CommandFireAtWillLabel>
@@ -61,6 +63,7 @@
   <CommandGetOutOfBedLabel>Gå upp ur sängen</CommandGetOutOfBedLabel>
   <!-- EN: Get out of current bed. -->
   <CommandGetOutOfBedDesc>Hoppa ur nuvarande säng.</CommandGetOutOfBedDesc>
+
   <!-- EN: Set owner -->
   <CommandBedSetOwnerLabel>Ange ägare</CommandBedSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
@@ -218,14 +221,16 @@
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
   <CommandAutoRearm>Auto-återställ</CommandAutoRearm>
-  <!-- EN: If this is on, this trap will automatically be designated for rearming when it springs. -->
-  <CommandAutoRearmDesc>När den här är aktiv kommer fällan automatiskt markeras för att återställas om den utlöses.</CommandAutoRearmDesc>
+  <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
+  <CommandAutoRearmDesc>När den här är aktiv kommer fällan automatiskt bytas ut om den utlöses.</CommandAutoRearmDesc>
   
   <!-- Animal control -->
   <!-- EN: Release animals -->
   <CommandReleaseAnimalsLabel>Släpp djur</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>När denna är aktiv kommer djur med en ägare släppas för att attackera avlägsna mål. När den är inaktiv kommer de hålla sig nära och vakta sin ägare.</CommandReleaseAnimalsDesc>
+  <!-- EN: No animals available. -->
+  <CommandReleaseAnimalsFail_NoAnimals>Inga djur tillgängliga</CommandReleaseAnimalsFail_NoAnimals>
   
   <!-- Squad attack -->
   <!-- EN: Attack -->
@@ -436,8 +441,8 @@
   <!-- Pause caravan -->
   <!-- EN: Rest -->
   <CommandPauseCaravan>Vila</CommandPauseCaravan>
-  <!-- EN: Stop the caravan for a moment. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1}\n  - Sick people can rest in bedrolls -->
-  <CommandToggleCaravanPauseDesc>Stanna karavanen en stund. Detta har följande fördelar:\n\n - Människor kan interagera socialt\n - Samla mat {0} gånger snabbare\n - Synlighet multipliceras med {1}\n - Sjuka personer kan vila i sovsäckar</CommandToggleCaravanPauseDesc>
+  <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
+  <CommandToggleCaravanPauseDesc>Börja vila. Detta har följande fördelar:\n\n - Människor kan interagera socialt\n - Samla mat {0} gånger snabbare\n - Synlighet multipliceras med {1}</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
