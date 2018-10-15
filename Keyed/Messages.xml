@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
@@ -31,44 +31,44 @@
   <MessageVisitorsTrappedLeaving>{0} från {1} har fångats och flyr genom att grävea sig ut.</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
   <MessageVisitorsDangerousTemperature>{0} från {1} lämnar kartan pågrund av farlig temperatur.</MessageVisitorsDangerousTemperature>
-  
-  <!-- EN: {0} worn by {1} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>{0} som bärs av {1} vittrade sönder helt och hållet.</MessageWornApparelDeterioratedAway>
-  
+
+  <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
+  <MessageWornApparelDeterioratedAway>{0} som bärs av {1_nameFull} vittrade sönder helt och hållet.</MessageWornApparelDeterioratedAway>
+
   <!-- EN: {0} has begun. -->
   <MessageSeasonBegun>{0} är här.</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
   <MessageShipHasLeftCommsRange>{0} har lämnat räckvidden för kommunikation.</MessageShipHasLeftCommsRange>
-  
+
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>Du behöver en elförsörjd planetär handelsfyr för att handla med ett rymdskepp.</MessageNeedBeaconToTradeWithShip>
-  
-  <!-- TODO - EN: Bill complete: {0}. -->
+
+  <!-- EN: Bill complete: {0}. -->
   <MessageBillComplete>Beställning utförd: {0}.</MessageBillComplete>
-  
-  <!-- EN: {0} is fully healed. -->
-  <MessageFullyHealed>{0} är fullt frisk.</MessageFullyHealed>
 
-  <!-- EN: Prisoner {0} is escaping. -->
-  <MessagePrisonerIsEscaping>Tillfångatagna {0} flyr.</MessagePrisonerIsEscaping>
+  <!-- EN: {1_label} is fully healed. -->
+  <MessageFullyHealed>{1_label} är frisk.</MessageFullyHealed>
 
-  <!-- EN: {0} found no nearby unreserved shells for {1}. -->
-  <MessageOutOfNearbyShellsFor>{0} hittar inga oreserverade granater i närheten till {1}.</MessageOutOfNearbyShellsFor>
+  <!-- EN: Prisoner {1_labelShort} is escaping. -->
+  <MessagePrisonerIsEscaping>Fånge {1_labelShort} flyr.</MessagePrisonerIsEscaping>
 
-  <!-- EN: Warning: {0} often attack when harmed ({1} chance at rifle range, more if closer). -->
-  <MessageAnimalsGoPsychoHunted>Varning: En {0} kommer ofta attackera om den blir skadad ({1} chans inom skotthåll, mer om du är närmre)</MessageAnimalsGoPsychoHunted>
-  <!-- EN: Warning: {0} often attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Varning: En {0} kan attackera om tämjningsfösöket misslyckas ({1} chans).</MessageAnimalManhuntsOnTameFailed>
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} hittar inga oreserverade patroner i närheten till {GUN_label}.</MessageOutOfNearbyShellsFor>
+
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
+  <MessageAnimalsGoPsychoHunted>Varning: {ANIMAL_kindBasePlural} har en {1} chans att attackera om den blir skadad från räckvidden av ett gevär. Chansen är högre om du är närmre, mindre om jägaren är bra på att smyga.</MessageAnimalsGoPsychoHunted>
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
+  <MessageAnimalManhuntsOnTameFailed>Varning: {ANIMAL_kindBasePlural} kan attackera om tämjningsfösök misslyckas ({1} chans).</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Ny rekryt</LetterLabelMessageRecruitSuccess>
-  <!-- EN: {0} successfully recruited {1} ({2} chance). -->
-  <MessageRecruitSuccess>{0} har framgångsrikt rekryterat {1} ({2} chans).</MessageRecruitSuccess>
-  <!-- EN: {0} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{0} har framgångsrikt lyckats tämja {1} ({2} chans).</MessageTameSuccess>
-  <!-- EN: {0} successfully tamed {1} ({2} chance) and named [PAWN_objective] {3}. -->
-  <MessageTameAndNameSuccess>{0} lyckades framgångsrikt tämja {1} ({2} chans) och har döpts till [PAWN_objective] {3}.</MessageTameAndNameSuccess>
+  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
+  <MessageRecruitSuccess>{RECRUITER_nameFull} har framgångsrikt rekryterat {RECRUITEE_nameFull} ({2} chans).</MessageRecruitSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
+  <MessageTameSuccess>{0RECRUITER_labelShort} har framgångsrikt lyckats tämja {1} ({2} chans).</MessageTameSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance) and named {RECRUITEE_objective} {RECRUITEE_nameFull}. -->
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} lyckades framgångsrikt tämja {1} ({2} chans) och har döpts till {RECRUITEE_objective} {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>Kolonin har inte råd med det här erbjudandet.</MessageColonyCannotAfford>
@@ -111,35 +111,35 @@
   <!-- EN: Must designate forbidden items. -->
   <MessageMustDesignateUnforbiddable>Du måste ange förbjudna föremål.</MessageMustDesignateUnforbiddable>
 
-  <!-- EN: {0} has refused to be arrested! -->
-  <MessageRefusedArrest>{0} vägrar att bli arresterad!</MessageRefusedArrest>
+  <!-- EN: {1_labelShort} has refused to be arrested! -->
+  <MessageRefusedArrest>{1_labelShort} vägrar att bli arresterad!</MessageRefusedArrest>
   
   <!-- EN: There are no medical beds available. -->
   <MessageNoMedicalBeds>Det finns inga sjukhussängar tillgängliga.</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Det finns inga djurbäddar tillgängliga.</MessageNoAnimalBeds>
-  <!-- EN: Operation requires {0} or better, but {1}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>Operationen kräver {0} eller bättre, men {1}'s nuvarande medecinska nivå är "{2}".</MessageTooLowMedCare>
+  <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
+  <MessageTooLowMedCare>Operationen kräver {0} eller bättre, men {PAWN_labelShort}s nuvarande medecinska nivå är "{2}".</MessageTooLowMedCare>
   
-  <!-- EN: {0} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{0} har dött på grund av {1}.</PawnDiedBecauseOf>
-  <!-- EN: {0} has died. -->
-  <PawnDied>{0} har dött.</PawnDied>
+  <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
+  <PawnDiedBecauseOf>{PAWN_labelShort} har dött. Anledning: {1}.</PawnDiedBecauseOf>
+  <!-- EN: {1_labelShort} has died. -->
+  <PawnDied>{1_labelShort} har dött.</PawnDied>
 
-  <!-- EN: {0} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{0} är uppe på fötterna igen.</MessageNoLongerDowned>
+  <!-- EN: {1_label} is no longer incapable of walking. -->
+  <MessageNoLongerDowned>{1_label} är uppe på fötterna igen.</MessageNoLongerDowned>
 
-  <!-- EN: {0} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>{0} kollapsade på grund av extrem utmattning.</MessageInvoluntarySleep>
+  <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
+  <MessageInvoluntarySleep>{1_labelShort} kollapsade på grund av extrem utmattning.</MessageInvoluntarySleep>
 
-  <!-- EN: {0} has failed in a minor way while operating on {1}. -->
-  <MessageMedicalOperationFailureMinor>{0} gjorde ett mindre misstag när [PAWN_objective] opererade {1}.</MessageMedicalOperationFailureMinor>
-  <!-- EN: {0} has failed catastrophically while operating on {1}. -->
-  <MessageMedicalOperationFailureCatastrophic>{0} misslyckades katastofalt när [PAWN_objective] opererade {1}.</MessageMedicalOperationFailureCatastrophic>
-  <!-- EN: {0} has failed in a ridiculous way while operating on {1}. -->
-  <MessageMedicalOperationFailureRidiculous>{0} gjorde ett löjeväckande misstag när [PAWN_objective] opererade {1}.</MessageMedicalOperationFailureRidiculous>
-  <!-- EN: {0} has committed a fatal error while operating on {1} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{0} har begått ett dödligt misstag under operationen på {1} eftersom det fanns särskilda utmaningar: {2}</MessageMedicalOperationFailureFatal>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} gjorde ett mindre misstag vid operationen av {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_LabelShort}. -->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} misslyckades katastofalt vid operationen av {PATIENT_labelShort}.</MessageMedicalOperationFailureCatastrophic>
+  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} gjorde ett löjeväckande misstag vid operationen av {PATIENT_labelShort}.</MessageMedicalOperationFailureRidiculous>
+  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} har begått ett dödligt misstag under operationen på {PATIENT_labelShort} pågrund av  särskilda utmaningar: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>Den här operationen kommer att förarga {0}.</MessageMedicalOperationWillAngerFaction>
@@ -151,16 +151,16 @@
   <!-- EN: {0} has given birth. -->
   <MessageGaveBirth>{0} har fött.</MessageGaveBirth>
 
-  <!-- EN: {0} has named {1} {2} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{0} har namngett {1} {2} efter att ha blivit nosad på.</MessageNuzzledPawnGaveNameTo>
+  <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} har namngett {1} {NAMEE_nameFull} efter att ha blivit gosad med.</MessageNuzzledPawnGaveNameTo>
 
-  <!-- EN: No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}). -->
-  <MessageNoHandlerSkilledEnough>Ingen tränare kan tämja {0} (det kräver nivå {1} i {2}, den bästa tränaren {3} har {4}).</MessageNoHandlerSkilledEnough>
+  <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
+  <MessageNoHandlerSkilledEnough>Ingen tränare kan tämja {ANIMAL_kindBase} (det kräver nivå {1} i {2}, den bästa tränaren {HANDLER_labelShort} har {4}).</MessageNoHandlerSkilledEnough>
   
-  <!-- EN: {0} has been eaten by {1}. -->
-  <MessageEatenByPredator>{0} har blivit uppäten av {1}.</MessageEatenByPredator>
-  <!-- EN: {0} is being attacked by {1}! -->
-  <MessageAttackedByPredator>{0} blir attackerad av {1}!</MessageAttackedByPredator>
+  <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
+  <MessageEatenByPredator>{EATEN_labelShort} har blivit uppäten av {PREDATOR}.</MessageEatenByPredator>
+  <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
+  <MessageAttackedByPredator>{PREY_labelShort} blir attackerad av {PREDATOR}!</MessageAttackedByPredator>
   
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>En insektsvärm har fortplantat sig.</MessageHiveReproduced>
@@ -168,39 +168,39 @@
   <!-- EN: The trade caravan from {0} is leaving. -->
   <MessageTraderCaravanLeaving>Handelskaravanen från {0} ger sig av.</MessageTraderCaravanLeaving>
   
-  <!-- EN: {0} is dead. -->
-  <MessageCantSelectDeadPawn>{0} är död.</MessageCantSelectDeadPawn>
-  <!-- EN: {0} is off the map. -->
-  <MessageCantSelectOffMapPawn>{0} är utanför kartan.</MessageCantSelectOffMapPawn>
+  <!-- EN: {1_labelShort} is dead. -->
+  <MessageCantSelectDeadPawn>{1_labelShort} är död.</MessageCantSelectDeadPawn>
+  <!-- EN: {1_labelShort} is off the map. -->
+  <MessageCantSelectOffMapPawn>{1_labelShort} är utanför kartan.</MessageCantSelectOffMapPawn>
   
-  <!-- EN: {0} started a social fight with {1}. -->
-  <MessageSocialFight>{0} startade slagsmål med {1}.</MessageSocialFight>
+  <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
+  <MessageSocialFight>{PAWN1_labelShort} startade slagsmål med {PAWN2_labelShort}.</MessageSocialFight>
   
-  <!-- EN: Colonists are gathering to celebrate {0} and {1}’s marriage. -->
-  <MessageNewMarriageCeremony>Kolonisterna samlas för att fira bröllpet mellan {0} och {1}.</MessageNewMarriageCeremony>
-  <!-- EN: {0} and {1} are beginning their marriage ceremony! -->
-  <MessageMarriageCeremonyStarts>{0} och {1} börjar sin bröllopscermoni!</MessageMarriageCeremonyStarts>
-  <!-- EN: The marriage ceremony for {0} and {1} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>Bröllopscemonin mellan {0} och {1} har avblåsts.</MessageMarriageCeremonyCalledOff>
-  <!-- EN: {0} and {1} have married. Colonists are now celebrating the occasion. -->
-  <MessageNewlyMarried>{0} och {1} har gift sig. Kolonisterna firar nu den speciella händelsen.</MessageNewlyMarried>
-  <!-- EN: The marriage ceremony for {0} and {1} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>Bröllopscemonin för {0} och {1} har nu avslutats.</MessageMarriageCeremonyAfterPartyFinished>
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
+  <MessageNewMarriageCeremony>Kolonisterna samlas för att fira bröllpet mellan {PAWN1_labelShort} och {PAWN2_labelShort}.</MessageNewMarriageCeremony>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} och {PAWN2_labelShort} börjar sin bröllopscermoni!</MessageMarriageCeremonyStarts>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
+  <MessageMarriageCeremonyCalledOff>Bröllopscemonin mellan {PAWN1_labelShort} och {PAWN2_labelShort} har avblåsts.</MessageMarriageCeremonyCalledOff>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
+  <MessageNewlyMarried>{PAWN1_labelShort} och {PAWN2_labelShort} har gift sig. Kolonisterna firar nu den speciella händelsen.</MessageNewlyMarried>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
+  <MessageMarriageCeremonyAfterPartyFinished>Bröllopscemonin för {PAWN1_labelShort} och {PAWN2_labelShort} har nu avslutats.</MessageMarriageCeremonyAfterPartyFinished>
   
-  <!-- EN: {0} and {1} have formed a bond. -->
-  <MessageNewBondRelation>{0} och {1} har fäst sig vid varandra.</MessageNewBondRelation>
-  <!-- EN: {0} and {1} have formed a bond. {0} has named [PAWN_objective] {2}. -->
-  <MessageNewBondRelationNewName>{0} och {1} har fäst sig vid varandra. {0} har gett namnet {1} {2}.</MessageNewBondRelationNewName>
+  <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
+  <MessageNewBondRelation>{HUMAN_labelShort} och {ANIMAL_labelShort} har skapat ett band.</MessageNewBondRelation>
+  <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} och {1} har skapat ett band. {HUMAN_labelShort} har gett namnet {ANIMAL_objective} {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
   
-  <!-- EN: {0} has a mental break because of {1}'s death. -->
-  <MessageBondedAnimalMentalBreak>{0} har ett nervsammanbrott på grund av {1}'s dödsfall.</MessageBondedAnimalMentalBreak>
-  <!-- EN: {0} named {1} has a mental break because of {2}'s death. -->
-  <MessageNamedBondedAnimalMentalBreak>{0} vid namn {1} har fått ett nervsammanbrott på grund av {2}'s dödsfall.</MessageNamedBondedAnimalMentalBreak>
-  <!-- EN: {0} animals have a mental break because of {1}'s death. -->
-  <MessageBondedAnimalsMentalBreak>{0} djur har fått ett nervsammanbrott på grund av {1}'s dödsfall.</MessageBondedAnimalsMentalBreak>
+  <!-- EN: {ANIMAL} has a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalMentalBreak>{ANIMAL} har ett nervsammanbrott på grund av {HUMAN_labelShort}s dödsfall.</MessageBondedAnimalMentalBreak>
+  <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} vid namn {ANIMAL_label} har fått ett nervsammanbrott på grund av {HUMAN_labelShort}s dödsfall.</MessageNamedBondedAnimalMentalBreak>
+  <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalsMentalBreak>{0} djur har fått ett nervsammanbrott på grund av {HUMAN_labelShort}s dödsfall.</MessageBondedAnimalsMentalBreak>
   
-  <!-- EN: {0} has successfully removed {1}'s {2}. -->
-  <MessageSuccessfullyRemovedHediff>{0} har framgångsrikt lyckats avlägnsa {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+  <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} har framgångsrikt avlägnsat {PATIENT_labelShort}s {HEDIFF}.</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
   <MessageShipChunkDrop>En rymskeppsbit har fallit ner ifrån rymden och landat i närheten. Du kan demontera den för resurser.</MessageShipChunkDrop>
@@ -213,26 +213,26 @@
   <!-- EN: Some items cannot be traded because of:  -->
   <MessageCannotSellItemsReason>Några föremål kan inte säljas på grund av: </MessageCannotSellItemsReason>
 
-  <!-- EN: {1} failed while constructing {0}. Some resources have been wasted. -->
-  <MessageConstructionFailed>{1} har misslyckats att konstruera {0}. Några resurser har gått förlorade.</MessageConstructionFailed>
+  <!-- EN: {WORKER_labelShort} failed while constructing {0}. Some resources have been wasted. -->
+  <MessageConstructionFailed>{WORKER_labelShort} har misslyckats att konstruera {0}. Några resurser har gått förlorade.</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
   <MessageScreenshotSavedAs>Skärmdump sparad som: {0}</MessageScreenshotSavedAs>
   
-  <!-- EN: {0} and {1} are no longer social fighting. -->
-  <MessageNoLongerSocialFighting>{0} och {1} slåss inte längre.</MessageNoLongerSocialFighting>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} och {PAWN2_labelShort} är inte längre i slagsmål.</MessageNoLongerSocialFighting>
   
-  <!-- EN: {0} is no longer binging on {1}. -->
-  <MessageNoLongerBingingOnDrug>{0} frossar inte längre i {1}.</MessageNoLongerBingingOnDrug>
+  <!-- EN: {2_labelShort} is no longer binging on {1}. -->
+  <MessageNoLongerBingingOnDrug>{2_labelShort} frossar inte längre i {1}.</MessageNoLongerBingingOnDrug>
 
-  <!-- EN: {0} is no longer on an insulting spree against {1}. -->
-  <MessageNoLongerOnTargetedInsultingSpree>{0} har nu slutat förolämpa {1}.</MessageNoLongerOnTargetedInsultingSpree>
+  <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} har nu slutat förolämpa {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
 
-  <!-- EN: {0} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>{0} har ruttnat bort i lagret.</MessageRottedAwayInStorage>
+  <!-- EN: {1_label} has rotted away in storage. -->
+  <MessageRottedAwayInStorage>{1_label} har ruttnat bort i lagret.</MessageRottedAwayInStorage>
   
-  <!-- EN: {0} has gotten food poisoning from: {1}. Cause: {2}. -->
-  <MessageFoodPoisoning>{0} har fått matförgiftning från: {1}. Anledning: {2}.</MessageFoodPoisoning>
+  <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
+  <MessageFoodPoisoning>{PAWN_labelShort} har fått matförgiftning från: {FOOD_labelShort}. Anledning: {2}.</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
   <MessagePawnLostWhileFormingCaravan>{0} har avlägsnats från karavanen.</MessagePawnLostWhileFormingCaravan>
@@ -259,37 +259,31 @@
   <MessagePlantDiedOfRot>{0} har dött av röta.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>{0} har dött av gift.</MessagePlantDiedOfPoison>
-  <!-- EN: {0} has died because of blight. -->
-  <MessagePlantDiedOfBlight>{0} har dött av mjöldagg.</MessagePlantDiedOfBlight>
+  <!-- EN: {1_label} has died because of blight. -->
+  <MessagePlantDiedOfBlight>{1_label} har dött av mjöldagg.</MessagePlantDiedOfBlight>
 
-  <!-- EN: {0} is being burned by superheated air! -->
-  <MessagePawnBeingBurned>{0} bränns av överhettad luft!</MessagePawnBeingBurned>
+  <!-- EN: {1_labelShort} is being burned by superheated air! -->
+  <MessagePawnBeingBurned>{1_labelShort} blir brännd av överhettad luft!</MessagePawnBeingBurned>
 
-  <!-- EN: {0} has accidentally overdosed while consuming {1}! -->
-  <MessageAccidentalOverdose>{0} har överdoserat av misstag genom att äta {1}!</MessageAccidentalOverdose>
+  <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
+  <MessageAccidentalOverdose>{INGESTER} har överdoserat av misstag genom att äta {DRUG_labelShort}!</MessageAccidentalOverdose>
   
   <!-- EN: {0} has arrived at its destination. -->
   <MessageCaravanArrivedAtDestination>{0} har anlänt till sin destination.</MessageCaravanArrivedAtDestination>
   
-  <!-- EN: {0} has arrived in {1}. -->
-  <MessageCaravanIsVisitingSettlement>{0} har anlänt till {1}.</MessageCaravanIsVisitingSettlement>
-  
-  <!-- EN: {0} has arrived in {1}. -->
-  <MessageCaravanEnteredWorldObject>{0} har anlänt {1}.</MessageCaravanEnteredWorldObject>
-  
-  <!-- EN: {0} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>{0} har lämnat området och format en karavan.</MessagePawnLeftMapAndCreatedCaravan>
+  <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} har lämnat området och format en karavan.</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
   <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Dina djur förflyttar sig för att ansluta.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
   <!-- EN: You have successfully settled in a new area. -->
   <MessageSettledInExistingMap>Du har framgångsrikt bosatt dig ett nytt område.</MessageSettledInExistingMap>
   
-  <!-- EN: {1}'s {2} has healed. Cause: {0} -->
-  <MessagePermanentWoundHealed>{1}'s {2} har läkt. Orsak: {0} </MessagePermanentWoundHealed>
+  <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
+  <MessagePermanentWoundHealed>{PAWN_labelShort}s {2} har läkt. Orsak: {0} </MessagePermanentWoundHealed>
 
-  <!-- EN: Since you rescued [PAWN_objective], {0} has joined your group! -->
-  <MessageRescueeJoined>Eftersom du räddade [PAWN_objective], har {0} anslutit till din grupp!</MessageRescueeJoined>
+  <!-- EN: {1_labelShort} has joined your group after being rescued! -->
+  <MessageRescueeJoined>{1_labelShort} har nu anslutit till din grupp efter att ha blivit räddad!</MessageRescueeJoined>
   
   <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>En del transportkapslar inte kan nås.</MessageTransporterUnreachable>
@@ -309,13 +303,13 @@
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
   <MessageTransportPodsArrivedAndLost>Dina transportkapslar har anlänt, men eftersom det inte fanns några kolonister med är innehållet förlorat.</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>Dina transportkapslar har anlänt. Innehållet har tagits emot av {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
-  
-  <!-- EN: The loading process has been canceled because one of the colonists has been lost. -->
-  <MessageFailedToLoadTransportersBecauseColonistLost>Lastningsprocessen har avbrutits eftersom en av kolonisterna har försvunnit.</MessageFailedToLoadTransportersBecauseColonistLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Dina transportkapslar har anlänt. Innehållet har lagts till {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Your colonists have finished loading the transport pods. -->
   <MessageFinishedLoadingTransporters>Dina kolonister har nu lastat färdigt transportkapslarna.</MessageFinishedLoadingTransporters>
+
+  <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoTransporters>Din {1} kan inte slutföra att fylla transportkapseln eftersom några föremål eller människor är otillgängliga ({2_labelShort})</MessageCantLoadMoreIntoTransporters>
   
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>Den valda destinationen är ogiltig.</MessageTransportPodsDestinationIsInvalid>
@@ -328,16 +322,16 @@
   <!-- EN: You can't banish the last colonist. -->
   <MessageCantBanishLastColonist>Du kan inte förvisa den sista kolonisten.</MessageCantBanishLastColonist>
   
-  <!-- EN: Cannot equip: {0} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>Det går inte att utrusta: {0} är pacifist.</MessageCantEquipIncapableOfViolence>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
+  <MessageCantEquipIncapableOfViolence>Det går inte att utrusta: {1_labelShort} är pacifist.</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: incapable. -->
   <MessageCantEquipIncapableOfManipulation>Det går inte att utrusta: oförmögen.</MessageCantEquipIncapableOfManipulation>
   
-  <!-- EN: Because they are bonded, slaughtering {0} will make {1} unhappy. -->
-  <MessageSlaughteringBondedAnimal>Eftersom de har fäst sig vid någon kommer slakt av {0} göra {1} olycklig.</MessageSlaughteringBondedAnimal>
+  <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageSlaughteringBondedAnimal>Eftersom de har ett band till någon kommer slakt av {DESIGNATED_labelShort} göra {BONDED_labelShort} olycklig.</MessageSlaughteringBondedAnimal>
   
-  <!-- EN: {0} has run out of food ({1}). -->
-  <MessageCaravanRanOutOfFood>{0} har fått slut på mat ({1}).</MessageCaravanRanOutOfFood>
+  <!-- EN: {0} has run out of food ({PAWN_label}). -->
+  <MessageCaravanRanOutOfFood>{0} har fått slut på mat ({PAWN_label}).</MessageCaravanRanOutOfFood>
 
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
   <MessageSelectOwnBaseToFormCaravan>För att bilda en karavan, välj din egen koloni eller en plats där du har folk.</MessageSelectOwnBaseToFormCaravan>
@@ -351,10 +345,10 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} från {1} attackerar din {2}.</MessageDefendersAttacking>
 
-  <!-- EN: To self-tend, {0} must also be assigned to Doctor work. -->
-  <MessageSelfTendUnsatisfied>För att kunna lägga om ett sår på sig själv måste {0} vara tilldelad arbetsuppgiften Doktor.</MessageSelfTendUnsatisfied>
-  <!-- EN: {0} is incapable of doing Doctor work, and so cannot ever self-tend. -->
-  <MessageCannotSelfTendEver>{0} är ej kapabel till att utföra läkararbete och kan därför inte behandla sig själv.</MessageCannotSelfTendEver>
+  <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
+  <MessageSelfTendUnsatisfied>För att kunna lägga om ett sår på sig själv måste {1_labelShort} vara tilldelad arbetsuppgiften Läkare.</MessageSelfTendUnsatisfied>
+  <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
+  <MessageCannotSelfTendEver>{1_labelShort} är ej kapabel att utföra läkarvård och kan därför inte behandla sig själv.</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
   <MessageCantAddWaypointBecauseImpassable>Denna ruta är ogenomtränglig.</MessageCantAddWaypointBecauseImpassable>
@@ -373,8 +367,8 @@
   <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
   <MessageSiteCountdownBecauseNoEnemiesInitially>Om {0} kommer karavanen automatiskt återskapas. Du kan återskapa karavanen  på världskartan.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
-  <!-- EN: Cannot banish {0} since [PAWN_pronoun] cannot walk. -->
-  <MessageCantBanishDownedPawn>Kan inte förvisa {0} eftersom [PAWN_pronoun] inte kan gå.</MessageCantBanishDownedPawn>
+  <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
+  <MessageCantBanishDownedPawn>Kan inte förvisa {1_labelShort} eftersom {1_pronoun} inte kan gå.</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0} har vaknat.</MessageSleepingPawnsWokenUp>
@@ -392,10 +386,10 @@
   <!-- EN: {0} has been brought back to life! -->
   <MessagePawnResurrected>{0} har kommit tillbaka till livet!</MessagePawnResurrected>
 
-  <!-- EN: You have failed to rescue {0}. This will make {1} sad. -->
-  <MessageFailedToRescueRelative>Du har misslyckats med att rädda {0}. Detta kommer att göra {1} ledsen.</MessageFailedToRescueRelative>
-  <!-- EN: You have rescued {0}. This will make {1} happy. -->
-  <MessageRescuedRelative>Du har räddat {0}. Detta kommer att göra {1} glad.</MessageRescuedRelative>
+  <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
+  <MessageFailedToRescueRelative>Du har misslyckats med att rädda {PAWN_labelShort}. Detta kommer att göra {RELATIVE_labelShort} ledsen.</MessageFailedToRescueRelative>
+  <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
+  <MessageRescuedRelative>Du har räddat {PAWN_labelShort}. Detta kommer att göra {RELATIVE_labelShort} glad.</MessageRescuedRelative>
 
   <!-- EN: The tornado has left the map. -->
   <MessageTornadoLeftMap>Tornadon har lämnat kartan.</MessageTornadoLeftMap>
@@ -408,14 +402,14 @@
   <!-- EN: Warning: {0} cannot live when exposed to light. -->
   <MessageWarningCavePlantsExposedToLight>Varning: {0} kan inte leva vid exponering för ljus.</MessageWarningCavePlantsExposedToLight>
 
-  <!-- EN: {0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}. -->
-  <MessageTargetedTantrumChangedTarget>{0} kunde inte nå {1} så [PAWN_pronoun] bestämde sig för rikta [PAWN_possessive] ilska på {2}.</MessageTargetedTantrumChangedTarget>
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedTantrumChangedTarget>{0} kunde inte nå {1} så {PAWN_pronoun} bestämde sig för rikta {PAWN_possessive} ilska på {TARGET_label}.</MessageTargetedTantrumChangedTarget>
 
-  <!-- EN: {0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}. -->
-  <MessageTargetedInsultingSpreeChangedTarget>{0} kunde inte nå {1} så [PAWN_pronoun] bestämde sig för att rikta [PAWN_possessive] ilska på {2}.</MessageTargetedInsultingSpreeChangedTarget>
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} kunde inte nå {OLDTARGET_label} så {PAWN_pronoun} bestämde sig för att rikta {PAWN_possessive} ilska på {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
 
-  <!-- EN: {0} has decided to redirect [PAWN_possessive] anger at {1}. -->
-  <MessageMurderousRageChangedTarget>{0} har bestämt sig för att rikta [PAWN_possessive] ilska på {1}.</MessageMurderousRageChangedTarget>
+  <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} har bestämt sig för att rikta {PAWN_possessive} ilska på {TARGET_label}.</MessageMurderousRageChangedTarget>
 
   <!-- EN: {0} cannot grow underneath a roof. -->
   <MessagePlantIncompatibleWithRoof>{0} kan inte växa under tak.</MessagePlantIncompatibleWithRoof>
@@ -425,41 +419,42 @@
   <!-- EN: Caravan will automatically travel to the first waypoint. -->
   <MessageChoseRoute>Karavanen reser automatiskt till den första vägpuknten.</MessageChoseRoute>
 
-  <!-- EN: {0} blocked {1} on: {2}. -->
-  <MessageBlockedHediff>{0} blockerade {1} på: {2}.</MessageBlockedHediff>
-
-  <!-- EN: {0} has created a {1}. -->
-  <MessageCraftedMasterwork>{0} har skapat en {1}.</MessageCraftedMasterwork>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
+  <MessageCraftedMasterwork>{WORKER_labelShort} har skapat en {CRAFTED_labelShort}.</MessageCraftedMasterwork>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid>För att lämna området, använd knappen "återskapa karavan" på världskartan.</MessagePlayerTriedToLeaveMapViaExitGrid>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>För att lämna området använd knappen återställ karavan i världsöversikten.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <!-- EN: You can't leave the map now. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Du kan inte lämna kartan nu.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
   <MessageGoodwillChanged>Relationen med {0} har ändrats från {1} till {2}.</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
   <MessageGoodwillChangedWithReason>Relationen med {0} har ändrats från {1} till {2} ({3}).</MessageGoodwillChangedWithReason>
-  <!-- EN: attacked {0} -->
-  <GoodwillChangedReason_AttackedPawn>attackerade {0}</GoodwillChangedReason_AttackedPawn>
-  <!-- EN: used {0} on {1} -->
-  <GoodwillChangedReason_UsedItem>använde {0} på {1}</GoodwillChangedReason_UsedItem>
+  <!-- EN: attacked {1_labelShort} -->
+  <GoodwillChangedReason_AttackedPawn>attackerade {1_labelShort}</GoodwillChangedReason_AttackedPawn>
+  <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
+  <GoodwillChangedReason_UsedItem>använde {ITEM_labelShort} på {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
   <!-- EN: harvested {0} -->
   <GoodwillChangedReason_RemovedBodyPart>skördade {0}</GoodwillChangedReason_RemovedBodyPart>
-  <!-- EN: captured {0} -->
-  <GoodwillChangedReason_CapturedPawn>tillfångatog {0}</GoodwillChangedReason_CapturedPawn>
-  <!-- EN: {0} crushed -->
-  <GoodwillChangedReason_PawnCrushed>{0} krossades</GoodwillChangedReason_PawnCrushed>
-  <!-- EN: {0} died -->
-  <GoodwillChangedReason_PawnDied>{0} dog</GoodwillChangedReason_PawnDied>
+  <!-- EN: needlessly installed {0} -->
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>Onödigt installerad {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <!-- EN: captured {1_labelShort} -->
+  <GoodwillChangedReason_CapturedPawn>tillfångatog {1_labelShort}</GoodwillChangedReason_CapturedPawn>
+  <!-- EN: {1_labelShort} crushed -->
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} krossades</GoodwillChangedReason_PawnCrushed>
+  <!-- EN: {1_labelShort} died -->
+  <GoodwillChangedReason_PawnDied>{1_labelShort} dog</GoodwillChangedReason_PawnDied>
   <!-- EN: traded -->
   <GoodwillChangedReason_Traded>handlade</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
   <GoodwillChangedReason_AttackedCaravan>attackerade en karavan</GoodwillChangedReason_AttackedCaravan>
   <!-- EN: natural tendency to reach {0} over time -->
   <GoodwillChangedReason_NaturallyOverTime>naturlig tendens att nå {0} över tid</GoodwillChangedReason_NaturallyOverTime>
-  <!-- EN: {0} exited the map healthy -->
-  <GoodwillChangedReason_ExitedMapHealthy>{0} lämnade kartan frisk</GoodwillChangedReason_ExitedMapHealthy>
-  <!-- EN: tended to {0} -->
-  <GoodwillChangedReason_Tended>gav läkarvård åt {0}</GoodwillChangedReason_Tended>
+  <!-- EN: {1_labelShort} exited the map healthy -->
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} lämnade kartan frisk</GoodwillChangedReason_ExitedMapHealthy>
+  <!-- EN: tended to {1_labelShort} -->
+  <GoodwillChangedReason_Tended>gav läkarvård till {1_labelShort}</GoodwillChangedReason_Tended>
   <!-- EN: received a gift -->
   <GoodwillChangedReason_ReceivedGift>tog enot en gåva</GoodwillChangedReason_ReceivedGift>
   <!-- EN: fulfilled a trade offer -->
@@ -491,10 +486,10 @@
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
   <MessageBillValidationStoreZoneInsufficient>{1}'s "{0}" kan inte längre leverera alla produkter till lager {2}.</MessageBillValidationStoreZoneInsufficient>
 
-  <!-- EN: Because of a lack of taming maintenance, {0} has returned to the wild. -->
-  <MessageAnimalReturnedWild>På grund av bristande träningsunderhåll har {0} återgått till det vilda.</MessageAnimalReturnedWild>
-  <!-- EN: Due to a lack of maintenance training, {0} has lost a skill: {1} -->
-  <MessageAnimalLostSkill>På grund av brist i underhållsträning har {0} förlorat en färdighet: {1}</MessageAnimalLostSkill>
+  <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
+  <MessageAnimalReturnedWild>På grund av bristande träningsunderhåll har {1_labelShort} återgått till det vilda.</MessageAnimalReturnedWild>
+  <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
+  <MessageAnimalLostSkill>På grund av brist i underhållsträning har {ANIMAL_labelShort} förlorat en färdighet: {1}</MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
   <MessageTranslationReportSaved>Översättningsrapport skriven till {0}</MessageTranslationReportSaved>
@@ -505,11 +500,13 @@
   <!-- EN: You can't re-enter for another {0} days. -->
   <MessageEnterCooldownBlocksEntering>Du kan inte återvända förrän om {0} dagar.</MessageEnterCooldownBlocksEntering>
 
-  <!-- EN: {0} is hunting {1} for food! -->
-  <MessagePredatorHuntingPlayerAnimal>{0} jagar {1} som föda!</MessagePredatorHuntingPlayerAnimal>
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} jagar {PREY_definite} som föda!</MessagePredatorHuntingPlayerAnimal>
 
-  <!-- EN: Prisoner {0}'s resistance has been broken by {1}. Recruitment attempts will begin. -->
-  <MessagePrisonerResistanceBroken>Fånge {0}s motstånd har brutits ned med {1}. Rekryteringsförsök kommer att börja.</MessagePrisonerResistanceBroken>
+  <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
+  <MessagePrisonerResistanceBroken>Fånge {PRISONER_labelShort}s motstånd har brutits ned av {WARDEN_labelShort}</MessagePrisonerResistanceBroken>
+  <!-- EN: Recruitment attempts will begin. -->
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Rekryteringsförsök kommer inledas.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <!-- EN: Disable all mods before using this tool. -->
   <MessageDisableModsBeforeCleaningTranslationFiles>Inaktivera alla moddar innan du använder det här verktyget.</MessageDisableModsBeforeCleaningTranslationFiles>
@@ -518,5 +515,18 @@
 
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
   <MessageCantCleanupTranslationFilesBeucaseOfXmlError>En av översättningsfilerna ({0}) kunde inte laddas. Alla XML-analysfel måste lösas först.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
+  <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
+  <MessageCapturingWillAngerFaction>Varning: Att tillfångata {PAWN_nameDef} kommer irritera {PAWN_possessive} fraktion {PAWN_factionName}.</MessageCapturingWillAngerFaction>
+
+  <!-- EN: Cannot shoot in melee. -->
+  <MessageCantShootInMelee>Kan inte skjuta i närstrid</MessageCantShootInMelee>
+
+  <!-- UNUSED -->
+  <MessageCaravanIsVisitingSettlement>{0} har anlänt till {1}.</MessageCaravanIsVisitingSettlement>
+  <MessageCaravanEnteredWorldObject>{0} har anlänt {1}.</MessageCaravanEnteredWorldObject>
+  <MessageFailedToLoadTransportersBecauseColonistLost>Lastningsprocessen har avbrutits eftersom en av kolonisterna har försvunnit.</MessageFailedToLoadTransportersBecauseColonistLost>
+  <MessageBlockedHediff>{0} blockerade {1} på: {2}.</MessageBlockedHediff>
+  <MessagePlayerTriedToLeaveMapViaExitGrid>För att lämna området, använd knappen "återskapa karavan" på världskartan.</MessagePlayerTriedToLeaveMapViaExitGrid>
 
 </LanguageData>
