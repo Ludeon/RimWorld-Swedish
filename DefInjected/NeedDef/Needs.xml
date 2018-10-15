@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: beauty -->
@@ -28,8 +28,8 @@
   
   <!-- EN: outdoors -->
   <Outdoors.label>Utomhus</Outdoors.label>
-  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in tight underground bases. -->
-  <Outdoors.description>Utomhus anger behovet av att inte känna sig inburad innomhus och behov av frisk luft. Det försämras av att spendera långa perioder innomhus, särskilt under jord. Det ökar när någon spenderar tid utomhus under himmlen, särskilt utomhus. Det handlar inte om storleken på rum, utan behovet av att vara just utomhus lite då och då. En brist på att få spendera tid utomhus i den friska luften är oftast en svår utmaning för personer som bor i trånga underjordiska baser.</Outdoors.description>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Utomhus anger behovet av att inte känna sig inburad innomhus och behov av frisk luft. Det försämras av att spendera långa perioder innomhus, särskilt under jord. Det ökar när någon spenderar tid utomhus under himmlen, särskilt utomhus. Det handlar inte om storleken på rum, utan behovet av att vara just utomhus lite då och då. En brist på att få spendera tid utomhus i den friska luften är oftast en svår utmaning för personer som bor i underjordiska baser.</Outdoors.description>
   
   <!-- EN: rest -->
   <Rest.label>vila</Rest.label>

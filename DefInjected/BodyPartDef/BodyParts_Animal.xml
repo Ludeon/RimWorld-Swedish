@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: jaw -->
@@ -16,11 +16,11 @@
   <!-- EN: elytra -->
   <Elytra.label>elytra</Elytra.label>
   
-  <!-- EN: claw -->
-  <FrontClaw.labelShort>klo</FrontClaw.labelShort>
   <!-- EN: front claw -->
   <FrontClaw.label>framklo</FrontClaw.label>
- 
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>klo</FrontClaw.labelShort>
+  
   <!-- EN: head claw -->
   <HeadClaw.label>huvudklo</HeadClaw.label>
   
@@ -60,10 +60,10 @@
   <!-- EN: pronotum -->
   <Pronotum.label>prothorax</Pronotum.label>
   
-  <!-- EN: claw -->
-  <RearClaw.labelShort>klo</RearClaw.labelShort>
   <!-- EN: rear claw -->
   <RearClaw.label>bakklo</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>klo</RearClaw.labelShort>
   
   <!-- EN: shell -->
   <Shell.label>skal</Shell.label>
