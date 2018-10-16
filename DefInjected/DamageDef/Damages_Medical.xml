@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: execution cut -->
+  <ExecutionCut.label>snitt från avrättning</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
   <ExecutionCut.deathMessage>{0} har blivit avrättad.</ExecutionCut.deathMessage>
-  <!-- EN: execution cut -->
-  <ExecutionCut.label>TODO</ExecutionCut.label>
   
-  <!-- EN: {0} has died during surgery. -->
-  <SurgicalCut.deathMessage>{0} avled under en operation.</SurgicalCut.deathMessage>
   <!-- EN: surgical cut -->
   <SurgicalCut.label>kirurgiskt snitt</SurgicalCut.label>
+  <!-- EN: {0} has died during surgery. -->
+  <SurgicalCut.deathMessage>{0} avled under en operation.</SurgicalCut.deathMessage>
   
 </LanguageData>

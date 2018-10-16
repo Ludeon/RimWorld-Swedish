@@ -1,94 +1,94 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
-  <AnimalsDontAttackDoors.helpText>Människojagande djur brukar inte attackera dörrar eller inaktiva kulsprutetorn.\n\nDu kan fly från dem genom att att stanna innomhus eller bakom en mur, men de väntar på dig där utanför.</AnimalsDontAttackDoors.helpText>
   <!-- EN: Animals don't attack doors -->
   <AnimalsDontAttackDoors.label>Djur attackerar inte dörrar</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
+  <AnimalsDontAttackDoors.helpText>Människojagande djur brukar inte attackera dörrar eller inaktiva kulsprutetorn.\n\nDu kan fly från dem genom att att stanna innomhus eller bakom en mur. Men de väntar på dig där utanför.</AnimalsDontAttackDoors.helpText>
   
-  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
-  <BillsTab.helpText>För att få en kolonist att tillverka något behöver du öppna beställningsfliken. Här kan beställa mat att laga, saker att tillverka och djur att stycka.</BillsTab.helpText>
   <!-- EN: Bills tab -->
   <BillsTab.label>Beställningsflik</BillsTab.label>
+  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
+  <BillsTab.helpText>För att få en kolonist att tillverka något behöver du öppna beställningsfliken. Här kan beställa mat att laga, saker att tillverka och djur att stycka.</BillsTab.helpText>
   
-  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <BuildOrbitalTradeBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en PLANETÄR HANDELSFYR och placera den nära det förråd som har de föremål du vill sälja.</BuildOrbitalTradeBeacon.helpText>
   <!-- EN: Build orbital trade beacon -->
-  <BuildOrbitalTradeBeacon.label>Att bygga en handelsfyr</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.label>Bygg en handelsfyr</BuildOrbitalTradeBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <BuildOrbitalTradeBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en PLANETÄR HANDELSFYR och placera den nära ett lager med föremål.</BuildOrbitalTradeBeacon.helpText>
   
-  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>Om en fiende är medvetslös kan du TILLFÅNGATA henom.\n\nFör att göra detta behöver du välja en kolonist och sedan höckerklicka på den medvetslöse fienden, välj sedan "Tillfångata".\n\nDu kommer behöva en extra säng reserverad för fångar.</Capturing.helpText>
   <!-- EN: Capturing -->
   <Capturing.label>Tillfångata någon</Capturing.label>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpText>När en fiende ligger på marken utan att vara död kan du TILLFÅNGATA dem.\n\nFör att göra detta behöver du välja en kolonist och sedan höckerklicka på den handlingsförlamade fienden, välj sedan "Tillfångata".\n\nDu kommer behöva en extra säng reserverad för fångar.</Capturing.helpText>
   
-  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
-  <DoorOpenSpeed.helpText>Dörrar öppnas med olika hastighet beroende på vad de är tillverkade av.\n\nVarning: Stendörrar öppnar sig väldigt långsamt. Alla som går genom dem kommer saktas ned avsevärt.</DoorOpenSpeed.helpText>
   <!-- EN: Door opening speeds -->
   <DoorOpenSpeed.label>Olika hastigheter för dörrar</DoorOpenSpeed.label>
+  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
+  <DoorOpenSpeed.helpText>Dörrar öppnas med olika hastighet beroende på vad de är tillverkade av.\n\nVarning: Stendörrar öppnar sig väldigt långsamt. Alla som går genom dem kommer saktas ned avsevärt.</DoorOpenSpeed.helpText>
   
-  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>För att kontrollera en kolonister i strid behöver du klicka på "Kommendera" för att kommendera dem\n\nEn kommenderad kolonost kommer endast att göra vad du säger till hen att göra och kan endast utföra stridshandlingar. De som har vapen kommer att använda dem om det är möjligt.\n\nLämna inte kolonister kommenderade för alltid - då svälter de och blir olyckiga.</Drafting.helpText>
   <!-- EN: Drafting for combat -->
   <Drafting.label>Kommendera för strid</Drafting.label>
+  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
+  <Drafting.helpText>För att kontrollera en kolonister direkt till strid behöver du markera dem och klicka på "Kommendera"\n\nEn kommenderade kolonister kommer endast att göra vad du säger till dem att göra, och kan endast utföra stridshandlingar. De som har vapen kommer att använda dem om det är möjligt.\n\nLämna inte kolonister kommenderade för alltid - då svälter de och blir olyckiga.</Drafting.helpText>
   
-  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
-  <DrugAddiction.helpText>Du kan se kolonisters behov av olika droger i behovsfliken.\n\nSå länge deras behovsnivå är på noll kommer deras beroende förädras till ett abstinens-tillstånd, vilket kan ha olika negativa bieffekter.\n\nHusomhelst efter en längre tid av abstinens kommer deras drogberoende att försvinna.</DrugAddiction.helpText>
   <!-- EN: Drug addiction -->
   <DrugAddiction.label>Drogberoende</DrugAddiction.label>
+  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
+  <DrugAddiction.helpText>Du kan se kolonisters behov av olika droger i behovsfliken.\n\nSå länge deras behovsnivå är på noll kommer deras beroende förändras till ett abstinens-tillstånd, vilket kan ha olika negativa bieffekter.\n\nHusomhelst efter en längre tid av abstinens kommer deras drogberoende att försvinna.</DrugAddiction.helpText>
   
-  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
-  <DrugBurning.helpText>Droger kan var användbara men kan även leda till ett farligt missbruk.\n\nOm du vill undvika droger i din koloni kan du bränna upp dem i en lägereld.</DrugBurning.helpText>
   <!-- EN: Drug burning -->
   <DrugBurning.label> Elda upp droger</DrugBurning.label>
+  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
+  <DrugBurning.helpText>Droger kan var användbara men kan även leda till ett farligt missbruk.\n\nOm du vill undvika droger i din koloni kan du bränna upp dem i en lägereld.</DrugBurning.helpText>
   
-  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take anti-malaria drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>Du kan tilldela kolonister specifika droger på ett specipikt schema. Till exempel att de ska äta anti-malaria medicin regelbundet eller dricka en öl om dagen för att vara på bra humör.\n\nÖppna fliken TILLDELA och klicka på 'Hantera drogpolicy'. Skapa en ny policy och tilldela den till en kolonist. Kolinister kan fortfarande ta droger som inte ingår i policyn. Du kan säga till dem vad de ska göra, men de följer även sina egna begär!</DrugPolicies.helpText>
   <!-- EN: Drug policies -->
   <DrugPolicies.label>Drogpolicy</DrugPolicies.label>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take anti-malaria drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>Du kan tilldela kolonister specifika droger på ett specipikt schema. Till exempel att de ska äta anti-malaria medicin regelbundet eller dricka en öl om dagen för att vara på bra humör.\n\nÖppna fliken TILLDELA och klicka på 'Hantera drogpolicy'. Skapa en ny policy och tilldela den till en kolonist. Kolinister kan fortfarande ta droger som inte ingår i policyn. Du kan säga till dem vad de ska göra, men de följer även sina egna begär!</DrugPolicies.helpText>
   
+  <!-- EN: Interacting with traders -->
+  <InteractingWithTraders.label>Interagera med handlare</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
   <InteractingWithTraders.helpText>Du kan interagera med personer som har ett ? ovanför sitt huvud.\n\nVälj en kolonist och högerklicka sedan på personen med ett ? ovanför huvudet.</InteractingWithTraders.helpText>
-  <!-- EN: Interacting with traders -->
-  <InteractingWithTraders.label>Interagera med handelsmän</InteractingWithTraders.label>
   
+  <!-- EN: Using the comms console -->
+  <OpeningComms.label>Använda kommunikationskonsollen</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
   <OpeningComms.helpText>För att anropa någon behöver du välja en kolonist och högerklicka på kommunikationskonsollen.</OpeningComms.helpText>
-  <!-- EN: Using the comms console -->
-  <OpeningComms.label>Kommikationskonsollen</OpeningComms.label>
   
-  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>Öppna en tillfångatagen persons flik 'Fånge' för att se hur de kommer bli behandlade.\n\nDu kan ställa in huruvida de skall bli rekryterade, ignorerade, avrättade m.fl. och om dom får äta samt vilken typ av medicinsk vård dom skall få.\n\nKolonisterna med Arbetsuppgiften Vakt interagerar med fångar.</PrisonerTab.helpText>
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>Fängelsefliken</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>Titta i en tillfångatagens  flik 'Fånge' fjustera hur de ska bli behandlade.\n\nDu kan ställa in huruvida de skall bli rekryterade, ignorerade, avrättade m.fl. och om dom får äta samt vilken typ av medicinsk vård de skall få.\n\nKolonisterna med Arbetsuppgiften Vakt interagerar med fångar.</PrisonerTab.helpText>
   
-  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>När du ger kommandon, kan du köa upp flera uppgifter genom att hålla ned "shift". Detta fungerar också när man tilldelar uppgifter till okommenderade kolonister.</QueueOrders.helpText>
   <!-- EN: Order queueing -->
   <QueueOrders.label>Orderkö</QueueOrders.label>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpText>När du ger kommandon till dina kolonister kan du köa upp flera uppgifter genom att hålla ned "shift". Detta fungerar också när man tilldelar uppgifter till okommenderade kolonister.</QueueOrders.helpText>
   
-  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
-  <ReformCaravan.helpText>Efter ett möte kan du enkelt omforma en karavan med hjälp av kommandot OMFORMERA KARAVAN på världskartan.</ReformCaravan.helpText>
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>Omformera Karavan</ReformCaravan.label>
+  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
+  <ReformCaravan.helpText>Efter ett möte kan du enkelt omforma en karavan med hjälp av kommandot OMFORMERA KARAVAN på världskartan.</ReformCaravan.helpText>
   
-  <!-- EN: To rescue a wounded person, select a healthy colonist and the right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpText>För att rädda en skadad person behöver du välja en frisk kolonist och hörgerklicka på den skadade.\n\Om du räddar en person som inte är kolonist är det inte helt säkert att hen ansluter till kolonin. Hen kan helt enkelt gå sin väg när hen tillfrisknat. För att garantera att någon ansluter till kolonin, tillfångata henom och rekrytera hen.</Rescuing.helpText>
   <!-- EN: Rescuing -->
   <Rescuing.label>Rädda någon</Rescuing.label>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and the right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpText>För att rädda en skadad person, välj en frisk kolonist och hörgerklicka på den skadade.\n\Om du räddar en personer som inte är kolonister är det inte helt säkert att de ansluter till kolonin. De kan helt enkelt gå sin väg när de tillfrisknat. Om du vill garantera att de ansluter, tillfångata och rekrytera dem.</Rescuing.helpText>
   
-  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>Du kan bestämma vad du vill odla i en odlingzon. Du kan till och med odla träd!\n\nVälj växtzonen, öppna Odlingsfliken och klicka på 'Plantera'.</SetGrowingZonePlant.helpText>
   <!-- EN: Set what plant to grow -->
   <SetGrowingZonePlant.label>Bestäm vad du vill odla</SetGrowingZonePlant.label>
+  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
+  <SetGrowingZonePlant.helpText>Du kan bestämma vad du vill odla i en odlingzon. Du kan till och med odla träd!\n\nVälj odlingszonen, öppna Odlingsfliken och klicka på 'Plantera'.</SetGrowingZonePlant.helpText>
   
-  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
-  <ShieldBelts.helpText>Ett sköldbälte hindrar avståndsattacker både in och ut. De har ingen inverkan på närstridsattacker. Bästa sättet att attackera en fiende med sköldbälte är att kfokusera mycket skottlossning på personen, eller slåss i närstrid.</ShieldBelts.helpText>
   <!-- EN: Shield belts -->
   <ShieldBelts.label>Sköldbälte</ShieldBelts.label>
+  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+  <ShieldBelts.helpText>Ett sköldbälte hindrar avståndsattacker både in och ut. De har ingen inverkan på närstridsattacker. Bästa sättet att attackera en fiende med sköldbälte är att kfokusera mycket skottlossning på personen, eller slåss i närstrid.</ShieldBelts.helpText>
   
-  <!-- EN: Sick people can watch TV while laying in bed. -->
-  <TVForSickPeople.helpText>Sjuka personer kan titta på TV medan de ligger i sängen.</TVForSickPeople.helpText>
   <!-- EN: TV for sick people -->
   <TVForSickPeople.label>TV för sjuka personer</TVForSickPeople.label>
+  <!-- EN: Sick people can watch TV while laying in bed. -->
+  <TVForSickPeople.helpText>Sjuka personer kan titta på TV medan de ligger i sängen.</TVForSickPeople.helpText>
   
 </LanguageData>

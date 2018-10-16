@@ -1,44 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: ancients -->
+  <Ancients.label>TODO</Ancients.label>
+  <Ancients.description>Människor från en uråldrig civilisation.</Ancients.description>
   <!-- EN: Ancients -->
   <Ancients.fixedName>TODO</Ancients.fixedName>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>TODO</Ancients.pawnsPlural>
-  <!-- EN: ancients -->
-  <Ancients.label>TODO</Ancients.label>
-  <Ancients.description>Människor från en uråldrig civilisation.</Ancients.description>
   
+  <!-- EN: ancients -->
+  <AncientsHostile.label>TODO</AncientsHostile.label>
+  <AncientsHostile.description>Människor från en uråldrig civilisation.</AncientsHostile.description>
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>TODO</AncientsHostile.fixedName>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>TODO</AncientsHostile.pawnsPlural>
-  <!-- EN: ancients -->
-  <AncientsHostile.label>TODO</AncientsHostile.label>
-  <AncientsHostile.description>Människor från en uråldrig civilisation.</AncientsHostile.description>
   
+  <!-- EN: insects -->
+  <Insect.label>Insekter</Insect.label>
+  <Insect.description>Valigtvis agressiva och påträngande insekter.</Insect.description>
   <!-- EN: insects -->
   <Insect.fixedName>Insekter</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>Insekt</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>Insekter</Insect.pawnsPlural>
-  <!-- EN: insects -->
-  <Insect.label>Insekter</Insect.label>
-  <Insect.description>Valigtvis agressiva och påträngande insekter.</Insect.description>
   
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>Mekanoidisk svärm</Mechanoid.label>
+  <Mechanoid.description>En svärm av uråldriga, sjävreproducerande robotar.</Mechanoid.description>
   <!-- EN: a mechanoid hive -->
   <Mechanoid.fixedName>En svärm mekanoider</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>mekanoid</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
   <Mechanoid.pawnsPlural>mekanoider</Mechanoid.pawnsPlural>
-  <!-- EN: mechanoid hive -->
-  <Mechanoid.label>Mekanoidisk svärm</Mechanoid.label>
-  <Mechanoid.description>En svärm av uråldriga, sjävreproducerande robotar.</Mechanoid.description>
   
 </LanguageData>

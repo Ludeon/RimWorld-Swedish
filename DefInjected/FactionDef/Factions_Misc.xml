@@ -1,57 +1,57 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: outlander -->
-  <OutlanderCivil.pawnSingular>främling</OutlanderCivil.pawnSingular>
-  <!-- EN: outlanders -->
-  <OutlanderCivil.pawnsPlural>främlingar</OutlanderCivil.pawnsPlural>
-  <!-- EN: prime councilor -->
-  <OutlanderCivil.leaderTitle>Rådmästare</OutlanderCivil.leaderTitle>
   <!-- EN: civil outlander union -->
   <OutlanderCivil.label>civiliserad unoin av främlingar</OutlanderCivil.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
   <OutlanderCivil.description>Dessa människor har levt här i decenier eller århundraden och har förlorat det mesta av den teknologi som förde dem till denna värld. De använder simpla maskiner och försvarar sig med avancerade krutvapen.\n\nDe bryr sig om praktiska saker såsom handel, förtroende och överlevnad.\n\nFör denna grupp står hövlighet högt i kurs.</OutlanderCivil.description>
-  
-  <!-- EN: outlander -->
-  <OutlanderRough.pawnSingular>främling</OutlanderRough.pawnSingular>
-  <!-- EN: outlanders -->
-  <OutlanderRough.pawnsPlural>främlingar</OutlanderRough.pawnsPlural>
   <!-- EN: prime councilor -->
-  <OutlanderRough.leaderTitle>Rådmästare</OutlanderRough.leaderTitle>
+  <OutlanderCivil.leaderTitle>Rådmästare</OutlanderCivil.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>främling</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>främlingar</OutlanderCivil.pawnsPlural>
+  
   <!-- EN: rough outlander union -->
   <OutlanderRough.label>hårdhänt union av främlingar</OutlanderRough.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
   <OutlanderRough.description>Dessa människor har levt här i decenier eller århundraden och har förlorat det mesta av den teknologi som förde dem till denna värld. De använder simpla maskiner och försvarar sig med avancerade krutvapen.\n\nDe bryr sig om praktiska saker såsom handel, förtroende och överlevnad.\n\nDenna grupp är en smula barbariska.</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>Rådmästare</OutlanderRough.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>främling</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>främlingar</OutlanderRough.pawnsPlural>
   
+  <!-- EN: pirate band -->
+  <Pirate.label>piratband</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>Ett löst förbund av piratband som kommit överens om att till största delen slåss mot främlingar istället för varandra.\n\nPirater varken odlar eller bygger samhällen, och de bedriver de handel. I en kultur som fokuserar på blodspillan och heder samt värderar personlig styrka och hänsynslöshet berikar de sig genom räder och plundringståg deras mer produktiva grannar.\n\nDeras nivå av teknologi baseras mest på vad de lyckats själa nyligen. Oftast använder de krutvapen, vissa föredrar att knivhugga sina offaer på nära håll.\n  </Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>kapten</Pirate.leaderTitle>
   <!-- EN: pirate -->
   <Pirate.pawnSingular>pirat</Pirate.pawnSingular>
   <!-- EN: pirates -->
   <Pirate.pawnsPlural>pirater</Pirate.pawnsPlural>
-  <!-- EN: boss -->
-  <Pirate.leaderTitle>kapten</Pirate.leaderTitle>
-  <!-- EN: pirate band -->
-  <Pirate.label>piratband</Pirate.label>
-  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
-  <Pirate.description>Ett löst förbund av piratband som kommit överens om att till största delen slåss mot främlingar istället för varandra.\n\nPirater varken odlar eller bygger samhällen, och de bedriver de handel. I en kultur som fokuserar på blodspillan och heder samt värderar personlig styrka och hänsynslöshet berikar de sig genom räder och plundringståg deras mer produktiva grannar.\n\nDeras nivå av teknologi baseras mest på vad de lyckats själa nyligen. Oftast använder de krutvapen, vissa föredrar att knivhugga sina offaer på nära håll.
-  </Pirate.description>
   
-  <!-- EN: tribesman -->
-  <TribeCivil.pawnSingular>TODO</TribeCivil.pawnSingular>
-  <!-- EN: tribespeople -->
-  <TribeCivil.pawnsPlural>TODO</TribeCivil.pawnsPlural>
-  <!-- EN: chief -->
-  <TribeCivil.leaderTitle>Hövding</TribeCivil.leaderTitle>
   <!-- EN: gentle tribe -->
   <TribeCivil.label>TODO</TribeCivil.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
   <TribeCivil.description>Dessa människor har varit här en väldigt lång tid. Kanske krashade deras förfäder här för tusen år sedan. Kanske var de överlevare av en katastrof som förstörde en teknologisk civilisation här. I vilket fall, de flesta TODO är nomader som lever av vad jorden har att erbjuda med hjälp av primitiva verktyg och vapen.\n\nTrots deras teknologiska svagheter kan TODO vara farliga fiender och värdefulla vänner, med deras skiklighet med lågteknologiska vapen, deras antal och tapperhet.\n\n Just denna TODO är varsamma och lever sitt liv där de kan. De är relativt öppna för handel och allianser, även med märkligt folk.</TribeCivil.description>
-  
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>Hövding</TribeCivil.leaderTitle>
   <!-- EN: tribesman -->
-  <TribeRough.pawnSingular>TODO</TribeRough.pawnSingular>
+  <TribeCivil.pawnSingular>TODO</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeRough.pawnsPlural>TODO</TribeRough.pawnsPlural>
+  <TribeCivil.pawnsPlural>TODO</TribeCivil.pawnsPlural>
+  
   <!-- EN: savage tribe -->
   <TribeRough.label>Hövding</TribeRough.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
   <TribeRough.description>Dessa människor har varit här en väldigt lång tid. Kanske krashade deras förfäder här för tusen år sedan. Kanske var de överlevare av en katastrof som förstörde en teknologisk civilisation här. I vilket fall, de flesta TODO är nomader som lever av vad jorden har att erbjuda med hjälp av primitiva verktyg och vapen.\n\nTrots deras teknologiska svagheter kan TODO vara farliga fiender och värdefulla vänner, med deras skiklighet med lågteknologiska vapen, deras antal och tapperhet.\n\Denna TODO värderar krigisk dominans; Det kan vara svårt att göra dem till allierade.</TribeRough.description>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>TODO</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>TODO</TribeRough.pawnsPlural>
+  
 </LanguageData>
