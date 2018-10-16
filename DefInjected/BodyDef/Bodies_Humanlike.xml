@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: human -->
+  <Human.label>människa</Human.label>
   <!-- EN: left lung -->
   <Human.corePart.parts.left_lung.customLabel>vänster lunga</Human.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -20,7 +22,7 @@
   <!-- EN: left shoulder -->
   <Human.corePart.parts.left_shoulder.customLabel>vänster axel</Human.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left clavicle -->
-  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>vänster nyckelben</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>vänster clavicula</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
   <!-- EN: left arm -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>vänster arm</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left humerus -->
@@ -42,7 +44,7 @@
   <!-- EN: right shoulder -->
   <Human.corePart.parts.right_shoulder.customLabel>höger axel</Human.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right clavicle -->
-  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>höger nyckelben</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>höger clavicula</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
   <!-- EN: right arm -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>höger arm</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right humerus -->
@@ -97,7 +99,5 @@
   <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>höger andra tå</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
   <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>höger stortå</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
-  <!-- EN: human -->
-  <Human.label>människa</Human.label>
   
 </LanguageData>

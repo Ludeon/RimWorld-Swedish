@@ -1,10 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: monkey -->
+  <Monkey.label>Apa</Monkey.label>
   <!-- EN: left clavicle -->
-  <Monkey.corePart.parts.left_clavicle.customLabel>vänster nyckelben</Monkey.corePart.parts.left_clavicle.customLabel>
+  <Monkey.corePart.parts.left_clavicle.customLabel>vänster clavicula</Monkey.corePart.parts.left_clavicle.customLabel>
   <!-- EN: right clavicle -->
-  <Monkey.corePart.parts.right_clavicle.customLabel>höger nyckelben</Monkey.corePart.parts.right_clavicle.customLabel>
+  <Monkey.corePart.parts.right_clavicle.customLabel>höger clavicula</Monkey.corePart.parts.right_clavicle.customLabel>
   <!-- EN: left lung -->
   <Monkey.corePart.parts.left_lung.customLabel>vänster lunga</Monkey.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -84,7 +86,7 @@
   <!-- EN: right femur -->
   <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>höger femur</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
-  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>höger skenben</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>höger tibia</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <!-- EN: right foot -->
   <Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>höger fot</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->
@@ -97,9 +99,9 @@
   <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>höger andra tå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
   <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>höger stortå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
-  <!-- EN: monkey -->
-  <Monkey.label>Apa</Monkey.label>
   
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithClawsTailAndJowl.label>fyrfotadjur</QuadrupedAnimalWithClawsTailAndJowl.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>vänster lunga</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -164,9 +166,9 @@
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>höger bakbens  fjärde klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
   <!-- EN: rear right leg fifth claw -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>höger bakbens  femte klo</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
-  <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithClawsTailAndJowl.label>fyrfotadjur</QuadrupedAnimalWithClawsTailAndJowl.label>
   
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHooves.label>fyrfotadjur</QuadrupedAnimalWithHooves.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>vänster lunga</QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -199,9 +201,9 @@
   <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>höger bakben</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>höger bakhov</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
-  <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHooves.label>fyrfotadjur</QuadrupedAnimalWithHooves.label>
   
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHorn.label>fyrfotadjur</QuadrupedAnimalWithHoovesAndHorn.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>vänster lunga</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -234,9 +236,9 @@
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>höger bakben</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>höger bakhov</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
-  <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesAndHorn.label>fyrfotadjur</QuadrupedAnimalWithHoovesAndHorn.label>
   
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHump.label>fyrfotadjur</QuadrupedAnimalWithHoovesAndHump.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>vänster lunga</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -269,9 +271,9 @@
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>höger bakben</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>höger bakhov</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
-  <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesAndHump.label>fyrfotadjur</QuadrupedAnimalWithHoovesAndHump.label>
   
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndTusks.label>fyrfotadjur</QuadrupedAnimalWithHoovesAndTusks.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>vänster lunga</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -308,9 +310,9 @@
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>höger bakben</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>höger bakhov</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
-  <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesAndTusks.label>fyrfotadjur</QuadrupedAnimalWithHoovesAndTusks.label>
   
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>fyrfotadjur</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>vänster lunga</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -347,9 +349,9 @@
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>höger bakben</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right hoof -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>höger bakhov</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
-  <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>fyrfotadjur</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
   
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPaws.label>fyrfotadjur</QuadrupedAnimalWithPaws.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>vänster lunga</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -382,9 +384,9 @@
   <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>höger bakben</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right paw -->
   <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>höger baktass</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
-  <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithPaws.label>fyrfotadjur</QuadrupedAnimalWithPaws.label>
   
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPawsAndTail.label>fyrfotadjur</QuadrupedAnimalWithPawsAndTail.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>vänster lunga</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -417,9 +419,9 @@
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>höger bakben</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right paw -->
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>höger baktass</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
-  <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithPawsAndTail.label>fyrfotadjur</QuadrupedAnimalWithPawsAndTail.label>
   
+  <!-- EN: turtle-like -->
+  <TurtleLike.label>sköldpaddeliknande</TurtleLike.label>
   <!-- EN: left lung -->
   <TurtleLike.corePart.parts.left_lung.customLabel>vänster lunga</TurtleLike.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -440,7 +442,5 @@
   <TurtleLike.corePart.parts.rear_left_leg.customLabel>vänster bakben</TurtleLike.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
   <TurtleLike.corePart.parts.rear_right_leg.customLabel>höger bakben</TurtleLike.corePart.parts.rear_right_leg.customLabel>
-  <!-- EN: turtle-like -->
-  <TurtleLike.label>sköldpaddeliknande</TurtleLike.label>
   
 </LanguageData>

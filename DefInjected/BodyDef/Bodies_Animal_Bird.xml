@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: bird -->
+  <Bird.label>fågel</Bird.label>
   <!-- EN: left lung -->
   <Bird.corePart.parts.left_lung.customLabel>vänster lunga</Bird.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -21,7 +23,5 @@
   <Bird.corePart.parts.right_leg.customLabel>höger ben</Bird.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
   <Bird.corePart.parts.right_leg.parts.right_foot.customLabel>höger fot</Bird.corePart.parts.right_leg.parts.right_foot.customLabel>
-  <!-- EN: bird -->
-  <Bird.label>fågel</Bird.label>
   
 </LanguageData>

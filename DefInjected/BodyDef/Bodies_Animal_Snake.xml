@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: snake -->
+  <Snake.label>orm</Snake.label>
   <!-- EN: left lung -->
   <Snake.corePart.parts.left_lung.customLabel>vänster lunga</Snake.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -13,7 +15,5 @@
   <Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>vänster öga</Snake.corePart.parts.SnakeHead.parts.left_eye.customLabel>
   <!-- EN: right eye -->
   <Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>höger öga</Snake.corePart.parts.SnakeHead.parts.right_eye.customLabel>
-  <!-- EN: snake -->
-  <Snake.label>orm</Snake.label>
   
 </LanguageData>

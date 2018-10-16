@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: beetle-like -->
+  <BeetleLike.label>skalbaggeliknande</BeetleLike.label>
   <!-- EN: left elytra -->
   <BeetleLike.corePart.parts.left_elytra.customLabel>vänster elytron</BeetleLike.corePart.parts.left_elytra.customLabel>
   <!-- EN: right elytra -->
@@ -18,16 +20,16 @@
   <!-- EN: front right leg -->
   <BeetleLike.corePart.parts.front_right_leg.customLabel> höger framben</BeetleLike.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <BeetleLike.corePart.parts.middle_left_leg.customLabel> höger mmittenben</BeetleLike.corePart.parts.middle_left_leg.customLabel>
+  <BeetleLike.corePart.parts.middle_left_leg.customLabel> vänster mmittenben</BeetleLike.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <BeetleLike.corePart.parts.middle_right_leg.customLabel>vänster mittenben</BeetleLike.corePart.parts.middle_right_leg.customLabel>
+  <BeetleLike.corePart.parts.middle_right_leg.customLabel>höger mittenben</BeetleLike.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
   <BeetleLike.corePart.parts.rear_left_leg.customLabel> vänster bakben</BeetleLike.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
   <BeetleLike.corePart.parts.rear_right_leg.customLabel> höger bakben</BeetleLike.corePart.parts.rear_right_leg.customLabel>
-  <!-- EN: beetle-like -->
-  <BeetleLike.label>skalbaggeliknande</BeetleLike.label>
   
+  <!-- EN: beetle-like with claw -->
+  <BeetleLikeWithClaw.label>skalbaggeliknande med klo</BeetleLikeWithClaw.label>
   <!-- EN: left elytra -->
   <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>vänster elytron</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
   <!-- EN: right elytra -->
@@ -45,14 +47,12 @@
   <!-- EN: front right leg -->
   <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>höger framben</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel> höger mittenben</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel> vänster mittenben</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>vänster mittenben</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>höger mittenben</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
   <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>vänster bakben</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
   <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>höger bakben</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
-  <!-- EN: beetle-like with claw -->
-  <BeetleLikeWithClaw.label>skalbaggeliknande med klo</BeetleLikeWithClaw.label>
   
 </LanguageData>
