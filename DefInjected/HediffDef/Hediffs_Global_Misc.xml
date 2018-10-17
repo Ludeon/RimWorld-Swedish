@@ -1,11 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: anesthetic -->
   <Anesthetic.label>Narkos</Anesthetic.label>
   
+  <!-- EN: blood loss -->
+  <BloodLoss.label>blodförlust</BloodLoss.label>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-0.label>trivial</BloodLoss.stages.minor-0.label>
+  <BloodLoss.stages.minor-0.label>smärre</BloodLoss.stages.minor-0.label>
   <!-- EN: minor -->
   <BloodLoss.stages.minor-1.label>smärre</BloodLoss.stages.minor-1.label>
   <!-- EN: moderate -->
@@ -14,71 +16,77 @@
   <BloodLoss.stages.severe.label>allvarlig</BloodLoss.stages.severe.label>
   <!-- EN: extreme -->
   <BloodLoss.stages.extreme.label>livshotande</BloodLoss.stages.extreme.label>
-  <!-- EN: blood loss -->
-  <BloodLoss.label>blodförlust</BloodLoss.label>
   
-  <!-- EN: a catatonic breakdown -->
-  <CatatonicBreakdown.labelNoun>ett katatoniskt sammanbrott</CatatonicBreakdown.labelNoun>
   <!-- EN: catatonic breakdown -->
   <CatatonicBreakdown.label>katatoniskt sammanbrott</CatatonicBreakdown.label>
+  <!-- EN: a catatonic breakdown -->
+  <CatatonicBreakdown.labelNoun>ett katatoniskt sammanbrott</CatatonicBreakdown.labelNoun>
   
   <!-- EN: cryptosleep sickness -->
   <CryptosleepSickness.label>kryptosömnsjuka</CryptosleepSickness.label>
   
+  <!-- EN: drug overdose -->
+  <DrugOverdose.label>drogöverdos</DrugOverdose.label>
   <!-- EN: Overdose: {0} -->
   <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>Överdos: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} is overdosing! -->
   <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} överdoserar!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: a drug overdose -->
+  <DrugOverdose.labelNoun>en drogöverdos</DrugOverdose.labelNoun>
   <!-- EN: minor -->
-  <DrugOverdose.stages.minor-0.label>TODO</DrugOverdose.stages.minor-0.label>
+  <DrugOverdose.stages.minor-0.label>lindrig</DrugOverdose.stages.minor-0.label>
   <!-- EN: minor -->
   <DrugOverdose.stages.minor-1.label>lindrig</DrugOverdose.stages.minor-1.label>
   <!-- EN: major -->
   <DrugOverdose.stages.major.label>allvarlig</DrugOverdose.stages.major.label>
-  <!-- EN: a drug overdose -->
-  <DrugOverdose.labelNoun>en drogöverdos</DrugOverdose.labelNoun>
-  <!-- EN: drug overdose -->
-  <DrugOverdose.label>drogöverdos</DrugOverdose.label>
   
   <!-- EN: food poisoning -->
   <FoodPoisoning.label>matförgiftning</FoodPoisoning.label>
+  <!-- EN: recovering -->
+  <FoodPoisoning.stages.recovering.label>återhämtning</FoodPoisoning.stages.recovering.label>
+  <!-- EN: major -->
+  <FoodPoisoning.stages.major.label>större</FoodPoisoning.stages.major.label>
+  <!-- EN: initial -->
+  <FoodPoisoning.stages.initial.label>begynnande</FoodPoisoning.stages.initial.label>
   
+  <!-- EN: heart attack -->
+  <HeartAttack.label>hjärtattack</HeartAttack.label>
+  <!-- EN: a heart attack -->
+  <HeartAttack.labelNoun>en hjärtattack</HeartAttack.labelNoun>
   <!-- EN: painful -->
   <HeartAttack.stages.painful.label>smärtsam</HeartAttack.stages.painful.label>
   <!-- EN: debilitating -->
   <HeartAttack.stages.debilitating.label>försvagad</HeartAttack.stages.debilitating.label>
   <!-- EN: fatal -->
   <HeartAttack.stages.fatal.label>dödlig</HeartAttack.stages.fatal.label>
-  <!-- EN: a heart attack -->
-  <HeartAttack.labelNoun>en hjärtattack</HeartAttack.labelNoun>
-  <!-- EN: heart attack -->
-  <HeartAttack.label>hjärtattack</HeartAttack.label>
   
+  <!-- EN: pregnant -->
+  <Pregnant.label>gravid</Pregnant.label>
   <!-- EN: {0} pregnant -->
   <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} gravid</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} is pregnant! -->
   <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} är gravid!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: pregnancy -->
+  <Pregnant.labelNoun>graviditet</Pregnant.labelNoun>
   <!-- EN: early-stage -->
   <Pregnant.stages.earlystage.label>första trimestern</Pregnant.stages.earlystage.label>
   <!-- EN: middle-stage -->
   <Pregnant.stages.middlestage.label>andra trimestern</Pregnant.stages.middlestage.label>
   <!-- EN: late-stage -->
   <Pregnant.stages.latestage.label>tredje trimestern</Pregnant.stages.latestage.label>
-  <!-- EN: pregnancy -->
-  <Pregnant.labelNoun>graviditet</Pregnant.labelNoun>
-  <!-- EN: pregnant -->
-  <Pregnant.label>gravid</Pregnant.label>
   
-  <!-- EN: a psychic shock -->
-  <PsychicShock.labelNoun>en chock</PsychicShock.labelNoun>
   <!-- EN: psychic shock -->
   <PsychicShock.label>chock</PsychicShock.label>
+  <!-- EN: a psychic shock -->
+  <PsychicShock.labelNoun>en chock</PsychicShock.labelNoun>
   
   <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>återuppståndelsessjuka</ResurrectionSickness.label>
   
+  <!-- EN: toxic buildup -->
+  <ToxicBuildup.label>förgiftning</ToxicBuildup.label>
   <!-- EN: initial -->
-  <ToxicBuildup.stages.initial-0.label>första tecken</ToxicBuildup.stages.initial-0.label>
+  <ToxicBuildup.stages.initial-0.label>initial</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-1.label>initial</ToxicBuildup.stages.initial-1.label>
   <!-- EN: minor -->
@@ -89,7 +97,5 @@
   <ToxicBuildup.stages.serious.label>allvarlig</ToxicBuildup.stages.serious.label>
   <!-- EN: extreme -->
   <ToxicBuildup.stages.extreme.label>livshotande</ToxicBuildup.stages.extreme.label>
-  <!-- EN: toxic buildup -->
-  <ToxicBuildup.label>förgiftning</ToxicBuildup.label>
   
 </LanguageData>

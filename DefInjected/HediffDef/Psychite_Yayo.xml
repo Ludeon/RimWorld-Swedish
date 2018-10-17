@@ -1,23 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: withdrawal -->
-  <PsychiteAddiction.stages.withdrawal.label>abstinens</PsychiteAddiction.stages.withdrawal.label>
   <!-- EN: psychite addiction -->
   <PsychiteAddiction.label>psychitberoende</PsychiteAddiction.label>
+  <!-- EN: withdrawal -->
+  <PsychiteAddiction.stages.withdrawal.label>abstinens</PsychiteAddiction.stages.withdrawal.label>
   
+  <!-- EN: psychite tolerance -->
+  <PsychiteTolerance.label>psychittolerans</PsychiteTolerance.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-0.label>liten</PsychiteTolerance.stages.small-0.label>
   <!-- EN: small -->
   <PsychiteTolerance.stages.small-1.label>liten</PsychiteTolerance.stages.small-1.label>
   <!-- EN: large -->
   <PsychiteTolerance.stages.large.label>stor</PsychiteTolerance.stages.large.label>
   <!-- EN: massive -->
   <PsychiteTolerance.stages.massive.label>enorm</PsychiteTolerance.stages.massive.label>
-  <!-- EN: psychite tolerance -->
-  <PsychiteTolerance.label>psychittolerans</PsychiteTolerance.label>
   
-  <!-- EN: a yayo high -->
-  <YayoHigh.labelNoun>ett yayorus</YayoHigh.labelNoun>
   <!-- EN: high on yayo -->
   <YayoHigh.label>hög på yayo</YayoHigh.label>
+  <!-- EN: a yayo high -->
+  <YayoHigh.labelNoun>ett yayorus</YayoHigh.labelNoun>
   
 </LanguageData>

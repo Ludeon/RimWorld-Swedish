@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: alzheimer's -->
+  <Alzheimers.label>alzheimers</Alzheimers.label>
   <!-- EN: minor -->
   <Alzheimers.stages.minor-0.label>lindrig</Alzheimers.stages.minor-0.label>
   <!-- EN: minor -->
@@ -9,59 +11,61 @@
   <Alzheimers.stages.major-0.label>allvarlig</Alzheimers.stages.major-0.label>
   <!-- EN: major -->
   <Alzheimers.stages.major-1.label>allvarlig</Alzheimers.stages.major-1.label>
-  <!-- EN: alzheimer's -->
-  <Alzheimers.label>alzheimers</Alzheimers.label>
   
+  <!-- EN: asthma -->
+  <Asthma.label>astma</Asthma.label>
   <!-- EN: minor -->
   <Asthma.stages.minor.label>lindrig</Asthma.stages.minor.label>
   <!-- EN: major -->
   <Asthma.stages.major-0.label>allvarlig</Asthma.stages.major-0.label>
   <!-- EN: major -->
   <Asthma.stages.major-1.label>allvarlig</Asthma.stages.major-1.label>
-  <!-- EN: asthma -->
-  <Asthma.label>astma</Asthma.label>
   
-  <!-- EN: a bad back -->
-  <BadBack.labelNoun>en dålig rygg</BadBack.labelNoun>
   <!-- EN: bad back -->
   <BadBack.label>dålig rygg</BadBack.label>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>en dålig rygg</BadBack.labelNoun>
   
   <!-- EN: blindness -->
   <Blindness.label>blindhet</Blindness.label>
   
+  <!-- EN: carcinoma -->
+  <Carcinoma.label>cancer</Carcinoma.label>
+  <!-- EN: a carcinoma -->
+  <Carcinoma.labelNoun>har cancer</Carcinoma.labelNoun>
   <!-- EN: minor -->
   <Carcinoma.stages.minor-0.label>in situ</Carcinoma.stages.minor-0.label>
   <!-- EN: minor -->
   <Carcinoma.stages.minor-1.label>in situ</Carcinoma.stages.minor-1.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-0.label>metastaserar TODO</Carcinoma.stages.major-0.label>
+  <Carcinoma.stages.major-0.label>metastaserar</Carcinoma.stages.major-0.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-1.label>metastaserar TODO</Carcinoma.stages.major-1.label>
+  <Carcinoma.stages.major-1.label>metastaserar</Carcinoma.stages.major-1.label>
   <!-- EN: extreme -->
   <Carcinoma.stages.extreme-0.label>invasiv</Carcinoma.stages.extreme-0.label>
   <!-- EN: extreme -->
   <Carcinoma.stages.extreme-1.label>invasiv</Carcinoma.stages.extreme-1.label>
-  <!-- EN: a carcinoma -->
-  <Carcinoma.labelNoun>har cancer</Carcinoma.labelNoun>
-  <!-- EN: carcinoma -->
-  <Carcinoma.label>cancer</Carcinoma.label>
   
-  <!-- EN: a cataract -->
-  <Cataract.labelNoun>en gråstarr</Cataract.labelNoun>
   <!-- EN: cataract -->
   <Cataract.label>gråstarr</Cataract.label>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>gråstarr</Cataract.labelNoun>
   
   <!-- EN: dementia -->
   <Dementia.label>demens</Dementia.label>
   
-  <!-- EN: frailty -->
-  <Frail.labelNoun>skörhet TODO</Frail.labelNoun>
   <!-- EN: frail -->
-  <Frail.label>skör TODO</Frail.label>
+  <Frail.label>skör</Frail.label>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>skörhet</Frail.labelNoun>
   
   <!-- EN: hearing loss -->
   <HearingLoss.label>hörselnedsättning</HearingLoss.label>
   
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>kranskärlssjukdom</HeartArteryBlockage.label>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>en kranskärlssjukdom</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->
   <HeartArteryBlockage.stages.minor-0.label>lindrig</HeartArteryBlockage.stages.minor-0.label>
   <!-- EN: minor -->
@@ -72,9 +76,5 @@
   <HeartArteryBlockage.stages.major-1.label>allvarlig</HeartArteryBlockage.stages.major-1.label>
   <!-- EN: extreme -->
   <HeartArteryBlockage.stages.extreme.label>extrem</HeartArteryBlockage.stages.extreme.label>
-  <!-- EN: an artery blockage -->
-  <HeartArteryBlockage.labelNoun>en kranskärlssjukdom</HeartArteryBlockage.labelNoun>
-  <!-- EN: artery blockage -->
-  <HeartArteryBlockage.label>kranskärlssjukdom</HeartArteryBlockage.label>
   
 </LanguageData>

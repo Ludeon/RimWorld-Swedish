@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: beautiful -->
   <Beauty.degreeDatas.beautiful.label>vacker</Beauty.degreeDatas.beautiful.label>
   <!-- EN: [PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth. -->
-  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] är ovanligt vacker med ett exotiskt men ändå välbekant ansiksform och en fänglslande blick. Personer dras till [PAWN_objective] innan [PAWN_pronoun] ens öppnad sin mun.</Beauty.degreeDatas.beautiful.description>
+  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] är ovanligt vacker med ett exotiskt men ändå välbekant ansiksform och fänglslande blick. Personer attraheras av [PAWN_objective] innan [PAWN_pronoun] ens öppnat sin mun.</Beauty.degreeDatas.beautiful.description>
   <!-- EN: pretty -->
   <Beauty.degreeDatas.pretty.label>söt</Beauty.degreeDatas.pretty.label>
   <!-- EN: [PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective]. -->
@@ -12,131 +12,131 @@
   <!-- EN: ugly -->
   <Beauty.degreeDatas.ugly.label>ful</Beauty.degreeDatas.ugly.label>
   <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
-  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef] är aningen ful. Detta repellerar subtilt andra från sociala interaktioner.</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef] är aningen ful. Detta stöter subtilt bort andra vid sociala interaktioner.</Beauty.degreeDatas.ugly.description>
   <!-- EN: staggeringly ugly -->
   <Beauty.degreeDatas.staggeringly_ugly.label>förbluffande ful</Beauty.degreeDatas.staggeringly_ugly.label>
   <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
-  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] är förbluffande ful. [PAWN_possessive] ansikte ser ut som en korsning mellan en teckning av en obegåvad barn, ett felaktigt foster i en burk av formaldehyd och en bit av modern konst. Andra måste medvetet anstränga sig för att titta på [PAWN_objective] under en konversation.</Beauty.degreeDatas.staggeringly_ugly.description>
+  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] är förbluffande ful. [PAWN_possessive] ansikte ser ut som en korsning av en teckning av ett obegåvad barn, ett missbildat foster i en burk av formaldehyd och en bit av modern konst. Andra måste medvetet anstränga sig för att titta på [PAWN_objective] under en konversation.</Beauty.degreeDatas.staggeringly_ugly.description>
   
   <!-- EN: chemical fascination -->
   <DrugDesire.degreeDatas.chemical_fascination.label>Fascinerad av kemikalier</DrugDesire.degreeDatas.chemical_fascination.label>
-  <!-- EN: [PAWN_nameDef] has an intense fascination with chemical sources of enjoyment. [PAWN_pronoun] will consume much more of them, and will sometimes go on hard drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
-  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] är fascinerad av alla sorters kemikalier. [PAWN_pronoun] kommer att konsumera mycket mer av det än andra, ofta i överdrivna mängder.</DrugDesire.degreeDatas.chemical_fascination.description>
+  <!-- EN: [PAWN_nameDef] has an intense fascination with chemical sources of enjoyment. [PAWN_pronoun] will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
+  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] har en stark faschination för kemiska källor till njutning. [PAWN_pronoun] kommer konsumera dem mycket mer av dem och, om [PAWN_pronoun] inte redan är beroende av någon drog och nöjd, kommer [PAWN_pronoun] ibland använda droger i stora mängder. [PAWN_pronoun] kommer ignorera direktiven om att inte använda behagliga droger.</DrugDesire.degreeDatas.chemical_fascination.description>
   <!-- EN: chemical interest -->
   <DrugDesire.degreeDatas.chemical_interest.label>Intresserad av kemikalier</DrugDesire.degreeDatas.chemical_interest.label>
-  <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. [PAWN_pronoun] will consume more of them, and will sometimes go on social drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
-  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef] har ett ovanligt starkt intresse av kemikalier. [PAWN_pronoun] kommer att konsumera mer av det än andra, ibland i överdrivna mängder.</DrugDesire.degreeDatas.chemical_interest.description>
+  <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. [PAWN_pronoun] will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
+  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef] har ett ovanligt intresse, kemiska källor till njutning. [PAWN_pronoun] kommer att konsumera mer droger det än andra, ibland i överdrivna mängder. [PAWN_pronoun] kommer konsumera dem mycket mer av dem och, om [PAWN_pronoun] inte redan är beroende av någon drog och nöjd, kommer [PAWN_pronoun] ibland använda droger i stora mängder. [PAWN_pronoun] kommer ignorera direktiven om att inte använda behagliga droger.</DrugDesire.degreeDatas.chemical_interest.description>
   <!-- EN: teetotaler -->
   <DrugDesire.degreeDatas.teetotaler.label>Nykterist</DrugDesire.degreeDatas.teetotaler.label>
   <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. -->
-  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] avskyr tanken att söka njutning via kemikalier, och undviker därför alkohol och droger.</DrugDesire.degreeDatas.teetotaler.description>
+  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] avskyr tanken på att söka njutning via kemikalier och undviker därför alkohol och droger.</DrugDesire.degreeDatas.teetotaler.description>
   
   <!-- EN: super-immune -->
-  <Immunity.degreeDatas.superimmune.label>TODO</Immunity.degreeDatas.superimmune.label>
+  <Immunity.degreeDatas.superimmune.label>superimun</Immunity.degreeDatas.superimmune.label>
   <!-- EN: [PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others. -->
-  <Immunity.degreeDatas.superimmune.description>TODO</Immunity.degreeDatas.superimmune.description>
+  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef] har ett naturligt starkt imunsystem. [PAWN_pronoun] kommer få immunitet mycket snabbara än en normal person, och kan överleva sjukdommar som skulla ha ihjäl andra.</Immunity.degreeDatas.superimmune.description>
   <!-- EN: sickly -->
-  <Immunity.degreeDatas.sickly.label>TODO</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.label>sjuklig</Immunity.degreeDatas.sickly.label>
   <!-- EN: [PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by. -->
-  <Immunity.degreeDatas.sickly.description>TODO</Immunity.degreeDatas.sickly.description>
+  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef] har ett förfärligt immunsystem. [PAWN_pronoun] blir sjuk oftare än vanligt, frekvent med sjukdommar ingen annan i kolonin har eller påverkas av.</Immunity.degreeDatas.sickly.description>
   
   <!-- EN: industrious -->
-  <Industriousness.degreeDatas.industrious.label>Flitig</Industriousness.degreeDatas.industrious.label>
+  <Industriousness.degreeDatas.industrious.label>flitig</Industriousness.degreeDatas.industrious.label>
   <!-- EN: [PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person. -->
-  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef] är inte lättdistraherad och får saker gjorda mycket snabbare än andra.</Industriousness.degreeDatas.industrious.description>
+  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef] är inte särskilt lättdistraherad och får saker gjorda mycket snabbare än andra.</Industriousness.degreeDatas.industrious.description>
   <!-- EN: hard worker -->
-  <Industriousness.degreeDatas.hard_worker.label>Arbetsam</Industriousness.degreeDatas.hard_worker.label>
+  <Industriousness.degreeDatas.hard_worker.label>arbetsam</Industriousness.degreeDatas.hard_worker.label>
   <!-- EN: [PAWN_nameDef] is a natural hard worker and will finish tasks faster than most. -->
-  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] är naturligt arbetsam och arbetar fortare än andra.</Industriousness.degreeDatas.hard_worker.description>
+  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] är naturligt arbetsam och slutför arbetsuppgifter snabbare än många andra.</Industriousness.degreeDatas.hard_worker.description>
   <!-- EN: lazy -->
   <Industriousness.degreeDatas.lazy.label>Lat</Industriousness.degreeDatas.lazy.label>
   <!-- EN: [PAWN_nameDef] is a little bit lazy. -->
   <Industriousness.degreeDatas.lazy.description>[PAWN_nameDef] är lite lat.</Industriousness.degreeDatas.lazy.description>
   <!-- EN: slothful -->
-  <Industriousness.degreeDatas.slothful.label>Dagdrivare</Industriousness.degreeDatas.slothful.label>
+  <Industriousness.degreeDatas.slothful.label>trög</Industriousness.degreeDatas.slothful.label>
   <!-- EN: [PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task. -->
-  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] älskar att lata sig och avstår helst från allt som heter produktivitet. [PAWN_pronoun] rör sig långsamt och är lättdistraherad.</Industriousness.degreeDatas.slothful.description>
+  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] älskar att inte göra någonting och avstår helst från allt som heter produktivitet. [PAWN_pronoun] rör sig långsamt och har svårt att fokusera på uppgifter.</Industriousness.degreeDatas.slothful.description>
   
   <!-- EN: sanguine -->
-  <NaturalMood.degreeDatas.sanguine.label>Sangviniker</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.label>bekymmerslös</NaturalMood.degreeDatas.sanguine.label>
   <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
-  <NaturalMood.degreeDatas.sanguine.description>Man säger ibland att någon är sorglös, men [PAWN_nameDef] verkar faktiskt sakna förmågan att vara nedstämnd. [PAWN_pronoun] är alltid glad, oavsett vad som händer.</NaturalMood.degreeDatas.sanguine.description>
+  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef] är naturligt optimistisk gällande sin situation, i stort sätt alltid och oavsett vad som än händer.</NaturalMood.degreeDatas.sanguine.description>
   <!-- EN: optimist -->
-  <NaturalMood.degreeDatas.optimist.label>Optimist</NaturalMood.degreeDatas.optimist.label>
+  <NaturalMood.degreeDatas.optimist.label>optimist</NaturalMood.degreeDatas.optimist.label>
   <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
-  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef] är född optimist. Det är svårt att få [PAWN_objective] att bli nedstämnd.</NaturalMood.degreeDatas.optimist.description>
+  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef] är av naturen optimistisk gällande livet. Det är svårt att få [PAWN_objective] nedstämd.</NaturalMood.degreeDatas.optimist.description>
   <!-- EN: pessimist -->
-  <NaturalMood.degreeDatas.pessimist.label>Pessimist</NaturalMood.degreeDatas.pessimist.label>
+  <NaturalMood.degreeDatas.pessimist.label>pessimist</NaturalMood.degreeDatas.pessimist.label>
   <!-- EN: [PAWN_nameDef] tends to look on the bad side of life. -->
-  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] är född pessimist. [PAWN_pronoun] ser allt från den sämre sidan.</NaturalMood.degreeDatas.pessimist.description>
+  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] tenderar att se allt från den sämre sidan av livet.</NaturalMood.degreeDatas.pessimist.description>
   <!-- EN: depressive -->
-  <NaturalMood.degreeDatas.depressive.label>Depressiv</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.label>depressiv</NaturalMood.degreeDatas.depressive.label>
   <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
-  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] är alltid nedstämnd. [PAWN_pronoun] har svårt att hålla uppe humöret, även under de bästa förutsättningarna.</NaturalMood.degreeDatas.depressive.description>
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] är alltid nedstämnd. [PAWN_pronoun] har svårt att hålla humöret uppe även om allting är bra.</NaturalMood.degreeDatas.depressive.description>
   
   <!-- EN: iron-willed -->
-  <Nerves.degreeDatas.ironwilled.label>Okuvlig</Nerves.degreeDatas.ironwilled.label>
+  <Nerves.degreeDatas.ironwilled.label>vilja av stål</Nerves.degreeDatas.ironwilled.label>
   <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
-  <Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef] kan inte besegras. [PAWN_pronoun] fortsätter genom vått och torrt, även när andra har gett upp för längesen.</Nerves.degreeDatas.ironwilled.description>
+  <Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef]s vilja är som en stålsköld. [PAWN_pronoun] fortsätter genom vått och torrt, även när andra har gett upp för längesen.</Nerves.degreeDatas.ironwilled.description>
   <!-- EN: steadfast -->
-  <Nerves.degreeDatas.steadfast.label>Orubblig</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.label>orubblig</Nerves.degreeDatas.steadfast.label>
   <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->
-  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef] är mentalt stark och bryter inte ihop under stress som skulle knäcka andra.</Nerves.degreeDatas.steadfast.description>
+  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef] är mentalt stark och bryter inte ihop under stress som vanligtvis skulle knäcka andra.</Nerves.degreeDatas.steadfast.description>
   <!-- EN: nervous -->
-  <Nerves.degreeDatas.nervous.label>Nervös</Nerves.degreeDatas.nervous.label>
+  <Nerves.degreeDatas.nervous.label>nervös</Nerves.degreeDatas.nervous.label>
   <!-- EN: [PAWN_nameDef] tends to crack under pressure. -->
   <Nerves.degreeDatas.nervous.description>[PAWN_nameDef] tenderar att bryta ihop under stress.</Nerves.degreeDatas.nervous.description>
   <!-- EN: volatile -->
-  <Nerves.degreeDatas.volatile.label>Instabil</Nerves.degreeDatas.volatile.label>
+  <Nerves.degreeDatas.volatile.label>labil</Nerves.degreeDatas.volatile.label>
   <!-- EN: [PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation. -->
-  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef] är ständigt nervös och är alltid den första som bryter ihop.</Nerves.degreeDatas.volatile.description>
+  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef] är ståndigt på tå. [PAWN_pronoun] är alltid den första som bryter ihop i svåra situationer.</Nerves.degreeDatas.volatile.description>
   
   <!-- EN: neurotic -->
-  <Neurotic.degreeDatas.neurotic.label>Neurotiker</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.label>neurotisk</Neurotic.degreeDatas.neurotic.label>
   <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
-  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef] gillar när allt är som det ska och [PAWN_pronoun] kommer att arbeta hårdare än andra för att uppnå detta. Dock kan [PAWN_possessive] nerver få överhanden.</Neurotic.degreeDatas.neurotic.description>
+  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef] gillar när allt är som det ska. [PAWN_pronoun] kommer att arbeta hårdare än andra för att uppnå detta, men [PAWN_possessive] nerver kan ibland få överhanden.</Neurotic.degreeDatas.neurotic.description>
   <!-- EN: very neurotic -->
-  <Neurotic.degreeDatas.very_neurotic.label>Stark neuros</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.label>väldigt neurotisk</Neurotic.degreeDatas.very_neurotic.label>
   <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
-  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] är ständigt orolig för allt. [PAWN_pronoun] arbetar extremt hårt och får många saker gjorda, men kan på grund av sina nerver helt tappa kontrollen.</Neurotic.degreeDatas.very_neurotic.description>
+  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] känner en ständig oro för allt som måste göras. [PAWN_pronoun] arbetar extremt hårt för att uppnå detta, men [PAWN_possessive] nerver kan lätt få överhanden.</Neurotic.degreeDatas.very_neurotic.description>
   
   <!-- EN: psychically hypersensitive -->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>Psykiskt överkänslig</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>psykiskt överkänslig</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef]s sinne är som en psykisk antenn. [PAWN_pronoun] är mycket känslig för psykiska fenomen.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef]s sinne är som en psykisk stämmgaffel. [PAWN_pronoun] är extremt känslig för psykiska fenomen.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
   <!-- EN: psychically sensitive -->
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>Psykiskt känslig</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>psykiskt känslig</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef] är ovanligt känslig för psykiska fenomen.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef]s sinnen är ovanligt känsliga för psykiska fenomen.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
   <!-- EN: psychically dull -->
-  <PsychicSensitivity.degreeDatas.psychically_dull.label>Psykiskt avtrubbad</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>psykiskt avtrubbad</PsychicSensitivity.degreeDatas.psychically_dull.label>
   <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef] är psykiskt avtrubbad jämfört med andra. [PAWN_pronoun] är inte särskilt känsliga för psykiska fenomen.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef]s sinnen är psykiskt avslagna jämfört med andra. [PAWN_pronoun] påverkas inte av psykiska fenomen.</PsychicSensitivity.degreeDatas.psychically_dull.description>
   <!-- EN: psychically deaf -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.label>Psykiskt döv</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>psykiskt döv</PsychicSensitivity.degreeDatas.psychically_deaf.label>
   <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
   <PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef]s psyke verkar arbeta på en helt annan frekvens än andra. [PAWN_pronoun] kan inte bli påverkad av psykiska fenomen.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
   
   <!-- EN: careful shooter -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.label>Försiktig skytt</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>försiktig skytt</ShootingAccuracy.degreeDatas.careful_shooter.label>
   <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef] är en bra skytt, men [PAWN_pronoun] behöver mer tid på sig när [PAWN_pronoun] siktar.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef] tar lånt tid på sig att sikta. [PAWN_pronoun] skjuter färre skott än andra men med större träffsäkerhet.</ShootingAccuracy.degreeDatas.careful_shooter.description>
   <!-- EN: trigger-happy -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.label>Skjutglad</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>skjutglad</ShootingAccuracy.degreeDatas.triggerhappy.label>
   <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.description>Pang! Pang! Pang! [PAWN_nameDef] är en förskräcklig skytt, men det bryr han sig inte om... för vapen är FANTASTISKA!</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>Pang! Pang! Pang! [PAWN_nameDef] tycker bara om att använda avtryckaren. [PAWN_pronoun] skjuter snabbare än andra men med sämmre träffsäkerhet.</ShootingAccuracy.degreeDatas.triggerhappy.description>
   
   <!-- EN: slowpoke -->
-  <SpeedOffset.degreeDatas.slowpoke.label>Slöfock</SpeedOffset.degreeDatas.slowpoke.label>
+  <SpeedOffset.degreeDatas.slowpoke.label>slöfock</SpeedOffset.degreeDatas.slowpoke.label>
   <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
-  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] hamnar alltid på efterkälken, vart [PAWN_pronoun] än går.</SpeedOffset.degreeDatas.slowpoke.description>
+  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] hamnar alltid på efterkälken av en grupp, vart [PAWN_pronoun] än går.</SpeedOffset.degreeDatas.slowpoke.description>
   <!-- EN: fast walker -->
-  <SpeedOffset.degreeDatas.fast_walker.label>Går snabbt</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.label>snabbgångare</SpeedOffset.degreeDatas.fast_walker.label>
   <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
-  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef] vill dit [PAWN_pronoun] ska och går snabbare än andra personer.</SpeedOffset.degreeDatas.fast_walker.description>
+  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef] vill dit [PAWN_pronoun] ska. [PAWN_pronoun] går snabbare än andra personer.</SpeedOffset.degreeDatas.fast_walker.description>
   <!-- EN: jogger -->
-  <SpeedOffset.degreeDatas.jogger.label>Joggare</SpeedOffset.degreeDatas.jogger.label>
+  <SpeedOffset.degreeDatas.jogger.label>joggare</SpeedOffset.degreeDatas.jogger.label>
   <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
-  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] verkar alltid ha bråttom och förflyttar sig så snabbt att de andra ofta hamnar på efterkälken.</SpeedOffset.degreeDatas.jogger.description>
+  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] rör sig alltid som om [PAWN_pronoun] är på språng - så mycket att andra ofta hamnar på efterkälken.</SpeedOffset.degreeDatas.jogger.description>
   
 </LanguageData>
