@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: animal chat -->
+  <AnimalChat.label>samtala med djur</AnimalChat.label>
   <!-- EN:
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
@@ -26,16 +28,37 @@
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
-    <li>TODO</li>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] satt nära [RECIPIENT_nameDef] och pratade med [INITIATOR_objective]själv om [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] närmade sig [RECIPIENT_nameDef] och viskade till [INITIATOR_objective]själv om [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kom nära [RECIPIENT_nameDef] och pratade med [INITIATOR_objective]själv om [TalkTopicAny].</li>
+    <li>tamed->gjorde lugnande ljud mot</li>
+    <li>tamed->visade lugna och vänliga gester till</li>
+    <li>tamed->gjorde tystande ljud till</li>
+    <li>tamed->gjorde glade klickande ljud till</li>
+    <li>tamed->gestikulerade vänligt och närmade sig</li>
+    <li>tamed->närmade sig långsamt</li>
+    <li>tamed->rörde försiktigt</li>
+    <li>tamed->lugnade och befrämjade</li>
+    <li>tamed->anpassade sin andning till</li>
+    <li>tamed->tog en låg hållning när de närmade sig</li>
+    <li>tamed->visade ingen räddsla eller ilska mot</li>
+    <li>tamed->låtsades vara ouppmärksam mot</li>
+    <li>tamed->hummade försiktigt en sång till</li>
+    <li>tamed->sjöng en gammal vaggvisa för</li>
+    <li>tamed->rörde bestämt men mjukt vid</li>
+    <li>tamed->visade en avslappnad attityd</li>
+    <li>tamed->satt tålmodigt nära</li>
+    <li>tamed->viskade en berättelse om [TalkTopicAny] för</li>
   </AnimalChat.logRulesInitiator.rulesStrings>
-  <!-- EN: animal chat -->
-  <AnimalChat.label>prata med djur</AnimalChat.label>
   
   <!-- UNUSED -->
   <AnimalChat.logRulesRecipient.rulesStrings>
     <li>UNUSED</li>
   </AnimalChat.logRulesRecipient.rulesStrings>
   
+  <!-- EN: nuzzle -->
+  <Nuzzle.label>gosa</Nuzzle.label>
   <!-- EN:
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
@@ -63,16 +86,39 @@
     <li>rubbedpart->arm</li>
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>logentry->Goasade med [other_nameShortIndef].</li>
+  <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] gnuggade [INITIATOR_possessive] nos mot [RECIPIENT_nameDef]s [rubbedpart].</li>
+    <li>nuzzled(p=2)->gosad</li>
+    <li>nuzzled->kröp upp mot</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->försiktigt</li>
+    <li>nuzzleadverb->uppmuntrande</li>
+    <li>nuzzleadverb->glatt</li>
+    <li>nuzzleadverb->mjukt</li>
+    <li>nuzzleadverb->lekfullt</li>
+    <li>nuzzleadverb->lätt</li>
+    <li>nuzzleadverb->varmt</li>
+    <li>nuzzleadverb->bedrövat</li>
+    <li>nuzzleadverb->kärleksfullt</li>
+    <li>nuzzleadverb->tillgivet</li>
+    <li>rubbedpart->ben</li>
+    <li>rubbedpart->knä</li>
+    <li>rubbedpart->fot</li>
+    <li>rubbedpart->armbåge</li>
+    <li>rubbedpart->höft</li>
+    <li>rubbedpart->axel</li>
+    <li>rubbedpart->hand</li>
+    <li>rubbedpart->sida</li>
+    <li>rubbedpart->arm</li>
   </Nuzzle.logRulesInitiator.rulesStrings>
-  <!-- EN: nuzzle -->
-  <Nuzzle.label>gosa</Nuzzle.label>
   
   <!-- UNUSED -->
   <Nuzzle.logRulesRecipient.rulesStrings>
     <li>UNUSED</li>
   </Nuzzle.logRulesRecipient.rulesStrings>
   
+  <!-- EN: tame attempt -->
+  <TameAttempt.label>tämjningsförsök</TameAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
@@ -91,16 +137,30 @@
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
   <TameAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Försökte tämja [other_nameShortIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] försökte tämja [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] försökte få [RECIPIENT_nameDef] under kontrol.</li>
+    <li>r_logentry->[INITIATOR_nameDef] försökte sätta halsband på [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] krävde lydnad av [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ropade [RECIPIENT_nameDef] att komma till [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] försökte få [RECIPIENT_nameDef] att sitta stilla.</li>
+    <li>r_logentry->[INITIATOR_nameDef] högg skarpt tag i [RECIPIENT_nameDef] och ropade ett komando.</li>
+    <li>r_logentry->[INITIATOR_nameDef] försökte hålla [RECIPIENT_nameDef] stilla.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ropade ett kommando till [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] smällde till [RECIPIENT_nameDef] för att visa dominans.</li>
+    <li>r_logentry->[INITIATOR_nameDef] styrde [RECIPIENT_nameDef] tillbaka till samhället.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ropade åt [RECIPIENT_nameDef] att komma tillbaka till samhället.</li>
+    <li>r_logentry->[INITIATOR_nameDef] rörde en känslig del på [RECIPIENT_nameDef] och krävde lydnad.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pekade på marken och krävde att [RECIPIENT_nameDef] kom.</li>
+    <li>r_logentry->[INITIATOR_nameDef] gav [RECIPIENT_nameDef] ett första kommando.</li>
   </TameAttempt.logRulesInitiator.rulesStrings>
-  <!-- EN: tame attempt -->
-  <TameAttempt.label>tämjningsförsök</TameAttempt.label>
   
   <!-- UNUSED -->
   <TameAttempt.logRulesRecipient.rulesStrings>
     <li>UNUSED</li>
   </TameAttempt.logRulesRecipient.rulesStrings>
   
+  <!-- EN: train attempt -->
+  <TrainAttempt.label>träningsförsök</TrainAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
     <li>trained(p=2)->[tried] to train</li>
@@ -114,10 +174,17 @@
     <li>tried->attempted</li>
   -->
   <TrainAttempt.logRulesInitiator.rulesStrings>
-    <li>TODO</li>
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+    <li>trained(p=2)->[tried] träna</li>
+    <li>trained->[tried] visa ett nytt trick för</li>
+    <li>trained->[tried] disiplinera</li>
+    <li>trained->[tried] instruera</li>
+    <li>trained->[tried] uppmuntra till en ny färdighet för</li>
+    <li>trained->visade en färdighet för</li>
+    <li>trained->uppmuntrade till en ny respons från</li>
+    <li>tried->prövade</li>
+    <li>tried->försökte</li>
   </TrainAttempt.logRulesInitiator.rulesStrings>
-  <!-- EN: train attempt -->
-  <TrainAttempt.label>träningsförsök</TrainAttempt.label>
   
   <!-- UNUSED -->
   <TrainAttempt.logRulesRecipient.rulesStrings>

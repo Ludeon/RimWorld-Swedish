@@ -1,119 +1,116 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
- 
+  
   <!-- EN: cat -->
   <Cat.label>katt</Cat.label>
+  <Cat.labelFemale>katt</Cat.labelFemale>
+  <Cat.labelFemalePlural>katt</Cat.labelFemalePlural>
+  <Cat.labelMale>katt</Cat.labelMale>
+  <Cat.labelMalePlural>katter</Cat.labelMalePlural>
   <Cat.labelPlural>katter</Cat.labelPlural>
   <!-- EN: kitten -->
   <Cat.lifeStages.kitten.label>kattunge</Cat.lifeStages.kitten.label>
-  <Cat.lifeStages.kitten.labelPlural>kattungar</Cat.lifeStages.kitten.labelPlural>
-  <Cat.lifeStages.kitten.labelMale>kattunge</Cat.lifeStages.kitten.labelMale>
-  <Cat.lifeStages.kitten.labelMalePlural>kattungar</Cat.lifeStages.kitten.labelMalePlural>
   <Cat.lifeStages.kitten.labelFemale>kattunge</Cat.lifeStages.kitten.labelFemale>
   <Cat.lifeStages.kitten.labelFemalePlural>kattungar</Cat.lifeStages.kitten.labelFemalePlural>
+  <Cat.lifeStages.kitten.labelMale>kattunge</Cat.lifeStages.kitten.labelMale>
+  <Cat.lifeStages.kitten.labelMalePlural>kattungar</Cat.lifeStages.kitten.labelMalePlural>
+  <Cat.lifeStages.kitten.labelPlural>kattungar</Cat.lifeStages.kitten.labelPlural>
   <Cat.lifeStages.1.label>katt</Cat.lifeStages.1.label>
-  <Cat.lifeStages.1.labelPlural>katter</Cat.lifeStages.1.labelPlural>
-  <Cat.lifeStages.1.labelMale>katth</Cat.lifeStages.1.labelMale>
-  <Cat.lifeStages.1.labelMalePlural>katter</Cat.lifeStages.1.labelMalePlural>
   <Cat.lifeStages.1.labelFemale>katt</Cat.lifeStages.1.labelFemale>
   <Cat.lifeStages.1.labelFemalePlural>katter</Cat.lifeStages.1.labelFemalePlural>
+  <Cat.lifeStages.1.labelMale>katth</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.1.labelMalePlural>katter</Cat.lifeStages.1.labelMalePlural>
+  <Cat.lifeStages.1.labelPlural>katter</Cat.lifeStages.1.labelPlural>
   <Cat.lifeStages.2.label>katt</Cat.lifeStages.2.label>
-  <Cat.lifeStages.2.labelPlural>katter</Cat.lifeStages.2.labelPlural>
-  <Cat.lifeStages.2.labelMale>katt</Cat.lifeStages.2.labelMale>
-  <Cat.lifeStages.2.labelMalePlural>katter</Cat.lifeStages.2.labelMalePlural>
   <Cat.lifeStages.2.labelFemale>katt</Cat.lifeStages.2.labelFemale>
   <Cat.lifeStages.2.labelFemalePlural>katter</Cat.lifeStages.2.labelFemalePlural>
-  <Cat.labelMale>katt</Cat.labelMale>
-  <Cat.labelMalePlural>katter</Cat.labelMalePlural>
-  <Cat.labelFemale>katt</Cat.labelFemale>
-  <Cat.labelFemalePlural>katt</Cat.labelFemalePlural>
-
+  <Cat.lifeStages.2.labelMale>katt</Cat.lifeStages.2.labelMale>
+  <Cat.lifeStages.2.labelMalePlural>katter</Cat.lifeStages.2.labelMalePlural>
+  <Cat.lifeStages.2.labelPlural>katter</Cat.lifeStages.2.labelPlural>
+  
   <!-- EN: husky -->
   <Husky.label>husky</Husky.label>
+  <Husky.labelFemale>husky</Husky.labelFemale>
+  <Husky.labelFemalePlural>huskys</Husky.labelFemalePlural>
+  <Husky.labelMale>husky</Husky.labelMale>
+  <Husky.labelMalePlural>huskys</Husky.labelMalePlural>
   <!-- EN: huskies -->
   <Husky.labelPlural>huskys</Husky.labelPlural>
   <!-- EN: husky puppy -->
   <Husky.lifeStages.husky_puppy.label>huskyvalp</Husky.lifeStages.husky_puppy.label>
-  <!-- EN: husky puppies -->
-  <Husky.lifeStages.husky_puppy.labelPlural>huskyvalpar</Husky.lifeStages.husky_puppy.labelPlural>
-  <Husky.lifeStages.husky_puppy.labelMale>huskyvalp</Husky.lifeStages.husky_puppy.labelMale>
-  <Husky.lifeStages.husky_puppy.labelMalePlural>huskyvalpar</Husky.lifeStages.husky_puppy.labelMalePlural>
   <Husky.lifeStages.husky_puppy.labelFemale>huskyvalp</Husky.lifeStages.husky_puppy.labelFemale>
   <Husky.lifeStages.husky_puppy.labelFemalePlural>huskyvalpar</Husky.lifeStages.husky_puppy.labelFemalePlural>
-  <Husky.lifeStages.1.label>husky-unghund</Husky.lifeStages.1.label>
-  <Husky.lifeStages.1.labelPlural>husky-unghundar</Husky.lifeStages.1.labelPlural>
-  <Husky.lifeStages.1.labelMale>husky-unghund</Husky.lifeStages.1.labelMale>
-  <Husky.lifeStages.1.labelMalePlural>husky-unghundar</Husky.lifeStages.1.labelMalePlural>
-  <Husky.lifeStages.1.labelFemale>husky-unghund</Husky.lifeStages.1.labelFemale>
-  <Husky.lifeStages.1.labelFemalePlural>husky-unghundar</Husky.lifeStages.1.labelFemalePlural>
+  <Husky.lifeStages.husky_puppy.labelMale>huskyvalp</Husky.lifeStages.husky_puppy.labelMale>
+  <Husky.lifeStages.husky_puppy.labelMalePlural>huskyvalpar</Husky.lifeStages.husky_puppy.labelMalePlural>
+  <!-- EN: husky puppies -->
+  <Husky.lifeStages.husky_puppy.labelPlural>huskyvalpar</Husky.lifeStages.husky_puppy.labelPlural>
+  <Husky.lifeStages.1.label>husky</Husky.lifeStages.1.label>
+  <Husky.lifeStages.1.labelFemale>husky</Husky.lifeStages.1.labelFemale>
+  <Husky.lifeStages.1.labelFemalePlural>huskys</Husky.lifeStages.1.labelFemalePlural>
+  <Husky.lifeStages.1.labelMale>husky</Husky.lifeStages.1.labelMale>
+  <Husky.lifeStages.1.labelMalePlural>huskys</Husky.lifeStages.1.labelMalePlural>
+  <Husky.lifeStages.1.labelPlural>huskys</Husky.lifeStages.1.labelPlural>
   <Husky.lifeStages.2.label>husky</Husky.lifeStages.2.label>
+  <Husky.lifeStages.2.labelFemale>husky</Husky.lifeStages.2.labelFemale>
+  <Husky.lifeStages.2.labelFemalePlural>huskys</Husky.lifeStages.2.labelFemalePlural>
+  <Husky.lifeStages.2.labelMale>husky</Husky.lifeStages.2.labelMale>
+  <Husky.lifeStages.2.labelMalePlural>huskys</Husky.lifeStages.2.labelMalePlural>
   <Husky.lifeStages.2.labelPlural>huskys</Husky.lifeStages.2.labelPlural>
-  <Husky.lifeStages.2.labelMale>huskyhane</Husky.lifeStages.2.labelMale>
-  <Husky.lifeStages.2.labelMalePlural>huskyhanar</Husky.lifeStages.2.labelMalePlural>
-  <Husky.lifeStages.2.labelFemale>huskytik</Husky.lifeStages.2.labelFemale>
-  <Husky.lifeStages.2.labelFemalePlural>huskytikar</Husky.lifeStages.2.labelFemalePlural>
-  <Husky.labelMale>huskyhane</Husky.labelMale>
-  <Husky.labelMalePlural>huskyhanar</Husky.labelMalePlural>
-  <Husky.labelFemale>huskytik</Husky.labelFemale>
-  <Husky.labelFemalePlural>huskytikar</Husky.labelFemalePlural>
   
-
   <!-- EN: labrador retriever -->
   <LabradorRetriever.label>labrador</LabradorRetriever.label>
+  <LabradorRetriever.labelFemale>labrador</LabradorRetriever.labelFemale>
+  <LabradorRetriever.labelFemalePlural>labradorer</LabradorRetriever.labelFemalePlural>
+  <LabradorRetriever.labelMale>labrador</LabradorRetriever.labelMale>
+  <LabradorRetriever.labelMalePlural>labradorer</LabradorRetriever.labelMalePlural>
   <LabradorRetriever.labelPlural>labradorer</LabradorRetriever.labelPlural>
   <!-- EN: labrador puppy -->
   <LabradorRetriever.lifeStages.labrador_puppy.label>labradorvalp</LabradorRetriever.lifeStages.labrador_puppy.label>
-  <!-- EN: labrador puppies -->
-  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>labradorvalpar</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
-  <LabradorRetriever.lifeStages.labrador_puppy.labelMale>labradorvalp</LabradorRetriever.lifeStages.labrador_puppy.labelMale>
-  <LabradorRetriever.lifeStages.labrador_puppy.labelMalePlural>labradorvalpar</LabradorRetriever.lifeStages.labrador_puppy.labelMalePlural>
   <LabradorRetriever.lifeStages.labrador_puppy.labelFemale>labradorvalp</LabradorRetriever.lifeStages.labrador_puppy.labelFemale>
   <LabradorRetriever.lifeStages.labrador_puppy.labelFemalePlural>labradorvalpar</LabradorRetriever.lifeStages.labrador_puppy.labelFemalePlural>
-  <LabradorRetriever.lifeStages.1.label>labrador-unghund</LabradorRetriever.lifeStages.1.label>
-  <LabradorRetriever.lifeStages.1.labelPlural>labrador-unghundar</LabradorRetriever.lifeStages.1.labelPlural>
-  <LabradorRetriever.lifeStages.1.labelMale>labrador-unghund</LabradorRetriever.lifeStages.1.labelMale>
-  <LabradorRetriever.lifeStages.1.labelMalePlural>labrador-unghundar</LabradorRetriever.lifeStages.1.labelMalePlural>
-  <LabradorRetriever.lifeStages.1.labelFemale>labrador-unghund</LabradorRetriever.lifeStages.1.labelFemale>
-  <LabradorRetriever.lifeStages.1.labelFemalePlural>labrador-unghundar</LabradorRetriever.lifeStages.1.labelFemalePlural>
+  <LabradorRetriever.lifeStages.labrador_puppy.labelMale>labradorvalp</LabradorRetriever.lifeStages.labrador_puppy.labelMale>
+  <LabradorRetriever.lifeStages.labrador_puppy.labelMalePlural>labradorvalpar</LabradorRetriever.lifeStages.labrador_puppy.labelMalePlural>
+  <!-- EN: labrador puppies -->
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>labradorvalpar</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  <LabradorRetriever.lifeStages.1.label>labrador</LabradorRetriever.lifeStages.1.label>
+  <LabradorRetriever.lifeStages.1.labelFemale>labrador</LabradorRetriever.lifeStages.1.labelFemale>
+  <LabradorRetriever.lifeStages.1.labelFemalePlural>labradorer</LabradorRetriever.lifeStages.1.labelFemalePlural>
+  <LabradorRetriever.lifeStages.1.labelMale>labrador</LabradorRetriever.lifeStages.1.labelMale>
+  <LabradorRetriever.lifeStages.1.labelMalePlural>labradorer</LabradorRetriever.lifeStages.1.labelMalePlural>
+  <LabradorRetriever.lifeStages.1.labelPlural>labradorer</LabradorRetriever.lifeStages.1.labelPlural>
   <LabradorRetriever.lifeStages.2.label>labrador</LabradorRetriever.lifeStages.2.label>
+  <LabradorRetriever.lifeStages.2.labelFemale>labrador</LabradorRetriever.lifeStages.2.labelFemale>
+  <LabradorRetriever.lifeStages.2.labelFemalePlural>labradorer</LabradorRetriever.lifeStages.2.labelFemalePlural>
+  <LabradorRetriever.lifeStages.2.labelMale>labrador</LabradorRetriever.lifeStages.2.labelMale>
+  <LabradorRetriever.lifeStages.2.labelMalePlural>labradorer</LabradorRetriever.lifeStages.2.labelMalePlural>
   <LabradorRetriever.lifeStages.2.labelPlural>labradorer</LabradorRetriever.lifeStages.2.labelPlural>
-  <LabradorRetriever.lifeStages.2.labelMale>labradorhane</LabradorRetriever.lifeStages.2.labelMale>
-  <LabradorRetriever.lifeStages.2.labelMalePlural>labradorhanar</LabradorRetriever.lifeStages.2.labelMalePlural>
-  <LabradorRetriever.lifeStages.2.labelFemale>labradortik</LabradorRetriever.lifeStages.2.labelFemale>
-  <LabradorRetriever.lifeStages.2.labelFemalePlural>labradortikar</LabradorRetriever.lifeStages.2.labelFemalePlural>
-  <LabradorRetriever.labelMale>labradorhane</LabradorRetriever.labelMale>
-  <LabradorRetriever.labelMalePlural>labradorhanar</LabradorRetriever.labelMalePlural>
-  <LabradorRetriever.labelFemale>labradortik</LabradorRetriever.labelFemale>
-  <LabradorRetriever.labelFemalePlural>labradortikar</LabradorRetriever.labelFemalePlural>
-
   
   <!-- EN: yorkshire terrier -->
   <YorkshireTerrier.label>yorkshireterrier</YorkshireTerrier.label>
+  <YorkshireTerrier.labelFemale>yorkshireterrier</YorkshireTerrier.labelFemale>
+  <YorkshireTerrier.labelFemalePlural>yorkshireterriers</YorkshireTerrier.labelFemalePlural>
+  <YorkshireTerrier.labelMale>yorkshireterrier</YorkshireTerrier.labelMale>
+  <YorkshireTerrier.labelMalePlural>yorkshireterriers</YorkshireTerrier.labelMalePlural>
   <YorkshireTerrier.labelPlural>yorkshireterriers</YorkshireTerrier.labelPlural>
   <!-- EN: yorkshire terrier puppy -->
   <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>yorkshireterriervalp</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
-  <!-- EN: yorkshire terrier puppies -->
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>yorkshireterriervalpar</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMale>yorkshireterriervalp</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMale>
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMalePlural>yorkshireterriervalpar</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMalePlural>
   <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemale>yorkshireterriervalp</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemale>
   <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemalePlural>yorkshireterriervalpar</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelFemalePlural>
-  <YorkshireTerrier.lifeStages.1.label>yorkshireterrier-unghund</YorkshireTerrier.lifeStages.1.label>
-  <YorkshireTerrier.lifeStages.1.labelPlural>yorkshireterrier-unghundar</YorkshireTerrier.lifeStages.1.labelPlural>
-  <YorkshireTerrier.lifeStages.1.labelMale>yorkshireterrier-unghund</YorkshireTerrier.lifeStages.1.labelMale>
-  <YorkshireTerrier.lifeStages.1.labelMalePlural>yorkshireterrier-unghundar</YorkshireTerrier.lifeStages.1.labelMalePlural>
-  <YorkshireTerrier.lifeStages.1.labelFemale>yorkshireterrier-unghund</YorkshireTerrier.lifeStages.1.labelFemale>
-  <YorkshireTerrier.lifeStages.1.labelFemalePlural>yorkshireterrier-unghundar</YorkshireTerrier.lifeStages.1.labelFemalePlural>
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMale>yorkshireterriervalp</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMale>
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMalePlural>yorkshireterriervalpar</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelMalePlural>
+  <!-- EN: yorkshire terrier puppies -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>yorkshireterriervalpar</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+  <YorkshireTerrier.lifeStages.1.label>yorkshireterrier</YorkshireTerrier.lifeStages.1.label>
+  <YorkshireTerrier.lifeStages.1.labelFemale>yorkshireterrier</YorkshireTerrier.lifeStages.1.labelFemale>
+  <YorkshireTerrier.lifeStages.1.labelFemalePlural>yorkshireterriers</YorkshireTerrier.lifeStages.1.labelFemalePlural>
+  <YorkshireTerrier.lifeStages.1.labelMale>yorkshireterrier</YorkshireTerrier.lifeStages.1.labelMale>
+  <YorkshireTerrier.lifeStages.1.labelMalePlural>yorkshireterriers</YorkshireTerrier.lifeStages.1.labelMalePlural>
+  <YorkshireTerrier.lifeStages.1.labelPlural>yorkshireterriers</YorkshireTerrier.lifeStages.1.labelPlural>
   <YorkshireTerrier.lifeStages.2.label>yorkshireterrier</YorkshireTerrier.lifeStages.2.label>
+  <YorkshireTerrier.lifeStages.2.labelFemale>yorkshireterrier</YorkshireTerrier.lifeStages.2.labelFemale>
+  <YorkshireTerrier.lifeStages.2.labelFemalePlural>yorkshireterriers</YorkshireTerrier.lifeStages.2.labelFemalePlural>
+  <YorkshireTerrier.lifeStages.2.labelMale>yorkshireterrier</YorkshireTerrier.lifeStages.2.labelMale>
+  <YorkshireTerrier.lifeStages.2.labelMalePlural>yorkshireterriers</YorkshireTerrier.lifeStages.2.labelMalePlural>
   <YorkshireTerrier.lifeStages.2.labelPlural>yorkshireterriers</YorkshireTerrier.lifeStages.2.labelPlural>
-  <YorkshireTerrier.lifeStages.2.labelMale>yorkshireterrierhane</YorkshireTerrier.lifeStages.2.labelMale>
-  <YorkshireTerrier.lifeStages.2.labelMalePlural>yorkshireterrierhanar</YorkshireTerrier.lifeStages.2.labelMalePlural>
-  <YorkshireTerrier.lifeStages.2.labelFemale>yorkshireterriertik</YorkshireTerrier.lifeStages.2.labelFemale>
-  <YorkshireTerrier.lifeStages.2.labelFemalePlural>yorkshireterriertikar</YorkshireTerrier.lifeStages.2.labelFemalePlural>
-  <YorkshireTerrier.labelMale>yorkshireterrierhane</YorkshireTerrier.labelMale>
-  <YorkshireTerrier.labelMalePlural>yorkshireterrierhanar</YorkshireTerrier.labelMalePlural>
-  <YorkshireTerrier.labelFemale>yorkshireterriertik</YorkshireTerrier.labelFemale>
-  <YorkshireTerrier.labelFemalePlural>yorkshireterriertikar</YorkshireTerrier.labelFemalePlural>
-
   
 </LanguageData>

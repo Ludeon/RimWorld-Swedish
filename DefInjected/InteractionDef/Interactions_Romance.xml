@@ -1,41 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: breakup -->
+  <Breakup.label>separation</Breakup.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] asked [OTHER_nameDef] for a break.</li>
-    <li>r_logentry->[INITIATOR_nameDef] asked [OTHER_nameDef] for some space.</li>
-    <li>r_logentry->[INITIATOR_nameDef] told [OTHER_nameDef] that it's not working out.</li>
-    <li>r_logentry->[INITIATOR_nameDef] told [OTHER_nameDef] that it would be best to see other people.</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
-    <li>TODO</li>
+    <li>r_logentry->[INITIATOR_nameDef] frågade [RECIPIENT_nameDef] om en paus.</li>
+    <li>r_logentry->[INITIATOR_nameDef] frågade [RECIPIENT_nameDef] om utrymme.</li>
+    <li>r_logentry->[INITIATOR_nameDef] sa till [RECIPIENT_nameDef] att det inte fungerar.</li>
+    <li>r_logentry->[INITIATOR_nameDef] sa till [RECIPIENT_nameDef] att det vore bra att träffa andra personer.</li>
   </Breakup.logRulesInitiator.rulesStrings>
-  <!-- EN: breakup -->
-  <Breakup.label>TODO</Breakup.label>
   
   <!-- UNUSED -->
   <Breakup.logRulesRecipient.rulesStrings>
     <li>UNUSED</li>
   </Breakup.logRulesRecipient.rulesStrings>
   
+  <!-- EN: marriage proposal -->
+  <MarriageProposal.label>frieri</MarriageProposal.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [OTHER_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [OTHER_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] told [OTHER_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [OTHER_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>TODO</li>
+    <li>r_logentry->[INITIATOR_nameDef] föreslog giftemål för [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] föreslog ett livslångt trohet till [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] berättade för [RECIPIENT_nameDef] att [INITIATOR_pronoun] vill spendera [INITIATOR_possessive] liv med [RECIPIENT_objective].</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
-  <!-- EN: marriage proposal -->
-  <MarriageProposal.label>TODO</MarriageProposal.label>
   
   <!-- UNUSED -->
   <MarriageProposal.logRulesRecipient.rulesStrings>
     <li>UNUSED</li>
   </MarriageProposal.logRulesRecipient.rulesStrings>
   
+  <!-- EN: romance attempt -->
+  <RomanceAttempt.label>TODO</RomanceAttempt.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [wooed] [OTHER_nameDef] by [wootactic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
     <li>wooed->tried to flirt with</li>
     <li>wooed->flirted with</li>
     <li>wooed->tried to attract</li>
@@ -45,14 +52,14 @@
     <li>wooed->pursued</li>
     <li>wooed->charmed</li>
     <li>wooed->courted</li>
-    <li>wootactic(p=4)->[complimenting] [OTHER_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
     <li>wootactic->telling a story about [TalkTopicAny]</li>
     <li>wootactic->telling a tale about [TalkTopicAny]</li>
     <li>wootactic->joking about [TalkTopicAny]</li>
     <li>wootactic->making an observation about [TalkTopicAny]</li>
     <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
-    <li>wootactic->comparing [OTHER_objective] to a [romantic_adj] [romantic_noun]</li>
-    <li>wootactic->describing [OTHER_objective] as a [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
     <li>boasting->boasting about</li>
     <li>boasting->mentioning</li>
     <li>boasting->implying good things about</li>
@@ -97,10 +104,67 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
   <RomanceAttempt.logRulesInitiator.rulesStrings>
-    <li>TODO</li>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] genom [wootactic].</li>
+    <li>wooed->försökte att flörta med</li>
+    <li>wooed->flörtade med</li>
+    <li>wooed->försökte attrahera</li>
+    <li>wooed->försökte svärma för</li>
+    <li>wooed->tried to woo TODO</li>
+    <li>wooed->wooed TODO</li>
+    <li>wooed->övertala</li>
+    <li>wooed->charma</li>
+    <li>wooed->uppvakta</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->berätta en historia om [TalkTopicAny]</li>
+    <li>wootactic->berätta en saga om [TalkTopicAny]</li>
+    <li>wootactic->skämta om [TalkTopicAny]</li>
+    <li>wootactic->göra en observation gällande [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] egen [PersonalCharacteristic]</li>
+    <li>wootactic->jämföra [RECIPIENT_objective] med en [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->beskriva [RECIPIENT_objective] som en [romantic_adj] [romantic_noun]</li>
+    <li>boasting->skryta om</li>
+    <li>boasting->nämna</li>
+    <li>boasting->implicera bra saker om</li>
+    <li>boasting->överdriva</li>
+    <li>boasting->prata om</li>
+    <li>boasting->dra uppmärksamhet till</li>
+    <li>complimenting(p=3)->ge komplimang</li>
+    <li>complimenting->diskret ge komplimang</li>
+    <li>complimenting->lovprisa</li>
+    <li>complimenting->berömma</li>
+    <li>complimenting->säga bra saker om</li>
+    <li>complimenting(p=2)->lekfullt göra narr av</li>
+    <li>complimenting->peta skämtsamt på</li>
+    <li>complimenting->skämtsamt ge en halv komplimang</li>
+    <li>complimenting->okynnigt ifrågasättande</li>
+    <li>complimenting->glatt göra narr av</li>
+    <li>romantic_adj->vacker</li>
+    <li>romantic_adj->skinande</li>
+    <li>romantic_adj->glimmrande</li>
+    <li>romantic_adj->himmelsk</li>
+    <li>romantic_adj->gyllene</li>
+    <li>romantic_adj->ljus</li>
+    <li>romantic_adj->hissnande</li>
+    <li>romantic_adj->charmig</li>
+    <li>romantic_adj->bländande</li>
+    <li>romantic_adj->läcker</li>
+    <li>romantic_adj->fin</li>
+    <li>romantic_adj->ståtlig</li>
+    <li>romantic_adj->ljuv</li>
+    <li>romantic_adj->underbar</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->blomma</li>
+    <li>romantic_noun->våren</li>
+    <li>romantic_noun->älv</li>
+    <li>romantic_noun->stjärna</li>
+    <li>romantic_noun->måne</li>
+    <li>romantic_noun->sol</li>
+    <li>romantic_noun->hus</li>
+    <li>romantic_noun->norrsken</li>
+    <li>romantic_noun->[TreeType] träd</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
   </RomanceAttempt.logRulesInitiator.rulesStrings>
-  <!-- EN: romance attempt -->
-  <RomanceAttempt.label>TODO</RomanceAttempt.label>
   
   <!-- UNUSED -->
   <RomanceAttempt.logRulesRecipient.rulesStrings>

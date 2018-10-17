@@ -1,113 +1,113 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>dromedar</Dromedary.label>
+  <Dromedary.labelFemale>dromedar</Dromedary.labelFemale>
+  <Dromedary.labelFemalePlural>dromedarer</Dromedary.labelFemalePlural>
+  <Dromedary.labelMale>dromedar</Dromedary.labelMale>
+  <Dromedary.labelMalePlural>dromedarer</Dromedary.labelMalePlural>
   <!-- EN: dromedaries -->
   <Dromedary.labelPlural>dromedarer</Dromedary.labelPlural>
   <!-- EN: dromedary calf -->
   <Dromedary.lifeStages.dromedary_calf.label>dromedarkalv</Dromedary.lifeStages.dromedary_calf.label>
-  <!-- EN: dromedary calves -->
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>dromedarkalvar</Dromedary.lifeStages.dromedary_calf.labelPlural>
-  <Dromedary.lifeStages.dromedary_calf.labelMale>dromedarkalv</Dromedary.lifeStages.dromedary_calf.labelMale>
-  <Dromedary.lifeStages.dromedary_calf.labelMalePlural>dromedarkalvar</Dromedary.lifeStages.dromedary_calf.labelMalePlural>
   <Dromedary.lifeStages.dromedary_calf.labelFemale>dromedarkalv</Dromedary.lifeStages.dromedary_calf.labelFemale>
   <Dromedary.lifeStages.dromedary_calf.labelFemalePlural>dromedarkalvar</Dromedary.lifeStages.dromedary_calf.labelFemalePlural>
+  <Dromedary.lifeStages.dromedary_calf.labelMale>dromedarkalv</Dromedary.lifeStages.dromedary_calf.labelMale>
+  <Dromedary.lifeStages.dromedary_calf.labelMalePlural>dromedarkalvar</Dromedary.lifeStages.dromedary_calf.labelMalePlural>
+  <!-- EN: dromedary calves -->
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>dromedarkalvar</Dromedary.lifeStages.dromedary_calf.labelPlural>
   <Dromedary.lifeStages.1.label>dromedar</Dromedary.lifeStages.1.label>
-  <Dromedary.lifeStages.1.labelPlural>dromedarer</Dromedary.lifeStages.1.labelPlural>
-  <Dromedary.lifeStages.1.labelMale>dromedar</Dromedary.lifeStages.1.labelMale>
-  <Dromedary.lifeStages.1.labelMalePlural>dromedarer</Dromedary.lifeStages.1.labelMalePlural>
   <Dromedary.lifeStages.1.labelFemale>dromedar</Dromedary.lifeStages.1.labelFemale>
   <Dromedary.lifeStages.1.labelFemalePlural>dromedarer</Dromedary.lifeStages.1.labelFemalePlural>
+  <Dromedary.lifeStages.1.labelMale>dromedar</Dromedary.lifeStages.1.labelMale>
+  <Dromedary.lifeStages.1.labelMalePlural>dromedarer</Dromedary.lifeStages.1.labelMalePlural>
+  <Dromedary.lifeStages.1.labelPlural>dromedarer</Dromedary.lifeStages.1.labelPlural>
   <Dromedary.lifeStages.2.label>dromedar</Dromedary.lifeStages.2.label>
-  <Dromedary.lifeStages.2.labelPlural>dromedarer</Dromedary.lifeStages.2.labelPlural>
-  <Dromedary.lifeStages.2.labelMale>dromedar</Dromedary.lifeStages.2.labelMale>
-  <Dromedary.lifeStages.2.labelMalePlural>dromedarer</Dromedary.lifeStages.2.labelMalePlural>
   <Dromedary.lifeStages.2.labelFemale>dromedar</Dromedary.lifeStages.2.labelFemale>
   <Dromedary.lifeStages.2.labelFemalePlural>dromedarer</Dromedary.lifeStages.2.labelFemalePlural>
-  <!-- EN: dromedary -->
-  <Dromedary.label>dromedar</Dromedary.label>
-  <Dromedary.labelMale>dromedar</Dromedary.labelMale>
-  <Dromedary.labelMalePlural>dromedarer</Dromedary.labelMalePlural>
-  <Dromedary.labelFemale>dromedar</Dromedary.labelFemale>
-  <Dromedary.labelFemalePlural>dromedarer</Dromedary.labelFemalePlural>
-
+  <Dromedary.lifeStages.2.labelMale>dromedar</Dromedary.lifeStages.2.labelMale>
+  <Dromedary.lifeStages.2.labelMalePlural>dromedarer</Dromedary.lifeStages.2.labelMalePlural>
+  <Dromedary.lifeStages.2.labelPlural>dromedarer</Dromedary.lifeStages.2.labelPlural>
+  
   <!-- EN: gazelle -->
   <Gazelle.label>gazell</Gazelle.label>
+  <Gazelle.labelFemale>gazell</Gazelle.labelFemale>
+  <Gazelle.labelFemalePlural>gazell</Gazelle.labelFemalePlural>
+  <Gazelle.labelMale>gazell</Gazelle.labelMale>
+  <Gazelle.labelMalePlural>gazell</Gazelle.labelMalePlural>
   <Gazelle.labelPlural>gazeller</Gazelle.labelPlural>
-  <Gazelle.lifeStages.0.label>gazell</Gazelle.lifeStages.0.label>
-  <Gazelle.lifeStages.0.labelPlural>gazeller</Gazelle.lifeStages.0.labelPlural>
-  <Gazelle.lifeStages.0.labelMale>gazellunge</Gazelle.lifeStages.0.labelMale>
-  <Gazelle.lifeStages.0.labelMalePlural>gazellungar</Gazelle.lifeStages.0.labelMalePlural>
+  <Gazelle.lifeStages.0.label>gazellunge</Gazelle.lifeStages.0.label>
   <Gazelle.lifeStages.0.labelFemale>gazellunge</Gazelle.lifeStages.0.labelFemale>
   <Gazelle.lifeStages.0.labelFemalePlural>gazellungar</Gazelle.lifeStages.0.labelFemalePlural>
+  <Gazelle.lifeStages.0.labelMale>gazellunge</Gazelle.lifeStages.0.labelMale>
+  <Gazelle.lifeStages.0.labelMalePlural>gazellungar</Gazelle.lifeStages.0.labelMalePlural>
+  <Gazelle.lifeStages.0.labelPlural>gazellungarr</Gazelle.lifeStages.0.labelPlural>
   <Gazelle.lifeStages.1.label>gazell</Gazelle.lifeStages.1.label>
+  <Gazelle.lifeStages.1.labelFemale>gazell</Gazelle.lifeStages.1.labelFemale>
+  <Gazelle.lifeStages.1.labelFemalePlural>gazeller</Gazelle.lifeStages.1.labelFemalePlural>
+  <Gazelle.lifeStages.1.labelMale>gazell</Gazelle.lifeStages.1.labelMale>
+  <Gazelle.lifeStages.1.labelMalePlural>gazeller</Gazelle.lifeStages.1.labelMalePlural>
   <Gazelle.lifeStages.1.labelPlural>gazeller</Gazelle.lifeStages.1.labelPlural>
-  <Gazelle.lifeStages.1.labelMale>gazellunge</Gazelle.lifeStages.1.labelMale>
-  <Gazelle.lifeStages.1.labelMalePlural>gazellungar</Gazelle.lifeStages.1.labelMalePlural>
-  <Gazelle.lifeStages.1.labelFemale>gazellunge</Gazelle.lifeStages.1.labelFemale>
-  <Gazelle.lifeStages.1.labelFemalePlural>gazellungar</Gazelle.lifeStages.1.labelFemalePlural>
   <Gazelle.lifeStages.2.label>gazell</Gazelle.lifeStages.2.label>
-  <Gazelle.lifeStages.2.labelPlural>gazeller</Gazelle.lifeStages.2.labelPlural>
-  <Gazelle.lifeStages.2.labelMale>gazellhane</Gazelle.lifeStages.2.labelMale>
-  <Gazelle.lifeStages.2.labelMalePlural>gazeller</Gazelle.lifeStages.2.labelMalePlural>
-  <Gazelle.lifeStages.2.labelFemale>gazellhona</Gazelle.lifeStages.2.labelFemale>
+  <Gazelle.lifeStages.2.labelFemale>gazell</Gazelle.lifeStages.2.labelFemale>
   <Gazelle.lifeStages.2.labelFemalePlural>gazeller</Gazelle.lifeStages.2.labelFemalePlural>
-  <Gazelle.labelMale>gazellhane</Gazelle.labelMale>
-  <Gazelle.labelMalePlural>gazellhanar</Gazelle.labelMalePlural>
-  <Gazelle.labelFemale>gazellhona</Gazelle.labelFemale>
-  <Gazelle.labelFemalePlural>gazellhonor</Gazelle.labelFemalePlural>
+  <Gazelle.lifeStages.2.labelMale>gazell</Gazelle.lifeStages.2.labelMale>
+  <Gazelle.lifeStages.2.labelMalePlural>gazeller</Gazelle.lifeStages.2.labelMalePlural>
+  <Gazelle.lifeStages.2.labelPlural>gazeller</Gazelle.lifeStages.2.labelPlural>
   
   <!-- EN: iguana -->
   <Iguana.label>leguan</Iguana.label>
+  <Iguana.labelFemale>leguan</Iguana.labelFemale>
+  <Iguana.labelFemalePlural>leguaner</Iguana.labelFemalePlural>
+  <Iguana.labelMale>leguan</Iguana.labelMale>
+  <Iguana.labelMalePlural>leguaner</Iguana.labelMalePlural>
   <Iguana.labelPlural>leguaner</Iguana.labelPlural>
   <Iguana.lifeStages.0.label>leguanunge</Iguana.lifeStages.0.label>
-  <Iguana.lifeStages.0.labelPlural>leguanungar</Iguana.lifeStages.0.labelPlural>
-  <Iguana.lifeStages.0.labelMale>leguanunge</Iguana.lifeStages.0.labelMale>
-  <Iguana.lifeStages.0.labelMalePlural>leguanungar</Iguana.lifeStages.0.labelMalePlural>
   <Iguana.lifeStages.0.labelFemale>leguanunge</Iguana.lifeStages.0.labelFemale>
   <Iguana.lifeStages.0.labelFemalePlural>leguanungar</Iguana.lifeStages.0.labelFemalePlural>
+  <Iguana.lifeStages.0.labelMale>leguanunge</Iguana.lifeStages.0.labelMale>
+  <Iguana.lifeStages.0.labelMalePlural>leguanungar</Iguana.lifeStages.0.labelMalePlural>
+  <Iguana.lifeStages.0.labelPlural>leguanungar</Iguana.lifeStages.0.labelPlural>
   <Iguana.lifeStages.1.label>leguan</Iguana.lifeStages.1.label>
+  <Iguana.lifeStages.1.labelFemale>leguan</Iguana.lifeStages.1.labelFemale>
+  <Iguana.lifeStages.1.labelFemalePlural>leguaner</Iguana.lifeStages.1.labelFemalePlural>
+  <Iguana.lifeStages.1.labelMale>leguan</Iguana.lifeStages.1.labelMale>
+  <Iguana.lifeStages.1.labelMalePlural>leguaner</Iguana.lifeStages.1.labelMalePlural>
   <Iguana.lifeStages.1.labelPlural>leguaner</Iguana.lifeStages.1.labelPlural>
-  <Iguana.lifeStages.1.labelMale>leguanunge</Iguana.lifeStages.1.labelMale>
-  <Iguana.lifeStages.1.labelMalePlural>leguanungar</Iguana.lifeStages.1.labelMalePlural>
-  <Iguana.lifeStages.1.labelFemale>leguanunge</Iguana.lifeStages.1.labelFemale>
-  <Iguana.lifeStages.1.labelFemalePlural>leguanungar</Iguana.lifeStages.1.labelFemalePlural>
   <Iguana.lifeStages.2.label>leguan</Iguana.lifeStages.2.label>
+  <Iguana.lifeStages.2.labelFemale>leguan</Iguana.lifeStages.2.labelFemale>
+  <Iguana.lifeStages.2.labelFemalePlural>leguaner</Iguana.lifeStages.2.labelFemalePlural>
+  <Iguana.lifeStages.2.labelMale>leguan</Iguana.lifeStages.2.labelMale>
+  <Iguana.lifeStages.2.labelMalePlural>leguaner</Iguana.lifeStages.2.labelMalePlural>
   <Iguana.lifeStages.2.labelPlural>leguaner</Iguana.lifeStages.2.labelPlural>
-  <Iguana.lifeStages.2.labelMale>leguanhane</Iguana.lifeStages.2.labelMale>
-  <Iguana.lifeStages.2.labelMalePlural>leguanhanar</Iguana.lifeStages.2.labelMalePlural>
-  <Iguana.lifeStages.2.labelFemale>leguanhona</Iguana.lifeStages.2.labelFemale>
-  <Iguana.lifeStages.2.labelFemalePlural>leguanhonor</Iguana.lifeStages.2.labelFemalePlural>
-  <Iguana.labelMale>leguanhane</Iguana.labelMale>
-  <Iguana.labelMalePlural>leguanhanar</Iguana.labelMalePlural>
-  <Iguana.labelFemale>leguanhona</Iguana.labelFemale>
-  <Iguana.labelFemalePlural>leguanhonor</Iguana.labelFemalePlural>
-
-  <!-- EN: muffalo calf -->
-  <Muffalo.lifeStages.muffalo_calf.label>muffelkalv</Muffalo.lifeStages.muffalo_calf.label>
-  <!-- EN: muffalo calves -->
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>muffelkalvar</Muffalo.lifeStages.muffalo_calf.labelPlural>
-  <Muffalo.lifeStages.muffalo_calf.labelMale>muffelkalv</Muffalo.lifeStages.muffalo_calf.labelMale>
-  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>muffelkalvar</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
-  <Muffalo.lifeStages.muffalo_calf.labelFemale>muffelkalv</Muffalo.lifeStages.muffalo_calf.labelFemale>
-  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>muffelkalvar</Muffalo.lifeStages.muffalo_calf.labelFemalePlural>
-  <Muffalo.lifeStages.1.label>muffel</Muffalo.lifeStages.1.label>
-  <Muffalo.lifeStages.1.labelPlural>mufflar</Muffalo.lifeStages.1.labelPlural>
-  <Muffalo.lifeStages.1.labelMale>muffel</Muffalo.lifeStages.1.labelMale>
-  <Muffalo.lifeStages.1.labelMalePlural>mufflar</Muffalo.lifeStages.1.labelMalePlural>
-  <Muffalo.lifeStages.1.labelFemale>muffel</Muffalo.lifeStages.1.labelFemale>
-  <Muffalo.lifeStages.1.labelFemalePlural>mufflar</Muffalo.lifeStages.1.labelFemalePlural>
-  <Muffalo.lifeStages.2.label>muffel</Muffalo.lifeStages.2.label>
-  <Muffalo.lifeStages.2.labelPlural>mufflar</Muffalo.lifeStages.2.labelPlural>
-  <Muffalo.lifeStages.2.labelMale>muffelhane</Muffalo.lifeStages.2.labelMale>
-  <Muffalo.lifeStages.2.labelMalePlural>mufflhanar</Muffalo.lifeStages.2.labelMalePlural>
-  <Muffalo.lifeStages.2.labelFemale>muffelhona</Muffalo.lifeStages.2.labelFemale>
-  <Muffalo.lifeStages.2.labelFemalePlural>muffelhonor</Muffalo.lifeStages.2.labelFemalePlural>
-  <Muffalo.labelMale>muffelhane</Muffalo.labelMale>
-  <Muffalo.labelMalePlural>mufflhanar</Muffalo.labelMalePlural>
-  <Muffalo.labelFemale>muffelhona</Muffalo.labelFemale>
-  <Muffalo.labelFemalePlural>mufflhonor</Muffalo.labelFemalePlural>
+  
   <!-- EN: muffalo -->
   <Muffalo.label>muffel</Muffalo.label>
+  <Muffalo.labelFemale>muffel</Muffalo.labelFemale>
+  <Muffalo.labelFemalePlural>mufflar</Muffalo.labelFemalePlural>
+  <Muffalo.labelMale>muffel</Muffalo.labelMale>
+  <Muffalo.labelMalePlural>mufflar</Muffalo.labelMalePlural>
   <Muffalo.labelPlural>mufflar</Muffalo.labelPlural>
-
+  <!-- EN: muffalo calf -->
+  <Muffalo.lifeStages.muffalo_calf.label>muffelkalv</Muffalo.lifeStages.muffalo_calf.label>
+  <Muffalo.lifeStages.muffalo_calf.labelFemale>muffelkalv</Muffalo.lifeStages.muffalo_calf.labelFemale>
+  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>muffelkalvar</Muffalo.lifeStages.muffalo_calf.labelFemalePlural>
+  <Muffalo.lifeStages.muffalo_calf.labelMale>muffelkalv</Muffalo.lifeStages.muffalo_calf.labelMale>
+  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>muffelkalvar</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
+  <!-- EN: muffalo calves -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>muffelkalvar</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.1.label>muffel</Muffalo.lifeStages.1.label>
+  <Muffalo.lifeStages.1.labelFemale>muffel</Muffalo.lifeStages.1.labelFemale>
+  <Muffalo.lifeStages.1.labelFemalePlural>mufflar</Muffalo.lifeStages.1.labelFemalePlural>
+  <Muffalo.lifeStages.1.labelMale>muffel</Muffalo.lifeStages.1.labelMale>
+  <Muffalo.lifeStages.1.labelMalePlural>mufflar</Muffalo.lifeStages.1.labelMalePlural>
+  <Muffalo.lifeStages.1.labelPlural>mufflar</Muffalo.lifeStages.1.labelPlural>
+  <Muffalo.lifeStages.2.label>muffel</Muffalo.lifeStages.2.label>
+  <Muffalo.lifeStages.2.labelFemale>muffel</Muffalo.lifeStages.2.labelFemale>
+  <Muffalo.lifeStages.2.labelFemalePlural>mufflar</Muffalo.lifeStages.2.labelFemalePlural>
+  <Muffalo.lifeStages.2.labelMale>muffel</Muffalo.lifeStages.2.labelMale>
+  <Muffalo.lifeStages.2.labelMalePlural>mufflar</Muffalo.lifeStages.2.labelMalePlural>
+  <Muffalo.lifeStages.2.labelPlural>mufflar</Muffalo.lifeStages.2.labelPlural>
+  
 </LanguageData>

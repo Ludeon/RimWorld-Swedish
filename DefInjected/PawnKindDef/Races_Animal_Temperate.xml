@@ -1,173 +1,172 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: caribou -->
   <Caribou.label>ren</Caribou.label>
+  <Caribou.labelFemale>ren</Caribou.labelFemale>
+  <Caribou.labelFemalePlural>renar</Caribou.labelFemalePlural>
+  <Caribou.labelMale>ren</Caribou.labelMale>
+  <Caribou.labelMalePlural>renar</Caribou.labelMalePlural>
+  <!-- EN: caribou -->
   <Caribou.labelPlural>renar</Caribou.labelPlural>
   <!-- EN: caribou calf -->
   <Caribou.lifeStages.caribou_calf.label>renkalv</Caribou.lifeStages.caribou_calf.label>
-  <!-- EN: caribou calves -->
-  <Caribou.lifeStages.caribou_calf.labelPlural>renkalvar</Caribou.lifeStages.caribou_calf.labelPlural>
-  <Caribou.lifeStages.caribou_calf.labelMale>renkalv</Caribou.lifeStages.caribou_calf.labelMale>
-  <Caribou.lifeStages.caribou_calf.labelMalePlural>renkalvar</Caribou.lifeStages.caribou_calf.labelMalePlural>
   <Caribou.lifeStages.caribou_calf.labelFemale>renkalv</Caribou.lifeStages.caribou_calf.labelFemale>
   <Caribou.lifeStages.caribou_calf.labelFemalePlural>renkalvar</Caribou.lifeStages.caribou_calf.labelFemalePlural>
+  <Caribou.lifeStages.caribou_calf.labelMale>renkalv</Caribou.lifeStages.caribou_calf.labelMale>
+  <Caribou.lifeStages.caribou_calf.labelMalePlural>renkalvar</Caribou.lifeStages.caribou_calf.labelMalePlural>
+  <!-- EN: caribou calves -->
+  <Caribou.lifeStages.caribou_calf.labelPlural>renkalvar</Caribou.lifeStages.caribou_calf.labelPlural>
   <Caribou.lifeStages.1.label>ren</Caribou.lifeStages.1.label>
-  <Caribou.lifeStages.1.labelPlural>renar</Caribou.lifeStages.1.labelPlural>
-  <Caribou.lifeStages.1.labelMale>ren</Caribou.lifeStages.1.labelMale>
-  <Caribou.lifeStages.1.labelMalePlural>renar</Caribou.lifeStages.1.labelMalePlural>
   <Caribou.lifeStages.1.labelFemale>ren</Caribou.lifeStages.1.labelFemale>
   <Caribou.lifeStages.1.labelFemalePlural>renar</Caribou.lifeStages.1.labelFemalePlural>
+  <Caribou.lifeStages.1.labelMale>ren</Caribou.lifeStages.1.labelMale>
+  <Caribou.lifeStages.1.labelMalePlural>renar</Caribou.lifeStages.1.labelMalePlural>
+  <Caribou.lifeStages.1.labelPlural>renar</Caribou.lifeStages.1.labelPlural>
   <Caribou.lifeStages.2.label>ren</Caribou.lifeStages.2.label>
+  <Caribou.lifeStages.2.labelFemale>ren</Caribou.lifeStages.2.labelFemale>
+  <Caribou.lifeStages.2.labelFemalePlural>renar</Caribou.lifeStages.2.labelFemalePlural>
+  <Caribou.lifeStages.2.labelMale>ren</Caribou.lifeStages.2.labelMale>
+  <Caribou.lifeStages.2.labelMalePlural>renar</Caribou.lifeStages.2.labelMalePlural>
   <Caribou.lifeStages.2.labelPlural>renar</Caribou.lifeStages.2.labelPlural>
-  <Caribou.lifeStages.2.labelMale>rentjur</Caribou.lifeStages.2.labelMale>
-  <Caribou.lifeStages.2.labelMalePlural>rentjurar</Caribou.lifeStages.2.labelMalePlural>
-  <Caribou.lifeStages.2.labelFemale>renko</Caribou.lifeStages.2.labelFemale>
-  <Caribou.lifeStages.2.labelFemalePlural>renkor</Caribou.lifeStages.2.labelFemalePlural>
-  <Caribou.labelMale>rentjur</Caribou.labelMale>
-  <Caribou.labelMalePlural>rentjurar</Caribou.labelMalePlural>
-  <Caribou.labelFemale>renko</Caribou.labelFemale>
-  <Caribou.labelFemalePlural>renkor</Caribou.labelFemalePlural>
-
   
   <!-- EN: deer -->
   <Deer.label>rådjur</Deer.label>
+  <!-- EN: doe -->
+  <Deer.labelFemale>rådjur</Deer.labelFemale>
+  <Deer.labelFemalePlural>rådjur</Deer.labelFemalePlural>
+  <!-- EN: buck -->
+  <Deer.labelMale>rådjur</Deer.labelMale>
+  <Deer.labelMalePlural>rådjur</Deer.labelMalePlural>
+  <!-- EN: deer -->
   <Deer.labelPlural>rådjur</Deer.labelPlural>
   <Deer.lifeStages.0.label>rådjurskid</Deer.lifeStages.0.label>
-  <Deer.lifeStages.0.labelPlural>rådjurkid</Deer.lifeStages.0.labelPlural>
-  <Deer.lifeStages.0.labelMale>rådjurkid</Deer.lifeStages.0.labelMale>
-  <Deer.lifeStages.0.labelMalePlural>rådjurkid</Deer.lifeStages.0.labelMalePlural>
   <Deer.lifeStages.0.labelFemale>rådjurkid</Deer.lifeStages.0.labelFemale>
   <Deer.lifeStages.0.labelFemalePlural>rådjurkid</Deer.lifeStages.0.labelFemalePlural>
+  <Deer.lifeStages.0.labelMale>rådjurkid</Deer.lifeStages.0.labelMale>
+  <Deer.lifeStages.0.labelMalePlural>rådjurkid</Deer.lifeStages.0.labelMalePlural>
+  <Deer.lifeStages.0.labelPlural>rådjurkid</Deer.lifeStages.0.labelPlural>
   <Deer.lifeStages.1.label>rådjur</Deer.lifeStages.1.label>
-  <Deer.lifeStages.1.labelPlural>rådjur</Deer.lifeStages.1.labelPlural>
-  <Deer.lifeStages.1.labelMale>rådjur</Deer.lifeStages.1.labelMale>
-  <Deer.lifeStages.1.labelMalePlural>rådjur</Deer.lifeStages.1.labelMalePlural>
   <Deer.lifeStages.1.labelFemale>rådjur</Deer.lifeStages.1.labelFemale>
   <Deer.lifeStages.1.labelFemalePlural>rådjur</Deer.lifeStages.1.labelFemalePlural>
+  <Deer.lifeStages.1.labelMale>rådjur</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelMalePlural>rådjur</Deer.lifeStages.1.labelMalePlural>
+  <Deer.lifeStages.1.labelPlural>rådjur</Deer.lifeStages.1.labelPlural>
   <Deer.lifeStages.2.label>rådjur</Deer.lifeStages.2.label>
+  <Deer.lifeStages.2.labelFemale>rådjur</Deer.lifeStages.2.labelFemale>
+  <Deer.lifeStages.2.labelFemalePlural>rådjur</Deer.lifeStages.2.labelFemalePlural>
+  <Deer.lifeStages.2.labelMale>rådjur</Deer.lifeStages.2.labelMale>
+  <Deer.lifeStages.2.labelMalePlural>rådjur</Deer.lifeStages.2.labelMalePlural>
   <Deer.lifeStages.2.labelPlural>rådjur</Deer.lifeStages.2.labelPlural>
-  <Deer.lifeStages.2.labelMale>råbock</Deer.lifeStages.2.labelMale>
-  <Deer.lifeStages.2.labelMalePlural>råbockar</Deer.lifeStages.2.labelMalePlural>
-  <Deer.lifeStages.2.labelFemale>rådjursko</Deer.lifeStages.2.labelFemale>
-  <Deer.lifeStages.2.labelFemalePlural>rådjurskor</Deer.lifeStages.2.labelFemalePlural>
-  <!-- EN: buck -->
-  <Deer.labelMale>råbock</Deer.labelMale>
-  <Deer.labelMalePlural>råbockar</Deer.labelMalePlural>
-  <!-- EN: doe -->
-  <Deer.labelFemale>rådjursko</Deer.labelFemale>
-  <Deer.labelFemalePlural>rådjurskor</Deer.labelFemalePlural>
-
   
   <!-- EN: elk -->
   <Elk.label>älg</Elk.label>
+  <Elk.labelFemale>älgko</Elk.labelFemale>
+  <Elk.labelFemalePlural>älgkor</Elk.labelFemalePlural>
+  <Elk.labelMale>älgtjur</Elk.labelMale>
+  <Elk.labelMalePlural>älgtjurar</Elk.labelMalePlural>
+  <!-- EN: elk -->
   <Elk.labelPlural>älgar</Elk.labelPlural>
   <!-- EN: elk calf -->
   <Elk.lifeStages.elk_calf.label>älgkalv</Elk.lifeStages.elk_calf.label>
-  <!-- EN: elk calves -->
-  <Elk.lifeStages.elk_calf.labelPlural>älgkalvar</Elk.lifeStages.elk_calf.labelPlural>
-  <Elk.lifeStages.elk_calf.labelMale>älgkalv</Elk.lifeStages.elk_calf.labelMale>
-  <Elk.lifeStages.elk_calf.labelMalePlural>älgkalvar</Elk.lifeStages.elk_calf.labelMalePlural>
   <Elk.lifeStages.elk_calf.labelFemale>älgkalv</Elk.lifeStages.elk_calf.labelFemale>
   <Elk.lifeStages.elk_calf.labelFemalePlural>älgkalvar</Elk.lifeStages.elk_calf.labelFemalePlural>
+  <Elk.lifeStages.elk_calf.labelMale>älgkalv</Elk.lifeStages.elk_calf.labelMale>
+  <Elk.lifeStages.elk_calf.labelMalePlural>älgkalvar</Elk.lifeStages.elk_calf.labelMalePlural>
+  <!-- EN: elk calves -->
+  <Elk.lifeStages.elk_calf.labelPlural>älgkalvar</Elk.lifeStages.elk_calf.labelPlural>
   <Elk.lifeStages.1.label>älg</Elk.lifeStages.1.label>
-  <Elk.lifeStages.1.labelPlural>älgar</Elk.lifeStages.1.labelPlural>
-  <Elk.lifeStages.1.labelMale>älg</Elk.lifeStages.1.labelMale>
-  <Elk.lifeStages.1.labelMalePlural>älg</Elk.lifeStages.1.labelMalePlural>
   <Elk.lifeStages.1.labelFemale>älg</Elk.lifeStages.1.labelFemale>
   <Elk.lifeStages.1.labelFemalePlural>älg</Elk.lifeStages.1.labelFemalePlural>
+  <Elk.lifeStages.1.labelMale>älg</Elk.lifeStages.1.labelMale>
+  <Elk.lifeStages.1.labelMalePlural>älg</Elk.lifeStages.1.labelMalePlural>
+  <Elk.lifeStages.1.labelPlural>älgar</Elk.lifeStages.1.labelPlural>
   <Elk.lifeStages.2.label>älg</Elk.lifeStages.2.label>
+  <Elk.lifeStages.2.labelFemale>älg</Elk.lifeStages.2.labelFemale>
+  <Elk.lifeStages.2.labelFemalePlural>älgar</Elk.lifeStages.2.labelFemalePlural>
+  <Elk.lifeStages.2.labelMale>älg</Elk.lifeStages.2.labelMale>
+  <Elk.lifeStages.2.labelMalePlural>älgar</Elk.lifeStages.2.labelMalePlural>
   <Elk.lifeStages.2.labelPlural>älgar</Elk.lifeStages.2.labelPlural>
-  <Elk.lifeStages.2.labelMale>älgtjur</Elk.lifeStages.2.labelMale>
-  <Elk.lifeStages.2.labelMalePlural>älgtjurar</Elk.lifeStages.2.labelMalePlural>
-  <Elk.lifeStages.2.labelFemale>älgko</Elk.lifeStages.2.labelFemale>
-  <Elk.lifeStages.2.labelFemalePlural>älgko</Elk.lifeStages.2.labelFemalePlural>
-  <Elk.labelMale>älgtjur</Elk.labelMale>
-  <Elk.labelMalePlural>älgtjurar</Elk.labelMalePlural>
-  <Elk.labelFemale>älgko</Elk.labelFemale>
-  <Elk.labelFemalePlural>älgkor</Elk.labelFemalePlural>
-
   
   <!-- EN: ibex -->
   <Ibex.label>stenbock</Ibex.label>
-  <Ibex.labelPlural>stenbockar</Ibex.labelPlural>
-  <Ibex.lifeStages.0.label>stenbockskilling</Ibex.lifeStages.0.label>
-  <Ibex.lifeStages.0.labelPlural>stenbockskillingar</Ibex.lifeStages.0.labelPlural>
-  <Ibex.lifeStages.0.labelMale>stenbockskilling</Ibex.lifeStages.0.labelMale>
-  <Ibex.lifeStages.0.labelMalePlural>stenbockskillingar</Ibex.lifeStages.0.labelMalePlural>
-  <Ibex.lifeStages.0.labelFemale>stenbockskilling</Ibex.lifeStages.0.labelFemale>
-  <Ibex.lifeStages.0.labelFemalePlural>stenbockskillingar</Ibex.lifeStages.0.labelFemalePlural>
-  <Ibex.lifeStages.1.label>stenbock</Ibex.lifeStages.1.label>
-  <Ibex.lifeStages.1.labelPlural>stenbockar</Ibex.lifeStages.1.labelPlural>
-  <Ibex.lifeStages.1.labelMale>stenbock</Ibex.lifeStages.1.labelMale>
-  <Ibex.lifeStages.1.labelMalePlural>stenbockar</Ibex.lifeStages.1.labelMalePlural>
-  <Ibex.lifeStages.1.labelFemale>stenbock</Ibex.lifeStages.1.labelFemale>
-  <Ibex.lifeStages.1.labelFemalePlural>stenbockar</Ibex.lifeStages.1.labelFemalePlural>
-  <Ibex.lifeStages.2.label>stenbock</Ibex.lifeStages.2.label>
-  <Ibex.lifeStages.2.labelPlural>stenbockar</Ibex.lifeStages.2.labelPlural>
-  <Ibex.lifeStages.2.labelMale>stenbock</Ibex.lifeStages.2.labelMale>
-  <Ibex.lifeStages.2.labelMalePlural>stenbockar</Ibex.lifeStages.2.labelMalePlural>
-  <Ibex.lifeStages.2.labelFemale>stenbock</Ibex.lifeStages.2.labelFemale>
-  <Ibex.lifeStages.2.labelFemalePlural>stenbockar</Ibex.lifeStages.2.labelFemalePlural>
-  <!-- EN: ibex ram -->
-  <Ibex.labelMale>stenbock</Ibex.labelMale>
-  <Ibex.labelMalePlural>stenbockar</Ibex.labelMalePlural>
   <!-- EN: ibex doe -->
   <Ibex.labelFemale>stenbock</Ibex.labelFemale>
   <Ibex.labelFemalePlural>stenbockar</Ibex.labelFemalePlural>
-
+  <!-- EN: ibex ram -->
+  <Ibex.labelMale>stenbock</Ibex.labelMale>
+  <Ibex.labelMalePlural>stenbockar</Ibex.labelMalePlural>
+  <!-- EN: ibex -->
+  <Ibex.labelPlural>stenbockar</Ibex.labelPlural>
+  <Ibex.lifeStages.0.label>stenbockskilling</Ibex.lifeStages.0.label>
+  <Ibex.lifeStages.0.labelFemale>stenbockskilling</Ibex.lifeStages.0.labelFemale>
+  <Ibex.lifeStages.0.labelFemalePlural>stenbockskillingar</Ibex.lifeStages.0.labelFemalePlural>
+  <Ibex.lifeStages.0.labelMale>stenbockskilling</Ibex.lifeStages.0.labelMale>
+  <Ibex.lifeStages.0.labelMalePlural>stenbockskillingar</Ibex.lifeStages.0.labelMalePlural>
+  <Ibex.lifeStages.0.labelPlural>stenbockskillingar</Ibex.lifeStages.0.labelPlural>
+  <Ibex.lifeStages.1.label>stenbock</Ibex.lifeStages.1.label>
+  <Ibex.lifeStages.1.labelFemale>stenbock</Ibex.lifeStages.1.labelFemale>
+  <Ibex.lifeStages.1.labelFemalePlural>stenbockar</Ibex.lifeStages.1.labelFemalePlural>
+  <Ibex.lifeStages.1.labelMale>stenbock</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.1.labelMalePlural>stenbockar</Ibex.lifeStages.1.labelMalePlural>
+  <Ibex.lifeStages.1.labelPlural>stenbockar</Ibex.lifeStages.1.labelPlural>
+  <Ibex.lifeStages.2.label>stenbock</Ibex.lifeStages.2.label>
+  <Ibex.lifeStages.2.labelFemale>stenbock</Ibex.lifeStages.2.labelFemale>
+  <Ibex.lifeStages.2.labelFemalePlural>stenbockar</Ibex.lifeStages.2.labelFemalePlural>
+  <Ibex.lifeStages.2.labelMale>stenbock</Ibex.lifeStages.2.labelMale>
+  <Ibex.lifeStages.2.labelMalePlural>stenbockar</Ibex.lifeStages.2.labelMalePlural>
+  <Ibex.lifeStages.2.labelPlural>stenbockar</Ibex.lifeStages.2.labelPlural>
+  
   <!-- EN: tortoise -->
   <Tortoise.label>sköldpadda</Tortoise.label>
-  <Tortoise.labelPlural>sköldpaddor</Tortoise.labelPlural>
-  <Tortoise.lifeStages.0.label>sköldpaddsunge</Tortoise.lifeStages.0.label>
-  <Tortoise.lifeStages.0.labelPlural>sköldpaddsungar</Tortoise.lifeStages.0.labelPlural>
-  <Tortoise.lifeStages.0.labelMale>sköldpaddsunge</Tortoise.lifeStages.0.labelMale>
-  <Tortoise.lifeStages.0.labelMalePlural>sköldpaddsungar</Tortoise.lifeStages.0.labelMalePlural>
-  <Tortoise.lifeStages.0.labelFemale>sköldpaddsunge</Tortoise.lifeStages.0.labelFemale>
-  <Tortoise.lifeStages.0.labelFemalePlural>sköldpaddsungar</Tortoise.lifeStages.0.labelFemalePlural>
-  <Tortoise.lifeStages.1.label>sköldpadda</Tortoise.lifeStages.1.label>
-  <Tortoise.lifeStages.1.labelPlural>sköldpaddor</Tortoise.lifeStages.1.labelPlural>
-  <Tortoise.lifeStages.1.labelMale>sköldpadda</Tortoise.lifeStages.1.labelMale>
-  <Tortoise.lifeStages.1.labelMalePlural>sköldpaddor</Tortoise.lifeStages.1.labelMalePlural>
-  <Tortoise.lifeStages.1.labelFemale>sköldpadda</Tortoise.lifeStages.1.labelFemale>
-  <Tortoise.lifeStages.1.labelFemalePlural>sköldpaddor</Tortoise.lifeStages.1.labelFemalePlural>
-  <Tortoise.lifeStages.2.label>sköldpadda</Tortoise.lifeStages.2.label>
-  <Tortoise.lifeStages.2.labelPlural>sköldpaddor</Tortoise.lifeStages.2.labelPlural>
-  <Tortoise.lifeStages.2.labelMale>sköldpadda</Tortoise.lifeStages.2.labelMale>
-  <Tortoise.lifeStages.2.labelMalePlural>sköldpaddor</Tortoise.lifeStages.2.labelMalePlural>
-  <Tortoise.lifeStages.2.labelFemale>sköldpadda</Tortoise.lifeStages.2.labelFemale>
-  <Tortoise.lifeStages.2.labelFemalePlural>sköldpaddor</Tortoise.lifeStages.2.labelFemalePlural>
-  <Tortoise.labelMale>sköldpadda</Tortoise.labelMale>
-  <Tortoise.labelMalePlural>sköldpaddor</Tortoise.labelMalePlural>
   <Tortoise.labelFemale>sköldpadda</Tortoise.labelFemale>
   <Tortoise.labelFemalePlural>sköldpaddor</Tortoise.labelFemalePlural>
-
+  <Tortoise.labelMale>sköldpadda</Tortoise.labelMale>
+  <Tortoise.labelMalePlural>sköldpaddor</Tortoise.labelMalePlural>
+  <Tortoise.labelPlural>sköldpaddor</Tortoise.labelPlural>
+  <Tortoise.lifeStages.0.label>sköldpaddsunge</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.0.labelFemale>sköldpaddsunge</Tortoise.lifeStages.0.labelFemale>
+  <Tortoise.lifeStages.0.labelFemalePlural>sköldpaddsungar</Tortoise.lifeStages.0.labelFemalePlural>
+  <Tortoise.lifeStages.0.labelMale>sköldpaddsunge</Tortoise.lifeStages.0.labelMale>
+  <Tortoise.lifeStages.0.labelMalePlural>sköldpaddsungar</Tortoise.lifeStages.0.labelMalePlural>
+  <Tortoise.lifeStages.0.labelPlural>sköldpaddsungar</Tortoise.lifeStages.0.labelPlural>
+  <Tortoise.lifeStages.1.label>sköldpadda</Tortoise.lifeStages.1.label>
+  <Tortoise.lifeStages.1.labelFemale>sköldpadda</Tortoise.lifeStages.1.labelFemale>
+  <Tortoise.lifeStages.1.labelFemalePlural>sköldpaddor</Tortoise.lifeStages.1.labelFemalePlural>
+  <Tortoise.lifeStages.1.labelMale>sköldpadda</Tortoise.lifeStages.1.labelMale>
+  <Tortoise.lifeStages.1.labelMalePlural>sköldpaddor</Tortoise.lifeStages.1.labelMalePlural>
+  <Tortoise.lifeStages.1.labelPlural>sköldpaddor</Tortoise.lifeStages.1.labelPlural>
+  <Tortoise.lifeStages.2.label>sköldpadda</Tortoise.lifeStages.2.label>
+  <Tortoise.lifeStages.2.labelFemale>sköldpadda</Tortoise.lifeStages.2.labelFemale>
+  <Tortoise.lifeStages.2.labelFemalePlural>sköldpaddor</Tortoise.lifeStages.2.labelFemalePlural>
+  <Tortoise.lifeStages.2.labelMale>sköldpadda</Tortoise.lifeStages.2.labelMale>
+  <Tortoise.lifeStages.2.labelMalePlural>sköldpaddor</Tortoise.lifeStages.2.labelMalePlural>
+  <Tortoise.lifeStages.2.labelPlural>sköldpaddor</Tortoise.lifeStages.2.labelPlural>
   
   <!-- EN: wild boar -->
   <WildBoar.label>vildsvin</WildBoar.label>
+  <WildBoar.labelFemale>vildsvin</WildBoar.labelFemale>
+  <WildBoar.labelFemalePlural>vildsvin</WildBoar.labelFemalePlural>
+  <WildBoar.labelMale>vildsvin</WildBoar.labelMale>
+  <WildBoar.labelMalePlural>vildsvin</WildBoar.labelMalePlural>
   <WildBoar.labelPlural>vildsvin</WildBoar.labelPlural>
   <WildBoar.lifeStages.0.label>vildsvinskulting</WildBoar.lifeStages.0.label>
-  <WildBoar.lifeStages.0.labelPlural>vildsvinskultingar</WildBoar.lifeStages.0.labelPlural>
-  <WildBoar.lifeStages.0.labelMale>vildsvinskulting</WildBoar.lifeStages.0.labelMale>
-  <WildBoar.lifeStages.0.labelMalePlural>vildsvinskultingar</WildBoar.lifeStages.0.labelMalePlural>
   <WildBoar.lifeStages.0.labelFemale>vildsvinskulting</WildBoar.lifeStages.0.labelFemale>
   <WildBoar.lifeStages.0.labelFemalePlural>vildsvinskultingar</WildBoar.lifeStages.0.labelFemalePlural>
+  <WildBoar.lifeStages.0.labelMale>vildsvinskulting</WildBoar.lifeStages.0.labelMale>
+  <WildBoar.lifeStages.0.labelMalePlural>vildsvinskultingar</WildBoar.lifeStages.0.labelMalePlural>
+  <WildBoar.lifeStages.0.labelPlural>vildsvinskultingar</WildBoar.lifeStages.0.labelPlural>
   <WildBoar.lifeStages.1.label>vildsvin</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.1.labelFemale>vildsvin</WildBoar.lifeStages.1.labelFemale>
+  <WildBoar.lifeStages.1.labelFemalePlural>vildsvin</WildBoar.lifeStages.1.labelFemalePlural>
+  <WildBoar.lifeStages.1.labelMale>vildsvin</WildBoar.lifeStages.1.labelMale>
+  <WildBoar.lifeStages.1.labelMalePlural>vildsvin</WildBoar.lifeStages.1.labelMalePlural>
   <WildBoar.lifeStages.1.labelPlural>vildsvin</WildBoar.lifeStages.1.labelPlural>
-  <WildBoar.lifeStages.1.labelMale>vildsvinsgalt</WildBoar.lifeStages.1.labelMale>
-  <WildBoar.lifeStages.1.labelMalePlural>vildsvinsgaltar</WildBoar.lifeStages.1.labelMalePlural>
-  <WildBoar.lifeStages.1.labelFemale>vildsvinssugga</WildBoar.lifeStages.1.labelFemale>
-  <WildBoar.lifeStages.1.labelFemalePlural>vildsvinssuggor</WildBoar.lifeStages.1.labelFemalePlural>
   <WildBoar.lifeStages.2.label>vildsvin</WildBoar.lifeStages.2.label>
+  <WildBoar.lifeStages.2.labelFemale>vildsvin</WildBoar.lifeStages.2.labelFemale>
+  <WildBoar.lifeStages.2.labelFemalePlural>vildsvin</WildBoar.lifeStages.2.labelFemalePlural>
+  <WildBoar.lifeStages.2.labelMale>vildsvin</WildBoar.lifeStages.2.labelMale>
+  <WildBoar.lifeStages.2.labelMalePlural>vildsvin</WildBoar.lifeStages.2.labelMalePlural>
   <WildBoar.lifeStages.2.labelPlural>vildsvin</WildBoar.lifeStages.2.labelPlural>
-  <WildBoar.lifeStages.2.labelMale>vildsvinsgalt</WildBoar.lifeStages.2.labelMale>
-  <WildBoar.lifeStages.2.labelMalePlural>vildsvinsgaltar</WildBoar.lifeStages.2.labelMalePlural>
-  <WildBoar.lifeStages.2.labelFemale>vildsvinssugga</WildBoar.lifeStages.2.labelFemale>
-  <WildBoar.lifeStages.2.labelFemalePlural>vildsvinssuggor</WildBoar.lifeStages.2.labelFemalePlural>
-  <WildBoar.labelMale>vildsvinsgalt</WildBoar.labelMale>
-  <WildBoar.labelMalePlural>vildsvinsgaltar</WildBoar.labelMalePlural>
-  <WildBoar.labelFemale>vildsvinssugga</WildBoar.labelFemale>
-  <WildBoar.labelFemalePlural>vildsvinssuggor</WildBoar.labelFemalePlural>
-
   
 </LanguageData>

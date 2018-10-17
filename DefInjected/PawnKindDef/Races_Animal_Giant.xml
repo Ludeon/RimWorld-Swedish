@@ -1,114 +1,112 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: elephant -->
   <Elephant.label>elefant</Elephant.label>
+  <Elephant.labelFemale>elefant</Elephant.labelFemale>
+  <Elephant.labelFemalePlural>elefanter</Elephant.labelFemalePlural>
+  <Elephant.labelMale>elefant</Elephant.labelMale>
+  <Elephant.labelMalePlural>elefanter</Elephant.labelMalePlural>
   <Elephant.labelPlural>elefanter</Elephant.labelPlural>
   <!-- EN: elephant calf -->
   <Elephant.lifeStages.elephant_calf.label>elefantunge</Elephant.lifeStages.elephant_calf.label>
-  <Elephant.lifeStages.elephant_calf.labelPlural>elefantungar</Elephant.lifeStages.elephant_calf.labelPlural>
-  <Elephant.lifeStages.elephant_calf.labelMale>elefantunge</Elephant.lifeStages.elephant_calf.labelMale>
-  <Elephant.lifeStages.elephant_calf.labelMalePlural>elefantungar</Elephant.lifeStages.elephant_calf.labelMalePlural>
   <Elephant.lifeStages.elephant_calf.labelFemale>elefantunge</Elephant.lifeStages.elephant_calf.labelFemale>
   <Elephant.lifeStages.elephant_calf.labelFemalePlural>elefantungar</Elephant.lifeStages.elephant_calf.labelFemalePlural>
+  <Elephant.lifeStages.elephant_calf.labelMale>elefantunge</Elephant.lifeStages.elephant_calf.labelMale>
+  <Elephant.lifeStages.elephant_calf.labelMalePlural>elefantungar</Elephant.lifeStages.elephant_calf.labelMalePlural>
+  <Elephant.lifeStages.elephant_calf.labelPlural>elefantungar</Elephant.lifeStages.elephant_calf.labelPlural>
   <Elephant.lifeStages.1.label>elefantunge</Elephant.lifeStages.1.label>
-  <Elephant.lifeStages.1.labelPlural>elefanterungar</Elephant.lifeStages.1.labelPlural>
-  <Elephant.lifeStages.1.labelMale>elefantunge</Elephant.lifeStages.1.labelMale>
-  <Elephant.lifeStages.1.labelMalePlural>elefantungar</Elephant.lifeStages.1.labelMalePlural>
   <Elephant.lifeStages.1.labelFemale>elefantunge</Elephant.lifeStages.1.labelFemale>
   <Elephant.lifeStages.1.labelFemalePlural>elefantungar</Elephant.lifeStages.1.labelFemalePlural>
+  <Elephant.lifeStages.1.labelMale>elefantunge</Elephant.lifeStages.1.labelMale>
+  <Elephant.lifeStages.1.labelMalePlural>elefantungar</Elephant.lifeStages.1.labelMalePlural>
+  <Elephant.lifeStages.1.labelPlural>elefanterungar</Elephant.lifeStages.1.labelPlural>
   <Elephant.lifeStages.2.label>elefant</Elephant.lifeStages.2.label>
+  <Elephant.lifeStages.2.labelFemale>elefant</Elephant.lifeStages.2.labelFemale>
+  <Elephant.lifeStages.2.labelFemalePlural>elefanter</Elephant.lifeStages.2.labelFemalePlural>
+  <Elephant.lifeStages.2.labelMale>elefant</Elephant.lifeStages.2.labelMale>
+  <Elephant.lifeStages.2.labelMalePlural>elefanter</Elephant.lifeStages.2.labelMalePlural>
   <Elephant.lifeStages.2.labelPlural>elefanter</Elephant.lifeStages.2.labelPlural>
-  <Elephant.lifeStages.2.labelMale>elefanthane</Elephant.lifeStages.2.labelMale>
-  <Elephant.lifeStages.2.labelMalePlural>elefanthanar</Elephant.lifeStages.2.labelMalePlural>
-  <Elephant.lifeStages.2.labelFemale>elefanthona</Elephant.lifeStages.2.labelFemale>
-  <Elephant.lifeStages.2.labelFemalePlural>elefanthonor</Elephant.lifeStages.2.labelFemalePlural>
-  <Elephant.labelMale>elefanthane</Elephant.labelMale>
-  <Elephant.labelMalePlural>elefanthanar</Elephant.labelMalePlural>
-  <Elephant.labelFemale>elefanthona</Elephant.labelFemale>
-  <Elephant.labelFemalePlural>elefanthonor</Elephant.labelFemalePlural>
-
+  
   <!-- EN: megasloth -->
   <Megasloth.label>jättesengångare</Megasloth.label>
+  <Megasloth.labelFemale>jättesengångare</Megasloth.labelFemale>
+  <Megasloth.labelFemalePlural>jättesengångare</Megasloth.labelFemalePlural>
+  <Megasloth.labelMale>jättesengångare</Megasloth.labelMale>
+  <Megasloth.labelMalePlural>jättesengångare</Megasloth.labelMalePlural>
   <Megasloth.labelPlural>jättesengångare</Megasloth.labelPlural>
   <Megasloth.lifeStages.0.label>jättesengångarunge</Megasloth.lifeStages.0.label>
-  <Megasloth.lifeStages.0.labelPlural>jättesengångarungar</Megasloth.lifeStages.0.labelPlural>
-  <Megasloth.lifeStages.0.labelMale>jättesengångarunge</Megasloth.lifeStages.0.labelMale>
-  <Megasloth.lifeStages.0.labelMalePlural>jättesengångarungar</Megasloth.lifeStages.0.labelMalePlural>
   <Megasloth.lifeStages.0.labelFemale>jättesengångarunge</Megasloth.lifeStages.0.labelFemale>
   <Megasloth.lifeStages.0.labelFemalePlural>jättesengångarungar</Megasloth.lifeStages.0.labelFemalePlural>
+  <Megasloth.lifeStages.0.labelMale>jättesengångarunge</Megasloth.lifeStages.0.labelMale>
+  <Megasloth.lifeStages.0.labelMalePlural>jättesengångarungar</Megasloth.lifeStages.0.labelMalePlural>
+  <Megasloth.lifeStages.0.labelPlural>jättesengångarungar</Megasloth.lifeStages.0.labelPlural>
   <Megasloth.lifeStages.1.label>jättesengångare</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.1.labelFemale>jättesengångare</Megasloth.lifeStages.1.labelFemale>
+  <Megasloth.lifeStages.1.labelFemalePlural>jättesengångare</Megasloth.lifeStages.1.labelFemalePlural>
+  <Megasloth.lifeStages.1.labelMale>jättesengångare</Megasloth.lifeStages.1.labelMale>
+  <Megasloth.lifeStages.1.labelMalePlural>jättesengångare</Megasloth.lifeStages.1.labelMalePlural>
   <Megasloth.lifeStages.1.labelPlural>jättesengångare</Megasloth.lifeStages.1.labelPlural>
-  <Megasloth.lifeStages.1.labelMale>jättesengångarhane</Megasloth.lifeStages.1.labelMale>
-  <Megasloth.lifeStages.1.labelMalePlural>jättesengångarhanar</Megasloth.lifeStages.1.labelMalePlural>
-  <Megasloth.lifeStages.1.labelFemale>jättesengångarhona</Megasloth.lifeStages.1.labelFemale>
-  <Megasloth.lifeStages.1.labelFemalePlural>jättesengångarhonor</Megasloth.lifeStages.1.labelFemalePlural>
   <Megasloth.lifeStages.2.label>jättesengångare</Megasloth.lifeStages.2.label>
+  <Megasloth.lifeStages.2.labelFemale>jättesengångare</Megasloth.lifeStages.2.labelFemale>
+  <Megasloth.lifeStages.2.labelFemalePlural>jättesengångare</Megasloth.lifeStages.2.labelFemalePlural>
+  <Megasloth.lifeStages.2.labelMale>jättesengångare</Megasloth.lifeStages.2.labelMale>
+  <Megasloth.lifeStages.2.labelMalePlural>jättesengångare</Megasloth.lifeStages.2.labelMalePlural>
   <Megasloth.lifeStages.2.labelPlural>jättesengångare</Megasloth.lifeStages.2.labelPlural>
-  <Megasloth.lifeStages.2.labelMale>jättesengångarhane</Megasloth.lifeStages.2.labelMale>
-  <Megasloth.lifeStages.2.labelMalePlural>jättesengångarhanar</Megasloth.lifeStages.2.labelMalePlural>
-  <Megasloth.lifeStages.2.labelFemale>jättesengångarhona</Megasloth.lifeStages.2.labelFemale>
-  <Megasloth.lifeStages.2.labelFemalePlural>jättesengångarhonor</Megasloth.lifeStages.2.labelFemalePlural>
-  <Megasloth.labelMale>jättesengångarhane</Megasloth.labelMale>
-  <Megasloth.labelMalePlural>jättesengångarhanar</Megasloth.labelMalePlural>
-  <Megasloth.labelFemale>jättesengångarhona</Megasloth.labelFemale>
-  <Megasloth.labelFemalePlural>jättesengångarhonor</Megasloth.labelFemalePlural>
-
+  
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>noshörning</Rhinoceros.label>
-  <Rhinoceros.labelPlural>noshörningar</Rhinoceros.labelPlural>
+  <Rhinoceros.labelFemale>noshörning</Rhinoceros.labelFemale>
+  <Rhinoceros.labelFemalePlural>noshörningar</Rhinoceros.labelFemalePlural>
+  <Rhinoceros.labelMale>noshörning</Rhinoceros.labelMale>
+  <Rhinoceros.labelMalePlural>noshörningar</Rhinoceros.labelMalePlural>
   <!-- EN: rhinoceroses -->
+  <Rhinoceros.labelPlural>noshörningar</Rhinoceros.labelPlural>
   <Rhinoceros.lifeStages.0.label>noshörning</Rhinoceros.lifeStages.0.label>
-  <Rhinoceros.lifeStages.0.labelPlural>noshörningar</Rhinoceros.lifeStages.0.labelPlural>
-  <Rhinoceros.lifeStages.0.labelMale>noshörningsunge</Rhinoceros.lifeStages.0.labelMale>
-  <Rhinoceros.lifeStages.0.labelMalePlural>noshörningsungar</Rhinoceros.lifeStages.0.labelMalePlural>
   <Rhinoceros.lifeStages.0.labelFemale>noshörningsunge</Rhinoceros.lifeStages.0.labelFemale>
   <Rhinoceros.lifeStages.0.labelFemalePlural>noshörningsungar</Rhinoceros.lifeStages.0.labelFemalePlural>
+  <Rhinoceros.lifeStages.0.labelMale>noshörningsunge</Rhinoceros.lifeStages.0.labelMale>
+  <Rhinoceros.lifeStages.0.labelMalePlural>noshörningsungar</Rhinoceros.lifeStages.0.labelMalePlural>
+  <Rhinoceros.lifeStages.0.labelPlural>noshörningar</Rhinoceros.lifeStages.0.labelPlural>
   <Rhinoceros.lifeStages.1.label>noshörning</Rhinoceros.lifeStages.1.label>
-  <Rhinoceros.lifeStages.1.labelPlural>noshörningar</Rhinoceros.lifeStages.1.labelPlural>
-  <Rhinoceros.lifeStages.1.labelMale>noshörningsunge</Rhinoceros.lifeStages.1.labelMale>
-  <Rhinoceros.lifeStages.1.labelMalePlural>noshörningsungar</Rhinoceros.lifeStages.1.labelMalePlural>
   <Rhinoceros.lifeStages.1.labelFemale>noshörningsunge</Rhinoceros.lifeStages.1.labelFemale>
   <Rhinoceros.lifeStages.1.labelFemalePlural>noshörningsungar</Rhinoceros.lifeStages.1.labelFemalePlural>
+  <Rhinoceros.lifeStages.1.labelMale>noshörningsunge</Rhinoceros.lifeStages.1.labelMale>
+  <Rhinoceros.lifeStages.1.labelMalePlural>noshörningsungar</Rhinoceros.lifeStages.1.labelMalePlural>
+  <Rhinoceros.lifeStages.1.labelPlural>noshörningar</Rhinoceros.lifeStages.1.labelPlural>
   <Rhinoceros.lifeStages.2.label>noshörning</Rhinoceros.lifeStages.2.label>
+  <Rhinoceros.lifeStages.2.labelFemale>noshörning</Rhinoceros.lifeStages.2.labelFemale>
+  <Rhinoceros.lifeStages.2.labelFemalePlural>noshörningar</Rhinoceros.lifeStages.2.labelFemalePlural>
+  <Rhinoceros.lifeStages.2.labelMale>noshörning</Rhinoceros.lifeStages.2.labelMale>
+  <Rhinoceros.lifeStages.2.labelMalePlural>noshörningar</Rhinoceros.lifeStages.2.labelMalePlural>
   <Rhinoceros.lifeStages.2.labelPlural>noshörningar</Rhinoceros.lifeStages.2.labelPlural>
-  <Rhinoceros.lifeStages.2.labelMale>noshörningshane</Rhinoceros.lifeStages.2.labelMale>
-  <Rhinoceros.lifeStages.2.labelMalePlural>noshörningshanar</Rhinoceros.lifeStages.2.labelMalePlural>
-  <Rhinoceros.lifeStages.2.labelFemale>noshörningshona</Rhinoceros.lifeStages.2.labelFemale>
-  <Rhinoceros.lifeStages.2.labelFemalePlural>noshörningshonor</Rhinoceros.lifeStages.2.labelFemalePlural>
-  <Rhinoceros.labelMale>noshörninghane</Rhinoceros.labelMale>
-  <Rhinoceros.labelMalePlural>noshörningshane</Rhinoceros.labelMalePlural>
-  <Rhinoceros.labelFemale>noshörningshona</Rhinoceros.labelFemale>
-  <Rhinoceros.labelFemalePlural>noshörningshonor</Rhinoceros.labelFemalePlural>
-
   
   <!-- EN: thrumbo -->
   <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.labelFemale>thrumbo</Thrumbo.labelFemale>
+  <Thrumbo.labelFemalePlural>thrumbos</Thrumbo.labelFemalePlural>
+  <Thrumbo.labelMale>thrumbo</Thrumbo.labelMale>
+  <Thrumbo.labelMalePlural>thrumbos</Thrumbo.labelMalePlural>
   <Thrumbo.labelPlural>thrumbos</Thrumbo.labelPlural>
   <!-- EN: thrumbo calf -->
   <Thrumbo.lifeStages.thrumbo_calf.label>thrumbokalv</Thrumbo.lifeStages.thrumbo_calf.label>
-  <!-- EN: thrumbo calves -->
-  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>thrumbokalvar</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMale>thrumbokalv</Thrumbo.lifeStages.thrumbo_calf.labelMale>
-  <Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>thrumbokalvar</Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>
   <Thrumbo.lifeStages.thrumbo_calf.labelFemale>thrumbokalv</Thrumbo.lifeStages.thrumbo_calf.labelFemale>
   <Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>thrumbokalvar</Thrumbo.lifeStages.thrumbo_calf.labelFemalePlural>
+  <Thrumbo.lifeStages.thrumbo_calf.labelMale>thrumbokalv</Thrumbo.lifeStages.thrumbo_calf.labelMale>
+  <Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>thrumbokalvar</Thrumbo.lifeStages.thrumbo_calf.labelMalePlural>
+  <!-- EN: thrumbo calves -->
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>thrumbokalvar</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
   <Thrumbo.lifeStages.1.label>thrumbounge</Thrumbo.lifeStages.1.label>
-  <Thrumbo.lifeStages.1.labelPlural>thrumboungar</Thrumbo.lifeStages.1.labelPlural>
-  <Thrumbo.lifeStages.1.labelMale>thrumbounge</Thrumbo.lifeStages.1.labelMale>
-  <Thrumbo.lifeStages.1.labelMalePlural>thrumboungar</Thrumbo.lifeStages.1.labelMalePlural>
   <Thrumbo.lifeStages.1.labelFemale>thrumbounge</Thrumbo.lifeStages.1.labelFemale>
   <Thrumbo.lifeStages.1.labelFemalePlural>thrumboungar</Thrumbo.lifeStages.1.labelFemalePlural>
+  <Thrumbo.lifeStages.1.labelMale>thrumbounge</Thrumbo.lifeStages.1.labelMale>
+  <Thrumbo.lifeStages.1.labelMalePlural>thrumboungar</Thrumbo.lifeStages.1.labelMalePlural>
+  <Thrumbo.lifeStages.1.labelPlural>thrumboungar</Thrumbo.lifeStages.1.labelPlural>
   <Thrumbo.lifeStages.2.label>thrumbo</Thrumbo.lifeStages.2.label>
-  <Thrumbo.lifeStages.2.labelPlural>thrumbos</Thrumbo.lifeStages.2.labelPlural>
-  <Thrumbo.lifeStages.2.labelMale>thrumbo</Thrumbo.lifeStages.2.labelMale>
-  <Thrumbo.lifeStages.2.labelMalePlural>thrumbos</Thrumbo.lifeStages.2.labelMalePlural>
   <Thrumbo.lifeStages.2.labelFemale>thrumbo</Thrumbo.lifeStages.2.labelFemale>
   <Thrumbo.lifeStages.2.labelFemalePlural>thrumbos</Thrumbo.lifeStages.2.labelFemalePlural>
-  <Thrumbo.labelMale>thrumbo</Thrumbo.labelMale>
-  <Thrumbo.labelMalePlural>thrumbos</Thrumbo.labelMalePlural>
-  <Thrumbo.labelFemale>thrumbo</Thrumbo.labelFemale>
-  <Thrumbo.labelFemalePlural>thrumbos</Thrumbo.labelFemalePlural>
+  <Thrumbo.lifeStages.2.labelMale>thrumbo</Thrumbo.lifeStages.2.labelMale>
+  <Thrumbo.lifeStages.2.labelMalePlural>thrumbos</Thrumbo.lifeStages.2.labelMalePlural>
+  <Thrumbo.lifeStages.2.labelPlural>thrumbos</Thrumbo.lifeStages.2.labelPlural>
   
-
 </LanguageData>

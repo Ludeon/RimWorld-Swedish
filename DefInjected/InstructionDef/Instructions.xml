@@ -1,147 +1,147 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
   <AcceptStartingPawns.text>Toppen!\n\nSlumpa mer om du vill men försök inte få den perfekta karaktären. Alla har fel och brister och det är det som gör handlingen mer intressant!\n\nDu kan också byta namn på karaktärerna genom att klicka på deras namn.\n\nKlicka på STARTA när du är klar.</AcceptStartingPawns.text>
   
-  <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
-  <AddBillSimpleMeal.text>Du behöver berätta för kolonisterna vad dom skall laga.\n\nMat beställningar läggs till spisen. När en beställning är tillagd kommer en kolonist göra arbetet automatiskt.\n\n1. Vänta på att spisen blir byggd.\n2. Klicka på spisen för att välja den.\n3. Öppna BESTÄLLNING fliken.\n4. Klicka på LÄGG TILL BESTÄLLNING.\n5. Välj LAGA ENKEL MÅLTID i kontextmenyn.\n6. Klicka på + knappen för att öka antalet beställningar till 10.\n\nKom ihåg att du kan öka hastigheten om du tycker det tar för lång tid ned bygget.\n\nDu kan också välja en kolonist och högerklicka på spisen för att prioritera byggnationen av den.</AddBillSimpleMeal.text>
-  <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
-  <AddBillSimpleMeal.rejectInputMessage>Lägg till en beställning att laga en enkel måltid vid spisen.</AddBillSimpleMeal.rejectInputMessage>
   <!-- EN: Select this -->
   <AddBillSimpleMeal.onMapInstruction>Välj den här</AddBillSimpleMeal.onMapInstruction>
+  <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
+  <AddBillSimpleMeal.rejectInputMessage>Lägg till en beställning att laga en enkel måltid vid spisen.</AddBillSimpleMeal.rejectInputMessage>
+  <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
+  <AddBillSimpleMeal.text>Du behöver berätta för kolonisterna vad de ska tilllaga.\n\nMatbeställningar läggs till på spisen. När en beställning är lagts kommer en kolonist utföra arbetet automatiskt.\n\n1. Vänta på att spisen blir byggd.\n2. Klicka på spisen för att välja den.\n3. Öppna fliken BESTÄLLNING.\n4. Klicka på LÄGG BESTÄLLNING.\n5. Välj LAGA ENKEL MÅLTID i kontextmenyn.\n6. Klicka på + knappen för att öka antalet beställningar till 10.\n\nKom ihåg att du kan öka tidshastigheten om du tycker det tar för lång tid med bygget.\n\nDu kan också välja en kolonist och högerklicka på spisen för att prioritera byggnationen av den.</AddBillSimpleMeal.text>
   
-  <!-- EN: So your pet will sleep inside with you, place an ANIMAL SLEEPING SPOT inside the room.\n\nSleeping spots aren't real buildings - they're just spots on the ground designated for a sleeping. -->
-  <BuildAnimalSleepingSpot.text>Dina djur kommer att sova inne jämte dig. Placera en SOVPLATS FÖR DJUR i rummet.\n\nSovplatser är inga riktiga byggnader - dom är bara en plats för att sova.</BuildAnimalSleepingSpot.text>
-  <!-- EN: Please place an animal sleeping spot inside the room. -->
-  <BuildAnimalSleepingSpot.rejectInputMessage>Bygg en sovplats för djur i rummet</BuildAnimalSleepingSpot.rejectInputMessage>
   <!-- EN: Build an animal sleeping spot\ninside the room -->
   <BuildAnimalSleepingSpot.onMapInstruction>Bygg en sovplats för djur\ni rummet</BuildAnimalSleepingSpot.onMapInstruction>
+  <!-- EN: Please place an animal sleeping spot inside the room. -->
+  <BuildAnimalSleepingSpot.rejectInputMessage>Var snäll och placera en sovplats för djur i rummet</BuildAnimalSleepingSpot.rejectInputMessage>
+  <!-- EN: So your pet will sleep inside with you, place an ANIMAL SLEEPING SPOT inside the room.\n\nSleeping spots aren't real buildings - they're just spots on the ground designated for a sleeping. -->
+  <BuildAnimalSleepingSpot.text>Så dina djur kommer att sova innomhus med dig, placera en SOVPLATS FÖR DJUR i rummet.\n\nSovplatser är inga riktiga byggnader - de är bara en platser på marken reserverade för att sova på.</BuildAnimalSleepingSpot.text>
   
-  <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
-  <BuildBeds.text>Dina kolonister kommer nu att bygga rummet!\n\nDom kommer behöva någonstans att sova. Placera tre SÄNGAR inuti rummet.\n\nDet går att hitta i MÖBLER kategorin.</BuildBeds.text>
-  <!-- EN: Please build wooden beds inside the room. -->
-  <BuildBeds.rejectInputMessage>Bygg tre träsängar i rummet.</BuildBeds.rejectInputMessage>
   <!-- EN: Build three beds inside the room -->
   <BuildBeds.onMapInstruction>Bygg tre sängar i rummet</BuildBeds.onMapInstruction>
+  <!-- EN: Please build wooden beds inside the room. -->
+  <BuildBeds.rejectInputMessage>Var snäll och bygg tre träsängar i rummet.</BuildBeds.rejectInputMessage>
+  <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
+  <BuildBeds.text>Dina kolonister kommer nu att bygga rummet!\n\nNu kommer de behöva någonstans att sova. Placera tre SÄNGAR inuti rummet.\n\nDe går att hitta i MÖBELkategorin.\n\nDu kan använda {Key:Designator_RotateLeft} och {Key:Designator_RotateRight} för att rotera byggnader.</BuildBeds.text>
   
+  <!-- EN: Build a fueled stove inside the room -->
+  <BuildFueledStove.onMapInstruction>Bygg en vedeldad spis i rummet.</BuildFueledStove.onMapInstruction>
+  <!-- EN: Please build the fueled stove inside the room you built earlier. -->
+  <BuildFueledStove.rejectInputMessage>Var snäll och bygg en vedeldad spis i rummet du byggde tidigare.</BuildFueledStove.rejectInputMessage>
   <!-- EN: Excellent!\n\nNow you'll need to make a stove to cook food.\n\nBuild a FUELED STOVE inside the room. -->
   <BuildFueledStove.text>Perfekt!\n\nNu behöver du tillverka en spis för att laga mat.\n\nBygg en ELDAD SPIS i rummet.</BuildFueledStove.text>
-  <!-- EN: Please build the fueled stove inside the room you built earlier. -->
-  <BuildFueledStove.rejectInputMessage>Bygg en eldad spis i rummet du byggde tidigare.</BuildFueledStove.rejectInputMessage>
-  <!-- EN: Build a fueled stove inside the room -->
-  <BuildFueledStove.onMapInstruction>Bygg en eldad spis i rummet.</BuildFueledStove.onMapInstruction>
   
-  <!-- EN: Your colonists need sources of recreation or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room. -->
-  <BuildHorseshoesPin.text>Dina kolonister behöver glädjekällor för att inte bli ledsna över tid.\n\nBygg en HÄSTSKOKASTNING, nära rummet.</BuildHorseshoesPin.text>
-  <!-- EN: Please place a horseshoes pin somewhere near the room. -->
-  <BuildHorseshoesPin.rejectInputMessage>Bygg en hästskokastning någonstans i närheten av rummet.</BuildHorseshoesPin.rejectInputMessage>
   <!-- EN: Build a horseshoes pin\noutside the room -->
-  <BuildHorseshoesPin.onMapInstruction>Bygg en hästskokastning utanför rummet.</BuildHorseshoesPin.onMapInstruction>
+  <BuildHorseshoesPin.onMapInstruction>Bygg en pinne för hästskor\n utanför rummet.</BuildHorseshoesPin.onMapInstruction>
+  <!-- EN: Please place a horseshoes pin somewhere near the room. -->
+  <BuildHorseshoesPin.rejectInputMessage>Var snäll och bygg en hästskokastning någonstans i närheten av rummet.</BuildHorseshoesPin.rejectInputMessage>
+  <!-- EN: Your colonists need sources of recreation or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room. -->
+  <BuildHorseshoesPin.text>Dina kolonister behöver fritidsaktiviteter för att inte bli ledsna över tid.\n\nBygg en pinne för hästskokastning, nära rummet.</BuildHorseshoesPin.text>
   
-  <!-- EN: Now just place a DOOR over any one of the room walls.\n\nDOOR is right beside WALL in the ARCHITECT menu. -->
-  <BuildRoomDoor.text>Nu kan du placera en DÖRR över en av rummets väggar.\n\nDÖRR är precis jämte VÄGG i ARKITEKT menyn.</BuildRoomDoor.text>
-  <!-- EN: Please build a wooden door over one of your room walls. -->
-  <BuildRoomDoor.rejectInputMessage>Bygg en trädörr över en av rummets väggar.</BuildRoomDoor.rejectInputMessage>
   <!-- EN: Build a door over one wall -->
   <BuildRoomDoor.onMapInstruction>Bygg en dörr över en vägg</BuildRoomDoor.onMapInstruction>
+  <!-- EN: Please build a wooden door over one of your room walls. -->
+  <BuildRoomDoor.rejectInputMessage>Var snäll och bygg en trädörr över en av rummets väggar.</BuildRoomDoor.rejectInputMessage>
+  <!-- EN: Now just place a DOOR over any one of the room walls.\n\nDOOR is right beside WALL in the ARCHITECT menu. -->
+  <BuildRoomDoor.text>Nu kan du placera en DÖRR över en av rummets väggar.\n\nDÖRRAR är precis jämte VÄGG i ARKITEKTmenyn.</BuildRoomDoor.text>
   
-  <!-- EN: Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map. -->
-  <BuildRoomWalls.text>Perfekt! Härnäst behöver vi bygga ett rum.\n\n1. Klicka på ARKITEKT.\n2. Klicka på STRUKTURER.\n3. Välj VÄGG.\n4. Välj TRÄ som material.\n5. Dra ut fyra väggar som markerat på kartan.</BuildRoomWalls.text>
-  <!-- EN: Please build wooden walls along the edges of the highlighted rectangle. -->
-  <BuildRoomWalls.rejectInputMessage>Bygg träväggar runt kanten av det markerade rektangulära området.</BuildRoomWalls.rejectInputMessage>
   <!-- EN: Build walls -->
   <BuildRoomWalls.onMapInstruction>Bygg väggar</BuildRoomWalls.onMapInstruction>
+  <!-- EN: Please build wooden walls along the edges of the highlighted rectangle. -->
+  <BuildRoomWalls.rejectInputMessage>Var snäll och bygg träväggar runt kanten av det markerade rektangulära området.</BuildRoomWalls.rejectInputMessage>
+  <!-- EN: Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map. -->
+  <BuildRoomWalls.text>Perfekt! Härnäst behöver vi bygga ett rum.\n\n1. Klicka på ARKITEKT.\n2. Klicka på STRUKTURER.\n3. Välj VÄGG.\n4. Välj TRÄ som material.\n5. Dra ut fyra väggar som markerat på kartan.</BuildRoomWalls.text>
   
-  <!-- EN: Great! You've now got a basic colony running! Eventually, enemies will raid your colony. It's time to prepare for that.\n\nSelect the SANDBAGS designator and drag the sandbags out at the designated area. -->
-  <BuildSandbags.text>Bra! Nu har du grunden till en koloni igång! Så småningom kommer fiender att anfalla din koloni. Det är dags att förbereda för detta.\n\nVälj SANDSÄCKAR valet och dra ut sandsäckar i det markerade området.</BuildSandbags.text>
-  <!-- EN: Please build sandbags in the highlighted area. -->
-  <BuildSandbags.rejectInputMessage>Bygg sandsäckar i det markerade området.</BuildSandbags.rejectInputMessage>
   <!-- EN: Build sandbags here -->
   <BuildSandbags.onMapInstruction>Bygg sandsäckar här</BuildSandbags.onMapInstruction>
+  <!-- EN: Please build sandbags in the highlighted area. -->
+  <BuildSandbags.rejectInputMessage>Var snäll och bygg sandsäckar i det markerade området.</BuildSandbags.rejectInputMessage>
+  <!-- EN: Great! You've now got a basic colony running! Eventually, enemies will raid your colony. It's time to prepare for that.\n\nSelect the SANDBAGS designator and drag the sandbags out at the designated area. -->
+  <BuildSandbags.text>Bra! Nu har du grunden till en koloni igång! Så småningom kommer fiender att anfalla din koloni. Det är dags att förbereda för detta.\n\nVälj SANDSÄCKAR och dra ut sandsäckar i det markerade området.</BuildSandbags.text>
   
-  <!-- EN: To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room. -->
-  <BuildSimpleResearchBench.text>För att avencera behöver du forska fram nya teknologier.\n\nBygg en ENKEL FORSKNINGSBÄNK av trä i rummet.</BuildSimpleResearchBench.text>
-  <!-- EN: Please place a wooden simple research bench inside the room you built earlier. -->
-  <BuildSimpleResearchBench.rejectInputMessage>Bygg en enkel forskningsbänk av trä i rummet du byggde tidigare.</BuildSimpleResearchBench.rejectInputMessage>
   <!-- EN: Build a wooden simple research bench\ninside the room -->
   <BuildSimpleResearchBench.onMapInstruction>Bygg en enkel forskningsbänk av trä\n i rummet</BuildSimpleResearchBench.onMapInstruction>
+  <!-- EN: Please place a wooden simple research bench inside the room you built earlier. -->
+  <BuildSimpleResearchBench.rejectInputMessage>Var snäll och bygg en enkel forskningsbänk av trä i rummet du byggde tidigare.</BuildSimpleResearchBench.rejectInputMessage>
+  <!-- EN: To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room. -->
+  <BuildSimpleResearchBench.text>För att avencera behöver du forska fram nya teknologier.\n\nBygg en ENKEL FORSKNINGSBÄNK av trä i rummet.</BuildSimpleResearchBench.text>
   
-  <!-- EN: You'll also want some light inside, or your colonists will get grumpy in the dark.\n\nBuild a TORCH LAMP inside the room. -->
-  <BuildTorchLamp.text>Du kommer även behöva lite ljus inomhus, annars kommer kolonisterna bli griniga i mörkret.\n\nBygg en FACKELLAMPA inuti rummet.</BuildTorchLamp.text>
-  <!-- EN: Please build a torch lamp inside the room. -->
-  <BuildTorchLamp.rejectInputMessage>Bygg en fackellampa inuti rummet.</BuildTorchLamp.rejectInputMessage>
   <!-- EN: Build a torch lamp inside the room -->
   <BuildTorchLamp.onMapInstruction>Bygg en fackellampa inuti rummet.</BuildTorchLamp.onMapInstruction>
+  <!-- EN: Please build a torch lamp inside the room. -->
+  <BuildTorchLamp.rejectInputMessage>Var snäll och bygg en fackellampa inuti rummet.</BuildTorchLamp.rejectInputMessage>
+  <!-- EN: You'll also want some light inside, or your colonists will get grumpy in the dark.\n\nBuild a TORCH LAMP inside the room. -->
+  <BuildTorchLamp.text>Du kommer även behöva lite ljus inomhus, annars kommer kolonisterna bli griniga i mörkret.\n\nBygg en FACKELLAMPA inuti rummet.</BuildTorchLamp.text>
   
-  <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is a key skill for success in RimWorld. So set the work settings carefully, and review them often! -->
-  <ChangeWorkSettings.text>Du kan bestämma vem som skall gör vilken typ av jobb genom att använda klickrutorna. Kolonisterna kommer att göra uppgifterna i ordning från vänster till höger.\n\nFörsök ändra dessa inställingar nu.\n\nVarning - Kolonisterna kommer alltid följa deras arbetsprioriteringar, även om det får dom att göra korkade saker! Att sätta upp ett välgenomtänkt arbetsschema är nyckeln till framgång i RimWold. Sätt arbetsinställingarna noga, och kontrollera dom ofta!</ChangeWorkSettings.text>
   <!-- EN: Please open the 'Work' tab and change some settings. -->
-  <ChangeWorkSettings.rejectInputMessage>Öppna arbets fliken och ändra några inställningar</ChangeWorkSettings.rejectInputMessage>
+  <ChangeWorkSettings.rejectInputMessage>Öppna fliken Arbete och ändra några inställningar</ChangeWorkSettings.rejectInputMessage>
+  <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often! -->
+  <ChangeWorkSettings.text>Du kan bestämma vem som skall gör vilken typ av arbete genom att använda klickrutorna. Kolonisterna kommer att göra uppgifterna i ordning från vänster till höger.\n\nFörsök ändra dessa inställingar nu.\n\nVarning - Kolonisterna kommer alltid följa deras arbetsprioriteringar, även om det får dem att göra korkade saker! Att sätta upp ett välgenomtänkt arbetsschema är nyckeln till framgång i RimWold. Sätt arbetsinställingarna noga, och kontrollera dem ofta!</ChangeWorkSettings.text>
   
-  <!-- EN: Here, you choose your landing site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a landing site with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text>Här väljer du din landningsplats.\n\nDet finns massa biomer men för nu kan vi starta men en gynnsam.\n\Klicka på en landningsplats i ett skogsområde med platt terräng och klicka sedan på VÄLJ PLATS.</ChooseLandingSite.text>
-  <!-- EN: Please choose a temperate forest landing site with flat terrain. -->
+  <!-- EN: Please choose a temperate forest site with flat terrain. -->
   <ChooseLandingSite.rejectInputMessage>Välj en plats med tempererad skog och platt terräng.</ChooseLandingSite.rejectInputMessage>
+  <!-- EN: Here, you choose your starting site.\n\nThere are lots of biomes, but for now, let's start with a friendly one.\n\nClick a location with temperate forest biome and flat terrain, and click NEXT.\n\nYou can use the TERRAIN tab to view information about the selected tile. -->
+  <ChooseLandingSite.text>Här väljer du din landningsplats.\n\nDet finns många olika biomer men just nu kan vi startamed en fridfull.\n\Klicka på en landningsplats i ett tempererat skogsområde med platt terräng och klicka sedan på Nästa.\n\nDu kan använda Terrängfliken för att få mer information om den valda platsen.</ChooseLandingSite.text>
   
-  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click CHOOSE STORYTELLER.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun. -->
-  <ChooseStoryteller.text>Detta är slutet på guiden!\n\nDet finns fortfarande massor att lära sig såsom fångar, jakt, handel, djurtämjning, och mycket mer. Men nu har du grundkunskaper.\n\nSlumpvisa incidenter var avaktiverade under guiden. För att börjar det riktiga spelet:\n\n1. Öppna MENY fliken nere till höger.\n2. Välj INSTÄLLNINGAR.\n3. Klicka på VÄLJ SPELLEDARE.\n4. Välj spelledare och svårighetsgrad du är nöjd med.\n\nLycka till och ha så kul.</ChooseStoryteller.text>
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
-  <ChooseStoryteller.rejectInputMessage>Välj en standard spelledare för att slutföra guiden.</ChooseStoryteller.rejectInputMessage>
+  <ChooseStoryteller.rejectInputMessage>Var god och välj en spelledare i Inställningsmenyn för att slutföra guiden.</ChooseStoryteller.rejectInputMessage>
+  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and difficulty level that appeals to you.\n\nGood luck, and have fun. -->
+  <ChooseStoryteller.text>Detta är slutet på guiden!\n\nDet finns fortfarande massor att lära sig såsom fångar, jakt, handel, djurtämjning och mycket mer. Men nu har du lite grundkunskaper.\n\nSlumpvisa incidenter var inaktiverade under guiden. För att börja det riktiga spelet:\n\n1. Öppna MENYfliken nere till höger.\n2. Välj INSTÄLLNINGAR.\n3. Klicka på VÄLJ SPELLEDARE.\n4. Välj spelledare och svårighetsgrad du är nöjd med.\n\nLycka till och ha så kul.</ChooseStoryteller.text>
   
-  <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
-  <ChopTrees.text>Du kommer vilja skörda trä. Välj några träd i närheten för avverkning.\n\nVälj AVVERKA TRÄD valet och markera 10 träd för avverkning.\n\n(Proffs tips: Du kan dra en fyrkant över träd för att välja flera av dom samtidigt.)</ChopTrees.text>
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
-  <ChopTrees.rejectInputMessage>Välj 'avverka träd' valet över några träd.</ChopTrees.rejectInputMessage>
+  <ChopTrees.rejectInputMessage>var snäll och dra valet 'avverka träd' över några träd.</ChopTrees.rejectInputMessage>
+  <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
+  <ChopTrees.text>Du kommer vilja hugga ned träd. Välj några träd i närheten för avverkning.\n\nVälj AVVERKA TRÄD valet och markera 10 träd för avverkning.\n\n(Proffs tips: Du kan dra en fyrkant över träd för att välja flera av dem samtidigt.)</ChopTrees.text>
   
   <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>Välkommer till RimWorld! Den här guiden kommer att lära dig hur du spelar det här spelet.\n\nDet första steget är att generera en värld att spela i.\n\nDn här sidan ställer in hur din värld skall bli genererad.\n\nStandardinställningarna är bra så klicka på GENERERA!</CreateWorldParams.text>
+  <CreateWorldParams.text>Välkommen till RimWorld! Den här guiden kommer att lära dig hur du spelar det här spelet.\n\nDet första steget är att generera en värld att spela i.\n\nDn här sidan ställer in hur din värld skall bli genererad.\n\nStandardinställningarna här är bra så klicka på GENERERA!</CreateWorldParams.text>
   
-  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
-  <DownRaider.text>Nu kommer jag skicka en angripare för att attackera din koloni!\n\n1. Pausa spelet genom att trycka på {Key:TogglePause}!\n2. Läs dom röda bokstäverna i nedre högra skärmen.\n3. KOMMENDERA dina kolonister genom att välja dem och tryck på KOMMENDERA kommandot.\n4. Högerklicka på den position innanför sansäckrutan, så nära att kolonister rör vid sansäcken.\n5. Avpausa.\n\nKolonisten måste röra sandsäcken för att kunna få några fördelar av den. När du väl är i skydd, vänta på att angriparen skall närma sig. Dina kolonister kommer automatiskt att skjuta.</DownRaider.text>
-  <!-- EN: Please focus on winning the fight! -->
-  <DownRaider.rejectInputMessage>Försök fokusera på att vinna striden!</DownRaider.rejectInputMessage>
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>Skicka kolonisterna hit\nrör sansäcken för att få skydd</DownRaider.onMapInstruction>
+  <!-- EN: Please focus on winning the fight! -->
+  <DownRaider.rejectInputMessage>Försök fokusera på att vinna striden!</DownRaider.rejectInputMessage>
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <DownRaider.text>Nu kommer jag skicka en angripare för att attackera din koloni!\n\n1. Pausa spelet genom att trycka på {Key:TogglePause}!\n2. Läs de röda bokstäverna i nedre högra skärmen.\n3. KOMMENDERA dina kolonister genom att välja dem och tryck på KOMMENDERA kommandot.\n4. Högerklicka på den position innanför sansäcksrutan, så nära att kolonister rör vid sansäcken.\n5. Fortsätt.\n\nKolonisten måste röra sandsäcken för att kunna få några fördelar av den. När du väl är i skydd, vänta på att angriparen närmr sig. Dina kolonister kommer att skjuta automatiskt.</DownRaider.text>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
   <EndStockpileDesignating.text>Högerklicka för att lämna lagerplatsens tillverkningsläge.</EndStockpileDesignating.text>
   
-  <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
-  <EquipWeapons.text>Se till att kolonisterna använder startvapnen. För att använda ett vapen:\n\n1. Klicka på en kolonist för att välja den.\n2. Högerklicka på det vapnet du vill använda.\n3. Klicka på 'använd vapen' i contextmenyn.\n\nGör detta för alla kolonister.</EquipWeapons.text>
-  <!-- EN: Please have your colonists equip weapons. -->
-  <EquipWeapons.rejectInputMessage>Se till att kolonisterna använder startvapnen.</EquipWeapons.rejectInputMessage>
   <!-- EN: Equip this -->
-  <EquipWeapons.onMapInstruction>Använd detta</EquipWeapons.onMapInstruction>
+  <EquipWeapons.onMapInstruction>Utrusta med</EquipWeapons.onMapInstruction>
+  <!-- EN: Please have your colonists equip weapons. -->
+  <EquipWeapons.rejectInputMessage>Se till att kolonisterna använder vapnen.</EquipWeapons.rejectInputMessage>
+  <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
+  <EquipWeapons.text>Se till att kolonisterna använder vapnen. För att använda ett vapen:\n\n1. Klicka på en kolonist för att välja den.\n2. Högerklicka på det vapen du vill använda.\n3. Klicka på 'använd vapen' i contextmenyn.\n\nGör detta för alla kolonister.</EquipWeapons.text>
   
-  <!-- EN: The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house. -->
-  <ExpandAreaBuildRoof.text>BYGG TAKOMRÅDE definierar var kolonisterna kommer att bygga tak.\n\nDet kommer automatiskt att fyllas ut när du innesluter ett nytt rum.\n\nVälj UTÖKA TAKOMRÅDE verktyget och dra ut ett veranda tak på framsidan av huset.</ExpandAreaBuildRoof.text>
   <!-- EN: Please expand the build roof area a bit, just for practice. -->
   <ExpandAreaBuildRoof.rejectInputMessage>Utöka tagbygget en bit, bara för att testa på det.</ExpandAreaBuildRoof.rejectInputMessage>
+  <!-- EN: The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house. -->
+  <ExpandAreaBuildRoof.text>BYGG TAKOMRÅDE definierar var kolonisterna kommer försöka att bygga tak.\n\nDet kommer automatiskt att fyllas ut när du innesluter ett nytt rum.\n\nVälj UTÖKA TAKOMRÅDE verktyget och dra ut ett veranda tak på framsidan av huset.</ExpandAreaBuildRoof.text>
   
-  <!-- EN: Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map. -->
-  <ExpandAreaHome.text>Nu behöver du lära dig hur du utökar HEMORÅDET.\n\nKolonisterna kommer endast att städa golvet och släcka bränder i hemområdet, men strunta i bränder och smuts utanför det.\n\nHemområdet kommer automatiskt att utökas när du bygger saker - men det kan även utökas manuellt.\n\nVälj UTÖKA HEMOMRÅDE verktyget och dra upp ett nytt område på kartan.</ExpandAreaHome.text>
   <!-- EN: Please expand the home area a bit, just for practice. -->
   <ExpandAreaHome.rejectInputMessage>Utöka hemorådet en bit, bara för att testa på det.</ExpandAreaHome.rejectInputMessage>
+  <!-- EN: Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map. -->
+  <ExpandAreaHome.text>Nu behöver du lära dig hur du utökar HEMORÅDET.\n\nKolonisterna kommer endast att städa golvet och släcka bränder i hemområdet men struntar i bränder och smuts utanför det.\n\nHemområdet kommer automatiskt att utökas när du bygger saker - men det kan även utökas manuellt.\n\nVälj UTÖKA HEMOMRÅDE verktyget och dra upp ett nytt område på kartan.</ExpandAreaHome.text>
   
-  <!-- EN: Let's just wait for all your constructions to be built.\n\nConsider using the WORK tab to assign more colonists to Construct.\n\nAlso, you can speed up time to shorten the wait.\n\nOnce everything's built, I'll send an attacker to test your defenses! -->
-  <FinishSandbags.text>Vänta nu på att alla dina konstruktioner skall bli färdigbyggda.\n\nÖverväg att använda ARBETE fliken att tilldela mer kolonister för bygge.\n\nDu kan även snabba upp tiden för att korta ner väntetiden.\n\nNär väl allting är färdigbyggt kommer jag skicka en angripare för att testa ditt försvar!</FinishSandbags.text>
   <!-- EN: Please wait for your colonists to finish building the sandbags. -->
   <FinishSandbags.rejectInputMessage>Vänta på att kolonisterna bygger färdigt sandsäckarna.</FinishSandbags.rejectInputMessage>
+  <!-- EN: Let's just wait for all your constructions to be built.\n\nConsider using the WORK tab to assign more colonists to Construct.\n\nAlso, you can speed up time to shorten the wait.\n\nOnce everything's built, I'll send an attacker to test your defenses! -->
+  <FinishSandbags.text>Vänta nu på att alla dina konstruktioner skall bli färdigbyggda.\n\nÖverväg att använda fliken ARBETE för att tilldela fler kolonister för byggnation.\n\nDu kan även snabba upp tiden för att korta ner väntetiden.\n\nNär allting är färdigbyggt kommer jag skicka en angripare för att testa ditt försvar!</FinishSandbags.text>
   
-  <!-- EN: The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops. -->
-  <MakeGrowingZone.text>Huset är påväg att byggas!\n\nDina kolonister kommer att behöva något att äta, så placera en VÄXTZON där kartan markerar.\n\nHär är var kolonisterna kommer att så grödor.</MakeGrowingZone.text>
-  <!-- EN: Please make a growing zone on the indicated area. -->
-  <MakeGrowingZone.rejectInputMessage>Tillverka en växtzon på det markerade området.</MakeGrowingZone.rejectInputMessage>
   <!-- EN: Place growing zone here\n(drag corner-to-corner) -->
-  <MakeGrowingZone.onMapInstruction>Placera växtzonen här\n(dra kant-till-kant)</MakeGrowingZone.onMapInstruction>
+  <MakeGrowingZone.onMapInstruction>Placera odlingsytan här\n(dra kant-till-kant)</MakeGrowingZone.onMapInstruction>
+  <!-- EN: Please make a growing zone on the indicated area. -->
+  <MakeGrowingZone.rejectInputMessage>Var snäll och gör en odlingsyta på det markerade området.</MakeGrowingZone.rejectInputMessage>
+  <!-- EN: The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops. -->
+  <MakeGrowingZone.text>Huset är påväg att byggas!\n\nDina kolonister kommer att behöva något att äta, så placera en ODLINGSYTA som visas kartan.\n\nDet är här som kolonisterna kommer att odla grödor.</MakeGrowingZone.text>
   
-  <!-- EN: Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map. -->
-  <MakeStockpile.text>Bra!\n\nNu behöver du skapa en lagerplats för dina kolonister där dom kan förvara föremål.\n\n1. Klicka på ARKITEKT fliken nere till vänster.\n2. Klicka på TILLDELA ZONER kategorin.\n3. Välj FÖRRÅD verktyget.\n4. Klicka och dra ut en ruta som är markerat på kartan.</MakeStockpile.text>
-  <!-- EN: Please make a stockpile on the indicated area. -->
-  <MakeStockpile.rejectInputMessage>Tillverka en lagerplats på det markerade området.</MakeStockpile.rejectInputMessage>
   <!-- EN: Place stockpile here\n(drag corner-to-corner) -->
   <MakeStockpile.onMapInstruction>Placera lagerplatsen här.\n(dra kant-till-kant)</MakeStockpile.onMapInstruction>
+  <!-- EN: Please make a stockpile on the indicated area. -->
+  <MakeStockpile.rejectInputMessage>Tillverka en lagerplats på det markerade området.</MakeStockpile.rejectInputMessage>
+  <!-- EN: Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map. -->
+  <MakeStockpile.text>Bra!\n\nNu behöver du skapa en lagerplats för dina kolonister där de kan förvara föremål.\n\n1. Klicka på ARKITEKTfliken nere till vänster.\n2. Klicka på TILLDELA ZONER kategorin.\n3. Välj FÖRRÅDsverktyget.\n4. Klicka och dra ut en ruta som markerats på kartan.</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
   <MapCameraDolly.text>Här är du på ytan!\n\nNu kan du försöka flytta på kameran.\n\nAnvänd  {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tangenter eller klicka och dra med mittersta musknappen.\n\nFörsök göra det nu!</MapCameraDolly.text>
@@ -149,61 +149,61 @@
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
   <MapCameraZoom.text>Bra!\n\nDu kan också zooma in och ut med mushjulet eller {Key:MapZoomIn} och {Key:MapZoomOut} tangenterna.\n\nFörsök göra det nu!</MapCameraZoom.text>
   
-  <!-- EN: Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining. -->
-  <MineSteel.text>Nu kommer dina kolonister laga lite mat! Gott!\n\nHärnäst skall du gräva efter mineraler. Jag har framkallat lite gruvbart stål i närheten av basen.\n\nVälj GRÄV valet och klicka den över stålet för att markera det för gruvdrift.</MineSteel.text>
-  <!-- EN: Please use the 'mine' designator on the compacted steel. -->
-  <MineSteel.rejectInputMessage>Välj gräv valet och markera det komprimerade stålet.</MineSteel.rejectInputMessage>
   <!-- EN: Designate all this\nfor mining -->
-  <MineSteel.onMapInstruction>Välj allt detta\nför gruvdrift</MineSteel.onMapInstruction>
+  <MineSteel.onMapInstruction>Välj allt detta\nför gruvarbete</MineSteel.onMapInstruction>
+  <!-- EN: Please use the 'mine' designator on the compacted steel. -->
+  <MineSteel.rejectInputMessage>Välj hugg och markera det kompakta stålet.</MineSteel.rejectInputMessage>
+  <!-- EN: Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining. -->
+  <MineSteel.text>Nu kommer dina kolonister laga lite mat! Gott!\n\nHärnäst skall du gräva efter mineraler. Jag har framkallat lite brytbart stål i närheten av basen.\n\nVälj HUGG och dra över stålet för att markera det för uthuggning.</MineSteel.text>
   
-  <!-- EN: Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab. -->
-  <OpenMainTabResearch.text>Perfekt! Nu behöver du välja vad du skall forska på.\n\nÖppna FORSKA fliken.</OpenMainTabResearch.text>
   <!-- EN: Please open the 'Research' tab. -->
-  <OpenMainTabResearch.rejectInputMessage>Öppna 'Forska' fliken</OpenMainTabResearch.rejectInputMessage>
+  <OpenMainTabResearch.rejectInputMessage>Öppna fliken 'Forskning'</OpenMainTabResearch.rejectInputMessage>
+  <!-- EN: Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab. -->
+  <OpenMainTabResearch.text>Perfekt! Nu behöver du välja vad du skall forska på.\n\nÖppna fliken FORSKNING.</OpenMainTabResearch.text>
   
-  <!-- EN: You can control which colonist does what kind of work.\n\nOpen the WORK tab at the bottom of the screen. -->
-  <OpenMainTabWork.text>Du kan välja vilken kolonist som gör vilket arbete.\n\nÖppna ARBETE fliken nederst i skärmen.</OpenMainTabWork.text>
   <!-- EN: Please open the 'Work' tab. -->
-  <OpenMainTabWork.rejectInputMessage>Öppna 'Arbete' fliken.</OpenMainTabWork.rejectInputMessage>
+  <OpenMainTabWork.rejectInputMessage>Öppna fliken 'Arbete'.</OpenMainTabWork.rejectInputMessage>
+  <!-- EN: You can control which colonist does what kind of work.\n\nOpen the WORK tab at the bottom of the screen. -->
+  <OpenMainTabWork.text>Du kan välja vilken kolonist som gör vilket arbete.\n\nÖppna fliken ARBETE nederst i skärmen.</OpenMainTabWork.text>
   
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
   <Pause.text>Du kan pausa tiden.\n\nDe här innebär att du inte behöver skynda dig. Du kan alltid pausa och fundera igenom dina ordrar.\n\nFörsök pausa med {Key:TogglePause} tangenten, eller genom att använda tidskontrollern nere i det högra hörnet.</Pause.text>
   
-  <!-- EN: If you don't like a character, you can regenerate it!\n\nTry randomizing a character with the RANDOMIZE button. -->
-  <RandomizeCharacter.text>Nu skall du generera karaktärerna!\n\nFör att slumpa en karaktär använd SLUMPA knappen.</RandomizeCharacter.text>
   <!-- EN: Please try randomizing a character first. -->
   <RandomizeCharacter.rejectInputMessage>Försök slumpa en karaktär först.</RandomizeCharacter.rejectInputMessage>
+  <!-- EN: If you don't like a character, you can regenerate them!\n\nTry randomizing a character with the RANDOMIZE button. -->
+  <RandomizeCharacter.text>Om du inte tycker om en karraktär kan du regenerera dem!\n\nPröva att slumpa en karaktär med knappen SLUMPA.</RandomizeCharacter.text>
   
-  <!-- EN: Now you can choose characters!\n\nClick in the left area to select from available characters. If you find a character you like, drag them into the top section with the SELECTED label. -->
-  <ReorderCharacters.text>TODO</ReorderCharacters.text>
   <!-- EN: Please try choosing a character first. -->
-  <ReorderCharacters.rejectInputMessage>TODO</ReorderCharacters.rejectInputMessage>
+  <ReorderCharacters.rejectInputMessage>Var snäll och välj en karraktär först.</ReorderCharacters.rejectInputMessage>
+  <!-- EN: Now you can choose characters!\n\nClick in the left area to select from available characters. If you find a character you like, drag them into the top section with the SELECTED label. -->
+  <ReorderCharacters.text>Nu kan du välja karraktärer\n\nKlicka i det vänstra området för att välja från tillgängliga karraktärer. Om du hittar en karraktär du tycker om, dre dem till sektionen som heter VALDA.</ReorderCharacters.text>
   
-  <!-- EN: Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct. -->
-  <SelectResearchProject.text>Nu behöver du väja vad du skall forska fram först.\n\nDu kanske behöver vänta på att forskningsbänken skall bli tillerkad först.\n\nOm det tar för lång tid kan du använda ARBETE fliken och tilldela mer kolonoister till Bygga.</SelectResearchProject.text>
   <!-- EN: Please choose a research project. -->
   <SelectResearchProject.rejectInputMessage>Välj forskningsprojekt.</SelectResearchProject.rejectInputMessage>
+  <!-- EN: Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct. -->
+  <SelectResearchProject.text>Nu behöver du bara väja vad du ska forska fram först.\n\nDu kanske behöver vänta på att forskningsbänken blir tillerkad, eller träd avverkade för ved först.\n\nOm det tar för lång tid, använd fliken ARBETE och tilldela fler kolonoister till Konstruktion.</SelectResearchProject.text>
   
-  <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the "Select plant" command at the bottom and change it to Rice. -->
-  <SetToGrowRice.text>Du kan välja vilka växter som dina kolonister skall så i växtzonen.\n\n1. Högerklicka för att lämna arkitektläget.\n2. Klicka på växtzonen för att välja den.\n3. Klicka på "välj växt" kommandot längst ned och ändra det till Ris.</SetToGrowRice.text>
-  <!-- EN: Please set your growing zone to grow rice. -->
-  <SetToGrowRice.rejectInputMessage>Välj att din växtzon skall odla ris.</SetToGrowRice.rejectInputMessage>
   <!-- EN: Set this growing zone to grow rice -->
-  <SetToGrowRice.onMapInstruction>Välj att din växtzon skall odla ris</SetToGrowRice.onMapInstruction>
+  <SetToGrowRice.onMapInstruction>Välj att denna odlingsyta ska odla ris</SetToGrowRice.onMapInstruction>
+  <!-- EN: Please set your growing zone to grow rice. -->
+  <SetToGrowRice.rejectInputMessage>Var snäll och sätt din odlingsyta till att odla ris.</SetToGrowRice.rejectInputMessage>
+  <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
+  <SetToGrowRice.text>Du kan välja vilka växter som dina kolonister skall så på odlingsytan.\n\n1. Högerklicka för att lämna arkitektläget.\n2. Klicka på odlingsytan för att välja den.\n3. Klicka på "välj växt" längst ned och ändra det till Ris.</SetToGrowRice.text>
   
   <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
   <TimeControls.text>Du kan även snabba upp tiden.\n\nFörsök kontrollera tidem med {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, och {Key:TimeSpeedSuperfast} tangenterna eller genom att använda tidskontrollern nere i det högra hörnet.</TimeControls.text>
   
-  <!-- EN: Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules. -->
-  <UndraftAll.text>Succe! Nu kan nu SLUTA KOMMENDERA alla kolonister genom att använda samma kommando som innan.\n\nDetta kommer låta dom återgå till sina ursprungliga sysslor.</UndraftAll.text>
   <!-- EN: Please un-draft your colonists. -->
-  <UndraftAll.rejectInputMessage>Sluta kommendera dina kolonister.</UndraftAll.rejectInputMessage>
+  <UndraftAll.rejectInputMessage>Var snäll och sluta ha dina kolonister kommenderade.</UndraftAll.rejectInputMessage>
+  <!-- EN: Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules. -->
+  <UndraftAll.text>Succe! Nu kan nu SLUTA KOMMENDERA alla kolonister genom att använda samma kommando som innan.\n\nDetta kommer låta dem återgå till sina ursprungliga scheman.</UndraftAll.text>
   
-  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must unforbid the items.\n\n1. Clicking your starting items to select them.\n2. Click the TOGGLE FORBIDDEN command to unforbid them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
-  <UnforbidStartingResources.text>Nu, för att tillåta kolonisterna att lägga föremål på lagerplatsen, måste du sluta förbjuda föremål.\n\n1. Klicka på dina startföremål för att välja dom.\n2. Klicka på VÄXLA FÖRBJUD kommandot för att sluta förbjuda dom.\n\n(Proffs tips: Dubbeklicka på ett föremål för att välja alla andra föremål av samma typ på skärmen.)</UnforbidStartingResources.text>
-  <!-- EN: Please unforbid your starting items. -->
-  <UnforbidStartingResources.rejectInputMessage>Sluta förbjuda dina startföremål.</UnforbidStartingResources.rejectInputMessage>
-  <!-- EN: Unforbid this -->
-  <UnforbidStartingResources.onMapInstruction>Sluta förbjuda detta</UnforbidStartingResources.onMapInstruction>
+  <!-- EN: Allow this -->
+  <UnforbidStartingResources.onMapInstruction>Tillåt detta</UnforbidStartingResources.onMapInstruction>
+  <!-- EN: Please allow your starting items. -->
+  <UnforbidStartingResources.rejectInputMessage>Var vänlig och tillåt dina startföremål.</UnforbidStartingResources.rejectInputMessage>
+  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
+  <UnforbidStartingResources.text>Nu, för att tillåta kolonisterna att lägga föremål på lagerplatsen måste du ta bort "förbjudet".\n\n1. Klicka på dina startföremål för att välja dem.\n2. Klicka på TILLÅT knappen för att tillåta dem.\n\n(Proffs tips: Dubbeklicka på ett föremål för att välja alla andra föremål av samma typ på skärmen.)</UnforbidStartingResources.text>
   
 </LanguageData>
