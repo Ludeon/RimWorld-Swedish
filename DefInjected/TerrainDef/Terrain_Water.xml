@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: marsh -->
+  <Marsh.label>sumpmark</Marsh.label>
   <!-- EN: water -->
   <Marsh.tools.water.label>vatten</Marsh.tools.water.label>
   <!-- EN: mud -->
   <Marsh.tools.mud.label>lera</Marsh.tools.mud.label>
-  <!-- EN: marsh -->
-  <Marsh.label>sumpmark</Marsh.label>
   
-  <!-- EN: water -->
-  <WaterDeep.tools.water.label>vatten</WaterDeep.tools.water.label>
   <!-- EN: deep water -->
   <WaterDeep.label>djupt vatten</WaterDeep.label>
-  
   <!-- EN: water -->
-  <WaterMovingChestDeep.tools.water.label>vatten</WaterMovingChestDeep.tools.water.label>
+  <WaterDeep.tools.water.label>vatten</WaterDeep.tools.water.label>
+  
   <!-- EN: chest-deep moving water -->
   <WaterMovingChestDeep.label>djupt rinnande vatten</WaterMovingChestDeep.label>
-  
   <!-- EN: water -->
-  <WaterMovingShallow.tools.water.label>vatten</WaterMovingShallow.tools.water.label>
+  <WaterMovingChestDeep.tools.water.label>vatten</WaterMovingChestDeep.tools.water.label>
+  
   <!-- EN: shallow moving water -->
   <WaterMovingShallow.label>grunt rinnande vatten</WaterMovingShallow.label>
-  
   <!-- EN: water -->
-  <WaterOceanDeep.tools.water.label>vatten</WaterOceanDeep.tools.water.label>
+  <WaterMovingShallow.tools.water.label>vatten</WaterMovingShallow.tools.water.label>
+  
   <!-- EN: deep ocean water -->
   <WaterOceanDeep.label>djupt havsvatten</WaterOceanDeep.label>
-  
   <!-- EN: water -->
-  <WaterOceanShallow.tools.water.label>vatten</WaterOceanShallow.tools.water.label>
+  <WaterOceanDeep.tools.water.label>vatten</WaterOceanDeep.tools.water.label>
+  
   <!-- EN: shallow ocean water -->
   <WaterOceanShallow.label>grunt havsvatten</WaterOceanShallow.label>
-  
   <!-- EN: water -->
-  <WaterShallow.tools.water.label>vatten</WaterShallow.tools.water.label>
+  <WaterOceanShallow.tools.water.label>vatten</WaterOceanShallow.tools.water.label>
+  
   <!-- EN: shallow water -->
   <WaterShallow.label>grunt vatten</WaterShallow.label>
+  <!-- EN: water -->
+  <WaterShallow.tools.water.label>vatten</WaterShallow.tools.water.label>
   
 </LanguageData>
