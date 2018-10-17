@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: create incident -->
-  <CreateIncident.label>skapa incidenter</CreateIncident.label>
+  <CreateIncident.label>skapa incident</CreateIncident.label>
   
   <!-- EN: disable incident -->
-  <DisableIncident.label>inaktivera incidenter</DisableIncident.label>
+  <DisableIncident.label>inaktivera incident</DisableIncident.label>
   
   <!-- EN: forced health condition -->
-  <ForcedHediff.label>tvinga hälsotillstånd</ForcedHediff.label>
+  <ForcedHediff.label>tvingat hälsotillstånd</ForcedHediff.label>
   
   <!-- EN: forced trait -->
-  <ForcedTrait.label>tvinga persondrag</ForcedTrait.label>
+  <ForcedTrait.label>påtvinga persondrag</ForcedTrait.label>
   
   <!-- EN: planetkiller weapon incoming -->
   <GameCondition_Planetkiller.label>inkommande planetdödarvapen</GameCondition_Planetkiller.label>
@@ -40,9 +40,9 @@
   <Rule_DisallowDesignator_Hunt.description>Kan inte jaga.</Rule_DisallowDesignator_Hunt.description>
   
   <!-- EN: cannot mine -->
-  <Rule_DisallowDesignator_Mine.label>TODO</Rule_DisallowDesignator_Mine.label>
+  <Rule_DisallowDesignator_Mine.label>kan inte hugga</Rule_DisallowDesignator_Mine.label>
   <!-- EN: Cannot mine. -->
-  <Rule_DisallowDesignator_Mine.description>TODO</Rule_DisallowDesignator_Mine.description>
+  <Rule_DisallowDesignator_Mine.description>Kan inte hugga</Rule_DisallowDesignator_Mine.description>
   
   <!-- EN: cannot tame -->
   <Rule_DisallowDesignator_Tame.label>kan inte tämja</Rule_DisallowDesignator_Tame.label>
@@ -73,6 +73,6 @@
   <StartingThing_Defined.label>starta med</StartingThing_Defined.label>
   
   <!-- EN: stat multiplier -->
-  <StatFactor.label>värde multiplikator</StatFactor.label>
+  <StatFactor.label>värdesmultiplikator</StatFactor.label>
   
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: animals slaughtered -->
@@ -199,7 +199,7 @@
   <!-- EN: times in mental state -->
   <TimesInMentalState.label>gånger i mentalt tillstånd</TimesInMentalState.label>
   <!-- EN: How many times I have suffered a mental break. -->
-  <TimesInMentalState.description>Hur många gånger jag har haft ett psykbryt.</TimesInMentalState.description>
+  <TimesInMentalState.description>Hur många gånger jag har haft ett sammanbrott.</TimesInMentalState.description>
   
   <!-- EN: times on fire -->
   <TimesOnFire.label>gånger brunna</TimesOnFire.label>
@@ -207,18 +207,17 @@
   <TimesOnFire.description>Hur många gånger jag brunnit.</TimesOnFire.description>
   
   <!-- EN: tends given -->
-  <TimesTendedOther.label>utförda behandlingar</TimesTendedOther.label>
+  <TimesTendedOther.label>vård utförd</TimesTendedOther.label>
   <!-- EN: How many times I have tended to others' medical conditions. -->
-  <TimesTendedOther.description>Hur många medicinska behandlingar jag utfört.</TimesTendedOther.description>
+  <TimesTendedOther.description>Hur många gånger jag har vårdat andra.</TimesTendedOther.description>
   
   <!-- EN: tends received -->
-  <TimesTendedTo.label>mottagna behandlingar</TimesTendedTo.label>
+  <TimesTendedTo.label> vård mottagen</TimesTendedTo.label>
   <!-- EN: How many times I have had my medical conditions tended. -->
-  <TimesTendedTo.description>Hur många gånger jag fått medicinsk behandling.</TimesTendedTo.description>
+  <TimesTendedTo.description>Hur många gånger jag fått medicinsk vård.</TimesTendedTo.description>
   
-  <!-- EN: traps rearmed -->
-  <TrapsRearmed.label>fällor gillrade</TrapsRearmed.label>
-  <!-- EN: The number of traps I have rearmed. -->
-  <TrapsRearmed.description>Antalet fällor jag gillrat.</TrapsRearmed.description>
+  <!-- UNUSED -->
+  <TrapsRearmed.label>UNUSED</TrapsRearmed.label>
+  <TrapsRearmed.description>UNUSED</TrapsRearmed.description>
   
 </LanguageData>

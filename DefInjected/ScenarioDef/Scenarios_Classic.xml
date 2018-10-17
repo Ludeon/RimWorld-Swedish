@@ -1,54 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: Crashlanded -->
+  <Crashlanded.label>Krashlandning</Crashlanded.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.description>Ni tre vaknar i cryptosömnkistan till ljudet av sirener och metall som slits i stycken. Ni hinner knappt ta er in i flyktkapslarna innan skeppet slits sönder. En tid senare landar ni på denna okända rimworld.</Crashlanded.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.scenario.description>Ni tre vaknar i era kryptosömnkapslar till ljudet av sirener och metall som slits i stycken. Ni hinner knappt ta er in i flyktkapslarna innan skeppet slits sönder. En tid senare landar ni på denna okända rimworld.</Crashlanded.scenario.description>
   <!-- EN: Crashlanded -->
   <Crashlanded.scenario.name>Krashlandning</Crashlanded.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
   <Crashlanded.scenario.summary>Tre krashlandande överlevare - Den klassiska RimWold upplevelsen.</Crashlanded.scenario.summary>
-  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Crashlanded.scenario.description>Ni tre vaknar i cryptosömnkistan till ljudet av sirener och metall som slits tycken. Ni hinner knappt komma in i flyktkapslarna innan skeppet slits sönder. En tid senare landar ni på denna okända rimworld.</Crashlanded.scenario.description>
-  <!-- EN: Crashlanded -->
-  <Crashlanded.label>Krashlandning</Crashlanded.label>
-  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Crashlanded.description>Ni tre vaknar i cryptosömnkistan till ljudet av sirener och metall som slits tycken. Ni hinner knappt komma in i flyktkapslarna innan skeppet slits sönder. En tid senare landar ni på denna okända rimworld.</Crashlanded.description>
   
-  <!-- EN: Lost Tribe -->
-  <LostTribe.scenario.name>Den Förlorade Stammen</LostTribe.scenario.name>
-  <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
-  <LostTribe.scenario.summary>Fem vilse stammmedlemar försöker att bygga ett nytt hem.</LostTribe.scenario.summary>
-  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
-  <LostTribe.scenario.description>Din stam blev förstörd av den stora blodmaskinen skickad av gudarna. Ni fem lyckades fly. Nu är det dags att bygga upp ett nytt hem.</LostTribe.scenario.description>
-  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did. -->
-  <LostTribe.scenario.parts.GameStartDialog.text>Gudarna blev väldigt arga. Blodmaskierna kom en natt. Dom svepte genom din by, skar och brände ert folk med deras blad och djävulseld.\n\nEndast några få av er lyckades fly. Nu, efter en uppslitande resa till fots, utan några vänner att vända sig till, måste ni bygga ett nytt hem i valdmarken, liksom era förfäder gjorde.</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Lost Tribe -->
   <LostTribe.label>Den Förlorade Stammen</LostTribe.label>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
-  <LostTribe.description>Din stam blev förstörd av den stora blodmaskinen skickad av gudarna. Ni fem lyckades fly. Nu är det dags att bygga upp ett nytt hem.</LostTribe.description>
+  <LostTribe.description>Din stam blev förstörd av de stora blodmaskinnerna som skickats av gudarna. Fem  av er lyckades fly. Nu är det dags att bygga upp ett nytt hem.\n\nNotera: Eftersom du startar fattig och froskning går långsamt är detta ett svårt scenario.</LostTribe.description>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario. -->
+  <LostTribe.scenario.description>Din stam blev förstörd av de stora blodmaskinnerna som skickats av gudarna. Fem  av er lyckades fly. Nu är det dags att bygga upp ett nytt hem.\n\nNotera: Eftersom du startar fattig och froskning går långsamt är detta ett svårt scenario.</LostTribe.scenario.description>
+  <!-- EN: Lost Tribe -->
+  <LostTribe.scenario.name>Den Förlorade Stammen</LostTribe.scenario.name>
+  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did. -->
+  <LostTribe.scenario.parts.GameStartDialog.text>Gudarna var väldigt arga. Blodmaskierna kom på natten. De svepte genom byn, skar och brände ert folk med deras klingor och djävulseld.\n\nEndast några få av er lyckades fly. Nu, efter en uppslitande resa till fots utan några vänner att vända sig till, måste ni bygga ett nytt hem i vildmarken, precis som era förfäder gjorde.</LostTribe.scenario.parts.GameStartDialog.text>
+  <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
+  <LostTribe.scenario.summary>Fem vilse stammmedlemar försöker att bygga ett nytt hem. Svårt.</LostTribe.scenario.summary>
   
   <!-- EN: Naked Brutality -->
-  <NakedBrutality.scenario.name>TODO</NakedBrutality.scenario.name>
+  <NakedBrutality.label>Naken Brutalitet</NakedBrutality.label>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.description>Du fick narkos för en mindre operation. Nu har du vaknat i en flyktkapsel som kraschar mot en avlägsen planet. Du är naken, ensam och totalt oförberedd. Överlever du?\n\nVarning: Det finns inget rättvist med detta scenario - det är extremt svårt och döden kan inträffa av vilken anledning som helst. </NakedBrutality.description>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.scenario.description>Du fick narkos för en mindre operation. Nu har du vaknat i en flyktkapsel som kraschar mot en avlägsen planet. Du är naken, ensam och totalt oförberedd. Överlever du?\n\nVarning: Det finns inget rättvist med detta scenario - det är extremt svårt och döden kan inträffa av vilken anledning som helst. </NakedBrutality.scenario.description>
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.scenario.name>Naken Brutalitet</NakedBrutality.scenario.name>
+  <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Det skulle vara en mindre operation. Bara en timme i narkos. Du kände dig helt säker.\n\nNu har du vaknat innuti en flyktkapsel som pressar sig genom atmosfären på en fjärran rimworld.\n\nFörutom en oljig mystisk gegga över hela din kropp är du helt naken. Utan förberedelse, utan förnödenheter eller verktyg, överlever du?</NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
-  <NakedBrutality.scenario.summary>TODO</NakedBrutality.scenario.summary>
-  <!-- EN: You went under anasthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.scenario.description>TODO</NakedBrutality.scenario.description>
-  <!-- EN: It was supposed to be a minor surgery. Just an hour under anasthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
-  <NakedBrutality.scenario.parts.GameStartDialog.text>TODO</NakedBrutality.scenario.parts.GameStartDialog.text>
-  <!-- EN: Naked Brutality -->
-  <NakedBrutality.label>TODO</NakedBrutality.label>
-  <!-- EN: You went under anasthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.description>TODO</NakedBrutality.description>
+  <NakedBrutality.scenario.summary>Naken, ensam och helt oförberedd. Överlever du? Extremt svårt och orättvist.</NakedBrutality.scenario.summary>
   
-  <!-- EN: The Rich Explorer -->
-  <TheRichExplorer.scenario.name>Den Rika Upptäckaren</TheRichExplorer.scenario.name>
-  <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
-  <TheRichExplorer.scenario.summary>En rik utforskare ute efter att uppleva universum.</TheRichExplorer.scenario.summary>
-  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.scenario.description>Folk kallade dig galen när du lämnade din glittervärldshem, men du har alltid längtat efter att få utforska stjärnorna - utanför neurosimulatorn. Nu är du i slutet av din långa resa i cryptosömn, landande på en okänd rimwold för att se hur det är.</TheRichExplorer.scenario.description>
-  <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
-  <TheRichExplorer.scenario.parts.GameStartDialog.text>Neurosimulatorerna, holo spelen och fri-orgierna var aldrig tillräckligt för dig. Du ville ha mer - kurage och följden av det verkliga livet, sånt dom skev om i historieböcker. Du ville veta vad verklig utmaning och konsekvenser känns som.\n\nNu, efter en resa i årtionden i cryptosömn landar du på en okänd rimword. Riktiga konsekvenser väntar dig.</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: The Rich Explorer -->
   <TheRichExplorer.label>Den Rika Upptäckaren</TheRichExplorer.label>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.description>Folk kallade dig galen när du lämnade din glittervärldshem, men du har alltid längtat efter att få utforska stjärnorna - utanför neurosimulatorn. Nu är du i slutet av din långa resa i cryptosömn, landande på en okänd rimwold för att se hur det är.</TheRichExplorer.description>
+  <TheRichExplorer.description>Folk kallade dig galen när du lämnade din glittervärldshem, men du har alltid längtat efter att få utforska stjärnorna - utanför neurosimulatorn. Nu är du i slutet av din långa resa i kryptosömn, landandes på en okänd rimwold för att se hur det är.\n\nNotera: Eftersom din startkarraktär kommer sakna vissa färdigheter är detta ett särskilt svårt scenario tidigt i spelet.</TheRichExplorer.description>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.scenario.description>Folk kallade dig galen när du lämnade din glittervärldshem, men du har alltid längtat efter att få utforska stjärnorna - utanför neurosimulatorn. Nu är du i slutet av din långa resa i kryptosömn, landandes på en okänd rimwold för att se hur det är.\n\nNotera: Eftersom din startkarraktär kommer sakna vissa färdigheter är detta ett särskilt svårt scenario tidigt i spelet.</TheRichExplorer.scenario.description>
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.scenario.name>Den Rika Upptäckaren</TheRichExplorer.scenario.name>
+  <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>Neurosimulatorerna, holo spelen och fri-orgierna var aldrig tillräckligt för dig. Du ville ha mer - kurage och följden av det verkliga livet, sånt dom skev om i historieböcker. Du ville veta vad verklig utmaning och konsekvenser känns som.\n\nNu, efter en resa i årtionden i cryptosömn landar du på en okänd rimword. Riktiga konsekvenser väntar dig.</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
+  <TheRichExplorer.scenario.summary>En rik utforskare ute efter att uppleva universum. Extra svårt.</TheRichExplorer.scenario.summary>
   
 </LanguageData>

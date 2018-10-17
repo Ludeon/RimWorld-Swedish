@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: recruit -->
@@ -9,6 +9,9 @@
   
   <!-- EN: no interaction -->
   <NoInteraction.label>ingen interaktion</NoInteraction.label>
+  
+  <!-- EN: reduce resistance -->
+  <ReduceResistance.label>bryt ned motstånd</ReduceResistance.label>
   
   <!-- EN: release -->
   <Release.label>frige</Release.label>

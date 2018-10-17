@@ -1,30 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Burning apparel. -->
-  <BurnApparel.jobString>Eldar upp kläder.</BurnApparel.jobString>
   <!-- EN: burn apparel -->
-  <BurnApparel.label>elda kläder</BurnApparel.label>
+  <BurnApparel.label>elda upp kläder</BurnApparel.label>
   <!-- EN: Burn unwanted apparel to completely destroy it. -->
   <BurnApparel.description>Elda upp kläder för att bli av med dem.</BurnApparel.description>
+  <!-- EN: Burning apparel. -->
+  <BurnApparel.jobString>Eldar upp kläder.</BurnApparel.jobString>
   
   <!-- UNUSED -->
   <BurnApparelCampfire.label>UNUSED</BurnApparelCampfire.label>
   <BurnApparelCampfire.description>UNUSED</BurnApparelCampfire.description>
   <BurnApparelCampfire.jobString>UNUSED</BurnApparelCampfire.jobString>
   
-  <!-- EN: Burning drugs. -->
-  <BurnDrugs.jobString>Eldar upp droger.</BurnDrugs.jobString>
   <!-- EN: burn drugs -->
   <BurnDrugs.label>Elda upp droger</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
   <BurnDrugs.description>Bränn upp droger för att helt bli av med dem.</BurnDrugs.description>
+  <!-- EN: Burning drugs. -->
+  <BurnDrugs.jobString>Eldar upp droger.</BurnDrugs.jobString>
   
-  <!-- EN: Cremating. -->
-  <CremateCorpse.jobString>Kremerar.</CremateCorpse.jobString>
   <!-- EN: cremate corpse -->
   <CremateCorpse.label>kremera lik</CremateCorpse.label>
   <!-- EN: Cremate a corpse to completely destroy it. -->
   <CremateCorpse.description>Kremera ett lik för att bli av med det.</CremateCorpse.description>
+  <!-- EN: Cremating. -->
+  <CremateCorpse.jobString>Kremerar.</CremateCorpse.jobString>
   
 </LanguageData>

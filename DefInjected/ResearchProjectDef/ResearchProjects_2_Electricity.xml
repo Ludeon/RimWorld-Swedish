@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: air conditioning -->
@@ -23,23 +23,21 @@
   
   <!-- EN: blowback operation -->
   <BlowbackOperation.label>rekylvapen</BlowbackOperation.label>
-  <!-- EN: Craft low-power blowback-operated guns like autopistols, machine pistols, and heavy SMGs. -->
-  <BlowbackOperation.description>Tillverka svagare rekylvapen såsom autopistoler, kulsprutepistoler och tunga kulsprutepistoler.  </BlowbackOperation.description>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>Tillverka svagare rekylvapen såsom autopistoler och kulsprutepistoler.</BlowbackOperation.description>
   
-  <!-- EN: electric cremation -->
-  <ElectricCremation.label>elektrisk kremering</ElectricCremation.label>
-  <!-- EN: Build crematoriums for vaporizing unwanted corpses. -->
-  <ElectricCremation.description>Bygg ett krematorium där du kan förånga oönskade lik.</ElectricCremation.description>
+  <!-- UNUSED -->
+  <ElectricCremation.label>UNUSED</ElectricCremation.label>
+  <ElectricCremation.description>UNUSED</ElectricCremation.description>
   
   <!-- EN: electricity -->
   <Electricity.label>elektricitet</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
-  <Electricity.description>Tygla elektricitetens kraft ochanvänd för hundratals olika bestyr.</Electricity.description>
+  <Electricity.description>Tygla elektricitetens kraft och använd för hundratals olika syften.</Electricity.description>
   
-  <!-- EN: electric smelting -->
-  <ElectricSmelting.label>elektrisk utvinning</ElectricSmelting.label>
-  <!-- EN: Build electric smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelter extracts useful metal from slag chunks and other items. -->
-  <ElectricSmelting.description>Bygg elektriska smedjor och smältugnar.\n\nDen elektriska smedjan tillåter dig att smida utan att använda bränsle. Den elektriska smältugnen utvinner metall från stålklumpar och andra föremål.</ElectricSmelting.description>
+  <!-- UNUSED -->
+  <ElectricSmelting.label>UNUSED</ElectricSmelting.label>
+  <ElectricSmelting.description>UNUSED</ElectricSmelting.description>
   
   <!-- EN: firefoam -->
   <Firefoam.label>brandskum</Firefoam.label>
@@ -53,8 +51,8 @@
   
   <!-- EN: gas operation -->
   <GasOperation.label>gaslåsvapen</GasOperation.label>
-  <!-- EN: Craft high-power guns like chain shotguns and LMGs. -->
-  <GasOperation.description>Tillverka kraftiga skjutvapen såsom kedje-hagelbössor och lätta kulsprutor.</GasOperation.description>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>Tillverka kraftiga skjutvapen såsom kedje-hagelbössor samt lätta och tunga kulsprutor.</GasOperation.description>
   
   <!-- EN: geothermal power -->
   <GeothermalPower.label>geotermisk energi</GeothermalPower.label>

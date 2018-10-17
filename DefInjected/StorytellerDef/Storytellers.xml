@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Cassandra Classic -->
   <Cassandra.label>Cassandra Classic</Cassandra.label>
   <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
-  <Cassandra.description>Cassandra skapar berättelsehändelser på en stadigt ökande kurva av utmaning och spänning.</Cassandra.description>
+  <Cassandra.description>Cassandra skapar historiehändelser på en klassisk stadigt ökande kurva av utmaning och spänning. Hon kommer trycka på dig farliga hot och händelser för att sedan ge dig lite andrum, för att sedan komma tillbaka med ännu mer.</Cassandra.description>
   
   <!-- EN: Phoebe Chillax -->
-  <Phoebe.label>Phoebe Friendly</Phoebe.label>
+  <Phoebe.label>Phoebe Chillax</Phoebe.label>
   <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
-  <Phoebe.description>Phoebe vill inte skada någon. Hon vill bara ha en lugnande saga om folk som bygger en koloni, så hon kommer vara väldigt snäll.</Phoebe.description>
+  <Phoebe.description>Phoebe ger dig mycket tid mellan katastrofer för att bygga din koloni. Men var på din vakt - vid höga svårighetsgrader, kommer hon slå lika hårt som de andra.</Phoebe.description>
   
   <!-- EN: Randy Random -->
   <Randy.label>Randy Random</Randy.label>
   <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
-  <Randy.description>Randy följer inga regler. Han kommer generera slumpmässiga händelser, och han bryr sig inte om de bildar en historia om triumf eller fullkomlig hopplöshet. Det är drama alltihop för honom.</Randy.description>
+  <Randy.description>Randy följer inga regler. Han kommer generera slumpmässiga händelser och han bryr sig inte om de bildar en historia om triumf eller fullkomlig hopplöshet. Det är drama alltihop för honom.\n\nVarning: Eftersom Randy är helt slumpmässig kommer han ibland skicka extremt svåra och orättvisa grupper av händelser på dig. Det skapar mer drama - och ofrånkommliga uppoffringar.</Randy.description>
   
   <!-- EN: Tutor Hidden -->
   <Tutor.label>Lärare gömd</Tutor.label>
