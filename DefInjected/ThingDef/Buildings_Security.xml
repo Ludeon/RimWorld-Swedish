@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: mortar -->
-  <Artillery_Mortar.verbs.Verb_Shoot.label>granatkastare</Artillery_Mortar.verbs.Verb_Shoot.label>
   <!-- EN: mortar -->
   <Artillery_Mortar.label>granatkastare</Artillery_Mortar.label>
   <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
   <Artillery_Mortar.description>En granatkastare. skjuter bomber över murar. Väldigt svår att träffa med men har lång räckvidd.</Artillery_Mortar.description>
+  <!-- EN: mortar -->
+  <Artillery_Mortar.verbs.Verb_Shoot.label>granatkastare</Artillery_Mortar.verbs.Verb_Shoot.label>
   
   <!-- UNUSED -->
   <Blueprint_Install_Turret_MortarBomb.label>UNUSED</Blueprint_Install_Turret_MortarBomb.label>
@@ -29,126 +29,105 @@
   <!-- EN: mini-turret bullet -->
   <Bullet_MiniTurret.label>kula för små kanontorn</Bullet_MiniTurret.label>
   
-  <!-- EN: sniper shell -->
-  <Bullet_TurretSniper.label>patron för prickskytte</Bullet_TurretSniper.label>
+  <!-- EN: uranium slug -->
+  <Bullet_TurretSniper.label>urankula</Bullet_TurretSniper.label>
   
   <!-- UNUSED -->
   <Frame_TurretGun.label>UNUSED</Frame_TurretGun.label>
   <Frame_TurretGun.description>UNUSED</Frame_TurretGun.description>
   
   <!-- EN: autocannon -->
-  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>autokanontorn</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
-  <!-- EN: autocannon -->
   <Gun_AutocannonTurret.label>autokanontorn</Gun_AutocannonTurret.label>
   <!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
   <Gun_AutocannonTurret.description>En självladdande grovkalibrig kanon designad för att sättas fast vid ett torn. </Gun_AutocannonTurret.description>
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>autokanontorn</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
   
-  <!-- EN: mini-turret gun -->
-  <Gun_MiniTurret.verbs.Verb_Shoot.label>mindre artelleripjäs</Gun_MiniTurret.verbs.Verb_Shoot.label>
   <!-- EN: mini-turret gun -->
   <Gun_MiniTurret.label>mindre artelleripjäs</Gun_MiniTurret.label>
   <!-- EN: A simple automatic gun made to be mounted on a turret. -->
   <Gun_MiniTurret.description>En simpel automatisk artelleripjäs gjord för att sättas fast vid ett torn.</Gun_MiniTurret.description>
+  <!-- EN: mini-turret gun -->
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>mindre artelleripjäs</Gun_MiniTurret.verbs.Verb_Shoot.label>
   
-  <!-- EN: sniper cannon -->
-  <Gun_TurretSniper.verbs.Verb_Shoot.label>prickskyttekanon</Gun_TurretSniper.verbs.Verb_Shoot.label>
-  <!-- EN: sniper cannon -->
-  <Gun_TurretSniper.label>prickskyttekanon</Gun_TurretSniper.label>
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.label>urankanon</Gun_TurretSniper.label>
   <!-- EN: A self-loading sniper cannon designed to attach to a turret. Precise at range, it's not good at tracking close targets. -->
   <Gun_TurretSniper.description>En självladdande prickskyttekanon gjord för att sättas fast vid ett torn. Stor träffsäkerhet på håll, sämre på att följa mål på nära håll.</Gun_TurretSniper.description>
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>urankanon</Gun_TurretSniper.verbs.Verb_Shoot.label>
   
   <!-- EN: sandbags -->
   <Sandbags.label>sandsäckar</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand held in place by steel rods. Sandbags are ugly, but provide excellent cover from ranged attacks. -->
   <Sandbags.description>Säckar fulla med lokalt samlad jord och sand som hålls på plats av armeringsjärn. Sandsäckar är fula men erbjuder utmärkt skydd för vapeneld.</Sandbags.description>
   
-  <!-- EN: deadfall trap -->
-  <TrapDeadfall.label>upphängd viltfälla</TrapDeadfall.label>
-  <!-- EN: A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso. -->
-  <TrapDeadfall.description>En upphängd spetsig vikt hålls upp av en känslig utlösare. När offret utlöser fällan släpps vikten och faller på hens huvud eller överkropp.</TrapDeadfall.description>
-  
   <!-- EN: IED antigrain warhead trap -->
   <TrapIED_AntigrainWarhead.label>IEDfälla med en stridsspets av antimateria</TrapIED_AntigrainWarhead.label>
-  <!-- EN: A high-tech antigraing warhead connected to a homemade trigger. When triggered, the antigrain warhead detonates, creating a massive antimatter explosion. Wild animals will avoid these. -->
-  <TrapIED_AntigrainWarhead.description>En högteknologisk stridsspets kopplad till en hemmagjord utlösare. När den utlöses detonerar stridsspetsen med antimateria och skapar en massiv explosion. Vilda djur kommer undvika dessa. </TrapIED_AntigrainWarhead.description>
+  <!-- EN: An antimatter-powered antigrain warhead connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_AntigrainWarhead.description>En antimateriadriven stridsspets kopplad till en tryckkänslig utlösare. Eftersom den är dold i den omgivande terrängen kan den inte placeras bredvid andra fällor. Djur kan känna var dessa är när de är lugna.</TrapIED_AntigrainWarhead.description>
   
   <!-- EN: IED EMP trap -->
   <TrapIED_EMP.label>IED EMPfälla</TrapIED_EMP.label>
-  <!-- EN: A simple trap consisting of an EMP shell and a homemade trigger. The explosion can paralyze mechanoids for a few seconds. Can be triggered even by those who are unaffected by EMP explosions. Wild animals will avoid these. -->
-  <TrapIED_EMP.description>En simpel fälla beståendes av en EMPgranat och en hemmagjord utlösare. Explosionen kan paralyzera mekanoider ett antal sekunder. Kan utlösas av de som ej påverkas av EMPexplosioner. Vilda djur kommer undvika dessa.</TrapIED_EMP.description>
+  <!-- EN: A pair of EMP shells connected to a touch-activated trigger. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_EMP.description>Ett par EMP-granater kopplade till en tryckkänslig utlösare. Explosionen kan paralyzera mekanoider ett antal sekunder. Eftersom den är dold i den omgivande terrängen kan den inte placeras bredvid andra fällor. Djur kan känna var dessa är när de är lugna.</TrapIED_EMP.description>
   
   <!-- EN: IED firefoam trap -->
   <TrapIED_Firefoam.label>IED brandskummsfälla</TrapIED_Firefoam.label>
-  <!-- EN: When someone touches the trigger, the trap explodes and sprays a fire-extinguishing foam around itself. Wild animals will avoid these. -->
-  <TrapIED_Firefoam.description>När någon utlöser fällan exploderar den och sprejar ett brandskyddande skum runt sig själv. Vilda djur kommer undvika dessa.</TrapIED_Firefoam.description>
+  <!-- EN: A pair of firefoam shells connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Firefoam.description>Ett par brandskums-granater kopplade till en tryckkänslig utlösare. Eftersom den är dold i den omgivande terrängen kan den inte placeras bredvid andra fällor. Djur kan känna var dessa är när de är lugna.</TrapIED_Firefoam.description>
   
   <!-- EN: IED trap -->
   <TrapIED_HighExplosive.label>IED fälla</TrapIED_HighExplosive.label>
-  <!-- EN: A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. Wild animals will avoid these. -->
-  <TrapIED_HighExplosive.description>En granat ansluten till en hemmagjord utlösare. När någon utlöser fällan kommer granaten att explodera. Vilda djur kommer undvika dessa.</TrapIED_HighExplosive.description>
-  
-  <!-- UNUSED -->
-  <TrapIED_HighExplosive_Blueprint.label>UNUSED</TrapIED_HighExplosive_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <TrapIED_HighExplosive_Frame.label>UNUSED</TrapIED_HighExplosive_Frame.label>
-  <TrapIED_HighExplosive_Frame.description>UNUSED</TrapIED_HighExplosive_Frame.description>
+  <!-- EN: A pair of high-explosive shells connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_HighExplosive.description>Ett par högexplosiva granater kopplade till en tryckkänslig utlösare. Eftersom den är dold i den omgivande terrängen kan den inte placeras bredvid andra fällor. Djur kan känna var dessa är när de är lugna.</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
   <TrapIED_Incendiary.label>IED brandfälla</TrapIED_Incendiary.label>
-  <!-- EN: Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable. Wild animals will avoid these. -->
-  <TrapIED_Incendiary.description>Sprängämnen blandas in i en brandfarlig smet med en kemisk utlösare för spridning. Dess kemiska utlösare är enkel och tillförlitlig. Vilda djur kommer undvika dessa.</TrapIED_Incendiary.description>
+  <!-- EN: A pair of incendiary shells connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Incendiary.description>Ett par brandboms granater kopplade till en tryckkänslig utlösare. Eftersom den är dold i den omgivande terrängen kan den inte placeras bredvid andra fällor. Djur kan känna var dessa är när de är lugna.</TrapIED_Incendiary.description>
   
-  <!-- UNUSED -->
-  <TrapIED_Incendiary_Blueprint.label>UNUSED</TrapIED_Incendiary_Blueprint.label>
+  <!-- EN: spike trap -->
+  <TrapSpike.label>spikfälla</TrapSpike.label>
+  <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forthm and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>Fem spikar under spänning, kopplade till en tryckkänslig utlösare. När offret utlöser fällan slår spikarna och upp och träffar offret. Eftersom den är dold i den omgivande terrängen kan den inte placeras bredvid andra fällor. Djur kan känna var dessa är när de är lugna.</TrapSpike.description>
   
-  <!-- UNUSED -->
-  <TrapIED_Incendiary_Frame.label>UNUSED</TrapIED_Incendiary_Frame.label>
-  <TrapIED_Incendiary_Frame.description>UNUSED</TrapIED_Incendiary_Frame.description>
-  
-  <!-- EN: Shots until barrel change -->
-  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>Avfyrar till eldrörsbyte</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
-  <!-- EN: Barrel durability -->
-  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>Eldrörets hållbarhet</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
-  <!-- EN: Cannot shoot: Needs new barrel -->
-  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Kan ej skjuta: Behöver nytt eldrör</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
   <!-- EN: autocannon turret -->
   <Turret_Autocannon.label>automatkanontorn</Turret_Autocannon.label>
-  <!-- EN: A heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but it requires frequent and expensive barrel changes. It cannot fire at close-up targets, and may explode when damaged. -->
+  <!-- EN: A heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
   <Turret_Autocannon.description>Ett tungt automatkanontorn. Dess grovkalibriga patroner gör stor skada på långa avstånd men behöver ständiga och dyra byten av eldrör. Det kan ej skjuta mål på nära håll och kan explodera när det skadats.</Turret_Autocannon.description>
-  
-  <!-- EN: Shots until barrel change -->
-  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Avfyrar till eldrörsbyte</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
   <!-- EN: Barrel durability -->
-  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>Eldrörets hållbarhet</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>Eldrörets hållbarhet</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>Avfyrar till eldrörsbyte</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs new barrel -->
-  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Kan ej skjuta: Behöver nytt eldrör</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Kan ej skjuta: Behöver nytt eldrör</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  
   <!-- EN: mini-turret -->
   <Turret_MiniTurret.label>litet kanontorn</Turret_MiniTurret.label>
-  <!-- EN: A portable automatic turret. Requires steel to replace its barrel after heavy use. It is relatively fragile, and may explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <Turret_MiniTurret.description>Ett portabelt automatiskt kanontorn. Det behövs stål för att byta eldrör efter stor användning. Det är relativt ömtåligt och kan explodera när det skadats. Dess dumma AI-hjärna kan inte direkt kontrolleras, så se upp för vådaskott.</Turret_MiniTurret.description>
+  <!-- EN: A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <Turret_MiniTurret.description>Ett portabelt automatiskt kanontorn. Det behövs stål för att byta eldrör efter stor användning. Kan explodera när det skadats. Dess dumma AI-hjärna kan inte direktkontrolleras, så se upp för vådaskott.</Turret_MiniTurret.description>
+  <!-- EN: Barrel durability -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>Eldrörets hållbarhet</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Avfyrar till eldrörsbyte</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Kan ej skjuta: Behöver nytt eldrör</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: mortar -->
   <Turret_Mortar.label>granatkastare</Turret_Mortar.label>
   <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
   <Turret_Mortar.description>En bemannad granatkastare som slungar alla möjliga granater. Granatkastare kan orsaka förödande skador samtidigt som den har dålig träffsäkerhet, därför lämpar sig granatkastare mer för attacker mot stora fortifikationer än grupper av fiender ute på fältet.</Turret_Mortar.description>
   
-  <!-- UNUSED -->
-  <Turret_Mortar_Blueprint.label>UNUSED</Turret_Mortar_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Turret_Mortar_Frame.label>UNUSED</Turret_Mortar_Frame.label>
-  <Turret_Mortar_Frame.description>UNUSED</Turret_Mortar_Frame.description>
-  
-  <!-- EN: Shots until rearm -->
-  <Turret_Sniper.comps.CompRefuelable.fuelLabel>Avfyrar tills underhåll behövs</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  <!-- EN: uranium slug turret -->
+  <Turret_Sniper.label>kanontorn med urankulor</Turret_Sniper.label>
+  <!-- EN: A long-ranged armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor at long ranges, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->
+  <Turret_Sniper.description>Ett vapen med mycket lång räckvidd och rustningspenetrerande kulor. Dess ultratäta kulor av uran kan slå genom rustningar på långt avstånd, men det behöver nya urankulor att laddas med efter användning. Det är mer exakt på långt håll, kan inte skjuta alls på nära håll. Kan explodera när det skadats.</Turret_Sniper.description>
   <!-- EN: Barrel durability -->
   <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Eldrörets hållbarhet</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until rearm -->
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>Avfyrar tills underhåll behövs</Turret_Sniper.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs rearm -->
   <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>Kan ej skjuta: Behöver underhållas</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: sniper turret -->
-  <Turret_Sniper.label>prickskyttekanontorn</Turret_Sniper.label>
-  <!-- EN: A very long-ranged automatic sniper turret. Its high-velocity uranium shells do heavy damage over very long ranges, but it requires frequent and expensive barrel changes. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->
-  <Turret_Sniper.description>Ett automatiskt prickskyttekanontorn med mycket lång räckvidd. Dess höghastighetspatroner av uran gör stor skada över stora avstånd, men det behöver ständiga och dyra byten av eldrör. Det är mer exakt på långt håll, kan inte skjuta alls på nära håll. Kan explodera när det skadats.</Turret_Sniper.description>
   
 </LanguageData>

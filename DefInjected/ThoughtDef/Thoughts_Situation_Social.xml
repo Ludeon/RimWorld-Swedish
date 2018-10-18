@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: affair -->
@@ -25,6 +25,10 @@
   <BondedAnimalMaster.stages.s_master.label>{0}'s herre</BondedAnimalMaster.stages.s_master.label>
   <!-- EN: Being together with my bonded animal makes me feel better. -->
   <BondedAnimalMaster.stages.s_master.description>Att får vara tillsammans med min bundna djur får mig att må bättre.</BondedAnimalMaster.stages.s_master.description>
+  <!-- EN: master of {0} -->
+  <BondedAnimalMaster.stages.master_of.label>TODO</BondedAnimalMaster.stages.master_of.label>
+  <!-- EN: Being together with my bonded animals makes me feel better. -->
+  <BondedAnimalMaster.stages.master_of.description>TODO</BondedAnimalMaster.stages.master_of.description>
   
   <!-- EN: butchered humanlike corpse -->
   <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>slaktat människolika kroppar</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
@@ -66,6 +70,10 @@
   <NotBondedAnimalMaster.stages.not_s_master.label>inte {0}'s herre</NotBondedAnimalMaster.stages.not_s_master.label>
   <!-- EN: I should be together with my bonded animal. -->
   <NotBondedAnimalMaster.stages.not_s_master.description>inte {0}'s borde vara tillsammans med min bundna djur.</NotBondedAnimalMaster.stages.not_s_master.description>
+  <!-- EN: not master of {0} -->
+  <NotBondedAnimalMaster.stages.not_master_of.label>TODO</NotBondedAnimalMaster.stages.not_master_of.label>
+  <!-- EN: I should be together with my bonded animals. -->
+  <NotBondedAnimalMaster.stages.not_master_of.description>TODO</NotBondedAnimalMaster.stages.not_master_of.description>
   
   <!-- EN: opinion of my {0} {1} -->
   <OpinionOfMyLover.stages.opinion_of_my.label>åsikt om min {0} {1}</OpinionOfMyLover.stages.opinion_of_my.label>

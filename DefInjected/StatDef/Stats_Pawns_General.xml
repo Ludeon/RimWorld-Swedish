@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: carrying capacity -->
@@ -61,12 +61,12 @@
   <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
   <MinimumHandlingSkill.description>Denna varelse kan inte tämjas, utbildas eller kommenderas av någon med mindre än denna färdighet av djurträning.</MinimumHandlingSkill.description>
   
-  <!-- EN: {0} c/s -->
-  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
   <!-- EN: move speed -->
   <MoveSpeed.label>förflyttningshastighet</MoveSpeed.label>
   <!-- EN: Speed of movement in cells per second. -->
   <MoveSpeed.description>Rörelsehastighet genom världen i celler per sekund.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
   
   <!-- EN: pain shock threshold -->
   <PainShockThreshold.label>TODO</PainShockThreshold.label>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BackstoryTranslations>
   
   <AbandonedChild47>
@@ -18,7 +18,6 @@
     <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents left [PAWN_objective] out in the elements. Somehow, [PAWN_pronoun] survived. -->
     <desc>[PAWN_nameDef] föddes sjuk. Tanken att [PAWN_pronoun] bara skulle bli en börda för klanen, fick [PAWN_possessive] föräldrar att lämna [PAWN_nameDef] i vildmarken. På något sätt, överlevde [PAWN_pronoun].</desc>
   </AbandonedChild60>
-  
   
   <AbandonedOrphan61>
     <!-- EN: abandoned orphan -->
@@ -116,7 +115,7 @@
     <!-- EN: adventurer -->
     <titleShort>äventyrare</titleShort>
     <!-- EN: Axle was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port. -->
-   TODO <desc>Axle uppfostrades till att bli ingengör. Under flera år planerade han att rymma för att gömma sig på ett fraktskepp och börja ett mer spänningsfyllt liv.\n\nEn natt när hans föräldrar somnat lyckades han smyga ombord på ett fraktskepp precis innan det lämnade hamnen.</desc>
+    <desc>Axle uppfostrades till att bli ingengör. Under flera år planerade han att rymma för att gömma sig på ett fraktskepp och börja ett mer spänningsfyllt liv.\n\nEn natt när hans föräldrar somnat lyckades han smyga ombord på ett fraktskepp precis innan det lämnade hamnen.</desc>
   </AdventuringChild56>
   
   <AdventurousWeirdo83>
@@ -125,7 +124,7 @@
     <!-- EN: weirdo -->
     <titleShort>våghals</titleShort>
     <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated his life to his twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-   XXX <desc>Som en kretiv och annorlunda person har [PAWN_nameDef] dedikerat sitt liv till sin förkärlek för medeltida historia och högteknologi.\n\n[PAWN_pronoun] var fachinerad av idéen att bli 'himmelsriddare' med en glittrande rustning och ett stort svärd.   </desc>
+    <desc>Som en kretiv och annorlunda person har [PAWN_nameDef] dedikerat sitt liv till sin förkärlek för medeltida historia och högteknologi.\n\n[PAWN_pronoun] var fachinerad av idéen att bli 'himmelsriddare' med en glittrande rustning och ett stort svärd.   </desc>
   </AdventurousWeirdo83>
   
   <AdventurousYouth79>
@@ -152,7 +151,7 @@
     <!-- EN: programmer -->
     <titleShort>programmerare</titleShort>
     <!-- EN: Michael enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing. -->
-   TODO <desc>Michael anmälde sig till militärens robotbyrå för att utveckla smartare strids-AIn.\n\n Under den tid han var där pratade han aldrig med någon människa. Han spenderade all sin tid samtalandes med den AI han utvecklade.</desc>
+    <desc>Michael anmälde sig till militärens robotbyrå för att utveckla smartare strids-AIn.\n\n Under den tid han var där pratade han aldrig med någon människa. Han spenderade all sin tid samtalandes med den AI han utvecklade.</desc>
   </AIProgrammer5>
   
   <AIResearcher30>
@@ -170,7 +169,7 @@
     <!-- EN: alcoholic -->
     <titleShort>alkoholist</titleShort>
     <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when he killed his wife and daughter in a crash.\n\nHis body was repaired with an experimental nano-genetic therapy. Now his muscles continually regenerate and harden, and every movement tears the tissue anew. He bears the pain in silence. -->
-   TODO<desc>[PAWN_nameDef] var rymdchaufför och arbetade för Arcknigt Industri när [PAWN_pronoun] hade ihjäl sin XXX och dotter i en krasch.\n\n[PAWN_pronoun] kropp opererades med experimentell nanogenetisk terapi. [PAWN_pronoun] muskler fortsätter att kontinuerligt regenereras och stelna, varje rörelse sliter sönder vävnader på nytt. [PAWN_pronoun] uthärdar smärtan utan ett knyst. </desc>
+    <desc>[PAWN_nameDef] var rymdchaufför och arbetade för Arcknigt Industri när [PAWN_pronoun] hade ihjäl sin XXX och dotter i en krasch.\n\n[PAWN_pronoun] kropp opererades med experimentell nanogenetisk terapi. [PAWN_pronoun] muskler fortsätter att kontinuerligt regenereras och stelna, varje rörelse sliter sönder vävnader på nytt. [PAWN_pronoun] uthärdar smärtan utan ett knyst. </desc>
   </AlcoholicTrucker58>
   
   <AmateurAstronomer86>
@@ -184,11 +183,11 @@
   
   <AmateurBotanist14>
     <!-- EN: amateur botanist -->
-    TODO<title>amatör botaniker</title>
+    <title>amatör botaniker</title>
     <!-- EN: botanist -->
     <titleShort>botaniker</titleShort>
     <!-- EN: Spending many summers crawling through dirt, Christian found he had quite the green thumb. Instead of learning to cook the food he grew, he just grew more and more. -->
-    TODO<desc>Efter att under flera sommrar krälat genom smuts och lera insåg Cristian att han hade relativt gröna fingrar. Istället för att lära sig laga det han odlade, odlade han bara mer och mer.</desc>
+    <desc>Efter att under flera sommrar krälat genom smuts och lera insåg Cristian att han hade relativt gröna fingrar. Istället för att lära sig laga det han odlade, odlade han bara mer och mer.</desc>
   </AmateurBotanist14>
   
   <AmateurEngineer34>
@@ -280,6 +279,15 @@
     <!-- EN: [PAWN_nameDef] grew up helping in his father's smithy.\n\nThey were some of the last smiths on the planet that to use traditional smithing methods. They even collect some materials themselves.\n\nSometimes, after work, [PAWN_nameDef] would practice using the swords [PAWN_pronoun] forged. -->
     <desc>TODO</desc>
   </ApprenticeSmith42>
+  
+  <Archaeologist85>
+    <!-- EN: Archaeologist -->
+    <title>TODO</title>
+    <!-- EN: Explorer -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_pronoun] was trapped in an uninspired life. One day, [PAWN_pronoun] jumped on a ship to learn archaeology and see the universe.\n\n[PAWN_pronoun] learned how to survive. [PAWN_pronoun] also learned about people - although [PAWN_pronoun] understood the dead better than the living. -->
+    <desc>TODO</desc>
+  </Archaeologist85>
   
   <Architect28>
     <!-- EN: architect -->
@@ -485,7 +493,7 @@
     <!-- EN: outlaw -->
     <titleShort>Fredlös</titleShort>
     <!-- EN: [PAWN_nameDef] became the most physically intimidating of the slaves, spending his little free time obsessively sculpting his body. His efforts eventually paid off when the lord offered him a job as a personal bodyguard.\n\nLater, when he plotted to use his position to kill the lord and free the slaves, he was discovered and barely escaped with his life. -->
-   XXX  <desc>[PAWN_nameDef] blev den fysiskt mest hotfulla av alla slavar. [PAWN_pronoun] spenderade den lilla lediga som fanns med att maniskt  bygga muskler. [PAWN_possessive] ansträngningar betalade sig slutligen när fursten erbjöd [PAWN_objective] ett jobb som personlig livvakt.\n\nSenare när [PAWN_pronoun] planerade att använda sin position för att döda fursten och befria slavarna upptäcktes [PAWN_pronoun] och lyckades med nöd och näppe fly.</desc>
+    <desc>[PAWN_nameDef] blev den fysiskt mest hotfulla av alla slavar. [PAWN_pronoun] spenderade den lilla lediga som fanns med att maniskt  bygga muskler. [PAWN_possessive] ansträngningar betalade sig slutligen när fursten erbjöd [PAWN_objective] ett jobb som personlig livvakt.\n\nSenare när [PAWN_pronoun] planerade att använda sin position för att döda fursten och befria slavarna upptäcktes [PAWN_pronoun] och lyckades med nöd och näppe fly.</desc>
   </BanishedSoldier76>
   
   <Bartender55>
@@ -901,6 +909,15 @@
     <!-- EN: Glitterworlds are havens of safety and comfort for those lucky enough to live there, but [PAWN_nameDef] could not ignore nearby planets where people suffered in poverty. [PAWN_pronoun] spent [PAWN_possessive] working life appealing for donations and supporting those in need. -->
     <desc>Glittervärldar är tillflyktsorter för säkerhet och komfort för dem som har turen att bo där, men [PAWN_nameDef] kunde inte bortse från närliggande planeter där människor lider i fattigdom. [PAWN_pronoun] tillbringade sitt yrkesliv vädja för donationer och stödja de som behöver.</desc>
   </CharityWorker36>
+  
+  <Chemist54>
+    <!-- EN: Chemist -->
+    <title>TODO</title>
+    <!-- EN: Chemist -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] was a renowned chemist on a thriving midworld.\n\nAfter performing inhumane experiments that turned men into beasts, [PAWN_pronoun] was arrested and banished to a far-off rim world. -->
+    <desc>TODO</desc>
+  </Chemist54>
   
   <Chemist73>
     <!-- EN: chemist -->
@@ -1478,14 +1495,14 @@
     <desc>[PAWN_nameDef] gjorde det svettiga och smutsiga arbetet att dra metall ur asteroider på en rigg i yttre rymden. [PAWN_pronoun] använde sina praktiska industriella kompetens dagligen - och var inte dåligt i en barslagsmål heller.</desc>
   </DeepSpaceMiner3>
   
-  <DeepSpaceSurveor87>
-    <!-- EN: deep space surveor -->
+  <DeepSpaceSurveyor87>
+    <!-- EN: deep space surveyor -->
     <title>TODO</title>
     <!-- EN: surveyor -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] was a deep space surveyor. She studied which worlds were the most suitable for colonization.\n\nHer expeditions were met by hostile natives, green-painted space-women, and wannabe Greek gods. Surviving many firefights, she learned to build rudimentary lathes and rock cannons to fend off enemies. -->
     <desc>TODO</desc>
-  </DeepSpaceSurveor87>
+  </DeepSpaceSurveyor87>
   
   <Defector78>
     <!-- EN: defector -->
@@ -1506,9 +1523,9 @@
   </Defector95>
   
   <DefenseLawyer71>
-    <!-- EN: defense lawyer -->
+    <!-- EN: Defense lawyer -->
     <title>TODO</title>
-    <!-- EN: lawyer -->
+    <!-- EN: Lawyer -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] found that [PAWN_pronoun] could make more money with a quick word than a blaster. Seeking a job where [PAWN_possessive] silver tongue could be useful, [PAWN_pronoun] turned to the law.\n\n[PAWN_pronoun] often defended the illegal speeder racers [PAWN_pronoun] grew up with. -->
     <desc>TODO</desc>
@@ -1910,6 +1927,15 @@
     <desc>[PAWN_nameDef]'s föräldrar dog i en eld när [PAWN_pronoun] var sju. [PAWN_pronoun] växte upp på sin farbrors gård, plogade fält och gjorde manuellt arbete.\n\n[PAWN_pronoun] orkade inte att svara på frågor om sina föräldrar, så [PAWN_pronoun] ersatte social kontakt med hårt arbete.</desc>
   </FarmerBoy63>
   
+  <FarmersDaughter81>
+    <!-- EN: Farmer's daughter -->
+    <title>TODO</title>
+    <!-- EN: Farm girl -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] grew up on [PAWN_possessive] parents' vineyard. [PAWN_pronoun] spent [PAWN_possessive] youth exploring the land and making friends with various bugs and insects.\n\nHaving heard stories about all the fascinating things out there in the universe, [PAWN_pronoun] always dreamed of venturing out to see it for [PAWN_objective]self. -->
+    <desc>TODO</desc>
+  </FarmersDaughter81>
+  
   <FarmersSon51>
     <!-- EN: farmer's son -->
     <title>TODO</title>
@@ -2234,6 +2260,15 @@
     <desc>[PAWN_nameDef] arbetat med gruvarbetare och grotta-grävare med att identifiera bergarter och naturliga formationer.\n\nUnder sina år under jord fick [PAWN_pronoun] också erfarenhet reparera borrmaskiner och annan teknisk utrustning.</desc>
   </Geologist66>
   
+  <Gigolo99>
+    <!-- EN: Gigolo -->
+    <title>TODO</title>
+    <!-- EN: Gigolo -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] sold [PAWN_objective]self into slavery for money to purchase boomrat pizza. [PAWN_pronoun] was then traded to the Zeglar colonies, where he worked as a male prostitute.\n\nIn a fluke event, [PAWN_pronoun] managed to join other escaping slaves as they hijacked a ship. After fighting with the captain of the slave crew over the last piece of boomrat pizza, [PAWN_nameDef] was sent off the ship in an escape pod. -->
+    <desc>TODO</desc>
+  </Gigolo99>
+  
   <GlitterworldEmpath26>
     <!-- EN: glitterworld empath -->
     <title>Glittervärldsempat</title>
@@ -2486,14 +2521,14 @@
     <desc>TODO</desc>
   </HighBaroness29>
   
-  <HillbillyProdigy33>
+  <HillbillyProdigy85>
     <!-- EN: hillbilly prodigy -->
     <title>TODO</title>
     <!-- EN: hillbilly -->
     <titleShort>TODO</titleShort>
-    <!-- EN: Born on a cold hillbilly planet inhabited mainly by furred xenohumans, Benjamin grew up to the sound of bar fights and shootouts. Though his childhood was spent playing the banjo and working as a mechanic, his abnormal intelligence made him want something more; he entered medical school at age twenty. -->
+    <!-- EN: Born on a cold hillbilly planet inhabited mainly by furred xenohumans, Benjamin grew up to the sound of bar fights and shootouts. Though his childhood was spent playing the banjo and working as a mechanic, his abnormal intelligence made him want something more; he entered medical school at a young age. -->
     <desc>TODO</desc>
-  </HillbillyProdigy33>
+  </HillbillyProdigy85>
   
   <HiredAssassin2>
     <!-- EN: hired assassin -->
@@ -2836,6 +2871,15 @@
     <!-- EN: [PAWN_nameDef] independently developed software that had a competitive edge against local urbworld corporations.\n\n[PAWN_possessive] legally questionable methods lead to a growing number in unsolved claims of intellectual property theft. -->
     <desc>TODO</desc>
   </LazyProgrammer3>
+  
+  <LogicalChild2>
+    <!-- EN: Logical child -->
+    <title>TODO</title>
+    <!-- EN: Logic kid -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_pronoun] preferred logical activities like computers and was completely useless at art.\n\nBeing awkward in social situations, [PAWN_possessive] friends were few but close. -->
+    <desc>TODO</desc>
+  </LogicalChild2>
   
   <Loner40>
     <!-- EN: loner -->
@@ -3620,14 +3664,14 @@
     <desc>TODO</desc>
   </NobleWard81>
   
-  <Novelist28>
+  <Novelist7>
     <!-- EN: novelist -->
     <title>Författare</title>
     <!-- EN: novelist -->
     <titleShort>Författare</titleShort>
-    <!-- EN: [PAWN_nameDef] lived on a glitterworld, penning wildly successful novels. [PAWN_pronoun] lived a carefree lifestyle, spending [PAWN_possessive] days writing and [PAWN_possessive] nights partying...and never did a day's manual labour in [PAWN_possessive] life. -->
+    <!-- EN: [PAWN_nameDef] lived on a glitterworld, penning wildly successful novels. [PAWN_pronoun] lived a carefree lifestyle, spending [PAWN_possessive] days writing and [PAWN_possessive] nights partying - and never did a day's manual labour in [PAWN_possessive] life. -->
     <desc>[PAWN_nameDef] bodde på en glitterworld och skrev väldigt framgångsrika romaner. [PAWN_pronoun] levde en bekymmersfri livsstil, spendera sina dagar skriva och [PAWN_possessive] nätter festa ... och gjorde aldrig en dags manuellt arbete i sitt liv.</desc>
-  </Novelist28>
+  </Novelist7>
   
   <Nurse53>
     <!-- EN: nurse -->
@@ -3898,6 +3942,15 @@
     <!-- EN: [PAWN_nameDef] was enslaved as a child and forced to fight creatures and other people in an underground fighting arena.\n\n[PAWN_pronoun] showed an affinity for the sport, and eventually bought his own freedom. However, his time in the pits never brought him much intellectual stimulation. -->
     <desc>TODO</desc>
   </PitGladiator89>
+  
+  <PizzaLover37>
+    <!-- EN: Pizza lover -->
+    <title>TODO</title>
+    <!-- EN: Pizza kid -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] loved boomrat pizza intensely. Rarely eating anything else, he was prone to bad health and low oxygen uptake.\n\n[PAWN_pronoun] loved bashing in the skulls of random creatures to see what was inside. -->
+    <desc>TODO</desc>
+  </PizzaLover37>
   
   <PlagueChild44>
     <!-- EN: plague child -->
@@ -4304,6 +4357,15 @@
     <desc>[PAWN_nameDef] tillbringade många år som undersökande reporter. [PAWN_pronoun] var ökänd för att göra kaotiska rapporter från exotiska platser.\n\nTrots att [PAWN_pronoun] ses som en lättviktare av [PAWN_possessive] kritiker lyckades [PAWN_pronoun] bryta flera högprofilerade reportage efter långa undersökningar.</desc>
   </Reporter51>
   
+  <ReptileResearcher37>
+    <!-- EN: Reptile researcher -->
+    <title>TODO</title>
+    <!-- EN: Researcher -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: After leaving [PAWN_possessive] parents' vineyard, [PAWN_nameDef] traveled across much of known space, and learned many skills along the way.\n\n[PAWN_pronoun] spent most of [PAWN_possessive] time researching and interacting with reptile species. [PAWN_pronoun] was renowned for making several breakthroughs, and for discovering the "Thorny Devil". -->
+    <desc>TODO</desc>
+  </ReptileResearcher37>
+  
   <RichBoy23>
     <!-- EN: rich boy -->
     <title>TODO</title>
@@ -4412,6 +4474,15 @@
     <desc>TODO</desc>
   </Scavenger62>
   
+  <SchoolyardOutcast11>
+    <!-- EN: Schoolyard outcast -->
+    <title>TODO</title>
+    <!-- EN: Outcast -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] had a modest but proper upbringing. Despite a good family background and plenty of support, [PAWN_pronoun] struggled to make friends and was often bullied. [PAWN_pronoun] learned to work or play alone, and avoided socializing to avoid conflict.\n\nWhen conflict did arise, [PAWN_nameDef] would retaliate violently. -->
+    <desc>TODO</desc>
+  </SchoolyardOutcast11>
+  
   <ScienceProdigy16>
     <!-- EN: science prodigy -->
     <title>TODO</title>
@@ -4447,6 +4518,15 @@
     <!-- EN: Born to colonial administrators from a small imperial power, [PAWN_nameDef] was enrolled in a youth program that taught military scouting skills.\n\n[PAWN_pronoun] learned to survive in the wilderness, to obey, and not to ask questions. -->
     <desc>TODO</desc>
   </Scout94>
+  
+  <Scrounger25>
+    <!-- EN: Scrounger -->
+    <title>TODO</title>
+    <!-- EN: Scrounger -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] would dive into junk mounds in search for valuables and items of interest.\n\n[PAWN_pronoun] was never bothered by the stink, or dangers that could leave [PAWN_objective] wounded for weeks. -->
+    <desc>TODO</desc>
+  </Scrounger25>
   
   <Sculptor63>
     <!-- EN: sculptor -->
@@ -4943,14 +5023,14 @@
     <desc>TODO</desc>
   </SpecialForces30>
   
-  <SpeederRacer68>
-    <!-- EN: speeder racer -->
+  <SpeederRacer2>
+    <!-- EN: Speeder racer -->
     <title>TODO</title>
-    <!-- EN: racer -->
+    <!-- EN: Racer -->
     <titleShort>TODO</titleShort>
-    <!-- EN: Rusty was the son of a fern farmer in the towering forests of Khalderia.\n\nHe found his first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of his homeworld. The seedy underworld of racing also forced him to learn to defend himself with a quick word or a quicker shot. -->
+    <!-- EN: [PAWN_nameDef] was the son of a fern farmer in the towering forests of Khalderia.\n\n[PAWN_pronoun] found [PAWN_possessive] first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of his homeworld. The seedy underworld of racing also forced [PAWN_objective] to learn to defend [PAWN_objective]self with a quick word or a quicker shot. -->
     <desc>TODO</desc>
-  </SpeederRacer68>
+  </SpeederRacer2>
   
   <Spiceminer42>
     <!-- EN: spiceminer -->
@@ -5401,6 +5481,15 @@
     <!-- EN: Test subject #11,529,914 of experiment #56,048 spent her childhood in white rooms performing mental and physical tests.\n\nHer only companion was a voice that called itself Mother. Mother rewarded success with praise - and failure with harsh punishment. -->
     <desc>TODO</desc>
   </TestSubject90>
+  
+  <TheaterTechnician98>
+    <!-- EN: Theater technician -->
+    <title>TODO</title>
+    <!-- EN: Technician -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] spent countless hours behind the scenes of a famous theater. [PAWN_pronoun] built scenery, programmed lights, and monitored the machines that moved the sets.\n\nOff duty, [PAWN_pronoun] would talk with the cast members. Navigating the social drama of the actors helped [PAWN_pronoun] learn how to communicate well and manipulate others. -->
+    <desc>TODO</desc>
+  </TheaterTechnician98>
   
   <Tinkerer43>
     <!-- EN: tinkerer -->

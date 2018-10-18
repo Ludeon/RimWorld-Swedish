@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: person captured -->
+  <Captured.label>person fångad</Captured.label>
   <!-- EN:
     <li>tale_noun->[CAPTURER_nameDef] capturing [PRISONER_nameDef]</li>
     <li>tale_noun->[PRISONER_nameDef] being captured by [CAPTURER_nameDef]</li>
@@ -28,14 +30,13 @@
   -->
   <Captured.rulePack.rulesStrings>
     <li>TODO</li>
-   
   </Captured.rulePack.rulesStrings>
-  <!-- EN: person captured -->
-  <Captured.label>person fångad</Captured.label>
   
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeader.label>TODO</DefeatedHostileFactionLeader.label>
   
+  <!-- EN: surgery performed -->
+  <DidSurgery.label>operation utförd</DidSurgery.label>
   <!-- EN:
     <li>tale_noun->[SURGEON_nameDef] operating on [PATIENT_nameDef]</li>
     <li>tale_noun->[SURGEON_nameDef] performing a medical operation on [PATIENT_nameDef]</li>
@@ -54,11 +55,10 @@
   -->
   <DidSurgery.rulePack.rulesStrings>
     <li>TODO</li>
-
   </DidSurgery.rulePack.rulesStrings>
-  <!-- EN: surgery performed -->
-  <DidSurgery.label>operation utförd</DidSurgery.label>
   
+  <!-- EN: prisoner executed -->
+  <ExecutedPrisoner.label>fånge avrättad</ExecutedPrisoner.label>
   <!-- EN:
     <li>tale_noun->[executioner] executing [PRISONER_nameDef]</li>
     <li>tale_noun->[PRISONER_nameDef] being executed by [EXECUTIONER_nameDef]</li>
@@ -91,9 +91,9 @@
   <ExecutedPrisoner.rulePack.rulesStrings>
     <li>TODO</li>
   </ExecutedPrisoner.rulePack.rulesStrings>
-  <!-- EN: prisoner executed -->
-  <ExecutedPrisoner.label>fånge avrättad</ExecutedPrisoner.label>
   
+  <!-- EN: animal hunted -->
+  <Hunted.label>djur jagad</Hunted.label>
   <!-- EN:
     <li>tale_noun->[HUNTER_nameDef] hunting [PREY_nameDef]</li>
     <li>tale_noun->[PREY_nameDef] being hunted by [HUNTER_nameDef]</li>
@@ -110,11 +110,10 @@
   -->
   <Hunted.rulePack.rulesStrings>
     <li>TODO</li>
-
   </Hunted.rulePack.rulesStrings>
-  <!-- EN: animal hunted -->
-  <Hunted.label>djur jagad</Hunted.label>
   
+  <!-- EN: colonist kidnapped -->
+  <KidnappedColonist.label>kolonist kidnappad</KidnappedColonist.label>
   <!-- EN:
     <li>tale_noun->[KIDNAPPER_nameDef] kidnapping [VICTIM_nameDef]</li>
     <li>tale_noun->[VICTIM_nameDef] being kidnapped by [KIDNAPPER_nameDef]</li>
@@ -139,9 +138,9 @@
   <KidnappedColonist.rulePack.rulesStrings>
     <li>TODO</li>
   </KidnappedColonist.rulePack.rulesStrings>
-  <!-- EN: colonist kidnapped -->
-  <KidnappedColonist.label>kolonist kidnappad</KidnappedColonist.label>
   
+  <!-- EN: death -->
+  <KilledBy.label>TODO</KilledBy.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] killing [VICTIM_nameDef]</li>
     <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]</li>
@@ -173,8 +172,6 @@
   <KilledBy.rulePack.rulesStrings>
     <li>TODO</li>
   </KilledBy.rulePack.rulesStrings>
-  <!-- EN: death -->
-  <KilledBy.label>TODO</KilledBy.label>
   
   <!-- EN: colonist killed -->
   <KilledColonist.label>kolonist dödad</KilledColonist.label>
@@ -185,6 +182,8 @@
   <!-- UNUSED -->
   <KilledMajorColonyEnemy.label>UNUSED</KilledMajorColonyEnemy.label>
   
+  <!-- EN: person recruited -->
+  <Recruited.label>person rekryterad</Recruited.label>
   <!-- EN:
     <li>tale_noun->[RECRUITER_nameDef] recruiting [JOINER_nameDef]</li>
     <li>tale_noun->[JOINER_nameDef] being recruited by [RECRUITER_nameDef]</li>
@@ -204,11 +203,10 @@
   -->
   <Recruited.rulePack.rulesStrings>
     <li>TODO</li>
-
   </Recruited.rulePack.rulesStrings>
-  <!-- EN: person recruited -->
-  <Recruited.label>person rekryterad</Recruited.label>
   
+  <!-- EN: prisoner sold -->
+  <SoldPrisoner.label>fånge såld</SoldPrisoner.label>
   <!-- EN:
     <li>tale_noun->the selling of [PRISONER_nameDef] to a trader</li>
     <li>tale_noun->[SELLER_nameDef] selling [PRISONER_nameDef] as a slave</li>
@@ -234,9 +232,9 @@
   <SoldPrisoner.rulePack.rulesStrings>
     <li>TODO</li>
   </SoldPrisoner.rulePack.rulesStrings>
-  <!-- EN: prisoner sold -->
-  <SoldPrisoner.label>fånge såld</SoldPrisoner.label>
   
+  <!-- EN: animal tamed -->
+  <TamedAnimal.label>djur tämjt</TamedAnimal.label>
   <!-- EN:
     <li>tale_noun->the taming of [ANIMAL_nameDef] by [TAMER_nameDef]</li>
     <li>tale_noun->[TAMER_nameDef]'s taming of [ANIMAL_nameDef]</li>
@@ -256,11 +254,10 @@
   -->
   <TamedAnimal.rulePack.rulesStrings>
     <li>TODO</li>
-
   </TamedAnimal.rulePack.rulesStrings>
-  <!-- EN: animal tamed -->
-  <TamedAnimal.label>djur tämjt</TamedAnimal.label>
   
+  <!-- EN: traded with someone -->
+  <TradedWith.label>handla med någon</TradedWith.label>
   <!-- EN:
     <li>tale_noun->a trade between [SELLER_nameFull] and [BUYER_nameFull]</li>
     <li>image->[BUYER_nameFull] buying goods from [SELLER_nameFull] [circumstance_group]</li>
@@ -279,9 +276,9 @@
   <TradedWith.rulePack.rulesStrings>
     <li>TODO</li>
   </TradedWith.rulePack.rulesStrings>
-  <!-- EN: traded with someone -->
-  <TradedWith.label>handla med någon</TradedWith.label>
   
+  <!-- EN: animal trained -->
+  <TrainedAnimal.label>djur tränat</TrainedAnimal.label>
   <!-- EN:
     <li>tale_noun->[TRAINER_nameDef] training [ANIMAL_nameDef]</li>
     <li>tale_noun->the training of [ANIMAL_nameDef]</li>
@@ -319,7 +316,5 @@
   <TrainedAnimal.rulePack.rulesStrings>
     <li>TODO</li>
   </TrainedAnimal.rulePack.rulesStrings>
-  <!-- EN: animal trained -->
-  <TrainedAnimal.label>djur tränat</TrainedAnimal.label>
   
 </LanguageData>

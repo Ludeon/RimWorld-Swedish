@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: amniotic fluid -->
@@ -30,8 +30,8 @@
   <!-- EN: A puddle of flammable chemfuel. -->
   <Filth_Fuel.description>en pöl av brandfarligt kembränsle.</Filth_Fuel.description>
   
-  <!-- EN: human filth -->
-  <Filth_HumanFilth.label>människosmuts</Filth_HumanFilth.label>
+  <!-- UNUSED -->
+  <Filth_HumanFilth.label>UNUSED</Filth_HumanFilth.label>
   
   <!-- EN: building rubble -->
   <Filth_RubbleBuilding.label>byggrester</Filth_RubbleBuilding.label>

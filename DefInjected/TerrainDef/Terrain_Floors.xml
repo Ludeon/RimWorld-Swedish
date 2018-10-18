@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: blue carpet -->
@@ -7,58 +7,58 @@
   <CarpetBlue.description>Tåkramande plyschmatta i en kylig blå färg.</CarpetBlue.description>
   
   <!-- EN: cream carpet -->
-  <CarpetCream.label>gräddfärgad matta</CarpetCream.label>
+  <CarpetCream.label>varmvit matta</CarpetCream.label>
   <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>Inbjudande gräddfärgad matta.</CarpetCream.description>
+  <CarpetCream.description>Inbjudande varmvit matta.</CarpetCream.description>
   
   <!-- EN: dark carpet -->
-  <CarpetDark.label>mörk-grå matta</CarpetDark.label>
+  <CarpetDark.label>mörkgrå matta</CarpetDark.label>
   <!-- EN: Professional-looking dark gray carpet. -->
-  <CarpetDark.description>Proffsiga mörkgrå matta.</CarpetDark.description>
+  <CarpetDark.description>Proffessionell mörkgrå matta.</CarpetDark.description>
   
   <!-- EN: green carpet -->
-  <CarpetGreen.label>Grön matta</CarpetGreen.label>
+  <CarpetGreen.label>grön matta</CarpetGreen.label>
   <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
-  <CarpetGreen.description>Grön matta med en distinkt naturkänsla.</CarpetGreen.description>
+  <CarpetGreen.description>Naturlik grön matta. Moder jord vettu.</CarpetGreen.description>
   
   <!-- EN: red carpet -->
-  <CarpetRed.label>Röd matta</CarpetRed.label>
+  <CarpetRed.label>röd matta</CarpetRed.label>
   <!-- EN: Plush carpet in a lovely rose hue. -->
   <CarpetRed.description>Plyschmatta i en förtjusande rosnyans.</CarpetRed.description>
   
   <!-- EN: concrete -->
   <Concrete.label>betong</Concrete.label>
   <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
-  <Concrete.description>Snabbgjuten betong, snabb att ta sig fram över, men rätt ful. Du behöver kunna gräva ut marken för att gjuta denna.</Concrete.description>
+  <Concrete.description>Rå betong, snabb att ta sig fram över, men rätt fult.</Concrete.description>
   
   <!-- EN: gold tile -->
   <GoldTile.label>guldplattor</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
-  <GoldTile.description>Den vackraste och mest imponerande typ av golv. Mycket dyrt och kräver en hel del arbete för att bygga.</GoldTile.description>
+  <GoldTile.description>För högdragen överdådighet, inget slår guldplattor. De är mycket dyra och mycket vackra, folk kommer tro att du är otroligt snobbig om du faktiskt bor på dem.</GoldTile.description>
   
   <!-- EN: metal tile -->
   <MetalTile.label>metallplattor</MetalTile.label>
   <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>Metallplattor, för den där rymdskeppslooken.</MetalTile.description>
+  <MetalTile.description>Metallplattor, för den där rymdskeppslooken. De är fina och den jämna ytan ger en renlighetsbonus.</MetalTile.description>
   
   <!-- EN: paved tile -->
   <PavedTile.label>gjutet kakel</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>Funktionell betongkakel. Snabbt att ta sig fram över, men inte särskilt vackert.</PavedTile.description>
+  <PavedTile.description>Betongkakel. Billigt och snabbt att ta sig fram över men neutralt i fråga om stil och tar lång tid att lägga..</PavedTile.description>
   
   <!-- EN: silver tile -->
   <SilverTile.label>silverplattor</SilverTile.label>
   <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
-  <SilverTile.description>Dyrt och långsamt att bygga men väldgt snyggt. Passar perfekt i alla typer av lyxiga rum.</SilverTile.description>
+  <SilverTile.description>För en futuristisk men kunglig stil, silverplattor passar perfekt i lyxiga rum. De får en renhetsbonus.</SilverTile.description>
   
   <!-- EN: sterile tile -->
   <SterileTile.label>sterila plattor</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>Sterila plattor hjälper till att hålla rummet ren. Mycket användbart på sjukhus för att hindra patienter från att få olika infektioner. Neutral när det gäller utseende och mycket långsamt att bygga.</SterileTile.description>
+  <SterileTile.description>Sterila plattor med speciella renhetsegenskaper. Extra rena rum ökar resultaten i sjukhus och forskningslabb. Denna platta tarmycket lång tid att lägga.</SterileTile.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>Trägolv</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
-  <WoodPlankFloor.description>Golv av träplankor. För den där varma, hemlika känslan.</WoodPlankFloor.description>
+  <WoodPlankFloor.description>Golv av träplankor för den där varma hemlika känslan. Även om det går fort att lägga är det också lättandtändligt.</WoodPlankFloor.description>
   
 </LanguageData>

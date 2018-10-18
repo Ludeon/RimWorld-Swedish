@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: shield belt -->
   <Apparel_ShieldBelt.label>sköldbälte</Apparel_ShieldBelt.label>
-  <!-- EN: A single-person energy shield device. It will attempt to stop any rapidly-moving projectile or energy attack. It does nothing against melee attacks or shots from point-blank range. It prevents firing out the same as it prevents firing in. -->
-  <Apparel_ShieldBelt.description>En personlig energiskyddsanordning. Det kommer att försöka stoppa varje snabbt inkommande projektil eller energiattack som avfyrats på avstånd. Det gör skyddar inget mot närstridsattacker eller skott på närstidsavstånd. Det förhindrar både inkommande och utgående skott.</Apparel_ShieldBelt.description>
+  <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
+  <Apparel_ShieldBelt.description>En projektilskyddsanordning. Det kommer att försöka stoppa inkommande projektiler och splitter men det  skyddar inget mot närstridsattacker eller värme. Det förhindrar både inkommande och utgående skott. Och stänger av sig självt om det träffas av EMP.</Apparel_ShieldBelt.description>
   
   <!-- EN: smokepop belt -->
   <Apparel_SmokepopBelt.label>rökskyddsbälte</Apparel_SmokepopBelt.label>

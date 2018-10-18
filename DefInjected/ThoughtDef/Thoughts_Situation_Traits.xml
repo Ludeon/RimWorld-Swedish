@@ -1,18 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: ascetic has awful bedroom -->
   <Ascetic.stages.ascetic_has_awful_bedroom.label>asket med ett fruktansvärt sovrum</Ascetic.stages.ascetic_has_awful_bedroom.label>
   <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
   <Ascetic.stages.ascetic_has_awful_bedroom.description>Mitt sovrum är så jag vill att det ska vara. Mycket ödmjukt och enkelt.</Ascetic.stages.ascetic_has_awful_bedroom.description>
-  <!-- EN: ascetic has repulsive bedroom -->
-  <Ascetic.stages.ascetic_has_repulsive_bedroom.label>asket med ett frånstötande sovrum</Ascetic.stages.ascetic_has_repulsive_bedroom.label>
-  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
-  <Ascetic.stages.ascetic_has_repulsive_bedroom.description>Mitt sovrum är så jag vill att det ska vara. Mycket ödmjuk och enkel.</Ascetic.stages.ascetic_has_repulsive_bedroom.description>
   <!-- EN: ascetic has dull bedroom -->
   <Ascetic.stages.ascetic_has_dull_bedroom.label>asket med tråkigt sovrum</Ascetic.stages.ascetic_has_dull_bedroom.label>
-  <!-- EN: My bedroom is very humble and simple. I like it. -->
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
   <Ascetic.stages.ascetic_has_dull_bedroom.description>Mitt sovrum är mycket ödmjuk och enkel. Jag gillar det.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <!-- EN: ascetic has mediocre bedroom -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>TODO</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <!-- EN: My bedroom is very humble and simple. I like it. -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>TODO</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
   <!-- EN: ascetic has impressive bedroom -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
   <!-- EN: I don't like having an impressive bedroom. -->
@@ -41,6 +41,10 @@
   <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
   <!-- EN: I don't like having an impressive bedroom. -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>Jag tycker inte om att ha en imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  
+  <!-- UNUSED -->
+  <Ascetic.stages.ascetic_has_repulsive_bedroom.label>asket med ett frånstötande sovrum</Ascetic.stages.ascetic_has_repulsive_bedroom.label>
+  <Ascetic.stages.ascetic_has_repulsive_bedroom.description>Mitt sovrum är så jag vill att det ska vara. Mycket ödmjuk och enkel.</Ascetic.stages.ascetic_has_repulsive_bedroom.description>
   
   <!-- EN: brawler has ranged weapon -->
   <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>slagskämpe har ett avståndsvapen</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
@@ -109,27 +113,6 @@
   <NightOwlDuringTheNight.stages.night_owl_at_night.label>nattuggla på natten</NightOwlDuringTheNight.stages.night_owl_at_night.label>
   <!-- EN: I feel much better at night. -->
   <NightOwlDuringTheNight.stages.night_owl_at_night.description>Jag mår mycket bättre på natten.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
-  
-  <!-- EN: artificial body uneasiness -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_uneasiness.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_uneasiness.label>
-  <!-- EN: Two artificial body parts were okay, but having three is bothersome. I miss my natural, clean body. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_uneasiness.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_uneasiness.description>
-  <!-- EN: artificial body squeamishness -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_squeamishness.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_squeamishness.label>
-  <!-- EN: I have four artificial body parts. Even if they're necessary, I still wish I could be natural again. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_squeamishness.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_squeamishness.description>
-  <!-- EN: artificial body discomfort -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_discomfort.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_discomfort.label>
-  <!-- EN: Five artificial body parts. It's like I click and creak when I move. I wish I could just be a healthy again, without these reminders of pain. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_discomfort.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_discomfort.description>
-  <!-- EN: artificial body disgust -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_disgust.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_disgust.label>
-  <!-- EN: Six artificial body parts is too much. It's like I'm becoming an android. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_disgust.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_disgust.description>
-  <!-- EN: artificial body horror -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_horror.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_horror.label>
-  <!-- EN: I never asked for this. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_horror.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_horror.description>
   
   <!-- EN: transhumanist pleased -->
   <ProsthophileHappy.stages.transhumanist_pleased.label>prostetofil har bionisk kroppsdel</ProsthophileHappy.stages.transhumanist_pleased.label>

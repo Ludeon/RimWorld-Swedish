@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: animal bed -->
@@ -117,12 +117,12 @@
   <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
   <Stool.description>En enkel och plan konstruktion att sitta på. Inte särskilt bekväm men bättre än inget alls. Kan användas vid bord,arbetsplatser och på andra ställen.</Stool.description>
   
-  <!-- EN: Off for plant resting period -->
-  <SunLamp.comps.CompSchedule.offMessage>Avstängd under växternas viloperiod.</SunLamp.comps.CompSchedule.offMessage>
   <!-- EN: sun lamp -->
   <SunLamp.label>sollampa</SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
   <SunLamp.description>En lampa av industrigrad som lyser upp ett område starkt nog för att odla grödor, men förbrukar en enorm mängd el. Stänger automatiskt av sig nattetid.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>Avstängd under växternas viloperiod.</SunLamp.comps.CompSchedule.offMessage>
   
   <!-- EN: table (1x2) -->
   <Table1x2c.label>bord (1x2)</Table1x2c.label>
@@ -134,24 +134,10 @@
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table2x2c.description>Folk äter vid bord när stolar är placerade vända mot dem.</Table2x2c.description>
   
-  <!-- UNUSED -->
-  <Table2x2c_Blueprint.label>UNUSED</Table2x2c_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Table2x2c_Frame.label>UNUSED</Table2x2c_Frame.label>
-  <Table2x2c_Frame.description>UNUSED</Table2x2c_Frame.description>
-  
   <!-- EN: table (2x4) -->
   <Table2x4c.label>bord (2x4)</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table2x4c.description>Folk äter vid bord när stolar är placerade vända mot dem.</Table2x4c.description>
-  
-  <!-- UNUSED -->
-  <Table2x4c_Blueprint.label>UNUSED</Table2x4c_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Table2x4c_Frame.label>UNUSED</Table2x4c_Frame.label>
-  <Table2x4c_Frame.description>UNUSED</Table2x4c_Frame.description>
   
   <!-- EN: table (3x3) -->
   <Table3x3c.label>bord (3x3)</Table3x3c.label>

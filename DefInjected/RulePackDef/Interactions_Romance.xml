@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -16,7 +16,7 @@
   </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>sent->It was too much for the relationship to continue, and the two have now broken up.TODO</li>
+    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
   -->
   <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
     <li>sent->det blev för mycket för förhållandet att kunna fortsätta så dom två har du gjort slut.</li>

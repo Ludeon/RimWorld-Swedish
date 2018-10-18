@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Inject {0} -->
-  <GoJuice.ingestible.ingestCommandString>Injicera {0}</GoJuice.ingestible.ingestCommandString>
-  <!-- EN: Injecting {0}. -->
-  <GoJuice.ingestible.ingestReportString>Injicerade {0}.</GoJuice.ingestible.ingestReportString>
   <!-- EN: go-juice -->
   <GoJuice.label>gå-juice</GoJuice.label>
   <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities.\n\nMilitary chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
   <GoJuice.description>Ett syntetisk prestationshöjande läkemedel som utvecklats för rymdsoldater under de första dagarna av interplanetär krigföring. Gå-juice blockerar smärta och ökar användarens förflyttningshastighet, närstrids- och skytte- förmågor.\n\nDe militära kemisterna som skapade dettta lyckades aldrig få bort faktumet att det blev beroendeframkallande. Vissa såg detta som en nackdel; andra såg det som en fördel.</GoJuice.description>
+  <!-- EN: Inject {0} -->
+  <GoJuice.ingestible.ingestCommandString>Injicera {0}</GoJuice.ingestible.ingestCommandString>
+  <!-- EN: Injecting {0}. -->
+  <GoJuice.ingestible.ingestReportString>Injicerade {0}.</GoJuice.ingestible.ingestReportString>
   
 </LanguageData>

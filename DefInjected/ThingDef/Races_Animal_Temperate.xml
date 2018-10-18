@@ -1,17 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: caribou -->
+  <Caribou.label>caribou</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Caribou.description>
   <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>TODO</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Caribou.tools.right_hoof.label>TODO</Caribou.tools.right_hoof.label>
   <!-- EN: head -->
   <Caribou.tools.head.label>TODO</Caribou.tools.head.label>
-  <!-- EN: caribou -->
-  <Caribou.label>caribou</Caribou.label>
-  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Caribou.description>
   
+  <!-- EN: deer -->
+  <Deer.label>rådjur</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>En medelstor gräsätande. Generellt fred om den inte blir störd.</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>TODO</Deer.race.meatLabel>
   <!-- EN: left hoof -->
   <Deer.tools.left_hoof.label>TODO</Deer.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -20,51 +26,45 @@
   <Deer.tools.teeth.label>TODO</Deer.tools.teeth.label>
   <!-- EN: head -->
   <Deer.tools.head.label>TODO</Deer.tools.head.label>
-  <!-- EN: venison -->
-  <Deer.race.meatLabel>TODO</Deer.race.meatLabel>
-  <!-- EN: deer -->
-  <Deer.label>rådjur</Deer.label>
-  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. Being very docile by nature, deer don't attack even if harmed. -->
-  <Deer.description>En medelstor gräsätande. Generellt fred om den inte blir störd.</Deer.description>
   
+  <!-- EN: elk -->
+  <Elk.label>älg</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Elk.description>
   <!-- EN: left hoof -->
   <Elk.tools.left_hoof.label>TODO</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Elk.tools.right_hoof.label>TODO</Elk.tools.right_hoof.label>
   <!-- EN: head -->
   <Elk.tools.head.label>TODO</Elk.tools.head.label>
-  <!-- EN: elk -->
-  <Elk.label>älg</Elk.label>
-  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>En stor medlem av hjortfamiljen, väl anpassad till livet i ett kallt klimat.</Elk.description>
   
+  <!-- EN: ibex -->
+  <Ibex.label>stenbock</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>Den härdad vilda anfader till vår domesticerade get. Stenbockar bor på små område som de flesta antiloper inte skulle kunna överleva, ätandes lavar och glesa fjällväxter. De är kända för vigt hoppande över kala klippor och för deras våldsamma ramattack.</Ibex.description>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>TODO</Ibex.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Ibex.tools.right_hoof.label>TODO</Ibex.tools.right_hoof.label>
   <!-- EN: head -->
   <Ibex.tools.head.label>TODO</Ibex.tools.head.label>
-  <!-- EN: ibex -->
-  <Ibex.label>stenbock</Ibex.label>
-  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>Den härdad vilda anfader till vår domesticerade get. Stenbockar bor på små område som de flesta antiloper inte skulle kunna överleva, ätandes lavar och glesa fjällväxter. De är kända för vigt hoppande över kala klippor och för deras våldsamma ramattack.</Ibex.description>
   
-  <!-- EN: beak -->
-  <Tortoise.tools.beak.label>TODO</Tortoise.tools.beak.label>
-  <!-- EN: head -->
-  <Tortoise.tools.head.label>TODO</Tortoise.tools.head.label>
   <!-- EN: tortoise -->
   <Tortoise.label>sköldpadda</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
   <Tortoise.description>Detta tungt bepansrade landlevande reptil är känd för sin långsamma hastighet och sitt förvånansvärt onda bett.</Tortoise.description>
-  
-  <!-- EN: tusk -->
-  <WildBoar.tools.tusk.label>TODO</WildBoar.tools.tusk.label>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>TODO</Tortoise.tools.beak.label>
   <!-- EN: head -->
-  <WildBoar.tools.head.label>TODO</WildBoar.tools.head.label>
+  <Tortoise.tools.head.label>TODO</Tortoise.tools.head.label>
+  
   <!-- EN: wild boar -->
   <WildBoar.label>vildsvin</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
   <WildBoar.description>Trots att det anses orent i vissa kulturer anses denna håriga förfader till den tama grisen vara prisad för den vilda smaken på köttet.</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>TODO</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>TODO</WildBoar.tools.head.label>
   
 </LanguageData>

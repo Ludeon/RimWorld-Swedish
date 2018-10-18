@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: ancient cryptosleep casket -->
-  <AncientCryptosleepCasket.label>gammal kryptosömnkapsel</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>uråldrig kryptosömnkapsel</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
   <AncientCryptosleepCasket.description>Det verkar som denna kryptosömnkapseln har varit förseglad under väldigt lång tid. Vem vet vad den kan inehålla?</AncientCryptosleepCasket.description>
   
@@ -21,12 +21,12 @@
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
   <CryptosleepCasket.description>En med elförsörjning självdriven kapsel som skapats för att hålla en person i dvala under en längre tid.</CryptosleepCasket.description>
   
-  <!-- EN: Trigger firefoam popper -->
-  <FirefoamPopper.comps.CompUsable.useLabel>Aktivera brandskumssmällare</FirefoamPopper.comps.CompUsable.useLabel>
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>brandskumssmällare</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
   <FirefoamPopper.description>När den upptäcker eld smäller denna mekanism och sprejar ett skummande brandskyddsmedel i en cirkel runt sig själv. Kan även aktiveras manuellt</FirefoamPopper.description>
+  <!-- EN: Trigger firefoam popper -->
+  <FirefoamPopper.comps.CompUsable.useLabel>Aktivera brandskumssmällare</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
   <Grave.label>grav</Grave.label>
@@ -40,8 +40,8 @@
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>långdistans mineralscanner</LongRangeMineralScanner.label>
-  <!-- EN: Automatically detects precious minerals like gold or jade in destinations across the planet. The lumps are found on average once per 30 days within a radius of 30 planet tiles. Building more than one scanner in the same or nearby areas has little to no effect. -->
-  <LongRangeMineralScanner.description>Detekterar automatiskt värdefulla mineraler som guld eller jade på olika ställen över planeten. Klumparna hittas i genomsnitt en gång per 30 dagar inom en radie av 30 plattor. Att bygga mer än en skanner i samma eller närliggande områden har liten eller ingen effekt.</LongRangeMineralScanner.description>
+  <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
+  <LongRangeMineralScanner.description>Kan användas av forskare för att upptäcka en specifik mineral över planeten. Tiden det tar för att upptäcka mineralen är lite slumpvis, och beror även på forskarens färdighet.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
   <MarriageSpot.label>bröllopsplats</MarriageSpot.label>

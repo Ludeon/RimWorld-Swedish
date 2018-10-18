@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: botched my surgery -->
@@ -77,8 +77,8 @@
   
   <!-- EN: honeymoon phase -->
   <HoneymoonPhase.stages.honeymoon_phase.label>smakmånadsfas</HoneymoonPhase.stages.honeymoon_phase.label>
-  <HoneymoonPhase.stages.honeymoon_phase.labelSocial>smakmånadsfas</HoneymoonPhase.stages.honeymoon_phase.labelSocial>
   <HoneymoonPhase.stages.honeymoon_phase.description>Det är så underbart att starta ett nytt liv tillsammans!</HoneymoonPhase.stages.honeymoon_phase.description>
+  <HoneymoonPhase.stages.honeymoon_phase.labelSocial>smakmånadsfas</HoneymoonPhase.stages.honeymoon_phase.labelSocial>
   
   <!-- EN: insulted -->
   <Insulted.stages.insulted.label>förolämpad</Insulted.stages.insulted.label>
@@ -168,16 +168,16 @@
   
   <!-- EN: bonded animal sold -->
   <SoldMyBondedAnimal.stages.bonded_animal_sold.label>bundet djur sålt</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
-  <!-- EN: sold my bonded animal -->
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>sålde mitt bundna djur</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
   <!-- EN: My special bonded animal was sold to a trader! -->
   <SoldMyBondedAnimal.stages.bonded_animal_sold.description>Min speciella bundna djur såldes till en handlare!</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
+  <!-- EN: sold my bonded animal -->
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>sålde mitt bundna djur</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
   
   <!-- EN: loved one sold -->
   <SoldMyLovedOne.stages.loved_one_sold.label>älskade såld</SoldMyLovedOne.stages.loved_one_sold.label>
-  <!-- EN: sold my loved one -->
-  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>sålde min älskade</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
   <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
   <SoldMyLovedOne.stages.loved_one_sold.description>Någon som jag älskar såldes till en handelsman som en bit kött!</SoldMyLovedOne.stages.loved_one_sold.description>
+  <!-- EN: sold my loved one -->
+  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>sålde min älskade</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
   
 </LanguageData>

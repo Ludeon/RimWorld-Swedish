@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: luciferium -->
+  <Luciferium.label>luciferium</Luciferium.label>
+  <!-- EN: A concoction of mechanites that dramatically improve the body's functioning in all respects. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.\n\nAfter the first dose, there is no way to get the mechanites out, ever.\n\nOn the urbworlds, they call Luciferium the 'Devil's Bargain'. Many have been forced to kill friends when no more of the seductive red pills could be found. -->
+  <Luciferium.description>Ett hopkok av mekaniter som dramatiskt förbättrar kroppens funktioner i alla avseenden. Över tid kan det även läka gamla ärr eller hjärnskador, det kan däremot inte regenerera förlorade kroppsdelar. Tyvärr är det så att utan de dämpande effekterna av regelbunden dosering var femte eller sjätte dag, förlorar mekaniterna sin kohension, vilket orsakar ständiga utbrott då användaren går bersärkargång och tillslut dör.\n\nEfter den första dosen finns det inget sätt att få ut mekaniterna, någonsin.\n\nPå urbanvärldarna kallas Luciferium för "Djävulens Förhandling". Många har tvingats att döda sina vänner när inga fler av de förföriska röda pillren kunde hittas.</Luciferium.description>
   <!-- EN: Take {0} -->
   <Luciferium.ingestible.ingestCommandString>Ta {0}</Luciferium.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
   <Luciferium.ingestible.ingestReportString>Tar {0}.</Luciferium.ingestible.ingestReportString>
-  <!-- EN: luciferium -->
-  <Luciferium.label>luciferium</Luciferium.label>
-  <!-- EN: A concoction of mechanites that dramatically improve the body's functioning in all respects. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.\n\nAfter the first dose, there is no way to get the mechanites out, ever.\n\nOn the urbworlds, they call Luciferium the 'Devil's Bargain'. Many have been forced to kill friends when no more of the seductive red pills could be found. -->
-  <Luciferium.description>Ett hopkok av mekaniter som dramatiskt förbättrar kroppens funktioner i alla avseenden. Över tid kan det även läka gamla ärr eller hjärnskador, det kan däremot inte regenerera förlorade kroppsdelar. Tyvärr är det så att utan de dämpande effekterna av regelbunden dosering var femte eller sjätte dag, förlorar mekaniterna sin kohension, vilket orsakar ständiga utbrott då användaren går bersärkargång och  tillslut dör.\n\nEfter den första dosen finns det inget sätt att få ut mekaniterna, någonsin.\n\nPå urbanvärldarna kallas Luciferium för "Djävulens Förhandling". Många har tvingats att döda sina vänner när inga fler av de förföriska röda pillren kunde hittas.</Luciferium.description>
   
 </LanguageData>

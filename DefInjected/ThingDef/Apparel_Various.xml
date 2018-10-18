@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: T-shirt -->
@@ -51,14 +51,14 @@
   <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
   <Apparel_PlateArmor.description>Överlappande solida skyddande plattor som skyddar hela kroppen från nacken och nedåt.</Apparel_PlateArmor.description>
   
-  <!-- EN: power armor -->
-  <Apparel_PowerArmor.label>kraftrustning</Apparel_PowerArmor.label>
-  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks. Neuro-memetic robotics allow a human to wear the heavy armor and still be capable of moving easily.\n\nPowered armor usually used by heavy infantry and space marines from spacer-tech militaries. -->
-  <Apparel_PowerArmor.description>En eldriven kropsrustning. Lager av plastålvävda plattor är mycket effektiva på att skydda inkommande attacker. robotteknologin inom neuromemetik tillåter människor att bära denna tunga rustning och fortfarande kunna röra sig snabbt och smidigt.\n\nKraftrustningar används ofta av tungt infanteri och rymdsoldater från rymdtekniksk militär.</Apparel_PowerArmor.description>
+  <!-- EN: marine armor -->
+  <Apparel_PowerArmor.label>marinsoldatsrustning</Apparel_PowerArmor.label>
+  <!-- EN: A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <Apparel_PowerArmor.description>En lätt eldriven kroppsrustning. Lager av plastålvävda plattor är mycket effektiva på att skydda inkommande attacker, med några få känsliga ledade delar. Neurometiska hjälpare tillåter en människa att bära denna rustning och fortfarande kunna röra sig smidigt.\n\Skydd som detta används ofta av kejserliga janissarier och rymd-marinsoldaternas insatsstyrka.</Apparel_PowerArmor.description>
   
   <!-- EN: tribalwear -->
-  <Apparel_TribalA.label>stamkläder</Apparel_TribalA.label>
+  <Apparel_TribalA.label>kroppsskynke</Apparel_TribalA.label>
   <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
-  <Apparel_TribalA.description>En utstyrsel gjord med hjälp av stenåldersverktyg.Även om det ser primitivt ut isolerar det effektivt bäraren.  </Apparel_TribalA.description>
+  <Apparel_TribalA.description>En utstyrsel gjord med hjälp av stenåldersverktyg.Även om det ser primitivt ut isolerar den effektivt bäraren.</Apparel_TribalA.description>
   
 </LanguageData>

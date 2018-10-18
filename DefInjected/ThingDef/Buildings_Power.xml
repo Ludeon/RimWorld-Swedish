@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: battery -->
@@ -10,9 +10,9 @@
   <Blueprint_FueledGenerator.label>UNUSED</Blueprint_FueledGenerator.label>
   
   <!-- EN: chemfuel powered generator -->
-  <ChemfuelPoweredGenerator.label>TODO</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.label>generator driven av kembränsle</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
-  <ChemfuelPoweredGenerator.description>TODO</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator.description>Producerar el genom att använda kembränsle. Måste fyllas på för hand.</ChemfuelPoweredGenerator.description>
   
   <!-- UNUSED -->
   <Frame_FueledGenerator.label>UNUSED</Frame_FueledGenerator.label>
@@ -40,8 +40,8 @@
   
   <!-- EN: watermill generator -->
   <WatermillGenerator.label>vattenkvarnsgenerator</WatermillGenerator.label>
-  <!-- EN: Produces electricity from river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generated and reduces each other's power generation. -->
-  <WatermillGenerator.description>Producerar elektrecitet från vattendrag i rörelse. Måste placeras med vattenhjulet i rinnande vatten. Om vattenkvarnar placeras för nära varandra kommer turbulensen de genererar minska varandras elproduktion.</WatermillGenerator.description>
+  <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  <WatermillGenerator.description>Producerar elektrecitet från exempelvis älvar. Måste placeras med vattenhjulet i strömmande vatten. Om vattenkvarnar placeras för nära varandra kommer turbulensen de genererar störa, och minska elproduktion.</WatermillGenerator.description>
   
   <!-- EN: waterproof conduit -->
   <WaterproofConduit.label>vattentät elledning</WaterproofConduit.label>

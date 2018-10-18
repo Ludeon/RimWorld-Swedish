@@ -1,33 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: mandibles -->
-  <Megascarab.tools.mandibles.label>TODO</Megascarab.tools.mandibles.label>
-  <!-- EN: head -->
-  <Megascarab.tools.head.label>TODO</Megascarab.tools.head.label>
   <!-- EN: megascarab -->
   <Megascarab.label>jätteskalbagge</Megascarab.label>
   <!-- EN: A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually. -->
   <Megascarab.description>En stor, genetiskt tillverkad skalbagge. En gång arbetstsklassen av ett konstgjort ekosystem av insektoider utformade för att bekämpa mekanoid invasioner, är det nu vanligare att dom ses utan sina dödligare insektoidkusiner. Fortfarande görs dess storlek och hårda skal dom farliga när det attackerar. En eusocial varelse som inte kan reproducera sig individuellt.</Megascarab.description>
+  <!-- EN: mandibles -->
+  <Megascarab.tools.mandibles.label>TODO</Megascarab.tools.mandibles.label>
+  <!-- EN: head -->
+  <Megascarab.tools.head.label>TODO</Megascarab.tools.head.label>
   
+  <!-- EN: megaspider -->
+  <Megaspider.label>jättespindel</Megaspider.label>
+  <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
+  <Megaspider.description>Egentligen inte en spindel. Jättespindel är en genetisk tillverkad jätteinsektiod med samma storlek som en björn. Designad för tungt arbete och strid. Dess tjocka kitinpansar gör den svår att döda och dess långa dödliga klyvande blad gör den dödligt.</Megaspider.description>
+  <!-- EN: insect meat -->
+  <Megaspider.race.meatLabel>TODO</Megaspider.race.meatLabel>
   <!-- EN: head claw -->
   <Megaspider.tools.head_claw.label>TODO</Megaspider.tools.head_claw.label>
   <!-- EN: head -->
   <Megaspider.tools.head.label>TODO</Megaspider.tools.head.label>
-  <!-- EN: insect meat -->
-  <Megaspider.race.meatLabel>TODO</Megaspider.race.meatLabel>
-  <!-- EN: megaspider -->
-  <Megaspider.label>jättespindel</Megaspider.label>
-  <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long deadly ripper-blades make it deadly. -->
-  <Megaspider.description>Egentligen inte en spindel. Jättespindel är en genetisk tillverkad jätteinsektiod med samma storlek som en björn. Designad för tungt arbete och strid. Dess tjocka kitinpansar gör den svår att döda och dess långa dödliga klyvande blad gör den dödligt.</Megaspider.description>
   
+  <!-- EN: spelopede -->
+  <Spelopede.label>speloped</Spelopede.label>
+  <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
+  <Spelopede.description>En medelstor genetiskt tillverkad insekt ungefär lika stor som ett får. Spelopeden är medelklassen av en bikupa och får ta hand om de flesta arbetsuppgifter samt slåss med sina klor.</Spelopede.description>
   <!-- EN: head claw -->
   <Spelopede.tools.head_claw.label>TODO</Spelopede.tools.head_claw.label>
   <!-- EN: head -->
   <Spelopede.tools.head.label>TODO</Spelopede.tools.head.label>
-  <!-- EN: spelopede -->
-  <Spelopede.label>speloped</Spelopede.label>
-  <!-- EN: A medium-sized bioengineered bug the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. -->
-  <Spelopede.description>En medelstor genetiskt tillverkad insekt ungefär lika stor som ett får. Spelopeden är medelklassen av en bikupa och får ta hand om de flesta arbetsuppgifter samt slåss med sina klor.</Spelopede.description>
   
 </LanguageData>

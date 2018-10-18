@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: advanced helmet -->
@@ -16,10 +16,10 @@
   <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
   <Apparel_CowboyHat.description>Denna eleganta men ändå robusta hatt håller sol och regn borta - och ger den dom bär den lite extra charm. Det är den viktigaste delen av den traditionella western-klädseln.</Apparel_CowboyHat.description>
   
-  <!-- EN: power armor helmet -->
-  <Apparel_PowerArmorHelmet.label>kraftrustningshjälm</Apparel_PowerArmorHelmet.label>
-  <!-- EN: A powered-armor helmet, with built-in status computer and layered plasteel armor. Usually used by heavy infantry and space marines in spacer-tech militaries. -->
-  <Apparel_PowerArmorHelmet.description>En kraftutrustningshjälm med en inbyggd statusuppdaterande dator och med skikt av plastål. Brukar användas av tungt infanteri och rymdsoldater inom rymdteknisk militär.</Apparel_PowerArmorHelmet.description>
+  <!-- EN: marine helmet -->
+  <Apparel_PowerArmorHelmet.label>marinsoldatshjälm</Apparel_PowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <Apparel_PowerArmorHelmet.description>En marinsoldatshjälm med en inbyggd statusuppdaterande dator och med skikt av plastål.\n\nSkydd som detta används ofta av kejserliga janissarier och rymd-marinsoldaternas insatsstyrka.</Apparel_PowerArmorHelmet.description>
   
   <!-- EN: psychic foil helmet -->
   <Apparel_PsychicFoilHelmet.label>foliehatt</Apparel_PsychicFoilHelmet.label>

@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: raw humanlike meat eaten -->
+  <AteRawHumanlikeMeat.label>ätit rå människoliknande kött</AteRawHumanlikeMeat.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s eating of human meat</li>
     <li>image->[PAWN_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</li>
@@ -53,12 +55,12 @@
     <li>desc_sentence->köttet glittrar och verkar väldigt saftigt.</li>
     <li>desc_sentence->köttet spiller överallt över [pawn_nameShortDef]'s kropp.</li>
   </AteRawHumanlikeMeat.rulePack.rulesStrings>
-  <!-- EN: raw humanlike meat eaten -->
-  <AteRawHumanlikeMeat.label>ätit rå människoliknande kött</AteRawHumanlikeMeat.label>
   
   <!-- EN: humanlike corpse butchered -->
   <ButcheredHumanlikeCorpse.label>människolik kropp slaktad</ButcheredHumanlikeCorpse.label>
   
+  <!-- EN: art crafted -->
+  <CraftedArt.label>konst tillverkad</CraftedArt.label>
   <!-- EN:
     <li>tale_noun->the time [PAWN_nameDef] crafted [THING_indefinite]</li>
     <li>image->[PAWN_nameFull] crafting [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
@@ -113,9 +115,9 @@
     <li>title_sentence->[thing_labelDefinite] är utsmyckad med sin titel: [thing_title]</li>
     <li>title_sentence->Titeln till [thing_labelDefinite], [thing_title], hänger i bakgrunden</li>
   </CraftedArt.rulePack.rulesStrings>
-  <!-- EN: art crafted -->
-  <CraftedArt.label>konst tillverkad</CraftedArt.label>
   
+  <!-- EN: drunk -->
+  <Drunk.label>fylla</Drunk.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s extreme drunkenness</li>
     <li>tale_noun->[PAWN_nameDef] getting extremely drunk</li>
@@ -179,9 +181,9 @@
     <li>desc_sentence->[pawn_pronoun] verkar ha förlorat sina skor.</li>
     <li>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</li>
   </Drunk.rulePack.rulesStrings>
-  <!-- EN: drunk -->
-  <Drunk.label>fylla</Drunk.label>
   
+  <!-- EN: research project finished -->
+  <FinishedResearchProject.label>forskningsprojekt klart</FinishedResearchProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] finishing research on [PROJECT_label]</li>
     <li>image->[PAWN_nameFull] working on [PROJECT_label] research project [circumstance_group]</li>
@@ -210,9 +212,9 @@
     <li>desc_sentence->[pawn_nameShortDef] är helt omgiven av en rad verktyg och apparater.</li>
     <li>desc_sentence->[pawn_nameShortDef] stirrar på [pawn_possessive] upptäckt med en känsla av underverk.</li>
   </FinishedResearchProject.rulePack.rulesStrings>
-  <!-- EN: research project finished -->
-  <FinishedResearchProject.label>forskningsprojekt klart</FinishedResearchProject.label>
   
+  <!-- EN: landed in pod -->
+  <LandedInPod.label>lander i en kapsen</LandedInPod.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s landing in a drop pod</li>
     <li>image->[PAWN_nameFull] landing in a drop pod [circumstance_group]</li>
@@ -259,9 +261,9 @@
     <li>desc_sentence->Det är en [terrainfeature] i bakgrunden.</li>
     <li>desc_sentence->En [outlander] tittar tyst i fjärran.</li>
   </LandedInPod.rulePack.rulesStrings>
-  <!-- EN: landed in pod -->
-  <LandedInPod.label>lander i en kapsen</LandedInPod.label>
   
+  <!-- EN: berserk rage -->
+  <MentalStateBerserk.label>bärsärk ilska</MentalStateBerserk.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] going berserk</li>
     <li>image->[PAWN_nameFull] flying into a berserk rage [circumstance_group]</li>
@@ -312,9 +314,9 @@
     <li>desc_sentence->[pawn_possessive] ansiktet verkar fast i en blick av vridet lugn.</li>
     <li>desc_sentence->En ensam tår droppar ifrån [pawn_possessive] kind.</li>
   </MentalStateBerserk.rulePack.rulesStrings>
-  <!-- EN: berserk rage -->
-  <MentalStateBerserk.label>bärsärk ilska</MentalStateBerserk.label>
   
+  <!-- EN: gave up -->
+  <MentalStateGaveUp.label>ger upp</MentalStateGaveUp.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] giving up in despair</li>
     <li>image->[PAWN_nameFull] finally giving up under stress [circumstance_group]</li>
@@ -357,9 +359,9 @@
     <li>desc_sentence->[pawn_pronoun] verkar ha förlorat en sko.</li>
     <li>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</li>
   </MentalStateGaveUp.rulePack.rulesStrings>
-  <!-- EN: gave up -->
-  <MentalStateGaveUp.label>ger upp</MentalStateGaveUp.label>
   
+  <!-- EN: struck mineable -->
+  <StruckMineable.label>hittade mineraler</StruckMineable.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] striking [THING_label]</li>
     <li>image->[PAWN_nameFull] striking [THING_label] [circumstance_group]</li>
@@ -392,9 +394,9 @@
     <li>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</li>
     <li>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</li>
   </StruckMineable.rulePack.rulesStrings>
-  <!-- EN: struck mineable -->
-  <StruckMineable.label>hittade mineraler</StruckMineable.label>
   
+  <!-- EN: vomited -->
+  <Vomited.label>kräks</Vomited.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s vomiting</li>
     <li>image->[PAWN_nameFull] spewing vomit onto the ground [circumstance_group]</li>
@@ -433,9 +435,9 @@
     <li>desc_sentence->[pawn_pronoun] är omgiven av en konstnärligt utförda gloria av smuts.</li>
     <li>desc_sentence->En [animal] äter från rännilen av spya i bakgrunden.</li>
   </Vomited.rulePack.rulesStrings>
-  <!-- EN: vomited -->
-  <Vomited.label>kräks</Vomited.label>
   
+  <!-- EN: walked naked -->
+  <WalkedNaked.label>går naken</WalkedNaked.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] walking around naked</li>
     <li>image->[PAWN_nameFull] [nude_action] while in a state of nature [circumstance_group]</li>
@@ -486,9 +488,9 @@
     <li>desc_sentence->[pawn_nameShortDef] andas tungt utan uppenbar anledning.</li>
     <li>desc_sentence->[pawn_nameShortDef] smeker en buske.</li>
   </WalkedNaked.rulePack.rulesStrings>
-  <!-- EN: walked naked -->
-  <WalkedNaked.label>går naken</WalkedNaked.label>
   
+  <!-- EN: on fire -->
+  <WasOnFire.label>brinner</WasOnFire.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] catching fire</li>
     <li>image->[PAWN_nameFull] frantically beating out a fire attached to [PAWN_possessive] body [circumstance_group]</li>
@@ -529,7 +531,5 @@
     <li>desc_sentence->En plym av rök stiger ifrån [pawn_objective].</li>
     <li>desc_sentence->[pawn_pronoun] görs konstnärligt på ett likformigt sätt.</li>
   </WasOnFire.rulePack.rulesStrings>
-  <!-- EN: on fire -->
-  <WasOnFire.label>brinner</WasOnFire.label>
   
 </LanguageData>

@@ -1,31 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Frag grenade -->
-
-  <Weapon_GrenadeFrag.label>splittergranat</Weapon_GrenadeFrag.label>
-  <Weapon_GrenadeFrag.description>Gammaldags splittergranater.</Weapon_GrenadeFrag.description>
-  <Weapon_GrenadeFrag.verbs.0.label>kasta splittergranater</Weapon_GrenadeFrag.verbs.0.label>
-
-  <Proj_GrenadeFrag.label>splittergranat</Proj_GrenadeFrag.label>
-
-
-  <!-- Molotov cocktail -->
-
-  <Weapon_GrenadeMolotov.label>molotov cocktail</Weapon_GrenadeMolotov.label>
-  <Weapon_GrenadeMolotov.description>Glasflaskor fyllda med brandfarlig vätska, med en brinnande trasa i halsen. Ett favorit vapen för huliganer och desperata krigare från kant till kant.</Weapon_GrenadeMolotov.description>
-  <Weapon_GrenadeMolotov.verbs.0.label>kasta molotov</Weapon_GrenadeMolotov.verbs.0.label>
-
-  <Proj_GrenadeMolotov.label>molotov cocktail</Proj_GrenadeMolotov.label>
-
-
-  <!-- EMP grenade -->
-
-  <Weapon_GrenadeEMP.label>EMP granat</Weapon_GrenadeEMP.label>
-  <Weapon_GrenadeEMP.description>Elektromagnetisk puls granat skadar elektronisk utrustning.</Weapon_GrenadeEMP.description>
-  <Weapon_GrenadeEMP.verbs.0.label>Kasta EMP granater</Weapon_GrenadeEMP.verbs.0.label>
-
-  <Proj_GrenadeEMP.label>EMP grenat</Proj_GrenadeEMP.label>
-
-
+  
+  <!-- UNUSED -->
+  <Weapon_GrenadeEMP.verbs.0.label>UNUSED</Weapon_GrenadeEMP.verbs.0.label>
+  
+  <!-- UNUSED -->
+  <Weapon_GrenadeFrag.verbs.0.label>UNUSED</Weapon_GrenadeFrag.verbs.0.label>
+  
+  <!-- UNUSED -->
+  <Weapon_GrenadeMolotov.verbs.0.label>UNUSED</Weapon_GrenadeMolotov.verbs.0.label>
+  
 </LanguageData>

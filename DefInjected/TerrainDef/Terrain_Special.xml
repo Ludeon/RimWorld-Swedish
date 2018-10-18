@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bridge -->
-  <Bridge.label>TODO</Bridge.label>
+  <Bridge.label>bro</Bridge.label>
   <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build non-heavy structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
-  <Bridge.description>TODO</Bridge.description>
+  <Bridge.description>En platt träyta på bärande bjälkar som kan byggas över vatten. Du kan bygga konstruktioner som inte är för tunga på broar, men var försiktig - broar är ömtåliga. Om en bro rasar kommer byggnader ovanpå  bron att rasa de med.</Bridge.description>
   
   <!-- EN: underwall -->
   <Underwall.label>undermur</Underwall.label>
