@@ -1,17 +1,17 @@
-﻿Company
+﻿Företag
 Partners
-Corporation
-Traders
-Industries
-Incorporated
-Travelers
-Interplanetary
-Shipping
-Export Company
-Import Company
-Transport Company
-Securities
-Solutions
-Consortium
-Interstellar
-Lubricants
+Bolag
+Handlare
+Industrier
+Inkorporerad
+Resenärer
+Interplanetär
+Frakt
+Exportföretag
+Importföretag
+Transportföretag
+Säkerhet
+Lösningar
+Konsortium
+Interstellär
+Smörjmedel

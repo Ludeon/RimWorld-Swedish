@@ -6,19 +6,19 @@
   <!-- EN: intellectual -->
   <WorkTagIntellectual>Intellektuell</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>Korkad arbetare</WorkTagManualDumb>
+  <WorkTagManualDumb>Lätt arbete</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>Skicklig arbetare</WorkTagManualSkilled>
+  <WorkTagManualSkilled>Svårt arbete</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>Våldsam</WorkTagViolent>
+  <WorkTagViolent>Våld</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>Omtänksam</WorkTagCaring>
+  <WorkTagCaring>Vård</WorkTagCaring>
   <!-- EN: social -->
   <WorkTagSocial>Social</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>Djurvan</WorkTagAnimals>
+  <WorkTagAnimals>Djur</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>Konstnärlig</WorkTagArtistic>
+  <WorkTagArtistic>Konstnärlighet</WorkTagArtistic>
   <!-- EN: crafting -->
   <WorkTagCrafting>Tillverkning</WorkTagCrafting>
   <!-- EN: cooking -->
@@ -28,7 +28,7 @@
   <!-- EN: cleaning -->
   <WorkTagCleaning>Städning</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>Släpning</WorkTagHauling>
+  <WorkTagHauling>Transportering</WorkTagHauling>
   <!-- EN: plant work -->
   <WorkTagPlantWork>Odling</WorkTagPlantWork>
   <!-- EN: mining -->

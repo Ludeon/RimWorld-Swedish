@@ -6,7 +6,11 @@
   <languageWorkerClass>LanguageWorker_Swedish</languageWorkerClass>
   <credits>
 
-
+    <li Class="CreditRecord_Role">
+      <!-- Contributed 2020-8-15 to ... -->
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Kevin Ericson</creditee>
+    </li>
 	<li Class="CreditRecord_Role">
       <!-- Contributed 2016-10-27 to ... -->
       <roleKey>Credit_Translator</roleKey>

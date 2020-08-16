@@ -1,7 +1,7 @@
 ﻿nation
-confederacy
-confederation
-alliance
-kinship
-people
-tribe
+sammansvärjning
+konfederation
+allians
+släktskap
+folk
+stam

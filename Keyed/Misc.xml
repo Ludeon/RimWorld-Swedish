@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!-- EN: Autosaving -->
-  <Autosaving>Autosparning</Autosaving>
+  <Autosaving>Autosparar</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>Ni tre vaknar från er cryptosömn av ljudet från sirener och gnisslande metal. Ni hinner precis till nödkapslarna innan ert skepp slits isär. \n\nEn tid senare landar ni på denna, för er okända värld.\n\nMedan delarna från ert sönderslitna skepp faller runt er, börjar ni att planera för att överleva.</GameStartDialog>
+  <GameStartDialog>Ni tre vaknar från er cryptosömn av ljudet från sirener och gnisslande metal. Ni hinner precis till nödkapslarna innan ert skepp slits isär. \n\nEn tid senare landar ni på denna, för er, okända värld.\n\nMedan delarna från ert sönderslitna skepp faller runt er, börjar ni att planera för att överleva.</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>Koloni</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
@@ -12,7 +12,7 @@
   <!-- EN: and -->
   <AndLower>och</AndLower>
   <!-- EN: disabled -->
-  <DisabledLower>avstängd</DisabledLower>
+  <DisabledLower>inaktiverad</DisabledLower>
 
   <!-- EN: Version {0} -->
   <VersionIndicator>Version {0}</VersionIndicator>
@@ -21,7 +21,7 @@
   <!-- EN: Compiled {0} -->
   <CompiledOn>Kompillerad {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
-  <LoggedIntoSteamAs>Inloggad i Steam som {0}</LoggedIntoSteamAs>
+  <LoggedIntoSteamAs>Inloggad genom Steam som {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -74,9 +74,9 @@
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>Rått kött från en {0}. Kan bli lagad till mat eller ätas rå.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>Rått slaktat kött. Om det behövs kan du laga mat, eller till och med ätas rå. Extremt otrevlig.</MeatInsectDesc>
+  <MeatInsectDesc>Rått slaktat kött. Om det behövs kan du laga mat utav det, eller så kan det till och med ätas rått. Extremt äckligt.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>Rått slaktat kött. Kan kokas i måltider eller ätas rå, även om de flesta människor ogillar tanken.</MeatHumanDesc>
+  <MeatHumanDesc>Rått slaktat kött. Kan kokas i måltider eller ätas rått, även om de flesta människor ogillar tanken.</MeatHumanDesc>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} kadaver</CorpseLabel>

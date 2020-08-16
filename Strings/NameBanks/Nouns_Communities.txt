@@ -1,15 +1,15 @@
-﻿village
-village
-village
-town
-town
-town
-township
-borough
-hamlet
-rest stop
-municipality
-district
-smalltown
-community
-city
+﻿by
+by
+by
+stad
+stad
+stad
+kommun
+köping
+liten by
+värdshus
+kommun
+distrikt
+småstad
+gemenskap
+storstad

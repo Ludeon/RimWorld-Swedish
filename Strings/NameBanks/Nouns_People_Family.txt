@@ -1,8 +1,8 @@
-﻿mother
+﻿mor
 son
-father
-brother
-uncle
-nephew
-aunt
+far
+bror
+farbror
+brorson
+moster
 
