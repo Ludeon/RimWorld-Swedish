@@ -41,7 +41,7 @@
   <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>Fångar och djur</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>Inventarie</CaravanItems>
+  <CaravanItems>Förråd</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>Klicka för att öppna en flik med mer information.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
@@ -69,6 +69,6 @@
   <!-- EN: Seed -->
   <PlanetSeed>Frö</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>Storlek</PlanetCoverageShort>
+  <PlanetCoverageShort>Utsträckning</PlanetCoverageShort>
 
 </LanguageData>
