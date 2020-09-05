@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: abandoned settlement -->
-  <AbandonedSettlement.label>övergiven fraktionsbas</AbandonedSettlement.label>
+  <AbandonedSettlement.label>övergiven bas</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
-  <AbandonedSettlement.description>En övergiven bas till en av fraktionerna.</AbandonedSettlement.description>
+  <AbandonedSettlement.description>En övergiven bas.</AbandonedSettlement.description>
   
   <!-- EN: attacked caravan -->
   <AttackedNonPlayerCaravan.label>attackerad karavan</AttackedNonPlayerCaravan.label>
@@ -17,19 +17,19 @@
   <Caravan.description>En grupp av resande personer.</Caravan.description>
   
   <!-- EN: destroyed settlement -->
-  <DestroyedSettlement.label>förstörd fraktionsbas</DestroyedSettlement.label>
+  <DestroyedSettlement.label>förstörd bas</DestroyedSettlement.label>
   <!-- EN: A destroyed settlement. -->
-  <DestroyedSettlement.description>En förstörd fraktionsbas.</DestroyedSettlement.description>
+  <DestroyedSettlement.description>En förstörd bas.</DestroyedSettlement.description>
   
   <!-- EN: landed ship -->
-  <EscapeShip.label>resans destination</EscapeShip.label>
+  <EscapeShip.label>landat skepp</EscapeShip.label>
   <!-- EN: The location of a hidden ship which can help you escape the planet. -->
-  <EscapeShip.description>Placeringen av ett dolt skepp som kan hjälpa dig att fly planeten.</EscapeShip.description>
+  <EscapeShip.description>Platsen av ett dolt skepp som kan hjälpa dig att fly planeten.</EscapeShip.description>
   
   <!-- EN: peace talks -->
-  <PeaceTalks.label>TODO</PeaceTalks.label>
+  <PeaceTalks.label>Fredsförhandlingar</PeaceTalks.label>
   <!-- EN: A site designated for peace talks. -->
-  <PeaceTalks.description>TODO</PeaceTalks.description>
+  <PeaceTalks.description>En plats designerad för fredsförhandlingar.</PeaceTalks.description>
   
   <!-- EN: waypoint -->
   <RoutePlannerWaypoint.label>vägpunkt</RoutePlannerWaypoint.label>
@@ -37,9 +37,9 @@
   <RoutePlannerWaypoint.description>En temporär vägpunkt.</RoutePlannerWaypoint.description>
   
   <!-- EN: settlement -->
-  <Settlement.label>fraktionsbas</Settlement.label>
+  <Settlement.label>gruppbas</Settlement.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement.description>En bas till en av fraktionerna.</Settlement.description>
+  <Settlement.description>En bas till en av planetens grupper.</Settlement.description>
   
   <!-- EN: transport pods -->
   <TravelingTransportPods.label>transportkaplsar</TravelingTransportPods.label>

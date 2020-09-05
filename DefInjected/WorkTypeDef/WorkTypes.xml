@@ -6,12 +6,12 @@
   <!-- EN: Artist -->
   <Art.pawnLabel>Konstnär</Art.pawnLabel>
   <!-- EN: art -->
-  <Art.gerundLabel>Skapar konst</Art.gerundLabel>
+  <Art.gerundLabel>konst</Art.gerundLabel>
   <!-- EN: Do art at -->
   <Art.verb>Skapa konst vid</Art.verb>
   <Art.label>Konst</Art.label>
   <!-- EN: Create beautiful works of art from raw materials. -->
-  <Art.description>Skapa vackra konstverk från råvaror.</Art.description>
+  <Art.description>Skapa vackra konstverk från olika material.</Art.description>
   
   <!-- EN: Basic -->
   <BasicWorker.labelShort>TODO</BasicWorker.labelShort>
