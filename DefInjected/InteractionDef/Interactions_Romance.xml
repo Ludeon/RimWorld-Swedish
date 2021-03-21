@@ -40,7 +40,7 @@
   </MarriageProposal.logRulesRecipient.rulesStrings>
   
   <!-- EN: romance attempt -->
-  <RomanceAttempt.label>TODO</RomanceAttempt.label>
+  <RomanceAttempt.label>romansförsök</RomanceAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
     <li>wooed->tried to flirt with</li>
@@ -109,8 +109,8 @@
     <li>wooed->flörtade med</li>
     <li>wooed->försökte attrahera</li>
     <li>wooed->försökte svärma för</li>
-    <li>wooed->tried to woo TODO</li>
-    <li>wooed->wooed TODO</li>
+    <li>wooed->försökte ragga upp</li>
+    <li>wooed->ragga</li>
     <li>wooed->övertala</li>
     <li>wooed->charma</li>
     <li>wooed->uppvakta</li>

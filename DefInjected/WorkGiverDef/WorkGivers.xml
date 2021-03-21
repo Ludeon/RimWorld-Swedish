@@ -475,9 +475,9 @@
   <PlantsCut.verb>beskär</PlantsCut.verb>
   
   <!-- UNUSED -->
-  <RearmTraps.verb>gillra</RearmTraps.verb>
-  <RearmTraps.gerund>gillrar</RearmTraps.gerund>
-  <RearmTraps.label>gillra fällor</RearmTraps.label>
+  <RearmTraps.verb>UNUSED</RearmTraps.verb>
+  <RearmTraps.gerund>UNUSED</RearmTraps.gerund>
+  <RearmTraps.label>UNUSED</RearmTraps.label>
   
   <!-- EN: rearm turrets -->
   <RearmTurrets.label>rearmera kanontorn</RearmTurrets.label>

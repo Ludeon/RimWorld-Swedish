@@ -134,7 +134,7 @@
 
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
   <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} gjorde ett mindre misstag vid operationen av {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_LabelShort}. -->
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort}. -->
   <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} misslyckades katastofalt vid operationen av {PATIENT_labelShort}.</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
   <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} gjorde ett löjeväckande misstag vid operationen av {PATIENT_labelShort}.</MessageMedicalOperationFailureRidiculous>
@@ -523,10 +523,10 @@
   <MessageCantShootInMelee>Kan inte skjuta i närstrid</MessageCantShootInMelee>
 
   <!-- UNUSED -->
-  <MessageCaravanIsVisitingSettlement>{0} har anlänt till {1}.</MessageCaravanIsVisitingSettlement>
-  <MessageCaravanEnteredWorldObject>{0} har anlänt {1}.</MessageCaravanEnteredWorldObject>
-  <MessageFailedToLoadTransportersBecauseColonistLost>Lastningsprocessen har avbrutits eftersom en av kolonisterna har försvunnit.</MessageFailedToLoadTransportersBecauseColonistLost>
-  <MessageBlockedHediff>{0} blockerade {1} på: {2}.</MessageBlockedHediff>
-  <MessagePlayerTriedToLeaveMapViaExitGrid>För att lämna området, använd knappen "återskapa karavan" på världskartan.</MessagePlayerTriedToLeaveMapViaExitGrid>
+  <MessageCaravanIsVisitingSettlement>UNUSED</MessageCaravanIsVisitingSettlement>
+  <MessageCaravanEnteredWorldObject>UNUSED</MessageCaravanEnteredWorldObject>
+  <MessageFailedToLoadTransportersBecauseColonistLost>UNUSED</MessageFailedToLoadTransportersBecauseColonistLost>
+  <MessageBlockedHediff>UNUSED</MessageBlockedHediff>
+  <MessagePlayerTriedToLeaveMapViaExitGrid>UNUSED</MessagePlayerTriedToLeaveMapViaExitGrid>
 
 </LanguageData>

@@ -282,8 +282,7 @@
   <!-- EN: Precious minerals found -->
   <LetterLabelFoundPreciousLump>Värdefull malm hittad</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>Genom att använda långtidsmineralskannern, har {WORKER_labelShort} hittat en åder av {0}.\n\nTyvärr  kommer det inte finnas kvar så länge - andra kommer att försöka bryta den om {1} dagar om vi inte gör det.\n\n{2}
-  vet inte vad vem eller vad - om något - som kan övervaka den.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>Genom att använda långtidsmineralskannern, har {WORKER_labelShort} hittat en åder av {0}.\n\nTyvärr  kommer det inte finnas kvar så länge - andra kommer att försöka bryta den om {1} dagar om vi inte gör det.\n\n{2}\n  vet inte vad vem eller vad - om något - som kan övervaka den.</LetterFoundPreciousLump>
   
   <!-- Ambush -->
   <!-- EN: Ambush -->

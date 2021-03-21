@@ -125,8 +125,8 @@
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Jag såg en ruttnande lik ligger på marken. Det var äckligt.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
   
   <!-- UNUSED -->
-  <PrisonerAbandonedToDie.stages.0.label>fånge lämnad att dö</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>Vi lämnade en fånge kvar på ett sådant sätt att det nästan inte finns något sätt för dom att överleva.</PrisonerAbandonedToDie.stages.0.description>
+  <PrisonerAbandonedToDie.stages.0.label>UNUSED</PrisonerAbandonedToDie.stages.0.label>
+  <PrisonerAbandonedToDie.stages.0.description>UNUSED</PrisonerAbandonedToDie.stages.0.description>
   
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>

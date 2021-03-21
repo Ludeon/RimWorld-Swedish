@@ -37,16 +37,16 @@
   <!-- EN: Blå matta(ritning) -->
   <Blueprint_CarpetBlue.label>blå matta (ritning)</Blueprint_CarpetBlue.label>
   
-  <!-- EN: gräddfärgad matta(ritning) -->
-  <Blueprint_CarpetCream.label>gräddmatta (ritning)</Blueprint_CarpetCream.label>
+  <!-- EN: varmvit matta(ritning) -->
+  <Blueprint_CarpetCream.label>varmvit matta (ritning)</Blueprint_CarpetCream.label>
   
-  <!-- EN: mörk-grå matta(ritning) -->
-  <Blueprint_CarpetDark.label>mörk matta (ritning)</Blueprint_CarpetDark.label>
+  <!-- EN: mörkgrå matta(ritning) -->
+  <Blueprint_CarpetDark.label>mörkgrå matta (ritning)</Blueprint_CarpetDark.label>
   
-  <!-- EN: Grön matta(ritning) -->
+  <!-- EN: grön matta(ritning) -->
   <Blueprint_CarpetGreen.label>grön matta (ritning)</Blueprint_CarpetGreen.label>
   
-  <!-- EN: Röd matta(ritning) -->
+  <!-- EN: röd matta(ritning) -->
   <Blueprint_CarpetRed.label>röd matta (ritning)</Blueprint_CarpetRed.label>
   
   <!-- EN: schackbord(ritning) -->
@@ -370,8 +370,8 @@
   <!-- EN: bord (2x4)(ritning) -->
   <Blueprint_Table2x4c.label>UNUSED</Blueprint_Table2x4c.label>
   
-  <!-- EN: slaktbord(ritning) -->
-  <Blueprint_TableButcher.label>slaktbord (ritning)</Blueprint_TableButcher.label>
+  <!-- EN: styckbord(ritning) -->
+  <Blueprint_TableButcher.label>styckbord (ritning)</Blueprint_TableButcher.label>
   
   <!-- EN: maskinbearbetningsbord(ritning) -->
   <Blueprint_TableMachining.label>maskinbearbetningsbord (ritning)</Blueprint_TableMachining.label>
@@ -407,7 +407,7 @@
   <Blueprint_TransportPod.label>transportkapsel (ritning)</Blueprint_TransportPod.label>
   
   <!-- UNUSED -->
-  <Blueprint_TrapDeadfall.label>upphängd fälla (ritning)</Blueprint_TrapDeadfall.label>
+  <Blueprint_TrapDeadfall.label>UNUSED</Blueprint_TrapDeadfall.label>
   
   <!-- EN: IED fälla(ritning) -->
   <Blueprint_TrapIED_HighExplosive.label>UNUSED</Blueprint_TrapIED_HighExplosive.label>
@@ -456,10 +456,10 @@
   <!-- EN: Död kropp av en isbjörn. -->
   <Corpse_Bear_Polar.description>isbjörnskropp</Corpse_Bear_Polar.description>
   
-  <!-- EN: Bombalop kadaver -->
-  <Corpse_Boomalope.label>bombalopkropp</Corpse_Boomalope.label>
-  <!-- EN: Död kropp av en bombalop. -->
-  <Corpse_Boomalope.description>bombalopkropp</Corpse_Boomalope.description>
+  <!-- EN: Bombalomp kadaver -->
+  <Corpse_Boomalope.label>Bombalomp kadaver</Corpse_Boomalope.label>
+  <!-- EN: Död kropp av en bombalomp. -->
+  <Corpse_Boomalope.description>Död kropp av en bombalomp</Corpse_Boomalope.description>
   
   <!-- EN: Bombråtta kadaver -->
   <Corpse_Boomrat.label>bombråttekropp</Corpse_Boomrat.label>
@@ -591,9 +591,9 @@
   <!-- EN: Död kropp av en lodjur. -->
   <Corpse_Lynx.description>lodjurskropp</Corpse_Lynx.description>
   
-  <!-- EN: Tusenfoting kadaver -->
+  <!-- EN: Mekanisk tusenfoting kadaver -->
   <Corpse_Mech_Centipede.label>tusenfotingkropp</Corpse_Mech_Centipede.label>
-  <!-- EN: Död kropp av en tusenfoting. -->
+  <!-- EN: Död kropp av en mekanisk tusenfoting. -->
   <Corpse_Mech_Centipede.description>tusenfotingkropp</Corpse_Mech_Centipede.description>
   
   <!-- EN: Lieman kadaver -->
@@ -729,7 +729,7 @@
   <!-- EN: fåtölj(byggnad) -->
   <Frame_Armchair.label>fotölj (byggnad)</Frame_Armchair.label>
   <!-- EN: En stor, mjuk och bekväm fåtölj. Bra om man vill slappna av. Kan användas vid bord, arbetsplatser och på andra ställen. -->
-  <Frame_Armchair.description>En stor, mjuk, bekväm fotölj. Bra om man vill slappna av.</Frame_Armchair.description>
+  <Frame_Armchair.description>En stor, mjuk och bekväm fåtölj. Bra om man vill slappna av. Kan användas vid bord, arbetsplatser och på andra ställen.</Frame_Armchair.description>
   
   <!-- EN: automatisk dörr(byggnad) -->
   <Frame_Autodoor.label>automatisk dörr (byggnad)</Frame_Autodoor.label>
@@ -771,22 +771,22 @@
   <!-- EN: Terrain building in progress. -->
   <Frame_CarpetBlue.description>Terrängbyggnad pågår.</Frame_CarpetBlue.description>
   
-  <!-- EN: gräddfärgad matta(byggnad) -->
-  <Frame_CarpetCream.label>gräddmatta (byggnad)</Frame_CarpetCream.label>
+  <!-- EN: varmvit matta(byggnad) -->
+  <Frame_CarpetCream.label>varmvit matta (byggnad)</Frame_CarpetCream.label>
   <!-- EN: Terrain building in progress. -->
   <Frame_CarpetCream.description>Terrängbyggnad pågår.</Frame_CarpetCream.description>
   
-  <!-- EN: mörk-grå matta(byggnad) -->
-  <Frame_CarpetDark.label>mörk matta (byggnad)</Frame_CarpetDark.label>
+  <!-- EN: mörkgrå matta(byggnad) -->
+  <Frame_CarpetDark.label>mörkgrå matta (byggnad)</Frame_CarpetDark.label>
   <!-- EN: Terrain building in progress. -->
   <Frame_CarpetDark.description>Terrängbyggnad pågår.</Frame_CarpetDark.description>
   
-  <!-- EN: Grön matta(byggnad) -->
+  <!-- EN: grön matta(byggnad) -->
   <Frame_CarpetGreen.label>grön matta (byggnad)</Frame_CarpetGreen.label>
   <!-- EN: Terrain building in progress. -->
   <Frame_CarpetGreen.description>Terrängbyggnad pågår.</Frame_CarpetGreen.description>
   
-  <!-- EN: Röd matta(byggnad) -->
+  <!-- EN: röd matta(byggnad) -->
   <Frame_CarpetRed.label>röd matta (byggnad)</Frame_CarpetRed.label>
   <!-- EN: Terrain building in progress. -->
   <Frame_CarpetRed.description>Terrängbyggnad pågår.</Frame_CarpetRed.description>
@@ -973,7 +973,7 @@
   
   <!-- EN: långdistans mineralscanner(byggnad) -->
   <Frame_LongRangeMineralScanner.label>långdistans mineral scanner (byggnad)</Frame_LongRangeMineralScanner.label>
-  <!-- EN: Detekterar automatiskt värdefulla mineraler som guld eller jade på olika ställen över planeten. Klumparna hittas i genomsnitt en gång per 30 dagar inom en radie av 30 plattor. Att bygga mer än en skanner i samma eller närliggande områden har liten eller ingen effekt. -->
+  <!-- EN: Kan användas av forskare för att upptäcka en specifik mineral över planeten. Tiden det tar för att upptäcka mineralen är lite slumpvis, och beror även på forskarens färdighet. -->
   <Frame_LongRangeMineralScanner.description>Detekterar automatiskt värdefulla mineraler som guld eller jade i de närliggande områdena (men inte där den byggdes). Klumparna finns i genomsnitt en gång per 30 dagar inom en radie av 30 plattor. Att bygga mer än en skanner i samma eller närliggande områden har liten eller ingen effekt.</Frame_LongRangeMineralScanner.description>
   
   <!-- EN: bröllopsplats(byggnad) -->
@@ -1013,7 +1013,7 @@
   
   <!-- EN: passiv kylare(byggnad) -->
   <Frame_PassiveCooler.label>passiv kylare (byggnad)</Frame_PassiveCooler.label>
-  <!-- EN: En traditionell kylare utan elektricitet som fungerar genom vattenavdunstning. Kommer att ta slut och försvinna efter några dagar. -->
+  <!-- EN: En traditionell kylare utan elektricitet som fungerar genom vattenavdunstning. Måste regelbundet fyllas på med trä. Ej effektiv nog att kyla med med. -->
   <Frame_PassiveCooler.description>En traditionell kylare som fungerar genom vattenavdunstning. Kommer att ta slut och självförstöra efter några dagar</Frame_PassiveCooler.description>
   
   <!-- EN: gjutet kakel(byggnad) -->
@@ -1151,7 +1151,7 @@
   <!-- EN: Folk äter vid bord när stolar är placerade vända mot dem. -->
   <Frame_Table2x4c.description>UNUSED</Frame_Table2x4c.description>
   
-  <!-- EN: slaktbord(byggnad) -->
+  <!-- EN: styckbord(byggnad) -->
   <Frame_TableButcher.label>slaktbord (byggnad)</Frame_TableButcher.label>
   <!-- EN: Ett tungt bord till för att stycka döda varelser till mindre delar i form av rått kött. -->
   <Frame_TableButcher.description>Ett tungt bord till för att slakta döda varelser och utvinna råa köttbitar.</Frame_TableButcher.description>
@@ -1212,17 +1212,17 @@
   <Frame_TransportPod.description>En utskjutningsbar transportkapsel som kan bära människor, föremål eller djur. Kan användas för transport, överraskningsanfall eller som förstärkning i strid.</Frame_TransportPod.description>
   
   <!-- UNUSED -->
-  <Frame_TrapDeadfall.label>upphängd fälla (byggnad)</Frame_TrapDeadfall.label>
-  <Frame_TrapDeadfall.description>En upphängd spetsig vikt hålls upp av en avtryckare. När offret stör avtryckaren släpps vikten och den faller på hans huvud eller överkropp.</Frame_TrapDeadfall.description>
+  <Frame_TrapDeadfall.label>UNUSED</Frame_TrapDeadfall.label>
+  <Frame_TrapDeadfall.description>UNUSED</Frame_TrapDeadfall.description>
   
   <!-- EN: IED fälla(byggnad) -->
   <Frame_TrapIED_HighExplosive.label>UNUSED</Frame_TrapIED_HighExplosive.label>
-  <!-- EN: En granat ansluten till en hemmagjord utlösare. När någon utlöser fällan kommer granaten att explodera. Vilda djur kommer undvika dessa. -->
+  <!-- EN: Ett par högexplosiva granater kopplade till en tryckkänslig utlösare. Eftersom den är dold i den omgivande terrängen kan den inte placeras bredvid andra fällor. Djur kan känna var dessa är när de är lugna. -->
   <Frame_TrapIED_HighExplosive.description>UNUSED</Frame_TrapIED_HighExplosive.description>
   
   <!-- EN: IED brandfälla(byggnad) -->
   <Frame_TrapIED_Incendiary.label>UNUSED</Frame_TrapIED_Incendiary.label>
-  <!-- EN: Sprängämnen blandas in i en brandfarlig smet med en kemisk utlösare för spridning. Dess kemiska utlösare är enkel och tillförlitlig. Vilda djur kommer undvika dessa. -->
+  <!-- EN: Ett par brandboms granater kopplade till en tryckkänslig utlösare. Eftersom den är dold i den omgivande terrängen kan den inte placeras bredvid andra fällor. Djur kan känna var dessa är när de är lugna. -->
   <Frame_TrapIED_Incendiary.description>UNUSED</Frame_TrapIED_Incendiary.description>
   
   <!-- EN: katodrör-TV(byggnad) -->
@@ -1275,7 +1275,7 @@
   <!-- EN: Rått styckat kött. Kan bli lagad till mat eller ätas rå. -->
   <Meat_Bear_Grizzly.description>björnkött</Meat_Bear_Grizzly.description>
   
-  <!-- EN: Bombalop kött -->
+  <!-- EN: Bombalomp kött -->
   <Meat_Boomalope.label>bombalopkött</Meat_Boomalope.label>
   <!-- EN: Rått styckat kött. Kan bli lagad till mat eller ätas rå. -->
   <Meat_Boomalope.description>bombalopkött</Meat_Boomalope.description>
@@ -1315,7 +1315,7 @@
   <!-- EN: Rått styckat kött. Kan bli lagad till mat eller ätas rå. -->
   <Meat_Chinchilla.description>chinchillakött</Meat_Chinchilla.description>
   
-  <!-- EN: cobraflesh -->
+  <!-- EN: kobrakött -->
   <Meat_Cobra.label>kobrakött</Meat_Cobra.label>
   <!-- EN: Rått styckat kött. Kan bli lagad till mat eller ätas rå. -->
   <Meat_Cobra.description>kobrakött</Meat_Cobra.description>

@@ -3,7 +3,7 @@
   
   <!-- EN: Alerts -->
   <Alerts.label>Varningar</Alerts.label>
-  <!-- EN: The alerts at the right edge of the screen tell you about issue that need your attention.\n\nKeep an eye on the alerts. -->
+  <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
   <Alerts.helpText>Varningar vid den högra kanten informerar dig om saker som behöver din uppmärksamhet.\n\nHåll uppsikt på varningarna.</Alerts.helpText>
   
   <!-- EN: Allowed areas -->
@@ -60,13 +60,13 @@
 \n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
   <FirePreparation.helpText>Eldsvådor kan lätt bränna ned en hel koloni. För att bekämpa dessa behöver du förbereda dig innan det händer.\n\nDessa typer av konstruktioner kan hjälpa för att miska skador från eldsvådor:\n\n1. Istället för att göra en enda stor superbyggnad, bygg separata byggnader med ytrymme emellan.\n\n2. Använd dig av material som är brandtåligt. Trä är billigt och snabbt - men brinner väldigt fort.\n\n3. Bygg brandgator för att förhindra löpeldar att närma sig din bas. En remsa av betonggolv 3 eller 4 celler breda stannar oftast upp eldens framfart.</FirePreparation.helpText>
   
-  <!-- EN: Forbid and unforbid -->
-  <Forbidding.label>Förbjudna föremål</Forbidding.label>
-  <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to UNFORBID it. -->
-  <Forbidding.helpText>Kolonister kommer inte röra saker som är markerade FÖRBJUDET.\n\nFörbjudna saker har ett litet rött kryss på sig. Välj en förbjuden sak och använd kontrollerna i botten för att ta bort FÖRBUDET.</Forbidding.helpText>
+  <!-- EN: Forbid and allow -->
+  <Forbidding.label>Förbjudna och tillåt</Forbidding.label>
+  <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
+  <Forbidding.helpText>Kolonister kommer inte röra saker som är markerade FÖRBJUDET.\n\nFörbjudna saker har ett litet rött kryss på sig. Välj en förbjuden sak och använd kontrollerna i botten för att TILLÅTa det.</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
-  <ForbiddingDoors.label>Förbjudna dörrar</ForbiddingDoors.label>
+  <ForbiddingDoors.label>Förbjud dörrar</ForbiddingDoors.label>
   <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
   <ForbiddingDoors.helpText>Du kan förbjuda användning av dörrar så att kolonister eller tama djur inte får gå igenom dem\n\nNotera att detta inte är ett dörrlås. Dörrar är alltid låsta så att fiender inte kan passera igenom dem. Att föbjuda en dörr dirigerar endast kolonister att inte använda den dörren. Kolonister som är mitt i ett psykbryt kan eventuellt använda dörren ändå.</ForbiddingDoors.helpText>
   

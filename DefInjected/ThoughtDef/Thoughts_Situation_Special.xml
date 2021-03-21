@@ -29,10 +29,6 @@
   <!-- EN: It feels amazing. -->
   <Joywire.stages.joywire.description>Det känns fantastiskt.</Joywire.stages.joywire.description>
   
-  <!-- UNUSED -->
-  <Joywire.stages.joywire.label>Glädjetråd</Joywire.stages.joywire.label>
-  <Joywire.stages.joywire.description>Det känns fantastiskt.</Joywire.stages.joywire.description>
-  
   <!-- EN: naked -->
   <Naked.stages.naked.label>naken</Naked.stages.naked.label>
   <!-- EN: I'm naked. This is humiliating. -->
@@ -74,18 +70,6 @@
   <!-- EN: extreme psychic drone -->
   <PsychicDrone.stages.extreme_psychic_drone.label>psykiskt drönare (extremt)</PsychicDrone.stages.extreme_psychic_drone.label>
   <!-- EN: My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
-  <PsychicDrone.stages.extreme_psychic_drone.description>Mitt hjärta slår och jag svettas. Allt jag kan tänka på är skada och lidande och alla dessa fiender omkring mig. De är min mardröm, min mardröm, min mardröm ...</PsychicDrone.stages.extreme_psychic_drone.description>
-  
-  <!-- UNUSED -->
-  <PsychicDrone.stages.psychic_soothe.label>psykiskt lugn (medel)</PsychicDrone.stages.psychic_soothe.label>
-  <PsychicDrone.stages.psychic_soothe.description>Det är som en lugnande röst i bakhuvudet, lugnar mig och mina nerver.</PsychicDrone.stages.psychic_soothe.description>
-  <PsychicDrone.stages.low_psychic_drone.label>psykiskt drönare (låg)</PsychicDrone.stages.low_psychic_drone.label>
-  <PsychicDrone.stages.low_psychic_drone.description>Det är som ett rivande innuti mitt huvud. En röst, viskade. Jag kan bara urskilja några ord, och jag tycker inte om dem.</PsychicDrone.stages.low_psychic_drone.description>
-  <PsychicDrone.stages.moderate_psychic_drone.label>psykiskt drönare (medel)</PsychicDrone.stages.moderate_psychic_drone.label>
-  <PsychicDrone.stages.moderate_psychic_drone.description>Det känns som någon är alltid bara ur sikte, talar till mig. Rösten ändras men inte meddelandet. Jag ska skada människor. Få det att försvinna!</PsychicDrone.stages.moderate_psychic_drone.description>
-  <PsychicDrone.stages.high_psychic_drone.label>psykiskt drönare (hög)</PsychicDrone.stages.high_psychic_drone.label>
-  <PsychicDrone.stages.high_psychic_drone.description>Rösten är outhärdligt högt. Det är svårt att koncentrera sig. Jag kommer på mig med att svara tillbaka och skrika på det. Men det fortsätter bara att skrika!</PsychicDrone.stages.high_psychic_drone.description>
-  <PsychicDrone.stages.extreme_psychic_drone.label>psykiskt drönare (extremt)</PsychicDrone.stages.extreme_psychic_drone.label>
   <PsychicDrone.stages.extreme_psychic_drone.description>Mitt hjärta slår och jag svettas. Allt jag kan tänka på är skada och lidande och alla dessa fiender omkring mig. De är min mardröm, min mardröm, min mardröm ...</PsychicDrone.stages.extreme_psychic_drone.description>
   
   <!-- EN: psychic emanator soothe -->

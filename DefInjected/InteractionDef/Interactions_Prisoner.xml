@@ -74,9 +74,8 @@
     <li>subject(p=4)->[ConceptPositive]</li>
     <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
     <li>subject(p=8)->[TalkTopicLight]</li>
-    </BuildRapport.logRulesInitiator.rulesStrings>
+  </BuildRapport.logRulesInitiator.rulesStrings>
   
-
   <!-- EN: recruit attempt -->
   <RecruitAttempt.label>rekryteringförsök</RecruitAttempt.label>
   <!-- EN:
@@ -104,7 +103,7 @@
     <li>freedom->home</li>
     <li>freedom->self-determination</li>
   -->
-  <SparkJailbreak.logRulesInitiator.rulesStrings>  
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] pratade om det sköna med [freedom], och erbjöd ett sätt att fly.</li>
     <li>r_logentry->[INITIATOR_nameDef] pratade om hur vacker [TerrainFeature] är, och erbjöd frihet.</li>
     <li>r_logentry->[INITIATOR_nameDef] demonstrerade ett sätt att fly för [RECIPIENT_nameDef], och utlovade [freedom].</li>
@@ -113,6 +112,6 @@
     <li>freedom->möjlighet</li>
     <li>freedom->hemma</li>
     <li>freedom->självbestämmande</li>
-    </SparkJailbreak.logRulesInitiator.rulesStrings>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
   
 </LanguageData>

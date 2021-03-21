@@ -94,10 +94,10 @@
   <ResetAndRestart>Dina val har återställts. Spelet startas nu om automatiskt.</ResetAndRestart>
   
   <!-- UNUSED -->
-  <Privacy>Integritet</Privacy>
-  <UserName>Användarnamn</UserName>
-  <ChooseHistoryUploadPref> Preferens för uppladdning av speldata.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Användarens speldata hjälper utvecklare att balansera spelet. Om du går med på det kommer din information att skickas varje {0} speldag (och i sällsynta fall, exempelvis vid slutet av ett spel) till RimWorlds server för analys. Uppladdad data består endast av statistik och speldata realterat till spelet - ingen personlig information skickas förutom användarnanmet, vilket betyder att det är helt anonymt.</AboutHistoryUpload>
+  <Privacy>UNUSED</Privacy>
+  <UserName>UNUSED</UserName>
+  <ChooseHistoryUploadPref>UNUSED</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>UNUSED</AboutHistoryUpload>
   <MaxNumberOfPlayerHomes>UNUSED</MaxNumberOfPlayerHomes>
 
 </LanguageData>

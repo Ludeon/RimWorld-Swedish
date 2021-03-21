@@ -46,8 +46,8 @@
   <KnowGuestExecuted.stages.someone_was_organmurdered.description>TODO</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   
   <!-- UNUSED -->
-  <KnowGuestExecuted.stages.someone_organharvested.label>någon organskördades</KnowGuestExecuted.stages.someone_organharvested.label>
-  <KnowGuestExecuted.stages.someone_organharvested.description>En fånge eller gäst dog på grund av att kolonin tog kroppsdelar från honom. Det är hemskt.</KnowGuestExecuted.stages.someone_organharvested.description>
+  <KnowGuestExecuted.stages.someone_organharvested.label>UNUSED</KnowGuestExecuted.stages.someone_organharvested.label>
+  <KnowGuestExecuted.stages.someone_organharvested.description>UNUSED</KnowGuestExecuted.stages.someone_organharvested.description>
   
   <!-- EN: innocent prisoner died -->
   <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>oskyldig fånge dog</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>

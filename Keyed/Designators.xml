@@ -226,7 +226,7 @@
   <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alla dina {0} som har denna färdighet har ej tilldelats arbetsuppgiften {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
   <!-- UNUSED -->
-  <DesignatorRearmTrap>Återställ fälla</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>återställ en utlöst fälla så att den kan utlösas igen.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrap>UNUSED</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>UNUSED</DesignatorRearmTrapDesc>
 
 </LanguageData>

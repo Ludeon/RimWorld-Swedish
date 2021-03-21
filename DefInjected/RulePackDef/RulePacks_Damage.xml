@@ -14,7 +14,19 @@
     <li>destroyed_past->annihilated</li>
     <li>destroyed_past->detonated</li>
   -->
-  <Damage_Bomb.rulePack.rulesStrings>TODO</Damage_Bomb.rulePack.rulesStrings>
+  <Damage_Bomb.rulePack.rulesStrings>  
+    <li>damaged_past(p=2)->blasted</li>
+    <li>damaged_past(p=2)->exploderade</li>
+    <li>damaged_past->skadad</li>
+    <li>damaged_past->lemlästad</li>
+    <li>damaged_past->sårad</li>
+    <li>damaged_past->skadad</li>
+    <li>destroyed_past->splittrad</li>
+    <li>destroyed_past->krossad</li>
+    <li>destroyed_past->utplånad</li>
+    <li>destroyed_past->förstörd</li>
+    <li>destroyed_past->detonerad</li>
+    </Damage_Bomb.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->electrified</li>
@@ -22,7 +34,12 @@
     <li>damaged_past->zapped</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_EMP.rulePack.rulesStrings>TODO</Damage_EMP.rulePack.rulesStrings>
+  <Damage_EMP.rulePack.rulesStrings> 
+    <li>damaged_past->elektrifierad</li>
+    <li>damaged_past->chokad</li>
+    <li>damaged_past->zappad</li>
+    <li>destroyed_past->damaged_past</li>
+    </Damage_EMP.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->extinguished</li>
@@ -31,7 +48,13 @@
     <li>damaged_past->quenched</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_Extinguish.rulePack.rulesStrings>TODO</Damage_Extinguish.rulePack.rulesStrings>
+  <Damage_Extinguish.rulePack.rulesStrings>
+    <li>damaged_past->förintad</li>
+    <li>damaged_past->drunknad</li>
+    <li>damaged_past->skummad</li>
+    <li>damaged_past->utrotad</li>
+    <li>destroyed_past->damaged_past</li>
+    </Damage_Extinguish.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past(p=2)->blasted</li>

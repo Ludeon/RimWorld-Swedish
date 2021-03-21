@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: ancients -->
-  <Ancients.label>TODO</Ancients.label>
+  <Ancients.label>Uråldriga</Ancients.label>
   <Ancients.description>Människor från en uråldrig civilisation.</Ancients.description>
   <!-- EN: Ancients -->
-  <Ancients.fixedName>TODO</Ancients.fixedName>
+  <Ancients.fixedName>Uråldriga</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <Ancients.pawnSingular>uråldrig</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>TODO</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>uråldriga</Ancients.pawnsPlural>
   
   <!-- EN: ancients -->
-  <AncientsHostile.label>TODO</AncientsHostile.label>
+  <AncientsHostile.label>uråldriga</AncientsHostile.label>
   <AncientsHostile.description>Människor från en uråldrig civilisation.</AncientsHostile.description>
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>TODO</AncientsHostile.fixedName>
+  <AncientsHostile.fixedName>Uråldriga</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>uråldrig</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>TODO</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>uråldriga</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
   <Insect.label>Insekter</Insect.label>

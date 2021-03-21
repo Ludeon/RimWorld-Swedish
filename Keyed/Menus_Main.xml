@@ -388,7 +388,7 @@
   <GeneratingMapForNewEncounter>Genererar karta för sammandrabbning</GeneratingMapForNewEncounter>
 
   <!-- UNUSED -->
-  <SelectLandingSite>Välj landingsplats</SelectLandingSite>
-  <MustSelectLandingSite>Välja en landningsplats.</MustSelectLandingSite>
+  <SelectLandingSite>UNUSED</SelectLandingSite>
+  <MustSelectLandingSite>UNUSED</MustSelectLandingSite>
 
 </LanguageData>

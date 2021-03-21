@@ -235,10 +235,10 @@
   <LetterSiteNoLongerHostileMulti>Eftersom du inte längre är fientlig med {0} är följande platser inte längre tillgängliga</LetterSiteNoLongerHostileMulti>
 
   <!-- UNUSED -->
-  <RefugeePodCrash_NonHostileOrFactionless>Du kan rädda {PAWN_objective}  och skicka {PAWN_objective}  på [PAWN_possessive] väg. Eller fånga {PAWN_objective}  för rekrytering eller slaveri.</RefugeePodCrash_NonHostileOrFactionless>
-  <LetterLabelWandererJoin>Vandrare ansluter</LetterLabelWandererJoin>
-  <WandererJoin>En {0} som heter {PAWN_nameDef} har anlätt och ansluter sig till din koloni. {PAWN_pronoun} är en {1}.</WandererJoin>
-  <LetterLabelBuildingBrokenDown>Haveri: {0}</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>En av era maskiner ({0}) har havererat. Den kommer inte att fungera förrän en kolonist har med reparationkunskap lagar den.</LetterBuildingBrokenDown>
+  <RefugeePodCrash_NonHostileOrFactionless>UNUSED</RefugeePodCrash_NonHostileOrFactionless>
+  <LetterLabelWandererJoin>UNUSED</LetterLabelWandererJoin>
+  <WandererJoin>UNUSED</WandererJoin>
+  <LetterLabelBuildingBrokenDown>UNUSED</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>UNUSED</LetterBuildingBrokenDown>
 
 </LanguageData>

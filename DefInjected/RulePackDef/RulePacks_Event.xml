@@ -22,6 +22,25 @@
     <li>stumbled->wobbled</li>
     <li>stumbled->staggered</li>
   -->
-  <Event_Stun.rulePack.rulesStrings>TODO</Event_Stun.rulePack.rulesStrings>
+  <Event_Stun.rulePack.rulesStrings>
+    <li>r_logentry->[SUBJECT_definite] blev [stunned] av attacken.</li>
+    <li>r_logentry->[SUBJECT_definite] blev [stunned] av [INITIATOR_definite]s attack.</li>
+    <li>stunned(p=3)->lamslagen</li>
+    <li>stunned->vacklade</li>
+    <li>stunned->omtumlad</li>
+    <li>stunned->desorienterad</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] av attacken.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] från [INITIATOR_definite]s attack.</li>
+    <li>staggered(p=3)->vacklade</li>
+    <li>staggered->snubblade</li>
+    <li>staggered->ragglade</li>
+    <li>staggered->vacklade</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] omkring i dunklet.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] omkring i förvirring.</li>
+    <li>stumbled(p=3)->stumbled</li>
+    <li>stumbled->wavered</li>
+    <li>stumbled->wobbled</li>
+    <li>stumbled->staggered</li></Event_Stun.rulePack.rulesStrings>
   
 </LanguageData>

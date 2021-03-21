@@ -86,7 +86,7 @@
     <li>rubbedpart->arm</li>
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
-  <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] gnuggade [INITIATOR_possessive] nos mot [RECIPIENT_nameDef]s [rubbedpart].</li>
     <li>nuzzled(p=2)->gosad</li>
     <li>nuzzled->kröp upp mot</li>

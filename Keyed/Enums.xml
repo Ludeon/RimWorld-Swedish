@@ -288,8 +288,8 @@
   <PsychicDroneLevel_BadExtreme>extrem</PsychicDroneLevel_BadExtreme>
 
   <!-- UNUSED -->
-  <Unspecified>Obestämt</Unspecified>
-  <Always>Tillåt</Always>
-  <Never>Ej tillåtet</Never>
+  <Unspecified>UNUSED</Unspecified>
+  <Always>UNUSED</Always>
+  <Never>UNUSED</Never>
 
 </LanguageData>

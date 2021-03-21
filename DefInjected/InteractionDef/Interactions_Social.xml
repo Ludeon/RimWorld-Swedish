@@ -21,7 +21,7 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-      <li>r_logentry->[INITIATOR_nameDef] och [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] och [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] med [RECIPIENT_nameDef].</li>
     <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] till [RECIPIENT_nameDef].</li>
     <li>talkedabout(p=4)->småpratade med</li>
@@ -112,7 +112,6 @@
     <li>insultcomparison->[Enemy]</li>
   </Insult.logRulesInitiator.rulesStrings>
   
-
   <!-- UNUSED -->
   <Insult.logRulesRecipient.rulesStrings>
     <li>UNUSED</li>

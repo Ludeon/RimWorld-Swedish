@@ -36,9 +36,9 @@
   <!-- EN: Administrerar rökbladscigarr. -->
   <Administer_SmokeleafJoint.jobString>Administrerar rökbladsjoint.</Administer_SmokeleafJoint.jobString>
   
-  <!-- EN: administrera vakna -->
+  <!-- EN: administrera va-kna -->
   <Administer_WakeUp.label>administrera va-kna</Administer_WakeUp.label>
-  <!-- EN: Administrerar vakna. -->
+  <!-- EN: Administrerar va-kna. -->
   <Administer_WakeUp.jobString>Administrerar va-kna.</Administer_WakeUp.jobString>
   
   <!-- EN: administrera yayo -->
@@ -94,17 +94,17 @@
   <!-- EN: Tillverkar parka. -->
   <Make_Apparel_Parka.jobString>Syr en parka</Make_Apparel_Parka.jobString>
   
-  <!-- EN: Tillverka kraftrustning -->
-  <Make_Apparel_PowerArmor.label>Tillverka kraftrustning</Make_Apparel_PowerArmor.label>
-  <Make_Apparel_PowerArmor.description>Tillverka kraftrustning</Make_Apparel_PowerArmor.description>
-  <!-- EN: Tillverkar kraftrustning. -->
-  <Make_Apparel_PowerArmor.jobString>Tillverkar kraftrustning.</Make_Apparel_PowerArmor.jobString>
+  <!-- EN: Tillverka marinsoldatsrustning -->
+  <Make_Apparel_PowerArmor.label>Tillverka marinsoldatsrustning</Make_Apparel_PowerArmor.label>
+  <Make_Apparel_PowerArmor.description>Tillverka marinsoldatsrustning</Make_Apparel_PowerArmor.description>
+  <!-- EN: Tillverkar marinsoldatsrustning. -->
+  <Make_Apparel_PowerArmor.jobString>Tillverkar marinsoldatsrustning.</Make_Apparel_PowerArmor.jobString>
   
-  <!-- EN: Tillverka kraftutrustningshjälm -->
-  <Make_Apparel_PowerArmorHelmet.label>tillverka kraftrustningshjälm</Make_Apparel_PowerArmorHelmet.label>
-  <Make_Apparel_PowerArmorHelmet.description>Tillverka kraftrustningshjälm</Make_Apparel_PowerArmorHelmet.description>
-  <!-- EN: Tillverkar kraftutrustningshjälm. -->
-  <Make_Apparel_PowerArmorHelmet.jobString>Tillverkar en kraftrustningshjälm.</Make_Apparel_PowerArmorHelmet.jobString>
+  <!-- EN: Tillverka marinsoldatshjälm -->
+  <Make_Apparel_PowerArmorHelmet.label>tillverka marinsoldathjälm</Make_Apparel_PowerArmorHelmet.label>
+  <Make_Apparel_PowerArmorHelmet.description>Tillverka marinsoldathjälm</Make_Apparel_PowerArmorHelmet.description>
+  <!-- EN: Tillverkar marinsoldatshjälm. -->
+  <Make_Apparel_PowerArmorHelmet.jobString>Tillverkar en marinsoldathjälm.</Make_Apparel_PowerArmorHelmet.jobString>
   
   <!-- EN: Tillverka sköldbälte -->
   <Make_Apparel_ShieldBelt.label>Tillverka sköldbälte</Make_Apparel_ShieldBelt.label>
@@ -124,10 +124,10 @@
   <!-- EN: Tillverkar rökskyddsbälte. -->
   <Make_Apparel_SmokepopBelt.jobString>Tillverkar ett rökskyddsbälte.</Make_Apparel_SmokepopBelt.jobString>
   
-  <!-- EN: Tillverka stamkläder -->
+  <!-- EN: Tillverka kroppsskynke -->
   <Make_Apparel_TribalA.label>Sy ett kroppsskynke</Make_Apparel_TribalA.label>
   <Make_Apparel_TribalA.description>Sy ett kroppsskynke</Make_Apparel_TribalA.description>
-  <!-- EN: Tillverkar stamkläder. -->
+  <!-- EN: Tillverkar kroppsskynke. -->
   <Make_Apparel_TribalA.jobString>Syr ett kroppsskynke.</Make_Apparel_TribalA.jobString>
   
   <!-- EN: Tillverka mössa -->
@@ -305,15 +305,15 @@
   <Make_Shell_HighExplosive.jobString>Tillverkar en patron.</Make_Shell_HighExplosive.jobString>
   
   <!-- EN: Tillverka rökbladscigarr -->
-  <Make_SmokeleafJoint.label>Tillverka rökbladsjoint</Make_SmokeleafJoint.label>
+  <Make_SmokeleafJoint.label>Gör rökbladsjoint</Make_SmokeleafJoint.label>
   <Make_SmokeleafJoint.description>Gör rökbladsjoint</Make_SmokeleafJoint.description>
   <!-- EN: Tillverkar rökbladscigarr. -->
   <Make_SmokeleafJoint.jobString>Tillverkar rökbladsjoint.</Make_SmokeleafJoint.jobString>
   
-  <!-- EN: Tillverka vakna -->
+  <!-- EN: Tillverka va-kna -->
   <Make_WakeUp.label>Tillverka va-kna</Make_WakeUp.label>
   <Make_WakeUp.description>Tillverka va-kna</Make_WakeUp.description>
-  <!-- EN: Tillverkar vakna. -->
+  <!-- EN: Tillverkar va-kna. -->
   <Make_WakeUp.jobString>Tillverkar va-kna.</Make_WakeUp.jobString>
   
   <!-- EN: Tillverka yayo -->
