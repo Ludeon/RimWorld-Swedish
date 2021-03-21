@@ -6,7 +6,7 @@
   <!-- EN: Clear -->
   <ClearBinding>Rensa</ClearBinding>
   <!-- EN: Reset to default -->
-  <ResetBinding>Återställ till standard</ResetBinding>
+  <ResetBinding>Återställ till standardinställningar</ResetBinding>
   <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>Vänsterklicka för att tilldela denna tangent, högerklicka för fler alternativ</BindingButtonToolTip>
   <!-- EN: Press any key or Esc to cancel... -->

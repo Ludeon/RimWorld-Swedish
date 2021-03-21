@@ -1,4 +1,4 @@
-﻿TODO - dotter och kvinnliga släktingar?
+TODO - dotter och kvinnliga släktingar?
 mamma
 son
 pappa
@@ -6,4 +6,12 @@ bror
 farbror
 syskonbarn
 faster
+
+mor
+son
+far
+bror
+farbror
+brorson
+moster
 

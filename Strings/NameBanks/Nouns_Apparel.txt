@@ -10,12 +10,12 @@ kostym
 rymddräkt
 aftonklänning
 parka
-TODO duster
+skaljacka
 sko
 byxor
-TODO suit of power armor
+power armor
 hängslen
-flyga
+fluga
 plommonstop
 keps
 mössa

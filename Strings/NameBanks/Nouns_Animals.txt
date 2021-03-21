@@ -1,4 +1,4 @@
-﻿TODO
+
 
 // Added Swedish animals 
 utter
@@ -21,7 +21,7 @@ iguana
 jordsvin
 albatross
 alligator
-alpaca
+alpacka
 myra
 myrslok
 antilop
@@ -47,7 +47,7 @@ gepard
 kykling
 schimpans
 chinchilla
-kråka
+alpkråka
 mussla
 kakerlacka
 torsk
@@ -57,12 +57,13 @@ prärievarg
 krabba
 trana
 krokodil
-korp
+kråka
 dinosaurie
 hund
-ddelfin
+delfin
 duva
 eldfluga
+trollslända
 örn
 myrpiggsvin
 ål
@@ -81,8 +82,11 @@ räv
 groda
 gazell
 ökenråtta
+girbil
 panda
 giraff
+knott
+ökenråtta
 gnu
 get
 gås
@@ -123,7 +127,7 @@ lama
 hummer
 gräshoppa
 lus
-TODO lyrebird
+lyrfågel
 skata
 gräsand
 anka
@@ -214,3 +218,4 @@ hackspett
 mask
 jak
 zebra
+älg

@@ -4,7 +4,6 @@ röd
 svart
 grå
 askgrå
-
 dunkel
 mörk
 natt

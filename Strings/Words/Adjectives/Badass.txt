@@ -1,4 +1,4 @@
-﻿TODO
+TODO
 notorious
 deadly
 deep
@@ -23,6 +23,31 @@ smoky
 nutty
 killer
 dark
+
+ökända
+dödliga
+djupa
+giftiga
+tandade
+lojala
+ostoppbara
+djuriska
+blodiga
+kallblodiga
+spökliga
+självmordsbenägna
+maniska
+galna
+vilda
+glödande
+mördande
+hatiga
+rädda
+skrämmande
+rökiga
+tokiga
+mördande
+mörka
 
 
 

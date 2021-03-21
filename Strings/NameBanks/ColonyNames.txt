@@ -1,12 +1,11 @@
-﻿TODO
-Crashville
-Crashtown
-Fallville
-Rimville
-Rimtown
-Jamestown
-Salvation
-Sleepville
+﻿Krashby
+Krashstad
+Fallby
+Rimby
+Rimstad
+Jamesstad
+Frälsningen
+Sömnby
 Microton
 Hurra
 Ellis
@@ -18,48 +17,48 @@ Parthos
 Lutin
 Shemston
 Craterton
-Wesselton
-Stonkley
+Vesselton
+Stonkly
 Flint
 Troit
 Planeton
 
 
-We Landed
-We Made It
+Vi landade
+Vi gjorde det
 Landfall
 
-Lakeside Ridge
-Pine View
-Flowerville
-Sun Village
+Bergkam
+Tallsikt
+Blomsterby
+Solby
 
 
-Congers
-Colome
-Sparks
+Kongers
+Kolome
+Blixt
 Bedias
-Rhine
-Hialeah
-Qulin
+Rine
+Hialea
+Kulin
 Crosbyton
-Mayaguez
-Seagraves
-Whitaker
+Majages
+Sjögrav
+Småtag
 Welsh
-Braselton
-Colwyn
+Braselby
+Kolvin
 Sparta
 La Minita
 Lepanto
 Graton
 Progreso
 Antioch
-Nemacolin
+Nemakolin
 Dannebrog
 Palo Pinto
-Breinigsville
+Breinigsby
 Alturas
-Pottstown
-Caro
+Pottsstad
+Karo
 Sparland

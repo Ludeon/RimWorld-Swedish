@@ -1,13 +1,13 @@
-﻿tomato
-carrot
-onion
-turnip
+﻿tomat
+morot
+lök
+rova
 bok choy
-stalk of celery
-gourd
-pumpkin
+stjälk av selleri
+kalebass
+pumpa
 broccoli
-cauliflower
-bell pepper
-potato
-mushroom
+blomkål
+paprika
+potatis
+svamp

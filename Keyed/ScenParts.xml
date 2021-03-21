@@ -4,7 +4,7 @@
   <!-- ======================== Non-grouped ========================-->
   
   <!-- EN: Your faction will be a {0}. -->
-  <ScenPart_PlayerFaction>Din fraktion kommer bli en {0}.</ScenPart_PlayerFaction>
+  <ScenPart_PlayerFaction>Din grupp kommer att vara en {0}.</ScenPart_PlayerFaction>
 
   <!-- EN: Start with {0} people, chosen from {1}. -->
   <ScenPart_StartWithPawns>Du startar med {0} personer.</ScenPart_StartWithPawns>
@@ -36,7 +36,7 @@
   <!-- EN: {0} have a {1} chance to start with trait: {2} -->
   <ScenPart_PawnsHaveTrait>{0} har en {1} chans att starta med karaktärsdrag: {2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
-  <ScenPart_OnPawnDeathExplode>karaktärer och varelser explorerar när dom dör ({0}, radie {1}).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_OnPawnDeathExplode>Karaktärer och varelser exploderar när de dör ({0}, radie {1}).</ScenPart_OnPawnDeathExplode>
   <!-- EN: {0} start naked. -->
   <ScenPart_PawnsAreNaked>{0} börja naken.</ScenPart_PawnsAreNaked>
   
@@ -57,7 +57,7 @@
   <!-- EN: Permanent game condition(s) -->
   <ScenPart_PermaGameCondition>Permanenta spelvillkor</ScenPart_PermaGameCondition>
   <!-- EN: Incident(s) disabled -->
-  <ScenPart_DisableIncident>Händelse(r) inaktiverad</ScenPart_DisableIncident>
+  <ScenPart_DisableIncident>Händelse(r) avaktiverad</ScenPart_DisableIncident>
   <!-- EN: Incident created -->
   <ScenPart_CreateIncident>Händelse skapad</ScenPart_CreateIncident>
   <!-- EN: Can never build -->

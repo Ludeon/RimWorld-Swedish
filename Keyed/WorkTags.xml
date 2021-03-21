@@ -12,13 +12,13 @@
   <!-- EN: violent -->
   <WorkTagViolent>våld</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>omtanke</WorkTagCaring>
+  <WorkTagCaring>vård</WorkTagCaring>
   <!-- EN: social -->
   <WorkTagSocial>social</WorkTagSocial>
   <!-- EN: animals -->
   <WorkTagAnimals>djurhantering</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>konst</WorkTagArtistic>
+  <WorkTagArtistic>konstnärlighet</WorkTagArtistic>
   <!-- EN: crafting -->
   <WorkTagCrafting>tillverkning</WorkTagCrafting>
   <!-- EN: cooking -->
@@ -28,7 +28,7 @@
   <!-- EN: cleaning -->
   <WorkTagCleaning>städning</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>släpa</WorkTagHauling>
+  <WorkTagHauling>transportering</WorkTagHauling>
   <!-- EN: plant work -->
   <WorkTagPlantWork>odling</WorkTagPlantWork>
   <!-- EN: mining -->

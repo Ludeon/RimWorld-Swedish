@@ -18,22 +18,22 @@
   <TabCaravanItems>Föremål</TabCaravanItems>
   
   <!-- Misc -->
-  <!-- EN: Abandon {{0}}x {1_labelShort} -->
-  <AbandonSliderText>Överge {{0}}x {1_labelShort}</AbandonSliderText>
-  <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Vill du verkligen överge {1_label}?\n\nÖvergivna föremål försvinner och kan aldrig återfås igen.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon {{0}}x {0} -->
+  <AbandonSliderText>Överge {{0}}x {0}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>Vill du verkligen överge {0}?\n\nÖvergivna föremål går aldrig att få tillbaka.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>Överge</AbandonTip>
   <!-- EN: Banish -->
   <BanishTip>Förvisa</BanishTip>
   <!-- EN: Abandon specific count -->
-  <AbandonSpecificCountTip>Överge ett antal</AbandonSpecificCountTip>
+  <AbandonSpecificCountTip>Överge specifikt antal</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
   <AbandonAllTip>Överge (allt)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>Övergivna föremål försvinner och kan aldrig återfås igen.</AbandonItemTipExtraText>
-  <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>{1_labelShort} kommer sannolikt att dö.</BanishTipWillDie>
+  <AbandonItemTipExtraText>Övergivna föremål går aldrig att få tillbaka.</AbandonItemTipExtraText>
+  <!-- EN: {0} will most likely die. -->
+  <BanishTipWillDie>{0} kommer sannolikt att dö.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
@@ -49,13 +49,13 @@
   <!-- EN: Inventory -->
   <CaravanWeaponsAndApparel>Packning</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>Ingen kapabel</NoneCapable>
+  <NoneCapable>Ingen är kapabel</NoneCapable>
   <!-- EN: Caravan not moving -->
   <GainingJoyBecauseCaravanNotMoving>Karavanen står still</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>Dra för att ordna.</DragToRearrange>
+  <DragToRearrange>Dra för att ordna om.</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
@@ -67,7 +67,7 @@
   
   <!-- Planet -->
   <!-- EN: Seed -->
-  <PlanetSeed>frö</PlanetSeed>
+  <PlanetSeed>Frö</PlanetSeed>
   <!-- EN: Coverage -->
   <PlanetCoverageShort>Täckning</PlanetCoverageShort>
 

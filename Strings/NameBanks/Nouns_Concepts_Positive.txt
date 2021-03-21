@@ -1,4 +1,4 @@
-﻿TODO
+TODO
 hope
 love
 strength
@@ -34,5 +34,41 @@ kindness
 grace
 decency
 elegance
+
+hopp
+kärlek
+styrka
+kamp
+familj
+lojalitet
+utopi
+nöje
+glädje
+salighet
+stadighet
+massor
+kramar
+tillväxt
+lycka
+samhörighet
+gemenskap
+tillgivenhet
+närhet
+intimitet
+kamratskap
+vänskap
+välvilja
+hängivenhet
+harmoni
+solidariet
+medkänsla
+barmhärtighet
+tålamod
+sympati
+ärlighet
+vänlighet
+nåd
+hygglighet
+elegans
 
 

@@ -10,8 +10,13 @@
   <Art.labelShort>Konst</Art.labelShort>
   <!-- EN: Artist -->
   <Art.pawnLabel>Konstnär</Art.pawnLabel>
+  <!-- EN: art -->
+  <Art.gerundLabel>konst</Art.gerundLabel>
   <!-- EN: Do art at -->
   <Art.verb>Skapa konst vid</Art.verb>
+  <Art.label>Konst</Art.label>
+  <!-- EN: Create beautiful works of art from raw materials. -->
+  <Art.description>Skapa vackra konstverk från olika material.</Art.description>
   
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
   <BasicWorker.description>Enkla sysslor. frige fångar och trycka på strömbrytare på maskiner.</BasicWorker.description>

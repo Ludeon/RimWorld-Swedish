@@ -11,16 +11,16 @@
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Sommar</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Sommaren är här men vintern är påväg.\n\nDina odlingar kommer inte kunna växa i vinterns kyla. Se till att spara flera tillräckligt med mat för att överleva.\n\nDu kan bygga ett större frysrum för att förhindra mat ifrån att bli förstörd.\n\nKöp, stjäl eller tillverka några parkas, annars kommer ni att frysa när ni går ut.</FirstSummerWarning>
+  <FirstSummerWarning>Sommaren är här men vintern är påväg.\n\nDina matodlingar kommer inte kunna växa i vinterkylan. Se till att spara tillräckligt med mat nu, medan ni fortfarande kan.\n\nNi kan bygga ett större kylrum för att förhindra att mat att blir förstörd.\n\nKöp, stjäl eller tillverka några parkas, annars kommer ni frysa när ni går ut.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>Relationen med {0} har brutits helt. De är nu fientliga mot dig.\n\nDe kommer att genomföra periodiska räder mot din koloni och dina karavaner, och vägrar att handla med dig. Om du vill förbättra relationen kan du fortfarande erbjuda dem gåvor med karavaner eller transportkapslar.\n\nDetta hände på grund av att välvija ({1}) har fallit under {2}. För att återställa neutrala en relation måste välvijan nå {3} igen.</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_Hostile>Förhållandena med {0} har brutits helt. De är nu fientliga mot dig.\n\nDe kommer periodiskt attackera ditt koloni och dina karavaner och vägrar att handla med dig. Om du vill förbättra relationerna kan du fortfarande erbjuda dem gåvor med karavaner eller transportkapslar.\n\nDetta hände på grund av att välvija ({1}) har fallit under {2}. För att återställa neutrala relationer måste välvija nå {3} igen.</LetterRelationsChange_Hostile>
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostile>Relationen med {0} har förbättrats. De anser nu att du är neutral och kommer inte längre att attackera dig.\n\nDetta hände på grund av att välvijan ({1}) har stigit över {2}. Om välvijan faller under {3} blir {0} fientlig igen. Om välviljan stiger över {4} kommer de att bli dina allierade och kämpa för dig.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostile>Förhållandena med {0} har förrbättrats. De anser nu dig som neutral och kommer inte längre att attackera dig.\n\nDetta hände på grund av att välvija ({1}) har stigit över {2}. Om välvija faller under {3} blir {0} fientlig igen. Om välvilja stiger över {4} kommer de att bli allierade till dig och kämpa för dig.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAlly>Förhållandena med {0} har svalnat. De anser nu att du är neutral i stället för allierade.\n\n De kommer fortfarande att samverka fredligt med dig, men de skickar inte längre krigare för att hjälpa dig när du hotas.\n\nDetta inträffade på grund av att välviljan ({1}) föll under {2}. Om välviljan faller under {3} blir {0} fientliga. Om välviljan stiger över {4} kommer de att bli dina allierade igen.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>Förhållandena med {0} har svalnat. De anser nu dig som neutral i stället för allierad. De kommer fortfarande att samarbeta med dig, men dom skickar inte längre soldater för att hjälpa dig när du hotas.\n\nDetta hände på grund av att välvilja ({1}) har fallit under {2}. Om välvilja faller under {3} blir {0} fientliga. Om välvilja stiger över {4} kommer de att bli allierade till dig igen.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>Relationen med {0} har blivit mycket nära. De betraktar dig nu som en allierad.\n\nAllierade kommer ibland anlända för att hjälpa till att bekämpa dina fiender när du är attackerad. Du kan också anropa dem för hjälp när som helst, till en kostnad av välvilja.\n\nDu har blivit allierad eftersom din välvilja ({1}) har stigit över {2}. Om välviljan faller under {3} kommer relationen att återgå till neutral.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Ally>Förhållandena mellan dig och {0} har blivit mycket nära. De betraktar dig nu som allierad till dem.\n\nAllierade kommer ibland att hjälpa till att bekämpa dina fiender när du blir attackerad. Du kan också anropa dem för hjälp när som helst, till en kostnad av välvilja.\n\nDu har blivit allierad eftersom din välvilja ({1}) har stigit över {2}. Om välvilja faller under {3} kommer relationerna att återgå till att vara neutrala.</LetterRelationsChange_Ally>
 
   <!-- EN: goodwill -->
   <goodwill>välvija</goodwill>
@@ -53,33 +53,33 @@
   <!-- EN: {0} failed to recruit {1} ({2} chance). -->
   <RecruitFail>{0} misslyckades med att rekrytera {1} ({2} chans).</RecruitFail>
 
-  <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} är {RELATIVE_labelShort}s {1}. Om {PAWN_nameDef} dör, kommer {RELATIVE_labelShort} drabbas av långvarig sorg. Om du lyckas rädda {PAWN_nameDef} kommer {RELATIVE_labelShort} dock att vara mycket lycklig under en längre tid.</RelatedPawnInvolvedInQuest>
+  <!-- EN: [PAWN_nameDef] is {0}'s {1}. If [PAWN_nameDef] dies, {0} will suffer from long-lasting grief. However, if you manage to rescue [PAWN_nameDef], {0} will be very happy for a long time. -->
+  <RelatedPawnInvolvedInQuest>[PAWN_nameDef] är {0}'s {1}. Om [PAWN_nameDef] dör, kommer {0} drabbas av långvarig sorg. Om du lyckas rädda [PAWN_nameDef] kommer {0} dock att vara mycket lycklig under en lång tid.</RelatedPawnInvolvedInQuest>
 
   <!-- EN: Birthday -->
   <LetterLabelBirthday>Födelsedag</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-  <BirthdayChronological>Det är {0}'s kronologiska födelsedag idag! Biologiskt är {1} {3} år gammal.\n\nKronologiskt har {1} just fyllt {2} år.\n\nNotera att efterom personer inte åldras i kryptosömn så skiljer sig kronologisk födelsedag från en biologisk födelsedag.</BirthdayChronological>
-  <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
-  <BirthdayBiologicalAgeInjuries>{0_nameFull} har nått den biologiska åldern {1}.\n\nTyvärr har {0_nameFull} fått följande sjukdommar på grund av ålder:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayChronological>Det är {0}'s kronologiska födelsedag idag! Biologiskt är {1} {3} år gammal.\n\nKronologiskt är {1} {2} år.\n\nNotera att efterom personer inte åldras i kryptosömn så skiljer sig en kronologisk födelsedag ifrån en biologisk födelsedag.</BirthdayChronological>
+  <!-- EN: {0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2} -->
+  <BirthdayBiologicalAgeInjuries>{0} har blivit {1} år biologisk.\n\nTyvärr så har {0} fått följande sjukdomar på grund av ålder :\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>Sjukdom</LetterLabelNewDisease>
-  <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{PAWN} har blivit sjuk av {1}.\n\nSe till att du har en sjuksäng och en läkare. Se till att {PAWN_definite} får kvalitativ vård och spenderar så mycket tid som möjligt i säng.</NewDisease>
-  <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{PAWN} har blivit sjuk av {3}. Infektionen är i {PAWN_possessive}s {1}.\n\nSe till att ni har en sjukhussäng och en läkare. Se även till att {PAWN_definite} får kvalitativ vård och spenderar så mycket tid som möjligt i säng.</NewPartDisease>
-  <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
-  <NewDiseaseAnimal>{PAWN_labelShort} har utvecklat en sjukdom: {1}</NewDiseaseAnimal>
-  <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
-  <NewPartDiseaseAnimal>{PAWN_labelShort} har utvecklat en sjukdom: {3} i {PAWN_possessive}s {1}</NewPartDiseaseAnimal>
+  <!-- EN: {0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible. -->
+  <NewDisease>{0} har blivit sjuk av {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {2} får rätt behandling och spenderar så mycket tid som möjligt i säng.</NewDisease>
+  <!-- EN: {0} has gotten sick from {3}. The infection is in [PAWN_possessive] {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible. -->
+  <NewPartDisease>{0} har blivit sjuk av {3}. Infektionen är i [PAWN_possessive] {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {2} får rätt behandling och spenderar så mycket tid som möjligt i säng.</NewPartDisease>
+  <!-- EN: {0} has developed an illness: {1} -->
+  <NewDiseaseAnimal>{0} har utvecklat en sjukdom:</NewDiseaseAnimal>
+  <!-- EN: {0} has developed an illness: {3} in [PAWN_possessive] {1} -->
+  <NewPartDiseaseAnimal>{0} har utvecklat en sjukdom: {3} i [PAWN_possessive] {1}</NewPartDiseaseAnimal>
 
-  <!-- EN: {1_labelShort} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>{1_labelShort} var tidigare en del av din fraktion.</PawnWasFormerlyColonist>
-  <!-- EN: {1_labelShort} has these relationships with your colonists: -->
-  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} har dessa relationer med dina kolonister:</PawnHasTheseRelationshipsWithColonists>
-  <!-- EN: The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {PRISONER_labelShort} again. -->
-  <PrisonerRescueTimeout>Lägret kommer att försvinna efter {0} dagar. Om du missar denna möjlighet kanske du aldrig hör från {PRISONER_labelShort} igen.</PrisonerRescueTimeout>
+  <!-- EN: {0} was formerly part of your faction. -->
+  <PawnWasFormerlyColonist>{0} var tidigare en del av din grupp.</PawnWasFormerlyColonist>
+  <!-- EN: {0} has these relationships with your colonists: -->
+  <PawnHasTheseRelationshipsWithColonists>{0} har dessa relationer med dina kolonister:</PawnHasTheseRelationshipsWithColonists>
+  <!-- EN: The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {1} again. -->
+  <PrisonerRescueTimeout>Lägret kommer att försvinna efter {0} dagar. Om du missar denna möjlighet kanske du aldrig hör från {1} igen.</PrisonerRescueTimeout>
 
   <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Uråldrig fara</LetterLabelAncientShrineWarning>

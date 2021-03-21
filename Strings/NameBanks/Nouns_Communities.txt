@@ -1,4 +1,3 @@
-﻿TODO
 småstad
 småstad
 ort
@@ -9,8 +8,10 @@ distrikt
 region
 by
 rastplats
+värdshus
 kommun
 stadsdel
-smalltown
+gemenskap
 samhälle
+köping
 storstad
