@@ -335,9 +335,9 @@
   <!-- EN: Harvest yield -->
   <HarvestYield>Skördemängd</HarvestYield>
   <!-- EN: Min growth temperature -->
-  <MinGrowthTemperature>TODO</MinGrowthTemperature>
+  <MinGrowthTemperature>Minsta växttemperatur</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
-  <MaxGrowthTemperature>TODO</MaxGrowthTemperature>
+  <MaxGrowthTemperature>Högsta växttemperatur</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
   <GrowingTimeDesc>Växter växer bara under en del av dagen och endast när de får ljus. Detta värde anger hur länge växten aktivt måste växa för att nå full storlek. Den faktiska tiden brukar vara ungefär dubbelt så lång. Under låg temperatur tar det ännu längre tid.</GrowingTimeDesc>
   <!-- EN: days -->
@@ -443,9 +443,9 @@
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>TODO</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>TODO</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>Hur många skott detta vapentorn kan skjuta innan det behöver laddas om</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
-  <PowerConsumption>TODO</PowerConsumption>
+  <PowerConsumption>Elkonsumtion</PowerConsumption>
 
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -599,7 +599,7 @@
   <!-- EN: Mass -->
   <Mass>Vikt</Mass>
   <!-- EN: Caravan mass -->
-  <CaravanMass>TODO</CaravanMass>
+  <CaravanMass>Karavanens vikt</CaravanMass>
   <!-- EN: Equipment and apparel mass -->
   <EquipmentAndApparelMass>Utrustning och kläders vikt</EquipmentAndApparelMass>
   <!-- EN: Inventory mass -->
@@ -721,7 +721,7 @@
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Drogpolicy används av {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>TODO</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Matrestriktion används av {0}</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Sociala droger</SocialDrugs>
   <!-- EN: No drugs -->
@@ -779,27 +779,27 @@
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
-  <FoodRestriction>TODO</FoodRestriction>
+  <FoodRestriction>Matrestriktion</FoodRestriction>
   <!-- EN: Lavish -->
-  <FoodRestrictionLavish>TODO</FoodRestrictionLavish>
+  <FoodRestrictionLavish>Gourmet</FoodRestrictionLavish>
   <!-- EN: Fine -->
-  <FoodRestrictionFine>TODO</FoodRestrictionFine>
+  <FoodRestrictionFine>Fin</FoodRestrictionFine>
   <!-- EN: Simple -->
-  <FoodRestrictionSimple>TODO</FoodRestrictionSimple>
+  <FoodRestrictionSimple>Simpel</FoodRestrictionSimple>
   <!-- EN: Paste -->
-  <FoodRestrictionPaste>TODO</FoodRestrictionPaste>
+  <FoodRestrictionPaste>Mixad</FoodRestrictionPaste>
   <!-- EN: Raw -->
-  <FoodRestrictionRaw>TODO</FoodRestrictionRaw>
+  <FoodRestrictionRaw>Rå</FoodRestrictionRaw>
   <!-- EN: Nothing -->
-  <FoodRestrictionNothing>TODO</FoodRestrictionNothing>
+  <FoodRestrictionNothing>Ingenting</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>TODO</SelectFoodRestriction>
+  <SelectFoodRestriction>Välj matrestriktion</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>TODO</NewFoodRestriction>
+  <NewFoodRestriction>Ny matrestriktion</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>TODO</DeleteFoodRestriction>
+  <DeleteFoodRestriction>Ta bort matrestriktioner</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>TODO</NoFoodRestrictionSelected>
+  <NoFoodRestrictionSelected>Inga matrestrriktioner valda</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->

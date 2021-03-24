@@ -7,9 +7,9 @@
   <AimingDelayFactor.description>Hur lång tid det tar att skjuta efter att ha valt ut ett mål.</AimingDelayFactor.description>
   
   <!-- EN: melee armor penetration -->
-  <MeleeArmorPenetration.label>TODO</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.label>Penetration av skydd i närstrid</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
-  <MeleeArmorPenetration.description>TODO</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.description>Genomsnittlig penetration av stridsskydd av alla attacker i närstrid. Denna TODO inkluderar nuvarande använt vapen.</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>chans att ducka i närstrid</MeleeDodgeChance.label>
@@ -19,20 +19,20 @@
   <!-- EN: melee DPS -->
   <MeleeDPS.label>Närstrids DPS</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>Standardskada per sekund (eng. Damage Per Second) i närstrid. Denna TODO ignorerar målets skydd såsom att ducka eller rustning</MeleeDPS.description>
+  <MeleeDPS.description>Standardskada per sekund (eng. Damage Per Second) i närstrid. Denna TODO ignorerar målets skydd exempelvis skydd och förmåga avv undvika slag.</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>träffchans närstrid</MeleeHitChance.label>
+  <MeleeHitChance.label>träffchans i närstrid</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>TODO</MeleeHitChance.description>
+  <MeleeHitChance.description>Chansen att träffa ett mål i närstrid. Målet kan fortfarande undvika trots att själva slaget skulle lyckats. </MeleeHitChance.description>
   
   <!-- UNUSED -->
   <ShootingAccuracy.label>UNUSED</ShootingAccuracy.label>
   <ShootingAccuracy.description>UNUSED</ShootingAccuracy.description>
   
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.label>träffsäkerhet</ShootingAccuracyPawn.label>
   <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyPawn.description>TODO</ShootingAccuracyPawn.description>
+  <ShootingAccuracyPawn.description>Chansen att inte missa i distans per ruta. Chansen att träffa påverkas även av många andra faktorer. En förklaring av träffchans för varje skott kan ses genom att markera en skytt och hålla muspekaren över målet. </ShootingAccuracyPawn.description>
   
 </LanguageData>

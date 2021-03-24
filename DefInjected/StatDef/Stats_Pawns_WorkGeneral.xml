@@ -27,9 +27,9 @@
   <FixBrokenDownBuildingSuccessChance.description>En chans att den här personen kommer att lyckas reparera en trasig byggnad med hjälp av en komponent. Att misslyckas innebär att tid och resurser slösas bort. Observera att detta endast gäller reparation av trasig byggnader, vilket skiljer sig från att reparera skador.</FixBrokenDownBuildingSuccessChance.description>
   
   <!-- EN: hunting stealth -->
-  <HuntingStealth.label>TODO</HuntingStealth.label>
+  <HuntingStealth.label>smygande vid jakt</HuntingStealth.label>
   <!-- EN: This stat reduces the chance of hunted animals attacking the hunter. A 0% score means no reduction. A 100% score means animals never attack. -->
-  <HuntingStealth.description>TODO</HuntingStealth.description>
+  <HuntingStealth.description>Denna TODO reducerar chansen för att villebrådet attakerar jägaren. 0% betyder ingen minskning. 100% betyder att djur aldrig attakerar.</HuntingStealth.description>
   
   <!-- EN: mining speed -->
   <MiningSpeed.label>gruvhastighet</MiningSpeed.label>
