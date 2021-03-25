@@ -1,7 +1,6 @@
 ﻿
 //Simple colors only, no mauve and puce
 
-
 röd
 blå
 grön
@@ -10,3 +9,4 @@ svart
 vit
 grå
 orange
+gul
