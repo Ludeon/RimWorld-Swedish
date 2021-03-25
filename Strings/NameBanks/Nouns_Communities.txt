@@ -1,8 +1,5 @@
 småstad
-småstad
 ort
-stad
-stad
 stad
 distrikt
 region
@@ -15,3 +12,4 @@ gemenskap
 samhälle
 köping
 storstad
+förort

@@ -13,3 +13,5 @@ träd
 bergsrygg
 dal
 platå
+bergstopp
+fjäll

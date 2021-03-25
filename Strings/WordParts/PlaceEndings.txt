@@ -1,4 +1,5 @@
-﻿an
+﻿TODO
+an
 
 ba
 bo
@@ -23,7 +24,7 @@ istia
 la
 lor
 ler
-TODO
+
 lia
 lior
 lium

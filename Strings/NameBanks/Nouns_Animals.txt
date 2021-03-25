@@ -75,7 +75,6 @@ emu
 falk
 iller
 fink
-fisk
 flamingo
 fluga
 räv
