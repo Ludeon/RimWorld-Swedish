@@ -4,114 +4,114 @@
   <!-- EN: bearskin -->
   <Leather_Bear.label>gilzzlybjörnfäll</Leather_Bear.label>
   <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
-  <Leather_Bear.description>gilzzlybjörnfäll</Leather_Bear.description>
+  <Leather_Bear.description>Fällen från en grizzlybjörn, stark och luden. Jämfört med de flesta andra läder och fällar är den starkare och lite bättre för alla typer av temperaturreglering.</Leather_Bear.description>
   <Leather_Bear.stuffProps.stuffAdjective>gilzzlybjörnfäll</Leather_Bear.stuffProps.stuffAdjective>
   
   <!-- EN: birdskin -->
   <Leather_Bird.label>kasuarläder</Leather_Bird.label>
   <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
-  <Leather_Bird.description>kasuarläder</Leather_Bird.description>
+  <Leather_Bird.description>Garvat, torkat och skrapat fågelskinn. Ganska skört och utan fjädrar ger det ganska lite skydd mot värme och kyla.</Leather_Bird.description>
   <Leather_Bird.stuffProps.stuffAdjective>kasuarläder</Leather_Bird.stuffProps.stuffAdjective>
   
   <!-- EN: bluefur -->
-  <Leather_Bluefur.label>TODO</Leather_Bluefur.label>
+  <Leather_Bluefur.label>blåpäls</Leather_Bluefur.label>
   <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
-  <Leather_Bluefur.description>muffelläder</Leather_Bluefur.description>
-  <Leather_Bluefur.stuffProps.stuffAdjective>muffelläder</Leather_Bluefur.stuffProps.stuffAdjective>
+  <Leather_Bluefur.description>Den tjocka pälsen från en muffel. Känns igen på den distinkt blåa tonen. Bra för temperaturreglering i kalla klimat.</Leather_Bluefur.description>
+  <Leather_Bluefur.stuffProps.stuffAdjective>muffellpäls</Leather_Bluefur.stuffProps.stuffAdjective>
   
   <!-- EN: camelhide -->
   <Leather_Camel.label>dromedarläder</Leather_Camel.label>
   <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
-  <Leather_Camel.description>dromedarläder</Leather_Camel.description>
+  <Leather_Camel.description>Garvat, torkat och skrapat dromedarläder, bra för temperaturreglering i varma klimat.</Leather_Camel.description>
   <Leather_Camel.stuffProps.stuffAdjective>dromedarläder</Leather_Camel.stuffProps.stuffAdjective>
   
   <!-- EN: chinchilla fur -->
   <Leather_Chinchilla.label>chinchillapäls</Leather_Chinchilla.label>
   <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
-  <Leather_Chinchilla.description>chinchillapäls</Leather_Chinchilla.description>
-  <Leather_Chinchilla.stuffProps.stuffAdjective>chinchillapäls</Leather_Chinchilla.stuffProps.stuffAdjective>
+  <Leather_Chinchilla.description>Garvad, torkad och skrapad chinchillafäll. Känd som extremt lyxig och isolerande päls mycket värdefull.</Leather_Chinchilla.description>
+  <Leather_Chinchilla.stuffProps.stuffAdjective>chinchillafäll</Leather_Chinchilla.stuffProps.stuffAdjective>
   
   <!-- EN: dog leather -->
-  <Leather_Dog.label>yorkshireskinn</Leather_Dog.label>
+  <Leather_Dog.label>hundläder</Leather_Dog.label>
   <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
-  <Leather_Dog.description>yorkshireskinn</Leather_Dog.description>
-  <Leather_Dog.stuffProps.stuffAdjective>yorkshireskinn</Leather_Dog.stuffProps.stuffAdjective>
+  <Leather_Dog.description>Garvat, torkat och skrapat hundskinn. Traditionellt och bra material att tillvarka kläver och väskor av.</Leather_Dog.description>
+  <Leather_Dog.stuffProps.stuffAdjective>hundläder</Leather_Dog.stuffProps.stuffAdjective>
   
   <!-- EN: elephant leather -->
   <Leather_Elephant.label>elefanthud</Leather_Elephant.label>
   <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
-  <Leather_Elephant.description>elefanthud</Leather_Elephant.description>
+  <Leather_Elephant.description>Garvad, torkad och skrapad elefanthud. Relativt tåligt, men riktigt dålig isoleringsförmåga.</Leather_Elephant.description>
   <Leather_Elephant.stuffProps.stuffAdjective>elefanthud</Leather_Elephant.stuffProps.stuffAdjective>
   
   <!-- EN: foxfur -->
-  <Leather_Fox.label>fennecrävskinn</Leather_Fox.label>
+  <Leather_Fox.label>rävpäls</Leather_Fox.label>
   <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
-  <Leather_Fox.description>fennecrävskinn</Leather_Fox.description>
-  <Leather_Fox.stuffProps.stuffAdjective>fennecrävskinn</Leather_Fox.stuffProps.stuffAdjective>
+  <Leather_Fox.description>Pälsen från en räv. Skyddar bra från kyla och är ganska lyxigt, värdefull vid handel.</Leather_Fox.description>
+  <Leather_Fox.stuffProps.stuffAdjective>rävpäls</Leather_Fox.stuffProps.stuffAdjective>
   
   <!-- EN: heavy fur -->
-  <Leather_Heavy.label>jättesengångarhud</Leather_Heavy.label>
+  <Leather_Heavy.label>tjockt läder</Leather_Heavy.label>
   <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
-  <Leather_Heavy.description>jättesengångarhud</Leather_Heavy.description>
-  <Leather_Heavy.stuffProps.stuffAdjective>jättesengångarhud</Leather_Heavy.stuffProps.stuffAdjective>
+  <Leather_Heavy.description>Tjockt läder som täcks av lång och robust päls. Flådd av ett stort tåligt djur. Denna tjocka hud isolerar och skyddar väldigt bra.</Leather_Heavy.description>
+  <Leather_Heavy.stuffProps.stuffAdjective>tjockt läder</Leather_Heavy.stuffProps.stuffAdjective>
   
   <!-- EN: human leather -->
   <Leather_Human.label>människohud</Leather_Human.label>
   <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
-  <Leather_Human.description>människohud</Leather_Human.description>
+  <Leather_Human.description>Garvad, torkad och skrapad människohud. De flesta tycker att detta material är horribelt, vissa tycker det är fascinerande. Andra tycker det är ett hyfsat läder. Varken skyddar eller isolerar särskilt bra.</Leather_Human.description>
   <Leather_Human.stuffProps.stuffAdjective>människohud</Leather_Human.stuffProps.stuffAdjective>
   
   <!-- EN: lightleather -->
-  <Leather_Light.label>harskinn</Leather_Light.label>
+  <Leather_Light.label>tunnt läder</Leather_Light.label>
   <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
-  <Leather_Light.description>harskinn</Leather_Light.description>
-  <Leather_Light.stuffProps.stuffAdjective>harskinn</Leather_Light.stuffProps.stuffAdjective>
+  <Leather_Light.description>Ett lätt och tunt läder. Förmodligen flått från ett litet djur. Inte lika skyddande som tjockare läder.</Leather_Light.description>
+  <Leather_Light.stuffProps.stuffAdjective>tunnt läder</Leather_Light.stuffProps.stuffAdjective>
   
   <!-- EN: lizardskin -->
-  <Leather_Lizard.label>iguanaskinn</Leather_Lizard.label>
+  <Leather_Lizard.label>reptilskinn</Leather_Lizard.label>
   <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
-  <Leather_Lizard.description>iguanaskinn</Leather_Lizard.description>
-  <Leather_Lizard.stuffProps.stuffAdjective>iguanaskinn</Leather_Lizard.stuffProps.stuffAdjective>
+  <Leather_Lizard.description>Den garvade huden av en kallblodig reptil. reptilskinn är relativt tåligt men isolerar inte bra alls.</Leather_Lizard.description>
+  <Leather_Lizard.stuffProps.stuffAdjective>reptilskinn</Leather_Lizard.stuffProps.stuffAdjective>
   
   <!-- EN: panthera fur -->
-  <Leather_Panthera.label>pumaskinn</Leather_Panthera.label>
+  <Leather_Panthera.label>pumapäls</Leather_Panthera.label>
   <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
-  <Leather_Panthera.description>pumaskinn</Leather_Panthera.description>
-  <Leather_Panthera.stuffProps.stuffAdjective>pumaskinn</Leather_Panthera.stuffProps.stuffAdjective>
+  <Leather_Panthera.description>En mjuk päls tagen från en stor katt. Svår att tränga igenom och isolerar väl mot värme. </Leather_Panthera.description>
+  <Leather_Panthera.stuffProps.stuffAdjective>pumapäls</Leather_Panthera.stuffProps.stuffAdjective>
   
   <!-- EN: patchleather -->
-  <Leather_Patch.label>TODO</Leather_Patch.label>
+  <Leather_Patch.label>lappat läder</Leather_Patch.label>
   <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
-  <Leather_Patch.description>TODO</Leather_Patch.description>
+  <Leather_Patch.description>En svag textil skapad genom att klippa och sy ihop olika typer av läder. Oavsett vilken typ av läder som används för att skapa det, gör de oregelbundna sömmarna det mindre tåligt och isolerande än något annat intakt läder.</Leather_Patch.description>
   
   <!-- EN: pigskin -->
   <Leather_Pig.label>svinläder</Leather_Pig.label>
   <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
-  <Leather_Pig.description>svinläder</Leather_Pig.description>
+  <Leather_Pig.description>Garvat, torkat och skrapat svinläder. Ett helt ok läder men det varken skyddar eller isolerar särskilt bra.</Leather_Pig.description>
   <Leather_Pig.stuffProps.stuffAdjective>svinläder</Leather_Pig.stuffProps.stuffAdjective>
   
   <!-- EN: plainleather -->
-  <Leather_Plain.label>gazellläder</Leather_Plain.label>
+  <Leather_Plain.label>läder</Leather_Plain.label>
   <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
-  <Leather_Plain.description>gazellläder</Leather_Plain.description>
+  <Leather_Plain.description>Garvad, torkad och skrapad hud. Ett bra och traditionellt material att göra kläder och väskor av.</Leather_Plain.description>
   <Leather_Plain.stuffProps.stuffAdjective>gazellläder</Leather_Plain.stuffProps.stuffAdjective>
   
   <!-- EN: rhinoceros leather -->
-  <Leather_Rhinoceros.label>noshörningshud</Leather_Rhinoceros.label>
+  <Leather_Rhinoceros.label>noshörningshud. </Leather_Rhinoceros.label>
   <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
-  <Leather_Rhinoceros.description>noshörningshud</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.description>Garvad, torkad och skrapad noshörningshud. Exceptionellt hållbart i strid men ger bara lite skydd mot vädr och vind.</Leather_Rhinoceros.description>
   <Leather_Rhinoceros.stuffProps.stuffAdjective>noshörningshud</Leather_Rhinoceros.stuffProps.stuffAdjective>
   
   <!-- EN: thrumbofur -->
   <Leather_Thrumbo.label>thrumbopäls</Leather_Thrumbo.label>
   <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
-  <Leather_Thrumbo.description>thrumbopäls</Leather_Thrumbo.description>
+  <Leather_Thrumbo.description>Päls från en trumbo. Lyxigt och utomordentligt hållbart. Används till högkvalitativa hantverk för sin isolering och styrka.</Leather_Thrumbo.description>
   <Leather_Thrumbo.stuffProps.stuffAdjective>thrumbopäls</Leather_Thrumbo.stuffProps.stuffAdjective>
   
   <!-- EN: wolfskin -->
-  <Leather_Wolf.label>jättevargfäll</Leather_Wolf.label>
+  <Leather_Wolf.label>vargfäll</Leather_Wolf.label>
   <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
-  <Leather_Wolf.description>jättevargfäll</Leather_Wolf.description>
-  <Leather_Wolf.stuffProps.stuffAdjective>jättevargfäll</Leather_Wolf.stuffProps.stuffAdjective>
+  <Leather_Wolf.description>En mjuk päls tagen från en vargliknande varelse. Den är svår att tränga igenom och isolerar väl mot kyla.</Leather_Wolf.description>
+  <Leather_Wolf.stuffProps.stuffAdjective>vargfäll</Leather_Wolf.stuffProps.stuffAdjective>
   
 </LanguageData>

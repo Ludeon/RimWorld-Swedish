@@ -9,7 +9,7 @@
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>Penetration av skydd i närstrid</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
-  <MeleeArmorPenetration.description>Genomsnittlig penetration av stridsskydd av alla attacker i närstrid. Denna TODO inkluderar nuvarande använt vapen.</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.description>Genomsnittlig penetration av stridsskydd av alla attacker i närstrid. Detta värde inkluderar nuvarande draget vapen.</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>chans att ducka i närstrid</MeleeDodgeChance.label>
@@ -19,7 +19,7 @@
   <!-- EN: melee DPS -->
   <MeleeDPS.label>Närstrids DPS</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>Standardskada per sekund (eng. Damage Per Second) i närstrid. Denna TODO ignorerar målets skydd exempelvis skydd och förmåga avv undvika slag.</MeleeDPS.description>
+  <MeleeDPS.description>Standardskada per sekund (eng. Damage Per Second) i närstrid. Detta värde ignorerar målets försvar exempelvis skydd och förmåga att undvika slag.</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
   <MeleeHitChance.label>träffchans i närstrid</MeleeHitChance.label>

@@ -210,9 +210,9 @@
   
   <!-- Bonded animals -->
   <!-- EN: bonded animal -->
-  <LetterLabelSuffixBondedAnimalDied>band med djur</LetterLabelSuffixBondedAnimalDied>
+  <LetterLabelSuffixBondedAnimalDied>kära djur</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>{ANIMAL_definite} hade band till {HUMAN_labelShort}. Det kommer att påverka {HUMAN_labelShort} humör.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} var kär till {HUMAN_labelShort}. Det kommer att påverka {HUMAN_labelShort}s humör.</LetterPartBondedAnimalDied>
   <!-- EN: It will affect mood of the following people:\n\n{0} -->
   <LetterPartBondedAnimalDiedMulti>Det kommer att påverka humöret för följande personer:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 

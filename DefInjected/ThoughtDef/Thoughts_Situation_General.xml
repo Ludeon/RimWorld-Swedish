@@ -46,9 +46,9 @@
   <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
   <EnvironmentCold.stages.numbing_cold.description>Mina tänder hackar så hårt jag knappt kan tala. Tårna är förlamad. Jag behöver bli varm igen.</EnvironmentCold.stages.numbing_cold.description>
   <!-- EN: absolutely freezing -->
-  <EnvironmentCold.stages.absolutely_freezing.label>TODO</EnvironmentCold.stages.absolutely_freezing.label>
+  <EnvironmentCold.stages.absolutely_freezing.label>förfrysande</EnvironmentCold.stages.absolutely_freezing.label>
   <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
-  <EnvironmentCold.stages.absolutely_freezing.description>TODO</EnvironmentCold.stages.absolutely_freezing.description>
+  <EnvironmentCold.stages.absolutely_freezing.description>Jag skakar tänder så hårt att jag knappt kan prata, mina tår är utan känsel, jag behöver bli varm.</EnvironmentCold.stages.absolutely_freezing.description>
   
   <!-- EN: darkness -->
   <EnvironmentDark.stages.darkness.label>i mörker</EnvironmentDark.stages.darkness.label>

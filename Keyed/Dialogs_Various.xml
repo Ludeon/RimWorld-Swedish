@@ -429,19 +429,19 @@
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
   <HarmedRevengeChanceExplanation>Chansen att denna varelse vill hämnas efter att ha skadats av en angripare inom räckvidd för ett gevär.\n\nDenna chans ökar om angriparen är närmre. Om attacken sker på mycket nära håll är chansen tre gånger större.\n\nDen här chansen tillämpas varje gång en skada uppstår, alltså är det mindre risk att detta sker med långsammare vapen som gör stor skada.\n\n För att minimera chansen av att en varelse vil hämnas, attackera den från gevärsavstånd med ett långsamt skjutvapen.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>Hämdschans vid misslyckat tänjningsförsök</TameFailedRevengeChance>
+  <TameFailedRevengeChance>Hämdchans vid misslyckat tämjningsförsök</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
   <TerrainRequirement>Terrängbehov</TerrainRequirement>
   <!-- EN: Supports -->
   <Supports>Hjälper</Supports>
   <!-- EN: Trap armor penetration -->
-  <TrapArmorPenetration>TODO</TrapArmorPenetration>
+  <TrapArmorPenetration>Fällas penetration av skydd.</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
-  <RearmCost>TODO</RearmCost>
+  <RearmCost>Kostnad att ladda om</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>TODO</RearmCostExplanation>
+  <RearmCostExplanation>Resurser som krävs för att ladda om detta vapentorn (påverkas av svårighet).</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>TODO</ShotsBeforeRearm>
+  <ShotsBeforeRearm>Skott innan omladdning</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
   <ShotsBeforeRearmExplanation>Hur många skott detta vapentorn kan skjuta innan det behöver laddas om</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->

@@ -334,7 +334,7 @@
   <MessageCantEquipIncapableOfManipulation>Det går inte att utrusta: inkapabel.</MessageCantEquipIncapableOfManipulation>
   
   <!-- EN: Because they are bonded, slaughtering {0} will make {1} unhappy. -->
-  <MessageSlaughteringBondedAnimal>Eftersom de har ett band, att slakta {0} kommer att göra {1} olycklig.</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>Eftersom de är kära varandre, kommer slakt av {0} göra {1} olycklig.</MessageSlaughteringBondedAnimal>
   
   <!-- EN: {0} has run out of food ({1}). -->
   <MessageCaravanRanOutOfFood>{0} har fått slut på mat ({1}).</MessageCaravanRanOutOfFood>

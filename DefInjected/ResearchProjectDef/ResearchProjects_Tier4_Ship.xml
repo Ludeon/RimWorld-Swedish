@@ -26,7 +26,7 @@
   <ShipEngine.description>TODO</ShipEngine.description>
   
   <!-- EN: starship reactor -->
-  <ShipReactor.label>TODO</ShipReactor.label>
+  <ShipReactor.label>Rymdskeppets reaktor</ShipReactor.label>
   <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
   <ShipReactor.description>TODO</ShipReactor.description>
   

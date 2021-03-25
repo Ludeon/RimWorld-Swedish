@@ -10,21 +10,21 @@
   <!-- EN: charge lance -->
   <Gun_ChargeLance.label>energilans</Gun_ChargeLance.label>
   <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
-  <Gun_ChargeLance.description>Skenstyrda energilansvapen. Avlossar ett energiskott med hög hastighet.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.description>ett pulserande energilansvapen. Avlossar ett energiskott med hög hastighet, laddas med instabil energi samtidigt som det lämnas sin accelerationsbana.</Gun_ChargeLance.description>
   <!-- EN: barrel -->
-  <Gun_ChargeLance.tools.barrel.label>TODO</Gun_ChargeLance.tools.barrel.label>
+  <Gun_ChargeLance.tools.barrel.label>pipa</Gun_ChargeLance.tools.barrel.label>
   <!-- EN: charge lance -->
-  <Gun_ChargeLance.verbs.Verb_Shoot.label>TODO</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>energilans</Gun_ChargeLance.verbs.Verb_Shoot.label>
   
   <!-- EN: charge rifle -->
-  <Gun_ChargeRifle.label>Energigevär</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.label>energigevär</Gun_ChargeRifle.label>
   <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
-  <Gun_ChargeRifle.description>Högteknologiskt automatkarbin som skjuter paket av energi på kort och medelräckvidd. Detta vapen avlossar en enorm kraft per skott samtidigt som det har en hög eldhastighet, men hämmas något av dess relativt korta räckvidd.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.description>En energiladdad aoutomatkarbin. Pulsladdningstekniken laddar varje skott med instabil energi när det lämnar pipan. Vid kollision ökar den laddade energin kraftigt dess skada.</Gun_ChargeRifle.description>
   <!-- EN: stock -->
-  <Gun_ChargeRifle.tools.stock.label>TODO</Gun_ChargeRifle.tools.stock.label>
+  <Gun_ChargeRifle.tools.stock.label>kolv</Gun_ChargeRifle.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_ChargeRifle.tools.barrel.label>TODO</Gun_ChargeRifle.tools.barrel.label>
+  <Gun_ChargeRifle.tools.barrel.label>pipa</Gun_ChargeRifle.tools.barrel.label>
   <!-- EN: charge rifle -->
-  <Gun_ChargeRifle.verbs.Verb_Shoot.label>TODO</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>energigevär</Gun_ChargeRifle.verbs.Verb_Shoot.label>
   
 </LanguageData>

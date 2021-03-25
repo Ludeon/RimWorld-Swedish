@@ -29,7 +29,7 @@
   <!-- EN: hunting stealth -->
   <HuntingStealth.label>smygande vid jakt</HuntingStealth.label>
   <!-- EN: This stat reduces the chance of hunted animals attacking the hunter. A 0% score means no reduction. A 100% score means animals never attack. -->
-  <HuntingStealth.description>Denna TODO reducerar chansen för att villebrådet attakerar jägaren. 0% betyder ingen minskning. 100% betyder att djur aldrig attakerar.</HuntingStealth.description>
+  <HuntingStealth.description>Detta värde reducerar chansen för att villebrådet attakerar jägaren. 0% betyder ingen minskning. 100% betyder att djur aldrig attakerar.</HuntingStealth.description>
   
   <!-- EN: mining speed -->
   <MiningSpeed.label>gruvhastighet</MiningSpeed.label>

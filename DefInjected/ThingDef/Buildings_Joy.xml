@@ -14,7 +14,7 @@
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>platt-TV</FlatscreenTelevision.label>
   <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <FlatscreenTelevision.description>En högteknologisk platt-tv med kristallklar skärm och skarpa färger. Fånga upp sändningar från uråldriga satteliter och allmänt förekommande datorpost.</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>En högteknologisk platt-tv med kristallklar skärm och skarpa färger. Fångar upp sändningar från uråldriga satteliter och allmänt förekommande datorpost.</FlatscreenTelevision.description>
   
   <!-- EN: game-of-Ur board -->
   <GameOfUrBoard.label>Urspels tavla</GameOfUrBoard.label>
@@ -22,9 +22,9 @@
   <GameOfUrBoard.description>daterat från 2500 f.Kr., detta spännande och irriterande brädspel kan spelas av en eller två personer. Det tränar intelektuell förmåga.</GameOfUrBoard.description>
   
   <!-- EN: hoopstone ring -->
-  <HoopstoneRing.label>TODO</HoopstoneRing.label>
+  <HoopstoneRing.label>ringstens ring</HoopstoneRing.label>
   <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
-  <HoopstoneRing.description>TODO</HoopstoneRing.description>
+  <HoopstoneRing.description>Ett uråldrigt spel som spelas med med stenar och en stor ring på en pinne i marken. Spelarna försöker kasta stenar genom ringen på avstånd. Avkopplande men tränar även upp skytteförmåga.</HoopstoneRing.description>
   
   <!-- EN: horseshoes pin -->
   <HorseshoesPin.label>hästskokastning</HorseshoesPin.label>
@@ -47,8 +47,8 @@
   <Telescope.description>Ett teleskop för amatör-astronomer. En avslappnande och underhållande hobby för vissa personer. Kan enbart användas utomhus.</Telescope.description>
   
   <!-- EN: tube television -->
-  <TubeTelevision.label>katodrör-TV</TubeTelevision.label>
+  <TubeTelevision.label>tjocktv</TubeTelevision.label>
   <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
-  <TubeTelevision.description>Ett katodörTV som används för att visa rörliga bilder med ljud. Även på kransvärldarna finns det ofta gamla sändare som visar något, åtminstone någorlunda intressant.</TubeTelevision.description>
+  <TubeTelevision.description>En tjocktv som används för att visa rörliga bilder med ljud. Även på kransvärldarna finns det ofta gamla sändare som visar något, åtminstone någorlunda intressant.</TubeTelevision.description>
   
 </LanguageData>

@@ -12,9 +12,9 @@
   <ComponentIndustrial.description>Diverse kugghjul, kondensatorer, kretskort, rör, hjul, sensorer, kablar, chips, processorer och andra elektroniska och industriella delar. Nödvändig för montering komplexa maskiner eller elektronik.</ComponentIndustrial.description>
   
   <!-- EN: advanced component -->
-  <ComponentSpacer.label>TODO</ComponentSpacer.label>
+  <ComponentSpacer.label>avancerad komponent</ComponentSpacer.label>
   <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
-  <ComponentSpacer.description>TODO</ComponentSpacer.description>
+  <ComponentSpacer.description>Avancerad dator- och energiriktningsmekanik, miniatyriserade och härdade för de mest krävande användningsområden.</ComponentSpacer.description>
   
   <!-- EN: herbal medicine -->
   <MedicineHerbal.label>örtmedicin</MedicineHerbal.label>

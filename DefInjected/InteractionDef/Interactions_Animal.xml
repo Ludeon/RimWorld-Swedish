@@ -29,9 +29,9 @@
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] satt nära [RECIPIENT_nameDef] och pratade med [INITIATOR_objective]själv om [TalkTopicAny].</li>
-    <li>r_logentry->[INITIATOR_nameDef] närmade sig [RECIPIENT_nameDef] och viskade till [INITIATOR_objective]själv om [TalkTopicAny].</li>
-    <li>r_logentry->[INITIATOR_nameDef] kom nära [RECIPIENT_nameDef] och pratade med [INITIATOR_objective]själv om [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] satt nära [RECIPIENT_nameDef] och pratade för sig själv om [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] närmade sig [RECIPIENT_nameDef] och viskade för sig själv om [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kom nära [RECIPIENT_nameDef] och pratade för sig själv om [TalkTopicAny].</li>
     <li>tamed->gjorde lugnande ljud mot</li>
     <li>tamed->visade lugna och vänliga gester till</li>
     <li>tamed->gjorde tystande ljud till</li>
