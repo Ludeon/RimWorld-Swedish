@@ -21,7 +21,7 @@
   
   <AbandonedOrphan61>
     <!-- EN: abandoned orphan -->
-    <title>Övergiven och föräldralrlös</title>
+    <title>Övergiven och föräldralös</title>
     <!-- EN: orphan -->
     <titleShort>Föräldralös</titleShort>
     <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
@@ -48,25 +48,25 @@
   
   <AcademyStudent80>
     <!-- EN: academy student  -->
-    <title>TODO</title>
+    <title>högskolestudent</title>
     <!-- EN: student  -->
-    <titleShort>TODO</titleShort>
+    <titleShort>student</titleShort>
     <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. He was very tall and was known for his good looks.\n\nThough he worried more about his hairstyle than his grades, he still somehow passed the final exams. -->
     <desc>[PAWN_nameDef] gick i skolan precis som en duktig rymdkadett förväntades. [PAWN_pronoun] var väldigt lång och var känd för sitt fina utseende.\n\nMen [PAWN_pronoun] oroade sig mer för sin frisyr än sina betyg, på något sätt klarade [PAWN_pronoun] ändå sitt examensprov </desc>
   </AcademyStudent80>
   
   <AccursedChild81>
     <!-- EN: accursed child -->
-    <title> TODO</title>
+    <title> fördömt barn</title>
     <!-- EN: cursed -->
-    <titleShort>TODO</titleShort>
+    <titleShort>fördömd</titleShort>
     <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
     <desc>[PAWN_nameDef] föddes då fullmånen lös som starkast. De äldre förklarade [PAWN_objective] för ett barn som mörkret fört med sig och tog [PAWN_possessive] under sina vingar.\n\nUnder hela sin barndom fick [PAWN_possessive] spendra med att studera folktro och ritualer av [PAWN_possessive] folk - fram till kallelsens dag.  </desc>
   </AccursedChild81>
   
   <AceFighterPilot38>
     <!-- EN: ace fighter pilot -->
-    <title>Flygaress </title>
+    <title>flygaress </title>
     <!-- EN: ace -->
     <titleShort>Ess</titleShort>
     <!-- EN: [PAWN_nameDef] graduated from the Star Academy with honors and distinguished himself as an ace fighter pilot in three campaigns against more advanced aggressor cultures. \n\nHowever, after one vicious battle, he found himself stranded and his carrier ship destroyed. With nowhere to go, he entered his escape pod and prayed. -->
@@ -75,9 +75,9 @@
   
   <AcolyteOfStars63>
     <!-- EN: acolyte of stars -->
-    <title>TODO</title>
+    <title>stjärnornas akolyt</title>
     <!-- EN: priest -->
-    <titleShort>TODO</titleShort>
+    <titleShort>präst</titleShort>
     <!-- EN: Ever the dreamer, [PAWN_nameDef] traveled across the universe to find the thing he felt was calling to him.\n\n[PAWN_pronoun] became poorer and poorer, but used every means possible to carry on. -->
     <desc>[PAWN_nameDef]som alltid haft stora drömmar reste runt i universum för att finna sitt kall i livet.\n\n[PAWN_pronoun] fick alltmer ont om pengar, men använde alla tänkbara resurser för att fortsätta sin resa.</desc>
   </AcolyteOfStars63>
@@ -93,9 +93,9 @@
   
   <AddictionCounsel60>
     <!-- EN: addiction counsel -->
-    <title>TODO</title>
+    <title>missbruksrådgivare</title>
     <!-- EN: counselor -->
-    <titleShort>tearapeut</titleShort>
+    <titleShort>rådgivare</titleShort>
     <!-- EN: After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions. -->
     <desc>Efter att ha blivit nykter från sitt joywiremissbruk ändrade [PAWN_nameDef] levnadssätt och svor [PAWN_pronoun] en ed på att hjälpa andra.\n\n[PAWN_pronoun]Reste mellan städerna och använde sig av medicinsk kunskap, konst och hantverk för att hjälpa de som kämpade mot sitt eget missbruk </desc>
   </AddictionCounsel60>
@@ -106,12 +106,12 @@
     <!-- EN: adventurer -->
     <titleShort>äventyrare</titleShort>
     <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
-    <desc>[PAWN_nameDef] TODO dragning till äventyr tog [PAWN_objective] till olika planeter. [PAWN_pronoun] besökte de mest lysande glittervärldarna och de mörkast krigshärjade planeterna i [PAWN_possessive] sökande efter spänning och nymodigheter.\n\n[PAWN_pronoun] arbetade så lite som möjligt, och tog tvekbart moraliskt försvarbara jobb för att tjäna snabba pengar. Av alla jobb hatade [PAWN_pronoun] matlagning allra mest.  </desc>
+    <desc>[PAWN_nameDef]s dragning till äventyr tog [PAWN_objective] till olika planeter. [PAWN_pronoun] besökte de mest lysande glittervärldarna och de mörkast krigshärjade planeterna i [PAWN_possessive] sökande efter spänning och nymodigheter.\n\n[PAWN_pronoun] arbetade så lite som möjligt, och tog tvekbart moraliskt försvarbara jobb för att tjäna snabba pengar. Av alla jobb hatade [PAWN_pronoun] matlagning allra mest.  </desc>
   </Adventurer19>
   
   <AdventuringChild56>
     <!-- EN: adventuring child -->
-    <title>TODO</title>
+    <title>äventyrligt barn</title>
     <!-- EN: adventurer -->
     <titleShort>äventyrare</titleShort>
     <!-- EN: Axle was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port. -->
@@ -120,9 +120,9 @@
   
   <AdventurousWeirdo83>
     <!-- EN: adventurous weirdo -->
-    <title>galen våghals</title>
+    <title>knasig våghals</title>
     <!-- EN: weirdo -->
-    <titleShort>våghals</titleShort>
+    <titleShort>knasboll</titleShort>
     <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated his life to his twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
     <desc>Som en kretiv och annorlunda person har [PAWN_nameDef] dedikerat sitt liv till sin förkärlek för medeltida historia och högteknologi.\n\n[PAWN_pronoun] var fachinerad av idéen att bli 'himmelsriddare' med en glittrande rustning och ett stort svärd.   </desc>
   </AdventurousWeirdo83>
@@ -138,7 +138,7 @@
   
   <AerospaceEngineer44>
     <!-- EN: aerospace engineer -->
-    <title>TODO</title>
+    <title>rymdingengör</title>
     <!-- EN: engineer -->
     <titleShort>ingenjör</titleShort>
     <!-- EN: [PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues. -->
@@ -165,11 +165,11 @@
   
   <AlcoholicTrucker58>
     <!-- EN: alcoholic trucker -->
-    <title>TODO</title>
+    <title>rattfull chaufför</title>
     <!-- EN: alcoholic -->
     <titleShort>alkoholist</titleShort>
     <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when he killed his wife and daughter in a crash.\n\nHis body was repaired with an experimental nano-genetic therapy. Now his muscles continually regenerate and harden, and every movement tears the tissue anew. He bears the pain in silence. -->
-    <desc>[PAWN_nameDef] var rymdchaufför och arbetade för Arcknigt Industri när [PAWN_pronoun] hade ihjäl sin XXX och dotter i en krasch.\n\n[PAWN_pronoun] kropp opererades med experimentell nanogenetisk terapi. [PAWN_pronoun] muskler fortsätter att kontinuerligt regenereras och stelna, varje rörelse sliter sönder vävnader på nytt. [PAWN_pronoun] uthärdar smärtan utan ett knyst. </desc>
+    <desc>[PAWN_nameDef] var rymdchaufför och arbetade för Arcknight Industri när [PAWN_pronoun] hade ihjäl sin XXX och dotter i en krasch.\n\n[PAWN_pronoun] kropp opererades med experimentell nanogenetisk terapi. [PAWN_pronoun] muskler fortsätter att kontinuerligt regenereras och stelna, varje rörelse sliter sönder vävnader på nytt. [PAWN_pronoun] uthärdar smärtan utan ett knyst. </desc>
   </AlcoholicTrucker58>
   
   <AmateurAstronomer86>
@@ -192,63 +192,63 @@
   
   <AmateurEngineer34>
     <!-- EN: amateur engineer -->
-    <title>TODO</title>
+    <title>amatöringengör</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ingengör</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a family with a military and engineering background. [PAWN_pronoun] wanted to join the army but his father didn't like the idea, so [PAWN_possessive] interest turned to great flying machines and works of engineering. [PAWN_pronoun] secretly hoped that this would one day lead him to a life of galactic exploration. -->
     <desc>TODO</desc>
   </AmateurEngineer34>
   
   <AnarchistRebel83>
     <!-- EN: anarchist rebel -->
-    <title>TODO</title>
+    <title>anarkistisk rebell</title>
     <!-- EN: anarchist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>anarkist</titleShort>
     <!-- EN: After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down core world governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim. -->
     <desc>TODO</desc>
   </AnarchistRebel83>
   
   <AngryStudent84>
     <!-- EN: angry student -->
-    <title>TODO</title>
+    <title>ilsken student</title>
     <!-- EN: student -->
-    <titleShort>TODO</titleShort>
+    <titleShort>student</titleShort>
     <!-- EN: [PAWN_nameDef] trained towards [PAWN_possessive] dream of working for his hometown's local council.\n\nFor reasons he never quite understood, [PAWN_pronoun] was bullied relentlessly by his classmates. [PAWN_pronoun] chose to repress his rage. -->
     <desc>TODO</desc>
   </AngryStudent84>
   
   <AnimalCaretaker20>
     <!-- EN: animal caretaker -->
-    <title>TODO</title>
+    <title>djurskötare</title>
     <!-- EN: caretaker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>skötare</titleShort>
     <!-- EN: Born on a medieval farm, [PAWN_nameDef] was tasked with caring for domestic animals. [PAWN_pronoun] grew to love them.\n\nWith time, [PAWN_pronoun] learned to tame wild animals. [PAWN_pronoun] dreamed of one day meeting a thrumbo and taming it. -->
     <desc>TODO</desc>
   </AnimalCaretaker20>
   
   <AnimalLabTech39>
     <!-- EN: animal lab tech -->
-    <title>TODO</title>
+    <title>labbtekniker (djur)</title>
     <!-- EN: lab tech -->
-    <titleShort>TODO</titleShort>
+    <titleShort>labbtekniker</titleShort>
     <!-- EN: [PAWN_nameDef] worked as a technician in a lab studying animals.\n\n[PAWN_pronoun] spent [PAWN_possessive] days taking care of the animals and cleaning up after them. [PAWN_pronoun] dreamed of having [PAWN_possessive] own lab one day. -->
     <desc>TODO</desc>
   </AnimalLabTech39>
   
   <AntisocialChild83>
     <!-- EN: antisocial child -->
-    <title>TODO</title>
+    <title>asocialt barn</title>
     <!-- EN: antisocial -->
-    <titleShort>TODO</titleShort>
+    <titleShort>asocial</titleShort>
     <!-- EN: [PAWN_nameDef] lacked typical social skills, and avoided social interaction.\n\n[PAWN_pronoun] gained satisfaction only from steady work. [PAWN_pronoun] especially disliked speaking with overly creative or outgoing individuals. -->
     <desc>TODO</desc>
   </AntisocialChild83>
   
   <ApocalypseChild57>
     <!-- EN: apocalypse child  -->
-    <title>TODO </title>
+    <title>apokalypsens barn </title>
     <!-- EN: apocalypse -->
-    <titleShort>TODO</titleShort>
+    <titleShort>apokalyps</titleShort>
     <!-- EN: [PAWN_nameDef] spent his childhood on a post-apocalyptic world. He fought for survival from a young age, on a planet where trust did not exist.\n\nHe told everyone that he had no luck. -->
     <desc>TODO</desc>
   </ApocalypseChild57>
@@ -264,27 +264,27 @@
   
   <ApprenticeOracle83>
     <!-- EN: apprentice oracle -->
-    <title>TODO</title>
+    <title>lärling till orakel</title>
     <!-- EN: oracle -->
-    <titleShort>TODO</titleShort>
+    <titleShort>orakel</titleShort>
     <!-- EN: [PAWN_nameDef] was chosen at an early age by the village elders to keep the sacred rituals of the Oracle.\n\nAn irrepressibly curious child, [PAWN_nameDef] caused a religious crisis for [PAWN_possessive] tribe when [PAWN_pronoun] accidentally flipped a switch to open the "tombs" of the Gods - cryptosleep caskets inhabited by some very confused ancestors. -->
     <desc>TODO</desc>
   </ApprenticeOracle83>
   
   <ApprenticeSmith42>
     <!-- EN: apprentice smith -->
-    <title>TODO</title>
+    <title>smedslärling</title>
     <!-- EN: apprentice -->
-    <titleShort>TODO</titleShort>
+    <titleShort>lärling</titleShort>
     <!-- EN: [PAWN_nameDef] grew up helping in his father's smithy.\n\nThey were some of the last smiths on the planet that to use traditional smithing methods. They even collect some materials themselves.\n\nSometimes, after work, [PAWN_nameDef] would practice using the swords [PAWN_pronoun] forged. -->
     <desc>TODO</desc>
   </ApprenticeSmith42>
   
   <Archaeologist85>
     <!-- EN: Archaeologist -->
-    <title>TODO</title>
+    <title>Arkeolog</title>
     <!-- EN: Explorer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Utforskare</titleShort>
     <!-- EN: [PAWN_pronoun] was trapped in an uninspired life. One day, [PAWN_pronoun] jumped on a ship to learn archaeology and see the universe.\n\n[PAWN_pronoun] learned how to survive. [PAWN_pronoun] also learned about people - although [PAWN_pronoun] understood the dead better than the living. -->
     <desc>TODO</desc>
   </Archaeologist85>
@@ -300,9 +300,9 @@
   
   <ArchotechSpy40>
     <!-- EN: archotech spy -->
-    <title>TODO</title>
+    <title>archotech spion</title>
     <!-- EN: aI spy -->
-    <titleShort>TODO</titleShort>
+    <titleShort>AI spion</titleShort>
     <!-- EN: [PAWN_nameDef] was a cybernetic researcher. Studying a transcended world, [PAWN_pronoun] became too involved with [PAWN_possessive] subjects. Over time, the archotech machine core recruited [PAWN_objective] into its service, and used [PAWN_objective] as a spy.\n\nWhen [PAWN_pronoun] later rebelled against [PAWN_possessive] non-human master, it sent mechanoids across space to hunt [PAWN_objective] down. -->
     <desc>TODO</desc>
   </ArchotechSpy40>
@@ -327,63 +327,63 @@
   
   <ArmySergeant1>
     <!-- EN: army sergeant -->
-    <title>TODO</title>
+    <title>armé sergeant</title>
     <!-- EN: sergeant -->
-    <titleShort>TODO</titleShort>
+    <titleShort>sergeant</titleShort>
     <!-- EN: [PAWN_nameDef] served in [PAWN_possessive] nation's military, commanding small units as a non-commissioned officer.\n\n[PAWN_pronoun] excelled creating tactically sound plans despite difficult circumstances. -->
     <desc>TODO</desc>
   </ArmySergeant1>
   
   <Aromatherapist80>
     <!-- EN: aromatherapist -->
-    <title>TODO</title>
+    <title>aromtearapeut</title>
     <!-- EN: therapist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>terapeut</titleShort>
     <!-- EN: [PAWN_nameDef] practiced aromatherapy, using essences extracted from home-grown plants. -->
     <desc>TODO</desc>
   </Aromatherapist80>
   
   <ArtfulDodger87>
     <!-- EN: artful dodger -->
-    <title>TODO</title>
+    <title>listig sjojare</title>
     <!-- EN: dodger -->
-    <titleShort>TODO</titleShort>
+    <titleShort>skojare</titleShort>
     <!-- EN: Robin grew up on one of the urbworlds and had to fend for himself all his life. He never trusted anyone, relying on his persuasiveness and cunning to survive.\n\nHe soon became skilled with firearms and knives as well as words. -->
     <desc>TODO</desc>
   </ArtfulDodger87>
   
   <ArtifactHunter48>
     <!-- EN: artifact hunter -->
-    <title>TODO</title>
+    <title>artefaktjägare</title>
     <!-- EN: artifacter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>artefaktkännare</titleShort>
     <!-- EN: [PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive. -->
     <desc>TODO</desc>
   </ArtifactHunter48>
   
   <ArtificerRampant24>
     <!-- EN: artificer rampant -->
-    <title>TODO</title>
+    <title>hejdlös uppfinnare</title>
     <!-- EN: artificer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>uppfinnare</titleShort>
     <!-- EN: Fuelled by the thrill of discovery and his own megalomania, [PAWN_nameDef] set out to invent new devices and improve existing ones, breaking laws and customs as necessary.\n\n[PAWN_pronoun] formed a crew to gather materials for [PAWN_possessive] work - and to deal with outsiders who might interfere. -->
     <desc>TODO</desc>
   </ArtificerRampant24>
   
   <ArtisanFarmer23>
     <!-- EN: artisan farmer -->
-    <title>TODO</title>
+    <title>bonde</title>
     <!-- EN: farmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>bonde</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on a [PAWN_possessive] family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology. -->
     <desc>TODO</desc>
   </ArtisanFarmer23>
   
   <ArtisticWeirdo56>
     <!-- EN: artistic weirdo -->
-    <title>TODO</title>
+    <title>konstnärlig knasboll</title>
     <!-- EN: weirdo -->
-    <titleShort>TODO</titleShort>
+    <titleShort>knasboll</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a house near a bustling midworld metropolis.\n\n[PAWN_pronoun] was talented at art and creative work, but often acted strangely, and thus had few friends. -->
     <desc>TODO</desc>
   </ArtisticWeirdo56>
@@ -399,27 +399,27 @@
   
   <AspergersRebel66>
     <!-- EN: aspergers rebel -->
-    <title>TODO</title>
+    <title>Aspergerrebell</title>
     <!-- EN: rebel -->
-    <titleShort>TODO</titleShort>
+    <titleShort>rebell</titleShort>
     <!-- EN: [PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant he struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly. -->
     <desc>TODO</desc>
   </AspergersRebel66>
   
   <AspiringEngineer58>
     <!-- EN: aspiring engineer -->
-    <title>TODO</title>
+    <title>blivande ingengör</title>
     <!-- EN: tinkerer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>reparatör</titleShort>
     <!-- EN: [PAWN_nameDef] had a fascination with gadgets and gizmos. [PAWN_pronoun] took apart and put together almost anything [PAWN_pronoun] could find.\n\n[PAWN_pronoun] got used to repairing toys brought to [PAWN_objective] by other children, and even fixed a few devices from [PAWN_possessive] elders. -->
     <desc>TODO</desc>
   </AspiringEngineer58>
   
   <AspiringPhysicist25>
     <!-- EN: aspiring physicist -->
-    <title>TODO</title>
+    <title>blivande fysiker</title>
     <!-- EN: student -->
-    <titleShort>TODO</titleShort>
+    <titleShort>student</titleShort>
     <!-- EN: The daughter of an engineer and doctor, [PAWN_nameDef]'s early life was intellectually rich. After visiting a physics lab, she decided she wanted to be a quantum physicist.\n\nBitten by a camel, kicked off a horse, and chased by dogs, [PAWN_nameDef] developed a fear of animals. -->
     <desc>TODO</desc>
   </AspiringPhysicist25>
@@ -435,9 +435,9 @@
   
   <Assassin16>
     <!-- EN: assassin -->
-    <title>TODO</title>
+    <title>lönnmördae</title>
     <!-- EN: assassin -->
-    <titleShort>TODO</titleShort>
+    <titleShort>lönnmördare</titleShort>
     <!-- EN: Robin was specially trained as an operative to be used for high-risk assassinations. His skill with a rifle was unrivalled.\n\nHe was eventually betrayed by his superiors when a target found out about the hit and offered to fund their future projects. Robin swore to never trust anyone again. -->
     <desc>TODO.</desc>
   </Assassin16>
@@ -453,9 +453,9 @@
   
   <Athlete23>
     <!-- EN: athlete -->
-    <title>TODO</title>
+    <title>atlet</title>
     <!-- EN: athlete -->
-    <titleShort>TODO</titleShort>
+    <titleShort>atlet</titleShort>
     <!-- EN: [PAWN_nameDef] was professional athlete at early age. Thanks to her skills, she was able to leave her homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of her demanding schedule and introverted nature, she became socially inept. -->
     <desc>TODO</desc>
   </Athlete23>
@@ -471,9 +471,9 @@
   
   <AWOLSoldier20>
     <!-- EN: aWOL soldier -->
-    <title>TODO</title>
+    <title>deserterad soldat</title>
     <!-- EN: soldier -->
-    <titleShort>TODO</titleShort>
+    <titleShort>soldat</titleShort>
     <!-- EN: [PAWN_nameDef] was an infantryman.\n\nWhen [PAWN_pronoun] was informed of his assignment to the Xennoa-Zartza War, [PAWN_pronoun] decided [PAWN_pronoun] did not want to be a soldier. [PAWN_pronoun] was able to escape via military spacejet. -->
     <desc>TODO</desc>
   </AWOLSoldier20>
@@ -482,7 +482,7 @@
     <!-- EN: bandit leader -->
     <title>Ledarskurk</title>
     <!-- EN: bandit -->
-    <titleShort>Skurk</titleShort>
+    <titleShort>skurk</titleShort>
     <!-- EN: [PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. His dog Rest never left his side. -->
     <desc>[PAWN_nameDef] gjorde karriär inom den kriminella organisationen. [PAWN_pronoun] blev tillslut ledare för den mest undanskymda grupperingen av skurkar. [PAWN_possessive] hund Rufus lämnade aldrig [PAWN_possessive] sida.</desc>
   </BanditLeader36>
@@ -509,16 +509,16 @@
     <!-- EN: battlefield tech -->
     <title>TODO</title>
     <!-- EN: technician -->
-    <titleShort>TODO</titleShort>
+    <titleShort>tekniker</titleShort>
     <!-- EN: [PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaption and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged him from service. -->
     <desc>TODO</desc>
   </BattlefieldTech75>
   
   <BattleMechanic27>
     <!-- EN: battle mechanic -->
-    <title>TODO</title>
+    <title>krigsmekaniker</title>
     <!-- EN: mechanic -->
-    <titleShort>TODO</titleShort>
+    <titleShort>mekaniker</titleShort>
     <!-- EN: [PAWN_nameDef] was a tech-obsessed mercenary in an early fusion-era system.\n\n[PAWN_pronoun] was unusually obsessed with gathering the right gear, and often customized [PAWN_possessive] own equipment with original modifications. -->
     <desc>TODO</desc>
   </BattleMechanic27>
@@ -534,9 +534,9 @@
   
   <BehaviourResearch74>
     <!-- EN: behaviour research -->
-    <title>TODO</title>
+    <title>betendevetare</title>
     <!-- EN: scientist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>forskare</titleShort>
     <!-- EN: Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however. -->
     <desc>TODO</desc>
   </BehaviourResearch74>
@@ -552,54 +552,54 @@
   
   <BlackjackPlayer86>
     <!-- EN: blackjack player -->
-    <title>TODO</title>
+    <title>blackjackspelare</title>
     <!-- EN: gambler -->
-    <titleShort>TODO</titleShort>
+    <titleShort>spelare</titleShort>
     <!-- EN: The only useful skill [PAWN_nameDef] learned from his tough military school was card counting. He amassed many enemies by cheating at casinos, becoming ever more edgy and violent as the threat of retaliation grew.\n\nWhen he was finally caught, they burned half his skin off. He'll never be able to face fire or violence again. -->
-    <desc>TTODO</desc>
+    <desc>TODO</desc>
   </BlackjackPlayer86>
   
   <Blacksmith7>
     <!-- EN: blacksmith -->
-    <title>TODO</title>
+    <title>smed</title>
     <!-- EN: blacksmith -->
-    <titleShort>TODO</titleShort>
+    <titleShort>smed</titleShort>
     <!-- EN: As a blacksmith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
     <desc>TODO</desc>
   </Blacksmith7>
   
   <Blacksmith72>
     <!-- EN: blacksmith -->
-    <title>TODO</title>
+    <title>smed</title>
     <!-- EN: blacksmith -->
-    <titleShort>TODO</titleShort>
+    <titleShort>smed</titleShort>
     <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
     <desc>TODO</desc>
   </Blacksmith72>
   
   <BlacksmithShooter35>
     <!-- EN: blacksmith shooter -->
-    <title>TODO</title>
+    <title>vapensmed (skjutvapen)</title>
     <!-- EN: gunsmith -->
-    <titleShort>TODO</titleShort>
+    <titleShort>vapensmed</titleShort>
     <!-- EN: As a young blacksmith, [PAWN_nameDef]'s family shop was raided by the police. [PAWN_pronoun] shot two officers before they knocked him out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals. -->
     <desc>TODO</desc>
   </BlacksmithShooter35>
   
   <BlacksmithsSon39>
     <!-- EN: blacksmith's son -->
-    <title>TODO</title>
+    <title>smedens son</title>
     <!-- EN: blacksmith -->
-    <titleShort>TODO</titleShort>
+    <titleShort>smed</titleShort>
     <!-- EN: [PAWN_nameDef]'s father owned the blacksmith shop in an run-down old city district. [PAWN_nameDef] would help his father whenever he could.\n\nLater, [PAWN_possessive] father took him as a blacksmith's apprentice and raised him as a man. [PAWN_nameDef] also to on shooting as a hobby. -->
     <desc>TODO</desc>
   </BlacksmithsSon39>
   
   <BlessedChild46>
     <!-- EN: blessed child -->
-    <title>TODO</title>
+    <title>välsignat barn</title>
     <!-- EN: blessed -->
-    <titleShort>TODO</titleShort>
+    <titleShort>välsignad</titleShort>
     <!-- EN: [PAWN_nameDef] was born under auspicious circumstances to a midworld spiritual group and held in reverence throughout [PAWN_possessive] childhood.\n\n[PAWN_pronoun] learned to take care of the poor and give succor to the faithful from an early age. -->
     <desc>TODO</desc>
   </BlessedChild46>
@@ -615,18 +615,18 @@
   
   <BloodyDentist9>
     <!-- EN: bloody dentist -->
-    <title>TODO</title>
+    <title>blodstänkt tandläkare</title>
     <!-- EN: dentist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>tandläkare</titleShort>
     <!-- EN: After studying at a famous college, [PAWN_nameDef]'s weak personality eventually snapped under the strain of angry administrators and whining patients. [PAWN_pronoun] went on a secret murder spree, killing many of those under [PAWN_possessive] care.\n\nAfter a pursuit, [PAWN_pronoun] managed to escape [PAWN_possessive] planet and travel to a new world. -->
     <desc>TODO</desc>
   </BloodyDentist9>
   
   <BloodyWanderer65>
     <!-- EN: bloody wanderer -->
-    <title>TODO</title>
+    <title>blodstänkt vandrare</title>
     <!-- EN: wanderer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>vandrare</titleShort>
     <!-- EN: [PAWN_nameDef] was a wanderer, traveling from town to town, taking odd jobs and stealing to live.\n\nOne day, he had a mental break and went on a long rampage, destroying several towns and killing many. [PAWN_pronoun] eventually calmed, but [PAWN_possessive] bloodlust never left [PAWN_objective]. -->
     <desc>TODO</desc>
   </BloodyWanderer65>
@@ -642,117 +642,117 @@
   
   <BodyguardTrainee54>
     <!-- EN: bodyguard trainee -->
-    <title>TODO</title>
+    <title>livvaktspraktikant</title>
     <!-- EN: bodyguard -->
-    <titleShort>TODO</titleShort>
+    <titleShort>livvakt</titleShort>
     <!-- EN: [PAWN_nameDef] was born into a famously skilled family of bodyguards. [PAWN_possessive] mothers Elena and Victoria forced [PAWN_objective] into many dangerous situations, training [PAWN_objective] to put [PAWN_possessive] client's well-being over [PAWN_possessive] own.\n\n[PAWN_nameDef] was taught about many herbs and natural poisons to help [PAWN_objective] prevent clients from being poisoned. -->
     <desc>TODO</desc>
   </BodyguardTrainee54>
   
   <BoneCollector14>
     <!-- EN: bone collector -->
-    <title>TODO</title>
+    <title>bensamlare</title>
     <!-- EN: pupil -->
-    <titleShort>TODO</titleShort>
+    <titleShort>elev</titleShort>
     <!-- EN: Born to a family of fortune hunters, [PAWN_nameDef] always had a passion for ancient history.\n\nThough never a tough or social boy, [PAWN_pronoun] loved to dig through history books as well as dirt piles. -->
     <desc>TODO</desc>
   </BoneCollector14>
   
   <Bookworm3>
     <!-- EN: bookworm -->
-    <title>TODO</title>
+    <title>bokmal</title>
     <!-- EN: bookworm -->
-    <titleShort>TODO</titleShort>
+    <titleShort>bokmal</titleShort>
     <!-- EN: [PAWN_nameDef] spent his youth in the library, reading every book he could about the technical marvels of space travel, the engineering ingenuity of the space-faring pioneers, and the horrible yet fascinating tales of the mechanoid races. He vowed that one day, he would see these things for himself. -->
     <desc>TODO</desc>
   </Bookworm3>
   
   <BountyHunter22>
     <!-- EN: bounty hunter -->
-    <title>TODO</title>
+    <title>prisjägare</title>
     <!-- EN: hunter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>jägare</titleShort>
     <!-- EN: When the civil war ended, Mushinto had to find a new way to use his fighting skills. He decided to hunt down war criminals and soon realized that he enjoyed capturing  bad guys by any means necessary. -->
     <desc>TODO</desc>
   </BountyHunter22>
   
   <BountyHunter41>
     <!-- EN: bounty hunter -->
-    <title>TODO</title>
+    <title>prisjägare</title>
     <!-- EN: hunter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>jägare</titleShort>
     <!-- EN: [PAWN_nameDef] was a bounty hunter on a massive glitterworld. [PAWN_pronoun] worked sensitive assignments for extremely wealthy clients, and was known for quiet execution and total discretion. -->
     <desc>TODO</desc>
   </BountyHunter41>
   
   <BountyHunter8>
     <!-- EN: bounty hunter -->
-    <title>TODO</title>
+    <title>prisjägare</title>
     <!-- EN: hunter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>jägare</titleShort>
     <!-- EN: [PAWN_nameDef] is a self-employed bounty hunter. [PAWN_pronoun] spent [PAWN_possessive] days hunting space pirates and collecting cash bounties. -->
     <desc>TODO</desc>
   </BountyHunter8>
   
   <BoyScout11>
     <!-- EN: boy scout -->
-    <title>TODO</title>
+    <title>pojkscout</title>
     <!-- EN: scout -->
-    <titleShort>TODO</titleShort>
+    <titleShort>scout</titleShort>
     <!-- EN: [PAWN_nameDef] was in a boy scout troop on a midworld.\n\nHe learned many survival skills including how to thrive in the outdoors and how to tend to basic wounds. -->
     <desc>TODO.</desc>
   </BoyScout11>
   
   <BoySoldier14>
     <!-- EN: boy soldier -->
-    <title>TODO</title>
+    <title>barnsoldat</title>
     <!-- EN: soldier -->
-    <titleShort>TODO</titleShort>
+    <titleShort>soldat</titleShort>
     <!-- EN: War may never change - but the cast of characters does.\n\nBorn on a violent urbworld, [PAWN_nameDef] was trained from a young age to fight the wars of others, and became rather good at it. -->
     <desc>TODO</desc>
   </BoySoldier14>
   
   <Brigand68>
     <!-- EN: brigand -->
-    <title>TODO</title>
+    <title>stråtrövare</title>
     <!-- EN: brigand -->
-    <titleShort>TODO</titleShort>
+    <titleShort>stråtrövare</titleShort>
     <!-- EN: [PAWN_nameDef] flew with a band of brigands [PAWN_pronoun] called friends. [PAWN_pronoun] even had a ship of [PAWN_possessive] own - The Dung Mucker 2000. -->
     <desc>TODO</desc>
   </Brigand68>
   
   <BrothelGofer59>
     <!-- EN: brothel gofer -->
-    <title>TODO</title>
+    <title>bordellsbetjänt</title>
     <!-- EN: gofer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>betjänt</titleShort>
     <!-- EN: Born on a steam-powered midworld wracked by a century of economic crises, [PAWN_nameDef] went to work at a young age. Scrounging, shoe-polishing, sewing - he did it all. But [PAWN_pronoun] was most known as a brothel gofer, delivering all manner of aphrodisiacs and chemicals to the girls' rooms. -->
     <desc>TODO</desc>
   </BrothelGofer59>
   
   <BrutalThief89>
     <!-- EN: brutal thief -->
-    <title>TODO</title>
+    <title>brutal tjuv</title>
     <!-- EN: thief -->
-    <titleShort>TODO</titleShort>
+    <titleShort>tjuv</titleShort>
     <!-- EN: Growing up in a gang, [PAWN_nameDef] learned the brutality of the streets.\n\nKnowing that showing weakness could be fatal, he closed himself of to others. -->
     <desc>TODO</desc>
   </BrutalThief89>
   
   <BunkerKid36>
     <!-- EN: bunker kid -->
-    <title>TODO</title>
+    <title>bunkerunge</title>
     <!-- EN: bunker kid -->
-    <titleShort>TODO</titleShort>
+    <titleShort>bunkerunge</titleShort>
     <!-- EN: Ricardo grew up in an underground shelter, waiting for radioactive fallout to subside. His rich family had gained access to a luxury bunker city, while billions died on the surface.\n\nDetermined to one day seek revenge against the hated enemy, Ricardo spent most of his time practicing shooting in his private training facility. -->
     <desc>TODO</desc>
   </BunkerKid36>
   
   <BushSniper94>
     <!-- EN: bush sniper -->
-    <title>TODO</title>
+    <title>prickskytt</title>
     <!-- EN: sniper -->
-    <titleShort>TODO</titleShort>
+    <titleShort>prickskytt</titleShort>
     <!-- EN: [PAWN_nameDef]'s peaceful life was cut short when [PAWN_possessive] country was brutally invaded.\n\n[PAWN_nameDef] was drafted into service as soon as [PAWN_pronoun] was of legal age, and quickly showed an aptitude for rifles. [PAWN_pronoun] spent months living in the forests picking off soldiers who dared cross the border. -->
     <desc>TODO</desc>
   </BushSniper94>
@@ -761,43 +761,43 @@
     <!-- EN: business gangster -->
     <title>TODO</title>
     <!-- EN: gangster -->
-    <titleShort>TODO</titleShort>
+    <titleShort>gangster</titleShort>
     <!-- EN: Staying one step ahead of the law, [PAWN_nameDef] became a legitimate businessman and silenced anyone who dared say otherwise. As proprietor of brothels, speakeasies and eateries, [PAWN_nameDef]'s good fortune continued while his competition suffered a series of unfortunate and unexplained accidents. -->
     <desc>TODO</desc>
   </BusinessGangster35>
   
   <Cadet56>
     <!-- EN: cadet -->
-    <title>TODO</title>
+    <title>kadett</title>
     <!-- EN: cadet -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kadett</titleShort>
     <!-- EN: Born on the planet New China, [PAWN_nameDef]'s father was a police chief and kept extremely strict watch over his son.\n\n[PAWN_nameDef] had to do military-style drill exercises every day and keep his room spotlessly clean, always ready for inspection. [PAWN_pronoun] came to abhor violence. -->
     <desc>TODO</desc>
   </Cadet56>
   
   <CaravanChild91>
     <!-- EN: caravan child -->
-    <title>TODO</title>
+    <title>karavanbarn</title>
     <!-- EN: child -->
-    <titleShort>TODO</titleShort>
+    <titleShort>barn</titleShort>
     <!-- EN: [PAWN_nameDef] was born on a urbworld merchant ship to an entrepreneurial mother and an absent father. Born male, she disliked boy stuff, and got into her mother’s things all the time.\n\nEventually, she traveled with her mother to a glitterworld and spent her savings on a body she was happy with. -->
     <desc>TODO</desc>
   </CaravanChild91>
   
   <Caravaneer53>
     <!-- EN: caravaneer -->
-    <title>TODO</title>
+    <title>karavanledare</title>
     <!-- EN: caravaneer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>karavanledare</titleShort>
     <!-- EN: [PAWN_nameDef] was the leader of a caravan. [PAWN_pronoun] was responsible for the safety of [PAWN_possessive] caravan and was the head negotiator in countless trade deals.\n\n[PAWN_pronoun] and [PAWN_possessive] people prospered, but their wealth made them a target for brigands. They often had to take up arms to fend off bandits and highwaymen. -->
     <desc>TODO</desc>
   </Caravaneer53>
   
   <CaravanTraveler6>
     <!-- EN: caravan traveler -->
-    <title>TODO</title>
+    <title>karavanresande</title>
     <!-- EN: traveler -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kringresande</titleShort>
     <!-- EN: Born to a family of traveling merchants, [PAWN_nameDef] was mentored by [PAWN_possessive] father in the ways of being a trader. [PAWN_pronoun] was often tasked with caring for the pack animals. Due to [PAWN_possessive] nomadic lifestyle, [PAWN_pronoun] hunted and bartered for [PAWN_possessive] food. -->
     <desc>TODO</desc>
   </CaravanTraveler6>
@@ -822,45 +822,45 @@
   
   <Castaway57>
     <!-- EN: castaway -->
-    <title>TODO</title>
+    <title>skeppsbruten</title>
     <!-- EN: castaway -->
-    <titleShort>TODO</titleShort>
+    <titleShort>skeppsbruten</titleShort>
     <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversatial abilities. -->
     <desc>TODO</desc>
   </Castaway57>
   
   <Castaway87>
     <!-- EN: castaway -->
-    <title>TODO</title>
+    <title>skeppsbruten</title>
     <!-- EN: castaway -->
-    <titleShort>TODO</titleShort>
+    <titleShort>skeppsbruten</titleShort>
     <!-- EN: [PAWN_nameDef] was a passenger on a routine interstellar transit. When his ship was destroyed, he lived as a castaway on an uninhabited planet for several years. -->
     <desc>TODO</desc>
   </Castaway87>
   
   <CatHerder12>
     <!-- EN: cat herder -->
-    <title>Kattherde</title>
+    <title>kattherde</title>
     <!-- EN: herder -->
-    <titleShort>Herde</titleShort>
+    <titleShort>herde</titleShort>
     <!-- EN: [PAWN_nameDef] helped out in his father's cat breeding business, socializing, herding, and feeding hundreds of cats.\n\nWhen he refused to clean up after the cats, [PAWN_pronoun] was transferred to the breeding science division. -->
     <desc>[PAWN_nameDef] hjälpte till i sin fars kattuppfödningsaffär, socialiserat, herdade och utfodrade hundratals katter.\n\nNär [PAWN_pronoun] vägrade städa upp efter katterna, överfördes [PAWN_pronoun] till avelsvetenskapsavdelningen.</desc>
   </CatHerder12>
   
   <CaveChild17>
     <!-- EN: cave child -->
-    <title>TODO</title>
+    <title>grottbarn</title>
     <!-- EN: cave kid -->
-    <titleShort>TODO</titleShort>
+    <titleShort>grottbarn</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a cave on an tundra planet, and was adopted by a traveling group of entertainers known only as the Wizards. Once a starfaring crew, the Wizards told [PAWN_objective] wondrous stories about the universe.\n\nOne day, the Wizards did not return from scavenging. After years of waiting, [PAWN_nameDef] set off into space to find them. -->
     <desc>TODO</desc>
   </CaveChild17>
   
   <CaveChild30>
     <!-- EN: cave child -->
-    <title>TODO</title>
+    <title>grottbarn</title>
     <!-- EN: cave child -->
-    <titleShort>TODO</titleShort>
+    <titleShort>grottbarn</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
     <desc>TODO</desc>
   </CaveChild30>
@@ -876,9 +876,9 @@
   
   <CaveworldIlluminator23>
     <!-- EN: caveworld illuminator -->
-    <title>TODO</title>
+    <title>grottillusionist</title>
     <!-- EN: illuminator -->
-    <titleShort>TODO</titleShort>
+    <titleShort>illusionist</titleShort>
     <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]’s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
     <desc>TODO</desc>
   </CaveworldIlluminator23>
@@ -912,54 +912,54 @@
   
   <Chemist54>
     <!-- EN: Chemist -->
-    <title>TODO</title>
+    <title>Kemist</title>
     <!-- EN: Chemist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Kemist</titleShort>
     <!-- EN: [PAWN_nameDef] was a renowned chemist on a thriving midworld.\n\nAfter performing inhumane experiments that turned men into beasts, [PAWN_pronoun] was arrested and banished to a far-off rim world. -->
     <desc>TODO</desc>
   </Chemist54>
   
   <Chemist73>
     <!-- EN: chemist -->
-    <title>TODO</title>
+    <title>kemist</title>
     <!-- EN: chemist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kemist</titleShort>
     <!-- EN: [PAWN_nameDef] was a research chemist. [PAWN_pronoun] worked with chemicals, from pharmaceuticals to explosives, to develop new substances and treatments. -->
     <desc>TODO</desc>
   </Chemist73>
   
   <ChessMaster24>
     <!-- EN: chess master -->
-    <title>TODO</title>
+    <title>schackmästare</title>
     <!-- EN: chesshead -->
-    <titleShort>TODO</titleShort>
+    <titleShort>schackhuvud</titleShort>
     <!-- EN: [PAWN_nameDef] loved to play chess. [PAWN_pronoun] even earned the nickname Bishop for some of [PAWN_possessive] craftier moves. \n\n[PAWN_pronoun] never got into trouble - mostly because he was good at not getting caught. -->
     <desc>TODO</desc>
   </ChessMaster24>
   
   <ChiefEngineer18>
     <!-- EN: chief engineer -->
-    <title>TODO</title>
+    <title>chefsingengör</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ingengör</titleShort>
     <!-- EN: As chief engineer on board a large spaceship, [PAWN_nameDef] was an expert in all things fiddly and complex.\n\nShe relied on other members of the crew for some of the basic necessities of life. She and her ship eventually disappeared into a longsleep voyage of exploration. -->
     <desc>TODO</desc>
   </ChiefEngineer18>
   
   <ChildKnave90>
     <!-- EN: child-knave -->
-    <title>TODO</title>
+    <title>barnknekt</title>
     <!-- EN: knave -->
-    <titleShort>TODO</titleShort>
+    <titleShort>knekt</titleShort>
     <!-- EN: [PAWN_nameDef] was a child-knave of King Loteric. [PAWN_pronoun] enjoyed the training with wooden sticks and engaging others in close combat. [PAWN_pronoun] adapted quickly to the heat of battle and was good at spreading fire.\n\n[PAWN_pronoun] served his lord well, until the king died in an unfortunate accident. -->
     <desc>TODO</desc>
   </ChildKnave90>
   
   <ChildOfDrifters28>
     <!-- EN: child of drifters -->
-    <title>TODO</title>
+    <title>luffarbarn</title>
     <!-- EN: drifter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>luffare</titleShort>
     <!-- EN: Ever since [PAWN_pronoun] was very small, [PAWN_nameDef] had never known a home beyond [PAWN_possessive] parent's ship. They were a family of nomads whose meandering provided a constant change of scenery. [PAWN_possessive] life was often perilous but never dull, and [PAWN_pronoun] inherited [PAWN_possessive] parents' wanderlust at a young age. -->
     <desc>TODO</desc>
   </ChildOfDrifters28>
@@ -968,7 +968,7 @@
     <!-- EN: child of glass -->
     <title>TODO</title>
     <!-- EN: survivor -->
-    <titleShort>TODO</titleShort>
+    <titleShort>överlevare</titleShort>
     <!-- EN: [PAWN_nameDef] was raised underground on a "marble" planet - a wasteland of radioactive asphalt and toxic fallout.\n\nTo survive on a planet devoid of life, [PAWN_pronoun] had to learn how to farm underground and how to fight without wasting bullets. -->
     <desc>TODO</desc>
   </ChildOfGlass61>
@@ -984,16 +984,16 @@
   
   <ChildResearcher32>
     <!-- EN: child researcher -->
-    <title>TODO</title>
+    <title>barnforskare</title>
     <!-- EN: researcher -->
-    <titleShort>TODO</titleShort>
+    <titleShort>forskare</titleShort>
     <!-- EN: A frightfully intelligent child, [PAWN_nameDef] was kidnapped by a glitterworld corporation and forced to research technologies for weaponizing anti-matter.\n\n[PAWN_pronoun] vowed never to invent anything again. -->
     <desc>TODO</desc>
   </ChildResearcher32>
   
   <ChildScientist25>
     <!-- EN: child scientist -->
-    <title>TODO</title>
+    <title>barnvetenskapsman</title>
     <!-- EN: scientist -->
     <titleShort>TODO</titleShort>
     <!-- EN: After graduating college very young, [PAWN_nameDef] devoted [PAWN_possessive] life to becoming immortal. He was arrested for trying to genetically modify himself.\n\nThe authorities released [PAWN_objective] on the condition that he would work in a government lab on spacecraft technology. He was permitted to continue his personal research in his free time. -->
@@ -1002,45 +1002,45 @@
   
   <ChildSlave6>
     <!-- EN: child slave -->
-    <title>TODO</title>
+    <title>barnslav</title>
     <!-- EN: slave -->
-    <titleShort>TODO</titleShort>
+    <titleShort>slav</titleShort>
     <!-- EN: Graham was born to a poor family on a rimworld. His father sold him into slavery at a young age and he was traded many times. A tycoon bought him as part of a child labor force and sent down into mines to look after machines and to work alongside them. -->
     <desc>TODO</desc>
   </ChildSlave6>
   
   <ChildSpy53>
     <!-- EN: child spy -->
-    <title>Barnspion</title>
+    <title>barnspion</title>
     <!-- EN: spy -->
-    <titleShort>Spion</titleShort>
+    <titleShort>spion</titleShort>
     <!-- EN: Children are often presumed innocent, and can be ideal as spies. [PAWN_nameDef] was trained in the art of infiltration and information-gathering when [PAWN_pronoun] was just nine years old.\n\n[PAWN_possessive] years behind enemy lines and the war-torn nature of [PAWN_possessive] homeworld meant [PAWN_pronoun] had limited opportunity for education. -->
     <desc>Barn är ofta oskyldig, och kan vara perfekt som spioner. [PAWN_nameDef] har utbildats i konsten att infiltration och informationsinsamling när [PAWN_pronoun] var bara nio år gammal.\n\n[PAWN_possessive] år bakom fiendens linjer och krigshärjade naturen av [PAWN_possessive] hemvärld innebar att [PAWN_pronoun] hade begränsade möjligheter till utbildning.</desc>
   </ChildSpy53>
   
   <ChildSpy96>
     <!-- EN: child spy  -->
-    <title>TODO</title>
+    <title>barnspion</title>
     <!-- EN: spy  -->
-    <titleShort>TODO</titleShort>
+    <titleShort>spion</titleShort>
     <!-- EN: Children are often presumed innocent, and so make ideal spies. [PAWN_nameDef] was trained in the arts of infiltration and information-gathering when [PAWN_pronoun] was very young.\n\n[PAWN_possessive] spent years behind enemy lines, gathering intel in a brutal planetary war. During this time, [PAWN_pronoun] had limited opportunity for education. -->
     <desc>TODO</desc>
   </ChildSpy96>
   
   <ChildStar74>
     <!-- EN: child star -->
-    <title>Barnstjärna</title>
+    <title>barnstjärna</title>
     <!-- EN: star -->
-    <titleShort>Stjärna</titleShort>
+    <titleShort>stjärna</titleShort>
     <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
     <desc>[PAWN_nameDef] var väl känd i hela [PAWN_possessive] hemvärld som barnskådespelare i filmer och TV-program. [PAWN_possessive] fame satte [PAWN_objective] i kontakt med många olika typer av människor, men det tenderade också att komma i vägen för [PAWN_possessive] utbildning.</desc>
   </ChildStar74>
   
   <CircusPerformer93>
     <!-- EN: circus performer -->
-    <title>TODO</title>
+    <title>cirkusartist</title>
     <!-- EN: performer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>artist</titleShort>
     <!-- EN: Growing up in the circus, [PAWN_nameDef] learned a lot of interesting things. More interesting then the balls he juggled were the pockets he picked between shows.\n\nA mistake with some firesticks made him develop a deathly fear of fire. -->
     <desc>TODO</desc>
   </CircusPerformer93>
@@ -1074,9 +1074,9 @@
   
   <ClassClown73>
     <!-- EN: class clown -->
-    <title>TODO</title>
+    <title>klassens clown</title>
     <!-- EN: clowny kid -->
-    <titleShort>TODO</titleShort>
+    <titleShort>clownlik unge</titleShort>
     <!-- EN: In the ultra-competitive environs of his glitterworld school, [PAWN_nameDef] always offered to play the class clown to diffuse tension.\n\n[PAWN_pronoun] developed a sense of social desperation from this, as well as an appreciation for the artistic side of comedy. -->
     <desc>TODO</desc>
   </ClassClown73>
@@ -1128,18 +1128,18 @@
   
   <ColonyEngineer16>
     <!-- EN: colony engineer -->
-    <title>TODO</title>
+    <title>kolloniingengör</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ingengör</titleShort>
     <!-- EN: The children took over the facility, and they declared independence from the corporation.\n\n[PAWN_nameDef] had used the VR system to become a master engineer, and he worked diligently to prepare the colony for the corporation's inevitable return. -->
     <desc>TODO</desc>
   </ColonyEngineer16>
   
   <ColonyKid47>
     <!-- EN: colony kid -->
-    <title>TODO</title>
+    <title>koloniunge</title>
     <!-- EN: colony kid -->
-    <titleShort>TODO</titleShort>
+    <titleShort>koloniunge</titleShort>
     <!-- EN: [PAWN_nameDef] was born the child of two doctors in a small colony. Because of [PAWN_possessive] parents, [PAWN_pronoun] was always interested in science and medicine.\n\n[PAWN_nameDef] never really got along with other children, and as a result became withdrawn and unsociable. -->
     <desc>TODO</desc>
   </ColonyKid47>
@@ -1155,36 +1155,36 @@
   
   <ComaChild57>
     <!-- EN: coma child -->
-    <title>Komabarn</title>
+    <title>komabarn</title>
     <!-- EN: coma child -->
-    <titleShort>Koma</titleShort>
+    <titleShort>komabarn</titleShort>
     <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn’t wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
     <desc>En barndom olycka satte [PAWN_nameDef] i koma. [PAWN_pronoun] vaknade inte förrän [PAWN_pronoun] var i sena tonåren. [PAWN_possessive] kropp aldrig återhämtat sig från år av inaktivitet, men människor tenderar att tycka synd om [PAWN_objective] när de hör [PAWN_possessive] berättelse.</desc>
   </ComaChild57>
   
   <CombatEngineer30>
     <!-- EN: combat engineer -->
-    <title>TODO</title>
+    <title>stridsingengör</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ingengör</titleShort>
     <!-- EN: [PAWN_nameDef] was recruited by the military as an engineer and set to work improving the navy's space shuttles. The harsh training taught [PAWN_objective] how to build and repair military vehicles and structures.\n\nOne mission left [PAWN_nameDef] with pyrophobia and a strong desire to avoid plants. -->
     <desc>TODO</desc>
   </CombatEngineer30>
   
   <CombatEngineer4>
     <!-- EN: combat engineer -->
-    <title>TODO</title>
+    <title>stridsingengör</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ingengör</titleShort>
     <!-- EN: [PAWN_nameDef] became a combat engineer. [PAWN_pronoun] built bases, fixed guns, and repaired vehicles for the army - when [PAWN_pronoun] wasn't shooting at people, that is. -->
     <desc>TODO</desc>
   </CombatEngineer4>
   
   <CombatMedic16>
     <!-- EN: combat medic -->
-    <title>TODO</title>
+    <title>fältsjukvårdare</title>
     <!-- EN: medic -->
-    <titleShort>TODO</titleShort>
+    <titleShort>sjukvårdare</titleShort>
     <!-- EN: After his home country entered a large-scale war, Felix was drafted into the army as a combat medic.\n\nHis few years in the trenches trying to keep his fellow soldiers alive gave him an acute sense for first aid. Losing many friend has made him stoic and reserved. -->
     <desc>TODO</desc>
   </CombatMedic16>
@@ -1209,18 +1209,18 @@
   
   <ComputerEngineer16>
     <!-- EN: computer engineer  -->
-    <title>TODO</title>
+    <title>dataingengör</title>
     <!-- EN: tech head -->
-    <titleShort>TODO</titleShort>
+    <titleShort>teknikhuvud</titleShort>
     <!-- EN: Bored of his code-monkey office job and missing the glory days of the Academy, [PAWN_nameDef] saw a commercial about the frontier where "only the strong survive".\n\nWith his wife Morgan, [PAWN_nameDef] undertook a journey into the unknown. -->
     <desc>TODO</desc>
   </ComputerEngineer16>
   
   <ComputerGeek14>
     <!-- EN: computer geek -->
-    <title>TODO</title>
+    <title>datanörd</title>
     <!-- EN: geek -->
-    <titleShort>TODO</titleShort>
+    <titleShort>geek</titleShort>
     <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood on [PAWN_possessive] computer, typing away, never knowing when to get up and eat.\n\nHe had a very narrow interest: hacking cryptobiotic safety protocols. -->
     <desc>TODO</desc>
   </ComputerGeek14>
@@ -1283,7 +1283,7 @@
     <!-- EN: core world jeweler -->
     <title>TODO</title>
     <!-- EN: jeweler -->
-    <titleShort>TODO</titleShort>
+    <titleShort>juvelerare</titleShort>
     <!-- EN: After Alyssa had completed all of her surgeries, she found that she had a lot of time and energy to dedicate to her passion: trinket crafting. She spent years perfecting her art as a jeweler, then left her home world to sell her wares across the galaxy. -->
     <desc>TODO</desc>
   </CoreWorldJeweler59>
@@ -1292,7 +1292,7 @@
     <!-- EN: core world student -->
     <title>TODO</title>
     <!-- EN: student -->
-    <titleShort>TODO</titleShort>
+    <titleShort>student</titleShort>
     <!-- EN: Born a male named Alex, Alyssa didn't fit in well with the other boys. When very young, she preferred creative pursuits, such as crafting jewelry, over sports. She felt she had the wrong body. Luckily, her family and friends supported her sex reassignment; as a teen, she underwent surgery to become a female. -->
     <desc>TODO</desc>
   </CoreWorldStudent4>
@@ -1301,7 +1301,7 @@
     <!-- EN: corp-bred student -->
     <title>TODO</title>
     <!-- EN: student -->
-    <titleShort>TODO</titleShort>
+    <titleShort>student</titleShort>
     <!-- EN: [PAWN_nameDef] was bred to become an executive for the space exploration corporation that owned his home planet. [PAWN_possessive] family had been working for that corporation for four generations.\n\nAt age five, [PAWN_pronoun] enrolled at the corporate academy where he learned loyalty and ruthlessness. [PAWN_nameDef] excelled in finding diplomatic solutions where others would need violence. -->
     <desc>TODO</desc>
   </CorpBredStudent56>
@@ -1310,7 +1310,7 @@
     <!-- EN: corporate builder -->
     <title>TODO</title>
     <!-- EN: builder -->
-    <titleShort>TODO</titleShort>
+    <titleShort>byggare</titleShort>
     <!-- EN: Even as [PAWN_pronoun] stewed in [PAWN_possessive] own wasted potential, [PAWN_nameDef] found [PAWN_pronoun] had a knack for moving objects quickly. It was just what the planetary mega-corps wanted in their construction divisions.\n\nUnfortunately, the monotonous work erased [PAWN_possessive] remaining creative impulses. -->
     <desc>TODO</desc>
   </CorporateBuilder58>
@@ -1319,7 +1319,7 @@
     <!-- EN: corporate slave -->
     <title>TODO</title>
     <!-- EN: soldier -->
-    <titleShort>TODO</titleShort>
+    <titleShort>soldat</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a colony owned by a large glitterworld corporation. All children had virtual reality devices attached by force, and were raised in a brutal digital world.\n\nConstantly forced to fight others for the entertainment of the wealthy, gunplay and tactics became the center of [PAWN_nameDef]'s universe. -->
     <desc>TODO</desc>
   </CorporateSlave22>
@@ -1328,7 +1328,7 @@
     <!-- EN: corp researcher -->
     <title>TODO</title>
     <!-- EN: researcher -->
-    <titleShort>TODO</titleShort>
+    <titleShort>forskare</titleShort>
     <!-- EN: [PAWN_nameDef] was sold to a corporation and put to work as a corporate slave doing scientific research.\n\nUnable to adapt to the social politics of his workplace, he buried himself in his work and failed to progress up the corporate ladder. Every day, he yearned to be left alone. -->
     <desc>TODO</desc>
   </CorpResearcher85>
@@ -1337,7 +1337,7 @@
     <!-- EN: corp researcher -->
     <title>TODO</title>
     <!-- EN: researcher -->
-    <titleShort>TODO</titleShort>
+    <titleShort>forskare</titleShort>
     <!-- EN: [PAWN_nameDef] was a leading researcher for a massive space exploration corporation. -->
     <desc>TODO</desc>
   </CorpResearcher93>
@@ -1362,9 +1362,9 @@
   
   <CosmeticSurgeon36>
     <!-- EN: cosmetic surgeon -->
-    <title>TODO</title>
+    <title>plastikkirurg</title>
     <!-- EN: surgeon -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kirurg</titleShort>
     <!-- EN: [PAWN_nameDef] had a terrible bedside manner due to [PAWN_possessive] abrasiveness. [PAWN_pronoun] often bullied [PAWN_possessive] patients into getting cosmetic surgery. [PAWN_pronoun] made a lot of money this way.\n\nWhile very studious and careful in [PAWN_possessive] work, [PAWN_pronoun] never had to lift a finger doing domestic chores. -->
     <desc>TODO</desc>
   </CosmeticSurgeon36>
@@ -1373,7 +1373,7 @@
     <!-- EN: costume crafter -->
     <title>TODO</title>
     <!-- EN: costumer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kostymör</titleShort>
     <!-- EN: By day, [PAWN_nameDef] was an office worker on a midworld. At night, [PAWN_pronoun] designed and built elaborate monster costumes for science fiction conventions.\n\n[PAWN_pronoun] learned a great deal about sewing. Unfortunately this came at the cost of being able to cook anything more complex than an instant meal. -->
     <desc>TODO</desc>
   </CostumeCrafter41>
@@ -1407,9 +1407,9 @@
   
   <CowFarmer23>
     <!-- EN: cow farmer -->
-    <title>TODO</title>
+    <title>mjölkbonde</title>
     <!-- EN: farmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>bonde</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on a rim world, under the tyranny of [PAWN_possessive] father, who forced [PAWN_objective] to work every day on the farm. [PAWN_pronoun] dreamed of escaping [PAWN_possessive] father and exploring the universe.\n\nOne day, when the trade ship was overhead, [PAWN_pronoun] stowed away among the goods in the launch pods, and escaped into space. -->
     <desc>TODO</desc>
   </CowFarmer23>
@@ -1427,7 +1427,7 @@
     <!-- EN: crime boss' child -->
     <title>TODO</title>
     <!-- EN: crime kid -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kriminell unge</titleShort>
     <!-- EN: [PAWN_nameDef] was adopted child of a notorious crime boss. [PAWN_pronoun] was taught all facets of the family business, from smuggling to inventive ways of killing.\n\nWhen the family was attacked, [PAWN_possessive] father ordered [PAWN_objective] to hide in a secret longsleep crypt. -->
     <desc>TODO</desc>
   </CrimeBossChild48>
@@ -1452,9 +1452,9 @@
   
   <CriminalSurgeon99>
     <!-- EN: criminal surgeon -->
-    <title>TODO</title>
+    <title>kriminell kirurg</title>
     <!-- EN: surgeon -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kirurg</titleShort>
     <!-- EN: Being near many injured fellow criminals, [PAWN_nameDef] took it upon [PAWN_objective]self to work on them.\n\nAlthough many people died, [PAWN_pronoun] did get better at using knives. -->
     <desc>TODO</desc>
   </CriminalSurgeon99>
@@ -1479,9 +1479,9 @@
   
   <DedicatedStudent29>
     <!-- EN: dedicated student -->
-    <title>TODO</title>
+    <title>dedikerad student</title>
     <!-- EN: student -->
-    <titleShort>TODO</titleShort>
+    <titleShort>student</titleShort>
     <!-- EN: The child of a wealthy manufacturer, [PAWN_nameDef] was pampered from an early age. [PAWN_pronoun] developed an affinity for reading and art, and a distaste for menial chores.\n\nA revolution brought his father's businesses under state control. Penniless, [PAWN_nameDef] worked hard to complete [PAWN_possessive] education. -->
     <desc>TODO</desc>
   </DedicatedStudent29>
@@ -1515,27 +1515,27 @@
   
   <Defector95>
     <!-- EN: defector  -->
-    <title>TODO</title>
+    <title>avhoppare</title>
     <!-- EN: defector  -->
-    <titleShort>TODO</titleShort>
+    <titleShort>avhoppare</titleShort>
     <!-- EN: [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run. Since [PAWN_pronoun] could trust no doctor, [PAWN_pronoun] treated [PAWN_possessive] own wounds. The ordeal made [PAWN_objective] bitter and untrusting. -->
     <desc>TODO</desc>
   </Defector95>
   
   <DefenseLawyer71>
     <!-- EN: Defense lawyer -->
-    <title>TODO</title>
+    <title>Försvarsadvokat</title>
     <!-- EN: Lawyer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Advokat</titleShort>
     <!-- EN: [PAWN_nameDef] found that [PAWN_pronoun] could make more money with a quick word than a blaster. Seeking a job where [PAWN_possessive] silver tongue could be useful, [PAWN_pronoun] turned to the law.\n\n[PAWN_pronoun] often defended the illegal speeder racers [PAWN_pronoun] grew up with. -->
     <desc>TODO</desc>
   </DefenseLawyer71>
   
   <DesertRat47>
     <!-- EN: desert rat -->
-    <title>TODO</title>
+    <title>ökenråtta</title>
     <!-- EN: desert rat -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ökenråtta</titleShort>
     <!-- EN: [PAWN_nameDef] was born to a tribe of desert ascetics who wandered the endless wastes.\n\nThey sought a mythical substance they believed could liberate them from ignorance through psychedelic revelation - and usher in a new period of interstellar peace. -->
     <desc>TODO</desc>
   </DesertRat47>
@@ -1544,7 +1544,7 @@
     <!-- EN: destroyer-general -->
     <title>TODO</title>
     <!-- EN: general -->
-    <titleShort>TODO</titleShort>
+    <titleShort>general</titleShort>
     <!-- EN: [PAWN_nameDef] held the rank of Destroyer-General in a powerful midworld military.\n\n[PAWN_pronoun] was known for his mastery of weapons, and was also a good ship pilot. -->
     <desc>TODO</desc>
   </DestroyerGeneral61>
@@ -1562,7 +1562,7 @@
     <!-- EN: diplomat's child -->
     <title>TODO</title>
     <!-- EN: diplomat -->
-    <titleShort>TODO</titleShort>
+    <titleShort>diplomat</titleShort>
     <!-- EN: [PAWN_nameDef] was born in diplomatic family.\n\nTravelling often, [PAWN_pronoun] was home-schooled and saw the world mostly through a computer. -->
     <desc>TODO</desc>
   </DiplomatsChild97>
@@ -1571,7 +1571,7 @@
     <!-- EN: disaster survivor -->
     <title>TODO</title>
     <!-- EN: survivor -->
-    <titleShort>TODO</titleShort>
+    <titleShort>överlevare</titleShort>
     <!-- EN: Steven was uprooted when marauders attacked his family farm, destroying machinery and killing farmhands and beasts alike.\n\nAfter the death of all he knew, he was left in the ruins to fend for himself. -->
     <desc>TODO</desc>
   </DisasterSurvivor58>
@@ -1580,7 +1580,7 @@
     <!-- EN: disaster survivor -->
     <title>TODO</title>
     <!-- EN: survivor -->
-    <titleShort>TODO</titleShort>
+    <titleShort>överlevare</titleShort>
     <!-- EN: [PAWN_nameDef]'s planet collided with a small moon. Everything he knew as home was destroyed, and his entire family died. [PAWN_pronoun] was left in the ruins to fend for himself. -->
     <desc>TODO</desc>
   </DisasterSurvivor9>
@@ -1598,7 +1598,7 @@
     <!-- EN: discharged soldier -->
     <title>TODO</title>
     <!-- EN: soldier -->
-    <titleShort>TODO</titleShort>
+    <titleShort>soldat</titleShort>
     <!-- EN: [PAWN_nameDef] prostituted himself to fund his drug habits. As an escape, [PAWN_pronoun] joined the military and learned to fight.\n\nToo smart for the army, [PAWN_pronoun] questioned and often disagreed with [PAWN_possessive] superiors' decisions. This eventually led to [PAWN_possessive] dishonorable discharge and left [PAWN_objective] with a chip on [PAWN_possessive] shoulder. -->
     <desc>TODO</desc>
   </DischargedSoldier56>
@@ -1650,9 +1650,9 @@
   
   <Dreamer79>
     <!-- EN: dreamer -->
-    <title>TODO</title>
+    <title>drömmare</title>
     <!-- EN: dreamer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>drömmare</titleShort>
     <!-- EN: [PAWN_nameDef] was an expressive child. [PAWN_pronoun] sang often, and made friends very easily, be they young or old, male or female.\n\n[PAWN_pronoun] hated fighting, but when made angry, [PAWN_pronoun] could be dangerous. [PAWN_possessive] temper was quick. -->
     <desc>TODO</desc>
   </Dreamer79>
@@ -1668,9 +1668,9 @@
   
   <DromedaryKnight32>
     <!-- EN: dromedary knight -->
-    <title>TODO</title>
+    <title>dromedarriddare</title>
     <!-- EN: knight -->
-    <titleShort>TODO</titleShort>
+    <titleShort>riddare</titleShort>
     <!-- EN: Having caught the eye of [PAWN_possessive] people's Sand King, [PAWN_nameDef] was trained in the Sandy Boomrat fighting technique.\n\nAlways with a camel to carry his things, [PAWN_pronoun] served [PAWN_possessive] sand people faithfully. -->
     <desc>TODO</desc>
   </DromedaryKnight32>
@@ -1704,9 +1704,9 @@
   
   <DustyFarmHand75>
     <!-- EN: dusty farm hand -->
-    <title>TODO</title>
+    <title>skitig dräng</title>
     <!-- EN: farm hand -->
-    <titleShort>TODO</titleShort>
+    <titleShort>dräng</titleShort>
     <!-- EN: From the time [PAWN_nameDef] could walk, [PAWN_pronoun] helped take care of the animals and crops that [PAWN_possessive] people tended in their arid homeland.\n\nThe work toughened [PAWN_objective], but left little time for intellectual activities. -->
     <desc>TODO</desc>
   </DustyFarmHand75>
@@ -1715,7 +1715,7 @@
     <!-- EN: earth colonist -->
     <title>TODO</title>
     <!-- EN: colonist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kolonist</titleShort>
     <!-- EN: [PAWN_nameDef] was born on Earth. As a child, [PAWN_pronoun] was launched into space as part of an interstellar colonization program. -->
     <desc>TODO</desc>
   </EarthColonist48>
@@ -1731,9 +1731,9 @@
   
   <EnergeticPopIdol4>
     <!-- EN: energetic pop idol -->
-    <title>TODO</title>
+    <title>energisk popidol</title>
     <!-- EN: pop idol -->
-    <titleShort>TODO</titleShort>
+    <titleShort>popidol</titleShort>
     <!-- EN: Priscilla grew up on a glitterworld, training in rapier arts and singing. She spent several years as an energetic teen pop idol.\n\nHowever, she decided that the music and modeling industries were not paying her enough attention, so she left. -->
     <desc>TODO</desc>
   </EnergeticPopIdol4>
@@ -1742,16 +1742,16 @@
     <!-- EN: energy researcher -->
     <title>TODO</title>
     <!-- EN: researcher -->
-    <titleShort>TODO</titleShort>
+    <titleShort>forskare</titleShort>
     <!-- EN: [PAWN_nameDef] was working on an idea for rapid communication over long distances. [PAWN_pronoun] made an error which destroyed [PAWN_possessive] lab and most of the city. [PAWN_pronoun] fled the planet to escape the authorities. -->
     <desc>TODO</desc>
   </EnergyResearcher67>
   
   <Engineer47>
     <!-- EN: engineer -->
-    <title>TODO</title>
+    <title>ingengör</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ingengör</titleShort>
     <!-- EN: [PAWN_nameDef] found a job as a tinkering engineer on the trading hub planet Irithir. Tough local traders forced him to learn negotiation skills, and he made good profits selling refurbished weapons and tools. -->
     <desc>TODO</desc>
   </Engineer47>
@@ -1760,7 +1760,7 @@
     <!-- EN: engineered pilot -->
     <title>Ingenjörspilot</title>
     <!-- EN: pilot -->
-    <titleShort>Pilot</titleShort>
+    <titleShort>pilot</titleShort>
     <!-- EN: After his province was besieged by one of its neighbors, [PAWN_nameDef] volunteered for a generic modification program that created pilots for the very fighter craft that he had helped develop. The modifications allowed him to pilot the ship, but also made him less able to focus on the people around him.\n\nBy this time, people were calling him "Squirrel." -->
     <desc>Efter att [PAWN_possessive] provins blev belägrat av en av sina grannar, anmälde sig [PAWN_nameDef] frivilligt för ett generiskt modifieringsprogram som skapade piloter för det stridsplanet som [PAWN_pronoun] hade hjälpt till att utveckla. Ändringarna gjorde det möjligt för [PAWN_objective] att styra planet, men gjorde [PAWN_objective] också mindre inriktad på människorna kring [PAWN_objective].\n\nVid den tiden kallade folk [PAWN_objective] "ekorren".</desc>
   </EngineeredPilot9>
@@ -1803,16 +1803,16 @@
   
   <ExiledPrince1>
     <!-- EN: exiled prince -->
-    <title>TODO</title>
+    <title>prins i exil</title>
     <!-- EN: prince -->
-    <titleShort>TODO</titleShort>
+    <titleShort>prins</titleShort>
     <!-- EN: A member of a royal family, [PAWN_nameDef] was exiled for shaming [PAWN_possessive] family.\n\nLiving in a foreign land, mostly alone, [PAWN_pronoun] spent most of [PAWN_possessive] time making huts and houses to live in. [PAWN_pronoun] found little time in an average day for enjoyment, and lost all his friends and family. -->
     <desc>TODO</desc>
   </ExiledPrince1>
   
   <ExiledResearcher68>
     <!-- EN: exiled researcher -->
-    <title>TODO</title>
+    <title>forskare i exil</title>
     <!-- EN: exile -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef]'s love of robotics was not appreciated in her technophobic empire. The High Cardinal of the system excommunicated her, and she was never allowed to return. -->
@@ -1821,9 +1821,9 @@
   
   <ExoticChef96>
     <!-- EN: exotic chef -->
-    <title>TODO</title>
+    <title>exotisk kock</title>
     <!-- EN: chef -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kock</titleShort>
     <!-- EN: [PAWN_nameDef] has always gone overboard when it comes to food. [PAWN_pronoun] is always seeking new and exotic ingredients.\n\n[PAWN_possessive] quest for ingredients has brought [PAWN_objective] into some close calls with local flora and fauna. -->
     <desc>TODO</desc>
   </ExoticChef96>
@@ -1839,9 +1839,9 @@
   
   <Explorer28>
     <!-- EN: explorer -->
-    <title>TODO</title>
+    <title>utforskare</title>
     <!-- EN: explorer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>utforskare</titleShort>
     <!-- EN: [PAWN_nameDef] traveled from planet to planet, gathering samples, stories, and research. He hoped one day to compile a record of every animal, plant, mineral, and machine and device in known space: The Complete Traveler's Guide to the RimWorlds. -->
     <desc>TODO</desc>
   </Explorer28>
@@ -1850,7 +1850,7 @@
     <!-- EN: explorer-writer -->
     <title>TODO</title>
     <!-- EN: explorer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>utforskare</titleShort>
     <!-- EN: [PAWN_nameDef] traveled from planet to planet, gathering samples, stories, and research. \n\n[PAWN_possessive] goal was to bring together enough knowledge to make a survival guide for future generations. -->
     <desc>TODO</desc>
   </ExplorerWriter10>
@@ -1866,9 +1866,9 @@
   
   <FactionLeader74>
     <!-- EN: faction leader -->
-    <title>TODO</title>
+    <title>gruppledare</title>
     <!-- EN: leader -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ledare</titleShort>
     <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] found [PAWN_objective]self surrounded by a gaggle of low-lifes. \n\nFor fun, [PAWN_pronoun] gathered them and lead them to a certain death. [PAWN_pronoun] knew then that [PAWN_pronoun] had the talent to realize [PAWN_possessive] ambitions of leadership. -->
     <desc>TODO</desc>
   </FactionLeader74>
@@ -1884,9 +1884,9 @@
   
   <FactoryWorker58>
     <!-- EN: factory worker -->
-    <title>TODO</title>
+    <title>fabriksarbetare</title>
     <!-- EN: worker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>arbetare</titleShort>
     <!-- EN: Felix grew up in a large factory city on an industrial world.\n\nSince poverty was rampant and food scarce, he worked for whatever wages he could get. This wasn't an easy life, but Felix never shied away from a hard day's work. -->
     <desc>TODO</desc>
   </FactoryWorker58>
@@ -1929,45 +1929,45 @@
   
   <FarmersDaughter81>
     <!-- EN: Farmer's daughter -->
-    <title>TODO</title>
+    <title>bondotter</title>
     <!-- EN: Farm girl -->
-    <titleShort>TODO</titleShort>
+    <titleShort>bondotter</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on [PAWN_possessive] parents' vineyard. [PAWN_pronoun] spent [PAWN_possessive] youth exploring the land and making friends with various bugs and insects.\n\nHaving heard stories about all the fascinating things out there in the universe, [PAWN_pronoun] always dreamed of venturing out to see it for [PAWN_objective]self. -->
     <desc>TODO</desc>
   </FarmersDaughter81>
   
   <FarmersSon51>
     <!-- EN: farmer's son -->
-    <title>TODO</title>
+    <title>bondson</title>
     <!-- EN: farmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>bonde</titleShort>
     <!-- EN: Ade spent much of his childhood learning biome farming. In his biome they kept animals to investigate which would cope best in the alien environment.\n\nDue to this, the travel restrictions and oxygen rationing system, he rarely got to meet anyone from outside his family. -->
     <desc>TODO</desc>
   </FarmersSon51>
   
   <FarmHand30>
     <!-- EN: farm hand -->
-    <title>TODO</title>
+    <title>dräng</title>
     <!-- EN: farm hand -->
-    <titleShort>TODO</titleShort>
+    <titleShort>dräng</titleShort>
     <!-- EN: [PAWN_nameDef] was born on a farm on a smaller colony world.\n\nEverything was taken care of by the few members of the farm, including [PAWN_nameDef]. This helped [PAWN_objective] build independence, spirit, and a well-rounded character. -->
     <desc>TODO</desc>
   </FarmHand30>
   
   <FarmKid40>
     <!-- EN: farm kid -->
-    <title>Bondebarn</title>
+    <title>bondunge</title>
     <!-- EN: farm kid -->
-    <titleShort>Bondebarn</titleShort>
+    <titleShort>bondunge</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on his family's beef farm. He enjoyed working the fields and taking care of the animals. -->
     <desc>[PAWN_nameDef] växte upp på sin familjens boskapsgård. [PAWN_pronoun] trivdes på fälten och tog hand om djuren.</desc>
   </FarmKid40>
   
   <FarmMechanic1>
     <!-- EN: farm mechanic -->
-    <title>TODO</title>
+    <title>jordbruksmekaniker</title>
     <!-- EN: mechanic -->
-    <titleShort>TODO</titleShort>
+    <titleShort>mekaniker</titleShort>
     <!-- EN: Growing up on a farming planet, [PAWN_nameDef] spent [PAWN_possessive] time learning about the automated machinery that grew and harvested the multitude of crops. -->
     <desc>TODO</desc>
   </FarmMechanic1>
@@ -1976,7 +1976,7 @@
     <!-- EN: fearful chef -->
     <title>TODO</title>
     <!-- EN: chef -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kock</titleShort>
     <!-- EN: [PAWN_nameDef] was a excellent chef who worked in a high-end restaurant.\n\nOne day, [PAWN_pronoun] left the stove on, and accidentally burned down the whole building. This event shook [PAWN_objective] so much that [PAWN_pronoun] swore to never touch a stove again. -->
     <desc>TODO</desc>
   </FearfulChef49>
@@ -1994,7 +1994,7 @@
     <!-- EN: feral child -->
     <title>TODO</title>
     <!-- EN: survivor -->
-    <titleShort>TODO</titleShort>
+    <titleShort>överlevare</titleShort>
     <!-- EN: [PAWN_nameDef] and his family lived a hard but prosperous lives along with their fellow colonists on a distant rimworld.\n\nOne day a group of mechanoids attacked, killing everyone aside from Robert. He then lived alone in the desert until a group of raiders found him. -->
     <desc>TODO</desc>
   </FeralChild17>
@@ -2010,7 +2010,7 @@
   
   <FerventResearcher44>
     <!-- EN: fervent researcher -->
-    <title>Ivrig forskare</title>
+    <title>ivrig forskare</title>
     <!-- EN: researcher -->
     <titleShort>Forskare</titleShort>
     <!-- EN: As a young adult, Holly was sure that her planet and its people were nearing their time of transcendence.\n\nA firm belief that her research would be the catalyst drove her to increasingly alarming acts as bureaucrats and bioethics committees worked to stall her progress. -->
@@ -2019,9 +2019,9 @@
   
   <FeudalFarmBoy35>
     <!-- EN: feudal farm boy -->
-    <title>TODO</title>
+    <title>fedual bondpojke</title>
     <!-- EN: slave -->
-    <titleShort>TODO</titleShort>
+    <titleShort>slav</titleShort>
     <!-- EN: [PAWN_nameDef] was the son of a medieval farmer, and was expected to follow in his footsteps. He was brought up as a kind, well trained farm boy.\n\nHe lived in an unusual feudal kingdom which co-existed with a midworld society which was itself well-known for genetic manipulation. -->
     <desc>TODO</desc>
   </FeudalFarmBoy35>
@@ -2048,7 +2048,7 @@
     <!-- EN: fire keeper -->
     <title>Brandskötare</title>
     <!-- EN: firekeep -->
-    <titleShort>Brand</titleShort>
+    <titleShort>Brandpassare</titleShort>
     <!-- EN: [PAWN_nameDef] was responsible for keeping the tribe’s fire going. [PAWN_pronoun] took this responsibility very seriously. -->
     <desc>I sin barndom var [PAWN_nameDef] ansvarig för att hålla stammens eld igång. [PAWN_pronoun] tog detta ansvar på största allvar.</desc>
   </FireKeeper22>
@@ -2057,25 +2057,25 @@
     <!-- EN: fire-scarred child -->
     <title>TODO</title>
     <!-- EN: scarred -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ärrad</titleShort>
     <!-- EN: Duster was an active child who lived an uneventful childhood until he fell into a fire and suffered horrific burns to his hands and arms. Although the scars have faded, he can't bear to be in close proximity to fire. -->
     <desc>TODO</desc>
   </FireScarredChild32>
   
   <Flaneur69>
     <!-- EN: flaneur -->
-    <title>TODO</title>
+    <title>flanör</title>
     <!-- EN: flaneur -->
-    <titleShort>TODO</titleShort>
+    <titleShort>flanör</titleShort>
     <!-- EN: [PAWN_nameDef] strolled and sipped his way through the streets and cafes of [PAWN_possessive] world, pursuing freedom at every turn, never becoming attached.\n\nThrough all this time, [PAWN_pronoun] remained distrustful of others. And never took an order from anyone. -->
     <desc>TODO</desc>
   </Flaneur69>
   
   <ForestChild83>
     <!-- EN: forest child -->
-    <title>TODO</title>
+    <title>skogsunge</title>
     <!-- EN: forest kid -->
-    <titleShort>TODO</titleShort>
+    <titleShort>skogsunge</titleShort>
     <!-- EN: When [PAWN_pronoun] was a baby, [PAWN_nameDef]'s mother went insane and left [PAWN_objective] in the woods.\n\nRaised by wild people, [PAWN_nameDef] was known for both loving and killing animals. -->
     <desc>TODO</desc>
   </ForestChild83>
@@ -2100,9 +2100,9 @@
   
   <Freethinker38>
     <!-- EN: freethinker -->
-    <title>TODO</title>
+    <title>fritänkare</title>
     <!-- EN: thinker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>tänkare</titleShort>
     <!-- EN: [PAWN_nameDef] grew up on a toxic world with tyrannical leaders. While the rest of the population was high on the planet's narcotic exports, [PAWN_pronoun] joined a rebel militia.\n\nAfter a risky operation against the regime failed, [PAWN_pronoun] fled the planet, staying alive by threatening mutual annihilation with a planetcracker antimatter bomb. -->
     <desc>TODO</desc>
   </Freethinker38>
@@ -2136,9 +2136,9 @@
   
   <Fugitive32>
     <!-- EN: fugitive -->
-    <title>TODO</title>
+    <title>rymling</title>
     <!-- EN: fugitive -->
-    <titleShort>TODO</titleShort>
+    <titleShort>rymling</titleShort>
     <!-- EN: [PAWN_nameDef] rebelled against the corporation [PAWN_pronoun] worked for. [PAWN_pronoun] failed, and was forced him to go on the run.\n\n[PAWN_pronoun] was always on the move, always leaving everything behind. [PAWN_pronoun] tried to gain supporters for [PAWN_possessive] cause, but failed due to [PAWN_possessive] poor social skills. -->
     <desc>TODO</desc>
   </Fugitive32>
@@ -2147,50 +2147,50 @@
     <!-- EN: galactic page -->
     <title>TODO</title>
     <!-- EN: page -->
-    <titleShort>TODO</titleShort>
+    <titleShort>page</titleShort>
     <!-- EN: [PAWN_nameDef] served the high admiral of a space fleet. [PAWN_pronoun] learned the ways of court, including etiquette and speechcraft.\n\nIn his feudal society, it was considered a great honor to serve a man of such prestige. -->
     <desc>TODO</desc>
   </GalacticPage22>
   
   <GameDeveloper95>
     <!-- EN: game developer -->
-    <title>TODO</title>
+    <title>spelutvecklare</title>
     <!-- EN: game dev -->
-    <titleShort>TODO</titleShort>
+    <titleShort>spelutvecklare</titleShort>
     <!-- EN: [PAWN_nameDef] was an independent game developer.\n\nAfter an early success, [PAWN_possessive] career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts. -->
     <desc>TODO</desc>
   </GameDeveloper95>
   
   <GameFanatic86>
     <!-- EN: game fanatic -->
-    <title>TODO</title>
+    <title>spelgalning</title>
     <!-- EN: gamer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>gamer</titleShort>
     <!-- EN: [PAWN_nameDef] was a fanatical gamer who learned to survive in virtual reality games.\n\nOnce, while attempting to prove [PAWN_possessive] skills in the real world, [PAWN_pronoun] was abducted by a criminal scientist and experimented on. [PAWN_pronoun] escaped, but the experience stayed with him. -->
     <desc>TODO</desc>
   </GameFanatic86>
   
   <GameTester90>
     <!-- EN: game tester -->
-    <title>TODO</title>
+    <title>speltestare</title>
     <!-- EN: tester -->
-    <titleShort>TODO</titleShort>
+    <titleShort>testare</titleShort>
     <!-- EN: Making a new life on a barely-livable planet after nuclear war, [PAWN_nameDef] was able to fulfill his desires with money borrowed from his father.\n\nHe loved playing a particular colony simulator. His favorite thing to do in the game was to build elaborate hospitals. Spending most of his time playing, he forgot horrors of war and his need for revenge. -->
     <desc>TODO</desc>
   </GameTester90>
   
   <GangBoss32>
     <!-- EN: gang boss -->
-    <title>TODO</title>
+    <title>gängboss</title>
     <!-- EN: boss -->
-    <titleShort>TODO</titleShort>
+    <titleShort>boss</titleShort>
     <!-- EN: To survive, [PAWN_nameDef]'s gang often had to rob interstellar traders for food and supplies. Sometimes he had to kill the guards. Sometimes he had to kill the police who arrived to stop him.\n\nAfter years of this, he became one of the most-wanted criminals in the local stellar empire. -->
     <desc>TODO</desc>
   </GangBoss32>
   
   <GangMember11>
     <!-- EN: gang member -->
-    <title>TODO</title>
+    <title>gängmedlem</title>
     <!-- EN: gang kid -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] grew up without parents. [PAWN_possessive] whole life was spent alone, fighting for survival on the streets.\n\nNo matter how hard it became to survive, he never gave up. -->
@@ -2199,7 +2199,7 @@
   
   <GangMember68>
     <!-- EN: gang member -->
-    <title>TODO</title>
+    <title>gängmedlem</title>
     <!-- EN: ganger -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] grew up homeless on an urbworld. [PAWN_pronoun] was forced to fight and struggle for everything, making [PAWN_objective] hard and ruthless long before adulthood.\n\n[PAWN_nameDef] would have stayed in those streets, had [PAWN_pronoun] not been injured in a shootout and had his body confiscated for use by one of the worldwide city's ruling corporations. -->
@@ -2208,9 +2208,9 @@
   
   <GangSoldier39>
     <!-- EN: gang soldier -->
-    <title>TODO</title>
+    <title>gängsoldat</title>
     <!-- EN: soldier -->
-    <titleShort>TODO</titleShort>
+    <titleShort>soldat</titleShort>
     <!-- EN: Living for many years between three raider settlements, [PAWN_nameDef] persevered through many challenges: a spacecraft implosion, cryptostasis, crashlanding on a miserable dustball of a planet, and nursing an old man back to health, and many of battles.\n\n[PAWN_pronoun] eventually took control of a violent gang. -->
     <desc>TODO</desc>
   </GangSoldier39>
@@ -2235,7 +2235,7 @@
   
   <GeneticEngineer31>
     <!-- EN: genetic engineer -->
-    <title>TODO</title>
+    <title>genetikingengör</title>
     <!-- EN: geneticist -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] carried out [PAWN_possessive] first genetic experiments on farm animals. [PAWN_pronoun] soon grew to become quite skilled in all forms of genetic engineering.\n\nA horrifying lab accident left him with a mortal fear of rodents. -->
@@ -2262,9 +2262,9 @@
   
   <Gigolo99>
     <!-- EN: Gigolo -->
-    <title>TODO</title>
+    <title>Gigolo</title>
     <!-- EN: Gigolo -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Gigolo</titleShort>
     <!-- EN: [PAWN_nameDef] sold [PAWN_objective]self into slavery for money to purchase boomrat pizza. [PAWN_pronoun] was then traded to the Zeglar colonies, where he worked as a male prostitute.\n\nIn a fluke event, [PAWN_pronoun] managed to join other escaping slaves as they hijacked a ship. After fighting with the captain of the slave crew over the last piece of boomrat pizza, [PAWN_nameDef] was sent off the ship in an escape pod. -->
     <desc>TODO</desc>
   </Gigolo99>
@@ -2280,25 +2280,25 @@
   
   <GlitterworldKid13>
     <!-- EN: glitterworld kid -->
-    <title>TODO</title>
+    <title>glittervärldsbarn</title>
     <!-- EN: glit kid -->
-    <titleShort>TODO</titleShort>
+    <titleShort>glitterunge</titleShort>
     <!-- EN: The son of a genetically-engineered "perfect mate" on a glitterworld, Chaz was much more shy, withdrawn and nervous than his parents. [PAWN_pronoun] kept mostly to himself, studying science and medicine and taking on gardening as a hobby. \n\nIn [PAWN_possessive] teens, [PAWN_pronoun] ran away from home, seeking a quieter life. -->
     <desc>TODO</desc>
   </GlitterworldKid13>
   
   <GlitterworldNerd40>
     <!-- EN: glitterworld nerd -->
-    <title>TODO</title>
+    <title>glittervärldsnörd</title>
     <!-- EN: nerd -->
-    <titleShort>TODO</titleShort>
+    <titleShort>nörd</titleShort>
     <!-- EN: [PAWN_nameDef] loved technology from the day [PAWN_pronoun] was born. [PAWN_pronoun] had a mechanoid companion which [PAWN_pronoun] tried to modify when [PAWN_pronoun] was 10.\n\n[PAWN_possessive] obsession with technology meant that [PAWN_pronoun] never appreciated arts or culture. -->
     <desc>TODO</desc>
   </GlitterworldNerd40>
   
   <GlitterworldOfficer60>
     <!-- EN: glitterworld officer -->
-    <title>Glitterworld officer</title>
+    <title>glittervärldsofficer</title>
     <!-- EN: officer -->
     <titleShort>Officer</titleShort>
     <!-- EN: Though glitterworlds are peaceful places, they often remain prepared for war. [PAWN_nameDef]'s unit rarely saw any real action.\n\nThough [PAWN_pronoun] pursued [PAWN_possessive] artistic hobbies, [PAWN_possessive] subordinates preferred to entertain themselves by brawling, so [PAWN_nameDef] got good at breaking up fights. -->
@@ -2307,9 +2307,9 @@
   
   <GlitterworldRoyal21>
     <!-- EN: glitterworld royal -->
-    <title>TODO</title>
+    <title>glittervärldskunglighet</title>
     <!-- EN: royalty -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kunglig</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a glitterworld royal household. She was groomed from a young age to marry into another planet's royal family.\n\nUnfortunately, her crooked teeth made her undesirable to suitors, so she became bitter and resentful. -->
     <desc>TODO</desc>
   </GlitterworldRoyal21>
@@ -2327,7 +2327,7 @@
     <!-- EN: gnomebiologist -->
     <title>TODO</title>
     <!-- EN: biologist -->
-    <titleShort>TODO</titleShort>
+    <titleShort>biolog</titleShort>
     <!-- EN: Gizmo was a xenobiology professor in a glitterworld university. He went to conferences and managed an art gallery.\n\nHowever, he never stopped sculpting yard gnomes, and considers this to be his true profession. -->
     <desc>TODO</desc>
   </Gnomebiologist56>
@@ -2336,7 +2336,7 @@
     <!-- EN: g-nome sculptor -->
     <title>TODO</title>
     <!-- EN: sculptor -->
-    <titleShort>TODO</titleShort>
+    <titleShort>skulptör</titleShort>
     <!-- EN: [PAWN_nameDef] was engineered in a lab as part of the G-nome Project. He was implanted at birth with encyclopedic knowledge of all aspects of xenobiology.\n\nThe G-nome scientists nicknamed him Gizmo and occupied him with sculpting. He developed a love of sculpting gnomes and gnome accessories. -->
     <desc>TODO</desc>
   </GNomeSculptor7>
@@ -2345,7 +2345,7 @@
     <!-- EN: government agent   -->
     <title>TODO</title>
     <!-- EN: agent -->
-    <titleShort>TODO</titleShort>
+    <titleShort>agent</titleShort>
     <!-- EN: [PAWN_nameDef] worked for the government against rebel groups and excelled in this capacity. During [PAWN_possessive] training [PAWN_pronoun] was taught firearms, melee combat and medical skills.\n\nHaving grown up in a war-ravaged city, dirt, blood and dead bodies don’t bother [PAWN_objective] and [PAWN_pronoun] sees no reason to clean them up. -->
     <desc>TODO</desc>
   </GovernmentAgent47>
@@ -2354,25 +2354,25 @@
     <!-- EN: graphic designer -->
     <title>TODO</title>
     <!-- EN: designer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>designer</titleShort>
     <!-- EN: Kees' interest in artistic expression led him to become a designer. His eye for detail made him a reasonably well-known artist on his planet, though his meticulousness often led him to spend too much time perfecting a single project. -->
     <desc>TODO</desc>
   </GraphicDesigner99>
   
   <Guardian55>
     <!-- EN: guardian -->
-    <title>TODO</title>
+    <title>vakt</title>
     <!-- EN: guardian -->
-    <titleShort>TODO</titleShort>
+    <titleShort>vakt</titleShort>
     <!-- EN: After [PAWN_pronoun] learned what truly matters in life, [PAWN_nameDef] changed for the better. [PAWN_pronoun] learned to work hard and protect the things that matter - not money or material things, but friends and loved ones.\n\n[PAWN_pronoun] became a professional guardian. -->
     <desc>TODO</desc>
   </Guardian55>
   
   <GunDealer14>
     <!-- EN: gun dealer -->
-    <title>TODO</title>
+    <title>vapenhandlare</title>
     <!-- EN: gun dealer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>vapenhandlare</titleShort>
     <!-- EN: [PAWN_nameDef] traded high-tech firearms between warring factions.\n\nOver time, [PAWN_pronoun] became very skilled at conducting product demonstrations and negotiating profitable deals. -->
     <desc>TODO</desc>
   </GunDealer14>
@@ -2397,9 +2397,9 @@
   
   <Gymnast34>
     <!-- EN: gymnast -->
-    <title>TODO</title>
+    <title>gymnast</title>
     <!-- EN: gymnast -->
-    <titleShort>TODO</titleShort>
+    <titleShort>gymnast</titleShort>
     <!-- EN: [PAWN_nameDef] was a professional gymnast at an early age. Thanks to her skills, she was able to leave her homeworld and enroll in a glitterworld university.\n\nBecause of the lack of career opportunities in gymnastics, she left the university unemployed and carrying an enormous debt. -->
     <desc>TODO</desc>
   </Gymnast34>
@@ -2408,7 +2408,7 @@
     <!-- EN: hacker kid -->
     <title>TODO</title>
     <!-- EN: hacker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>hacker</titleShort>
     <!-- EN: Born on a high-tech world, [PAWN_nameDef] learned hack computers at a young age. \n\nSpending many hours tinkering alone made [PAWN_objective] very good with machines, but very bad with humans. -->
     <desc>TODO</desc>
   </HackerKid55>
@@ -2417,7 +2417,7 @@
     <!-- EN: hacker prodigy -->
     <title>TODO</title>
     <!-- EN: hacker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>hacker</titleShort>
     <!-- EN: Wedge was raised as the only child of wealthy surgeons. After being pressured into accepting a medical apprenticeship, he snapped. He seized his inheritance and went underground to learn how to exploit computer networks. He quickly became one of the most feared hackers on his home planet. -->
     <desc>TODO</desc>
   </HackerProdigy70>
@@ -2433,18 +2433,18 @@
   
   <Healer0>
     <!-- EN: healer -->
-    <title>TODO</title>
+    <title>helare</title>
     <!-- EN: healer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>helare</titleShort>
     <!-- EN: After [PAWN_possessive] tribe’s elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
     <desc>TODO</desc>
   </Healer0>
   
   <Healer62>
     <!-- EN: healer -->
-    <title>TODO</title>
+    <title>helare</title>
     <!-- EN: healer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>helare</titleShort>
     <!-- EN: [PAWN_nameDef] took the time to admire the beauty of the world.\n\nHer passive aggressiveness surfaced once in a while, but she tried to adapt to her changing life. -->
     <desc>TODO</desc>
   </Healer62>
@@ -2453,7 +2453,7 @@
     <!-- EN: hedge fund manager -->
     <title>TODO</title>
     <!-- EN: banker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>bankir</titleShort>
     <!-- EN: A top hedge fund manager on a teeming urbworld, [PAWN_nameDef]'s portfolio grew rapidly as he charmed clients with a sweet voice and devious intent. When the deal turned out too good to be true, he was forced to flee the planet with a bounty on his head.\n\nAs he travelled the stars he found a passion in the arts, making masterpieces fit for high society customers. -->
     <desc>TODO</desc>
   </HedgeFundManager85>
@@ -2514,9 +2514,9 @@
   
   <HighBaroness29>
     <!-- EN: high baroness -->
-    <title>TODO</title>
+    <title>grevinna</title>
     <!-- EN: noble -->
-    <titleShort>TODO</titleShort>
+    <titleShort>adlig</titleShort>
     <!-- EN: [PAWN_nameDef] was born as low-ranking royalty in a large imperial family.\n\nShe was placed In charge of running her home planet from an early age, and learned important political and cultural skills in that role. -->
     <desc>TODO</desc>
   </HighBaroness29>
@@ -2532,9 +2532,9 @@
   
   <HiredAssassin2>
     <!-- EN: hired assassin -->
-    <title>TODO</title>
+    <title>hyrd lönnmördare</title>
     <!-- EN: assassin -->
-    <titleShort>TODO</titleShort>
+    <titleShort>lönnmördare</titleShort>
     <!-- EN: Axle was a master thief, working mostly for organized crime. Over time, he made a name for himself and shifted his business into the paid "removal" of human threats. -->
     <desc>TODO</desc>
   </HiredAssassin2>
@@ -2559,9 +2559,9 @@
   
   <HistoryStudent78>
     <!-- EN: history student -->
-    <title>TODO</title>
+    <title>hitoriestuderande</title>
     <!-- EN: student -->
-    <titleShort>TODO</titleShort>
+    <titleShort>student</titleShort>
     <!-- EN: As a child, [PAWN_nameDef] spent learned many artistic forms including music and novel writing. As [PAWN_pronoun] grew older, [PAWN_pronoun] began to study legends from [PAWN_possessive] home world - legends of the lizard-like beings at the center of [PAWN_possessive] culture's folklore. -->
     <desc>TODO</desc>
   </HistoryStudent78>
@@ -2622,16 +2622,16 @@
   
   <Hunter7>
     <!-- EN: hunter -->
-    <title>TODO</title>
+    <title>jägare</title>
     <!-- EN: hunter -->
-    <titleShort>TODO</titleShort>
+    <titleShort>jägare</titleShort>
     <!-- EN: Hawke was a master hunter.\n\nHe learned to track and trap any animal in the most dangerous of places, and had deep knowledge of many ingenious methods for taking down specific large animals. -->
     <desc>TODO</desc>
   </Hunter7>
   
   <HunterOfTheKing18>
     <!-- EN: hunter of the king -->
-    <title>TODO</title>
+    <title>kungens jägare</title>
     <!-- EN: pest guard -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] was forced to protect his colony in the name of the king after a mysterious outbreak of murderous genetically-modified wildlife.\n\nDespite his best efforts, his kingdom was destroyed. [PAWN_nameDef] developed PTSD, a hatred of animals and a bad case of technophobia. [PAWN_pronoun] was named for the place they found him. -->
@@ -2642,7 +2642,7 @@
     <!-- EN: ice planet child -->
     <title>TODO</title>
     <!-- EN: ice child -->
-    <titleShort>TODO</titleShort>
+    <titleShort>isbarn</titleShort>
     <!-- EN: Growing up on the frozen wastes of an ocean moon, [PAWN_nameDef] only had animals and a few hard-bitten sailors as companions.\n\nThe lack of social interaction made him develop a interest in engineering - but he never developed any great fondness for humans. -->
     <desc>TODO</desc>
   </IcePlanetChild60>
@@ -2651,16 +2651,16 @@
     <!-- EN: iceworld survivor -->
     <title>TODO</title>
     <!-- EN: iceborn -->
-    <titleShort>TODO</titleShort>
+    <titleShort>isfödd</titleShort>
     <!-- EN: [PAWN_nameDef] was born on an iceworld. Survival depended on staying together and building with nothing.\n\n[PAWN_pronoun] got used to the cold. [PAWN_pronoun] never got used to dealing with those strange green things called plants. -->
     <desc>TODO</desc>
   </IceworldSurvivor75>
   
   <IdealisticCadet31>
     <!-- EN: idealistic cadet -->
-    <title>TODO</title>
+    <title>idealkadett</title>
     <!-- EN: cadet -->
-    <titleShort>TODO</titleShort>
+    <titleShort>kadett</titleShort>
     <!-- EN: Raised in the military traditions of his forefathers, [PAWN_nameDef] was taught from a young age that he would be a great leader and the hero of the Dichter family.\n\nHe excelled at his studies and graduated from the academy with honors. -->
     <desc>TODO</desc>
   </IdealisticCadet31>
@@ -2678,7 +2678,7 @@
     <!-- EN: imperial general -->
     <title>TODO</title>
     <!-- EN: general -->
-    <titleShort>TODO</titleShort>
+    <titleShort>general</titleShort>
     <!-- EN: [PAWN_nameDef]'s thirst for power defined [PAWN_objective]. [PAWN_pronoun] quickly rose through the military ranks and soon attained the rank of general.\n\n[PAWN_pronoun] was given with the most challenging task - conquering distant and unexplored rim worlds. Victory here could even position [PAWN_objective] as a successor to the emperor. -->
     <desc>TODO</desc>
   </ImperialGeneral5>
