@@ -79,7 +79,7 @@
   <MeatHumanDesc>Rått styckat kött. Kan tillagas för måltider eller ätas rått, även om de flesta människor ogillar det sitsnämnda.</MeatHumanDesc>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>{0} kadaver</CorpseLabel>
+  <CorpseLabel>{0} lik</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Död kropp av en {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->

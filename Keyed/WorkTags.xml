@@ -4,17 +4,17 @@
   <!-- EN: none -->
   <WorkTagNone>inget</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>intellektuell</WorkTagIntellectual>
+  <WorkTagIntellectual>intellektuellt</WorkTagIntellectual>
   <!-- EN: dumb labor -->
   <WorkTagManualDumb>simpelt arbete</WorkTagManualDumb>
   <!-- EN: skilled labor -->
   <WorkTagManualSkilled>skickligt arbete</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>våld</WorkTagViolent>
+  <WorkTagViolent>våldsam</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>vård</WorkTagCaring>
+  <WorkTagCaring>vårdar</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>social</WorkTagSocial>
+  <WorkTagSocial>socialicerar</WorkTagSocial>
   <!-- EN: animals -->
   <WorkTagAnimals>djurhantering</WorkTagAnimals>
   <!-- EN: artistic -->
