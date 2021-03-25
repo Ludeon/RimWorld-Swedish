@@ -14,6 +14,7 @@ försök
 gudomlighet
 illustration
 inslag
+kant
 klump
 kodex
 konstverk
@@ -25,6 +26,7 @@ kurva
 kärlek
 manus
 mörker
+noter
 obetitlad
 odöpt
 oeuvre
@@ -39,7 +41,6 @@ skepnad
 skott
 skugga
 skulptur
-song
 spegel
 spya
 stillbild
@@ -49,7 +50,6 @@ syn
 sång
 takt
 ton
-uttryck
 uttryck
 vaggvisa
 verk

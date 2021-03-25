@@ -13,12 +13,10 @@ parka
 skaljacka
 sko
 byxor
-power armor
+rustning
 hängslen
 fluga
 plommonstop
 keps
 mössa
 pennkjol
-
-
