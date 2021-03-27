@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: artificial brain -->
@@ -11,40 +11,40 @@
   <FluidReprocessor.label>vätskebahandlare</FluidReprocessor.label>
   
   <!-- EN: sound sensor -->
-  <HearingSensor.label>auditiv detektor</HearingSensor.label>
+  <HearingSensor.label>hörselsensor</HearingSensor.label>
   
   <!-- EN: arm -->
   <MechanicalArm.label>arm</MechanicalArm.label>
   
-  <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFifthRing.labelShort>kroppsring</MechanicalCentipedeBodyFifthRing.labelShort>
   <!-- EN: fifth body ring -->
   <MechanicalCentipedeBodyFifthRing.label>femte kroppsring</MechanicalCentipedeBodyFifthRing.label>
-  
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFirstRing.labelShort>kroppsring</MechanicalCentipedeBodyFirstRing.labelShort>
+  <MechanicalCentipedeBodyFifthRing.labelShort>kroppsring</MechanicalCentipedeBodyFifthRing.labelShort>
+  
   <!-- EN: first body ring -->
   <MechanicalCentipedeBodyFirstRing.label>första kroppsring</MechanicalCentipedeBodyFirstRing.label>
-  
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFourthRing.labelShort>kroppsring</MechanicalCentipedeBodyFourthRing.labelShort>
+  <MechanicalCentipedeBodyFirstRing.labelShort>kroppsring</MechanicalCentipedeBodyFirstRing.labelShort>
+  
   <!-- EN: fourth body ring -->
   <MechanicalCentipedeBodyFourthRing.label>fjärde kroppsring</MechanicalCentipedeBodyFourthRing.label>
-  
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySecondRing.labelShort>kroppsring</MechanicalCentipedeBodySecondRing.labelShort>
+  <MechanicalCentipedeBodyFourthRing.labelShort>kroppsring</MechanicalCentipedeBodyFourthRing.labelShort>
+  
   <!-- EN: second body ring -->
   <MechanicalCentipedeBodySecondRing.label>andra kroppsring</MechanicalCentipedeBodySecondRing.label>
-  
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySixthRing.labelShort>kroppsring</MechanicalCentipedeBodySixthRing.labelShort>
+  <MechanicalCentipedeBodySecondRing.labelShort>kroppsring</MechanicalCentipedeBodySecondRing.labelShort>
+  
   <!-- EN: sixth body ring -->
   <MechanicalCentipedeBodySixthRing.label>sjätte kroppsring</MechanicalCentipedeBodySixthRing.label>
-  
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyThirdRing.labelShort>kroppsring</MechanicalCentipedeBodyThirdRing.labelShort>
+  <MechanicalCentipedeBodySixthRing.labelShort>kroppsring</MechanicalCentipedeBodySixthRing.labelShort>
+  
   <!-- EN: third body ring -->
   <MechanicalCentipedeBodyThirdRing.label>tredje kroppsring</MechanicalCentipedeBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>kroppsring</MechanicalCentipedeBodyThirdRing.labelShort>
   
   <!-- EN: finger -->
   <MechanicalFinger.label>finger</MechanicalFinger.label>
@@ -74,9 +74,9 @@
   <Reactor.label>reaktor</Reactor.label>
   
   <!-- EN: visual sensor -->
-  <SightSensor.label>visuell detektor</SightSensor.label>
+  <SightSensor.label>synsensor</SightSensor.label>
   
   <!-- EN: chemical analyzer -->
-  <SmellSensor.label>olfaktorisk detektor</SmellSensor.label>
+  <SmellSensor.label>kemisk analysator</SmellSensor.label>
   
 </LanguageData>

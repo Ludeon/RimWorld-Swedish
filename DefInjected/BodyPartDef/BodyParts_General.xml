@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: brain -->
@@ -32,7 +32,7 @@
   <Ribcage.label>bröstkorg</Ribcage.label>
   
   <!-- EN: skull -->
-  <Skull.label>kranium</Skull.label>
+  <Skull.label>skalle</Skull.label>
   
   <!-- EN: spine -->
   <Spine.label>ryggrad</Spine.label>

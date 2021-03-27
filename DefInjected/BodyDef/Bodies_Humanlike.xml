@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: human -->
+  <Human.label>människa</Human.label>
   <!-- EN: left lung -->
   <Human.corePart.parts.left_lung.customLabel>vänster lunga</Human.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -20,13 +22,13 @@
   <!-- EN: left shoulder -->
   <Human.corePart.parts.left_shoulder.customLabel>vänster axel</Human.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left clavicle -->
-  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>vänster nyckelben</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>vänster clavicula</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
   <!-- EN: left arm -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>vänster arm</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left humerus -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>vänster armled</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>vänster humerus</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
   <!-- EN: left radius -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>vänster handled</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>vänster radius</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
   <!-- EN: left hand -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>vänster hand</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
@@ -42,13 +44,13 @@
   <!-- EN: right shoulder -->
   <Human.corePart.parts.right_shoulder.customLabel>höger axel</Human.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right clavicle -->
-  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>höger nyckelben</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>höger clavicula</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
   <!-- EN: right arm -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>höger arm</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right humerus -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>höger armled</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>höger humerus</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
   <!-- EN: right radius -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>höger handled</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>höger radius</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>höger hand</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
@@ -64,9 +66,9 @@
   <!-- EN: left leg -->
   <Human.corePart.parts.left_leg.customLabel>vänster ben</Human.corePart.parts.left_leg.customLabel>
   <!-- EN: left femur -->
-  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>vänster lårben</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>vänster femur</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
-  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>vänster skenben</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>vänster tibia</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
   <!-- EN: left foot -->
   <Human.corePart.parts.left_leg.parts.left_foot.customLabel>vänster fot</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: left little toe -->
@@ -74,7 +76,7 @@
   <!-- EN: left fourth toe -->
   <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>vänster fjärde tå</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
   <!-- EN: left middle toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>vänster mellantå</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>vänster mittentå</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
   <!-- EN: left second toe -->
   <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>vänster andra tå</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
   <!-- EN: left big toe -->
@@ -82,9 +84,9 @@
   <!-- EN: right leg -->
   <Human.corePart.parts.right_leg.customLabel>höger ben</Human.corePart.parts.right_leg.customLabel>
   <!-- EN: right femur -->
-  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>höger skenben</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>höger femur</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
-  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>höger skenben</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>höger tibia</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <!-- EN: right foot -->
   <Human.corePart.parts.right_leg.parts.right_foot.customLabel>höger fot</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->
@@ -92,12 +94,10 @@
   <!-- EN: right fourth toe -->
   <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>höger fjärde tå</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
   <!-- EN: right middle toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>höger mellantå</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>höger mittentå</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
   <!-- EN: right second toe -->
   <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>höger andra tå</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
   <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>höger stortå</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
-  <!-- EN: human -->
-  <Human.label>Människa</Human.label>
   
 </LanguageData>
