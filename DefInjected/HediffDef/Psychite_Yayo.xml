@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: psychite addiction -->
-  <PsychiteAddiction.label>psychitberoende</PsychiteAddiction.label>
+  <PsychiteAddiction.label>psykitberoende</PsychiteAddiction.label>
   <!-- EN: withdrawal -->
   <PsychiteAddiction.stages.withdrawal.label>abstinens</PsychiteAddiction.stages.withdrawal.label>
   
   <!-- EN: psychite tolerance -->
-  <PsychiteTolerance.label>psychittolerans</PsychiteTolerance.label>
+  <PsychiteTolerance.label>psykittolerans</PsychiteTolerance.label>
   <!-- EN: small -->
   <PsychiteTolerance.stages.small-0.label>liten</PsychiteTolerance.stages.small-0.label>
   <!-- EN: small -->
