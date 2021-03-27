@@ -37,12 +37,8 @@
   <!-- EN: extreme -->
   <Flu.stages.extreme.label>livshotande</Flu.stages.extreme.label>
   
-  <!-- UNUSED -->
-  <Flu.stages.minor-1.label>UNUSED</Flu.stages.minor-1.label>
-  
   <!-- EN: gut worms -->
   <GutWorms.label>bandmask</GutWorms.label>
-  
   <!-- EN: malaria -->
   <Malaria.label>malaria</Malaria.label>
   <!-- EN: minor -->
@@ -51,9 +47,6 @@
   <Malaria.stages.major.label>allvarlig</Malaria.stages.major.label>
   <!-- EN: extreme -->
   <Malaria.stages.extreme.label>livshotande</Malaria.stages.extreme.label>
-  
-  <!-- UNUSED -->
-  <Malaria.stages.minor-1.label>UNUSED</Malaria.stages.minor-1.label>
   
   <!-- EN: muscle parasites -->
   <MuscleParasites.label>muskelparasiter</MuscleParasites.label>
@@ -68,9 +61,6 @@
   <Plague.stages.extreme-0.label>extrem</Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
   <Plague.stages.extreme-1.label>extrem</Plague.stages.extreme-1.label>
-  
-  <!-- UNUSED -->
-  <Plague.stages.minor-1.label>UNUSED</Plague.stages.minor-1.label>
   
   <!-- EN: sensory mechanites -->
   <SensoryMechanites.label>känselmekaniter</SensoryMechanites.label>
@@ -91,9 +81,6 @@
   <SleepingSickness.stages.extreme-0.label>extrem</SleepingSickness.stages.extreme-0.label>
   <!-- EN: extreme -->
   <SleepingSickness.stages.extreme-1.label>extrem</SleepingSickness.stages.extreme-1.label>
-  
-  <!-- UNUSED -->
-  <SleepingSickness.stages.minor-2.label>UNUSED</SleepingSickness.stages.minor-2.label>
   
   <!-- EN: infection -->
   <WoundInfection.label>infektion</WoundInfection.label>

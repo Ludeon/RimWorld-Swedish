@@ -15,9 +15,5 @@
   <!-- EN: Making pemmican. -->
   <Make_Pemmican.jobString>Tillverkar pemmikan.</Make_Pemmican.jobString>
   
-  <!-- UNUSED -->
-  <Make_PemmicanCampfire.label>UNUSED</Make_PemmicanCampfire.label>
-  <Make_PemmicanCampfire.description>UNUSED</Make_PemmicanCampfire.description>
-  <Make_PemmicanCampfire.jobString>UNUSED</Make_PemmicanCampfire.jobString>
   
 </LanguageData>

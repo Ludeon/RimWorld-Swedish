@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: butchery efficiency -->
-  <ButcheryFleshEfficiency.label>slakrteffektivitet</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.label>slakteffektivitet</ButcheryFleshEfficiency.label>
   <!-- EN: The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size. -->
   <ButcheryFleshEfficiency.description>Multiplikator för mängden kött som produceras vid slakt av varelser. Det faktiska antalet påverkas även av varelsens storlek.</ButcheryFleshEfficiency.description>
   
@@ -12,7 +12,7 @@
   <ButcheryFleshSpeed.description>Hur snabbt denna person styckar upp kött från varelser.</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid disassembly efficiency -->
-  <ButcheryMechanoidEfficiency.label>effektivitet av mekanoid demontering</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>effektivitet vid mekanoid-demontering</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size. -->
   <ButcheryMechanoidEfficiency.description>Multiplikator på mängden av material som räddas när denna person tar isär en död mekanoid.</ButcheryMechanoidEfficiency.description>
   
@@ -24,7 +24,7 @@
   <!-- EN: cooking speed -->
   <CookSpeed.label>matlagningshastighet</CookSpeed.label>
   <!-- EN: The speed at which this person cooks meals. -->
-  <CookSpeed.description>Hur snabbt denna person lagar måltider.</CookSpeed.description>
+  <CookSpeed.description>Hur snabbt denna person tilllagar måltider.</CookSpeed.description>
   
   <!-- EN: drug cooking speed -->
   <DrugCookingSpeed.label>brygghastighet</DrugCookingSpeed.label>
@@ -32,18 +32,14 @@
   <DrugCookingSpeed.description>Hur snabbt denna person brygger öl och te eller tillverkar enkla droger ex. olika cigaretter.</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
-  <DrugSynthesisSpeed.label>hastighet att tillverka droger</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.label>hastighet för drogtillverkning</DrugSynthesisSpeed.label>
   <!-- EN: How fast this character synthesizes complex chemical drugs. -->
-  <DrugSynthesisSpeed.description>Hur snabbt denna person framställer komplex narkotika/medicin</DrugSynthesisSpeed.description>
+  <DrugSynthesisSpeed.description>Hur snabbt denna person framställer komplex narkotika eller medicin</DrugSynthesisSpeed.description>
   
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>chans att matförgifta</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
-  <FoodPoisonChance.description>Sannolikheten för att denna person oavsiktligt kommer att förgifta en måltid de lagar. Matförgiftning försvagar personen det drabbar.</FoodPoisonChance.description>
-  
-  <!-- UNUSED -->
-  <MechanoidOperationSuccessChance.label>UNUSED</MechanoidOperationSuccessChance.label>
-  <MechanoidOperationSuccessChance.description>UNUSED</MechanoidOperationSuccessChance.description>
+  <FoodPoisonChance.description>Sannolikheten att denna person oavsiktligt orsakar matförgiftning för en måltid de lagar. Matförgiftning försvagar personen det drabbar.</FoodPoisonChance.description>
   
   <!-- EN: sculpting speed -->
   <SculptingSpeed.label>hastighet att skulptera</SculptingSpeed.label>
@@ -59,10 +55,6 @@
   <SmithingSpeed.label>hastighet att smida</SmithingSpeed.label>
   <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
   <SmithingSpeed.description>Hur snabbt denna person smider, tillverkar vapen, maskiner, ammunition och verktyg.\n\nDetta värde påverkar enbart hur snabbt ett föremål produceras inte dess kvalite. Kvalitet bestäms av personens färdighet.</SmithingSpeed.description>
-  
-  <!-- UNUSED -->
-  <StonecuttingSpeed.label>UNUSED</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>UNUSED</StonecuttingSpeed.description>
   
   <!-- EN: tailoring speed -->
   <TailoringSpeed.label>hastighet att sy</TailoringSpeed.label>

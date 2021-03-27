@@ -1051,11 +1051,4 @@
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>Se tillgängliga order ...</ClickToSeeAvailableOrders_Empty>
 
-  <!-- UNUSED -->
-  <CaravanPaused>UNUSED.</CaravanPaused>
-  <Fire>UNUSED</Fire>
-  <TrapArmed>UNUSED</TrapArmed>
-  <TrapNotArmed>UNUSED</TrapNotArmed>
-  <TrapRearmingCost>UNUSED</TrapRearmingCost>
-
 </LanguageData>

@@ -388,10 +388,4 @@
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label} har blivit sjuk på grund av {1}.\n\nSe till att du har en sjukhussäng och en läkare. Se även till att {PAWN_pronoun} får kvalitativ vård och spenderar så mycket tid som möjligt i säng.</LetterTraitDisease>
 
-  <!-- UNUSED -->
-  <MentalBreakLetterLabel>UNUSED</MentalBreakLetterLabel>
-  <LetterLabelCaravanEnteredAmbushMap>UNUSED</LetterLabelCaravanEnteredAmbushMap>
-  <LetterCaravanEnteredAmbushMap>UNUSED</LetterCaravanEnteredAmbushMap>
-  <LetterLabelPlayerEnteredNewSiteGeneric>UNUSED</LetterLabelPlayerEnteredNewSiteGeneric>
-
 </LanguageData>

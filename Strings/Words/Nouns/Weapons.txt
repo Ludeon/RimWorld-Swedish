@@ -15,6 +15,7 @@ klubba
 kniv
 knoge
 knogjärn
+käpp
 landmina
 lans
 lie

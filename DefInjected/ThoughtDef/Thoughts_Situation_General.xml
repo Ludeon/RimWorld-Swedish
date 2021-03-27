@@ -10,12 +10,6 @@
   <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
   <ApparelDamaged.stages.tattered_apparel.description>Jag bär en trasig bit av en papperskorg. Kan jag inte få något anständigt att bära?</ApparelDamaged.stages.tattered_apparel.description>
   
-  <!-- UNUSED -->
-  <CabinFever.stages.0.label>UNUSED</CabinFever.stages.0.label>
-  <CabinFever.stages.0.description>UNUSED</CabinFever.stages.0.description>
-  <CabinFever.stages.1.label>UNUSED</CabinFever.stages.1.label>
-  <CabinFever.stages.1.description>UNUSED</CabinFever.stages.1.description>
-  
   <!-- EN: tainted {0} -->
   <DeadMansApparel.stages.tainted.label>död mans {0}</DeadMansApparel.stages.tainted.label>
   <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->

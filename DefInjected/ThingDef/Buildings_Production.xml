@@ -6,12 +6,6 @@
   <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
   <BiofuelRefinery.description>Raffinerar biologiskt material som trä och växter till kemiskt bränsle.</BiofuelRefinery.description>
   
-  <!-- UNUSED -->
-  <Blueprint_ComponentAssemblyBench.label>UNUSED</Blueprint_ComponentAssemblyBench.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Refinery.label>UNUSED</Blueprint_Refinery.label>
-  
   <!-- EN: brewery -->
   <Brewery.label>bryggeri</Brewery.label>
   <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
@@ -21,10 +15,6 @@
   <ButcherSpot.label>styckplats</ButcherSpot.label>
   <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
   <ButcherSpot.description>En plats där en kan stycka djur. Eftersom en del utrustning saknas kommer styckning här bara ge 70% av kött och läder från varelsen.</ButcherSpot.description>
-  
-  <!-- UNUSED -->
-  <ComponentAssemblyBench.label>UNUSED</ComponentAssemblyBench.label>
-  <ComponentAssemblyBench.description>UNUSED</ComponentAssemblyBench.description>
   
   <!-- EN: crafting spot -->
   <CraftingSpot.label>tillverkningsplats</CraftingSpot.label>
@@ -75,15 +65,7 @@
   <FermentingBarrel.label>jäsfat</FermentingBarrel.label>
   <!-- EN: A barrel for fermenting raw wort into beer. -->
   <FermentingBarrel.description>Ett fat för jäsning av rå vört till öl.</FermentingBarrel.description>
-  
-  <!-- UNUSED -->
-  <Frame_ComponentAssemblyBench.label>UNUSED</Frame_ComponentAssemblyBench.label>
-  <Frame_ComponentAssemblyBench.description>UNUSED</Frame_ComponentAssemblyBench.description>
-  
-  <!-- UNUSED -->
-  <Frame_Refinery.label>UNUSED</Frame_Refinery.label>
-  <Frame_Refinery.description>UNUSED</Frame_Refinery.description>
-  
+
   <!-- EN: fueled smithy -->
   <FueledSmithy.label>vedeldad smedja</FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->

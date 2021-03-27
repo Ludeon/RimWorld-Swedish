@@ -10,7 +10,5 @@
   <!-- EN: {0} defend the site -->
   <Turrets.descriptionDialogue>{0} försvarar platsen.</Turrets.descriptionDialogue>
   
-  <!-- UNUSED -->
-  <Turrets.arrivedLetterLabel>UNUSED</Turrets.arrivedLetterLabel>
   
 </LanguageData>

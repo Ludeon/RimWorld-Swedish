@@ -9,8 +9,6 @@
   <SleepingMechanoids.arrivedLetter>Det finns några sovande aggressiva mekanoider i detta område.\n\nDe kan vara så att de vaknar när du kommer nära, eller inte. Var på din vakt.</SleepingMechanoids.arrivedLetter>
   <!-- EN: there are {0} sleeping mechanoids in the area -->
   <SleepingMechanoids.descriptionDialogue>Det finns {0} sovande mekanoider i området.</SleepingMechanoids.descriptionDialogue>
-  
-  <!-- UNUSED -->
-  <SleepingMechanoids.arrivedLetterLabel>UNUSED</SleepingMechanoids.arrivedLetterLabel>
+
   
 </LanguageData>

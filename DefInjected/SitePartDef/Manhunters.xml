@@ -9,8 +9,6 @@
   <Manhunters.arrivedLetter>Det finns människojagande djur i detta område.</Manhunters.arrivedLetter>
   <!-- EN: there is a group of {0} manhunting {1} wandering nearby -->
   <Manhunters.descriptionDialogue>det finns en grupp {0} som människojagar {1} som vandrar i närheten </Manhunters.descriptionDialogue>
-  
-  <!-- UNUSED -->
-  <Manhunters.arrivedLetterLabel>UNUSED</Manhunters.arrivedLetterLabel>
+
   
 </LanguageData>

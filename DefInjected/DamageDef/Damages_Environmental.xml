@@ -4,7 +4,7 @@
   <!-- EN: burn -->
   <Burn.label>brännskada</Burn.label>
   <!-- EN: {0} has burned to death. -->
-  <Burn.deathMessage>{0} omkom i en brand.</Burn.deathMessage>
+  <Burn.deathMessage>{0} omkom pågrund av brännskador.</Burn.deathMessage>
   
   <!-- EN: flame -->
   <Flame.label>eldsvåda</Flame.label>
@@ -14,7 +14,7 @@
   <!-- EN: frostbite -->
   <Frostbite.label>köldskada</Frostbite.label>
   <!-- EN: {0} has succumbed to frostbite. -->
-  <Frostbite.deathMessage>{0} omkom av köldskador.</Frostbite.deathMessage>
+  <Frostbite.deathMessage>{0} omkom pågrund av köldskador.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
   <TornadoScratch.label>rivsår</TornadoScratch.label>

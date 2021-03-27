@@ -52,11 +52,6 @@
     <li>tamed->viskade en berättelse om [TalkTopicAny] för</li>
   </AnimalChat.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <AnimalChat.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </AnimalChat.logRulesRecipient.rulesStrings>
-  
   <!-- EN: nuzzle -->
   <Nuzzle.label>gosa</Nuzzle.label>
   <!-- EN:
@@ -112,11 +107,6 @@
     <li>rubbedpart->arm</li>
   </Nuzzle.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <Nuzzle.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </Nuzzle.logRulesRecipient.rulesStrings>
-  
   <!-- EN: tame attempt -->
   <TameAttempt.label>tämjningsförsök</TameAttempt.label>
   <!-- EN:
@@ -154,11 +144,6 @@
     <li>r_logentry->[INITIATOR_nameDef] gav [RECIPIENT_nameDef] ett första kommando.</li>
   </TameAttempt.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <TameAttempt.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </TameAttempt.logRulesRecipient.rulesStrings>
-  
   <!-- EN: train attempt -->
   <TrainAttempt.label>träningsförsök</TrainAttempt.label>
   <!-- EN:
@@ -186,9 +171,5 @@
     <li>tried->försökte</li>
   </TrainAttempt.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <TrainAttempt.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </TrainAttempt.logRulesRecipient.rulesStrings>
   
 </LanguageData>

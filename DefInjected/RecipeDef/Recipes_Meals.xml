@@ -22,11 +22,6 @@
   <!-- EN: Cooking simple meal. -->
   <CookMealSimple.jobString>Lagar en enkel maträtt.</CookMealSimple.jobString>
   
-  <!-- UNUSED -->
-  <CookMealSimpleCampfire.label>UNUSED</CookMealSimpleCampfire.label>
-  <CookMealSimpleCampfire.description>UNUSED</CookMealSimpleCampfire.description>
-  <CookMealSimpleCampfire.jobString>UNUSED</CookMealSimpleCampfire.jobString>
-  
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>laga och förpacka överlevnadsmåltid</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->

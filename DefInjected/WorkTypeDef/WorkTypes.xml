@@ -101,14 +101,6 @@
   <!-- EN: Extinguish -->
   <Firefighter.verb>Släck</Firefighter.verb>
   
-  <!-- UNUSED -->
-  <Flicker.label>UNUSED</Flicker.label>
-  <Flicker.description>UNUSED</Flicker.description>
-  <Flicker.labelShort>UNUSED</Flicker.labelShort>
-  <Flicker.pawnLabel>UNUSED</Flicker.pawnLabel>
-  <Flicker.gerundLabel>UNUSED</Flicker.gerundLabel>
-  <Flicker.verb>UNUSED</Flicker.verb>
-  
   <Growing.label>Odla</Growing.label>
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Så frön och skörda odlade grödor samt plocka vilda grödor.</Growing.description>
@@ -191,14 +183,6 @@
   <PatientBedRest.pawnLabel>Sängvilare</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
   <PatientBedRest.verb>Bli patient</PatientBedRest.verb>
-  
-  <!-- UNUSED -->
-  <PatientEmergency.label>UNUSED</PatientEmergency.label>
-  <PatientEmergency.description>UNUSED</PatientEmergency.description>
-  <PatientEmergency.labelShort>UNUSED</PatientEmergency.labelShort>
-  <PatientEmergency.pawnLabel>UNUSED</PatientEmergency.pawnLabel>
-  <PatientEmergency.gerundLabel>UNUSED</PatientEmergency.gerundLabel>
-  <PatientEmergency.verb>UNUSED</PatientEmergency.verb>
   
   <PlantCutting.label>Hugga och skära</PlantCutting.label>
   <!-- EN: Cut or harvest plants as designated. -->

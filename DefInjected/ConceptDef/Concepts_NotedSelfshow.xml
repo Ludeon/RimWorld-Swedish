@@ -9,7 +9,7 @@
   <!-- EN: Allowed areas -->
   <AllowedAreas.label>Tillåtna områden</AllowedAreas.label>
   <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
-  <AllowedAreas.helpText>Kolonister och kolonins djur kan bli tilldelade TILLÅTNA OMRÅDEN. Detta förbjuder dem från att röra sig utanför sitt tillåtna område.\n\nDetta kan användas för att till exempel förbjuda kolonister från att vara utomhus.\n\nDu kan skapa multipla områden och tilldela dem till olika kolonister och djur.\n\nSkapa, radera och tilldela områden i BEGRÄNSA fliken.\n\nMåla tillåtna områden på kartan genom att använda UTÖKA TILLÅTET OMRÅDE och RENSA TILLÅTET OMRÅDE i Arkitekt menyn.</AllowedAreas.helpText>
+  <AllowedAreas.helpText>Kolonister och kolonins djur kan bli tilldelade TILLÅTNA OMRÅDEN. Detta förbjuder dem från att röra sig utanför sitt tillåtna område.\n\nDetta kan användas för att tillexempel förbjuda kolonister från att vara utomhus.\n\nDu kan skapa flera områden och tilldela dem till olika kolonister och djur.\n\nSkapa, radera och tilldela områden i BEGRÄNSA fliken.\n\nMåla tillåtna områden på kartan genom att använda UTÖKA TILLÅTET OMRÅDE och RENSA TILLÅTET OMRÅDE i Arkitekt menyn.</AllowedAreas.helpText>
   
   <!-- EN: Animal taming -->
   <AnimalTaming.label>Tämja djur</AnimalTaming.label>
@@ -34,12 +34,12 @@
   <!-- EN: Clicking messages -->
   <ClickingMessages.label>Klicka på meddelanden</ClickingMessages.label>
   <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
-  <ClickingMessages.helpText>Du kan klicka på meddelanden uppe till vänster på skärmen för att flytta kamerans center direkt till händelsen.</ClickingMessages.helpText>
+  <ClickingMessages.helpText>Du kan klicka på meddelanden uppe till vänster på skärmen för att flytta kamerans centrering direkt till händelsen.</ClickingMessages.helpText>
   
   <!-- EN: Cover and shooting -->
   <CoverAndShooting.label>Skjuta från skydd</CoverAndShooting.label>
   <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
-  <CoverAndShooting.helpText>Det viktigaste vid eldstrid är att ta skydd. Skydd fungerar endast om en kolonist rör vid det och är mellan en kolonist och en fiende.\n\nDu kan också placera kolonister bakom ett hörn på en byggnader. Kolonisterna kommer i så fall att luta sig ut och skjuta.\n\nDe mesta kan användas som skydd, men vissa saker är bättre än andra. Att gömma sig bakom ett träd är bättre än ingenting, men att gömma sig bakom sandsäckar är bättre än ett träd.</CoverAndShooting.helpText>
+  <CoverAndShooting.helpText>Det viktigaste vid eldstrid är att ta skydd. Skydd fungerar endast om en kolonist rör vid det och är mellan en kolonist och en fiende.\n\nDu kan också placera kolonister bakom ett hörn på byggnader. Kolonisterna kommer då luta sig ut och skjuta.\n\nDe mesta kan användas som skydd men vissa saker är bättre än andra. Att gömma sig bakom ett träd är bättre än ingenting men att gömma sig bakom sandsäckar är bättre än ett träd.</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
   <Deterioration.label>Försämring av föremål</Deterioration.label>
@@ -58,47 +58,51 @@
 \n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.
 \n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.
 \n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
-  <FirePreparation.helpText>Eldsvådor kan lätt bränna ned en hel koloni. För att bekämpa dessa behöver du förbereda dig innan det händer.\n\nDessa typer av konstruktioner kan hjälpa för att miska skador från eldsvådor:\n\n1. Istället för att göra en enda stor superbyggnad, bygg separata byggnader med ytrymme emellan.\n\n2. Använd dig av material som är brandtåligt. Trä är billigt och snabbt - men brinner väldigt fort.\n\n3. Bygg brandgator för att förhindra löpeldar att närma sig din bas. En remsa av betonggolv 3 eller 4 celler breda stannar oftast upp eldens framfart.</FirePreparation.helpText>
+  <FirePreparation.helpText>Eldsvådor kan lätt bränna ned en hel koloni. För att bekämpa dessa behöver du förbereda dig innan det händer.\
+  n\nDessa typer av konstruktioner kan hjälpa för att miska skador från eldsvådor:
+  \n\n1. Istället för att göra en enda stor superbyggnad, bygg separata byggnader med ytrymme emellan.
+  \n\n2. Använd dig av material som är brandtåligt. Trä är billigt och snabbt - men brinner väldigt fort.
+  \n\n3. Bygg brandgator för att förhindra löpeldar att närma sig din bas. En remsa av betonggolv 3 eller 4 celler breda stannar oftast upp eldens framfart.</FirePreparation.helpText>
   
   <!-- EN: Forbid and allow -->
-  <Forbidding.label>Förbjudna och tillåt</Forbidding.label>
+  <Forbidding.label>Förbjud och tillåt</Forbidding.label>
   <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
   <Forbidding.helpText>Kolonister kommer inte röra saker som är markerade FÖRBJUDET.\n\nFörbjudna saker har ett litet rött kryss på sig. Välj en förbjuden sak och använd kontrollerna i botten för att TILLÅTa det.</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
   <ForbiddingDoors.label>Förbjud dörrar</ForbiddingDoors.label>
   <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
-  <ForbiddingDoors.helpText>Du kan förbjuda användning av dörrar så att kolonister eller tama djur inte får gå igenom dem\n\nNotera att detta inte är ett dörrlås. Dörrar är alltid låsta så att fiender inte kan passera igenom dem. Att föbjuda en dörr dirigerar endast kolonister att inte använda den dörren. Kolonister som är mitt i ett psykbryt kan eventuellt använda dörren ändå.</ForbiddingDoors.helpText>
+  <ForbiddingDoors.helpText>Du kan förbjuda användning av dörrar så att kolonister eller tama djur inte får gå igenom dem\n\nNotera att detta inte är ett dörrlås. Dörrar är alltid låsta så att fiender inte kan passera fritt. Att föbjuda en dörr dirigerar endast kolonister att inte använda den dörren. Kolonister som är mitt i ett psykbryt kan eventuellt använda dörren ändå.</ForbiddingDoors.helpText>
   
   <!-- EN: Forming caravans -->
   <FormCaravan.label>Bilda karavaner</FormCaravan.label>
   <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
-  <FormCaravan.helpText>Du kan bilda en karavan för att skicka ut grupper av personer och resea över hela planeten!\n\nI fliken Värld väljer du din hemmabas och klickar på "bilda karavan".</FormCaravan.helpText>
+  <FormCaravan.helpText>Du kan bilda en karavan för att skicka ut grupper av personer och resea över hela planeten!\n\nI fliken VÄRLD väljer du din hemabas och klickar på "bilda karavan".</FormCaravan.helpText>
   
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>Säkerhet och vådaskott</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>Vådaskott kommer ej inträffa om skytten är nära en allierad.\n\nTill exempel kan du utan fara placera en svärdsvingande kolonist direkt framför en pistolförsedd kolonist. Skytten kommer skjuta över sin aliierades axel.\n\nDetta är ett bra sätt att kombinera avståndsstrid med närstrid.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.helpText>Vådaskott kommer aldrig inträffa om skytten är nära en allierad.\n\nTill exempel kan du utan fara placera en svärdsvingande kolonist direkt framför en pistolförsedd kolonist. Skytten kommer skjuta över sin aliierades axel.\n\nDetta är ett bra sätt att kombinera avståndsstrid med närstrid.</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
   <GettingMoreTraders.label>Få fler att handla med</GettingMoreTraders.label>
   <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
-  <GettingMoreTraders.helpText>Mer handelskaravaner kommer att komma på besök om du är allierad med flera klaner.\n\nOn du inte har några allierade kommer inga handelskaravaner komma på besök!\n\nDu kan också betala allierade för att skicka karavaner genom att anropa dem via kommunikationskonsollen.</GettingMoreTraders.helpText>
+  <GettingMoreTraders.helpText>Mer handelskaravaner kommer att komma på besök om du är allierad med flera grupperingar och klaner.\n\nOn du inte har några allierade kommer inga handelskaravaner komma på besök!\n\nDu kan också betala allierade för att skicka karavaner genom att anropa dem via kommunikationskonsollen.</GettingMoreTraders.helpText>
   
   <!-- EN: Growing zones -->
   <GrowingFood.label>Odla mat</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>För att olda mat placera VÄXTZONER via Arkitektmenyn\n\nZonerna kan endast placeras på bördig mark.</GrowingFood.helpText>
+  <GrowingFood.helpText>För att olda mat placera VÄXTZONER via Arkitektmenyn\n\nZonerna kan endast placeras på jordig mark.</GrowingFood.helpText>
   
   <!-- EN: History tab -->
-  <HistoryTab.label>Historiafliken</HistoryTab.label>
+  <HistoryTab.label>Historiefliken</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
   <HistoryTab.helpText>Du kan se grafer och historia över kolonins öden över tid i fliken HISTORIA som finns i nedre delen av skärmen.</HistoryTab.helpText>
   
   <!-- EN: Home area -->
   <HomeArea.label>Hemområde</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
-  <HomeArea.helpText>HEMMAOMRÅDE informerar kolonisterna vilket område de ska städa och var de ska släcka bränder.\n\nVälj HEMOMRÅDE med Zonkategorin under Arkitektmenyn.</HomeArea.helpText>
+  <HomeArea.helpText>HEMOMRÅDE informerar kolonisterna vilket område de ska städa och var de ska släcka bränder.\n\nVälj HEMOMRÅDE med Zonkategorin under Arkitektmenyn.</HomeArea.helpText>
   
   <!-- EN: Hostility response modes -->
   <HostilityResponse.label>Reaktion på hot</HostilityResponse.label>
@@ -111,9 +115,9 @@
   <InfoCard.helpText>Informationskort visar dig detaljerad information om ett föremål, person eller konstruktion.\n\nVälj en person eller ett föremål och öppna informationskortet genom att klicka på 'i' knappen i inspektionspanelen.</InfoCard.helpText>
   
   <!-- EN: Room stats inspector -->
-  <InspectRoomStats.label>Statusgranskare av rum</InspectRoomStats.label>
+  <InspectRoomStats.label>Statusgranskare för rum</InspectRoomStats.label>
   <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
-  <InspectRoomStats.helpText>Du kan ta reda på hur imponerande, välställt eller vackert ett rum är genom att använda STATUSGRANSKARE RUM, i nedre högerkanten.</InspectRoomStats.helpText>
+  <InspectRoomStats.helpText>Du kan ta reda på hur imponerande, välställt eller vackert ett rum är genom att använda STATUSGRANSKARE i nedre högerkanten.</InspectRoomStats.helpText>
   
   <!-- EN: Manual work priorities -->
   <ManualWorkPriorities.label>Manuell arbetsprioritering</ManualWorkPriorities.label>
@@ -121,14 +125,14 @@
   <ManualWorkPriorities.helpText>En av de viktigaste delarna i RimWorld är att välja ut arbetsinställnigar för dina kolonister.\n\nDåliga inställningar kan läma viktiga arbetsuppgifter ogjorda medan kolonisterna ödslar tid på triviala uppgifter.\n\nFör att ha mer kontroll över vilka arbeten kolonister ska utför kan du välja ett manuellt prioriteringsläge i fliken ARBETE.\n\nI detta läge har varje kolonist ett prioritetsnummer för varje arbetsuppgift. Kolonister kommer att prioritera uppgifter med siffran 1 från vänster till höger, efter detta arbeten med siffran 2 från vänster till höger, och så vidare.\n\nEn uttänkt användning av dessa inställningar är nödvändigt för en stor och väl automatiserad koloni.</ManualWorkPriorities.helpText>
   
   <!-- EN: Medical operations -->
-  <MedicalOperations.label> Kirurgiska operationer</MedicalOperations.label>
+  <MedicalOperations.label> Medicinska operationer</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>För att utföra en medicinsk operation exempelvis att skörda organ eller installera proteser, öppna en kolonists flik HÄLSA och byt till underfliken OPERATION.</MedicalOperations.helpText>
+  <MedicalOperations.helpText>För att utföra en operation, exempelvis skörda organ eller installera proteser, öppna en kolonists flik HÄLSA och byt till underfliken OPERATION.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
   <Mining.label>Malmbrytning</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>Du kan välja ut var kolonister ska hugga sten eller malm genom att välja ARKITEKT  och fliken ORDER.\n\nVissa berväggar innehåller STÅL, GULD, PLASTÅL eller andra användbara material.</Mining.helpText>
+  <Mining.helpText>Du kan välja ut var kolonister ska hugga sten eller malm genom att välja ARKITEKT och fliken ORDER.\n\nVissa berväggar innehåller STÅL, GULD, PLASTÅL eller andra användbara material.</Mining.helpText>
   
   <!-- EN: Outfits -->
   <Outfits.label>Utstyrsel</Outfits.label>

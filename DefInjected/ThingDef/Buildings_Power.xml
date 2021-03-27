@@ -6,17 +6,10 @@
   <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
   <Battery.description>Lagrar överflödig elektricitet till senare. Laddade batterier exploderar när de utsätts för regn eller eld.</Battery.description>
   
-  <!-- UNUSED -->
-  <Blueprint_FueledGenerator.label>UNUSED</Blueprint_FueledGenerator.label>
-  
   <!-- EN: chemfuel powered generator -->
   <ChemfuelPoweredGenerator.label>generator driven av kembränsle</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
   <ChemfuelPoweredGenerator.description>Producerar el genom att använda kembränsle. Måste fyllas på för hand.</ChemfuelPoweredGenerator.description>
-  
-  <!-- UNUSED -->
-  <Frame_FueledGenerator.label>UNUSED</Frame_FueledGenerator.label>
-  <Frame_FueledGenerator.description>UNUSED</Frame_FueledGenerator.description>
   
   <!-- EN: geothermal generator -->
   <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>

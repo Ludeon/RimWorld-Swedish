@@ -39,8 +39,5 @@
   <!-- EN: room size -->
   <RoomSize.label>Rumsstorlek</RoomSize.label>
   
-  <!-- UNUSED -->
-  <Space.label>UNUSED</Space.label>
-  <Space.description>UNUSED</Space.description>
   
 </LanguageData>

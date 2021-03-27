@@ -7,9 +7,6 @@
   <!-- EN: apparel -->
   <Apparel.label>kläder</Apparel.label>
   
-  <!-- UNUSED -->
-  <Art.label>UNUSED</Art.label>
-  
   <!-- EN: artifacts -->
   <Artifacts.label>artefakter</Artifacts.label>
   
@@ -17,7 +14,7 @@
   <BodyParts.label>kroppsdelar</BodyParts.label>
   
   <!-- EN: artificial -->
-  <BodyPartsArtificial.label>artificiella</BodyPartsArtificial.label>
+  <BodyPartsArtificial.label>konstgjorda</BodyPartsArtificial.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>naturliga</BodyPartsNatural.label>
@@ -53,7 +50,7 @@
   <BuildingsTemperature.label>temperatur</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
-  <Chunks.label>block</Chunks.label>
+  <Chunks.label>bitar</Chunks.label>
   
   <!-- EN: corpses -->
   <Corpses.label>lik</Corpses.label>
@@ -65,7 +62,7 @@
   <CorpsesHumanlike.label>människolika kroppar</CorpsesHumanlike.label>
   
   <!-- EN: insect corpses -->
-  <CorpsesInsect.label>insektskroppar</CorpsesInsect.label>
+  <CorpsesInsect.label>insektskrppar</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
   <CorpsesMechanoid.label>mekanoidkroppar</CorpsesMechanoid.label>
@@ -87,9 +84,6 @@
   
   <!-- EN: foods -->
   <Foods.label>mat</Foods.label>
-  
-  <!-- UNUSED -->
-  <Furniture.label>UNUSED</Furniture.label>
   
   <!-- EN: grenades -->
   <Grenades.label>granater</Grenades.label>

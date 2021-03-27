@@ -8,11 +8,6 @@
   <!-- EN: Burning apparel. -->
   <BurnApparel.jobString>Eldar upp kläder.</BurnApparel.jobString>
   
-  <!-- UNUSED -->
-  <BurnApparelCampfire.label>UNUSED</BurnApparelCampfire.label>
-  <BurnApparelCampfire.description>UNUSED</BurnApparelCampfire.description>
-  <BurnApparelCampfire.jobString>UNUSED</BurnApparelCampfire.jobString>
-  
   <!-- EN: burn drugs -->
   <BurnDrugs.label>Elda upp droger</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->

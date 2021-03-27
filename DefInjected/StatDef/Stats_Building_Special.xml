@@ -11,10 +11,6 @@
   <!-- EN: The speed at which the door opens. Slow doors will slow down everyone who uses them. -->
   <DoorOpenSpeed.description>Den hastighet med vilken dörren öppnas</DoorOpenSpeed.description>
   
-  <!-- UNUSED -->
-  <EntertainmentStrengthFactor.label>UNUSED</EntertainmentStrengthFactor.label>
-  <EntertainmentStrengthFactor.description>UNUSED</EntertainmentStrengthFactor.description>
-  
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>hastighetsfaktor för att uppnå immunitet</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->

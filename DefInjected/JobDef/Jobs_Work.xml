@@ -7,9 +7,6 @@
   <!-- EN: building roof. -->
   <BuildRoof.reportString>bygger tak.</BuildRoof.reportString>
   
-  <!-- UNUSED -->
-  <BuryCorpse.reportString>UNUSED</BuryCorpse.reportString>
-  
   <!-- EN: capturing TargetA. -->
   <Capture.reportString>tillfångatar TargetA.</Capture.reportString>
   
@@ -87,9 +84,6 @@
   
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>avrättar TargetA.</PrisonerExecution.reportString>
-  
-  <!-- UNUSED -->
-  <PrisonerFriendlyChat.reportString>UNUSED</PrisonerFriendlyChat.reportString>
   
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>Friger TargetA.</ReleasePrisoner.reportString>

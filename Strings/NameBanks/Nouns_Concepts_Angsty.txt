@@ -1,4 +1,4 @@
-TODO - kolla att det blir adjektiv (så nära detgår)
+// TODO - kolla att det blir adjektiv (så nära detgår)
 avskild
 behov
 besegrad

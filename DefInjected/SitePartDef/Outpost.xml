@@ -14,7 +14,5 @@
   <!-- EN: there is an enemy outpost at the site guarded by {0} enemies -->
   <Outpost.descriptionDialogue>finder har en utpost i närheten, den bevakas av {0} fiender</Outpost.descriptionDialogue>
   
-  <!-- UNUSED -->
-  <Outpost.arrivedLetterLabel>UNUSED</Outpost.arrivedLetterLabel>
   
 </LanguageData>

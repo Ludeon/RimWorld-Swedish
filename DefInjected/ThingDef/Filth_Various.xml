@@ -30,9 +30,6 @@
   <!-- EN: A puddle of flammable chemfuel. -->
   <Filth_Fuel.description>en pöl av brandfarligt kembränsle.</Filth_Fuel.description>
   
-  <!-- UNUSED -->
-  <Filth_HumanFilth.label>UNUSED</Filth_HumanFilth.label>
-  
   <!-- EN: building rubble -->
   <Filth_RubbleBuilding.label>byggrester</Filth_RubbleBuilding.label>
   

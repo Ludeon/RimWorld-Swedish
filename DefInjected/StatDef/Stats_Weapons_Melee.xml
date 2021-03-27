@@ -16,19 +16,10 @@
   <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
   <MeleeWeapon_AverageDPS.description>Genomsnittlig skada per sekund (eng. damage per second) i närstrid, om alla attacker träffar.</MeleeWeapon_AverageDPS.description>
   
-  <!-- UNUSED -->
-  <MeleeWeapon_Cooldown.label>UNUSED</MeleeWeapon_Cooldown.label>
-  <MeleeWeapon_Cooldown.description>UNUSED</MeleeWeapon_Cooldown.description>
-  <MeleeWeapon_Cooldown.formatString>UNUSED</MeleeWeapon_Cooldown.formatString>
-  
   <!-- EN: melee cooldown -->
   <MeleeWeapon_CooldownMultiplier.label>Fördröjning i närstrid</MeleeWeapon_CooldownMultiplier.label>
   <!-- EN: A multiplier on attack delay for weapons made of this material. -->
   <MeleeWeapon_CooldownMultiplier.description>Multiplikator gällande attackers fördröjning för vapen tillverkade av detta material.</MeleeWeapon_CooldownMultiplier.description>
-  
-  <!-- UNUSED -->
-  <MeleeWeapon_DamageAmount.label>UNUSED</MeleeWeapon_DamageAmount.label>
-  <MeleeWeapon_DamageAmount.description>UNUSED</MeleeWeapon_DamageAmount.description>
   
   <!-- EN: melee damage multiplier -->
   <MeleeWeapon_DamageMultiplier.label>Närstrids multiplikator</MeleeWeapon_DamageMultiplier.label>

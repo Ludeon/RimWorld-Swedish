@@ -9,12 +9,12 @@
   <!-- EN: large sculpture -->
   <SculptureLarge.label>stor skulptur</SculptureLarge.label>
   <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
-  <SculptureLarge.description>En skulptur ungefär lika stor som en människa, skulpteradfrån olika material till ett konstverk. </SculptureLarge.description>
+  <SculptureLarge.description>En skulptur ungefär lika stor som en människa, skulpterad från olika material till ett konstverk. </SculptureLarge.description>
   
   <!-- EN: small sculpture -->
   <SculptureSmall.label>liten skulptur</SculptureSmall.label>
   <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
-  <SculptureSmall.description>En mindra skulptur stor som en överkropp som skulpterats från konstnärligt material.</SculptureSmall.description>
+  <SculptureSmall.description>En mindre skulptur stor som en överkropp, skulpterad av konstnärligt material.</SculptureSmall.description>
   
   <!-- EN: snowman -->
   <Snowman.label>snögubbe</Snowman.label>

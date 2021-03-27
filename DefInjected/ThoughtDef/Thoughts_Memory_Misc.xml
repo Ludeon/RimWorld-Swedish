@@ -6,10 +6,6 @@
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>Jag var tvungen att äta en måltid på marken. Kan vi inte få ett bord hit?</AteWithoutTable.stages.ate_without_table.description>
   
-  <!-- UNUSED -->
-  <BondedAnimalAbandoned.stages.0.label>UNUSED</BondedAnimalAbandoned.stages.0.label>
-  <BondedAnimalAbandoned.stages.0.description>UNUSED</BondedAnimalAbandoned.stages.0.description>
-  
   <!-- EN: bonded animal {0} banished -->
   <BondedAnimalBanished.stages.bonded_animal_banished.label>kärt djur {0} förvisat </BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
@@ -24,14 +20,6 @@
   <Catharsis.stages.catharsis.label>katharsis</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
   <Catharsis.stages.catharsis.description>Det kändes bra att äntligen visa mina känslor.</Catharsis.stages.catharsis.description>
-  
-  <!-- UNUSED -->
-  <ColonistAbandoned.stages.0.label>UNUSED</ColonistAbandoned.stages.0.label>
-  <ColonistAbandoned.stages.0.description>UNUSED</ColonistAbandoned.stages.0.description>
-  
-  <!-- UNUSED -->
-  <ColonistAbandonedToDie.stages.0.label>UNUSED</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>UNUSED</ColonistAbandonedToDie.stages.0.description>
   
   <!-- EN: colonist banished -->
   <ColonistBanished.stages.colonist_banished.label>kolonist förvisad</ColonistBanished.stages.colonist_banished.label>
@@ -51,18 +39,10 @@
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>besegrade fientlig ledare</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
-  <!-- UNUSED -->
-  <DefeatedMajorEnemy.stages.0.label>UNUSED</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>UNUSED</DefeatedMajorEnemy.stages.0.description>
-  
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>misslyckades med att rädda</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
   <FailedToRescueRelative.stages.failed_to_rescue.description>Vi hade en chans att rädda en av mina släktingar men misslyckades. Jag kände ha hjälpt till!</FailedToRescueRelative.stages.failed_to_rescue.description>
-  
-  <!-- UNUSED -->
-  <GreenThumbHappy.stages.0.label>UNUSED</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>UNUSED</GreenThumbHappy.stages.0.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>dödat någon</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -123,10 +103,6 @@
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>såg ruttnande lik</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Jag såg ett ruttnande lik som ligger på marken. Det var äckligt.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
-  
-  <!-- UNUSED -->
-  <PrisonerAbandonedToDie.stages.0.label>UNUSED</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>UNUSED</PrisonerAbandonedToDie.stages.0.description>
   
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>fånge förvisad till döds</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>

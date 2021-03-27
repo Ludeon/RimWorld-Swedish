@@ -24,17 +24,17 @@
   <!-- EN: red carpet -->
   <CarpetRed.label>röd matta</CarpetRed.label>
   <!-- EN: Plush carpet in a lovely rose hue. -->
-  <CarpetRed.description>Plyschmatta i en förtjusande rosnyans.</CarpetRed.description>
+  <CarpetRed.description>Plyschmatta i en förtjusande nyans av rosor.</CarpetRed.description>
   
   <!-- EN: concrete -->
   <Concrete.label>betong</Concrete.label>
   <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
-  <Concrete.description>Rå betong, snabb att ta sig fram över, men rätt fult.</Concrete.description>
+  <Concrete.description>Rå betong, snabb att ta sig fram över, billig och snabb att lägga men ganska fult.</Concrete.description>
   
   <!-- EN: gold tile -->
   <GoldTile.label>guldplattor</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
-  <GoldTile.description>För högdragen överdådighet, inget slår guldplattor. De är mycket dyra och mycket vackra, folk kommer tro att du är otroligt snobbig om du faktiskt bor på dem.</GoldTile.description>
+  <GoldTile.description>För överlägsen extravagans, ingenting slår guldplattor, de är extremt dyra och otroligt vackra. Folk kommer tro att du är väldigt snobbig om du faktiskt bor på dessa.</GoldTile.description>
   
   <!-- EN: metal tile -->
   <MetalTile.label>metallplattor</MetalTile.label>
@@ -42,9 +42,9 @@
   <MetalTile.description>Metallplattor, för den där rymdskeppslooken. De är fina och den jämna ytan ger en renlighetsbonus.</MetalTile.description>
   
   <!-- EN: paved tile -->
-  <PavedTile.label>gjutet kakel</PavedTile.label>
+  <PavedTile.label>gjutna klinkers</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>Betongkakel. Billigt och snabbt att ta sig fram över men neutralt i fråga om stil och tar lång tid att lägga..</PavedTile.description>
+  <PavedTile.description>Betongklinker. Billigt och snabbt att ta sig fram över, neutralt i fråga om stil och tar lång tid att lägga.</PavedTile.description>
   
   <!-- EN: silver tile -->
   <SilverTile.label>silverplattor</SilverTile.label>
@@ -54,11 +54,11 @@
   <!-- EN: sterile tile -->
   <SterileTile.label>sterila plattor</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>Sterila plattor med speciella renhetsegenskaper. Extra rena rum ökar resultaten i sjukhus och forskningslabb. Denna platta tarmycket lång tid att lägga.</SterileTile.description>
+  <SterileTile.description>Sterila plattor med speciella renhetsegenskaper. Extra rena rum ökar resultaten i sjukhus och forskningslabb. Denna platta tar mycket lång tid att lägga.</SterileTile.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>Trägolv</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
-  <WoodPlankFloor.description>Golv av träplankor för den där varma hemlika känslan. Även om det går fort att lägga är det också lättandtändligt.</WoodPlankFloor.description>
+  <WoodPlankFloor.description>Golv av träplankor, för den där varma hemtrevliga känslan. Även om det går fort att lägga är det också lättandtändligt.</WoodPlankFloor.description>
   
 </LanguageData>

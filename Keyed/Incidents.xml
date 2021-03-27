@@ -234,11 +234,5 @@
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
   <LetterSiteNoLongerHostileMulti>Eftersom du inte längre är fientlig med {0} är följande platser inte längre tillgängliga</LetterSiteNoLongerHostileMulti>
 
-  <!-- UNUSED -->
-  <RefugeePodCrash_NonHostileOrFactionless>UNUSED</RefugeePodCrash_NonHostileOrFactionless>
-  <LetterLabelWandererJoin>UNUSED</LetterLabelWandererJoin>
-  <WandererJoin>UNUSED</WandererJoin>
-  <LetterLabelBuildingBrokenDown>UNUSED</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>UNUSED</LetterBuildingBrokenDown>
 
 </LanguageData>

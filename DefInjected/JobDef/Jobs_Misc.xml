@@ -91,9 +91,6 @@
   <!-- EN: opening TargetA. -->
   <Open.reportString>öppnar TargetA.</Open.reportString>
   
-  <!-- UNUSED -->
-  <RearmTrap.reportString>UNUSED</RearmTrap.reportString>
-  
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>laddar om TargetA.</RearmTurret.reportString>
   

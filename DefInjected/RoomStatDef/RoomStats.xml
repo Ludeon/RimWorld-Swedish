@@ -36,9 +36,6 @@
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>chans för matförgiftning</FoodPoisonChance.label>
   
-  <!-- UNUSED -->
-  <FoodPoisonChanceFactor.label>UNUSED</FoodPoisonChanceFactor.label>
-  
   <!-- EN: grave visiting recreation factor -->
   <GraveVisitingJoyGainFactor.label>gravbesök glädje-faktor</GraveVisitingJoyGainFactor.label>
   
@@ -90,9 +87,6 @@
   
   <!-- EN: surgery success chance cleanliness factor -->
   <SurgerySuccessChanceCleanlinessFactor.label>renlighetens inverkan på chansen för kirurgingrepp att lyckas  </SurgerySuccessChanceCleanlinessFactor.label>
-  
-  <!-- UNUSED -->
-  <SurgerySuccessChanceFactor.label>UNUSED</SurgerySuccessChanceFactor.label>
   
   <!-- EN: wealth -->
   <Wealth.label>förmögenhet</Wealth.label>

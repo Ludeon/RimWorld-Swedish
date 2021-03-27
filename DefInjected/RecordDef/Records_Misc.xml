@@ -216,8 +216,5 @@
   <!-- EN: How many times I have had my medical conditions tended. -->
   <TimesTendedTo.description>Hur många gånger jag fått medicinsk vård.</TimesTendedTo.description>
   
-  <!-- UNUSED -->
-  <TrapsRearmed.label>UNUSED</TrapsRearmed.label>
-  <TrapsRearmed.description>UNUSED</TrapsRearmed.description>
   
 </LanguageData>

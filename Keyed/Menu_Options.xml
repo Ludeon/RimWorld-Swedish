@@ -102,8 +102,5 @@
   <RestoreToDefaultSettings>Återställ till standardinställningarna</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Dina alternativ har återställts. Spelet startas nu om automatiskt.</ResetAndRestart>
-  
-  <!-- UNUSED -->
-  <MaxNumberOfPlayerHomes>Max antal kolonier: {0}</MaxNumberOfPlayerHomes>
 
 </LanguageData>

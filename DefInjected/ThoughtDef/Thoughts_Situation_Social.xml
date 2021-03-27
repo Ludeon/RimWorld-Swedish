@@ -60,9 +60,6 @@
   <!-- EN: killed colony animal -->
   <KilledColonyAnimal.stages.killed_colony_animal.label>dödade kolonistdjur</KilledColonyAnimal.stages.killed_colony_animal.label>
   
-  <!-- UNUSED -->
-  <KilledMajorColonyEnemy.stages.0.label>UNUSED</KilledMajorColonyEnemy.stages.0.label>
-  
   <!-- EN: man -->
   <Man.stages.man.label>man</Man.stages.man.label>
   

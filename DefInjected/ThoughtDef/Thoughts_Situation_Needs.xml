@@ -144,12 +144,5 @@
   <!-- EN: This room is so expansive, I feel free. -->
   <NeedRoomSize.stages.spacious_interior.description>Detta rum är så stort, jag känner mig så fri.</NeedRoomSize.stages.spacious_interior.description>
   
-  <!-- UNUSED -->
-  <NeedSpace.stages.0.label>UNUSED</NeedSpace.stages.0.label>
-  <NeedSpace.stages.0.description>UNUSED</NeedSpace.stages.0.description>
-  <NeedSpace.stages.1.label>UNUSED</NeedSpace.stages.1.label>
-  <NeedSpace.stages.1.description>UNUSED</NeedSpace.stages.1.description>
-  <NeedSpace.stages.2.label>UNUSED</NeedSpace.stages.2.label>
-  <NeedSpace.stages.2.description>UNUSED</NeedSpace.stages.2.description>
   
 </LanguageData>

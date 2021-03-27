@@ -16,11 +16,6 @@
     <li>r_logentry->[INITIATOR_nameDef] sa till [RECIPIENT_nameDef] att det vore bra att träffa andra personer.</li>
   </Breakup.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <Breakup.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </Breakup.logRulesRecipient.rulesStrings>
-  
   <!-- EN: marriage proposal -->
   <MarriageProposal.label>frieri</MarriageProposal.label>
   <!-- EN:
@@ -33,11 +28,6 @@
     <li>r_logentry->[INITIATOR_nameDef] föreslog ett livslångt trohet till [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] berättade för [RECIPIENT_nameDef] att [INITIATOR_pronoun] vill spendera [INITIATOR_possessive] liv med [RECIPIENT_objective].</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <MarriageProposal.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </MarriageProposal.logRulesRecipient.rulesStrings>
   
   <!-- EN: romance attempt -->
   <RomanceAttempt.label>romansförsök</RomanceAttempt.label>
@@ -166,9 +156,5 @@
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   </RomanceAttempt.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <RomanceAttempt.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </RomanceAttempt.logRulesRecipient.rulesStrings>
   
 </LanguageData>

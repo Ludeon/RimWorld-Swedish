@@ -9,7 +9,7 @@
   <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>Max antal spelarkolonier</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum. -->
-  <MaxNumberOfPlayerSettlements.helpText>Varning: RimWorld är designat för att spela med en koloni i taget. Även om det är möjligt att ha fler kolonier kommer det troligtvis att orsaka prestandaförsämringar och ojämnheter i spelupplevelsen. Vi rekommenderar att du åtminstone först spelar spelet med max en koloni.</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.helpText>Varning: RimWorld är designat för att spela med en koloni i taget. Även om det är möjligt att ha fler kolonier kommer det troligtvis att orsaka prestandaförsämringar och obalans i spelupplevelsen. Vi rekommenderar att du åtminstone först spelar spelet med max en koloni.</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Flick designations only designate -->
   <SwitchFlickingDesignation.label>Strömbrytare</SwitchFlickingDesignation.label>
@@ -17,7 +17,7 @@
   <SwitchFlickingDesignation.helpText>Obs! Detta betyder bara att en kolonist meddelas om att komma och trycka på knappen.\n\nInget kommer att hända förrän en kolonist kommer och trycker på strömbrytaren.</SwitchFlickingDesignation.helpText>
   
   <!-- EN: Trade goods and trade beacons -->
-  <TradeGoodsMustBeNearBeacon.label>Handel med Handelsfyr</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.label>Handel med handelsfyrar</TradeGoodsMustBeNearBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
   <TradeGoodsMustBeNearBeacon.helpText>För att kunna skicka varor och silver till handelsskepp måste du bygga en HANDELSFYR och placera den nära det lager med de föremål du vill sälja.</TradeGoodsMustBeNearBeacon.helpText>
   

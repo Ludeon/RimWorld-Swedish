@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: medical operation speed -->
-  <MedicalOperationSpeed.label>hastighet på medicinsk operation</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.label>hastighet för operation</MedicalOperationSpeed.label>
   <!-- EN: The speed at which the character performs medical operations. -->
   <MedicalOperationSpeed.description>Hastighet med vilken denna person utför medicinska ingrepp.</MedicalOperationSpeed.description>
   
   <!-- EN: medical surgery success chance -->
   <MedicalSurgerySuccessChance.label>Chansen att lyckas med medicinsk operation</MedicalSurgerySuccessChance.label>
   <!-- EN: The base chance that a character will succeed when performing a medical operation. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations. No matter how high the success chance, there is always a small chance of failure on any operation. -->
-  <MedicalSurgerySuccessChance.description>Sannolikheten för att en karaktär kommer att lyckas när man försöker utföra en medicinsk operation. Fel kan resultera i enkel bortkastad tid och medicin eller katastrofala skador på patienten. Den här framgången är också påverkad av de anläggningar och medicin som används i operationen, och svårigheten med operationen.</MedicalSurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.description>Sannolikheten för att en karaktär kommer att lyckas när man försöker utföra en operation. TODO (kopiera från xxx)</MedicalSurgerySuccessChance.description>
   
   <!-- EN: medical tend quality -->
-  <MedicalTendQuality.label>medicinsk behandlingskvalitet</MedicalTendQuality.label>
+  <MedicalTendQuality.label>behandlingskvalitet</MedicalTendQuality.label>
   <!-- EN: The base quality of tending given when tending wounds and illnesses. The actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on. -->
-  <MedicalTendQuality.description>Kvaliteten av den behandlinges som ges till en patient när den här personen är doktor.</MedicalTendQuality.description>
+  <MedicalTendQuality.description>Baskvaliteten av behandlingen som ges vid såromläggning och sjukdom. TODO (kopiera text..)</MedicalTendQuality.description>
   
   <!-- EN: medical tend speed -->
-  <MedicalTendSpeed.label>medicinsk behandlingshastighet</MedicalTendSpeed.label>
+  <MedicalTendSpeed.label>behandlingshastighet</MedicalTendSpeed.label>
   <!-- EN: Speed at which the character tends to wounds and illnesses. -->
-  <MedicalTendSpeed.description>Hastighet där personen behandlar sår och sjukdomar som läkare.</MedicalTendSpeed.description>
+  <MedicalTendSpeed.description>Hastighet där personen behandlar sår och sjukdomar.</MedicalTendSpeed.description>
   
 </LanguageData>

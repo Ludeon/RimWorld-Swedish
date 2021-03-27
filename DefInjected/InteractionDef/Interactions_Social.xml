@@ -112,11 +112,6 @@
     <li>insultcomparison->[Enemy]</li>
   </Insult.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <Insult.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </Insult.logRulesRecipient.rulesStrings>
-  
   <!-- EN: kind words -->
   <KindWords.label>vänliga ord</KindWords.label>
   <!-- EN:
@@ -151,11 +146,6 @@
     <li>complimented->uttryckte uppskattning för</li>
     <li>complimented->sa snälla saker om</li>
   </KindWords.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <KindWords.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </KindWords.logRulesRecipient.rulesStrings>
   
   <!-- EN: slight -->
   <Slight.label>skymf</Slight.label>
@@ -193,10 +183,6 @@
     <li>madefunof->gjorde en föraktfull påpekan gällande</li>
     <li>madefunof->gav en sarkastisk komplemang till</li>
   </Slight.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Slight.logRulesRecipient.rulesStrings>
-    <li>UNUSED</li>
-  </Slight.logRulesRecipient.rulesStrings>
+
   
 </LanguageData>

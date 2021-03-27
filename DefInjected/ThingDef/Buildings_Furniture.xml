@@ -36,12 +36,6 @@
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
   <BedrollDouble.description>En simpel dubbelsäng som ligger på golvet, vanligtvis gjord av tyg och läder och kantad med päls. Den är lätt och kan rullas ihop och lätt transporteras, men den är inte riktigt så skön som en vanlig säng. Karavaner använder sovsäckar när de vandrar för att sova bättre.</BedrollDouble.description>
   
-  <!-- UNUSED -->
-  <Blueprint_Install_TableLong.label>UNUSED</Blueprint_Install_TableLong.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_TableShort.label>UNUSED</Blueprint_Install_TableShort.label>
-  
   <!-- EN: dining chair -->
   <DiningChair.label>stol</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->

@@ -15,11 +15,6 @@
   <!-- EN: build roof -->
   <BuildRoofs.verb>bygg tak</BuildRoofs.verb>
   
-  <!-- UNUSED -->
-  <BuryCorpses.label>UNUSED</BuryCorpses.label>
-  <BuryCorpses.verb>UNUSED</BuryCorpses.verb>
-  <BuryCorpses.gerund>UNUSED</BuryCorpses.gerund>
-  
   <!-- EN: chat with prisoners -->
   <ChatWithPrisoner.label>småprata med fångar</ChatWithPrisoner.label>
   <!-- EN: chatting with -->
@@ -132,11 +127,6 @@
   <!-- EN: butcher -->
   <DoBillsButcherFlesh.verb>stycka</DoBillsButcherFlesh.verb>
   
-  <!-- UNUSED -->
-  <DoBillsComponentAssemblyBench.label>UNUSED</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>UNUSED</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>UNUSED</DoBillsComponentAssemblyBench.gerund>
-  
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>laga mat vid spis</DoBillsCook.label>
   <!-- EN: cooking at -->
@@ -206,11 +196,6 @@
   <DoBillsMedicalHumanOperation.gerund>opererar på</DoBillsMedicalHumanOperation.gerund>
   <!-- EN: operate on -->
   <DoBillsMedicalHumanOperation.verb>operera på</DoBillsMedicalHumanOperation.verb>
-  
-  <!-- UNUSED -->
-  <DoBillsMedicalMechanoidOperation.label>UNUSED</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>UNUSED</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>UNUSED</DoBillsMedicalMechanoidOperation.gerund>
   
   <!-- EN: synthesize drugs -->
   <DoBillsProduceDrugs.label>tillverka läkemedel</DoBillsProduceDrugs.label>
@@ -436,16 +421,6 @@
   <!-- EN: open -->
   <Open.verb>öppna</Open.verb>
   
-  <!-- UNUSED -->
-  <PatientGoToBed.label>UNUSED</PatientGoToBed.label>
-  <PatientGoToBed.verb>UNUSED</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>UNUSED</PatientGoToBed.gerund>
-  
-  <!-- UNUSED -->
-  <PatientGoToBedEmergency.label>UNUSED</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>UNUSED</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>UNUSED</PatientGoToBedEmergency.gerund>
-  
   <!-- EN: go to bed for emergency treatment -->
   <PatientGoToBedEmergencyTreatment.label>gå till säng för akutvård</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
@@ -473,11 +448,6 @@
   <PlantsCut.gerund>beskär</PlantsCut.gerund>
   <!-- EN: cut -->
   <PlantsCut.verb>beskär</PlantsCut.verb>
-  
-  <!-- UNUSED -->
-  <RearmTraps.verb>UNUSED</RearmTraps.verb>
-  <RearmTraps.gerund>UNUSED</RearmTraps.gerund>
-  <RearmTraps.label>UNUSED</RearmTraps.label>
   
   <!-- EN: rearm turrets -->
   <RearmTurrets.label>rearmera kanontorn</RearmTurrets.label>
