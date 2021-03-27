@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: monkey -->
-  <Monkey.label>Apa</Monkey.label>
+  <Monkey.label>apa</Monkey.label>
   <!-- EN: left clavicle -->
   <Monkey.corePart.parts.left_clavicle.customLabel>vänster clavicula</Monkey.corePart.parts.left_clavicle.customLabel>
   <!-- EN: right clavicle -->
@@ -76,7 +76,7 @@
   <!-- EN: left fourth toe -->
   <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>vänster fjärde tå</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
   <!-- EN: left middle toe -->
-  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>vänster mellantå</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>vänster mittentå</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
   <!-- EN: left second toe -->
   <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>vänster andra tå</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
   <!-- EN: left big toe -->
@@ -94,7 +94,7 @@
   <!-- EN: right fourth toe -->
   <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>höger fjärde tå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
   <!-- EN: right middle toe -->
-  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>höger mellantå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>höger mittentå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
   <!-- EN: right second toe -->
   <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>höger andra tå</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->

@@ -29,7 +29,7 @@
   <FrontLeftPaw.labelShort>tass</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
-  <FrontRightClaws.label> högra framklor</FrontRightClaws.label>
+  <FrontRightClaws.label>högra framklor</FrontRightClaws.label>
   <!-- EN: claws -->
   <FrontRightClaws.labelShort>klor</FrontRightClaws.labelShort>
   
@@ -94,7 +94,7 @@
   <Teeth.label>tänder</Teeth.label>
   
   <!-- EN: torso -->
-  <Torso.label>överkropp</Torso.label>
+  <Torso.label>bröstkorg</Torso.label>
   
   <!-- EN: beak -->
   <TurtleBeakAttackTool.label>näbb</TurtleBeakAttackTool.label>

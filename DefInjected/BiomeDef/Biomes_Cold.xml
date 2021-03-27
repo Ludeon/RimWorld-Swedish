@@ -4,26 +4,26 @@
   <!-- EN: boreal forest -->
   <BorealForest.label>tajga</BorealForest.label>
   <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
-  <BorealForest.description>En tajga består mest av barrskog. Trots de hårda vintrarna finns det fortfarande en mängd små och stora djurarter som kan överleva dessa svåra förhållanden.</BorealForest.description>
+  <BorealForest.description>En tajga består mest av barrskog. Trots de hårda vintrarna finns det fortfarande en mängd små och stora djurarter som kan överleva dessa svåra förhållanden, har dock varma sommrar.</BorealForest.description>
   
   <!-- EN: cold bog -->
   <ColdBog.label>kallmosse</ColdBog.label>
   <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
-  <ColdBog.description>En våtmark fylld med träd och klängväxter. Mycket av den sumpiga marken bär inte tunga konstruktioner, förflyttning går långsamt på grund av den täta vegetationen. Sjukdomar är endemiska i detta täta och våta ekosystem.</ColdBog.description>
+  <ColdBog.description>En våtmark fylld med träd och klängväxter. Mycket av den sumpiga marken bär inte tunga konstruktioner, att ta sig runt går långsamt på grund av den täta vegetationen. Sjukdomar är endemiska i detta täta och våta ekosystem.</ColdBog.description>
   
   <!-- EN: ice sheet -->
   <IceSheet.label>istäcke</IceSheet.label>
   <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
-  <IceSheet.description>Marken är täckt av ett flera kilometer tjockt lager is. Det finns varken odlingsbar mark. De enda djuren som finns här är påväg någon annanstans - eller mycket vilse.</IceSheet.description>
+  <IceSheet.description>Istäcke som på sina ställen kan vara flera kilometer tjockt. Det finns ingen jord för växter att slå rot i och de enda djuren som finns här är påväg någon annanstans - eller mycket vilse.</IceSheet.description>
   
   <!-- EN: sea ice -->
   <SeaIce.label>havsis</SeaIce.label>
   <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
-  <SeaIce.description>Permanenta isblock som flyter på vatten. Det finns ingen jord för växter att växa i, inga mineraler att bryta och mycket få djur.</SeaIce.description>
+  <SeaIce.description>Permanenta isflak. Det finns ingen jord för växter att slå rot i, inga mineraler att bryta och mycket få djur.</SeaIce.description>
   
   <!-- EN: tundra -->
   <Tundra.label>tundra</Tundra.label>
   <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
-  <Tundra.description>På dessa oftast frusna öppna ytor finns det nästan ingen vegetation eller träd. Djurlivet består av ett antal mindre smådjur varvat med stora hjordar av betesdjur som är påväg mot andra marker - med rovdjur i sitt följe.</Tundra.description>
+  <Tundra.description>På dessa oftast frusna öppna ytor finns det nästan inga träd eller vegetation. Djurlivet består av ett antal mindre smådjur, varvat med stora hjordar av betesdjur som är påväg mot andra marker - med rovdjur i sitt följe.</Tundra.description>
   
 </LanguageData>

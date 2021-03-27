@@ -4,16 +4,16 @@
   <!-- EN: arid shrubland -->
   <AridShrubland.label>torrt busklandskap</AridShrubland.label>
   <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
-  <AridShrubland.description>Ett torrt område men inte torrt nog för att bli en riktig öken. Öppna slätter med gräs och buskar ger vika för enstaka grupper av träd. Här samsas den härdade floran med en del vilddjur, men odlingsbar mark är svår att hitta. .</AridShrubland.description>
+  <AridShrubland.description>Ett torrt område men inte torrt nog för att bli en riktig öken. Öppna slätter med gräsväxter och buskar ger vika för små dungar med träd. Här samsas den härdade floran med en del vilddjur men odlingsbar mark är svår att hitta.</AridShrubland.description>
   
   <!-- EN: desert -->
   <Desert.label>Öken</Desert.label>
   <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
-  <Desert.description>Ett mycket torrt område som främjar mycket lite växt- och djur-liv. Öknar kan vara mycket varma, eller relativt kyliga.</Desert.description>
+  <Desert.description>Ett mycket torrt område som främjar mycket lite växt- och djur-liv, här finns knappt någon odlingsbar mark. Öknar kan vara mycket varma, eller relativt kyliga.</Desert.description>
   
   <!-- EN: extreme desert -->
   <ExtremeDesert.label>Extrem öken</ExtremeDesert.label>
   <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
-  <ExtremeDesert.description>Ett extremt varmt och torrt område som nästan helt och hållet saknar djur- och växt-liv. Den starka hettan och nästintill ingen odlingsbar mark gör det väldigt svårt att leva här.</ExtremeDesert.description>
+  <ExtremeDesert.description>Ett extremt varmt och torrt område som nästan helt och hållet saknar liv. Den starka hettan och nästintill ingen odlingsbar mark gör det väldigt svårt att överleva här.</ExtremeDesert.description>
   
 </LanguageData>
