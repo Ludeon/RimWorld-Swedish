@@ -1,4 +1,4 @@
-﻿TODO
+﻿
 Secundus
 Primus
 Tertius
@@ -7,28 +7,16 @@ Pentimus
 Heximus
 Septimus
 Octus
-Nonus
-
 Minutus
-
 Borealis
 Australis
 Media
 Meridiana
 Posterious
 Prior
-
 Planet
 Värld
-
 al Rai
 al Asad
 al Samakah
 al Saif
-
-
-
-
-
-
-

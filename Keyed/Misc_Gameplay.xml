@@ -349,13 +349,13 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>inget aktivt forskningsprojekt</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
-  <Turret>torn</Turret>
+  <Turret>vapentorn</Turret>
   <!-- EN: turrets -->
-  <Turrets>torn</Turrets>
+  <Turrets>vapentorn</Turrets>
   <!-- EN: mortar -->
-  <Mortar>granatkastare</Mortar>
+  <Mortar>mörsare</Mortar>
   <!-- EN: mortars -->
-  <Mortars>granatkastare</Mortars>
+  <Mortars>mörsare</Mortars>
   <!-- EN: enemy -->
   <Enemy>fiende</Enemy>
 
@@ -401,7 +401,7 @@
   <!-- EN: Construction\nbotched -->
   <TextMote_ConstructionFail>Konstruktion\ntillklantad</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
-  <TextMote_Dodge>Ducka</TextMote_Dodge>
+  <TextMote_Dodge>Undvika</TextMote_Dodge>
   <!-- EN: {0} tended -->
   <TextMote_Tended>{0} behandlat</TextMote_Tended>
   <!-- EN: low mood -->
@@ -491,7 +491,7 @@
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>använder {0} på {1}.</UsingVerb>
   <!-- EN: area -->
-  <AreaLower>område</AreaLower>
+  <AreaLower>område.</AreaLower>
   <!-- EN: cowering. -->
   <ReportCowering>hukar.</ReportCowering>
   <!-- EN: standing. -->
