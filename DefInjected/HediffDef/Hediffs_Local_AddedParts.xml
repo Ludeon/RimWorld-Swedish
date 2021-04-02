@@ -51,9 +51,9 @@
   <BionicSpine.labelNoun>en bionisk ryggrad</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>bionisk mage</BionicStomach.label>
+  <BionicStomach.label>bionisk magsäck</BionicStomach.label>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>en bionisk mage</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>en bionisk magsäck</BionicStomach.labelNoun>
   
   <!-- EN: cochlear implant -->
   <CochlearImplant.label>hörselimplantat</CochlearImplant.label>
@@ -78,11 +78,11 @@
   <PowerClaw.labelNoun>en kraftklo</PowerClaw.labelNoun>
   
   <!-- EN: prosthetic arm -->
-  <SimpleProstheticArm.label>enkel armprotes</SimpleProstheticArm.label>
+  <SimpleProstheticArm.label>armprotes</SimpleProstheticArm.label>
   <!-- EN: fist -->
   <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a prosthetic arm -->
-  <SimpleProstheticArm.labelNoun>en enkel armprotes</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.labelNoun>en armprotes</SimpleProstheticArm.labelNoun>
   
   <!-- EN: prosthetic heart -->
   <SimpleProstheticHeart.label>hjärtprotes</SimpleProstheticHeart.label>
@@ -90,9 +90,9 @@
   <SimpleProstheticHeart.labelNoun>en hjärtprotes</SimpleProstheticHeart.labelNoun>
   
   <!-- EN: prosthetic leg -->
-  <SimpleProstheticLeg.label>enkel benprotes</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.label> benprotes</SimpleProstheticLeg.label>
   <!-- EN: a prosthetic leg -->
-  <SimpleProstheticLeg.labelNoun>en enkel benprotes</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.labelNoun>en benprotes</SimpleProstheticLeg.labelNoun>
   
   <!-- EN: wooden foot -->
   <WoodenFoot.label>träfot</WoodenFoot.label>

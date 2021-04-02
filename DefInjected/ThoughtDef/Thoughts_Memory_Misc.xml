@@ -90,9 +90,9 @@
   <NewColonyOptimism.stages.initial_optimism.description>Vi landade precis här. Det är en tuff situation, men det är spännande att grunda en ny koloni.</NewColonyOptimism.stages.initial_optimism.description>
   
   <!-- EN: nuzzled -->
-  <Nuzzled.stages.nuzzled.label>kramad</Nuzzled.stages.nuzzled.label>
+  <Nuzzled.stages.nuzzled.label>nosgosad</Nuzzled.stages.nuzzled.label>
   <!-- EN: A cute animal nuzzled me. -->
-  <Nuzzled.stages.nuzzled.description>Ett sött djur kramade mig.</Nuzzled.stages.nuzzled.description>
+  <Nuzzled.stages.nuzzled.description>Ett sött djur nosgosade mig.</Nuzzled.stages.nuzzled.description>
   
   <!-- EN: observed corpse -->
   <ObservedLayingCorpse.stages.observed_corpse.label>såg död kropp</ObservedLayingCorpse.stages.observed_corpse.label>

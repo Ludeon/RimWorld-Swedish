@@ -11,7 +11,7 @@
   <!-- EN: payment demand -->
   <CaravanDemand.label>lösensumma</CaravanDemand.label>
   <CaravanDemand.letterLabel>Karavan i bakhåll</CaravanDemand.letterLabel>
-  <CaravanDemand.letterText>Er karavan har råkat i ett bakhåll av {0} från {1}!</CaravanDemand.letterText>
+  <CaravanDemand.letterText>Er karavan har utsatts för ett bakhåll av {0} från {1}!</CaravanDemand.letterText>
   
   <!-- EN: caravan meeting -->
   <CaravanMeeting.label>karavanmöte</CaravanMeeting.label>

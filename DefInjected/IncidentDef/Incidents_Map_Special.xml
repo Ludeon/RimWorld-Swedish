@@ -18,7 +18,7 @@
   <!-- EN: Man in black -->
   <StrangerInBlackJoin.letterLabel>Mannen i svart</StrangerInBlackJoin.letterLabel>
   <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
-  <StrangerInBlackJoin.letterText>Anandes trubbel dyker en mystisk [PAWN_kind] upp.\n\n Kommer [PAWN_pronoun] lyckas ställa saker till rätta här i trakterna?</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterText>Med en känsla för du är i knipa dyker en mystisk [PAWN_kind] upp.\n\n Kommer [PAWN_pronoun] lyckas ställa saker till rätta här i trakterna?</StrangerInBlackJoin.letterText>
   
   <!-- EN: trader caravan arrival -->
   <TraderCaravanArrival.label>handelskaravan anländer</TraderCaravanArrival.label>

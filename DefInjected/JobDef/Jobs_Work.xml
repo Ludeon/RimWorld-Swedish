@@ -53,10 +53,10 @@
   <HarvestDesignated.reportString>skördar TargetA</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToCell.reportString>fraktar TargetA.</HaulToCell.reportString>
+  <HaulToCell.reportString>bär TargetA.</HaulToCell.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToContainer.reportString>fraktar TargetA.</HaulToContainer.reportString>
+  <HaulToContainer.reportString>bär på TargetA.</HaulToContainer.reportString>
   
   <!-- EN: hunting TargetA. -->
   <Hunt.reportString>jagar TargetA.</Hunt.reportString>
@@ -86,7 +86,7 @@
   <PrisonerExecution.reportString>avrättar TargetA.</PrisonerExecution.reportString>
   
   <!-- EN: releasing TargetA. -->
-  <ReleasePrisoner.reportString>Friger TargetA.</ReleasePrisoner.reportString>
+  <ReleasePrisoner.reportString>friger TargetA.</ReleasePrisoner.reportString>
   
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>river golv.</RemoveFloor.reportString>
@@ -125,7 +125,7 @@
   <TakeToBedToOperate.reportString>hjälper TargetA till sängs.</TakeToBedToOperate.reportString>
   
   <!-- EN: taking wounded prisoner TargetA. -->
-  <TakeWoundedPrisonerToBed.reportString>tar tillfångatagna TargetA.</TakeWoundedPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>tar skadade fången TargetA.</TakeWoundedPrisonerToBed.reportString>
   
   <!-- EN: taming TargetA. -->
   <Tame.reportString>tämjer TargetA.</Tame.reportString>

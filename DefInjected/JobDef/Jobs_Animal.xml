@@ -11,7 +11,7 @@
   <Mate.reportString>parar sig med TargetA.</Mate.reportString>
   
   <!-- EN: nuzzling TargetA. -->
-  <Nuzzle.reportString>gosar med TargetA.</Nuzzle.reportString>
+  <Nuzzle.reportString>nosgosar med TargetA.</Nuzzle.reportString>
   
   <!-- EN: hunting TargetA. -->
   <PredatorHunt.reportString>jagar TargetA.</PredatorHunt.reportString>

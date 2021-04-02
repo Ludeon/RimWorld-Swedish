@@ -421,9 +421,9 @@
   <!-- EN: Requires this level of Construction in order to build. -->
   <ConstructionSkillRequiredExplanation>Kräver denna nivå av Konstruktion för att kunna byggas.</ConstructionSkillRequiredExplanation>
   <!-- EN: Nuzzle interval -->
-  <NuzzleInterval>Gosintervall</NuzzleInterval>
+  <NuzzleInterval>Intervall för nosgos</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>Hur ofta ett djur kommer att gosa med vänliga kolonister i genomsnitt.\n\nGosa är ett beteende som delas av många djurarter där djuret pressar sin näsa eller nosparti mot en vän som ett tecken på kärlek. De flesta människor tycker detta är sött och det kommer att ge dem gott humör under en tidsperiod.</NuzzleIntervalExplanation>
+  <NuzzleIntervalExplanation>Hur ofta ett djur kommer att gosa med vänliga kolonister i genomsnitt.\n\nNosgos är ett beteende som delas av många djurarter där djuret pressar sin näsa eller nosparti mot en vän som ett tecken på kärlek. De flesta människor tycker detta är sött och det kommer att ge dem gott humör under en tidsperiod.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Chans att hämnas vid skada</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->

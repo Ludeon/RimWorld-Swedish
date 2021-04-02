@@ -4,7 +4,7 @@
   <!-- EN: aurora -->
   <Aurora.label>norrsken</Aurora.label>
   <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
-  <Aurora.description>Ett norrsken lyser upp himlen. Den fantastiska synen höjer sinnesstämmningen för de som är utomhus.</Aurora.description>
+  <Aurora.description>Ett norrsken lyser upp himlen. Denna fantastiska syn höjer sinnesstämmningen för de som är utomhus.</Aurora.description>
   <!-- EN: The aurora is ending. -->
   <Aurora.endMessage>Norrskenet avtar.</Aurora.endMessage>
   
@@ -14,37 +14,37 @@
   <ClimateCycle.description>En flerårig klimatcykel på grund av en elliptisk bana.</ClimateCycle.description>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>Köldknäpp</ColdSnap.label>
+  <ColdSnap.label>köldknäpp</ColdSnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
-  <ColdSnap.description>En ovanlig köldknäpp fryser regionen.</ColdSnap.description>
+  <ColdSnap.description>En ovanlig köldknäpp förfryser regionen.</ColdSnap.description>
   <!-- EN: The cold snap is over. -->
   <ColdSnap.endMessage>Köldknäppen avtar.</ColdSnap.endMessage>
   
   <!-- EN: eclipse -->
   <Eclipse.label>solförmörkelse</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
-  <Eclipse.description>En solförmörkelse skuggar landområdet. Det blir mörkt, även under dagtid.</Eclipse.description>
+  <Eclipse.description>En solförmörkelse skuggar marken. Det blir mörkt, även dagtid.</Eclipse.description>
   <!-- EN: The eclipse is ending. -->
   <Eclipse.endMessage>Solförmörkelsen avtar.</Eclipse.endMessage>
   
   <!-- EN: flashstorm -->
   <Flashstorm.label>blixtoväder</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
-  <Flashstorm.description>Extrema mängder blixtar träffar en begränsad yta.</Flashstorm.description>
+  <Flashstorm.description>Mängder av blixtar träffar en liten yta.</Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
   <Flashstorm.endMessage>Blixtovädret avtar.</Flashstorm.endMessage>
   
   <!-- EN: heat wave -->
   <HeatWave.label>värmebölja</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
-  <HeatWave.description>En extrem värmebölja gör omgivningen stekhet.</HeatWave.description>
+  <HeatWave.description>En extrem värmebölja, det är stekhett utomhus.</HeatWave.description>
   <!-- EN: The heat wave is over. -->
   <HeatWave.endMessage>Värmeböljan avtar.</HeatWave.endMessage>
   
   <!-- EN: planetkiller -->
   <Planetkiller.label>planetförstörare</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>Ett interstellärt planetförstörande vapen närmar sig denna planet. Det kommer krossa planeten i bitar likt en gevärskula när den träffar ett ägg, och kommer tillintetgöra allt liv.</Planetkiller.description>
+  <Planetkiller.description>Ett interstellärt planetförstörande vapen närmar sig denna planet. Det kommer krossa planeten i bitar likt en gevärskula när den träffar ett ägg och kommer tillintetgöra allt liv.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
   <PsychicDrone.label>psykisk puls</PsychicDrone.label>
@@ -70,14 +70,14 @@
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>giftnedfall</ToxicFallout.label>
   <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
-  <ToxicFallout.description>En plym av giftigt damm från någon avlägsen källa lägger sig långsamt över hela området. Alla levande varelser som ej befinner sig under tak kommer sakta att förgiftas, föremål som lämnas utomhus korroderar.</ToxicFallout.description>
+  <ToxicFallout.description>En plym av giftigt damm från någon avlägsen plats lägger sig långsamt över hela området. Alla levande varelser som inte befinner sig under tak kommer sakta att förgiftas, föremål som lämnas utomhus korroderar.</ToxicFallout.description>
   <!-- EN: The worst of the toxic fallout has settled. -->
   <ToxicFallout.endMessage>Det värsta av giftnedfallet har lagt sig.</ToxicFallout.endMessage>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>vulkanisk vinter</VolcanicWinter.label>
   <!-- EN: A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
-  <VolcanicWinter.description>En avlägsen vulkan har kvävt atmosvären med vulkaniska partiklar, vilket märkbart reducerar soljuset. Temperaturen kommer sjunka och plantor kommer växa långsammare.</VolcanicWinter.description>
+  <VolcanicWinter.description>En avlägsen vulkan har kvävt atmosvären med vulkanaska vilket märkbart reducerar soljuset. Temperaturen kommer sjunka och plantor kommer växa långsammare.</VolcanicWinter.description>
   <!-- EN: Most of the volcanic ash has settled. -->
   <VolcanicWinter.endMessage>Den största delen av vulkanaskan har lagt sig.</VolcanicWinter.endMessage>
   

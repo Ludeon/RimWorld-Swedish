@@ -19,9 +19,9 @@
   <!-- EN: moderate -->
   <ResurrectionPsychosis.stages.moderate.label>medel</ResurrectionPsychosis.stages.moderate.label>
   <!-- EN: advanced -->
-  <ResurrectionPsychosis.stages.advanced.label>avancerad</ResurrectionPsychosis.stages.advanced.label>
+  <ResurrectionPsychosis.stages.advanced.label>svår</ResurrectionPsychosis.stages.advanced.label>
   <!-- EN: severe -->
-  <ResurrectionPsychosis.stages.severe.label>svår</ResurrectionPsychosis.stages.severe.label>
+  <ResurrectionPsychosis.stages.severe.label>allvarlig</ResurrectionPsychosis.stages.severe.label>
   <!-- EN: total -->
   <ResurrectionPsychosis.stages.total.label>total</ResurrectionPsychosis.stages.total.label>
   <!-- EN: catatonic -->

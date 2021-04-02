@@ -6,14 +6,14 @@
   <!-- EN: Aurora -->
   <Aurora.letterLabel>Norrsken</Aurora.letterLabel>
   <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
-  <Aurora.letterText>Ett vackert norrsken lyser upp himlen.\n\nDe böljande färgerna ökar stämningen hos de som är utomhus och ser dem, och gör natten ljusare.</Aurora.letterText>
+  <Aurora.letterText>Ett vackert norrsken lyser upp himlen.\n\nDe böljande färgerna ökar stämningen för de som är utomhus och ser dem, gör natten ljusare.</Aurora.letterText>
   
   <!-- EN: eclipse -->
   <Eclipse.label>solförmörkelse</Eclipse.label>
   <!-- EN: Eclipse -->
   <Eclipse.letterLabel>Solförmörkelse</Eclipse.letterLabel>
   <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
-  <Eclipse.letterText>En av planetens måne har rört sig framför solen. En solförmörkelse har inletts.</Eclipse.letterText>
+  <Eclipse.letterText>En av planetens månar har rört sig framför solen. En solförmörkelse har inletts.</Eclipse.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>soleruption</SolarFlare.label>

@@ -152,7 +152,7 @@
   <MessageGaveBirth>{0} har fött.</MessageGaveBirth>
 
   <!-- EN: {0} has named {1} {2} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{0} Har namngett {1} {2} efter att ha blivit kramad.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{0} Har namngett {1} {2} efter att ha blivit nosgosad.</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}). -->
   <MessageNoHandlerSkilledEnough>Ingen hanterare kan tämja {0} (det kräver nivå {1} i {2}, den bästa hanteraren {3} har {4}).</MessageNoHandlerSkilledEnough>

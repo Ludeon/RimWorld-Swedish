@@ -89,7 +89,7 @@
   <Crush.labelNounPretty>{0} i {1}</Crush.labelNounPretty>
   
   <!-- EN: cut -->
-  <Cut.label>knivhugg</Cut.label>
+  <Cut.label>skärsår</Cut.label>
   <!-- EN: set -->
   <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>omlagt</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->
@@ -103,12 +103,12 @@
   <!-- EN: Cut out -->
   <Cut.injuryProps.destroyedOutLabel>utskuret</Cut.injuryProps.destroyedOutLabel>
   <!-- EN: a cut -->
-  <Cut.labelNoun>ett knivhugg</Cut.labelNoun>
+  <Cut.labelNoun>ett skärsår</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Cut.labelNounPretty>{0} i {1}</Cut.labelNounPretty>
   
   <!-- EN: frostbite -->
-  <Frostbite.label>förfrysning</Frostbite.label>
+  <Frostbite.label>köldskada</Frostbite.label>
   <!-- EN: set -->
   <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>omhändertaget</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
   <!-- EN: bandaged -->

@@ -9,14 +9,14 @@
   <!-- EN: Ambrosia sprout -->
   <AmbrosiaSprout.letterLabel>Ambrosiagroddar</AmbrosiaSprout.letterLabel>
   <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>En lund av den mystiska ambrosiabusken har börjat gro i närheten! Om du väntar på att plantorna växer upp kommer du kunna skörda dess läckra, njutbara, smått beroendeframkallande frukt.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>En lund av den mystiska ambrosiabusken har börjat gro i närheten! Om du väntar på att plantorna växer upp kommer du kunna skörda dess läckra, njutbara och smått beroendeframkallande frukt.</AmbrosiaSprout.letterText>
   
   <!-- EN: cold snap -->
   <ColdSnap.label>köldknäpp</ColdSnap.label>
   <!-- EN: Cold snap -->
   <ColdSnap.letterLabel>Köldknäpp</ColdSnap.letterLabel>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>En ovanlig köldknäpp har startat.\n\nKöldknäppar kan snabbt bli dödliga genom hypertermi. Se till att bygga uppvärmda rum för att överleva, klä dig efter väder, försök skörda odlade grödor innan de förfryser och dör.</ColdSnap.letterText>
+  <ColdSnap.letterText>En ovanlig köldknäpp har startat.\n\nKöldknäppar kan snabbt bli dödliga genom hypertermi. Se till att bygga uppvärmda rum för att överleva, klä dig efter väder och försök skörda odlade grödor innan de förfryser och dör.</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
   <CropBlight.label>mjöldagg</CropBlight.label>
@@ -86,14 +86,14 @@
   <!-- EN: Toxic fallout -->
   <ToxicFallout.letterLabel>Giftnedfall</ToxicFallout.letterLabel>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
-  <ToxicFallout.letterText>En avlägsen kemisk eld har släppt ut en plym av gift över hela regionen.\n\nAlla personer och djur som inte befinner sig under tak kommer sakta bli sjuka av det giftiga dammet som spritts ut i atmosfären.\n\nDetta kommer vara allt från några dagar, till över en årstid.</ToxicFallout.letterText>
+  <ToxicFallout.letterText>En avlägsen kemisk eld har släppt ut en plym av gift över hela regionen.\n\nAlla personer och djur som inte befinner sig under tak kommer sakta bli sjuka av det giftiga dammet som spritts ut i atmosfären.\n\nDetta kommer vara allt från några dagar till över en årstid.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>vulkanisk vinter</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
   <VolcanicWinter.letterLabel>Vulkanisk vinter</VolcanicWinter.letterLabel>
   <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>En avlägsen supervulkan har fått ett utbrott och börjat sprida ut miljontals kubikkilometer av aska i atmosfären.\n\nAskan i atmosfären kommer att fördunkla solen. Temperaturen kommer sjunka och växter kommer att lida av för dåligt med solsken. Det kan försvinna inom några veckor eller vara i några månader.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>En avlägsen supervulkan har fått ett utbrott och börjat sprida ut miljontals kubikkilometer av aska i atmosfären.\n\nAskan i atmosfären kommer att fördunkla solen. Temperaturen kommer sjunka och växter kommer att lida av för dåligt med solljus. Det kan försvinna inom några veckor eller vara i några månader.</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>vandrare ansluter</WandererJoin.label>

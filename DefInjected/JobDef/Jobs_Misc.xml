@@ -38,16 +38,16 @@
   <FleeAndCower.reportString>springer och gömmer sig.</FleeAndCower.reportString>
   
   <!-- EN: flicking switch. -->
-  <Flick.reportString>knäpper på en knapp.</Flick.reportString>
+  <Flick.reportString>använder en knapp.</Flick.reportString>
   
   <!-- EN: following TargetA. -->
-  <Follow.reportString>följer efter</Follow.reportString>
+  <Follow.reportString>följer efter TargetA</Follow.reportString>
   
   <!-- EN: following TargetA. -->
-  <FollowClose.reportString>förföljer</FollowClose.reportString>
+  <FollowClose.reportString>förföljer TargetA</FollowClose.reportString>
   
   <!-- EN: taking TargetA. -->
-  <GiveToPackAnimal.reportString>tar till TargetA.</GiveToPackAnimal.reportString>
+  <GiveToPackAnimal.reportString>tar TargetA.</GiveToPackAnimal.reportString>
   
   <!-- EN: moving. -->
   <Goto.reportString>går.</Goto.reportString>
@@ -56,13 +56,13 @@
   <GotoSafeTemperature.reportString>uppsöker säker temperatur.</GotoSafeTemperature.reportString>
   
   <!-- EN: wandering. -->
-  <GotoWander.reportString>går omkring..</GotoWander.reportString>
+  <GotoWander.reportString>vandrar omkring.</GotoWander.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulCorpseToPublicPlace.reportString>transporterar TargetA.</HaulCorpseToPublicPlace.reportString>
+  <HaulCorpseToPublicPlace.reportString>flyttar på TargetA.</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToTransporter.reportString>fraktar TargetA</HaulToTransporter.reportString>
+  <HaulToTransporter.reportString>bär TargetA</HaulToTransporter.reportString>
   
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>tänder eld på TargetA.</Ignite.reportString>
@@ -80,13 +80,13 @@
   <LayDown.reportString>lägger sig ned.</LayDown.reportString>
   
   <!-- EN: lovin'. -->
-  <Lovin.reportString>Kopulerar.</Lovin.reportString>
+  <Lovin.reportString>kopulerar.</Lovin.reportString>
   
   <!-- EN: operating turret. -->
   <ManTurret.reportString>bemannar kanontorn.</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
-  <OfferHelp.reportString>Hjälper TargetA</OfferHelp.reportString>
+  <OfferHelp.reportString>hjälper TargetA</OfferHelp.reportString>
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>öppnar TargetA.</Open.reportString>
@@ -116,7 +116,7 @@
   <Strip.reportString>klär av TargetA.</Strip.reportString>
   
   <!-- EN: taking beer out of TargetA. -->
-  <TakeBeerOutOfFermentingBarrel.reportString>tar en öl ur TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>tar en öl från TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA. -->
   <TakeInventory.reportString>tar TargetA.</TakeInventory.reportString>
@@ -131,19 +131,19 @@
   <UnloadInventory.reportString>lastar av TargetA.</UnloadInventory.reportString>
   
   <!-- EN: unloading inventory. -->
-  <UnloadYourInventory.reportString>lossar saker.</UnloadYourInventory.reportString>
+  <UnloadYourInventory.reportString>släpper saker.</UnloadYourInventory.reportString>
   
   <!-- EN: activating artifact. -->
   <UseArtifact.reportString>aktiverar artifakt.</UseArtifact.reportString>
   
   <!-- EN: using TargetA. -->
-  <UseItem.reportString>Använder TargetA.</UseItem.reportString>
+  <UseItem.reportString>använder TargetA.</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
   <UseNeurotrainer.reportString>använder neurotränare.</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>Gör någonting.</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>gör någonting.</UseVerbOnThing.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>kräks.</Vomit.reportString>
@@ -161,7 +161,7 @@
   <Wait_MaintainPosture.reportString>står.</Wait_MaintainPosture.reportString>
   
   <!-- EN: waiting in safe temperature. -->
-  <Wait_SafeTemperature.reportString>väntar, i säker temperatur.</Wait_SafeTemperature.reportString>
+  <Wait_SafeTemperature.reportString>väntar i säker temperatur.</Wait_SafeTemperature.reportString>
   
   <!-- EN: wandering. -->
   <Wait_Wander.reportString>vandrar omkring.</Wait_Wander.reportString>

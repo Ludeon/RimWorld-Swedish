@@ -32,28 +32,28 @@
     <li>r_logentry->[INITIATOR_nameDef] satt nära [RECIPIENT_nameDef] och pratade för sig själv om [TalkTopicAny].</li>
     <li>r_logentry->[INITIATOR_nameDef] närmade sig [RECIPIENT_nameDef] och viskade för sig själv om [TalkTopicAny].</li>
     <li>r_logentry->[INITIATOR_nameDef] kom nära [RECIPIENT_nameDef] och pratade för sig själv om [TalkTopicAny].</li>
-    <li>tamed->gjorde lugnande ljud mot</li>
-    <li>tamed->visade lugna och vänliga gester till</li>
-    <li>tamed->gjorde tystande ljud till</li>
-    <li>tamed->gjorde glade klickande ljud till</li>
+    <li>tamed->gjorde lugnande läten för</li>
+    <li>tamed->visade lugna och vänliga gester för</li>
+    <li>tamed->gjorde hyschande ljud åt</li>
+    <li>tamed->gjorde glade klickande ljud för</li>
     <li>tamed->gestikulerade vänligt och närmade sig</li>
     <li>tamed->närmade sig långsamt</li>
     <li>tamed->rörde försiktigt</li>
-    <li>tamed->lugnade och befrämjade</li>
-    <li>tamed->anpassade sin andning till</li>
-    <li>tamed->tog en låg hållning när de närmade sig</li>
-    <li>tamed->visade ingen räddsla eller ilska mot</li>
-    <li>tamed->låtsades vara ouppmärksam mot</li>
-    <li>tamed->hummade försiktigt en sång till</li>
+    <li>tamed->lugnade och uppmuntrade</li>
+    <li>tamed->andades i takt med</li>
+    <li>tamed->hukade och närmade sig</li>
+    <li>tamed->visade varken räddsla eller ilska gentemot</li>
+    <li>tamed->låtsades ouppmärksamma</li>
+    <li>tamed->hummade försiktigt en sång för</li>
     <li>tamed->sjöng en gammal vaggvisa för</li>
     <li>tamed->rörde bestämt men mjukt vid</li>
-    <li>tamed->visade en avslappnad attityd</li>
+    <li>tamed->visade en avslappnad attityd gentemot</li>
     <li>tamed->satt tålmodigt nära</li>
     <li>tamed->viskade en berättelse om [TalkTopicAny] för</li>
   </AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
-  <Nuzzle.label>gosa</Nuzzle.label>
+  <Nuzzle.label>nosgos</Nuzzle.label>
   <!-- EN:
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
@@ -83,7 +83,7 @@
   <Nuzzle.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] gnuggade [INITIATOR_possessive] nos mot [RECIPIENT_nameDef]s [rubbedpart].</li>
-    <li>nuzzled(p=2)->gosad</li>
+    <li>nuzzled(p=2)->nosgosad</li>
     <li>nuzzled->kröp upp mot</li>
     <li>nuzzleadverb(p=4)-></li>
     <li>nuzzleadverb->försiktigt</li>
@@ -131,15 +131,15 @@
     <li>r_logentry->[INITIATOR_nameDef] försökte få [RECIPIENT_nameDef] under kontrol.</li>
     <li>r_logentry->[INITIATOR_nameDef] försökte sätta halsband på [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] krävde lydnad av [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] ropade [RECIPIENT_nameDef] att komma till [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ropade för att få [RECIPIENT_nameDef] att komma till [INITIATOR_objective].</li>
     <li>r_logentry->[INITIATOR_nameDef] försökte få [RECIPIENT_nameDef] att sitta stilla.</li>
-    <li>r_logentry->[INITIATOR_nameDef] högg skarpt tag i [RECIPIENT_nameDef] och ropade ett komando.</li>
+    <li>r_logentry->[INITIATOR_nameDef] högg tag i [RECIPIENT_nameDef] och ropade ett komando.</li>
     <li>r_logentry->[INITIATOR_nameDef] försökte hålla [RECIPIENT_nameDef] stilla.</li>
     <li>r_logentry->[INITIATOR_nameDef] ropade ett kommando till [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] smällde till [RECIPIENT_nameDef] för att visa dominans.</li>
-    <li>r_logentry->[INITIATOR_nameDef] styrde [RECIPIENT_nameDef] tillbaka till samhället.</li>
-    <li>r_logentry->[INITIATOR_nameDef] ropade åt [RECIPIENT_nameDef] att komma tillbaka till samhället.</li>
-    <li>r_logentry->[INITIATOR_nameDef] rörde en känslig del på [RECIPIENT_nameDef] och krävde lydnad.</li>
+    <li>r_logentry->[INITIATOR_nameDef] styrde [RECIPIENT_nameDef] tillbaka till bostaden.</li>
+    <li>r_logentry->[INITIATOR_nameDef] ropade åt [RECIPIENT_nameDef] att komma tillbaka.</li>
+    <li>r_logentry->[INITIATOR_nameDef] vidrörde en känslig del på [RECIPIENT_nameDef] och krävde lydnad.</li>
     <li>r_logentry->[INITIATOR_nameDef] pekade på marken och krävde att [RECIPIENT_nameDef] kom.</li>
     <li>r_logentry->[INITIATOR_nameDef] gav [RECIPIENT_nameDef] ett första kommando.</li>
   </TameAttempt.logRulesInitiator.rulesStrings>
@@ -160,11 +160,11 @@
   -->
   <TrainAttempt.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
-    <li>trained(p=2)->[tried] träna</li>
-    <li>trained->[tried] visa ett nytt trick för</li>
-    <li>trained->[tried] disiplinera</li>
-    <li>trained->[tried] instruera</li>
-    <li>trained->[tried] uppmuntra till en ny färdighet för</li>
+    <li>trained(p=2)->[tried] att träna</li>
+    <li>trained->[tried] att visa ett nytt trick för</li>
+    <li>trained->[tried] att disiplinera</li>
+    <li>trained->[tried] att instruera</li>
+    <li>trained->[tried] uppmuntra till ny färdighet</li>
     <li>trained->visade en färdighet för</li>
     <li>trained->uppmuntrade till en ny respons från</li>
     <li>tried->prövade</li>
