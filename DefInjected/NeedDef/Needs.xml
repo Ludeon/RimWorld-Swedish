@@ -4,7 +4,7 @@
   <!-- EN: beauty -->
   <Beauty.label>skönhet</Beauty.label>
   <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
-  <Beauty.description>Skönhet visar hur visuellt tilltalande en person tycker omgivningen varit nyligen. Vackra saker tillexempel konst ökar den upplevda skönheten, medan fula saker som tex smuts och grova stenytor drar ned den.</Beauty.description>
+  <Beauty.description>Skönhet visar hur visuellt tilltalande en person tycker omgivningen varit nyligen. Vackra saker tillexempel konst ökar den upplevda skönheten, medan fula saker som t.ex smuts och grova stenytor drar ned den.</Beauty.description>
   
   <!-- EN: comfort -->
   <Comfort.label>komfort</Comfort.label>
@@ -19,7 +19,7 @@
   <!-- EN: recreation -->
   <Joy.label>fritid</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
-  <Joy.description>fritid representerar behovet av att ha roligt. Att repetera samma aktivitet är inte särskilt kul, så varriation behövs.</Joy.description>
+  <Joy.description>Fritid representerar behovet av att ha roligt. Att repetera samma aktivitet är inte särskilt kul, så varriation behövs.</Joy.description>
   
   <!-- EN: mood -->
   <Mood.label>humör</Mood.label>
@@ -27,9 +27,9 @@
   <Mood.description>Humör representerar hur glad eller stressad någon är. Om humöret sjunker för lågt kan personen bryta ihop. Beroende på hur lågt en persons humör är kan någon få ett psykbryt och gömma sig i sitt rum under en dag, eller gå och ha ihjäl någon.</Mood.description>
   
   <!-- EN: outdoors -->
-  <Outdoors.label>Utomhus</Outdoors.label>
+  <Outdoors.label>utomhus</Outdoors.label>
   <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
-  <Outdoors.description>Utomhus anger behovet av att inte känna sig inburad innomhus och behov av frisk luft. Det försämras av att spendera långa perioder innomhus, särskilt under jord. Det ökar när någon spenderar tid utomhus under himmlen, särskilt utomhus. Det handlar inte om storleken på rum, utan behovet av att vara just utomhus lite då och då. En brist på att få spendera tid utomhus i den friska luften är oftast en svår utmaning för personer som bor i underjordiska baser.</Outdoors.description>
+  <Outdoors.description>Utomhus anger behovet av att inte känna sig inburad innomhus och behov av frisk luft. Det försämras av att spendera långa perioder innomhus, särskilt under jord. Det ökar när någon spenderar tid utomhus under himmlen, särskilt utomhus. Det handlar inte om storleken på rum, utan behovet av att vara just utomhus lite då och då. Brist på att få spendera tid utomhus i den friska luften är oftast en svår utmaning för personer som bor i underjordiska baser.</Outdoors.description>
   
   <!-- EN: rest -->
   <Rest.label>vila</Rest.label>
@@ -37,7 +37,7 @@
   <Rest.description>Vila är hur mycket sömn en varelse har fått nyligen. Om det når noll, kan det hända att varelsen somnar på fläcken oberoende av var den är.</Rest.description>
   
   <!-- EN: room size -->
-  <RoomSize.label>Rumsstorlek</RoomSize.label>
+  <RoomSize.label>rumsstorlek</RoomSize.label>
   
   
 </LanguageData>

@@ -15,12 +15,12 @@
   <StrangerInBlack.labelPlural>främlingar i svart</StrangerInBlack.labelPlural>
   
   <!-- EN: wild man -->
-  <WildMan.label>vilde</WildMan.label>
+  <WildMan.label>vild man</WildMan.label>
   <!-- EN: wild woman -->
-  <WildMan.labelFemale>kvninnliga vildar</WildMan.labelFemale>
+  <WildMan.labelFemale>vild kvinna</WildMan.labelFemale>
   <!-- EN: wild women -->
-  <WildMan.labelFemalePlural>vilde</WildMan.labelFemalePlural>
+  <WildMan.labelFemalePlural>vilda kvinnor</WildMan.labelFemalePlural>
   <!-- EN: wild men -->
-  <WildMan.labelPlural>manliga vildar</WildMan.labelPlural>
+  <WildMan.labelPlural>vilda män</WildMan.labelPlural>
   
 </LanguageData>

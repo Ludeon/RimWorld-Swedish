@@ -28,7 +28,7 @@
   <!-- EN: {0} is fleeing in panic. -->
   <PanicFlee.beginLetter>{0} flyr i panik.</PanicFlee.beginLetter>
   <!-- EN: flee -->
-  <PanicFlee.beginLetterLabel>fly</PanicFlee.beginLetterLabel>
+  <PanicFlee.beginLetterLabel>flyr</PanicFlee.beginLetterLabel>
   <!-- EN: {0} is no longer fleeing in panic. -->
   <PanicFlee.recoveryMessage>{0} flyr inte längre i panik.</PanicFlee.recoveryMessage>
   

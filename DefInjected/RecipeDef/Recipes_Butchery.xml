@@ -9,10 +9,10 @@
   <ButcherCorpseFlesh.jobString>Styckar.</ButcherCorpseFlesh.jobString>
   
   <!-- EN: disassemble mechanoid -->
-  <ButcherCorpseMechanoid.label>plocka isär mekanoid</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>Demontera mekanoid</ButcherCorpseMechanoid.label>
   <!-- EN: Disassemble a dead mechanoid into its component parts. -->
   <ButcherCorpseMechanoid.description>Plockar isär en död mekanoid till dess komponenter.</ButcherCorpseMechanoid.description>
   <!-- EN: Disassembling mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>Plockar isär mekanoid.</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>Demonterar mekanoid.</ButcherCorpseMechanoid.jobString>
   
 </LanguageData>

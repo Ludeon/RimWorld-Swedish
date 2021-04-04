@@ -6,7 +6,7 @@
   <!-- EN: Make animal kibble by combining raw meat and plants. -->
   <Make_Kibble.description>Tillverka djurfoder genom att blanda rått kött och växter.</Make_Kibble.description>
   <!-- EN: Making kibble. -->
-  <Make_Kibble.jobString>Tillverka djurfoder.</Make_Kibble.jobString>
+  <Make_Kibble.jobString>Tillverkar djurfoder.</Make_Kibble.jobString>
   
   <!-- EN: make pemmican -->
   <Make_Pemmican.label>tillverka pemmikan</Make_Pemmican.label>

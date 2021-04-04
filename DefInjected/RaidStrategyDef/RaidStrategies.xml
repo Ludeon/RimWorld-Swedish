@@ -25,7 +25,7 @@
   <ImmediateAttackSmart.letterLabelFriendly>Vänner</ImmediateAttackSmart.letterLabelFriendly>
   
   <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
-  <Siege.arrivalTextEnemy>Det ser ut som att de kommer att belägra din koloni och bombardera dig med sitt artilleri. Du kan försöka vänta ut dem - eller attackera i förväg.</Siege.arrivalTextEnemy>
+  <Siege.arrivalTextEnemy>Det ser ut som att de kommer att belägra din koloni och bombardera dig med sitt artilleri på avstånd. Du kan försöka vänta ut dem - eller attackera i förväg.</Siege.arrivalTextEnemy>
   <!-- EN: It looks like they want to use siege tactics to help you. -->
   <Siege.arrivalTextFriendly>Det ser ut som att de kommer använda en belägringstaktik för att hjälpa dig.</Siege.arrivalTextFriendly>
   <!-- EN: Siege -->
@@ -36,7 +36,7 @@
   <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
   <StageThenAttack.arrivalTextEnemy>De kommer förbereda sig innan de attackerar.\n\nFörbered ett försvar eller attackera dem i förväg.</StageThenAttack.arrivalTextEnemy>
   <!-- EN: They will prepare for a while before moving in to help you. -->
-  <StageThenAttack.arrivalTextFriendly>De behöver förbereda sig innan de kommer och hjälper dig.</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.arrivalTextFriendly>De behöver förbereda sig en stund innan de kommer och hjälper dig.</StageThenAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
   <StageThenAttack.letterLabelEnemy>Räd</StageThenAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->

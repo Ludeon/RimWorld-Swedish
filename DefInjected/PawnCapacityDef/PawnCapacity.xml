@@ -20,7 +20,7 @@
   <Consciousness.labelMechanoids>Datorprocesser</Consciousness.labelMechanoids>
   
   <!-- EN: eating -->
-  <Eating.label>äter</Eating.label>
+  <Eating.label>äta</Eating.label>
   
   <!-- EN: hearing -->
   <Hearing.label>hörsel</Hearing.label>
@@ -38,8 +38,8 @@
   <Sight.label>syn</Sight.label>
   
   <!-- EN: talking -->
-  <Talking.label>pratar</Talking.label>
+  <Talking.label>tal</Talking.label>
   <!-- EN: Communication -->
-  <Talking.labelMechanoids>kommunikation</Talking.labelMechanoids>
+  <Talking.labelMechanoids>Kommunikation</Talking.labelMechanoids>
   
 </LanguageData>

@@ -30,9 +30,9 @@
   <ParentInLaw.labelFemale>svärmor</ParentInLaw.labelFemale>
   
   <!-- EN: husband -->
-  <Spouse.label>man</Spouse.label>
+  <Spouse.label>make</Spouse.label>
   <!-- EN: wife -->
-  <Spouse.labelFemale>fru</Spouse.labelFemale>
+  <Spouse.labelFemale>maka</Spouse.labelFemale>
   
   <!-- EN: stepson -->
   <Stepchild.label>styvson</Stepchild.label>

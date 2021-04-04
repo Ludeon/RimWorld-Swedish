@@ -11,8 +11,8 @@
   <Cousin.labelFemale>kusin</Cousin.labelFemale>
   
   <!-- EN: cousin once removed -->
-  <CousinOnceRemoved.label>syssling</CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>syssling</CousinOnceRemoved.labelFemale>
+  <CousinOnceRemoved.label>föräldrars syssling</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>föräldrars sysslingar</CousinOnceRemoved.labelFemale>
   
   <!-- EN: grandson -->
   <Grandchild.label>barnbarn</Grandchild.label>
@@ -20,9 +20,9 @@
   <Grandchild.labelFemale>barnbarn</Grandchild.labelFemale>
   
   <!-- EN: grandnephew -->
-  <GrandnephewOrGrandniece.label>gammelsyskon</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.label>syskonbarns barnbarn</GrandnephewOrGrandniece.label>
   <!-- EN: grandniece -->
-  <GrandnephewOrGrandniece.labelFemale>gammelsyskon</GrandnephewOrGrandniece.labelFemale>
+  <GrandnephewOrGrandniece.labelFemale>syskonbarns barnbarn</GrandnephewOrGrandniece.labelFemale>
   
   <!-- EN: grandfather -->
   <Grandparent.label>farfar</Grandparent.label>
@@ -45,13 +45,13 @@
   <GreatGrandparent.labelFemale>gammelfarmor</GreatGrandparent.labelFemale>
   
   <!-- EN: brother -->
-  <HalfSibling.label>halvsyskon</HalfSibling.label>
+  <HalfSibling.label>halvbror</HalfSibling.label>
   <!-- EN: sister -->
-  <HalfSibling.labelFemale>halvsyskon</HalfSibling.labelFemale>
+  <HalfSibling.labelFemale>halvsyster</HalfSibling.labelFemale>
   
   <!-- EN: kin -->
-  <Kin.label>släkt</Kin.label>
-  <Kin.labelFemale>släkt</Kin.labelFemale>
+  <Kin.label>släkting</Kin.label>
+  <Kin.labelFemale>släkting</Kin.labelFemale>
   
   <!-- EN: nephew -->
   <NephewOrNiece.label>syskonbarn</NephewOrNiece.label>
@@ -65,7 +65,7 @@
   
   <!-- EN: second cousin -->
   <SecondCousin.label>tremänning</SecondCousin.label>
-  <SecondCousin.labelFemale>trem änning</SecondCousin.labelFemale>
+  <SecondCousin.labelFemale>tremänning</SecondCousin.labelFemale>
   
   <!-- EN: brother -->
   <Sibling.label>bror</Sibling.label>

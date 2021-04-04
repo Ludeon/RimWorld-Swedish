@@ -3,10 +3,10 @@
   
   <!-- EN: caribou -->
   <Caribou.label>ren</Caribou.label>
-  <Caribou.labelFemale>ren</Caribou.labelFemale>
-  <Caribou.labelFemalePlural>renar</Caribou.labelFemalePlural>
-  <Caribou.labelMale>ren</Caribou.labelMale>
-  <Caribou.labelMalePlural>renar</Caribou.labelMalePlural>
+  <Caribou.labelFemale>renhona</Caribou.labelFemale>
+  <Caribou.labelFemalePlural>renhonor</Caribou.labelFemalePlural>
+  <Caribou.labelMale>rentjur</Caribou.labelMale>
+  <Caribou.labelMalePlural>rentjurar</Caribou.labelMalePlural>
   <!-- EN: caribou -->
   <Caribou.labelPlural>renar</Caribou.labelPlural>
   <!-- EN: caribou calf -->
@@ -145,10 +145,10 @@
   
   <!-- EN: wild boar -->
   <WildBoar.label>vildsvin</WildBoar.label>
-  <WildBoar.labelFemale>vildsvin</WildBoar.labelFemale>
-  <WildBoar.labelFemalePlural>vildsvin</WildBoar.labelFemalePlural>
-  <WildBoar.labelMale>vildsvin</WildBoar.labelMale>
-  <WildBoar.labelMalePlural>vildsvin</WildBoar.labelMalePlural>
+  <WildBoar.labelFemale>vildsvinssugga</WildBoar.labelFemale>
+  <WildBoar.labelFemalePlural>vildsvinssuggor</WildBoar.labelFemalePlural>
+  <WildBoar.labelMale>vildsvinsgalt</WildBoar.labelMale>
+  <WildBoar.labelMalePlural>vildsvinsgaltar</WildBoar.labelMalePlural>
   <WildBoar.labelPlural>vildsvin</WildBoar.labelPlural>
   <WildBoar.lifeStages.0.label>vildsvinskulting</WildBoar.lifeStages.0.label>
   <WildBoar.lifeStages.0.labelFemale>vildsvinskulting</WildBoar.lifeStages.0.labelFemale>

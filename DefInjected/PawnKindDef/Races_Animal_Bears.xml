@@ -29,10 +29,10 @@
   
   <!-- EN: polar bear -->
   <Bear_Polar.label>isbjörn</Bear_Polar.label>
-  <Bear_Polar.labelFemale>isbjörn</Bear_Polar.labelFemale>
-  <Bear_Polar.labelFemalePlural>isbjörnar</Bear_Polar.labelFemalePlural>
-  <Bear_Polar.labelMale>isbjörn</Bear_Polar.labelMale>
-  <Bear_Polar.labelMalePlural>isbjörnar</Bear_Polar.labelMalePlural>
+  <Bear_Polar.labelFemale>isbjörnshona</Bear_Polar.labelFemale>
+  <Bear_Polar.labelFemalePlural>isbjörnshonor</Bear_Polar.labelFemalePlural>
+  <Bear_Polar.labelMale>isbjörnshane</Bear_Polar.labelMale>
+  <Bear_Polar.labelMalePlural>isbjörshanar</Bear_Polar.labelMalePlural>
   <Bear_Polar.labelPlural>isbjörnnar</Bear_Polar.labelPlural>
   <Bear_Polar.lifeStages.0.label>isbjörnsunge</Bear_Polar.lifeStages.0.label>
   <Bear_Polar.lifeStages.0.labelFemale>isbjörnsunge</Bear_Polar.lifeStages.0.labelFemale>
@@ -47,10 +47,10 @@
   <Bear_Polar.lifeStages.1.labelMalePlural>isbjörnar</Bear_Polar.lifeStages.1.labelMalePlural>
   <Bear_Polar.lifeStages.1.labelPlural>isbjörnar</Bear_Polar.lifeStages.1.labelPlural>
   <Bear_Polar.lifeStages.2.label>isbjörn</Bear_Polar.lifeStages.2.label>
-  <Bear_Polar.lifeStages.2.labelFemale>isbjörn</Bear_Polar.lifeStages.2.labelFemale>
-  <Bear_Polar.lifeStages.2.labelFemalePlural>isbjörnar</Bear_Polar.lifeStages.2.labelFemalePlural>
-  <Bear_Polar.lifeStages.2.labelMale>isbjörn</Bear_Polar.lifeStages.2.labelMale>
-  <Bear_Polar.lifeStages.2.labelMalePlural>isbjörnar</Bear_Polar.lifeStages.2.labelMalePlural>
+  <Bear_Polar.lifeStages.2.labelFemale>isbjörnshona</Bear_Polar.lifeStages.2.labelFemale>
+  <Bear_Polar.lifeStages.2.labelFemalePlural>isbjörnshonor</Bear_Polar.lifeStages.2.labelFemalePlural>
+  <Bear_Polar.lifeStages.2.labelMale>isbjörnshane</Bear_Polar.lifeStages.2.labelMale>
+  <Bear_Polar.lifeStages.2.labelMalePlural>isbjörnshanar</Bear_Polar.lifeStages.2.labelMalePlural>
   <Bear_Polar.lifeStages.2.labelPlural>isbjörnar</Bear_Polar.lifeStages.2.labelPlural>
   
 </LanguageData>

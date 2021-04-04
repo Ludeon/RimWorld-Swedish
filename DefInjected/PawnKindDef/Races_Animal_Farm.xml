@@ -73,7 +73,7 @@
   <Cow.lifeStages.calf.labelMale>tjurkalv</Cow.lifeStages.calf.labelMale>
   <Cow.lifeStages.calf.labelMalePlural>tjurkalvar</Cow.lifeStages.calf.labelMalePlural>
   <!-- EN: calves -->
-  <Cow.lifeStages.calf.labelPlural>kavlar</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.calf.labelPlural>kalvar</Cow.lifeStages.calf.labelPlural>
   <Cow.lifeStages.1.label>ko</Cow.lifeStages.1.label>
   <Cow.lifeStages.1.labelFemale>kviga</Cow.lifeStages.1.labelFemale>
   <Cow.lifeStages.1.labelFemalePlural>kvigor</Cow.lifeStages.1.labelFemalePlural>

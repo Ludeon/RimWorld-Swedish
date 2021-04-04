@@ -3,10 +3,10 @@
   
   <!-- EN: elephant -->
   <Elephant.label>elefant</Elephant.label>
-  <Elephant.labelFemale>elefant</Elephant.labelFemale>
-  <Elephant.labelFemalePlural>elefanter</Elephant.labelFemalePlural>
-  <Elephant.labelMale>elefant</Elephant.labelMale>
-  <Elephant.labelMalePlural>elefanter</Elephant.labelMalePlural>
+  <Elephant.labelFemale>elefanthona</Elephant.labelFemale>
+  <Elephant.labelFemalePlural>elefanthonor</Elephant.labelFemalePlural>
+  <Elephant.labelMale>elefanthane</Elephant.labelMale>
+  <Elephant.labelMalePlural>elefanthanar</Elephant.labelMalePlural>
   <Elephant.labelPlural>elefanter</Elephant.labelPlural>
   <!-- EN: elephant calf -->
   <Elephant.lifeStages.elephant_calf.label>elefantunge</Elephant.lifeStages.elephant_calf.label>

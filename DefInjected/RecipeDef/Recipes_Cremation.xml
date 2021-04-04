@@ -9,9 +9,9 @@
   <BurnApparel.jobString>Eldar upp kläder.</BurnApparel.jobString>
   
   <!-- EN: burn drugs -->
-  <BurnDrugs.label>Elda upp droger</BurnDrugs.label>
+  <BurnDrugs.label>elda upp droger</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
-  <BurnDrugs.description>Bränn upp droger för att helt bli av med dem.</BurnDrugs.description>
+  <BurnDrugs.description>Bränn droger för att helt bli av med dem.</BurnDrugs.description>
   <!-- EN: Burning drugs. -->
   <BurnDrugs.jobString>Eldar upp droger.</BurnDrugs.jobString>
   

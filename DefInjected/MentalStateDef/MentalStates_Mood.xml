@@ -67,24 +67,24 @@
   <!-- EN: Mental state: Given up and leaving -->
   <GiveUpExit.baseInspectLine>Mentalt tilltånd: Givit upp och avviker </GiveUpExit.baseInspectLine>
   <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
-  <GiveUpExit.beginLetter>{0} har gett upp denna gemenskap.\n\n[PAWN_pronoun] har bestämt sig för att ge sig av och sträva efter ett bättre liv någonannanstans. Du kan försöka arrestera [PAWN_objective] när [PAWN_pronoun] ger sig av. Annars kanske du fortfarande kan se PAWN_objective] igen någon gång.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetter>{0} har gett upp denna gemenskap.\n\n[PAWN_pronoun] har bestämt sig för att ge sig av och sträva efter ett bättre liv någon annanstans. Du kan försöka arrestera [PAWN_objective] när [PAWN_pronoun] ger sig av. Annars kanske du kan se [PAWN_objective] igen någon gång.</GiveUpExit.beginLetter>
   <!-- EN: gave up -->
   <GiveUpExit.beginLetterLabel>gav upp</GiveUpExit.beginLetterLabel>
   <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
-  <GiveUpExit.recoveryMessage>{0} har ändrat sig och återvänder till kolonin.</GiveUpExit.recoveryMessage>
+  <GiveUpExit.recoveryMessage>{0} kom på bättre tankar och återvänder till kolonin.</GiveUpExit.recoveryMessage>
   
   <!-- EN: insulting spree -->
   <InsultingSpree.label>förolämpande raseriutbrott</InsultingSpree.label>
   <!-- EN: Mental state: Insulting spree -->
   <InsultingSpree.baseInspectLine>Mentalt tillstånd: Förolämpande raseriutbrott</InsultingSpree.baseInspectLine>
   <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
-  <InsultingSpree.beginLetter>{0} har drabbats av ett raseriutbrott.\n\n[PAWN_pronoun] kommer gå omkring och slänga ur sig förolämpningar.</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetter>{0} har drabbats av ett raseriutbrott.\n\n[PAWN_pronoun] kommer gå omkring och slänga ur sig förolämpningar lite hursomhelst.</InsultingSpree.beginLetter>
   <InsultingSpree.beginLetterLabel>förolämpande raseriutbrott</InsultingSpree.beginLetterLabel>
   <!-- EN: {0} is no longer on an insulting spree. -->
   <InsultingSpree.recoveryMessage>{0} har slutat upp att förolämpa andra.</InsultingSpree.recoveryMessage>
   
   <!-- EN: inducing prisoner to escape -->
-  <Jailbreaker.label>får fångar att rymma</Jailbreaker.label>
+  <Jailbreaker.label>uppmanar fångar att rymma</Jailbreaker.label>
   <!-- EN: Mental state: Jailbreaker -->
   <Jailbreaker.baseInspectLine>Mentalt tillstånd: Utbrytare</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has a mental breakdown and is going to induce prisoners to escape. -->
@@ -92,7 +92,7 @@
   <!-- EN: jailbreaker -->
   <Jailbreaker.beginLetterLabel>utbrytare</Jailbreaker.beginLetterLabel>
   <!-- EN: {0} is no longer inducing prisoners to escape. -->
-  <Jailbreaker.recoveryMessage>{0} försöker inte längre få fångar att rymma.</Jailbreaker.recoveryMessage>
+  <Jailbreaker.recoveryMessage>{0} försöker inte längre uppmana fångar att rymma.</Jailbreaker.recoveryMessage>
   
   <!-- EN: murderous rage -->
   <MurderousRage.label>blodigt raseriutbrott</MurderousRage.label>
@@ -137,9 +137,9 @@
   <!-- EN: insulting spree -->
   <TargetedInsultingSpree.label>förolämpande raseriutbrott</TargetedInsultingSpree.label>
   <!-- EN: Mental state: Insulting spree against {0} -->
-  <TargetedInsultingSpree.baseInspectLine>Mentalt tillstånd: Förolämpande raseriutbrott mot {0}</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.baseInspectLine>Mentalt tillstånd: Förolämpande raseriutbrott gentemot {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
-  <TargetedInsultingSpree.beginLetter>{0} har fixerat sitt raseri på {1}.\n\n[PAWN_pronoun] kommer förfölja {1} och skräna ut förolämpningar.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetter>{0} har fixerat sitt raseri på {1}.\n\n[PAWN_pronoun] kommer förfölja {1} och slänga ur sig förolämpningar.</TargetedInsultingSpree.beginLetter>
   <TargetedInsultingSpree.beginLetterLabel>förolämpande raseriutbrott</TargetedInsultingSpree.beginLetterLabel>
   
   <!-- EN: tantrum -->
@@ -153,7 +153,7 @@
   <TargetedTantrum.recoveryMessage>{0}s vredesutbrott har nu ebbat ut.</TargetedTantrum.recoveryMessage>
   
   <!-- EN: sitting alone -->
-  <Wander_OwnRoom.label>Sitter ensam</Wander_OwnRoom.label>
+  <Wander_OwnRoom.label>sitter ensam</Wander_OwnRoom.label>
   <!-- EN: Mental state: Hiding in room -->
   <Wander_OwnRoom.baseInspectLine>Mentalt tillstånd: Gömmer sig i ett rum</Wander_OwnRoom.baseInspectLine>
   <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
@@ -164,7 +164,7 @@
   <Wander_OwnRoom.recoveryMessage>{0} gömmer sig inte längre i sitt rum.</Wander_OwnRoom.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic.label>strövar psykotiskt runt</Wander_Psychotic.label>
+  <Wander_Psychotic.label>strövar runt i psykos</Wander_Psychotic.label>
   <!-- EN: Mental state: Psychotic wandering -->
   <Wander_Psychotic.baseInspectLine>Mentalt tillstånd: Psykotiskt strövande</Wander_Psychotic.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
@@ -175,9 +175,9 @@
   <Wander_Psychotic.recoveryMessage>{0} strövar inte längre runt i ett psykotiskt tillstånd.</Wander_Psychotic.recoveryMessage>
   
   <!-- EN: sad wandering -->
-  <Wander_Sad.label>Vemodigt strövande</Wander_Sad.label>
+  <Wander_Sad.label>vemodigt strövande</Wander_Sad.label>
   <!-- EN: Mental state: Sad wandering -->
-  <Wander_Sad.baseInspectLine>Mentalt tillstånd: Vemodigt runtströvande</Wander_Sad.baseInspectLine>
+  <Wander_Sad.baseInspectLine>Mentalt tillstånd: Vemodigt strövande</Wander_Sad.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around in sadness. -->
   <Wander_Sad.beginLetter>{0} har haft ett sammanbrott och strövar omkring i vemod.</Wander_Sad.beginLetter>
   <!-- EN: sad wander -->

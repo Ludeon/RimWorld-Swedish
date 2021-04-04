@@ -6,15 +6,15 @@
   <Drifter.labelPlural>luffare</Drifter.labelPlural>
   
   <!-- EN: pirate gunner -->
-  <Pirate.label>beväpnad pirat</Pirate.label>
+  <Pirate.label>piratartellerist</Pirate.label>
   <Pirate.labelPlural>beväpnade pirater</Pirate.labelPlural>
   
   <!-- EN: scavenger gunner -->
-  <Scavenger.label>pistolbeväpnad skattletare</Scavenger.label>
+  <Scavenger.label>pistolbeväpnad artellerist</Scavenger.label>
   <Scavenger.labelPlural>skattletare</Scavenger.labelPlural>
   
   <!-- EN: scavenger thrasher -->
-  <Thrasher.label>beväpnad skattletare</Thrasher.label>
-  <Thrasher.labelPlural>skattletare</Thrasher.labelPlural>
+  <Thrasher.label>beväpnad sakletare</Thrasher.label>
+  <Thrasher.labelPlural>beväpnade sakletare</Thrasher.labelPlural>
   
 </LanguageData>

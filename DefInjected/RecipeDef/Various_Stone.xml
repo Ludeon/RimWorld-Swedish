@@ -2,35 +2,35 @@
 <LanguageData>
   
   <!-- EN: make granite blocks -->
-  <Make_StoneBlocksGranite.label>Hugg ur granitblock</Make_StoneBlocksGranite.label>
+  <Make_StoneBlocksGranite.label>hugg ur granitblock</Make_StoneBlocksGranite.label>
   <!-- EN: Cuts granite chunks into usable blocks. -->
   <Make_StoneBlocksGranite.description>Hugger granitbitar till användbara murstenar.</Make_StoneBlocksGranite.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksGranite.jobString>Hugger mursten från stenblock.</Make_StoneBlocksGranite.jobString>
   
   <!-- EN: make limestone blocks -->
-  <Make_StoneBlocksLimestone.label>Hugg ur kalkstenblock</Make_StoneBlocksLimestone.label>
+  <Make_StoneBlocksLimestone.label>hugg ur kalkstenblock</Make_StoneBlocksLimestone.label>
   <!-- EN: Cuts limestone chunks into usable blocks. -->
   <Make_StoneBlocksLimestone.description>Hugger kalkstenbitar till användbara murstenar.</Make_StoneBlocksLimestone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksLimestone.jobString>Hugger mursten från stenblock</Make_StoneBlocksLimestone.jobString>
   
   <!-- EN: make marble blocks -->
-  <Make_StoneBlocksMarble.label>Hugg ur marmorblock</Make_StoneBlocksMarble.label>
+  <Make_StoneBlocksMarble.label>hugg ur marmorblock</Make_StoneBlocksMarble.label>
   <!-- EN: Cuts marble chunks into usable blocks. -->
   <Make_StoneBlocksMarble.description>Hugger marmorbitar till användbara murstenar.</Make_StoneBlocksMarble.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksMarble.jobString>Hugger mursten från stenblock</Make_StoneBlocksMarble.jobString>
   
   <!-- EN: make sandstone blocks -->
-  <Make_StoneBlocksSandstone.label>Hugg ur sandstenblock</Make_StoneBlocksSandstone.label>
+  <Make_StoneBlocksSandstone.label>hugg ur sandstenblock</Make_StoneBlocksSandstone.label>
   <!-- EN: Cuts sandstone chunks into usable blocks. -->
   <Make_StoneBlocksSandstone.description>Hugger sandstenbitar till användbara murstenar.</Make_StoneBlocksSandstone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksSandstone.jobString>Hugger mursten från stenblock</Make_StoneBlocksSandstone.jobString>
   
   <!-- EN: make slate blocks -->
-  <Make_StoneBlocksSlate.label>Hugg ur skifferblock</Make_StoneBlocksSlate.label>
+  <Make_StoneBlocksSlate.label>hugg ur skifferblock</Make_StoneBlocksSlate.label>
   <!-- EN: Cuts slate chunks into usable blocks. -->
   <Make_StoneBlocksSlate.description>Hugger skifferbitar till användbara murstenar.</Make_StoneBlocksSlate.description>
   <!-- EN: Cutting stone blocks from chunk. -->

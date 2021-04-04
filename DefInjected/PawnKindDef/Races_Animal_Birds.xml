@@ -3,10 +3,10 @@
   
   <!-- EN: cassowary -->
   <Cassowary.label>kasuar</Cassowary.label>
-  <Cassowary.labelFemale>kasuar</Cassowary.labelFemale>
-  <Cassowary.labelFemalePlural>kasuarer</Cassowary.labelFemalePlural>
-  <Cassowary.labelMale>kasuar</Cassowary.labelMale>
-  <Cassowary.labelMalePlural>kasuarer</Cassowary.labelMalePlural>
+  <Cassowary.labelFemale>kasuarhöna</Cassowary.labelFemale>
+  <Cassowary.labelFemalePlural>kasuarhönor</Cassowary.labelFemalePlural>
+  <Cassowary.labelMale>kasuartupp</Cassowary.labelMale>
+  <Cassowary.labelMalePlural>kasuartupp</Cassowary.labelMalePlural>
   <!-- EN: cassowaries -->
   <Cassowary.labelPlural>kasuarer</Cassowary.labelPlural>
   <Cassowary.lifeStages.0.label>kasuarkyckling</Cassowary.lifeStages.0.label>
@@ -30,10 +30,10 @@
   
   <!-- EN: emu -->
   <Emu.label>emu</Emu.label>
-  <Emu.labelFemale>emu</Emu.labelFemale>
-  <Emu.labelFemalePlural>emuer</Emu.labelFemalePlural>
-  <Emu.labelMale>emu</Emu.labelMale>
-  <Emu.labelMalePlural>emuer</Emu.labelMalePlural>
+  <Emu.labelFemale>emuhöna</Emu.labelFemale>
+  <Emu.labelFemalePlural>emuhönor</Emu.labelFemalePlural>
+  <Emu.labelMale>emutupp</Emu.labelMale>
+  <Emu.labelMalePlural>emutuppar</Emu.labelMalePlural>
   <Emu.labelPlural>emuer</Emu.labelPlural>
   <Emu.lifeStages.0.label>emukyckling</Emu.lifeStages.0.label>
   <Emu.lifeStages.0.labelFemale>emukyckling</Emu.lifeStages.0.labelFemale>
@@ -56,10 +56,10 @@
   
   <!-- EN: ostrich -->
   <Ostrich.label>struts</Ostrich.label>
-  <Ostrich.labelFemale>struts</Ostrich.labelFemale>
-  <Ostrich.labelFemalePlural>strutsar</Ostrich.labelFemalePlural>
-  <Ostrich.labelMale>struts</Ostrich.labelMale>
-  <Ostrich.labelMalePlural>strutsar</Ostrich.labelMalePlural>
+  <Ostrich.labelFemale>strutshona</Ostrich.labelFemale>
+  <Ostrich.labelFemalePlural>strutshonor</Ostrich.labelFemalePlural>
+  <Ostrich.labelMale>strutshane</Ostrich.labelMale>
+  <Ostrich.labelMalePlural>strutshanar</Ostrich.labelMalePlural>
   <!-- EN: ostriches -->
   <Ostrich.labelPlural>strutsar</Ostrich.labelPlural>
   <Ostrich.lifeStages.0.label>strutskyckling</Ostrich.lifeStages.0.label>
@@ -83,10 +83,10 @@
   
   <!-- EN: turkey -->
   <Turkey.label>kalkon</Turkey.label>
-  <Turkey.labelFemale>kalkon</Turkey.labelFemale>
-  <Turkey.labelFemalePlural>kalkoner</Turkey.labelFemalePlural>
-  <Turkey.labelMale>kalkon</Turkey.labelMale>
-  <Turkey.labelMalePlural>kalkoner</Turkey.labelMalePlural>
+  <Turkey.labelFemale>kalkonhona</Turkey.labelFemale>
+  <Turkey.labelFemalePlural>kalkonhonor</Turkey.labelFemalePlural>
+  <Turkey.labelMale>kalkonhane</Turkey.labelMale>
+  <Turkey.labelMalePlural>kalkonhanar</Turkey.labelMalePlural>
   <Turkey.labelPlural>kalkoner</Turkey.labelPlural>
   <Turkey.lifeStages.0.label>kalkonkyckling</Turkey.lifeStages.0.label>
   <Turkey.lifeStages.0.labelFemale>kalkonkyckling</Turkey.lifeStages.0.labelFemale>

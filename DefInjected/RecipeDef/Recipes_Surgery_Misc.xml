@@ -9,11 +9,11 @@
   <AdministerMechSerumHealer.jobString>Administrerar läkande mekanitserum.</AdministerMechSerumHealer.jobString>
   
   <!-- EN: anesthetize -->
-  <Anesthetize.label>bedöva</Anesthetize.label>
+  <Anesthetize.label>söva</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
   <Anesthetize.description>Gör en varelse medvetslös genom att administrera ett bedövningsmedel.</Anesthetize.description>
   <!-- EN: Anesthetizing. -->
-  <Anesthetize.jobString>Bedövar.</Anesthetize.jobString>
+  <Anesthetize.jobString>Söver.</Anesthetize.jobString>
   
   <!-- EN: euthanize by cut -->
   <Euthanize.label>Avliva genom snitt</Euthanize.label>
