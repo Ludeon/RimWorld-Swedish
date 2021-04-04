@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: jaw -->
@@ -16,13 +16,13 @@
   <!-- EN: elytra -->
   <Elytra.label>elytra</Elytra.label>
   
-  <!-- EN: claw -->
-  <FrontClaw.labelShort>klo</FrontClaw.labelShort>
   <!-- EN: front claw -->
   <FrontClaw.label>framklo</FrontClaw.label>
- 
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>klo</FrontClaw.labelShort>
+  
   <!-- EN: head claw -->
-  <HeadClaw.label>Överkäke</HeadClaw.label>
+  <HeadClaw.label>huvudklo</HeadClaw.label>
   
   <!-- EN: hoof -->
   <Hoof.label>hov</Hoof.label>
@@ -37,7 +37,7 @@
   <InsectHead.label>huvud</InsectHead.label>
   
   <!-- EN: heart -->
-  <InsectHeart.label>ryggkärl</InsectHeart.label>
+  <InsectHeart.label>hjärta</InsectHeart.label>
   
   <!-- EN: leg -->
   <InsectLeg.label>ben</InsectLeg.label>
@@ -49,7 +49,7 @@
   <InsectNostril.label>näsborre</InsectNostril.label>
   
   <!-- EN: jowl -->
-  <Jowl.label>käke</Jowl.label>
+  <Jowl.label>underkäke</Jowl.label>
   
   <!-- EN: paw -->
   <Paw.label>tass</Paw.label>
@@ -60,13 +60,13 @@
   <!-- EN: pronotum -->
   <Pronotum.label>prothorax</Pronotum.label>
   
+  <!-- EN: rear claw -->
+  <RearClaw.label>bakklo</RearClaw.label>
   <!-- EN: claw -->
   <RearClaw.labelShort>klo</RearClaw.labelShort>
-  <!-- EN: rear claw -->
-  <RearClaw.label>bakre klo</RearClaw.label>
   
   <!-- EN: shell -->
-  <Shell.label>Skal</Shell.label>
+  <Shell.label>skal</Shell.label>
   
   <!-- EN: body -->
   <SnakeBody.label>kropp</SnakeBody.label>

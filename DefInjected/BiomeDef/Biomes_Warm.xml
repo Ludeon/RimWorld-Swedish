@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: tropical rainforest -->
-  <TropicalRainforest.label>Tropisk regnskog</TropicalRainforest.label>
+  <TropicalRainforest.label>tropisk regnskog</TropicalRainforest.label>
   <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
-  <TropicalRainforest.description>En tjock och fuktig djungel. Trots sin visuella skönhet är detta en mycket farlig biomassa. Kvävande överväxt, aggressit djurliv och konstanta sjukdom är anledningen till varför vissa upptäckare kallar det "det gröna helvetet".</TropicalRainforest.description>
+  <TropicalRainforest.description>En tjock och fuktig djungel med mängder av djur och sjukdommar. Trots sin skönhet är detta en mycket farlig miljö. Tät växtlighet, ett rikt djurliv och konstanta sjukdommar är anledningen till att vissa upptäckare kallar detta för "det gröna helvetet".</TropicalRainforest.description>
   
   <!-- EN: tropical swamp -->
-  <TropicalSwamp.label>Tropiskt träsk</TropicalSwamp.label>
+  <TropicalSwamp.label>tropisk sumpmark</TropicalSwamp.label>
   <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
-  <TropicalSwamp.description>En överväxt ångande träsk fullt med parasiter och patogener. Den mesta delen av marken är för sumpigt för att bygga på. Svårt att rörs sig, aggressiva djur och skenande sjukdomar gör att bo här blir en mardröm.</TropicalSwamp.description>
+  <TropicalSwamp.description>Ett mycket fuktigt och tätt förvuxet kärr, kryllande av parasiter och bakterier. Större delen av marken är för sumpig för att bygga på. Svårigheten att ta sig fram, aggressiva djur och hejdlösa sjukdomar gör att vara bosatt här till en ren mardröm.</TropicalSwamp.description>
   
 </LanguageData>

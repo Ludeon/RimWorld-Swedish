@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: arms -->
   <Arms.label>armar</Arms.label>
   
   <!-- EN: beak -->
-  <Beak.label>näbb</Beak.label>
+  <Beak.label>näbbar</Beak.label>
   
   <!-- EN: eyes -->
   <Eyes.label>ögon</Eyes.label>
@@ -13,35 +13,35 @@
   <!-- EN: feet -->
   <Feet.label>fötter</Feet.label>
   
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>vänstra flamklor</FrontLeftClaws.label>
   <!-- EN: claws -->
   <FrontLeftClaws.labelShort>klor</FrontLeftClaws.labelShort>
-  <!-- EN: front left claws -->
-  <FrontLeftClaws.label>främre vänsterklo</FrontLeftClaws.label>
   
-  <!-- EN: leg -->
-  <FrontLeftLeg.labelShort>ben</FrontLeftLeg.labelShort>
   <!-- EN: front left leg -->
   <FrontLeftLeg.label>vänster framben</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>ben</FrontLeftLeg.labelShort>
   
-  <!-- EN: paw -->
-  <FrontLeftPaw.labelShort>tass</FrontLeftPaw.labelShort>
   <!-- EN: front left paw -->
   <FrontLeftPaw.label>vänster framtass</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>tass</FrontLeftPaw.labelShort>
   
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>högra framklor</FrontRightClaws.label>
   <!-- EN: claws -->
   <FrontRightClaws.labelShort>klor</FrontRightClaws.labelShort>
-  <!-- EN: front right claws -->
-  <FrontRightClaws.label>främmre högerklo</FrontRightClaws.label>
   
-  <!-- EN: leg -->
-  <FrontRightLeg.labelShort>ben</FrontRightLeg.labelShort>
   <!-- EN: front right leg -->
   <FrontRightLeg.label>höger framben</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>ben</FrontRightLeg.labelShort>
   
-  <!-- EN: paw -->
-  <FrontRightPaw.labelShort>tass</FrontRightPaw.labelShort>
   <!-- EN: front right paw -->
   <FrontRightPaw.label>höger baktass</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>tass</FrontRightPaw.labelShort>
   
   <!-- EN: full head -->
   <FullHead.label>huvudet</FullHead.label>
@@ -58,15 +58,15 @@
   <!-- EN: horn -->
   <HornAttackTool.label>horn</HornAttackTool.label>
   
-  <!-- EN: blade -->
-  <LeftBlade.labelShort>klinga</LeftBlade.labelShort>
   <!-- EN: left blade -->
   <LeftBlade.label>vänster klinga</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>klinga</LeftBlade.labelShort>
   
-  <!-- EN: fist -->
-  <LeftHand.labelShort>näve</LeftHand.labelShort>
   <!-- EN: left fist -->
   <LeftHand.label>vänster näve</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>näve</LeftHand.labelShort>
   
   <!-- EN: legs -->
   <Legs.label>ben</Legs.label>
@@ -77,15 +77,15 @@
   <!-- EN: neck -->
   <Neck.label>nacke</Neck.label>
   
+  <!-- EN: right blade -->
+  <RightBlade.label>höger klinga</RightBlade.label>
   <!-- EN: blade -->
   <RightBlade.labelShort>klinga</RightBlade.labelShort>
-  <!-- EN: right blade -->
-  <RightBlade.label>vänster klinga</RightBlade.label>
   
-  <!-- EN: fist -->
-  <RightHand.labelShort>näve</RightHand.labelShort>
   <!-- EN: right fist -->
   <RightHand.label>höger näve</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>näve</RightHand.labelShort>
   
   <!-- EN: shoulders -->
   <Shoulders.label>axlar</Shoulders.label>
@@ -94,7 +94,7 @@
   <Teeth.label>tänder</Teeth.label>
   
   <!-- EN: torso -->
-  <Torso.label>överkropp</Torso.label>
+  <Torso.label>bröstkorg</Torso.label>
   
   <!-- EN: beak -->
   <TurtleBeakAttackTool.label>näbb</TurtleBeakAttackTool.label>
