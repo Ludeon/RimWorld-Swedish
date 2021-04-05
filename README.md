@@ -6,7 +6,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 Official forum thread:
 http://ludeon.com/forums/index.php?topic=4632.0
 
-##Translators:
+## Translators:
 
 ### Currently active translators
 - Patrik Bohlin
