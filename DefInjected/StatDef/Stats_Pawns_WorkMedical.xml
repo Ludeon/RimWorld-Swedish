@@ -9,12 +9,12 @@
   <!-- EN: medical surgery success chance -->
   <MedicalSurgerySuccessChance.label>Chansen att lyckas med medicinsk operation</MedicalSurgerySuccessChance.label>
   <!-- EN: The base chance that a character will succeed when performing a medical operation. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations. No matter how high the success chance, there is always a small chance of failure on any operation. -->
-  <MedicalSurgerySuccessChance.description>Sannolikheten för att en karaktär kommer att lyckas när man försöker utföra en operation. TODO (kopiera från xxx)</MedicalSurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.description>Sannolikheten för att en karaktär kommer att lyckas när man försöker utföra en operation. Sannolikheten att lyckas påverkas även av vilken typ av medicin som används, rummets renhet, material i rummet, hur svår operationen är och läkarens eventuella inspiration. Oavsett hur hög sannolikheten att lyckas är finns det alltid en chans för misstag.</MedicalSurgerySuccessChance.description>
   
   <!-- EN: medical tend quality -->
   <MedicalTendQuality.label>behandlingskvalitet</MedicalTendQuality.label>
   <!-- EN: The base quality of tending given when tending wounds and illnesses. The actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on. -->
-  <MedicalTendQuality.description>Baskvaliteten av behandlingen som ges vid såromläggning och sjukdom. TODO (kopiera text..)</MedicalTendQuality.description>
+  <MedicalTendQuality.description>Baskvaliteten av behandlingen som ges vid såromläggning och sjukdom. Den faktiska kvalitén av behandlingen påverkas av flera faktorer exempelvis medicin, rummets renhet, och tur m.m.</MedicalTendQuality.description>
   
   <!-- EN: medical tend speed -->
   <MedicalTendSpeed.label>behandlingshastighet</MedicalTendSpeed.label>
