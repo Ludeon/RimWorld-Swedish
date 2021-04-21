@@ -1,13 +1,15 @@
-﻿tomat
-morot
-lök
-rova
-bok choy
-stjälk av selleri
-kalebass
-pumpa
+﻿blomkål
 broccoli
-blomkål
+bönor
+gurka
+lök
+morot
 paprika
 potatis
+pumpa
+rova
+sallad
+selleri
 svamp
+tomat
+vitkål

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: EMP grenade -->
@@ -11,24 +11,24 @@
   <Proj_GrenadeMolotov.label>molotov cocktail</Proj_GrenadeMolotov.label>
   
   <!-- EN: EMP grenades -->
-  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>Kasta EMP granater</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
-  <!-- EN: EMP grenades -->
   <Weapon_GrenadeEMP.label>EMP granat</Weapon_GrenadeEMP.label>
   <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
   <Weapon_GrenadeEMP.description>Elektromagnetisk puls granat skadar elektronisk utrustning.</Weapon_GrenadeEMP.description>
+  <!-- EN: EMP grenades -->
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>Kasta EMP granater</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
   
-  <!-- EN: frag grenades -->
-  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>kasta splittergranater</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
   <!-- EN: frag grenades -->
   <Weapon_GrenadeFrag.label>splittergranat</Weapon_GrenadeFrag.label>
   <!-- EN: Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
   <Weapon_GrenadeFrag.description>Gammaldags splittergranater.</Weapon_GrenadeFrag.description>
+  <!-- EN: frag grenades -->
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>kasta splittergranater</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
   
-  <!-- EN: molotov cocktails -->
-  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>kasta molotov</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
   <!-- EN: molotov cocktails -->
   <Weapon_GrenadeMolotov.label>molotov cocktail</Weapon_GrenadeMolotov.label>
   <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
   <Weapon_GrenadeMolotov.description>Glasflaskor fyllda med brandfarlig vätska, med en brinnande trasa i halsen. Ett favorit vapen för huliganer och desperata krigare från kant till kant.</Weapon_GrenadeMolotov.description>
+  <!-- EN: molotov cocktails -->
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>kasta molotov</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
   
 </LanguageData>

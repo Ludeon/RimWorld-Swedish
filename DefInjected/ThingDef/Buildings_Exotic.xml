@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: ancient ship part (poison) -->
-  <CrashedPoisonShipPart.label>kraschad giftig skeppsdel</CrashedPoisonShipPart.label>
-  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be poisoning the ground around it. -->
-  <CrashedPoisonShipPart.description>En mystisk kraschade bit av ett rymdskepp. Den kan innehålla exotiska material, datorer, även AI personas. Detta verkar förgifta marken runt den.</CrashedPoisonShipPart.description>
+  <!-- EN: ship part (poison) -->
+  <CrashedPoisonShipPart.label>skeppsdel (giftig) </CrashedPoisonShipPart.label>
+  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be killing plant life around it. -->
+  <CrashedPoisonShipPart.description>En mystisk bit av ett rymdskepp som kraschat. Den kan innehålla vilken typ av dödliga fiender och exotiska material som helst. Denna verkar ha ihjäl växtlighet runt om den. den.</CrashedPoisonShipPart.description>
   
-  <!-- EN: ancient ship part (psychic) -->
-  <CrashedPsychicEmanatorShipPart.label>kraschad skeppsdel</CrashedPsychicEmanatorShipPart.label>
+  <!-- EN: ship part (psychic) -->
+  <CrashedPsychicEmanatorShipPart.label>skeppsdel (psykisk)</CrashedPsychicEmanatorShipPart.label>
   <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves. -->
-  <CrashedPsychicEmanatorShipPart.description>En mystisk kraschade bit av ett rymdskepp. Den kan innehålla exotiska material, datorer, även AI personas. Denna typ av teknik kan vara farligt.</CrashedPsychicEmanatorShipPart.description>
+  <CrashedPsychicEmanatorShipPart.description>En mystisk bit av ett rymdskepp som kraschat. Den kan innehålla vilken typ av dödliga fiender och exotiska material som helst. Denna verkar sända ut psykiska vågor.</CrashedPsychicEmanatorShipPart.description>
   
   <!-- EN: ship chunk -->
   <ShipChunk.label>skeppsdel</ShipChunk.label>
   <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
-  <ShipChunk.description>En bit av en rymdfarkost. Kan dekonstrueras för att ge användbart stål och komponenter.</ShipChunk.description>
+  <ShipChunk.description>En bit av en rymdfarkost. Kan dekonstrueras för att ge användbara resurser.</ShipChunk.description>
   
 </LanguageData>

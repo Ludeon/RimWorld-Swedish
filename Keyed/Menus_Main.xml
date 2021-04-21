@@ -5,7 +5,7 @@
   <!-- EN: Tutorial -->
   <Tutorial>Lär dig spela</Tutorial>
   <!-- EN: New colony -->
-  <NewColony>Nytt koloni</NewColony>
+  <NewColony>Ny koloni</NewColony>
   <!-- EN: Back to game -->
   <BackToGame>Tillbaka till spelet</BackToGame>
   <!-- EN: Review scenario -->
@@ -51,13 +51,13 @@
   <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Hjälp till att översätta RimWorld</HelpTranslate>
   <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>Köp musikspår</BuySoundtrack>
+  <BuySoundtrack>Köp spelmusiken</BuySoundtrack>
   <!-- EN: Create world -->
-  <CreateWorld>Tillverka egen värld</CreateWorld>
+  <CreateWorld>Skapa en egen värld</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Alla översättningar av RimWorld är fan-gjorda. Denna fan-gjorda översättning skapades av följande utmärkta volontärer:\n\n{0}</TranslationThanks>
+  <TranslationThanks>Alla översättningar av RimWorld är skapade av fans och volontärer. Denna översättning skapades av:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
   <TranslationHowToContribute>Du kan också bidra. Klicka nedan för att lära dig mer (öppnar webbläsare).</TranslationHowToContribute>
   <!-- EN: Learn more -->
@@ -95,13 +95,13 @@
   <!-- EN: Randomize seed -->
   <RandomizeSeed>Slumpa frö</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>Planeten är alltid samma diameter, men eftersom den är mycket större än vad som behövs för att spela, behöver vi inte generera hela ytan eftersom det kan ta onödigt lång tid. Detta är den procentuella andelen av ytan som du vill ska genereras.</PlanetCoverageTip>
+  <PlanetCoverageTip>Planeten har alltid samma diameter, men eftersom den är mycket större än vad som behövs för att spela, behöver vi inte generera hela ytan, det kan ta onödigt lång tid. Detta är den procentuella andelen av ytan som du vill ska genereras.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>Factions</WorldFactionsTab>
 
   <!-- Select world -->
   <!-- EN: Select world -->
-  <SelectWorld>Välj värd</SelectWorld>
+  <SelectWorld>Välj värld</SelectWorld>
   <!-- EN: Select -->
   <WorldChooseButton>Välj</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
@@ -127,17 +127,17 @@
   <!-- EN: Get mods from forum -->
   <GetModsFromForum>Hämta moddar från forumet</GetModsFromForum>
   <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>Öppna datamappen för moddar</OpenModsDataFolder>
+  <OpenModsDataFolder>Öppna mappen för moddar</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>Visa moddars data plats</ShowModsDataLocation>
+  <ShowModsDataLocation>Visa moddars plats</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärn-modden? Spelet kommer inte att funka alls om du inte har ett annat modd som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra moddar kan överskriva 'defs' i kärnmodden genom att använda samma 'defName'.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärnmodden? Spelet kommer inte att funka alls om du inte har en annan modd som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra moddar kan överskriva 'defs' i kärnmodden genom att använda samma 'defName'.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Är du säker på att du vill radera allt innehåll för {0}?</ConfirmDeleteMod>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Avprenumerera</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>Är du säker på att du vill avprenumerera ifrån {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Är du säker på att du vill avprenumerera från {0}?</ConfirmUnsubscribe>
   <!-- EN: Author -->
   <Author>Skapare</Author>
   <!-- EN: Workshop page -->
@@ -149,7 +149,7 @@
   <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>Uppdatering körs redan.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>Workshop uppladdning gick fel.\n\nFelkod: {0}</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>Workshop uppladdningen misslykades.\n\nFelkod: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>Lyckad uppladdning {0}.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
@@ -159,11 +159,11 @@
   <!-- EN: For version: {0} -->
   <ModTargetVersion>För version: {0}</ModTargetVersion>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Denna modden var inte gjord för denna versionen av RimWorld, och kommer troligtvis inte fungera korrekt.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Den här modden är inte gjord för denna versionen av RimWorld och kommer troligtvis inte fungera korrekt.</ModNotMadeForThisVersion>
   <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
   <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: {0}.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
-  <DragToReorder>Dra för att ändra om ordningen</DragToReorder>
+  <DragToReorder>Dra för att ändra ordning</DragToReorder>
   
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
@@ -183,7 +183,7 @@
   <!-- EN: Load -->
   <Load>Ladda</Load>
   <!-- EN: edit mode -->
-  <EditMode>Välj läge</EditMode>
+  <EditMode>välj läge</EditMode>
   <!-- EN: Summary -->
   <Summary>Summering</Summary>
   <!-- EN: Add part -->
@@ -191,21 +191,21 @@
   <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Alla textfält måste vara ifyllda.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Är du säker på att du vill ladda upp detta till Steam Workshop?\n\nDu måste godkänna Steam Workshop användarevillkor. Se villkoren här:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Är du säker på att du vill ladda upp detta till Steam Workshop?\n\nDu måste godkänna Steam Workshops användarevillkor. Se villkoren här:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>Du kan bara ladda upp saker du skapat själv.\n\nSkapade du detta innehåll själv?</ConfirmContentAuthor>
+  <ConfirmContentAuthor> Självklart ska du enbart ladda upp saker du skapat själv.\n\nSkapade du detta innehåll själv?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>Inkompatibelt</Incompatible>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>För många (max {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>Kan bli uppdaterat till Workshop, eftersom du är ägaren.</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>Kan bli uppdaterat i Workshop, eftersom du är ägaren.</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Välj AI berättare</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>AI Berättaren skapar händelser som piratattacker, sjukdomar, eller djurattacker. Deras val kommer att påverka din kolonis historia. Detta val kan ändras när som helst under spelets gång.</HowStorytellersWork>
+  <HowStorytellersWork>AI Berättaren skapar händelser som piratattacker, materialleveranser eller djurattacker. Deras val kommer att påverka din kolonis berättelse. Detta val kan ändras när som helst.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Välj en svårighetsnivå.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
@@ -217,11 +217,11 @@
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
   <MustChoosePermadeath>Vänligen välj engagemangsläge eller ladda om när som helst läge.</MustChoosePermadeath>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, it's designed to encourage recovery after losses. Even losing all but one person is not the end of the game - it's part of the story.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his parents got killed - loss and recovery is dramatic! -->
-  <PermadeathModeInfo>Du kan bara spara när du avslutar spelet.\n\n Eftersom RimWorld är en historia-generator, är den avsedd att uppmuntra till återhämtning efter förluster. Även om du förlorar allt utom en person är det inte slutet på spelet - det är en del av historien.\n\nAtt spela ut dessa hemska situationer gör en historia med både tragedi och triumf. Det är sättet RimWorld utformades för att spelas. Det finns anledning att Luke Skywalker inte slutade och laddade om en sparfil om när hans föräldrar blev dödade - förlust och återhämtning är dramatiskt!</PermadeathModeInfo>
+  <PermadeathModeInfo>Du kan bara spara när du avslutar spelet.\n\n Eftersom RimWorld är en berättelse-generator är det avsedd att uppmuntra till återhämtning efter förluster. Även om du förlorar allt utom en person är det inte slutet på spelet - det är en del av historien.\n\nAtt spela genom dessa hemska situationer ger en historia både tragedi och triumf. Det är sättet RimWorld utformades för att spelas. Det finns anledning att Luke Skywalker inte slutade och laddade om en sparfil när hans föräldrar blev dödade - förlust och återhämtning är dramatiskt!</PermadeathModeInfo>
   <!-- EN: You can save and load the game at any time.\n\nThis isn't a bad choice if you're still learning the game, if it fits your personal playstyle or goals, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>Du kan spara och ladda spelet när som helst.\n\nDetta är inte ett dåligt val om du fortfarande lär dig spelet, om det passar din personliga spelstil eller mål eller om du använder mod som kan skapa problem i ditt spel.</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Du kan spara och ladda spelet när som helst.\n\nDetta är inte ett dåligt val om du fortfarande lär dig spelet, om det passar din personliga spelstil, mål eller om du använder en mod som kan skapa problem i ditt spel.</ReloadAnytimeModeInfo>
   <!-- EN: Storyteller and difficulty can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>AI berättare och svårighetsnivåer kan ändras när som helst under spelets gång.</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>Berättare och svårighetsnivåer kan ändras när som helst under spelets gång.</CanChangeStorytellerSettingsDuringPlay>
 
   <!-- Landing site select -->
   <!-- EN: Select landing site -->
@@ -259,19 +259,19 @@
   <!-- EN: Fertility -->
   <Fertility>Fertilitet</Fertility>
   <!-- EN: Average temperature -->
-  <AvgTemp>Medel Temperatur</AvgTemp>
+  <AvgTemp>Medeltemperatur</AvgTemp>
   <!-- EN: Rainfall -->
   <Rainfall>Nederbörd</Rainfall>
   <!-- EN: Special features -->
   <SpecialFeatures>Speciella Särdrag</SpecialFeatures>
   <!-- EN: northern coast -->
-  <HasCoast0>Kust till norr</HasCoast0>
+  <HasCoast0>norra kusten</HasCoast0>
   <!-- EN: eastern coast -->
-  <HasCoast1>Kust till öst</HasCoast1>
+  <HasCoast1>östra kusten</HasCoast1>
   <!-- EN: southern coast -->
-  <HasCoast2>Kust till syd</HasCoast2>
+  <HasCoast2>södra kusten</HasCoast2>
   <!-- EN: western coast -->
-  <HasCoast3>Kust till väst</HasCoast3>
+  <HasCoast3>västra kusten</HasCoast3>
   <!-- EN: caves -->
   <HasCaves>grottor</HasCaves>
   <!-- EN: Faction base -->
@@ -281,17 +281,17 @@
   <!-- EN: Time zone -->
   <TimeZone>Tidszon</TimeZone>
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty>Rörelse svårigheter</MovementDifficulty>
+  <MovementDifficulty>Rörelsesvårighet</MovementDifficulty>
   <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>Djur kan beta nu</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>Djur kan beta</AnimalsCanGrazeNow>
   <!-- EN: Average disease frequency -->
   <AverageDiseaseFrequency>Genomsnittlig sjukdomsfrekvens</AverageDiseaseFrequency>
   <!-- EN: per year -->
   <PerYear>per år</PerYear>
   <!-- EN: Forageability -->
-  <Forageability>Bärsamlingsmöjlighet</Forageability>
+  <Forageability>Skördemöjlighet</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>Ingen av de valda personerna kan göra följande jobb:\n\n{0}\n\nDetta kan göra spelet svårare än vanligt. Är du säker på att du vill fortsätta?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Ingen av de valda personerna kan utföra:\n\n{0}\n\nDetta kan göra spelet svårare än vanligt. Är du säker på att du vill fortsätta?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
@@ -299,7 +299,7 @@
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
   <FirstNameDesc>Karaktärens förnamn.\n\nDetta visas bara i vissa menyer.</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>Karaktärens korta smeknamn.\n\nDetta visas hela tiden. Det kan vara för- eller efternamn, eller ett helt annat, separat namn.</ShortIdentifierDesc>
+  <ShortIdentifierDesc>Karaktärens smeknamn.\n\nDetta visas hela tiden. Det kan vara för- eller efternamn, eller ett helt annat namn.</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
   <LastNameDesc>Karaktärens efternamn.\n\nDetta visas bara i vissa menyer.</LastNameDesc>
   <!-- EN: Randomize -->
@@ -309,7 +309,7 @@
   <!-- EN: Backstory -->
   <Backstory>Bakgrundshistoria</Backstory>
   <!-- EN: Incapable of -->
-  <IncapableOf>Inkapabel av </IncapableOf>
+  <IncapableOf>Inkapabel till </IncapableOf>
   <!-- EN: Traits -->
   <Traits>Persondrag</Traits>
   <!-- EN: Permanent mood effect -->
@@ -343,7 +343,7 @@
   <!-- EN: Selected -->
   <StartingPawnsSelected>Vald</StartingPawnsSelected>
   <!-- EN: Left behind -->
-  <StartingPawnsLeftBehind>Kvarglömd</StartingPawnsLeftBehind>
+  <StartingPawnsLeftBehind>Lämnad kvar</StartingPawnsLeftBehind>
   
   <!-- Misc -->
   <!-- EN: Start -->
@@ -357,7 +357,7 @@
   <!-- EN: Gameplay -->
   <Gameplay>Spel</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>Vill du verkligen avsluta? Allt som du inte har sparat kommer gå förlorat.</ConfirmQuit>
+  <ConfirmQuit>Vill du verkligen avsluta? Allt du inte har sparat kommer gå förlorat.</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>Varje person behöver ett giltigt namn.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->

@@ -1,76 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: alphabeavers -->
   <Alphabeavers.label>alfabävrar</Alphabeavers.label>
   
-  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>En lund av den mystiska ambrosibusken har grott i närheten! Om du väntar på att växterna växer, kommer du att kunna skörda den läckra, njutbara och lite beroendeframkallande frukten.</AmbrosiaSprout.letterText>
-  <!-- EN: Ambrosia sprout -->
-  <AmbrosiaSprout.letterLabel>Ambrosia groddar</AmbrosiaSprout.letterLabel>
   <!-- EN: ambrosia sprout -->
-  <AmbrosiaSprout.label>ambrosia groddar</AmbrosiaSprout.label>
+  <AmbrosiaSprout.label>ambrosiagroddar</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>Ambrosiagroddar</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>En lund av den mystiska ambrosiabusken har börjat gro i närheten! Om du väntar på att plantorna växer upp kommer du kunna skörda dess läckra, njutbara och smått beroendeframkallande frukt.</AmbrosiaSprout.letterText>
   
-  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>En ovanligt köldknäpp har startat. Se upp för hypotermi och döende grödor.</ColdSnap.letterText>
-  <!-- EN: Cold snap -->
-  <ColdSnap.letterLabel>Köldknäpp</ColdSnap.letterLabel>
   <!-- EN: cold snap -->
   <ColdSnap.label>köldknäpp</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Köldknäpp</ColdSnap.letterLabel>
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText>En ovanlig köldknäpp har startat.\n\nKöldknäppar kan snabbt bli dödliga genom hypertermi. Se till att bygga uppvärmda rum för att överleva, klä dig efter väder och försök skörda odlade grödor innan de förfryser och dör.</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
-  <CropBlight.label>grödeförstörelse</CropBlight.label>
+  <CropBlight.label>mjöldagg</CropBlight.label>
   
   <!-- EN: farm animals wander in -->
-  <FarmAnimalsWanderIn.label>bondgårdsdjur vandrar in</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>boskapsdjur vandrar in</FarmAnimalsWanderIn.label>
   
-  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
-  <Flashstorm.letterText>Extreme amounts of lightning are hitting a small region. This can cause massive fires.</Flashstorm.letterText>
-  <!-- EN: Flashstorm -->
-  <Flashstorm.letterLabel>Blixtoväder</Flashstorm.letterLabel>
   <!-- EN: flashstorm -->
   <Flashstorm.label>blixtoväder</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Blixtoväder</Flashstorm.letterLabel>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText>Ett extremt blixtoväder slår ned i en liten del av området. Detta kan orsaka massiva bränder.</Flashstorm.letterText>
   
-  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
-  <HeatWave.letterText>En ovanligt värmebölja har startat. Se upp för värmeslag.</HeatWave.letterText>
-  <!-- EN: Heat wave -->
-  <HeatWave.letterLabel>Värmebölja</HeatWave.letterLabel>
   <!-- EN: heat wave -->
   <HeatWave.label>värmebölja</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Värmebölja</HeatWave.letterLabel>
+  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
+  <HeatWave.letterText>En ovanlig värmeböljahör börjat.\n\nVärmeböljor kan snabbt bli livsfarliga om personer börjar få värmeslag. Håll dig sval genom att bygga en kylare eller ta dig djupt under ett berg.</HeatWave.letterText>
   
-  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
-  <HerdMigration.letterText>En grupp av {0} passerar genom området.\n\nDe kommer inte att attackera om de inte provoceras.</HerdMigration.letterText>
-  <!-- EN: Animal migration: {0} -->
-  <HerdMigration.letterLabel>Djurmigration: {0}</HerdMigration.letterLabel>
   <!-- EN: herd migration -->
   <HerdMigration.label>hjordmigration</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>Djurmigration: {0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>En grupp av {0} passerar genom området.\n\nDe kommer inte att attackera dig, om de inte provoceras.</HerdMigration.letterText>
   
-  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
-  <MeteoriteImpact.letterText>En stor meteorit har slagit ned i området. Den har lämnat en klump av {0}.</MeteoriteImpact.letterText>
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>meteoritnedslag</MeteoriteImpact.label>
   <!-- EN: Meteorite -->
   <MeteoriteImpact.letterLabel>Meteorit</MeteoriteImpact.letterLabel>
-  <!-- EN: meteorite impact -->
-  <MeteoriteImpact.label>Meteoritnedslag</MeteoriteImpact.label>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>En stor meteorit har slagit ned i området. Den har lämnat en klump av {0}.</MeteoriteImpact.letterText>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>psykisk drönare</PsychicDrone.label>
+  <PsychicDrone.label>psykisk puls</PsychicDrone.label>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>psykisk lugn</PsychicSoothe.label>
+  <PsychicSoothe.label>psykiskt lugn</PsychicSoothe.label>
   
-  <!-- EN: Ransom demand -->
-  <RansomDemand.letterLabel>Lösenkrav</RansomDemand.letterLabel>
   <!-- EN: ransom demand -->
   <RansomDemand.label>lösenkrav</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>Lösenkrav</RansomDemand.letterLabel>
   
   <!-- EN: chased refugee -->
   <RefugeeChased.label>jagad flykting</RefugeeChased.label>
   
-  <!-- EN: refugee pod crash -->
-  <RefugeePodCrash.label>flyktingkapsel krashar</RefugeePodCrash.label>
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>krasch av transportkapsel</RefugeePodCrash.label>
   
   <!-- EN: resource pod crash -->
-  <ResourcePodCrash.label>resurskapsel krashar</ResourcePodCrash.label>
+  <ResourcePodCrash.label>krasch av resurskapsel</ResourcePodCrash.label>
   
   <!-- EN: self-tame -->
   <SelfTame.label>självtämjd</SelfTame.label>
@@ -81,28 +81,32 @@
   <!-- EN: thrumbos pass -->
   <ThrumboPasses.label>thrumbos passerar</ThrumboPasses.label>
   
-  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
-  <ToxicFallout.letterText>En avlägsen kemisk eld har släppt ut en plym av gift över hela området.\n\nAlla personer och djur ej under tak kommer sakta förgiftas av det giftiga dammet som fälls ut atmosfären.\n\nDet kommer vara mellan några dagar till över en månad.</ToxicFallout.letterText>
-  <!-- EN: Toxic fallout -->
-  <ToxicFallout.letterLabel>Giftigt nedfall</ToxicFallout.letterLabel>
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>giftigt nedfall</ToxicFallout.label>
+  <ToxicFallout.label>gifttnedfall</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Giftnedfall</ToxicFallout.letterLabel>
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
+  <ToxicFallout.letterText>En avlägsen kemisk eld har släppt ut en plym av gift över hela regionen.\n\nAlla personer och djur som inte befinner sig under tak kommer sakta bli sjuka av det giftiga dammet som spritts ut i atmosfären.\n\nDetta kommer vara allt från några dagar till över en årstid.</ToxicFallout.letterText>
   
-  <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>En avlägsen supervulkan har fått ett utbrott och har börjat sprida ut miljoner kubik kilometer av aska in i atmosfären.\n\nAska i atmosfären kommer att fördunka solen. Temperaturen kommer att sjunka och växter kommer att lida av för dåligt med solsken. Det kommer att försvinna inom några veckor till några månader.</VolcanicWinter.letterText>
-  <!-- EN: Volcanic winter -->
-  <VolcanicWinter.letterLabel>Vulkanisk vinter</VolcanicWinter.letterLabel>
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>vulkanisk vinter</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Vulkanisk vinter</VolcanicWinter.letterLabel>
+  <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText>En avlägsen supervulkan har fått ett utbrott och börjat sprida ut miljontals kubikkilometer av aska i atmosfären.\n\nAskan i atmosfären kommer att fördunkla solen. Temperaturen kommer sjunka och växter kommer att lida av för dåligt med solljus. Det kan försvinna inom några veckor eller vara i några månader.</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>vandrare ansluter</WandererJoin.label>
+  <!-- EN: Wanderer joins -->
+  <WandererJoin.letterLabel>vandrare ansluter</WandererJoin.letterLabel>
+  <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <WandererJoin.letterText>En {PAWN_kind} vid namn {PAWN_nameDef} har anlänt och ansluter till din koloni. {PAWN_pronoun} är en {PAWN_title}.\n\n[PAWN_pronoun] är villig att bidra, men vill inte lämna frivilligt. Om du inte vill ha {PAWN_nameDef} kan du förvisa {PAWN_objective}, sälja {PAWN_objective} till slaveri eller ha ihjäl {PAWN_objective}. Hursomhellst kommer dina kolonister inte tycka om det. </WandererJoin.letterText>
   
-  <!-- EN: A person living among wild animals has wandered into the area. [PAWN_pronoun]'s called {0}.\n\nYou can attempt to tame [PAWN_objective]. -->
-  <WildManWandersIn.letterText>En person som levt bland vilda djur har vandrat in i området. [PAWN_pronoun] heter {0}.\n\nDu kan försöka tämja [PAWN_objective].</WildManWandersIn.letterText>
-  <!-- EN: Wild man wanders in -->
-  <WildManWandersIn.letterLabel>Vildman vandrar in</WildManWandersIn.letterLabel>
   <!-- EN: wild man wanders in -->
-  <WildManWandersIn.label>vildman vandrar in</WildManWandersIn.label>
+  <WildManWandersIn.label>vildmänniska vandrar in</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>{PAWN_kind} vandrar in</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>En person som levt bland vilda djur har vandrat in i området. {PAWN_pronoun} kallas {0}.\n\nDu kan försöka tämja eller arrestera {PAWN_objective}.</WildManWandersIn.letterText>
   
 </LanguageData>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: go-juice -->
-  <Chemical_GoJuice.label>go-juice</Chemical_GoJuice.label>
+  <Chemical_GoJuice.label>gå-juice</Chemical_GoJuice.label>
   <!-- EN: Because of a go-juice addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
-  <Chemical_GoJuice.description>På grund av ett go-juiceberoende behöver den här personen regelbundet konsumera go-juice för att undvika abstinens symptom.</Chemical_GoJuice.description>
+  <Chemical_GoJuice.description>På grund av gå-juiceberoende behöver den här personen regelbundet konsumera gå-juice för att undvika abstinenssymptom.</Chemical_GoJuice.description>
   
 </LanguageData>

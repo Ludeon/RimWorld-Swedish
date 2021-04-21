@@ -1,68 +1,65 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Armor - Blunt -->
-  <ArmorRating_Blunt.label>Skydd - Kross</ArmorRating_Blunt.label>
-  <!-- EN: The chance to affect blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor percentage is the chance the armor will affect the damage.\n\nIf the damage is affected, there is a 50% chance it will deflect harmlessly, and a 50% chance it will be mitigated. If it's mitigated, the damage is reduced by half.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
-  <ArmorRating_Blunt.description>Skydd mot krossskador såsom klubb-attacker, stenras och explosioner.</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.label>Skydd - Trubbig/Kross</ArmorRating_Blunt.label>
+  <!-- EN: The chance to affect blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
+  <ArmorRating_Blunt.description>Chansen att påverka trubbiga/kross skador ex knytnävslag, klubbor och stenras.\n\nNär du tar skada reduceras den först av värdet för penetration av ditt skydd. Återstående skyddsvärde jämförs sedan med ett slumpmässigt tal från 0 till 100.\n\n     -Om det slumpmässiga talet är under hälften av skyddsvärdet undviks skadan.\n     -Om det slumpmässiga talet är högre än hälften av skyddsvärdet men inte högre än skyddsvärdet minskar skadan. Det betyder att den reduceras med hälften.\n    -Om det slumpmässiga talet är högre än skyddsklassificeringen har skyddet ingen effekt.\n\ndTill exempel, vid 90% skyddsvärde mot en attack med 10% skyddspenetration finns det 40% chans att undvika attacken och 40% chans att minska själva skadan.\n\nNär det gäller skydd av vanliga kläder applicerar varje klädlager sitt skydd på attacken separat, utifrån och in.</ArmorRating_Blunt.description>
   
-  <!-- UNUSED -->
-  <ArmorRating_Electric.label>Skydd - Electricitet </ArmorRating_Electric.label>
-  <ArmorRating_Electric.description>Skydd mot elektriska skadom såsom EMP puls.</ArmorRating_Electric.description>
   
   <!-- EN: Armor - Heat -->
-  <ArmorRating_Heat.label>Skydd - Hetta</ArmorRating_Heat.label>
-  <!-- EN: The chance to affect temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor percentage is the chance the armor will affect the damage.\n\nIf the damage is affected, there is a 50% chance it will deflect harmlessly, and a 50% chance it will be mitigated. If it's mitigated, the damage is reduced by half.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
-  <ArmorRating_Heat.description>Skydd mot temperatur-relaterade skador såsom eld.</ArmorRating_Heat.description>
+  <ArmorRating_Heat.label>Skydd - Värme</ArmorRating_Heat.label>
+  <!-- EN: The chance to affect temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
+  <ArmorRating_Heat.description>Chansen att påverka temperaturrelaterade skador ex. brännskador.\n\n När du tar skada reduceras den först av värdet för penetration av ditt skydd. Återstående skyddsvärde jämförs sedan med ett slumpmässigt tal från 0 till 100.\n\n     -Om det slumpmässiga talet är under hälften av skyddsvärdet undviks skadan.\n     -Om det slumpmässiga talet är högre än hälften av skyddsvärdet men inte högre än skyddsvärdet minskar skadan. Det betyder att den reduceras med hälften.\n    -Om det slumpmässiga talet är högre än skyddsklassificeringen har skyddet ingen effekt.\n\ndTill exempel, vid 90% skyddsvärde mot en attack med 10% skyddspenetration finns det 40% chans att undvika attacken och 40% chans att minska själva skadan.\n\nNär det gäller skydd av vanliga kläder applicerar varje klädlager sitt skydd på attacken separat, utifrån och in.</ArmorRating_Heat.description>
   
   <!-- EN: Armor - Sharp -->
-  <ArmorRating_Sharp.label>Skydd - Stick</ArmorRating_Sharp.label>
-  <!-- EN: The chance to affect sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor percentage is the chance the armor will affect the damage.\n\nIf the damage is affected, there is a 50% chance it will deflect harmlessly, and a 50% chance it will be mitigated. If it's mitigated, the damage is converted into blunt damage and reduced by half.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
-  <ArmorRating_Sharp.description>Skydd mot vassa föremål som kulor, knivhugg och djurbett.</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.label>Skydd - Vass</ArmorRating_Sharp.label>
+  <!-- EN: The chance to affect sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor rating is then compared against a random number from 0 to 100.\n\n    -If the random number is under half the armor rating, the damage deflects harmlessly.\n    -If the random number is over half the armor rating, but not higher than the armor rating, the damage is mitigated. This means it is converted into blunt damage and reduced by half.\n    -If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nIn the case of apparel armor, each layer of apparel applies its armor to the attack separately, from the outside in. -->
+  <ArmorRating_Sharp.description>Chansen att påverka olika typer av vassa skador, exempelvis kulor, knivhugg, explotioner och djurbett.\n\nNär du tar skada reduceras den först av värdet för penetration av ditt skydd. Återstående skyddsvärde jämförs sedan med ett slumpmässigt tal från 0 till 100.\n\n     -Om det slumpmässiga talet är under hälften av skyddsvärdet undviks skadan.\n     -Om det slumpmässiga talet är högre än hälften av skyddsvärdet men inte högre än skyddsvärdet minskar skadan. Det betyder att den reduceras med hälften.\n    -Om det slumpmässiga talet är högre än skyddsklassificeringen har skyddet ingen effekt.\n\ndTill exempel, vid 90% skyddsvärde mot en attack med 10% skyddspenetration finns det 40% chans att undvika attacken och 40% chans att minska själva skadan.\n\nNär det gäller skydd av vanliga kläder applicerar varje klädlager sitt skydd på attacken separat, utifrån och in. Skydd mot vassa föremål som kulor, knivhugg och djurbett.</ArmorRating_Sharp.description>
   
   <!-- EN: Shield max energy -->
-  <EnergyShieldEnergyMax.label>Sköld max energi</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.label>Sköldens maxenergi</EnergyShieldEnergyMax.label>
   <!-- EN: The maximum energy a shield belt can have at one time. More energy absorbs more damage. -->
-  <EnergyShieldEnergyMax.description>Den maximala energin som ett skyddsbälte kan ha åt gången. Mer energi kan absorbera mer skada.</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.description>Den maximala energin som ett skyddsbälte kan ha åt gången. Mer energi absorberar mer skada.</EnergyShieldEnergyMax.description>
   
-  <!-- EN: {0}/s -->
-  <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
   <!-- EN: Shield recharge rate -->
-  <EnergyShieldRechargeRate.label>Sköld upladdningshastighet</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.label>Sköldens återuppladdningstid</EnergyShieldRechargeRate.label>
   <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
   <EnergyShieldRechargeRate.description>Den hastighet med vilken en sköld får energi så länge som den inte är sönder.</EnergyShieldRechargeRate.description>
+  <!-- EN: {0}/s -->
+  <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
   
-  <!-- EN: {0} s -->
-  <EquipDelay.formatString>TODO</EquipDelay.formatString>
   <!-- EN: equip delay -->
-  <EquipDelay.label>TODO</EquipDelay.label>
+  <EquipDelay.label>utrustningstid</EquipDelay.label>
   <!-- EN: The time it takes to equip and unequip this item. -->
-  <EquipDelay.description>TODO</EquipDelay.description>
+  <EquipDelay.description>Tiden det tar att utrusta sig eller ta av detta föremål.</EquipDelay.description>
+  <!-- EN: {0} s -->
+  <EquipDelay.formatString>{0} s</EquipDelay.formatString>
   
   <!-- EN: Insulation - Cold -->
-  <Insulation_Cold.label>Insulation - Kyla</Insulation_Cold.label>
+  <Insulation_Cold.label>Isolering - Kyla</Insulation_Cold.label>
   <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature. Greater values allow surviving in colder temperatures. -->
-  <Insulation_Cold.description>Hur mycket dessa kläder förändrar bärarens minimala komfortabla temperatur när plagget bärs.</Insulation_Cold.description>
+  <Insulation_Cold.description>Hur mycket detta plagg förbättrar bärarens minsta komforttemperatur. Större värden tillåter överlevnad i kyligare temperaturer.</Insulation_Cold.description>
   
   <!-- EN: Insulation - Heat -->
-  <Insulation_Heat.label>Insulation - Hetta</Insulation_Heat.label>
+  <Insulation_Heat.label>Isolering - Värme</Insulation_Heat.label>
   <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature. Greater values allow surviving in warmer temperatures. -->
-  <Insulation_Heat.description>Hur mycket dessa kläder förändrar bärarens maximala komfortabla temperatur när plagget bärs.</Insulation_Heat.description>
+  <Insulation_Heat.description>Hur mycket detta plagg förbättrar bärarens maximala komforttemperatur. Större värden tillåter överlevnad i varmare temperaturer.</Insulation_Heat.description>
   
-  <!-- EN: {0} c -->
-  <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
   <!-- EN: Smokepop belt radius -->
-  <SmokepopBeltRadius.label>Rökskyddsbälte radie</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.label>Rökskyddsbältets radie</SmokepopBeltRadius.label>
   <!-- EN: The area obscured when a smokepop belt detonates. -->
   <SmokepopBeltRadius.description>Området som döljs när ett rökskyddsbälte detonerar.</SmokepopBeltRadius.description>
+  <!-- EN: {0} c -->
+  <SmokepopBeltRadius.formatString>{0} r</SmokepopBeltRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->
-  <StuffEffectMultiplierArmor.label>TODO</StuffEffectMultiplierArmor.label>
+  <StuffEffectMultiplierArmor.label>Skydd - Materialeffektsmultiplikator</StuffEffectMultiplierArmor.label>
   
   <!-- EN: Insulation - Cold - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Cold.label>TODO</StuffEffectMultiplierInsulation_Cold.label>
+  <StuffEffectMultiplierInsulation_Cold.label>Isolering - Kyla - Materialeffektsmultiplikator</StuffEffectMultiplierInsulation_Cold.label>
   
   <!-- EN: Insulation - Heat - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Heat.label>TODO</StuffEffectMultiplierInsulation_Heat.label>
+  <StuffEffectMultiplierInsulation_Heat.label>Isolering - Värme - Materialeffektsmultiplikator</StuffEffectMultiplierInsulation_Heat.label>
   
 </LanguageData>

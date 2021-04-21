@@ -27,11 +27,11 @@
   <!-- EN: Manage outfits -->
   <ManageOutfits>Hantera utstyrsel</ManageOutfits>
   <!-- EN: Clear forced -->
-  <ClearForcedApparel>Töm tvångade kläder</ClearForcedApparel>
+  <ClearForcedApparel>Ta av tvångskläder</ClearForcedApparel>
   <!-- EN: forced -->
-  <ApparelForcedLower>Tvingad på</ApparelForcedLower>
+  <ApparelForcedLower>Tvingad</ApparelForcedLower>
   <!-- EN: Forced apparel -->
-  <ForcedApparel>Tvingade på kläder</ForcedApparel>
+  <ForcedApparel>Tvångskläder</ForcedApparel>
   <!-- EN: Edit... -->
   <AssignTabEdit>Redigera...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
@@ -39,7 +39,7 @@
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
-  <Copy>Klipp</Copy>
+  <Copy>Kopiera</Copy>
   <!-- EN: Paste -->
   <Paste>Klistra</Paste>
   <!-- EN: Allowed area -->
@@ -47,15 +47,15 @@
   
   <!-- Animals tab -->
   <!-- EN: Master -->
-  <Master>Herre</Master>
+  <Master>Ägare</Master>
   <!-- EN: Pregnant ({0} / {1}) -->
   <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
-  <BondedTo>Har ett band med</BondedTo>
+  <BondedTo>Är kärt till</BondedTo>
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
-  <IsPredator>Denna varelse är en rovdjur. När den är hungrig, kommer den att jaga mindre varelser - eventuellt även människor.</IsPredator>
+  <IsPredator>Denna varelse är en rovdjur. När det är hungrigt kommer den att jaga mindre varelser - eventuellt även människor.</IsPredator>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
@@ -69,13 +69,13 @@
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>Nuvarande välvilja och relationstatus med denna grupp.</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
-  <CurrentGoodwillTip_PermanentEnemy>Denna grupp är permanent fientlig. De kommer att ibland attackera dina bosättningar och karavaner. Förhållandena med dem kommer aldrig att förbättras.</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_PermanentEnemy>Denna grupp är permanent fientlig. De kommer ibland attackera dina bosättningar och karavaner. Förhållandet med dem kommer aldrig att förbättras.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
   <CurrentGoodwillTip_Ally>Denna grupp är allierad. De skickar soldater till dig för att hjälpa när de kan. Om relationerna faller under {0} blir de neutrala.</CurrentGoodwillTip_Ally>
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
-  <CurrentGoodwillTip_Neutral>Denna grupp är neutral. De kommer att handla och prata med dig fritt. Om relationerna faller under {0} blir de fientliga. Om relationerna stiger över {1} kommer de att bli allierade och börja aktivt arbeta för att hjälpa dig.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Neutral>Denna grupp är neutral. De kommer att handla och prata med dig. Om relationerna faller under {0} blir de fientliga. Om relationerna stiger över {1} kommer de att bli allierade och aktivt arbeta för att hjälpa dig.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>Denna grupp är fientlig. De kommer att ibland attackera dina bosättningar och karavaner. Om relationerna stiger över {0} blir de neutrala.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>Denna grupp är fientlig. De kommer ibland attackera dina bosättningar och karavaner. Om relationerna stiger över {0} blir de neutrala.</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
   <CurrentGoodwillTip_NaturalGoodwill>Denna grupp har ett neutralt välviljeintervall från {0} till {1}. Om era relationer är över {1} kommer den att falla med {3} varje dag. Om era relationer är under {0}, kommer den att stiga med {2} per dag.</CurrentGoodwillTip_NaturalGoodwill>
   
@@ -85,7 +85,7 @@
   <!-- EN: Rival -->
   <Rival>Rival</Rival>
   <!-- EN: Acquaintance -->
-  <Acquaintance>Bekanta</Acquaintance>
+  <Acquaintance>Bekant</Acquaintance>
   
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
@@ -117,7 +117,7 @@
   <!-- EN: Show messages -->
   <ShowMessages>Visa meddelanden</ShowMessages>
   <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
-  <PinArchivableTip>Fäst eller avfäst det här meddelandet.\n\nDe äldsta avfästa meddelandena tas bort automatiskt från listan efter att ha nått gränsen för {0} meddelanden.</PinArchivableTip>
+  <PinArchivableTip>Fäst eller släpp det här meddelandet.\n\nDe äldsta släppta meddelandena tas bort automatiskt från listan efter att ha nått gränsen för {0} meddelanden.</PinArchivableTip>
   <!-- EN: no messages -->
   <NoMessages>inga meddelanden</NoMessages>
 
@@ -125,7 +125,7 @@
   <!-- EN: Play time -->
   <Playtime>Speltid</Playtime>
   <!-- EN: Storyteller -->
-  <Storyteller>AI berättare</Storyteller>
+  <Storyteller>Berättare</Storyteller>
   <!-- EN: Colony wealth (this map) -->
   <ThisMapColonyWealthTotal>Kolonins rikedom (denna karta)</ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->

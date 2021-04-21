@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: colonist mood -->
-  <ColonistMood.label>Humör hos kolonister</ColonistMood.label>
+  <ColonistMood.label>Kolonisters humör</ColonistMood.label>
   
   <!-- EN: debug -->
   <Debug.label>debug</Debug.label>
   
   <!-- EN: population -->
   <Population.label>folkmängd</Population.label>
-
+  
   <!-- EN: wealth -->
-  <Wealth.label>Rikedom</Wealth.label>
+  <Wealth.label>rikedom</Wealth.label>
   
 </LanguageData>

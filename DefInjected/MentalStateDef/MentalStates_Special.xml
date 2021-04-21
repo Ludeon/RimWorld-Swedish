@@ -1,53 +1,51 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: {0} has become a manhunter! -->
-  <Manhunter.beginLetter>{0} har blivit en människojägare!</Manhunter.beginLetter>
-  <!-- EN: manhunter -->
-  <Manhunter.beginLetterLabel>människojägare</Manhunter.beginLetterLabel>
-  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <Manhunter.recoveryMessage>{0}'s människojagande blodlust har kommit till sitt slut.</Manhunter.recoveryMessage>
-  <!-- EN: Maddened: Manhunter -->
-  <Manhunter.baseInspectLine>Galen: Människojägare</Manhunter.baseInspectLine>
   <!-- EN: manhunter -->
   <Manhunter.label>människojägare</Manhunter.label>
-  
-  <!-- EN: {0} has become a manhunter! -->
-  <ManhunterPermanent.beginLetter>{0} har blivit en människojägare!</ManhunterPermanent.beginLetter>
-  <!-- EN: manhunter -->
-  <ManhunterPermanent.beginLetterLabel>människojägare</ManhunterPermanent.beginLetterLabel>
-  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <ManhunterPermanent.recoveryMessage>{0}'s människojagande blodlust har kommit till sitt slut.</ManhunterPermanent.recoveryMessage>
   <!-- EN: Maddened: Manhunter -->
-  <ManhunterPermanent.baseInspectLine>Galen: Människojägare</ManhunterPermanent.baseInspectLine>
+  <Manhunter.baseInspectLine>Galen: Människojägare</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetter>{0} har blivit en människojägare!</Manhunter.beginLetter>
+  <Manhunter.beginLetterLabel>människojägare</Manhunter.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>{0}s människojagande blodlust har avtagit.</Manhunter.recoveryMessage>
+  
   <!-- EN: manhunter -->
   <ManhunterPermanent.label>människojägare</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>Galen: Människojägare</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetter>{0} har blivit en människojägare!</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>människojägare</ManhunterPermanent.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>{0}s människojagande blodlust avtagit.</ManhunterPermanent.recoveryMessage>
   
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>flyr i panik</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>Mentalt tillstånd: Flyr i panik</PanicFlee.baseInspectLine>
   <!-- EN: {0} is fleeing in panic. -->
   <PanicFlee.beginLetter>{0} flyr i panik.</PanicFlee.beginLetter>
   <!-- EN: flee -->
   <PanicFlee.beginLetterLabel>flyr</PanicFlee.beginLetterLabel>
   <!-- EN: {0} is no longer fleeing in panic. -->
   <PanicFlee.recoveryMessage>{0} flyr inte längre i panik.</PanicFlee.recoveryMessage>
-  <!-- EN: Mental state: Fleeing in panic -->
-  <PanicFlee.baseInspectLine>Mentalt tillstånd: Flyr i panik</PanicFlee.baseInspectLine>
-  <!-- EN: panic fleeing -->
-  <PanicFlee.label>flyr i panik</PanicFlee.label>
   
-  <!-- EN: Mental state: Social fighting -->
-  <SocialFighting.baseInspectLine>Mentalt tillstånd: Grälar</SocialFighting.baseInspectLine>
   <!-- EN: social fighting -->
   <SocialFighting.label>grälar</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
+  <SocialFighting.baseInspectLine>Mentalt tillstånd: Grälar</SocialFighting.baseInspectLine>
   
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>Förvirrat strövande</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>Mentalt tillstånd: Förvirrat strövande</WanderConfused.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around confused. -->
-  <WanderConfused.beginLetter>{0} är nedbruten och vandrar runt förvirrad.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetter>{0} har ett sammanbrott och strövar runt alldeles förvirrad.</WanderConfused.beginLetter>
   <!-- EN: confusion -->
   <WanderConfused.beginLetterLabel>förvirring</WanderConfused.beginLetterLabel>
   <!-- EN: {0} is no longer confused. -->
   <WanderConfused.recoveryMessage>{0} är inte längre förvirrad.</WanderConfused.recoveryMessage>
-  <!-- EN: Mental state: Confused and wandering -->
-  <WanderConfused.baseInspectLine>Mentalt tillstånd: Vandrar och är förvirrad</WanderConfused.baseInspectLine>
-  <!-- EN: confused wandering -->
-  <WanderConfused.label>vandrar förvirrat</WanderConfused.label>
   
 </LanguageData>

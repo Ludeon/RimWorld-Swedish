@@ -1,110 +1,110 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: cassowary -->
+  <Cassowary.label>kasuar</Cassowary.label>
+  <Cassowary.labelFemale>kasuarhöna</Cassowary.labelFemale>
+  <Cassowary.labelFemalePlural>kasuarhönor</Cassowary.labelFemalePlural>
+  <Cassowary.labelMale>kasuartupp</Cassowary.labelMale>
+  <Cassowary.labelMalePlural>kasuartupp</Cassowary.labelMalePlural>
   <!-- EN: cassowaries -->
   <Cassowary.labelPlural>kasuarer</Cassowary.labelPlural>
   <Cassowary.lifeStages.0.label>kasuarkyckling</Cassowary.lifeStages.0.label>
-  <Cassowary.lifeStages.0.labelPlural>kasuarkycklingar</Cassowary.lifeStages.0.labelPlural>
-  <Cassowary.lifeStages.0.labelMale>kasuarkyckling</Cassowary.lifeStages.0.labelMale>
-  <Cassowary.lifeStages.0.labelMalePlural>kasuarkycklingar</Cassowary.lifeStages.0.labelMalePlural>
   <Cassowary.lifeStages.0.labelFemale>kasuarkyckling</Cassowary.lifeStages.0.labelFemale>
   <Cassowary.lifeStages.0.labelFemalePlural>kasuarkycklingar</Cassowary.lifeStages.0.labelFemalePlural>
+  <Cassowary.lifeStages.0.labelMale>kasuarkyckling</Cassowary.lifeStages.0.labelMale>
+  <Cassowary.lifeStages.0.labelMalePlural>kasuarkycklingar</Cassowary.lifeStages.0.labelMalePlural>
+  <Cassowary.lifeStages.0.labelPlural>kasuarkycklingar</Cassowary.lifeStages.0.labelPlural>
   <Cassowary.lifeStages.1.label>kasuarunge</Cassowary.lifeStages.1.label>
-  <Cassowary.lifeStages.1.labelPlural>kasuarungar</Cassowary.lifeStages.1.labelPlural>
-  <Cassowary.lifeStages.1.labelMale>kasuarunge</Cassowary.lifeStages.1.labelMale>
-  <Cassowary.lifeStages.1.labelMalePlural>kasuarungar</Cassowary.lifeStages.1.labelMalePlural>
   <Cassowary.lifeStages.1.labelFemale>kasuarunge</Cassowary.lifeStages.1.labelFemale>
   <Cassowary.lifeStages.1.labelFemalePlural>kasuarungar</Cassowary.lifeStages.1.labelFemalePlural>
+  <Cassowary.lifeStages.1.labelMale>kasuarunge</Cassowary.lifeStages.1.labelMale>
+  <Cassowary.lifeStages.1.labelMalePlural>kasuarungar</Cassowary.lifeStages.1.labelMalePlural>
+  <Cassowary.lifeStages.1.labelPlural>kasuarungar</Cassowary.lifeStages.1.labelPlural>
   <Cassowary.lifeStages.2.label>kasuar</Cassowary.lifeStages.2.label>
+  <Cassowary.lifeStages.2.labelFemale>kasuar</Cassowary.lifeStages.2.labelFemale>
+  <Cassowary.lifeStages.2.labelFemalePlural>kasuarer</Cassowary.lifeStages.2.labelFemalePlural>
+  <Cassowary.lifeStages.2.labelMale>kasuar</Cassowary.lifeStages.2.labelMale>
+  <Cassowary.lifeStages.2.labelMalePlural>kasuarer</Cassowary.lifeStages.2.labelMalePlural>
   <Cassowary.lifeStages.2.labelPlural>kasuarer</Cassowary.lifeStages.2.labelPlural>
-  <Cassowary.lifeStages.2.labelMale>kasuartupp</Cassowary.lifeStages.2.labelMale>
-  <Cassowary.lifeStages.2.labelMalePlural>kasuartuppar</Cassowary.lifeStages.2.labelMalePlural>
-  <Cassowary.lifeStages.2.labelFemale>kasuarhöna</Cassowary.lifeStages.2.labelFemale>
-  <Cassowary.lifeStages.2.labelFemalePlural>kasuarhönor</Cassowary.lifeStages.2.labelFemalePlural>
-  <Cassowary.labelMale>kasuartupp</Cassowary.labelMale>
-  <Cassowary.labelMalePlural>kasuartuppar</Cassowary.labelMalePlural>
-  <Cassowary.labelFemale>kasuarhöna</Cassowary.labelFemale>
-  <Cassowary.labelFemalePlural>kasuarhönor</Cassowary.labelFemalePlural>
-  <!-- EN: cassowary -->
-  <Cassowary.label>kasuar</Cassowary.label>
   
-  <Emu.labelPlural>emuer</Emu.labelPlural>
-  <Emu.lifeStages.0.label>emukyckling</Emu.lifeStages.0.label>
-  <Emu.lifeStages.0.labelPlural>emukycklingar</Emu.lifeStages.0.labelPlural>
-  <Emu.lifeStages.0.labelMale>emukyckling</Emu.lifeStages.0.labelMale>
-  <Emu.lifeStages.0.labelMalePlural>emukycklingar</Emu.lifeStages.0.labelMalePlural>
-  <Emu.lifeStages.0.labelFemale>emukyckling</Emu.lifeStages.0.labelFemale>
-  <Emu.lifeStages.0.labelFemalePlural>emukycklingar</Emu.lifeStages.0.labelFemalePlural>
-  <Emu.lifeStages.1.label>emuunge</Emu.lifeStages.1.label>
-  <Emu.lifeStages.1.labelPlural>emuungar</Emu.lifeStages.1.labelPlural>
-  <Emu.lifeStages.1.labelMale>emuunge</Emu.lifeStages.1.labelMale>
-  <Emu.lifeStages.1.labelMalePlural>emuungar</Emu.lifeStages.1.labelMalePlural>
-  <Emu.lifeStages.1.labelFemale>emuunge</Emu.lifeStages.1.labelFemale>
-  <Emu.lifeStages.1.labelFemalePlural>emuungar</Emu.lifeStages.1.labelFemalePlural>
-  <Emu.lifeStages.2.label>emu</Emu.lifeStages.2.label>
-  <Emu.lifeStages.2.labelPlural>emuer</Emu.lifeStages.2.labelPlural>
-  <Emu.lifeStages.2.labelMale>emutupp</Emu.lifeStages.2.labelMale>
-  <Emu.lifeStages.2.labelMalePlural>emutuppar</Emu.lifeStages.2.labelMalePlural>
-  <Emu.lifeStages.2.labelFemale>emuhöna</Emu.lifeStages.2.labelFemale>
-  <Emu.lifeStages.2.labelFemalePlural>emuhönor</Emu.lifeStages.2.labelFemalePlural>
-  <Emu.labelMale>emutupp</Emu.labelMale>
-  <Emu.labelMalePlural>emutuppar</Emu.labelMalePlural>
-  <Emu.labelFemale>emuhöna</Emu.labelFemale>
-  <Emu.labelFemalePlural>emuhönor</Emu.labelFemalePlural>
   <!-- EN: emu -->
   <Emu.label>emu</Emu.label>
+  <Emu.labelFemale>emuhöna</Emu.labelFemale>
+  <Emu.labelFemalePlural>emuhönor</Emu.labelFemalePlural>
+  <Emu.labelMale>emutupp</Emu.labelMale>
+  <Emu.labelMalePlural>emutuppar</Emu.labelMalePlural>
+  <Emu.labelPlural>emuer</Emu.labelPlural>
+  <Emu.lifeStages.0.label>emukyckling</Emu.lifeStages.0.label>
+  <Emu.lifeStages.0.labelFemale>emukyckling</Emu.lifeStages.0.labelFemale>
+  <Emu.lifeStages.0.labelFemalePlural>emukycklingar</Emu.lifeStages.0.labelFemalePlural>
+  <Emu.lifeStages.0.labelMale>emukyckling</Emu.lifeStages.0.labelMale>
+  <Emu.lifeStages.0.labelMalePlural>emukycklingar</Emu.lifeStages.0.labelMalePlural>
+  <Emu.lifeStages.0.labelPlural>emukycklingar</Emu.lifeStages.0.labelPlural>
+  <Emu.lifeStages.1.label>emuunge</Emu.lifeStages.1.label>
+  <Emu.lifeStages.1.labelFemale>emuunge</Emu.lifeStages.1.labelFemale>
+  <Emu.lifeStages.1.labelFemalePlural>emuungar</Emu.lifeStages.1.labelFemalePlural>
+  <Emu.lifeStages.1.labelMale>emuunge</Emu.lifeStages.1.labelMale>
+  <Emu.lifeStages.1.labelMalePlural>emuungar</Emu.lifeStages.1.labelMalePlural>
+  <Emu.lifeStages.1.labelPlural>emuungar</Emu.lifeStages.1.labelPlural>
+  <Emu.lifeStages.2.label>emu</Emu.lifeStages.2.label>
+  <Emu.lifeStages.2.labelFemale>emu</Emu.lifeStages.2.labelFemale>
+  <Emu.lifeStages.2.labelFemalePlural>emuer</Emu.lifeStages.2.labelFemalePlural>
+  <Emu.lifeStages.2.labelMale>emu</Emu.lifeStages.2.labelMale>
+  <Emu.lifeStages.2.labelMalePlural>emuer</Emu.lifeStages.2.labelMalePlural>
+  <Emu.lifeStages.2.labelPlural>emuer</Emu.lifeStages.2.labelPlural>
   
+  <!-- EN: ostrich -->
+  <Ostrich.label>struts</Ostrich.label>
+  <Ostrich.labelFemale>strutshona</Ostrich.labelFemale>
+  <Ostrich.labelFemalePlural>strutshonor</Ostrich.labelFemalePlural>
+  <Ostrich.labelMale>strutshane</Ostrich.labelMale>
+  <Ostrich.labelMalePlural>strutshanar</Ostrich.labelMalePlural>
   <!-- EN: ostriches -->
   <Ostrich.labelPlural>strutsar</Ostrich.labelPlural>
   <Ostrich.lifeStages.0.label>strutskyckling</Ostrich.lifeStages.0.label>
-  <Ostrich.lifeStages.0.labelPlural>strutskycklingar</Ostrich.lifeStages.0.labelPlural>
-  <Ostrich.lifeStages.0.labelMale>strutskyckling</Ostrich.lifeStages.0.labelMale>
-  <Ostrich.lifeStages.0.labelMalePlural>strutskycklingar</Ostrich.lifeStages.0.labelMalePlural>
   <Ostrich.lifeStages.0.labelFemale>strutskyckling</Ostrich.lifeStages.0.labelFemale>
   <Ostrich.lifeStages.0.labelFemalePlural>strutskycklingar</Ostrich.lifeStages.0.labelFemalePlural>
+  <Ostrich.lifeStages.0.labelMale>strutskyckling</Ostrich.lifeStages.0.labelMale>
+  <Ostrich.lifeStages.0.labelMalePlural>strutskycklingar</Ostrich.lifeStages.0.labelMalePlural>
+  <Ostrich.lifeStages.0.labelPlural>strutskycklingar</Ostrich.lifeStages.0.labelPlural>
   <Ostrich.lifeStages.1.label>strutsunge</Ostrich.lifeStages.1.label>
-  <Ostrich.lifeStages.1.labelPlural>strutsungar</Ostrich.lifeStages.1.labelPlural>
-  <Ostrich.lifeStages.1.labelMale>strutsunge</Ostrich.lifeStages.1.labelMale>
-  <Ostrich.lifeStages.1.labelMalePlural>strutsungar</Ostrich.lifeStages.1.labelMalePlural>
   <Ostrich.lifeStages.1.labelFemale>strutsunge</Ostrich.lifeStages.1.labelFemale>
   <Ostrich.lifeStages.1.labelFemalePlural>strutsungar</Ostrich.lifeStages.1.labelFemalePlural>
+  <Ostrich.lifeStages.1.labelMale>strutsunge</Ostrich.lifeStages.1.labelMale>
+  <Ostrich.lifeStages.1.labelMalePlural>strutsungar</Ostrich.lifeStages.1.labelMalePlural>
+  <Ostrich.lifeStages.1.labelPlural>strutsungar</Ostrich.lifeStages.1.labelPlural>
   <Ostrich.lifeStages.2.label>struts</Ostrich.lifeStages.2.label>
+  <Ostrich.lifeStages.2.labelFemale>struts</Ostrich.lifeStages.2.labelFemale>
+  <Ostrich.lifeStages.2.labelFemalePlural>strutsar</Ostrich.lifeStages.2.labelFemalePlural>
+  <Ostrich.lifeStages.2.labelMale>struts</Ostrich.lifeStages.2.labelMale>
+  <Ostrich.lifeStages.2.labelMalePlural>strutsar</Ostrich.lifeStages.2.labelMalePlural>
   <Ostrich.lifeStages.2.labelPlural>strutsar</Ostrich.lifeStages.2.labelPlural>
-  <Ostrich.lifeStages.2.labelMale>strutstupp</Ostrich.lifeStages.2.labelMale>
-  <Ostrich.lifeStages.2.labelMalePlural>strutstuppar</Ostrich.lifeStages.2.labelMalePlural>
-  <Ostrich.lifeStages.2.labelFemale>strutshöna</Ostrich.lifeStages.2.labelFemale>
-  <Ostrich.lifeStages.2.labelFemalePlural>strutshönor</Ostrich.lifeStages.2.labelFemalePlural>
-  <Ostrich.labelMale>strutstupp</Ostrich.labelMale>
-  <Ostrich.labelMalePlural>strutstuppar</Ostrich.labelMalePlural>
-  <Ostrich.labelFemale>strutshöna</Ostrich.labelFemale>
-  <Ostrich.labelFemalePlural>strutshönor</Ostrich.labelFemalePlural>
-  <!-- EN: ostrich -->
-  <Ostrich.label>struts</Ostrich.label>
   
-  <Turkey.labelPlural>kalkoner</Turkey.labelPlural>
-  <Turkey.lifeStages.0.label>kalkonkyckling</Turkey.lifeStages.0.label>
-  <Turkey.lifeStages.0.labelPlural>kalkonkycklingar</Turkey.lifeStages.0.labelPlural>
-  <Turkey.lifeStages.0.labelMale>kalkonkyckling</Turkey.lifeStages.0.labelMale>
-  <Turkey.lifeStages.0.labelMalePlural>kalkonkycklingar</Turkey.lifeStages.0.labelMalePlural>
-  <Turkey.lifeStages.0.labelFemale>kalkonkyckling</Turkey.lifeStages.0.labelFemale>
-  <Turkey.lifeStages.0.labelFemalePlural>kalkonkycklingar</Turkey.lifeStages.0.labelFemalePlural>
-  <Turkey.lifeStages.1.label>kalkonunge</Turkey.lifeStages.1.label>
-  <Turkey.lifeStages.1.labelPlural>kalkonungar</Turkey.lifeStages.1.labelPlural>
-  <Turkey.lifeStages.1.labelMale>kalkonunge</Turkey.lifeStages.1.labelMale>
-  <Turkey.lifeStages.1.labelMalePlural>kalkonungar</Turkey.lifeStages.1.labelMalePlural>
-  <Turkey.lifeStages.1.labelFemale>kalkonunge</Turkey.lifeStages.1.labelFemale>
-  <Turkey.lifeStages.1.labelFemalePlural>kalkonungar</Turkey.lifeStages.1.labelFemalePlural>
-  <Turkey.lifeStages.2.label>kalkon</Turkey.lifeStages.2.label>
-  <Turkey.lifeStages.2.labelPlural>kalkoner</Turkey.lifeStages.2.labelPlural>
-  <Turkey.lifeStages.2.labelMale>kalkontupp</Turkey.lifeStages.2.labelMale>
-  <Turkey.lifeStages.2.labelMalePlural>kalkontuppar</Turkey.lifeStages.2.labelMalePlural>
-  <Turkey.lifeStages.2.labelFemale>kalkonhöna</Turkey.lifeStages.2.labelFemale>
-  <Turkey.lifeStages.2.labelFemalePlural>kalkonhönor</Turkey.lifeStages.2.labelFemalePlural>
-  <Turkey.labelMale>kalkontupp</Turkey.labelMale>
-  <Turkey.labelMalePlural>kalkontuppar</Turkey.labelMalePlural>
-  <Turkey.labelFemale>kalkonhöna</Turkey.labelFemale>
-  <Turkey.labelFemalePlural>kalkonhönor</Turkey.labelFemalePlural>
   <!-- EN: turkey -->
   <Turkey.label>kalkon</Turkey.label>
+  <Turkey.labelFemale>kalkonhona</Turkey.labelFemale>
+  <Turkey.labelFemalePlural>kalkonhonor</Turkey.labelFemalePlural>
+  <Turkey.labelMale>kalkonhane</Turkey.labelMale>
+  <Turkey.labelMalePlural>kalkonhanar</Turkey.labelMalePlural>
+  <Turkey.labelPlural>kalkoner</Turkey.labelPlural>
+  <Turkey.lifeStages.0.label>kalkonkyckling</Turkey.lifeStages.0.label>
+  <Turkey.lifeStages.0.labelFemale>kalkonkyckling</Turkey.lifeStages.0.labelFemale>
+  <Turkey.lifeStages.0.labelFemalePlural>kalkonkycklingar</Turkey.lifeStages.0.labelFemalePlural>
+  <Turkey.lifeStages.0.labelMale>kalkonkyckling</Turkey.lifeStages.0.labelMale>
+  <Turkey.lifeStages.0.labelMalePlural>kalkonkycklingar</Turkey.lifeStages.0.labelMalePlural>
+  <Turkey.lifeStages.0.labelPlural>kalkonkycklingar</Turkey.lifeStages.0.labelPlural>
+  <Turkey.lifeStages.1.label>kalkonunge</Turkey.lifeStages.1.label>
+  <Turkey.lifeStages.1.labelFemale>kalkonunge</Turkey.lifeStages.1.labelFemale>
+  <Turkey.lifeStages.1.labelFemalePlural>kalkonungar</Turkey.lifeStages.1.labelFemalePlural>
+  <Turkey.lifeStages.1.labelMale>kalkonunge</Turkey.lifeStages.1.labelMale>
+  <Turkey.lifeStages.1.labelMalePlural>kalkonungar</Turkey.lifeStages.1.labelMalePlural>
+  <Turkey.lifeStages.1.labelPlural>kalkonungar</Turkey.lifeStages.1.labelPlural>
+  <Turkey.lifeStages.2.label>kalkon</Turkey.lifeStages.2.label>
+  <Turkey.lifeStages.2.labelFemale>kalkon</Turkey.lifeStages.2.labelFemale>
+  <Turkey.lifeStages.2.labelFemalePlural>kalkoner</Turkey.lifeStages.2.labelFemalePlural>
+  <Turkey.lifeStages.2.labelMale>kalkon</Turkey.lifeStages.2.labelMale>
+  <Turkey.lifeStages.2.labelMalePlural>kalkoner</Turkey.lifeStages.2.labelMalePlural>
+  <Turkey.lifeStages.2.labelPlural>kalkoner</Turkey.lifeStages.2.labelPlural>
   
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
@@ -6,8 +6,8 @@
   <TabBills>Beställning</TabBills>
   <!-- EN: Growing -->
   <TabGrowing>Växer</TabGrowing>
-  <!-- EN: Story -->
-  <TabCharacter>Karaktär</TabCharacter>
+  <!-- EN: Bio -->
+  <TabCharacter>Biografi</TabCharacter>
   <!-- EN: Training -->
   <TabTraining>Träning</TabTraining>
   <!-- EN: Prisoner -->
@@ -21,13 +21,13 @@
   <!-- EN: Storage -->
   <TabStorage>Förvaring</TabStorage>
   <!-- EN: Shells -->
-  <TabShells>Granater</TabShells>
+  <TabShells>Patroner</TabShells>
   <!-- EN: Health -->
   <TabHealth>Hälsa</TabHealth>
   <!-- EN: Race -->
   <TabRace>Ras</TabRace>
   <!-- EN: Basics -->
-  <TabBasics>Grundläggande</TabBasics>
+  <TabBasics>Grunder</TabBasics>
   <!-- EN: Stats -->
   <TabStats>Statistik</TabStats>
   <!-- EN: Records -->
@@ -40,22 +40,24 @@
   <TabLog>Logg</TabLog>
   <!-- EN: Caravan -->
   <TabFormingCaravan>Karavan</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>Innehåll</TabTransporterContents>
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>Lägg till beställning</AddBill>
+  <AddBill>Lägg beställning</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>Receptet {0} kräver nedanstående färdigheter. Ingen av dina kolonister har dessa färdigheter, så ingen kommer att göra denna beställning.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>Min färdighet</MinimumSkill>
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>AVSTÄNGD</SuspendedCaps>
-  <!-- EN: Worker: {0} -->
-  <BoundWorkerIs>Arbetare: {0}</BoundWorkerIs>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>Arbetare: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>Plantera</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>Kopierad order kan inte klistras här.</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>Kopierad order kan inte klistras in här.</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
   <ReorderBillUpTip>Flytta upp</ReorderBillUpTip>
   <!-- EN: Move down -->
@@ -77,11 +79,11 @@
   <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Svårighetsgrad för rekrytering</RecruitmentDifficulty>
   <!-- EN: Gets food -->
-  <GetsFood>Hämtar mat</GetsFood>
+  <GetsFood>Får mat</GetsFood>
   <!-- EN: Doctors care -->
   <DoctorsCare>Läkarbehandling</DoctorsCare>
   <!-- EN: Gets medicine -->
-  <GetsMedicine>Hämtar medicin</GetsMedicine>
+  <GetsMedicine>Får medicin</GetsMedicine>
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Försök rekrytera</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
@@ -93,7 +95,7 @@
   <!-- EN: Efficiency -->
   <Efficiency>Effektivitet</Efficiency>
   <!-- EN: Part efficiency -->
-  <PartEfficiency>Del effektivitet</PartEfficiency>
+  <PartEfficiency>Deleffektivitet</PartEfficiency>
   <!-- EN: Body part efficiency -->
   <BodyPartEfficiency>Kroppsdelens effektivitet</BodyPartEfficiency>
   <!-- EN: Gone -->
@@ -107,13 +109,13 @@
   <!-- EN: Healthy -->
   <Healthy>Hälsosam</Healthy>
   <!-- EN: In pain -->
-  <InPain>Har smärta</InPain>
+  <InPain>Viss smärta</InPain>
   <!-- EN: Pain -->
   <PainLevel>Smärta</PainLevel>
   <!-- EN: Injured -->
   <Injured>Skadad</Injured>
   <!-- EN: no health conditions -->
-  <NoHealthConditions>inget hälsotillstånd</NoHealthConditions>
+  <NoHealthConditions>inga hälsotillstånd</NoHealthConditions>
   <!-- EN: Whole body -->
   <WholeBody>Hela kroppen</WholeBody>
   <!-- EN: Data processing -->
@@ -123,7 +125,7 @@
   <!-- EN: Affects -->
   <Affects>Berör</Affects>
   <!-- EN: Bleeding -->
-  <BleedingRate>blödningshastighet</BleedingRate>
+  <BleedingRate>Blöder</BleedingRate>
   <!-- EN: death in {0} -->
   <TimeToDeath>död om {0}</TimeToDeath>
   <!-- EN: no immediate danger -->
@@ -137,11 +139,11 @@
   <!-- EN: Medical operations -->
   <MedicalOperations>Medicinska operationer</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>Aputera</Amputate>
+  <Amputate>amputera</Amputate>
   <!-- EN: harvest -->
-  <HarvestOrgan>Skörda</HarvestOrgan>
+  <HarvestOrgan>skörda</HarvestOrgan>
   <!-- EN: remove -->
-  <RemoveOrgan>Avlägsna</RemoveOrgan>
+  <RemoveOrgan>avlägsna</RemoveOrgan>
   <!-- EN: memory -->
   <MemoryLower>minne</MemoryLower>
   <!-- EN: social interactions -->
@@ -153,11 +155,11 @@
   <!-- EN: Pain -->
   <PainFactor>Smärta</PainFactor>
   <!-- EN: Prevents infection -->
-  <PreventsInfection>Förhindra infektion</PreventsInfection>
+  <PreventsInfection>Förhindrar infektion</PreventsInfection>
   <!-- EN: Self-tend -->
   <SelfTend>Självbehandla</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>Med självbehandla aktiverat kommer {0} automatiskt ta hand om sina egna sår med {1} effektivitet.</SelfTendTip>
+  <SelfTendTip>{0} med självbehandla aktiverat kommer automatiskt ta hand om sina egna sår med {1} av normal effektivitet.</SelfTendTip>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
@@ -194,8 +196,8 @@
   <Trainability>Träningsförmåga</Trainability>
   <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>Kräver träningsbar intelligens {0}.</CannotTrainNotSmartEnough>
-  <!-- EN: {0} is too small to train this. -->
-  <CannotTrainTooSmall>{0} är för liten för att kunna träna detta.</CannotTrainTooSmall>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{1_labelShort} är för liten för att kunna träna detta.</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Förutsättning behövs: {0}</TrainingNeedsPrerequisite>
@@ -211,10 +213,10 @@
   <Slave>Slav</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>Fraktionens ledare</FactionLeader>
-  <!-- EN: Opinion of {0} -->
-  <OpinionOf>Åsikt av {0}</OpinionOf>
-  <!-- EN: {0}'s opinion of me -->
-  <SomeonesOpinionOfMe>{0}'s åsikt av mig</SomeonesOpinionOfMe>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>Åsikt om {1_labelShort}</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>{1_labelShort}s åsikt om mig</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>Jag är död</IAmDead>
   <!-- EN: I'm a psychopath -->
@@ -228,9 +230,9 @@
   <!-- EN: Comfortable temperature range -->
   <ComfyTemperatureRange>Komfortabel temperaturzon</ComfyTemperatureRange>
   <!-- EN: Blunt -->
-  <ArmorBlunt>Trubbigt</ArmorBlunt>
+  <ArmorBlunt>Trubbig</ArmorBlunt>
   <!-- EN: Sharp -->
-  <ArmorSharp>Skarpt</ArmorSharp>
+  <ArmorSharp>Vass</ArmorSharp>
   <!-- EN: Heat -->
   <ArmorHeat>Hetta</ArmorHeat>
   
@@ -248,7 +250,7 @@
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>Samla dhur</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals>Samlar djur</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
   <FormingCaravanStatus_GatheringAnimals_Pause>Samlar djur (väntar)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
@@ -259,6 +261,10 @@
   <FormingCaravanStatus_GatheringSlaves>Samlar slavar</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
   <FormingCaravanStatus_GatheringSlaves_Pause>Samlar slavar (väntar)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>Samlar däckade personer</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Samlar däckade personer (väntar)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>Lämnar</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
@@ -276,6 +282,12 @@
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>packdjur</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
-  <InMentalStateCountLower>Mentalt brutna</InMentalStateCountLower>
+  <InMentalStateCountLower>Mentalt nedbrutna</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>Ta bort {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>Vill du verkligen ta bort {0}?</ConfirmRemoveItemDialog>
 
 </LanguageData>

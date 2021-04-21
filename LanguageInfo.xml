@@ -17,6 +17,12 @@
       <creditee>Patrik Bohlin</creditee>
     </li>
 
+	<li Class="CreditRecord_Role">
+      <!-- Contributed 2018-09- to ... -->
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Charlie Wester</creditee>
+    </li>
+
     <!-- "Archived translators" -->
     
     <li Class="CreditRecord_Role">

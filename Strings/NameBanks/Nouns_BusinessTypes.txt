@@ -1,7 +1,7 @@
-﻿Företag
+Företag
 Partners
 Bolag
-Handlare
+Försäljare
 Industrier
 Inkorporerad
 Resenärer
@@ -10,8 +10,7 @@ Frakt
 Exportföretag
 Importföretag
 Transportföretag
-Säkerhet
-Lösningar
+Säkerhetsföretag
 Konsortium
 Interstellär
 Smörjmedel

@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: campfire -->
   <Campfire.label>lägereld</Campfire.label>
   <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
-  <Campfire.description>Lagar måltider och genererar värme. Bränner ut efter några dagar. Som med alla värmekällor måste den placeras inomhus så det har ett slutet utrymme att värma. påfyllningsbar.</Campfire.description>
+  <Campfire.description>Lagar måltider och genererar värme och brinner ut efter några dagar. Som med alla värmekällor måste den placeras inomhus så den har ett slutet utrymme att värma upp. Påfyllningsbar.</Campfire.description>
   
   <!-- EN: cooler -->
   <Cooler.label>luftkylare</Cooler.label>
   <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
-  <Cooler.description>En elektrisk anordning som monteras i en vägg och skjuter kall luft in i ett rum. Utblåset genererar en hel del värme. Kan användas för att kyla ner rum under sommarmånaderna eller att skapa ett kyl eller frysrum.</Cooler.description>
+  <Cooler.description>En lyftkylare som passar att montera i en vägg. Kall luft kommer ut på en sida medan varm frånluft kommer ut på den andra sidan. Kan användas för att kyla ner rum under sommaren eller skapa frysrum.</Cooler.description>
   
   <!-- EN: heater -->
-  <Heater.label>värmare</Heater.label>
-  <!-- EN: An device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
-  <Heater.description>En elektrisk anordning som omvandlar elektricitet till värme. Den kan automatiskt stänga av sig själv när den når en specifikt måltemperatur.</Heater.description>
+  <Heater.label>värmeelement</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>En apparat som omvandlar elektricitet till värme. Den kan automatiskt slå av och på sig själv när den når en specifik temperatur.</Heater.description>
   
   <!-- EN: passive cooler -->
   <PassiveCooler.label>passiv kylare</PassiveCooler.label>
-  <!-- EN: A traditional unpowered cooler that works by water evaporation. Will run out and vanish after several days. -->
-  <PassiveCooler.description>En traditionell kylare som fungerar genom vattenavdunstning. Kommer att ta slut och självförstöra efter några dagar.</PassiveCooler.description>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>En traditionell kylare utan elektricitet som fungerar genom vattenavdunstning. Måste regelbundet fyllas på med trä. Ej effektiv nog att kyla med med.</PassiveCooler.description>
   
   <!-- EN: vent -->
   <Vent.label>ventil</Vent.label>
   <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
-  <Vent.description>En enkel ventil för att utjämna temperaturen mellan två rum utan att låta personer att gå mellan dem.</Vent.description>
+  <Vent.description>En ventil för att jämna ut temperaturen mellan två rum utan att låta personer gå mellan dem.</Vent.description>
   
 </LanguageData>

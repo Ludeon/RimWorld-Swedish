@@ -1,46 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: beauty -->
   <Beauty.label>skönhet</Beauty.label>
   <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
-  <Beauty.description>Skönhet representerar hur vackert en person finner sin omgivning.</Beauty.description>
+  <Beauty.description>Skönhet visar hur visuellt tilltalande en person tycker omgivningen varit nyligen. Vackra saker tillexempel konst ökar den upplevda skönheten, medan fula saker som t.ex smuts och grova stenytor drar ned den.</Beauty.description>
   
   <!-- EN: comfort -->
   <Comfort.label>komfort</Comfort.label>
   <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
-  <Comfort.description>Komforten ökar av att sitta eller sova i komfortabla möbler.</Comfort.description>
+  <Comfort.description>Komforten ökar av att sitta eller sova i komfortabla möbler. Den erhålls genom att ligga i en säng, sitta på en stol samtidigt som en jobbar, eller vid andra tillfällen.</Comfort.description>
   
   <!-- EN: food -->
   <Food.label>mat</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
-  <Food.description>Mat är hur mycket näring en varelse har fått i sig. Om den når noll kommer varelsen ta skada på grund av svält.</Food.description>
+  <Food.description>Mat är hur mycket näring en varelse har fått i sig nyligen. Om den når noll kommer varelsen bli undernärd vilket ökar med tiden och kan tillslut leda till döden.</Food.description>
   
   <!-- EN: recreation -->
-  <Joy.label>glädje</Joy.label>
+  <Joy.label>fritid</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
-  <Joy.description>Glädje representerar behovat av att göra någor underhållande och njutbart då och då. Notera att repetera samma typ av aktivitet minskar effekten av hur mycket glädje en kolonist får.</Joy.description>
+  <Joy.description>Fritid representerar behovet av att ha roligt. Att repetera samma aktivitet är inte särskilt kul, så varriation behövs.</Joy.description>
   
   <!-- EN: mood -->
   <Mood.label>humör</Mood.label>
   <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
-  <Mood.description>Humör representerar hur glad eller stressad någon är. Om humöret sjunker för lågt kan personen bryta ihop.</Mood.description>
+  <Mood.description>Humör representerar hur glad eller stressad någon är. Om humöret sjunker för lågt kan personen bryta ihop. Beroende på hur lågt en persons humör är kan någon få ett psykbryt och gömma sig i sitt rum under en dag, eller gå och ha ihjäl någon.</Mood.description>
   
   <!-- EN: outdoors -->
-  <Outdoors.label>TODO</Outdoors.label>
-  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in tight underground bases. -->
-  <Outdoors.description>TODO</Outdoors.description>
+  <Outdoors.label>utomhus</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Utomhus anger behovet av att inte känna sig inburad innomhus och behov av frisk luft. Det försämras av att spendera långa perioder innomhus, särskilt under jord. Det ökar när någon spenderar tid utomhus under himmlen, särskilt utomhus. Det handlar inte om storleken på rum, utan behovet av att vara just utomhus lite då och då. Brist på att få spendera tid utomhus i den friska luften är oftast en svår utmaning för personer som bor i underjordiska baser.</Outdoors.description>
   
   <!-- EN: rest -->
   <Rest.label>vila</Rest.label>
   <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
-  <Rest.description>Vila är hur mycket sömn en varelse har fått nyligen.</Rest.description>
+  <Rest.description>Vila är hur mycket sömn en varelse har fått nyligen. Om det når noll, kan det hända att varelsen somnar på fläcken oberoende av var den är.</Rest.description>
   
   <!-- EN: room size -->
-  <RoomSize.label>TODO</RoomSize.label>
+  <RoomSize.label>rumsstorlek</RoomSize.label>
   
-  <!-- UNUSED -->
-  <Space.label>utrymme</Space.label>
-  <Space.description>Utrymme reflekterar en känsla av frihet att röra sig. Den tar skada av att spendera längre tid i trånga utrymmen.</Space.description>
   
 </LanguageData>

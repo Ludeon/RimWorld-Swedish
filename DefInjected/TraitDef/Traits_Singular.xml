@@ -1,153 +1,149 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: abrasive -->
-  <Abrasive.degreeDatas.abrasive.label>burdus</Abrasive.degreeDatas.abrasive.label>
-  <!-- EN: [PAWN_nameDef] always says exactly what's on [PAWN_possessive] mind, especially if it's bugging [PAWN_objective]. That tends to rub people the wrong way. -->
-  <Abrasive.degreeDatas.abrasive.description>[PAWN_nameDef] säger alltid vad [PAWN_pronoun] tycker, särskilt om det stör [PAWN_objective]. Detta är något som brukar irritera andra.</Abrasive.degreeDatas.abrasive.description>
+  <Abrasive.degreeDatas.abrasive.label>aggressiv</Abrasive.degreeDatas.abrasive.label>
+  <!-- EN: {PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way. -->
+  <Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef} säger alltid vad {PAWN_pronoun} tycker, särskilt om det stör {PAWN_objective}. Detta är något som brukar irritera andra.</Abrasive.degreeDatas.abrasive.description>
   
   <!-- EN: annoying voice -->
   <AnnoyingVoice.degreeDatas.annoying_voice.label>irriterande röst</AnnoyingVoice.degreeDatas.annoying_voice.label>
-  <!-- EN: [PAWN_nameDef]'s voice has a particularly grating, nasal quality to it, and [PAWN_pronoun] tends to talk in barked, garbled phrases. This predisposes others to dislike [PAWN_objective]. -->
-  <AnnoyingVoice.degreeDatas.annoying_voice.description>[PAWN_nameDef]'s röst har en särskilt gäll, nasal kvalitet till den, och [PAWN_pronoun] tenderar att prata i skällande, förvrängda fraser. Detta orsakar ofta att andra ogillar [PAWN_objective].</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  <!-- EN: {PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}. -->
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef}s röst har en särskilt gäll, nasal kvalitet och {PAWN_pronoun} tenderar att prata i skällande, förvrängda fraser. Detta orsakar ofta att andra ogillar {PAWN_objective}.</AnnoyingVoice.degreeDatas.annoying_voice.description>
   
   <!-- EN: ascetic -->
   <Ascetic.degreeDatas.ascetic.label>asket</Ascetic.degreeDatas.ascetic.label>
-  <!-- EN: [PAWN_nameDef] prefers to live in asceticism. [PAWN_pronoun] will be put in a poor mood if [PAWN_pronoun] has a bedroom that's too impressive. [PAWN_pronoun] also dislikes fancy food and prefers to eat raw - and raw food won't bother [PAWN_objective] a bit. -->
-  <Ascetic.degreeDatas.ascetic.description>[PAWN_nameDef] föredrar att leva asketiskt. [PAWN_pronoun] humör försämras om [PAWN_pronoun]s sovrum är för imponerande. [PAWN_pronoun] ogillar också lyxig mat och föredrar att äta rå mat - vilket inte att störa [PAWN_objective] alls. </Ascetic.degreeDatas.ascetic.description>
+  <!-- EN: {PAWN_nameDef} prefers to live in asceticism. {PAWN_pronoun} will be put in a poor mood if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw - and raw food won't bother {PAWN_objective} a bit. -->
+  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} föredrar att leva asketiskt. {PAWN_pronoun}s humör försämras om {PAWN_pronoun}s sovrum är för imponerande. {PAWN_pronoun} ogillar också lyxig mat och föredrar att äta rå mat - vilket inte stör {PAWN_objective} alls. </Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: bloodlust -->
   <Bloodlust.degreeDatas.bloodlust.label>Blodtörstig</Bloodlust.degreeDatas.bloodlust.label>
-  <!-- EN: [PAWN_nameDef] gets a rush from hurting people, and never minds the sight of blood or death. [PAWN_pronoun] is four times as likely to start a social fight as others. -->
-  <Bloodlust.degreeDatas.bloodlust.description>[PAWN_nameDef] får en kick av att skada andra personer och skyr inte åsynen av blod och död. Risken är dubbelt så stor att [PAWN_pronoun] startar ett slagsmål.</Bloodlust.degreeDatas.bloodlust.description>
+  <!-- EN: {PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others. -->
+  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} får en kick av att skada andra personer och skyr inte åsynen av blod och död. Risken är fyra gånger så stor att {PAWN_pronoun} startar ett slagsmål med andra.</Bloodlust.degreeDatas.bloodlust.description>
   
   <!-- EN: body purist -->
   <BodyPurist.degreeDatas.body_purist.label>protesofob</BodyPurist.degreeDatas.body_purist.label>
-  <!-- EN: [PAWN_nameDef] believes the human body is limited for a reason. To [PAWN_objective], artificial body parts are unethical and disgusting. -->
-  <BodyPurist.degreeDatas.body_purist.description>[PAWN_nameDef] anser att människokroppen är begränsad av en anledning. För [PAWN_objective] är bioniska kroppsdelar oetiskt.</BodyPurist.degreeDatas.body_purist.description>
+  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
+  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef} anser att människokroppen är begränsad av en anledning. För {PAWN_objective} är bioniska kroppsdelar oetiskt och motbjudande.</BodyPurist.degreeDatas.body_purist.description>
   
   <!-- EN: brawler -->
   <Brawler.degreeDatas.brawler.label>slagskämpe</Brawler.degreeDatas.brawler.label>
-  <!-- EN: [PAWN_nameDef] likes to fight up close and personal. [PAWN_possessive] accuracy is greatly increased in melee combat, but [PAWN_pronoun]'ll be very unhappy if asked to carry a ranged weapon. -->
-  <Brawler.degreeDatas.brawler.description>[PAWN_nameDef] gillar när ett slagsmål är intimt och personligt. [PAWN_possessive] sikte förbättras avsevärt i närkamp, men [PAWN_pronoun] blir väldigt olycklig om [PAWN_pronoun] måste bära ett handeldvapen.</Brawler.degreeDatas.brawler.description>
+  <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
+  <Brawler.degreeDatas.brawler.description>{PAWN_nameDef} gillar när ett slagsmål är intimt och personligt. {PAWN_possessive} träffsäkerhet förbättras avsevärt i närstrid men {PAWN_pronoun} blir väldigt olycklig om {PAWN_pronoun} måste bära ett handeldvapen.</Brawler.degreeDatas.brawler.description>
   
   <!-- EN: cannibal -->
-  <Cannibal.degreeDatas.cannibal.label>kannibal</Cannibal.degreeDatas.cannibal.label>
-  <!-- EN: [PAWN_nameDef] was taught that eating human meat is wrong and horrible. But one time, long ago, [PAWN_pronoun] tried it... and [PAWN_pronoun] liked it. -->
-  <Cannibal.degreeDatas.cannibal.description>[PAWN_nameDef] fick lära sig att det är fel att äta människokött. Men en gång, för länge sedan, provade [PAWN_pronoun]... och gillade det.</Cannibal.degreeDatas.cannibal.description>
+  <Cannibal.degreeDatas.cannibal.label>kanibal</Cannibal.degreeDatas.cannibal.label>
+  <!-- EN: {PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it. -->
+  <Cannibal.degreeDatas.cannibal.description>{PAWN_nameDef} fick lära sig att det är fel att äta människokött. Men en gång, för länge sedan provade {PAWN_pronoun}... och gillade det.</Cannibal.degreeDatas.cannibal.description>
   
   <!-- EN: creepy breathing -->
-  <CreepyBreathing.degreeDatas.creepy_breathing.label>obehagligt andning</CreepyBreathing.degreeDatas.creepy_breathing.label>
-  <!-- EN: [PAWN_nameDef] breathes heavily all the time, and sweats constantly. People find it creepy. -->
-  <CreepyBreathing.degreeDatas.creepy_breathing.description>[PAWN_nameDef] andas tungt hela tiden och svettningar konstant. Folk tycker att detta är obehagligt.</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  <CreepyBreathing.degreeDatas.creepy_breathing.label>kuslig andning</CreepyBreathing.degreeDatas.creepy_breathing.label>
+  <!-- EN: {PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy. -->
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_nameDef} andas tungt hela tiden och svettas konstant. Folk tycker att detta är läskigt.</CreepyBreathing.degreeDatas.creepy_breathing.description>
   
   <!-- EN: misandrist -->
   <DislikesMen.degreeDatas.misandrist.label>ogillar män</DislikesMen.degreeDatas.misandrist.label>
-  <!-- EN: [PAWN_nameDef] really dislikes and distrusts men. -->
-  <DislikesMen.degreeDatas.misandrist.description>[PAWN_nameDef] ogillar och misstror män.</DislikesMen.degreeDatas.misandrist.description>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts men. -->
+  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} ogillar och misstror män.</DislikesMen.degreeDatas.misandrist.description>
   
   <!-- EN: misogynist -->
   <DislikesWomen.degreeDatas.misogynist.label>ogillar kvinnor</DislikesWomen.degreeDatas.misogynist.label>
-  <!-- EN: [PAWN_nameDef] really dislikes and distrusts women. -->
-  <DislikesWomen.degreeDatas.misogynist.description>[PAWN_nameDef] ogillar och misstror kvinnor.</DislikesWomen.degreeDatas.misogynist.description>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
+  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} ogillar och misstror kvinnor.</DislikesWomen.degreeDatas.misogynist.description>
   
   <!-- EN: fast learner -->
-  <FastLearner.degreeDatas.fast_learner.label>TODO</FastLearner.degreeDatas.fast_learner.label>
-  <!-- EN: [PAWN_nameDef] has a knack for learning. [PAWN_pronoun] picks things up much faster than others. -->
-  <FastLearner.degreeDatas.fast_learner.description>TODO</FastLearner.degreeDatas.fast_learner.description>
+  <FastLearner.degreeDatas.fast_learner.label>snabblärd</FastLearner.degreeDatas.fast_learner.label>
+  <!-- EN: {PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others. -->
+  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} har en förmåga att lära sig saker. {PAWN_pronoun} lär sig saker mycket snabbara än andra.</FastLearner.degreeDatas.fast_learner.description>
   
   <!-- EN: gay -->
   <Gay.degreeDatas.gay.label>homosexuell</Gay.degreeDatas.gay.label>
-  <!-- EN: [PAWN_nameDef] is romantically attracted to people of [PAWN_possessive] own gender. -->
-  <Gay.degreeDatas.gay.description>[PAWN_nameDef] dras till personer av samma kön som [PAWN_objective].</Gay.degreeDatas.gay.description>
+  <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
+  <Gay.degreeDatas.gay.description>{PAWN_nameDef} är romantiskt attraherad av personer av samma kön som {PAWN_possessive} eget.</Gay.degreeDatas.gay.description>
   
   <!-- EN: gourmand -->
-  <Gourmand.degreeDatas.gourmand.label>TODO</Gourmand.degreeDatas.gourmand.label>
-  <!-- EN: [PAWN_nameDef]'s life revolves around food. [PAWN_pronoun] gets hungry quickly, and if [PAWN_pronoun] is in a bad mood, [PAWN_pronoun] will often satisfy [PAWN_objective]self by eating. -->
-  <Gourmand.degreeDatas.gourmand.description>TODO</Gourmand.degreeDatas.gourmand.description>
+  <Gourmand.degreeDatas.gourmand.label>gourmand</Gourmand.degreeDatas.gourmand.label>
+  <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
+  <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef}s liv kretsar kring mat. {PAWN_pronoun} blir hungrig fort och kommer ibland få för sig att glupskt äta mat, även om {PAWN_pronoun} inte är hungrig.</Gourmand.degreeDatas.gourmand.description>
   
   <!-- EN: great memory -->
-  <GreatMemory.degreeDatas.great_memory.label>TODO</GreatMemory.degreeDatas.great_memory.label>
-  <!-- EN: [PAWN_nameDef] has a fantastic memory for detail. [PAWN_pronoun] will lose unused skills at half the rate of other people. -->
-  <GreatMemory.degreeDatas.great_memory.description>TODO</GreatMemory.degreeDatas.great_memory.description>
+  <GreatMemory.degreeDatas.great_memory.label>bra minne</GreatMemory.degreeDatas.great_memory.label>
+  <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
+  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef} har ett fantastiskt detaljminne. {PAWN_pronoun}kommer förlora oanvända förmågor hälften så fort som andra personer.</GreatMemory.degreeDatas.great_memory.description>
   
   <!-- EN: greedy -->
   <Greedy.degreeDatas.greedy.label>girig</Greedy.degreeDatas.greedy.label>
-  <!-- EN: [PAWN_nameDef] needs a really impressive bedroom. [PAWN_pronoun] gets a mood loss if [PAWN_pronoun] doesn't get what [PAWN_pronoun] wants. -->
-  <Greedy.degreeDatas.greedy.description>[PAWN_nameDef] behöver ett riktigt imponerande sovrum. [PAWN_possessive] humör försämras om inte [PAWN_pronoun] får som [PAWN_pronoun] vill.</Greedy.degreeDatas.greedy.description>
-  
-  <!-- UNUSED -->
-  <GreenThumb.degreeDatas.0.label>gröna fingrar</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef]s passion är trädgårdsarbete. [PAWN_pronoun]s humör förbättras för varje växt [PAWN_pronoun] sår.</GreenThumb.degreeDatas.0.description>
-  
-  <!-- EN: indoorsman -->
-  <Indoorsman.degreeDatas.indoorsman.label>TODO</Indoorsman.degreeDatas.indoorsman.label>
-  <!-- EN: [PAWN_nameDef] has no need to experience the outdoors. [PAWN_pronoun] will never feel cooped up or get cabin fever, no matter how long [PAWN_pronoun] stays inside. -->
-  <Indoorsman.degreeDatas.indoorsman.description>TODO</Indoorsman.degreeDatas.indoorsman.description>
+  <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
+  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef} behöver ett riktigt imponerande sovrum. {PAWN_possessive} humör försämras om inte {PAWN_pronoun} får som {PAWN_pronoun} vill.</Greedy.degreeDatas.greedy.description>
   
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>avundsjuk</Jealous.degreeDatas.jealous.label>
-  <!-- EN: For [PAWN_nameDef], it's degrading to have a less impressive bedroom than someone else. [PAWN_pronoun] gets a mood loss if any colonist has a more impressive bedroom. -->
-  <Jealous.degreeDatas.jealous.description>[PAWN_nameDef] tycker att det är förnedrande att ha ett mindre imponerande sovrum än någon annan. [PAWN_possessive]s humör försämras om en annan kolonist har ett mer imponerande sovrum.</Jealous.degreeDatas.jealous.description>
+  <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
+  <Jealous.degreeDatas.jealous.description>{PAWN_nameDef} tycker att det är förnedrande att ha ett mindre imponerande sovrum än någon annan. {PAWN_possessive}s humör försämras om en annan kolonist har ett mer imponerande sovrum.</Jealous.degreeDatas.jealous.description>
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>snäll</Kind.degreeDatas.kind.label>
-  <!-- EN: [PAWN_nameDef] is a nice person. [PAWN_pronoun] has a tendency to brighten everyone else's day and never insults others. -->
-  <Kind.degreeDatas.kind.description>[PAWN_nameDef] är en snäll person. [PAWN_pronoun] har en tendens att lysa upp andras vardag och aldrig förolämpa någon.</Kind.degreeDatas.kind.description>
+  <!-- EN: {PAWN_nameDef} is a nice person. {PAWN_pronoun} has a tendency to brighten everyone else's day and never insults others. -->
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef} är en snäll person. {PAWN_pronoun} har en tendens att lysa upp andras vardag och förolämpar aldrig någon.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
-  <Masochist.degreeDatas.masochist.label>självplågare</Masochist.degreeDatas.masochist.label>
-  <!-- EN: For [PAWN_nameDef], there's something exciting about getting hurt. [PAWN_pronoun] doesn't know why, [PAWN_pronoun]'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>För [PAWN_nameDef] är det något upphetsande om att bli skadad. [PAWN_pronoun] vet inte varför, [PAWN_pronoun] är bara annorlunda på något sätt.</Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.label>masochist</Masochist.degreeDatas.masochist.label>
+  <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
+  <Masochist.degreeDatas.masochist.description>För {PAWN_nameDef} finns det något upphetsande med att bli skadad. {PAWN_pronoun} vet inte varför, {PAWN_pronoun} är bara annorlunda på något sätt.</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
   <NightOwl.degreeDatas.night_owl.label>nattuggla</NightOwl.degreeDatas.night_owl.label>
-  <!-- EN: [PAWN_nameDef] likes to be up during the night, and sleep during the day.\n\n[PAWN_pronoun] gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n[PAWN_pronoun] doesn't get a mood penalty for being in the dark. -->
-  <NightOwl.degreeDatas.night_owl.description>[PAWN_nameDef]s humör förbättras när [PAWN_pronoun] är uppe om nätterna, och försämras när [PAWN_pronoun] är vaken på dagarna.</NightOwl.degreeDatas.night_owl.description>
+  <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
+  <NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef} tycker om att vara uppe på natten och sova på dagen. \n\n{PAWN_pronoun}s humör förbättras om {PAWN_pronoun} är uppe på natten (23-06), och försämras om {PAWN_pronoun} är vaken på dagen (11-18).\n\n{PAWN_pronoun} får inte heller sämre humör även om {PAWN_pronoun} vistas i mörker.</NightOwl.degreeDatas.night_owl.description>
   
   <!-- EN: nimble -->
-  <Nimble.degreeDatas.nimble.label>TODO</Nimble.degreeDatas.nimble.label>
-  <!-- EN: [PAWN_nameDef] has remarkable kinesthetic intelligence. [PAWN_pronoun] seems to dance around danger with preternatural grace. -->
-  <Nimble.degreeDatas.nimble.description>TODO</Nimble.degreeDatas.nimble.description>
+  <Nimble.degreeDatas.nimble.label>kvick</Nimble.degreeDatas.nimble.label>
+  <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
+  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef} har en anmarkningsvärd kinesthetic intelligens. {PAWN_pronoun} ser ut att danca runt faror med övernaturlig elegans.</Nimble.degreeDatas.nimble.description>
   
   <!-- EN: nudist -->
   <Nudist.degreeDatas.nudist.label>Nudist</Nudist.degreeDatas.nudist.label>
-  <!-- EN: [PAWN_nameDef] enjoys the feeling of freedom that comes from being nude. [PAWN_pronoun] can handle clothing, but will be happier without it. -->
-  <Nudist.degreeDatas.nudist.description>[PAWN_nameDef] njuter av frihetskänslan som kommer av att vara naken. [PAWN_pronoun] kan bära kläder, men är gladare utan.</Nudist.degreeDatas.nudist.description>
+  <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
+  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef} njuter av frihetskänslan som kommer av att vara naken. {PAWN_pronoun} kan bära kläder, men är gladare utan.</Nudist.degreeDatas.nudist.description>
   
   <!-- EN: psychopath -->
-  <Psychopath.degreeDatas.psychopath.label>Psykopat</Psychopath.degreeDatas.psychopath.label>
-  <!-- EN: [PAWN_nameDef] has no empathy. The suffering of others doesn't bother [PAWN_objective] at all. [PAWN_pronoun] doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects [PAWN_objective]. [PAWN_pronoun] also feels no mood boost from socializing. -->
-  <Psychopath.degreeDatas.psychopath.description>[PAWN_nameDef] saknar empati, andras lidande rör inte [PAWN_objective] ett dugg. [PAWN_pronoun] bryr sig inte om någon blir slaktad, lämnas obegravd, fängslas, eller säljs som slav - såvidare detta inte påverkar [PAWN_objective] personligen. [PAWN_possessive] humör förbättras inte om [PAWN_pronoun] att umgås med andra.  </Psychopath.degreeDatas.psychopath.description>
+  <Psychopath.degreeDatas.psychopath.label>psykopat</Psychopath.degreeDatas.psychopath.label>
+  <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
+  <Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef} saknar empati. Andras lidande rör inte {PAWN_objective} ett dugg. {PAWN_pronoun} bryr sig inte om någon blir slaktad, lämnas obegravd, fängslas, eller säljs som slav - såvidare detta inte påverkar {PAWN_objective} personligen. {PAWN_pronoun} blir inte gladare av att umgås med andra.</Psychopath.degreeDatas.psychopath.description>
   
   <!-- EN: pyromaniac -->
   <Pyromaniac.degreeDatas.pyromaniac.label>pyroman</Pyromaniac.degreeDatas.pyromaniac.label>
-  <!-- EN: [PAWN_nameDef] loves fire. [PAWN_pronoun] will never extinguish fires. To relieve stress, [PAWN_pronoun] will occasionally go on random fire starting sprees. This happens more often if [PAWN_possessive] mood is low. -->
-  <Pyromaniac.degreeDatas.pyromaniac.description>[PAWN_nameDef] älskar eld. [PAWN_pronoun] kommer då och då starta bränder och kommer aldrig att släcka dem.</Pyromaniac.degreeDatas.pyromaniac.description>
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low. -->
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} älskar eld. {PAWN_pronoun} kommer aldrig släcka bränder. För att slappna av från stress kommer {PAWN_pronoun} då och då starta bränder, detta händer mer ofta om {PAWN_possessive} humör är lågt.</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
-  <QuickSleeper.degreeDatas.quick_sleeper.label>TODO</QuickSleeper.degreeDatas.quick_sleeper.label>
-  <!-- EN: [PAWN_nameDef] doesn't need as much sleep as the average person. Whether [PAWN_pronoun]'s sleeping on a bed or on the ground, [PAWN_pronoun] will be fully rested in about two thirds the usual time. -->
-  <QuickSleeper.degreeDatas.quick_sleeper.description>TODO</QuickSleeper.degreeDatas.quick_sleeper.description>
+  <QuickSleeper.degreeDatas.quick_sleeper.label>snabbsovare</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} behöver inte lika mycket sömn som vanliga personer. Även om {PAWN_pronoun} sover i en säng eller på marken så kommer {PAWN_pronoun}vara fullt utvilad efter ungefär två tredjedelar av den vanliga tiden.</QuickSleeper.degreeDatas.quick_sleeper.description>
   
   <!-- EN: too smart -->
   <TooSmart.degreeDatas.too_smart.label>för smart</TooSmart.degreeDatas.too_smart.label>
-  <!-- EN: [PAWN_nameDef] is too smart for [PAWN_possessive] own good. [PAWN_pronoun] learns everything much faster than everyone, but can be quite eccentric. -->
-  <TooSmart.degreeDatas.too_smart.description>[PAWN_nameDef] är för smart för [PAWN_possessive] eget bästa. [PAWN_pronoun] är snabblärd jämfört med andra, men kan vara lite excentrisk.</TooSmart.degreeDatas.too_smart.description>
+  <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} är för smart för {PAWN_possessive} eget bästa. {PAWN_pronoun} lär sig allting mycket snabbare än andra, men kan vara lite excentrisk.</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tough -->
-  <Tough.degreeDatas.tough.label>TODO</Tough.degreeDatas.tough.label>
-  <!-- EN: [PAWN_nameDef] has thick skin, dense flesh, and durable bones. [PAWN_pronoun] takes much less damage than other people from the same blows. [PAWN_pronoun] is extremely hard to kill. -->
-  <Tough.degreeDatas.tough.description>TODO</Tough.degreeDatas.tough.description>
+  <Tough.degreeDatas.tough.label>tålig</Tough.degreeDatas.tough.label>
+  <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
+  <Tough.degreeDatas.tough.description>{PAWN_nameDef} har tjock hud, kompakta muskler och starkt skelett. {PAWN_pronoun} tar mycket mindre skada än andra personer från samma slag. {PAWN_pronoun} är extremt svår att ha ihjäl. </Tough.degreeDatas.tough.description>
   
   <!-- EN: transhumanist -->
-  <Transhumanist.degreeDatas.transhumanist.label>protesofil</Transhumanist.degreeDatas.transhumanist.label>
-  <!-- EN: [PAWN_nameDef] feels limited in [PAWN_possessive] feeble human body. [PAWN_pronoun] often dreams of being enhanced by artificial body parts. -->
-  <Transhumanist.degreeDatas.transhumanist.description>[PAWN_nameDef] känner sig begränsad av sin svaga och bräckliga människokropp. [PAWN_pronoun] drömmer ofta om att byta ut sina naturliga kroppsdelar mot bioniska.</Transhumanist.degreeDatas.transhumanist.description>
+  <Transhumanist.degreeDatas.transhumanist.label>transhumanist</Transhumanist.degreeDatas.transhumanist.label>
+  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
+  <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef} känner sig begränsad i av sin {PAWN_possessive} bräckliga människokropp. {PAWN_pronoun} drömmer ofta om att förbättrad med artificiella kroppsdelar.</Transhumanist.degreeDatas.transhumanist.description>
+  
+  <!-- EN: undergrounder -->
+  <Undergrounder.degreeDatas.undergrounder.label>grottmänniska</Undergrounder.degreeDatas.undergrounder.label>
+  <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} har inget behov av ljus eller att vara utomhus. {PAWN_pronoun} kommer aldrig känna sig inburad eller få lappsjuka, det spelar ingen roll hur länge {PAWN_pronoun} stannar innomhus, och besväras inte av mörker.</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
   <Wimp.degreeDatas.wimp.label>mes</Wimp.degreeDatas.wimp.label>
-  <!-- EN: [PAWN_nameDef] is weak and cowardly. Even a little pain will immobilize [PAWN_objective]. -->
-  <Wimp.degreeDatas.wimp.description>[PAWN_nameDef] är svag och feg. Även lite smärta kommer att immobilisera [PAWN_objective].</Wimp.degreeDatas.wimp.description>
+  <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} är svag och feg. den minsta smärta kommer att immobilisera {PAWN_objective}.</Wimp.degreeDatas.wimp.description>
   
 </LanguageData>

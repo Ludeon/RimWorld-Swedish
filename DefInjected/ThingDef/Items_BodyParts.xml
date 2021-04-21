@@ -1,99 +1,99 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>TODO</ArchotechArm.label>
+  <ArchotechArm.label>arkotech arm</ArchotechArm.label>
   <!-- EN: An artifical arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechArm.description>TODO</ArchotechArm.description>
+  <ArchotechArm.description>En konstgjord arm byggd av ett arkotech. Tillräckligt stark för att krossa en tjock trägren i handen och tillräckligt exakt för att skriva en sonett på ett riskorn. Den ser ut och känns som naturligt kött, men det är svårare att skada än plastål. Även om det skadas reparerar den sig själv med tiden. Hur det fungerar är ett mysterium för mänskligheten</ArchotechArm.description>
   
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>TODO</ArchotechEye.label>
+  <ArchotechEye.label>arkotech öga</ArchotechEye.label>
   <!-- EN: An artifical eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Externally, it looks like a natural human eye, except it can change color at will. Its internal workings are a mystery to all human minds. -->
-  <ArchotechEye.description>TODO</ArchotechEye.description>
+  <ArchotechEye.description>Ett konstgjort öga byggt av ett arkotech. Det uppfattar alla typer av elektromagnetisk strålning inklusive radiovågor, infrarödtt ljus, röntgenstrålar och gammastrålar. Synskärpan är tillräckligt exakt för att läsa handskrift från tjugo meters håll. Det kan avge olika våglängder av strålning precis som en ficklampa och har en intern subpersonaAI som hjälper till att markera användbar visuell information. Utifrån ser det ut som ett naturligt öga, förutom att det kan ändra färg efter behag. Hur det fungerar är ett mysterium för mänskligheten</ArchotechEye.description>
   
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>TODO</ArchotechLeg.label>
+  <ArchotechLeg.label>arkotech ben</ArchotechLeg.label>
   <!-- EN: An artifical leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechLeg.description>TODO</ArchotechLeg.description>
+  <ArchotechLeg.description>Ett konstgjort ben byggt av arkotech. Ser ut och känns som naturligt kött, ett par av dessa kan flytta användaren lika snabbt som en anständig bil. Det är svårare att skada än plast och även om det skadas reparerar det sig själv med tiden. Hur det fungerar är ett mysterium för mänskligheten.</ArchotechLeg.description>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>bioniskt arm</BionicArm.label>
+  <BionicArm.label>bionisk arm</BionicArm.label>
   <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>En av de mest sofistikerade armersättare som finns på marknaden. Ger extrem styrka för dess användare.</BionicArm.description>
+  <BionicArm.description>En avancerad konstgjord arm. Tysta miniservos ger mycket styrka samtidigt som  biogel-nervens koppling ger utmärkt kontroll. Ett gitter-dammläkningssystem gör det möjligt att återhämta sig från skador. Det är bättre än en biologisk arm, på nästan alla sätt.</BionicArm.description>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>TODO</BionicEar.label>
+  <BionicEar.label>bioniskt öra</BionicEar.label>
   <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>TODO</BionicEar.description>
+  <BionicEar.description>Ett avancerat artificiellt öronimplantat. En samling osynliga subdermala mikrofoner fångar upp ljud och överför det till ett biogel-nervgränssnitt som länkar direkt till hörselnerven. Det är tillräckligt känsligt för att höra en katt innan du ser den, kan inte skadas av högt ljud och ställer automatiskt in sig själv för att plocka ut meningsfulla ljud i bullriga miljöer.</BionicEar.description>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>bioniskt öga</BionicEye.label>
   <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BionicEye.description>Avancerad teknik görs inte bara för att helt ersätta naturliga ögat, men också att ge övernaturliga syn förmågor,</BionicEye.description>
+  <BionicEye.description>Ett avancerat konstgjort öga. Med sin biogel-nervlänk, interna signalföringsprocessor och bredspektrumsensorer är det bättre än ett biologiskt öga på nästan alla sätt. Ett gitter-dammläkningssystem gör det möjligt att återhämta sig från skador.</BionicEye.description>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>TODO</BionicHeart.label>
+  <BionicHeart.label>bioniskt hjärta</BionicHeart.label>
   <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
-  <BionicHeart.description>TODO</BionicHeart.description>
+  <BionicHeart.description>Ett avancerat artificiellt hjärta. Det har syntetiska muskelfibrer för realistisk hjärtslag och en högflödespump för snabb cirkulation vid hög stress. Det är bättre än ett biologiskt hjärta, på nästan alla sätt.</BionicHeart.description>
   
   <!-- EN: bionic leg -->
   <BionicLeg.label>bioniskt ben</BionicLeg.label>
   <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BionicLeg.description>Bioniskt ben använder avancerad teknik för att ge sin ägare extrem gångkomfort och styrka.</BionicLeg.description>
+  <BionicLeg.description>Ett avancerat konstgjort ben. Med sin biogele-nervlänk, kraftfulla miniservos och gitter-dammläkningssystem är det bättre än ett biologiskt ben, på nästan alla sätt.</BionicLeg.description>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>TODO</BionicSpine.label>
+  <BionicSpine.label>bionisk ryggrad</BionicSpine.label>
   <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
-  <BionicSpine.description>TODO</BionicSpine.description>
+  <BionicSpine.description>En avancerat konstgjord ryggrad. En nervbunt med biogele löper längs en ledad plastkålkärna, omgiven av ett gitter-dammläkningssystem. Matchar prestandan för en biologisk ryggrad.</BionicSpine.description>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>TODO</BionicStomach.label>
+  <BionicStomach.label>bionisk magsäck</BionicStomach.label>
   <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
-  <BionicStomach.description>TODO</BionicStomach.description>
+  <BionicStomach.description>En avancerad och konstgjord magsäck. En uppsättning sensorer och kemiska synteser smälter effektivt nästan alla livsmedel. Ett integrerat gitter-dammläkningssystem reparerar automatiskt alla skador som orsakas av de kraftfulla syrorna. Den är bättre än en biologisk mage, på nästan alla sätt.</BionicStomach.description>
   
   <!-- EN: cochlear implant -->
-  <CochlearImplant.label>TODO</CochlearImplant.label>
+  <CochlearImplant.label>cochleaimplantat</CochlearImplant.label>
   <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
-  <CochlearImplant.description>TODO</CochlearImplant.description>
+  <CochlearImplant.description>Ett implantat som ersätter normal hörsel. En extern mikrofon överför en ljudsignal till elektroderna som lindas runt det inre örats hörselnerv. Elektroderna stimulerar nerverna och skapar därmed en känsla av att höra. Det är inte lika bra som ett naturligt öra, men det är mycket bättre än att vara döv.</CochlearImplant.description>
   
   <!-- EN: heart -->
   <Heart.label>hjärta</Heart.label>
   <!-- EN: A biological human heart. Pumps blood around the body. -->
-  <Heart.description>Förser blod och syre till alla delar av kroppen. Redo att hitta en ny ägare.</Heart.description>
+  <Heart.description>Ett mänsklit biologiskt hjärta, pupmar runt blodet i kroppen.</Heart.description>
   
   <!-- EN: kidney -->
   <Kidney.label>njure</Kidney.label>
   <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
-  <Kidney.description>Filterar och tar bort slaggprodukter från blodet.</Kidney.description>
+  <Kidney.description>En mänsklig biologisk njure, filterar och tar bort slaggprodukter från blodet.</Kidney.description>
   
   <!-- EN: liver -->
   <Liver.label>lever</Liver.label>
   <!-- EN: A biological human liver. Plays an important role in metabolism. -->
-  <Liver.description>Pspelar en viktig roll i ämnesomsättningen.</Liver.description>
+  <Liver.description>En biologisk lever, spelar viktig roll i ämnesomsättningen.</Liver.description>
   
   <!-- EN: lung -->
   <Lung.label>lunga</Lung.label>
   <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
-  <Lung.description>Väsentlig del av andningssystemet .</Lung.description>
+  <Lung.description>En mänsklig biologisk lunga. Ett par utgör grunden för människans andningssystem.</Lung.description>
   
   <!-- EN: power claw -->
   <PowerClaw.label>Kraftklo</PowerClaw.label>
   <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a vicious claw on each finger. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. The blades can be retracted, making it as useful as a biological hand for non-combat tasks. -->
-  <PowerClaw.description>Kraftig hand ersättning bestående av tre dödliga klor.</PowerClaw.description>
+  <PowerClaw.description>En handprotes gjort för strid. Består av en mekanisk hand med en ond klo på varje finger. Den är elak i strid, och dess kraftfulla miniservos kan krossa en skalle som en naturlig hand krossar ett ägg. Bladen kan dras tillbaka vilket gör den lika användbar som en biologisk hand utanför strid.</PowerClaw.description>
   
   <!-- EN: prosthetic arm -->
   <SimpleProstheticArm.label>enkel armprotes</SimpleProstheticArm.label>
   <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
-  <SimpleProstheticArm.description>Enkel men slitstark armprotes.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.description>En armprotes som saknar neural koppling, men dess komplexta arrangemang av inre leder kan skapa en rörelse som ser relativt naturlig ut. Sämre än en riktig arm.</SimpleProstheticArm.description>
   
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>TODO</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>hjärtprotes</SimpleProstheticHeart.label>
   <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
-  <SimpleProstheticHeart.description>TODO</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.description>En hjärtprotes. Innehåller en elmotor som smidigt pumpar blod runt kroppen. Användare rapporterar ofta att de känner sig trötta, men det är bättre än alternativet.</SimpleProstheticHeart.description>
   
   <!-- EN: prosthetic leg -->
   <SimpleProstheticLeg.label>enkel benprotes</SimpleProstheticLeg.label>
-  <!-- EN: A leg prosthesis. While it lacks a neutral interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
-  <SimpleProstheticLeg.description>Enkel protes för att ersätta saknade ben. Inte speciellt bekväm men ganska effektiv.</SimpleProstheticLeg.description>
+  <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description> En benprotes som saknar neural koppling, men dess komplexta arrangemang av inre leder kan skapa en rörelse som ser relativt naturlig ut. Inte lika bra som ett riktigt ben.</SimpleProstheticLeg.description>
   
 </LanguageData>

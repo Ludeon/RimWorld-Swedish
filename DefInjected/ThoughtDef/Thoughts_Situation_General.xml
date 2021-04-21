@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: ratty apparel -->
@@ -9,12 +9,6 @@
   <ApparelDamaged.stages.tattered_apparel.label>bär slitna kläder</ApparelDamaged.stages.tattered_apparel.label>
   <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
   <ApparelDamaged.stages.tattered_apparel.description>Jag bär en trasig bit av en papperskorg. Kan jag inte få något anständigt att bära?</ApparelDamaged.stages.tattered_apparel.description>
-  
-  <!-- UNUSED -->
-  <CabinFever.stages.0.label>lappsjuka (lätt)</CabinFever.stages.0.label>
-  <CabinFever.stages.0.description>Jag har varit instängda i flera dagar. Jag behöver komma ut.</CabinFever.stages.0.description>
-  <CabinFever.stages.1.label>lappsjuka (allvarlig)</CabinFever.stages.1.label>
-  <CabinFever.stages.1.description>Jag har varit instängda som en råtta i här så länge. Jag behöver desperat få komma ut!</CabinFever.stages.1.description>
   
   <!-- EN: tainted {0} -->
   <DeadMansApparel.stages.tainted.label>död mans {0}</DeadMansApparel.stages.tainted.label>
@@ -46,9 +40,9 @@
   <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
   <EnvironmentCold.stages.numbing_cold.description>Mina tänder hackar så hårt jag knappt kan tala. Tårna är förlamad. Jag behöver bli varm igen.</EnvironmentCold.stages.numbing_cold.description>
   <!-- EN: absolutely freezing -->
-  <EnvironmentCold.stages.absolutely_freezing.label>TODO</EnvironmentCold.stages.absolutely_freezing.label>
+  <EnvironmentCold.stages.absolutely_freezing.label>förfrysande</EnvironmentCold.stages.absolutely_freezing.label>
   <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
-  <EnvironmentCold.stages.absolutely_freezing.description>TODO</EnvironmentCold.stages.absolutely_freezing.description>
+  <EnvironmentCold.stages.absolutely_freezing.description>Jag skakar tänder så hårt att jag knappt kan prata, mina tår är utan känsel, jag behöver bli varm.</EnvironmentCold.stages.absolutely_freezing.description>
   
   <!-- EN: darkness -->
   <EnvironmentDark.stages.darkness.label>i mörker</EnvironmentDark.stages.darkness.label>

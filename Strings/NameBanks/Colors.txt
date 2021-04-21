@@ -1,7 +1,7 @@
 ﻿
 //Simple colors only, no mauve and puce
 
-
+gul
 röd
 blå
 grön

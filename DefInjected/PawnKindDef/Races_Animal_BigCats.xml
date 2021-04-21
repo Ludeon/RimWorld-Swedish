@@ -1,84 +1,84 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <Cougar.labelPlural>pumor</Cougar.labelPlural>
-  <Cougar.lifeStages.0.label>pumaunge</Cougar.lifeStages.0.label>
-  <Cougar.lifeStages.0.labelPlural>pumaungar</Cougar.lifeStages.0.labelPlural>
-  <Cougar.lifeStages.0.labelMale>pumaunge</Cougar.lifeStages.0.labelMale>
-  <Cougar.lifeStages.0.labelMalePlural>pumaungar</Cougar.lifeStages.0.labelMalePlural>
-  <Cougar.lifeStages.0.labelFemale>pumaunge</Cougar.lifeStages.0.labelFemale>
-  <Cougar.lifeStages.0.labelFemalePlural>pumaungar</Cougar.lifeStages.0.labelFemalePlural>
-  <Cougar.lifeStages.1.label>puma</Cougar.lifeStages.1.label>
-  <Cougar.lifeStages.1.labelPlural>pumor</Cougar.lifeStages.1.labelPlural>
-  <Cougar.lifeStages.1.labelMale>pumahanne</Cougar.lifeStages.1.labelMale>
-  <Cougar.lifeStages.1.labelMalePlural>pumahannar</Cougar.lifeStages.1.labelMalePlural>
-  <Cougar.lifeStages.1.labelFemale>pumahona</Cougar.lifeStages.1.labelFemale>
-  <Cougar.lifeStages.1.labelFemalePlural>pumahonor</Cougar.lifeStages.1.labelFemalePlural>
-  <Cougar.lifeStages.2.label>puma</Cougar.lifeStages.2.label>
-  <Cougar.lifeStages.2.labelPlural>pumor</Cougar.lifeStages.2.labelPlural>
-  <Cougar.lifeStages.2.labelMale>pumahanne</Cougar.lifeStages.2.labelMale>
-  <Cougar.lifeStages.2.labelMalePlural>pumahannar</Cougar.lifeStages.2.labelMalePlural>
-  <Cougar.lifeStages.2.labelFemale>pumahona</Cougar.lifeStages.2.labelFemale>
-  <Cougar.lifeStages.2.labelFemalePlural>pumahonor</Cougar.lifeStages.2.labelFemalePlural>
-  <Cougar.labelMale>pumahanne</Cougar.labelMale>
-  <Cougar.labelMalePlural>pumahannar</Cougar.labelMalePlural>
-  <Cougar.labelFemale>pumahona</Cougar.labelFemale>
-  <Cougar.labelFemalePlural>pumahonor</Cougar.labelFemalePlural>
   <!-- EN: cougar -->
   <Cougar.label>puma</Cougar.label>
+  <Cougar.labelFemale>puma</Cougar.labelFemale>
+  <Cougar.labelFemalePlural>pumor</Cougar.labelFemalePlural>
+  <Cougar.labelMale>puma</Cougar.labelMale>
+  <Cougar.labelMalePlural>pumor</Cougar.labelMalePlural>
+  <Cougar.labelPlural>pumor</Cougar.labelPlural>
+  <Cougar.lifeStages.0.label>pumaunge</Cougar.lifeStages.0.label>
+  <Cougar.lifeStages.0.labelFemale>pumaunge</Cougar.lifeStages.0.labelFemale>
+  <Cougar.lifeStages.0.labelFemalePlural>pumaungar</Cougar.lifeStages.0.labelFemalePlural>
+  <Cougar.lifeStages.0.labelMale>pumaunge</Cougar.lifeStages.0.labelMale>
+  <Cougar.lifeStages.0.labelMalePlural>pumaungar</Cougar.lifeStages.0.labelMalePlural>
+  <Cougar.lifeStages.0.labelPlural>pumaungar</Cougar.lifeStages.0.labelPlural>
+  <Cougar.lifeStages.1.label>puma</Cougar.lifeStages.1.label>
+  <Cougar.lifeStages.1.labelFemale>puma</Cougar.lifeStages.1.labelFemale>
+  <Cougar.lifeStages.1.labelFemalePlural>pumor</Cougar.lifeStages.1.labelFemalePlural>
+  <Cougar.lifeStages.1.labelMale>puma</Cougar.lifeStages.1.labelMale>
+  <Cougar.lifeStages.1.labelMalePlural>pumor</Cougar.lifeStages.1.labelMalePlural>
+  <Cougar.lifeStages.1.labelPlural>pumor</Cougar.lifeStages.1.labelPlural>
+  <Cougar.lifeStages.2.label>puma</Cougar.lifeStages.2.label>
+  <Cougar.lifeStages.2.labelFemale>puma</Cougar.lifeStages.2.labelFemale>
+  <Cougar.lifeStages.2.labelFemalePlural>pumor</Cougar.lifeStages.2.labelFemalePlural>
+  <Cougar.lifeStages.2.labelMale>puma</Cougar.lifeStages.2.labelMale>
+  <Cougar.lifeStages.2.labelMalePlural>pumor</Cougar.lifeStages.2.labelMalePlural>
+  <Cougar.lifeStages.2.labelPlural>pumor</Cougar.lifeStages.2.labelPlural>
   
+  <!-- EN: lynx -->
+  <Lynx.label>lodjur</Lynx.label>
+  <Lynx.labelFemale>lodjur</Lynx.labelFemale>
+  <Lynx.labelFemalePlural>lodjur</Lynx.labelFemalePlural>
+  <Lynx.labelMale>lodjur</Lynx.labelMale>
+  <Lynx.labelMalePlural>lodjur</Lynx.labelMalePlural>
   <!-- EN: lynx -->
   <Lynx.labelPlural>lodjur</Lynx.labelPlural>
   <!-- EN: lynx kitten -->
-  <Lynx.lifeStages.lynx_kitten.label>lodjurunge</Lynx.lifeStages.lynx_kitten.label>
-  <Lynx.lifeStages.lynx_kitten.labelPlural>lodjurungar</Lynx.lifeStages.lynx_kitten.labelPlural>
-  <Lynx.lifeStages.lynx_kitten.labelMale>lodjursunge</Lynx.lifeStages.lynx_kitten.labelMale>
-  <Lynx.lifeStages.lynx_kitten.labelMalePlural>lodjurungar</Lynx.lifeStages.lynx_kitten.labelMalePlural>
+  <Lynx.lifeStages.lynx_kitten.label>lodjursunge</Lynx.lifeStages.lynx_kitten.label>
   <Lynx.lifeStages.lynx_kitten.labelFemale>lodjursunge</Lynx.lifeStages.lynx_kitten.labelFemale>
-  <Lynx.lifeStages.lynx_kitten.labelFemalePlural>lodjurungar</Lynx.lifeStages.lynx_kitten.labelFemalePlural>
+  <Lynx.lifeStages.lynx_kitten.labelFemalePlural>lodjursungar</Lynx.lifeStages.lynx_kitten.labelFemalePlural>
+  <Lynx.lifeStages.lynx_kitten.labelMale>lodjursunge</Lynx.lifeStages.lynx_kitten.labelMale>
+  <Lynx.lifeStages.lynx_kitten.labelMalePlural>lodjursungar</Lynx.lifeStages.lynx_kitten.labelMalePlural>
+  <Lynx.lifeStages.lynx_kitten.labelPlural>lodjursungar</Lynx.lifeStages.lynx_kitten.labelPlural>
   <Lynx.lifeStages.1.label>lodjur</Lynx.lifeStages.1.label>
+  <Lynx.lifeStages.1.labelFemale>lodjur</Lynx.lifeStages.1.labelFemale>
+  <Lynx.lifeStages.1.labelFemalePlural>lodjur</Lynx.lifeStages.1.labelFemalePlural>
+  <Lynx.lifeStages.1.labelMale>lodjur</Lynx.lifeStages.1.labelMale>
+  <Lynx.lifeStages.1.labelMalePlural>lodjur</Lynx.lifeStages.1.labelMalePlural>
   <Lynx.lifeStages.1.labelPlural>lodjur</Lynx.lifeStages.1.labelPlural>
-  <Lynx.lifeStages.1.labelMale>lodjurshane</Lynx.lifeStages.1.labelMale>
-  <Lynx.lifeStages.1.labelMalePlural>lodjurshanar</Lynx.lifeStages.1.labelMalePlural>
-  <Lynx.lifeStages.1.labelFemale>lodjurshona</Lynx.lifeStages.1.labelFemale>
-  <Lynx.lifeStages.1.labelFemalePlural>lodjurshonor</Lynx.lifeStages.1.labelFemalePlural>
   <Lynx.lifeStages.2.label>lodjur</Lynx.lifeStages.2.label>
+  <Lynx.lifeStages.2.labelFemale>lodjur</Lynx.lifeStages.2.labelFemale>
+  <Lynx.lifeStages.2.labelFemalePlural>lodjur</Lynx.lifeStages.2.labelFemalePlural>
+  <Lynx.lifeStages.2.labelMale>lodjur</Lynx.lifeStages.2.labelMale>
+  <Lynx.lifeStages.2.labelMalePlural>lodjur</Lynx.lifeStages.2.labelMalePlural>
   <Lynx.lifeStages.2.labelPlural>lodjur</Lynx.lifeStages.2.labelPlural>
-  <Lynx.lifeStages.2.labelMale>lodjurshane</Lynx.lifeStages.2.labelMale>
-  <Lynx.lifeStages.2.labelMalePlural>lodjurshanar</Lynx.lifeStages.2.labelMalePlural>
-  <Lynx.lifeStages.2.labelFemale>lodjurshona</Lynx.lifeStages.2.labelFemale>
-  <Lynx.lifeStages.2.labelFemalePlural>lodjurshonor</Lynx.lifeStages.2.labelFemalePlural>
-  <Lynx.labelMale>lodjurshane</Lynx.labelMale>
-  <Lynx.labelMalePlural>lodjurshanar</Lynx.labelMalePlural>
-  <Lynx.labelFemale>lodjurshona</Lynx.labelFemale>
-  <Lynx.labelFemalePlural>lodjurshonor</Lynx.labelFemalePlural>
-  <!-- EN: lynx -->
-  <Lynx.label>lodjur</Lynx.label>
   
-  <Panther.labelPlural>pantrar</Panther.labelPlural>
-  <Panther.lifeStages.0.label>panterunge</Panther.lifeStages.0.label>
-  <Panther.lifeStages.0.labelPlural>panterungar</Panther.lifeStages.0.labelPlural>
-  <Panther.lifeStages.0.labelMale>panterunge</Panther.lifeStages.0.labelMale>
-  <Panther.lifeStages.0.labelMalePlural>panterungar</Panther.lifeStages.0.labelMalePlural>
-  <Panther.lifeStages.0.labelFemale>panterunge</Panther.lifeStages.0.labelFemale>
-  <Panther.lifeStages.0.labelFemalePlural>panterungar</Panther.lifeStages.0.labelFemalePlural>
-  <Panther.lifeStages.1.label>panter</Panther.lifeStages.1.label>
-  <Panther.lifeStages.1.labelPlural>panter</Panther.lifeStages.1.labelPlural>
-  <Panther.lifeStages.1.labelMale>panterhane</Panther.lifeStages.1.labelMale>
-  <Panther.lifeStages.1.labelMalePlural>panterhanar</Panther.lifeStages.1.labelMalePlural>
-  <Panther.lifeStages.1.labelFemale>panterhona</Panther.lifeStages.1.labelFemale>
-  <Panther.lifeStages.1.labelFemalePlural>panterhonor</Panther.lifeStages.1.labelFemalePlural>
-  <Panther.lifeStages.2.label>panter</Panther.lifeStages.2.label>
-  <Panther.lifeStages.2.labelPlural>pantrar</Panther.lifeStages.2.labelPlural>
-  <Panther.lifeStages.2.labelMale>panterhane</Panther.lifeStages.2.labelMale>
-  <Panther.lifeStages.2.labelMalePlural>panterhanar</Panther.lifeStages.2.labelMalePlural>
-  <Panther.lifeStages.2.labelFemale>panterhona</Panther.lifeStages.2.labelFemale>
-  <Panther.lifeStages.2.labelFemalePlural>panterhonor</Panther.lifeStages.2.labelFemalePlural>
-  <Panther.labelMale>panterhane</Panther.labelMale>
-  <Panther.labelMalePlural>panterhanar</Panther.labelMalePlural>
-  <Panther.labelFemale>panterhona</Panther.labelFemale>
-  <Panther.labelFemalePlural>panterhonor</Panther.labelFemalePlural>
   <!-- EN: panther -->
   <Panther.label>panter</Panther.label>
+  <Panther.labelFemale>panter</Panther.labelFemale>
+  <Panther.labelFemalePlural>pantrar</Panther.labelFemalePlural>
+  <Panther.labelMale>panter</Panther.labelMale>
+  <Panther.labelMalePlural>panter</Panther.labelMalePlural>
+  <Panther.labelPlural>pantrar</Panther.labelPlural>
+  <Panther.lifeStages.0.label>panterunge</Panther.lifeStages.0.label>
+  <Panther.lifeStages.0.labelFemale>panterunge</Panther.lifeStages.0.labelFemale>
+  <Panther.lifeStages.0.labelFemalePlural>panterungar</Panther.lifeStages.0.labelFemalePlural>
+  <Panther.lifeStages.0.labelMale>panterunge</Panther.lifeStages.0.labelMale>
+  <Panther.lifeStages.0.labelMalePlural>panterungar</Panther.lifeStages.0.labelMalePlural>
+  <Panther.lifeStages.0.labelPlural>panterungar</Panther.lifeStages.0.labelPlural>
+  <Panther.lifeStages.1.label>panter</Panther.lifeStages.1.label>
+  <Panther.lifeStages.1.labelFemale>panter</Panther.lifeStages.1.labelFemale>
+  <Panther.lifeStages.1.labelFemalePlural>pantrar</Panther.lifeStages.1.labelFemalePlural>
+  <Panther.lifeStages.1.labelMale>panter</Panther.lifeStages.1.labelMale>
+  <Panther.lifeStages.1.labelMalePlural>pantrar</Panther.lifeStages.1.labelMalePlural>
+  <Panther.lifeStages.1.labelPlural>panter</Panther.lifeStages.1.labelPlural>
+  <Panther.lifeStages.2.label>panter</Panther.lifeStages.2.label>
+  <Panther.lifeStages.2.labelFemale>panter</Panther.lifeStages.2.labelFemale>
+  <Panther.lifeStages.2.labelFemalePlural>pantrar</Panther.lifeStages.2.labelFemalePlural>
+  <Panther.lifeStages.2.labelMale>panter</Panther.lifeStages.2.labelMale>
+  <Panther.lifeStages.2.labelMalePlural>pantrar</Panther.lifeStages.2.labelMalePlural>
+  <Panther.lifeStages.2.labelPlural>pantrar</Panther.lifeStages.2.labelPlural>
   
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: carrying capacity -->
@@ -19,12 +19,12 @@
   <!-- EN: eating speed -->
   <EatingSpeed.label>äthastighet</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
-  <EatingSpeed.description>Multiplikator på äthastighet.</EatingSpeed.description>
+  <EatingSpeed.description>Multiplikator för äthastighet.</EatingSpeed.description>
   
   <!-- EN: foraged food amount -->
-  <ForagedNutritionPerDay.label>TODO</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.label>insamlad mat i antal</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
-  <ForagedNutritionPerDay.description>TODO</ForagedNutritionPerDay.description>
+  <ForagedNutritionPerDay.description>Mängden insamlad näring denna person automatiskt samlar per dag när den färdas i en karavan. </ForagedNutritionPerDay.description>
   
   <!-- EN: global learning factor -->
   <GlobalLearningFactor.label>global inlärningsfaktor</GlobalLearningFactor.label>
@@ -32,9 +32,9 @@
   <GlobalLearningFactor.description>Global inlärningseffektivitet för alla färdigheter.</GlobalLearningFactor.description>
   
   <!-- EN: hunger rate multiplier -->
-  <HungerRateMultiplier.label>TODO</HungerRateMultiplier.label>
+  <HungerRateMultiplier.label>hungerfrekvensmultiplikator</HungerRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
-  <HungerRateMultiplier.description>TODO</HungerRateMultiplier.description>
+  <HungerRateMultiplier.description>Multiplikator för hur snabbt en varelse blir hungrig.</HungerRateMultiplier.description>
   
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>immunitethastighet</ImmunityGainSpeed.label>
@@ -61,17 +61,17 @@
   <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
   <MinimumHandlingSkill.description>Denna varelse kan inte tämjas, utbildas eller kommenderas av någon med mindre än denna färdighet av djurträning.</MinimumHandlingSkill.description>
   
-  <!-- EN: {0} c/s -->
-  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
   <!-- EN: move speed -->
   <MoveSpeed.label>förflyttningshastighet</MoveSpeed.label>
   <!-- EN: Speed of movement in cells per second. -->
   <MoveSpeed.description>Rörelsehastighet genom världen i celler per sekund.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
   
   <!-- EN: pain shock threshold -->
-  <PainShockThreshold.label>TODO</PainShockThreshold.label>
+  <PainShockThreshold.label>tröskel för smärtchock</PainShockThreshold.label>
   <!-- EN: The pain level at which this creature is downed from pain. -->
-  <PainShockThreshold.description>TODO</PainShockThreshold.description>
+  <PainShockThreshold.description>Smärtitnivån som denna varelse kollapsar av smärta.</PainShockThreshold.description>
   
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>psykisk känslighet</PsychicSensitivity.label>
@@ -79,13 +79,13 @@
   <PsychicSensitivity.description>Multiplikator på hur effekterna av psykiska fenomen påverkar den här personen.</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
-  <RestRateMultiplier.label>TODO</RestRateMultiplier.label>
+  <RestRateMultiplier.label>vilohastighetsmultiplikator</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
-  <RestRateMultiplier.description>TODO</RestRateMultiplier.description>
+  <RestRateMultiplier.description>Multiplikator för hur fort en varelse återfår ork när den sover.</RestRateMultiplier.description>
   
   <!-- EN: toxic sensitivity -->
-  <ToxicSensitivity.label>giftig känslighet</ToxicSensitivity.label>
+  <ToxicSensitivity.label>känslighet för gift</ToxicSensitivity.label>
   <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
-  <ToxicSensitivity.description>Multiplikator på hur effekterna av giftiga uppbyggnad påverkar den här personen.</ToxicSensitivity.description>
+  <ToxicSensitivity.description>Multiplikator för effekten av giftiga ämnens uppbyggnad påverkar denna varelse.</ToxicSensitivity.description>
   
 </LanguageData>

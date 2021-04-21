@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <Drifter.labelPlural>Luffare</Drifter.labelPlural>
   <!-- EN: drifter -->
-  <Drifter.label>Luffare</Drifter.label>
+  <Drifter.label>luffare</Drifter.label>
+  <Drifter.labelPlural>luffare</Drifter.labelPlural>
   
-  <Pirate.labelPlural>Pirater</Pirate.labelPlural>
   <!-- EN: pirate gunner -->
-  <Pirate.label>Pirat</Pirate.label>
+  <Pirate.label>piratartellerist</Pirate.label>
+  <Pirate.labelPlural>beväpnade pirater</Pirate.labelPlural>
   
-  <Scavenger.labelPlural>Sopletare</Scavenger.labelPlural>
   <!-- EN: scavenger gunner -->
-  <Scavenger.label>Sopletare</Scavenger.label>
+  <Scavenger.label>pistolbeväpnad artellerist</Scavenger.label>
+  <Scavenger.labelPlural>skattletare</Scavenger.labelPlural>
   
-  <Thrasher.labelPlural>Skräpletare</Thrasher.labelPlural>
   <!-- EN: scavenger thrasher -->
-  <Thrasher.label>Skräpletare</Thrasher.label>
+  <Thrasher.label>beväpnad sakletare</Thrasher.label>
+  <Thrasher.labelPlural>beväpnade sakletare</Thrasher.labelPlural>
   
 </LanguageData>

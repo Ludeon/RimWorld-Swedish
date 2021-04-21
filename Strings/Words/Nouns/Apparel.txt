@@ -1,24 +1,22 @@
-﻿hatt
-tröja
-jacka
-hög hatt
-regnrock
-jockrem
-bälte
-slips
-kostym
-rymddräkt
-aftonklänning
-parka
-dusterjacka
-sko
-par byxor
-dräkt av energirustning
-hängslen
-fluga
-plommonstop
+﻿aftonklänning
 basebollkeps
-tuque
+bälte
+dräkt av energirustning
+dusterjacka
+fluga
 formell skjorta
-
-
+hatt
+hängslen
+hög hatt
+jacka
+jockrem
+kostym
+par byxor
+parka
+plommonstop
+regnrock
+rymddräkt
+sko
+slips
+tröja
+tuque

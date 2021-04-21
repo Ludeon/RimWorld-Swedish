@@ -5,25 +5,25 @@
   <MessageSiegersAssaulting>Belägrande {0} från {1} attackerar kolonin.</MessageSiegersAssaulting>
 
   <!-- EN: {0} from {1} are beginning their assault. -->
-  <MessageRaidersBeginningAssault>{0} från {1} börjar nu sin attack.</MessageRaidersBeginningAssault>
+  <MessageRaidersBeginningAssault>{0} från {1} påbörjar nu sin attack.</MessageRaidersBeginningAssault>
   <!-- EN: {0} from {1} have detected you and begun their assault early. -->
-  <MessageRaidersDetectedEarlyAssault>{0} från {1} har upptäckt dig och har börjat sin attack tidigt.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} från {1} har upptäckt dig och har påbörjat sin attack tidigt.</MessageRaidersDetectedEarlyAssault>
   <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
-  <MessageRaidersKidnapping>{0} från {1} har bestämt sig för att kidnappa alla dem kan och retirera.</MessageRaidersKidnapping>
+  <MessageRaidersKidnapping>{0} från {1} har bestämt sig för att kidnappa alla de kan och retirera.</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
-  <MessageRaidersStealing>{0} från {1} har bestämt sig för att stjäla vad dem kan och retirera.</MessageRaidersStealing>
+  <MessageRaidersStealing>{0} från {1} har bestämt sig för att stjäla vad de kan och retirera.</MessageRaidersStealing>
 
   <!-- EN: {0} from {1} are leaving. -->
-  <MessageRaidersLeaving>{0} från {1} börjar lämna.</MessageRaidersLeaving>
+  <MessageRaidersLeaving>{0} från {1} retirerar.</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
-  <MessageRaidersGivenUpLeaving>{0} från {1} har gett upp och börjar lämna.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersGivenUpLeaving>{0} från {1} har gett upp och retirerar.</MessageRaidersGivenUpLeaving>
   <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
-  <MessageRaidersSatisfiedLeaving>{0} från {1} är nöjda med den skada de har gjort och börjar lämna.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} från {1} är nöjda med den skada de har gjort och lämnar området.</MessageRaidersSatisfiedLeaving>
 
   <!-- EN: {0} from {1} are fleeing. -->
-  <MessageFightersFleeing>{0} från {1} försöker fly.</MessageFightersFleeing>
+  <MessageFightersFleeing>{0} från {1} flyr.</MessageFightersFleeing>
   <!-- EN: Friendly {0} from {1} are leaving. -->
-  <MessageFriendlyFightersLeaving>Fredliga {0} från {1} börjar lämna.</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>De fredliga {0} från {1} lämnar området.</MessageFriendlyFightersLeaving>
 
   <!-- EN: {0} from {1} are taking a wounded guest. -->
   <MessageVisitorsTakingWounded>{0} från {1} tar med sig en skadad gäst.</MessageVisitorsTakingWounded>
@@ -57,9 +57,9 @@
   <MessageOutOfNearbyShellsFor>{0} hittar inga patroner i närheten för {1}.</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {0} often attack when harmed ({1} chance at rifle range, more if closer). -->
-  <MessageAnimalsGoPsychoHunted>Varning: En {0} har en stor risk försöka hämnas om den blir skadad.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>Varning: En {0} attakerar ofta när den skadas ({1} chans inom vapnets räckvidd, högre om närmre.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {0} often attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Varning: En {0} har en stor risk försöka hämnas om tämjningsfösöket misslyckas ({1} chans).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Varning: {0} attakerar ofta om tämjningsfösöket misslyckas ({1} chans).</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Ny rekryt</LetterLabelMessageRecruitSuccess>
@@ -71,9 +71,9 @@
   <MessageTameAndNameSuccess>{0} lyckades tämja {1} ({2} chans) och har döpt den till {3}.</MessageTameAndNameSuccess>
 
   <!-- EN: The colony cannot afford this deal. -->
-  <MessageColonyCannotAfford>Koloniet har inte råd med det här förhandlingen.</MessageColonyCannotAfford>
+  <MessageColonyCannotAfford>Kolonin har inte råd med den här förhandlingen.</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
-  <MessageColonyNotEnoughSilver>Du har inte tillräckligt med silver för denna förhandling.</MessageColonyNotEnoughSilver>
+  <MessageColonyNotEnoughSilver>Du har inte tillräckligt med silver för att handla.</MessageColonyNotEnoughSilver>
 
   <!-- EN: Critical alert: {0} -->
   <MessageCriticalAlert>Kritisk varning: {0}</MessageCriticalAlert>
@@ -81,7 +81,7 @@
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
   <MessageMustDesignateHarvestable>Du måste ange plantor som kan skördas och som har växt tillräckligt.</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestableWood>Du måste ange träd, som även har växt tillräckligt.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestableWood>Du måste ange träd, som har växt tillräckligt.</MessageMustDesignateHarvestableWood>
   <!-- EN: Must designate plants. -->
   <MessageMustDesignatePlants>Du måste ange plantor.</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
@@ -93,7 +93,7 @@
   <!-- EN: Must designate tameable animals. -->
   <MessageMustDesignateTameable>Du måste ange ett djur som går att tämja.</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned artificial structures. -->
-  <MessageMustDesignateClaimable>Du måste ange övergiven tillverkad struktur.</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>Du måste ange en övergiven struktur.</MessageMustDesignateClaimable>
   <!-- EN: Must designate rough stone surfaces. -->
   <MessageMustDesignateSmoothableSurface>Måste ange ojämna stenytor.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
@@ -101,9 +101,9 @@
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
   <MessageAlreadyInStorage>Detta finns redan lagrat och kommer att flyttas till ett lagringsställe med högre priotitet vid behov.</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
-  <MessageMustDesignateStrippable>Du måste ange kroppar eller karaktärer som är nere med avdragbara kläder.</MessageMustDesignateStrippable>
+  <MessageMustDesignateStrippable>Du måste ange kropp eller utslagen karaktär med avdragbara kläder.</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
-  <MessageMustDesignateSlaughterable>Du måste ange ett tamt djur som tillhör koloniet.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>Du måste ange ett tamt djur som tillhör kolonin.</MessageMustDesignateSlaughterable>
   <!-- EN: Must designate full graves or containers. -->
   <MessageMustDesignateOpenable>Du måste ange en full grav eller behållare.</MessageMustDesignateOpenable>
   <!-- EN: Must designate unforbidden items. -->
@@ -152,7 +152,7 @@
   <MessageGaveBirth>{0} har fött.</MessageGaveBirth>
 
   <!-- EN: {0} has named {1} {2} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{0} Har namngett {1} {2} efter att ha blivit kramad.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{0} Har namngett {1} {2} efter att ha blivit nosgosad.</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}). -->
   <MessageNoHandlerSkilledEnough>Ingen hanterare kan tämja {0} (det kräver nivå {1} i {2}, den bästa hanteraren {3} har {4}).</MessageNoHandlerSkilledEnough>
@@ -334,7 +334,7 @@
   <MessageCantEquipIncapableOfManipulation>Det går inte att utrusta: inkapabel.</MessageCantEquipIncapableOfManipulation>
   
   <!-- EN: Because they are bonded, slaughtering {0} will make {1} unhappy. -->
-  <MessageSlaughteringBondedAnimal>Eftersom de har ett band, att slakta {0} kommer att göra {1} olycklig.</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>Eftersom de är kära varandre, kommer slakt av {0} göra {1} olycklig.</MessageSlaughteringBondedAnimal>
   
   <!-- EN: {0} has run out of food ({1}). -->
   <MessageCaravanRanOutOfFood>{0} har fått slut på mat ({1}).</MessageCaravanRanOutOfFood>
@@ -400,7 +400,7 @@
   <!-- EN: The tornado has left the map. -->
   <MessageTornadoLeftMap>Tornadon har lämnat kartan.</MessageTornadoLeftMap>
   <!-- EN: The tornado has dissipated. -->
-  <MessageTornadoDissipated>Tornadon har ebbats ut.</MessageTornadoDissipated>
+  <MessageTornadoDissipated>Tornadon har ebbat ut.</MessageTornadoDissipated>
 
   <!-- EN: No conscious, capable diplomat. -->
   <MessagePeaceTalksNoDiplomat>Ingen medveten, kapabel diplomat.</MessagePeaceTalksNoDiplomat>
@@ -509,10 +509,10 @@
   <MessagePredatorHuntingPlayerAnimal>{0} jagar {1} för mat!</MessagePredatorHuntingPlayerAnimal>
 
   <!-- EN: Prisoner {0}'s resistance has been broken by {1}. Recruitment attempts will begin. -->
-  <MessagePrisonerResistanceBroken>Fånge {0}s motstånd har brutits av {1}. Rekryteringsförsök kommer nu att börja.</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken>Fånge {0}s motstånd har brutits ned {1}. Rekryteringsförsök kommer nu att påbörjas.</MessagePrisonerResistanceBroken>
 
   <!-- EN: Disable all mods before using this tool. -->
-  <MessageDisableModsBeforeCleaningTranslationFiles>Inaktivera alla mods innan du använder det här verktyget.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageDisableModsBeforeCleaningTranslationFiles>Inaktivera alla moddar innan du använder det här verktyget.</MessageDisableModsBeforeCleaningTranslationFiles>
   <!-- EN: Done. Affected folder: {0} -->
   <MessageTranslationFilesCleanupDone>Klart. Berörd mapp: {0}</MessageTranslationFilesCleanupDone>
 

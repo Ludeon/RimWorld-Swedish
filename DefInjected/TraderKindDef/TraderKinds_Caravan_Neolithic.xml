@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bulk goods trader -->
-  <Caravan_Neolithic_BulkGoods.label>handlare av bulkvaror</Caravan_Neolithic_BulkGoods.label>
+  <Caravan_Neolithic_BulkGoods.label>grosshandlare</Caravan_Neolithic_BulkGoods.label>
   
   <!-- EN: shaman merchant -->
   <Caravan_Neolithic_ShamanMerchant.label>örthandlare</Caravan_Neolithic_ShamanMerchant.label>
@@ -11,6 +11,6 @@
   <Caravan_Neolithic_Slaver.label>slavhandlare</Caravan_Neolithic_Slaver.label>
   
   <!-- EN: war merchant -->
-  <Caravan_Neolithic_WarMerchant.label>vapenhandlare</Caravan_Neolithic_WarMerchant.label>
+  <Caravan_Neolithic_WarMerchant.label>handlare av krigsmaterial</Caravan_Neolithic_WarMerchant.label>
   
 </LanguageData>

@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bonded animal {0} died -->
-  <BondedAnimalDied.stages.bonded_animal_died.label>bundet djur {0} dog</BondedAnimalDied.stages.bonded_animal_died.label>
+  <BondedAnimalDied.stages.bonded_animal_died.label>kärt djur {0} dog</BondedAnimalDied.stages.bonded_animal_died.label>
   <!-- EN: Such a tender, unique animal. This universe is evil! -->
-  <BondedAnimalDied.stages.bonded_animal_died.description>Sådant ömt och unikt djur. Detta universum är ont!</BondedAnimalDied.stages.bonded_animal_died.description>
+  <BondedAnimalDied.stages.bonded_animal_died.description>Sådant ömt och unikt djur. Detta universum är elakt!</BondedAnimalDied.stages.bonded_animal_died.description>
   
   <!-- EN: colonist died -->
   <KnowColonistDied.stages.colonist_died.label>kolonist dog</KnowColonistDied.stages.colonist_died.label>
@@ -40,10 +40,10 @@
   <KnowGuestExecuted.stages.someone_was_executed.label>någon avrättades</KnowGuestExecuted.stages.someone_was_executed.label>
   <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
   <KnowGuestExecuted.stages.someone_was_executed.description>En fånge eller gäst dödades kallblodigt. Det verkade aningen ondskefullt.</KnowGuestExecuted.stages.someone_was_executed.description>
-  <!-- EN: someone organ-harvested -->
-  <KnowGuestExecuted.stages.someone_organharvested.label>någon organskördades</KnowGuestExecuted.stages.someone_organharvested.label>
+  <!-- EN: someone was organ-murdered -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>en person dog av organförlust</KnowGuestExecuted.stages.someone_was_organmurdered.label>
   <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
-  <KnowGuestExecuted.stages.someone_organharvested.description>En fånge eller gäst dog på grund av att kolonin tog kroppsdelar från honom. Det är hemskt.</KnowGuestExecuted.stages.someone_organharvested.description>
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>En fånge eller gäst dog för att kolonin tog kroppsdelar från hen. Det är fruktansvärt.</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   
   <!-- EN: innocent prisoner died -->
   <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>oskyldig fånge dog</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>

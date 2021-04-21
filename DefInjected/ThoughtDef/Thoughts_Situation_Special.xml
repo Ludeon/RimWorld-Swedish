@@ -1,31 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: beautiful aurora -->
-  <Aurora.stages.beautiful_aurora.label>TODO</Aurora.stages.beautiful_aurora.label>
+  <Aurora.stages.beautiful_aurora.label>vackert norrsken</Aurora.stages.beautiful_aurora.label>
   <!-- EN: The view is amazing. -->
-  <Aurora.stages.beautiful_aurora.description>TODO</Aurora.stages.beautiful_aurora.description>
+  <Aurora.stages.beautiful_aurora.description>Utsikten är fantastisk.</Aurora.stages.beautiful_aurora.description>
   
   <!-- EN: colonist left unburied -->
-  <ColonistLeftUnburied.stages.colonist_left_unburied.label>kolonist lämnade obegravda</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>kolonist lämnad obegravd</ColonistLeftUnburied.stages.colonist_left_unburied.label>
   <!-- EN: One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial. -->
-  <ColonistLeftUnburied.stages.colonist_left_unburied.description>En av oss dog och vi bara lämna dem ligga i där. Ingen bör lämnas så. Folk förtjänar en anständig begravning.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>En av oss dog och vi bara lämnade hen ligga där. Ingen bör lämnas så. Folk förtjänar en anständig begravning.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
   
   <!-- EN: minor passion for my work -->
-  <DoingPassionateWork.stages.minor_passion_for_my_work.label>TODO</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>mindre passion för mitt arbete</DoingPassionateWork.stages.minor_passion_for_my_work.label>
   <!-- EN: I enjoy my work. -->
-  <DoingPassionateWork.stages.minor_passion_for_my_work.description>TODO</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>Jag tycker om mitt arbete</DoingPassionateWork.stages.minor_passion_for_my_work.description>
   <!-- EN: burning passion for my work -->
-  <DoingPassionateWork.stages.burning_passion_for_my_work.label>TODO</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>brinnande passion för mitt arbete</DoingPassionateWork.stages.burning_passion_for_my_work.label>
   <!-- EN: I love my work. I could do this all day, every day. -->
-  <DoingPassionateWork.stages.burning_passion_for_my_work.description>TODO</DoingPassionateWork.stages.burning_passion_for_my_work.description>
-  
-  <!-- UNUSED -->
-  <Imprisoned.stages.0.label>fängslad</Imprisoned.stages.0.label>
-  <Imprisoned.stages.0.description>Jag hatar att vara inlåst.</Imprisoned.stages.0.description>
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>jag älskar mitt arbete, jag kan göra detta hela dagen, varje dag.</DoingPassionateWork.stages.burning_passion_for_my_work.description>
   
   <!-- EN: joywire -->
-  <Joywire.stages.joywire.label>Glädjetråd</Joywire.stages.joywire.label>
+  <Joywire.stages.joywire.label>glädjetråd</Joywire.stages.joywire.label>
   <!-- EN: It feels amazing. -->
   <Joywire.stages.joywire.description>Det känns fantastiskt.</Joywire.stages.joywire.description>
   
@@ -35,51 +31,51 @@
   <Naked.stages.naked.description>Jag är naken. Detta är förödmjukande.</Naked.stages.naked.description>
   
   <!-- EN: minor pain -->
-  <Pain.stages.minor_pain.label>känner lite smärta</Pain.stages.minor_pain.label>
+  <Pain.stages.minor_pain.label>mindre smärta</Pain.stages.minor_pain.label>
   <!-- EN: Ow... That hurts. -->
   <Pain.stages.minor_pain.description>Aj... Det gör ont.</Pain.stages.minor_pain.description>
   <!-- EN: serious pain -->
-  <Pain.stages.serious_pain.label>i en måttlig mängd av smärta</Pain.stages.serious_pain.label>
+  <Pain.stages.serious_pain.label>obehaglig smärta</Pain.stages.serious_pain.label>
   <!-- EN: Ughhh... When will it end? -->
   <Pain.stages.serious_pain.description>Ughhh... När ska detta sluta?</Pain.stages.serious_pain.description>
   <!-- EN: intense pain -->
-  <Pain.stages.intense_pain.label>upplever akut smärta</Pain.stages.intense_pain.label>
+  <Pain.stages.intense_pain.label>intensiv smärta</Pain.stages.intense_pain.label>
   <!-- EN: Make it stop... make it stop... make it stop... -->
   <Pain.stages.intense_pain.description>Få det att sluta... få det att sluta... få det att sluta...</Pain.stages.intense_pain.description>
   <!-- EN: mind-shattering pain -->
-  <Pain.stages.mindshattering_pain.label>i chock av exceptionell smärta</Pain.stages.mindshattering_pain.label>
+  <Pain.stages.mindshattering_pain.label> extrem smärta</Pain.stages.mindshattering_pain.label>
   <!-- EN: AAAAAHHH! -->
-  <Pain.stages.mindshattering_pain.description>AAAAAHHH! Döda mig nu!</Pain.stages.mindshattering_pain.description>
+  <Pain.stages.mindshattering_pain.description>AAAAAHHH!</Pain.stages.mindshattering_pain.description>
   
   <!-- EN: psychic soothe -->
-  <PsychicDrone.stages.psychic_soothe.label>psykiskt lugn (medel)</PsychicDrone.stages.psychic_soothe.label>
+  <PsychicDrone.stages.psychic_soothe.label>psykiskt lugn </PsychicDrone.stages.psychic_soothe.label>
   <!-- EN: It's like a calming voice at the back of my mind, soothing me, settling my nerves. -->
   <PsychicDrone.stages.psychic_soothe.description>Det är som en lugnande röst i bakhuvudet, lugnar mig och mina nerver.</PsychicDrone.stages.psychic_soothe.description>
   <!-- EN: low psychic drone -->
-  <PsychicDrone.stages.low_psychic_drone.label>psykiskt drönare (låg)</PsychicDrone.stages.low_psychic_drone.label>
+  <PsychicDrone.stages.low_psychic_drone.label>psykisk drönare (låg)</PsychicDrone.stages.low_psychic_drone.label>
   <!-- EN: It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them. -->
-  <PsychicDrone.stages.low_psychic_drone.description>Det är som ett rivande innuti mitt huvud. En röst, viskade. Jag kan bara urskilja några ord, och jag tycker inte om dem.</PsychicDrone.stages.low_psychic_drone.description>
+  <PsychicDrone.stages.low_psychic_drone.description>Det är något som skrapar innuti mitt huvud. En röst som viskar, jag kan bara urskilja några ord, och jag tycker inte om dem.</PsychicDrone.stages.low_psychic_drone.description>
   <!-- EN: moderate psychic drone -->
-  <PsychicDrone.stages.moderate_psychic_drone.label>psykiskt drönare (medel)</PsychicDrone.stages.moderate_psychic_drone.label>
+  <PsychicDrone.stages.moderate_psychic_drone.label>psykisk drönare (medel)</PsychicDrone.stages.moderate_psychic_drone.label>
   <!-- EN: I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away! -->
-  <PsychicDrone.stages.moderate_psychic_drone.description>Det känns som någon är alltid bara ur sikte, talar till mig. Rösten ändras men inte meddelandet. Jag ska skada människor. Få det att försvinna!</PsychicDrone.stages.moderate_psychic_drone.description>
+  <PsychicDrone.stages.moderate_psychic_drone.description>Det känns som någon är alltid finns i min ögonvrå som talar till mig. Rösten ändras men inte meddelandet. Jag ska skada människor. Få dem att försvinna!</PsychicDrone.stages.moderate_psychic_drone.description>
   <!-- EN: high psychic drone -->
-  <PsychicDrone.stages.high_psychic_drone.label>psykiskt drönare (hög)</PsychicDrone.stages.high_psychic_drone.label>
+  <PsychicDrone.stages.high_psychic_drone.label>psykisk drönare (hög)</PsychicDrone.stages.high_psychic_drone.label>
   <!-- EN: The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting! -->
-  <PsychicDrone.stages.high_psychic_drone.description>Rösten är outhärdligt högt. Det är svårt att koncentrera sig. Jag kommer på mig med att svara tillbaka och skrika på det. Men det fortsätter bara att skrika!</PsychicDrone.stages.high_psychic_drone.description>
+  <PsychicDrone.stages.high_psychic_drone.description>Rösten är outhärdligt hög. Det är svårt att koncentrera sig. Jag kommer på mig med att svara och skrika tillbaka på den. Men den fortsätter bara att skrika!</PsychicDrone.stages.high_psychic_drone.description>
   <!-- EN: extreme psychic drone -->
   <PsychicDrone.stages.extreme_psychic_drone.label>psykiskt drönare (extremt)</PsychicDrone.stages.extreme_psychic_drone.label>
   <!-- EN: My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
   <PsychicDrone.stages.extreme_psychic_drone.description>Mitt hjärta slår och jag svettas. Allt jag kan tänka på är skada och lidande och alla dessa fiender omkring mig. De är min mardröm, min mardröm, min mardröm ...</PsychicDrone.stages.extreme_psychic_drone.description>
   
   <!-- EN: psychic emanator soothe -->
-  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>TODO</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>psykiskt lugnande doftspridare</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
   <!-- EN: The psychic emanator makes me feel strange, but also very relaxed. -->
-  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>TODO</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>Denna doftspridare gör att jag känner mig konstig, men också väldigt avslappnad.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
   
   <!-- EN: sharing bed -->
-  <SharedBed.stages.sharing_bed.label>delad säng</SharedBed.stages.sharing_bed.label>
+  <SharedBed.stages.sharing_bed.label>delar säng</SharedBed.stages.sharing_bed.label>
   <!-- EN: I have to share a bed with someone who I don't particularly want to. -->
-  <SharedBed.stages.sharing_bed.description>Jag måste dela säng med någon som jag inte vill.</SharedBed.stages.sharing_bed.description>
+  <SharedBed.stages.sharing_bed.description>Jag måste dela säng med någon som jag inte vill det med.</SharedBed.stages.sharing_bed.description>
   
 </LanguageData>

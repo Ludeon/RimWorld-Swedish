@@ -1,8 +1,10 @@
 ﻿mor
-son
 far
+son
+dotter
 bror
-farbror
-brorson
-moster
-
+syster
+farmor
+farfar
+mormor
+morfar

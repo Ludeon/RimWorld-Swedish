@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Follow master while the master is drafted. -->
-  <FollowDrafted.headerTip>Följ herren medan den är kommenderad.</FollowDrafted.headerTip>
+  <FollowDrafted.headerTip>Följ efter ägaren medan hen är kommenderad.</FollowDrafted.headerTip>
   
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
-  <FollowFieldwork.headerTip>Följ herren medan den gör fältarbete (jaga eller tämja djur).</FollowFieldwork.headerTip>
+  <FollowFieldwork.headerTip>Följ efter ägaren när hen gör fältarbete (jagar eller tämjer djur).</FollowFieldwork.headerTip>
   
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <Hunt.headerTip>TODO</Hunt.headerTip>
+  <Hunt.headerTip>Markera djur som ska jagas av dina jägare.</Hunt.headerTip>
   
   <!-- EN: Slaughter -->
   <Slaughter.headerTip>Slakta</Slaughter.headerTip>
   
   <!-- EN: Tame a wild animal. -->
-  <Tame.headerTip>TODO</Tame.headerTip>
+  <Tame.headerTip>Tämj ett vilt djur.</Tame.headerTip>
   
 </LanguageData>

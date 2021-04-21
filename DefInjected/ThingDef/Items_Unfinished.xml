@@ -1,34 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: minified thing -->
-  <MinifiedThing.label>skulptur</MinifiedThing.label>
+  <MinifiedThing.label>minifierad sak</MinifiedThing.label>
   
   <!-- EN: unfinished apparel -->
-  <UnfinishedApparel.label>ofärdiga kläder</UnfinishedApparel.label>
+  <UnfinishedApparel.label>halvfärdiga kläder</UnfinishedApparel.label>
   
   <!-- EN: unfinished armor -->
-  <UnfinishedArmor.label>TODO</UnfinishedArmor.label>
+  <UnfinishedArmor.label>halvfärdig rustning</UnfinishedArmor.label>
   
   <!-- EN: unfinished belt -->
-  <UnfinishedBelt.label>ofärdigt bälte</UnfinishedBelt.label>
+  <UnfinishedBelt.label>halvfärdigt bälte</UnfinishedBelt.label>
   
   <!-- EN: unfinished component -->
-  <UnfinishedComponent.label>ofärdig komponent</UnfinishedComponent.label>
+  <UnfinishedComponent.label>halvfärdig komponent</UnfinishedComponent.label>
   
   <!-- EN: unfinished gun -->
-  <UnfinishedGun.label>ofärdig pistol</UnfinishedGun.label>
+  <UnfinishedGun.label>halvfärdig pistol</UnfinishedGun.label>
   
   <!-- EN: unfinished armor -->
-  <UnfinishedMetallicTechArmor.label>ofärdig rustning</UnfinishedMetallicTechArmor.label>
+  <UnfinishedMetallicTechArmor.label>halvfärdig rustning</UnfinishedMetallicTechArmor.label>
   
   <!-- EN: unfinished sculpture -->
-  <UnfinishedSculpture.label>ofärdig skulptur</UnfinishedSculpture.label>
+  <UnfinishedSculpture.label>halvfärdig skulptur</UnfinishedSculpture.label>
   
   <!-- EN: unfinished armor -->
-  <UnfinishedTechArmor.label>ofärdig rustning</UnfinishedTechArmor.label>
+  <UnfinishedTechArmor.label>halvfärdig rustning</UnfinishedTechArmor.label>
   
   <!-- EN: unfinished weapon -->
-  <UnfinishedWeapon.label>ofärdigt vapen</UnfinishedWeapon.label>
+  <UnfinishedWeapon.label>halvfärdigt vapen</UnfinishedWeapon.label>
   
 </LanguageData>

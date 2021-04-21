@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -11,23 +11,7 @@
     <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
   -->
   <NamerFactionOutlander.rulePack.rulesStrings>
-    <li>name->[subname]</li>
-    <li>name->[subname]</li>
-    <li>name->[subname]</li>
-    <li>name->[subname] [politicalunion]</li>
-    <li>name->[subname] [politicaladjective] [politicalunion]</li>
-    <li>name->[politicalunion] av [subname]</li>
-    <li>name->[politicaladjective] [politicalunion] av [subname]</li>
-    <li>subname->[wordname]</li>
-    <li>subname->[wordname]</li>
-    <li>subname->[wordname]</li>
-    <li>subname->[direction] [wordname]</li>
-    <li>wordname->[syl][endsyl]</li>
-    <li>wordname->[syl][syl][endsyl]</li>
-    <li>wordname->[syl][syl][syl][endsyl]</li>
-    <li>wordname->[syl][syl][endsyl]</li>
-    <li>wordname->[syl][syl][endsyl]</li>
-    <li>wordname->[syl][syl][syl][endsyl]</li>
+    <li>TODO</li>
   </NamerFactionOutlander.rulePack.rulesStrings>
   
   <!-- EN:
@@ -58,27 +42,9 @@
     <li>r_name->[NamePerson]'s [Weapon]s</li>
     <li>r_name->[Weapon] [groupname]</li>
     <li>r_name->[ConceptBadass] [groupname]</li>
-    <li>r_name->[Letter][Letter][Digit][Digit]</li>
   -->
   <NamerFactionPirate.rulePack.rulesStrings>
-    <li>name->[badassanimal]arna</li>
-    <li>name->[badassanimal]männen</li>
-    <li>name->[badassanimal]arna av [badassconcept]</li>
-    <li>name->[badassperson]männen av [badassconcept]</li>
-    <li>name->[badassperson]männen</li>
-    <li>name->[weapon]männen</li>
-    <li>name->[weapon]arna</li>
-    <li>name->[weapon]-[badassanimal]arna</li>
-    <li>name->[badasscolor][weapon]arna</li>
-    <li>name->[badasscolor][badassanimal]arna</li>
-    <li>name->[badasscolor][badassperson]</li>
-    <li>name->[badassperson][groupname]en</li>
-    <li>name->[badassadjective][groupname]en</li>
-    <li>name->[badassadjective][badassanimal]arna</li>
-    <li>name->[badassadjective][badassperson]</li>
-    <li>name->[weapon][groupname]en</li>
-    <li>name->[badassconcept][groupname]</li>
-    <li>name->[badassconcept][groupname]</li>
+    <li>TODO</li>
   </NamerFactionPirate.rulePack.rulesStrings>
   
   <!-- EN:
@@ -90,19 +56,7 @@
     <li>r_name->The [WordTribal] of the [TerrainFeature]</li>
   -->
   <NamerFactionTribal.rulePack.rulesStrings>
-    <li>name->[tribalworld] [politicalunion]</li>
-    <li>name->[tribalworld] [politicalunion]</li>
-    <li>name->[color] [terrainfeature] [politicalunion]</li>
-    <li>name->[politicalunion] av [tribalword]</li>
-    <li>name->[color] [animal] [tribalword]</li>
-    <li>name->[tribalword] av [terrainfeature]</li>
-    <li>tribalword->[tribalwordfile]</li>
-    <li>tribalword->[syl][syl]</li>
-    <li>tribalword->[syl][syl][syl]</li>
-    <li>tribalword->[syl][syl]</li>
-    <li>tribalword->[syl][syl][syl]</li>
-    <li>tribalword->[syl][syl][syl]</li>
-    <li>tribalword->[syl][syl][syl][syl]</li>
+    <li>TODO</li>
   </NamerFactionTribal.rulePack.rulesStrings>
   
   <!-- EN:
@@ -172,32 +126,7 @@
     <li>townend->well</li>
   -->
   <NamerSettlementOutlander.rulePack.rulesStrings>
-    <li>name->[positiveconcept]'s [terrainfeature]</li>
-    <li>name->[outlander]'s [terrainfeature]</li>
-    <li>name->[outlander]'s [community]</li>
-    <li>name->[nearname]</li>
-    <li>name->[wordname]</li>
-    <li>name->[wordname]</li>
-    <li>nearname->[subname]-vid-[terrainfeature]</li>
-    <li>nearname->[subname]-nära-[terrainfeature]</li>
-    <li>subname->[wordname]</li>
-    <li>subname->[community]</li>
-    <li>wordname->[syl][syl]</li>
-    <li>wordname->[syl][townend]</li>
-    <li>wordname->[syl][syl][townend]</li>
-    <li>wordname->[terrainfeature][townend]</li>
-    <li>townend->by</li>
-    <li>townend->stad</li>
-    <li>townend->um</li>
-    <li>townend->född</li>
-    <li>townend->stift</li>
-    <li>townend->dal</li>
-    <li>townend->hopp</li>
-    <li>townend->ing</li>
-    <li>townend->näs</li>
-    <li>townend->ås</li>
-    <li>townend->köping</li>
-    <li>townend->sta</li>
+    <li>TODO</li>
   </NamerSettlementOutlander.rulePack.rulesStrings>
   
   <!-- EN:
@@ -243,12 +172,7 @@
     <li>townendevil->thad</li>
   -->
   <NamerSettlementPirate.rulePack.rulesStrings>
-    <li>name->[badassanimal] [geography]</li>
-    <li>name->[badassconcept] [geography]</li>
-    <li>name->[badassanimal]'s [geography]</li>
-    <li>name->[badassperson]'s [geography]</li>
-    <li>geography->[terrainfeature]</li>
-    <li>geography->[community]</li>
+    <li>TODO</li>
   </NamerSettlementPirate.rulePack.rulesStrings>
   
   <!-- EN:
@@ -258,14 +182,7 @@
     <li>r_name->[WordTribal] [TerrainFeature]</li>
   -->
   <NamerSettlementTribal.rulePack.rulesStrings>
-    <li>name->[tribalword]</li>
-    <li>name->[tribalword]</li>
-    <li>name->[color] [tribalword]</li>
-    <li>name->[color] [terrainfeature]</li>
-    <li>name->[tribalword] [terrainfeature]</li>
-    <li>tribalword->[tribalwordfile]</li>
-    <li>tribalword->[syl][syl]</li>
-    <li>tribalword->[syl][syl][syl]</li>
+    <li>TODO</li>
   </NamerSettlementTribal.rulePack.rulesStrings>
   
 </LanguageData>

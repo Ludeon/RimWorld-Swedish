@@ -1,19 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Attack {0} -->
-  <Outpost.approachOrderString>TODO</Outpost.approachOrderString>
-  <!-- EN: Attacking {0} -->
-  <Outpost.approachingReportString>TODO</Outpost.approachingReportString>
-  <!-- EN: There is an enemy outpost in this area. -->
-  <Outpost.arrivedLetter>TODO</Outpost.arrivedLetter>
-  <!-- EN: Enemy outpost -->
-  <Outpost.arrivedLetterLabel>TODO</Outpost.arrivedLetterLabel>
-  <!-- EN: there is an enemy outpost at the site guarded by {0} enemies -->
-  <Outpost.descriptionDialogue>TODO</Outpost.descriptionDialogue>
   <!-- EN: outpost -->
   <Outpost.label>utpost</Outpost.label>
   <!-- EN: A small, guarded outpost. -->
   <Outpost.description>En liten bevakad utpost.</Outpost.description>
+  <!-- EN: Attacking {0} -->
+  <Outpost.approachingReportString>Attackerar {0}</Outpost.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <Outpost.approachOrderString>Attackera {0}</Outpost.approachOrderString>
+  <!-- EN: There is an enemy outpost in this area. -->
+  <Outpost.arrivedLetter>Fiender har en utpost i detta område.</Outpost.arrivedLetter>
+  <!-- EN: there is an enemy outpost at the site guarded by {0} enemies -->
+  <Outpost.descriptionDialogue>finder har en utpost i närheten, den bevakas av {0} fiender</Outpost.descriptionDialogue>
+  
   
 </LanguageData>

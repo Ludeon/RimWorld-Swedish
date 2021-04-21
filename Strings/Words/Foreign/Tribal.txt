@@ -1,4 +1,5 @@
-﻿abanqueiro
+﻿
+abanqueiro
 abeneiro
 abruño
 alboio

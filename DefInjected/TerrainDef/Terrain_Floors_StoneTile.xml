@@ -1,54 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: granite flagstone -->
   <FlagstoneGranite.label>sandstenplatta</FlagstoneGranite.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneGranite.description>Grovhuggna stenplattor. Inte super snyggt, men de blir ett bra golv för vägar och utomhusgångar. Dekonstruerande stenblattor ger inte tillbaka några resurser.</FlagstoneGranite.description>
+  <FlagstoneGranite.description>Grovhuggna stenplattor. Inte supersnyggt men de blir ett bra golv för vägar och utomhusgångar. Dekonstruerande stenblattor ger inte tillbaka några resurser.</FlagstoneGranite.description>
   
   <!-- EN: limestone flagstone -->
   <FlagstoneLimestone.label>kalkstenplatta</FlagstoneLimestone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneLimestone.description>Grovhuggna stenplattor. Inte super snyggt, men de blir ett bra golv för vägar och utomhusgångar. Dekonstruerande stenblattor ger inte tillbaka några resurser.</FlagstoneLimestone.description>
+  <FlagstoneLimestone.description>Grovhuggna stenplattor. Inte supersnyggt men de blir ett bra golv för vägar och utomhusgångar. Dekonstruerande stenblattor ger inte tillbaka några resurser.</FlagstoneLimestone.description>
   
   <!-- EN: marble flagstone -->
-  <FlagstoneMarble.label>marmorstenplatta</FlagstoneMarble.label>
+  <FlagstoneMarble.label>marmorplatta</FlagstoneMarble.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneMarble.description>Grovhuggna stenplattor. Inte super snyggt, men de blir ett bra golv för vägar och utomhusgångar. Dekonstruerande stenblattor ger inte tillbaka några resurser.</FlagstoneMarble.description>
+  <FlagstoneMarble.description>Grovhuggna stenplattor. Inte supersnyggt men de blir ett bra golv för vägar och utomhusgångar. Dekonstruerande stenblattor ger inte tillbaka några resurser.</FlagstoneMarble.description>
   
   <!-- EN: sandstone flagstone -->
   <FlagstoneSandstone.label>sandstenplatta</FlagstoneSandstone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSandstone.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneSandstone.description>
+  <FlagstoneSandstone.description>Grovhuggna stenplattor. Inte supersnyggt men de blir ett bra golv för vägar och utomhusgångar. Dekonstruerande stenblattor ger inte tillbaka några resurser.</FlagstoneSandstone.description>
   
   <!-- EN: slate flagstone -->
   <FlagstoneSlate.label>skifferstenplatta</FlagstoneSlate.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSlate.description>Grovhuggna stenplattor. Inte super snyggt, men de blir ett bra golv för vägar och utomhusgångar. Dekonstruerande stenblattor ger inte tillbaka några resurser.</FlagstoneSlate.description>
+  <FlagstoneSlate.description>Grovhuggna stenplattor. Inte supersnyggt men de blir ett bra golv för vägar och utomhusgångar. Dekonstruerande stenblattor ger inte tillbaka några resurser.</FlagstoneSlate.description>
   
   <!-- EN: granite tile -->
-  <TileGranite.label>granitkakel</TileGranite.label>
+  <TileGranite.label>granitklinker</TileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileGranite.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileGranite.description>
+  <TileGranite.description>Fint utmejslad stenklinker för den där slottskänslan. Vackra att titta på men de tar lång tid att lägga.</TileGranite.description>
   
   <!-- EN: limestone tile -->
-  <TileLimestone.label>kalkstenskakel</TileLimestone.label>
+  <TileLimestone.label>kalkstensklinker</TileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileLimestone.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileLimestone.description>
+  <TileLimestone.description>int utmejslad stenklinker för den där slottskänslan. Vackra att titta på men de tar lång tid att lägga.</TileLimestone.description>
   
   <!-- EN: marble tile -->
-  <TileMarble.label>marmorkakel</TileMarble.label>
+  <TileMarble.label>marmorklinker</TileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileMarble.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileMarble.description>
+  <TileMarble.description>int utmejslad stenklinker för den där slottskänslan. Vackra att titta på men de tar lång tid att lägga.</TileMarble.description>
   
   <!-- EN: sandstone tile -->
-  <TileSandstone.label>sandstenkakel</TileSandstone.label>
+  <TileSandstone.label>sandstenklinker</TileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSandstone.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileSandstone.description>
+  <TileSandstone.description>int utmejslad stenklinker för den där slottskänslan. Vackra att titta på men de tar lång tid att lägga.</TileSandstone.description>
   
   <!-- EN: slate tile -->
-  <TileSlate.label>skifferkakel</TileSlate.label>
+  <TileSlate.label>skifferklinker</TileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSlate.description>Massivt stenkakel för den där slottskänsla. Vackra att titta på, men de tar lång tid att lägga.</TileSlate.description>
+  <TileSlate.description>int utmejslad stenklinker för den där slottskänslan. Vackra att titta på men de tar lång tid att lägga.</TileSlate.description>
   
 </LanguageData>

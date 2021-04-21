@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: try to get to know -->
+  <BuildRapport.label>försökte lära känna</BuildRapport.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>
@@ -38,11 +40,44 @@
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
   <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>logentry->Försökte bygga en relation med [other_nameShortIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] för [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] berättade [RECIPIENT_nameDef] om [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] förklarade [subject] för [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] uppmuntrade [RECIPIENT_nameDef] att [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] gav en chans till [RECIPIENT_nameDef] att [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] visade intresse för [RECIPIENT_nameDef]s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] frågade [RECIPIENT_nameDef] om [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->berättade en historia om</li>
+    <li>toldastoryabout->berättade en rolig historia om</li>
+    <li>toldastoryabout->berättade en uppriktig historia om</li>
+    <li>toldastoryabout->berättade en gammal historia om</li>
+    <li>toldastoryabout->berättade en familjehistoria om</li>
+    <li>toldastoryabout->berättade en barndomshistoria om</li>
+    <li>toldastoryabout->mentioned en anekdot om</li>
+    <li>talkabout->prata om</li>
+    <li>talkabout->diskutera</li>
+    <li>talkabout->ha en diskussion om</li>
+    <li>talkabout->fråga om</li>
+    <li>talkabout->tänka på</li>
+    <li>talkabout->hitta något gemensamt runt</li>
+    <li>subject->kolonin</li>
+    <li>subject->samhället</li>
+    <li>subject->ansluta till kolonin</li>
+    <li>subject->byta lag</li>
+    <li>subject->hitta vänner</li>
+    <li>subject->möta nya människor</li>
+    <li>subject->ompröva [RECIPIENT_possessive] ideér</li>
+    <li>subject->tänka om gällande [RECIPIENT_possessive] loyalitet</li>
+    <li>subject->hälsa</li>
+    <li>subject->framtiden</li>
+    <li>subject->släppa taget</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
   </BuildRapport.logRulesInitiator.rulesStrings>
-  <!-- EN: try to get to know -->
-  <BuildRapport.label>försökte lära känna</BuildRapport.label>
   
+  <!-- EN: recruit attempt -->
+  <RecruitAttempt.label>rekryteringförsök</RecruitAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
     <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
@@ -50,11 +85,14 @@
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
   <RecruitAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Försökte rekrytera [other_nameShortIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] frågade [RECIPIENT_nameDef] att ansluta.</li>
+    <li>r_logentry->[INITIATOR_nameDef] lovade [goodthing] till [RECIPIENT_nameDef], och frågade [RECIPIENT_objective] att ansluta.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->gratis, färska [Vegetable]s</li>
   </RecruitAttempt.logRulesInitiator.rulesStrings>
-  <!-- EN: recruit attempt -->
-  <RecruitAttempt.label>rekryteringförsök</RecruitAttempt.label>
   
+  <!-- EN: spark jailbreak -->
+  <SparkJailbreak.label>uppmana till flyktförsök</SparkJailbreak.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
     <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
@@ -65,8 +103,15 @@
     <li>freedom->home</li>
     <li>freedom->self-determination</li>
   -->
-  <SparkJailbreak.logRulesInitiator.rulesStrings>TODO</SparkJailbreak.logRulesInitiator.rulesStrings>
-  <!-- EN: spark jailbreak -->
-  <SparkJailbreak.label>TODO</SparkJailbreak.label>
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] pratade om det sköna med [freedom], och erbjöd ett sätt att fly.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pratade om hur vacker [TerrainFeature] är, och erbjöd frihet.</li>
+    <li>r_logentry->[INITIATOR_nameDef] demonstrerade ett sätt att fly för [RECIPIENT_nameDef], och utlovade [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] berättade [RECIPIENT_nameDef] att säkerheten är slapp, och uppmuntrade till flykt.</li>
+    <li>freedom->frihet</li>
+    <li>freedom->möjlighet</li>
+    <li>freedom->hemma</li>
+    <li>freedom->självbestämmande</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
   
 </LanguageData>

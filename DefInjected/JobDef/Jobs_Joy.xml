@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: building snowman. -->
   <BuildSnowman.reportString>bygger en snögubbe.</BuildSnowman.reportString>
   
   <!-- EN: going for a walk. -->
-  <GoForWalk.reportString>går på en promenad.</GoForWalk.reportString>
+  <GoForWalk.reportString>går på promenerad.</GoForWalk.reportString>
   
   <!-- EN: meditating. -->
   <Meditate.reportString>mediterar.</Meditate.reportString>
@@ -17,28 +17,28 @@
   <Play_Chess.reportString>spelar shack.</Play_Chess.reportString>
   
   <!-- EN: playing the game of Ur. -->
-  <Play_GameOfUr.reportString>TODO</Play_GameOfUr.reportString>
+  <Play_GameOfUr.reportString>spelar Ur</Play_GameOfUr.reportString>
   
   <!-- EN: playing hoopstone. -->
-  <Play_Hoopstone.reportString>TODO</Play_Hoopstone.reportString>
+  <Play_Hoopstone.reportString>spelar sten-i-ring.</Play_Hoopstone.reportString>
   
   <!-- EN: playing horseshoes. -->
   <Play_Horseshoes.reportString>kastar hästskor.</Play_Horseshoes.reportString>
   
   <!-- EN: playing poker. -->
-  <Play_Poker.reportString>TODO</Play_Poker.reportString>
+  <Play_Poker.reportString>spelar poker.</Play_Poker.reportString>
   
   <!-- EN: praying. -->
   <Pray.reportString>ber.</Pray.reportString>
   
   <!-- EN: skygazing. -->
-  <Skygaze.reportString>tittar på himmelen.</Skygaze.reportString>
+  <Skygaze.reportString>beskådar himmelen.</Skygaze.reportString>
   
   <!-- EN: relaxing socially. -->
-  <SocialRelax.reportString>avkopplar socialt.</SocialRelax.reportString>
+  <SocialRelax.reportString>socialiserar.</SocialRelax.reportString>
   
   <!-- EN: using telescope. -->
-  <UseTelescope.reportString>tittar i teleskop.</UseTelescope.reportString>
+  <UseTelescope.reportString>använder teleskopet.</UseTelescope.reportString>
   
   <!-- EN: viewing art. -->
   <ViewArt.reportString>tittar på konst.</ViewArt.reportString>
@@ -47,7 +47,7 @@
   <VisitGrave.reportString>besöker en grav.</VisitGrave.reportString>
   
   <!-- EN: cheering up patient TargetA. -->
-  <VisitSickPawn.reportString>muntrar upp patient TargetA.</VisitSickPawn.reportString>
+  <VisitSickPawn.reportString>muntrar upp patienten TargetA.</VisitSickPawn.reportString>
   
   <!-- EN: watching television. -->
   <WatchTelevision.reportString>tittar på TV.</WatchTelevision.reportString>

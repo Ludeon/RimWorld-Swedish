@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  
-  <!-- UNUSED -->
-  <InstallScytherBlade.label>installera liemansblad</InstallScytherBlade.label>
-  <InstallScytherBlade.description>Installerar liemansblad.</InstallScytherBlade.description>
-  <InstallScytherBlade.jobString>Installerar liemansblad.</InstallScytherBlade.jobString>
-  
-</LanguageData>

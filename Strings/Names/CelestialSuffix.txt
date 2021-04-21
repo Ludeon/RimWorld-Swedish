@@ -1,4 +1,5 @@
-﻿Secundus
+﻿
+Secundus
 Primus
 Tertius
 Quadrus
@@ -6,28 +7,16 @@ Pentimus
 Heximus
 Septimus
 Octus
-Nonus
-
 Minutus
-
 Borealis
 Australis
 Media
 Meridiana
 Posterious
 Prior
-
 Planet
 Värld
-
 al Rai
 al Asad
 al Samakah
 al Saif
-
-
-
-
-
-
-

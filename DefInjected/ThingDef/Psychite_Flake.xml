@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Smoke {0} -->
-  <Flake.ingestible.ingestCommandString>Röka {0}</Flake.ingestible.ingestCommandString>
-  <!-- EN: Smoking {0}. -->
-  <Flake.ingestible.ingestReportString>Röker {0}.</Flake.ingestible.ingestReportString>
   <!-- EN: flake -->
   <Flake.label>flingor</Flake.label>
   <!-- EN: A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies. -->
   <Flake.description>En flagnande substans som kan rökas för att inducera ett kort men kraftigt euforiskt tillstånd. Det är billigt att tillverka men är tyvär utomordentligt beroendeframkallande.</Flake.description>
+  <!-- EN: Smoke {0} -->
+  <Flake.ingestible.ingestCommandString>Rök {0}</Flake.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <Flake.ingestible.ingestReportString>Röker {0}.</Flake.ingestible.ingestReportString>
   
 </LanguageData>

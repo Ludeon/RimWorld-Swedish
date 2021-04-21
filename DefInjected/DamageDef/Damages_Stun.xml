@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: {0} has been EMPed to death. -->
-  <EMP.deathMessage>{0} dog av en EMP.</EMP.deathMessage>
   <!-- EN: EMP -->
   <EMP.label>EMP</EMP.label>
+  <!-- EN: {0} has been EMPed to death. -->
+  <EMP.deathMessage>{0} har dödats av en EMP.</EMP.deathMessage>
   
-  <!-- EN: {0} has been stunned to death. -->
-  <Stun.deathMessage>{0} dog av chock.</Stun.deathMessage>
   <!-- EN: stun -->
-  <Stun.label>Bedöva</Stun.label>
+  <Stun.label>knockad</Stun.label>
+  <!-- EN: {0} has been stunned to death. -->
+  <Stun.deathMessage>{0} har knockats ihjäl.</Stun.deathMessage>
   
 </LanguageData>

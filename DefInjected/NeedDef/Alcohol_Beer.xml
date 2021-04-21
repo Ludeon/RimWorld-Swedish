@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: alcohol -->
   <Chemical_Alcohol.label>alkohol</Chemical_Alcohol.label>
   <!-- EN: Because of an alcohol addiction, this person needs to regularly consume alcohol to avoid withdrawal symptoms. -->
-  <Chemical_Alcohol.description>På grund av ett alkoholberoende behöver den här personen regelbundet konsumera alkohol för att undvika abstinens symptom.</Chemical_Alcohol.description>
+  <Chemical_Alcohol.description>På grund av alkoholberoende behöver den här personen regelbundet konsumera alkohol för att undvika abstinenssymptom.</Chemical_Alcohol.description>
   
 </LanguageData>

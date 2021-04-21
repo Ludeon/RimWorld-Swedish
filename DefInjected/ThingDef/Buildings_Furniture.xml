@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: animal bed -->
@@ -9,43 +9,37 @@
   <!-- EN: animal sleeping box -->
   <AnimalSleepingBox.label>sovlåda</AnimalSleepingBox.label>
   <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
-  <AnimalSleepingBox.description>En liten låda gjord för djur att sova i. Passar mindre djur såsom hönor, katter, och mindre hundar.</AnimalSleepingBox.description>
+  <AnimalSleepingBox.description>En liten låda gjord för djur att sova i. Passar mindre djur såsom hönor, katter och mindre hundar.</AnimalSleepingBox.description>
   
   <!-- EN: animal sleeping spot -->
   <AnimalSleepingSpot.label>sovplats för djur</AnimalSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where animals should sleep. -->
-  <AnimalSleepingSpot.description>Markerar en plats på marken där djur ska sova.</AnimalSleepingSpot.description>
+  <AnimalSleepingSpot.description>Reserverar en plats på marken där djur ska sova.</AnimalSleepingSpot.description>
   
   <!-- EN: armchair -->
-  <Armchair.label>fotölj</Armchair.label>
+  <Armchair.label>fåtölj</Armchair.label>
   <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
-  <Armchair.description>En stor, mjuk, bekväm fotölj. Bra om man vill slappna av.</Armchair.description>
+  <Armchair.description>En stor, mjuk och bekväm fåtölj. Bra om man vill slappna av. Kan användas vid bord, arbetsplatser och på andra ställen.</Armchair.description>
   
   <!-- EN: bed -->
   <Bed.label>säng</Bed.label>
   <!-- EN: A cozy mattress and sheets on a frame for resting. -->
-  <Bed.description>En mysig madrass och lakan på en sängram.</Bed.description>
+  <Bed.description>En mysig madrass och lakan på en sängram, för att sova på.</Bed.description>
   
   <!-- EN: bedroll -->
-  <Bedroll.label>TODO</Bedroll.label>
+  <Bedroll.label>sovsäck</Bedroll.label>
   <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <Bedroll.description>TODO</Bedroll.description>
+  <Bedroll.description>En simpel säng som ligger på golvet, vanligtvis gjord av tyg och läder och kantad med päls. Den är lätt och kan rullas ihop och lätt transporteras, men den är inte riktigt så skön som en vanlig säng. Karavaner använder sovsäckar när de vandrar för att sova bättre.</Bedroll.description>
   
   <!-- EN: double bedroll -->
-  <BedrollDouble.label>TODO</BedrollDouble.label>
+  <BedrollDouble.label>dubbelsovsäck</BedrollDouble.label>
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <BedrollDouble.description>TODO</BedrollDouble.description>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_TableLong.label>bord (långt) (ritning)</Blueprint_Install_TableLong.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_TableShort.label>bord (kort) (ritning)</Blueprint_Install_TableShort.label>
+  <BedrollDouble.description>En simpel dubbelsäng som ligger på golvet, vanligtvis gjord av tyg och läder och kantad med päls. Den är lätt och kan rullas ihop och lätt transporteras, men den är inte riktigt så skön som en vanlig säng. Karavaner använder sovsäckar när de vandrar för att sova bättre.</BedrollDouble.description>
   
   <!-- EN: dining chair -->
   <DiningChair.label>stol</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
-  <DiningChair.description>En bekväm och snygg stol som med fördel kan placeras vid ett bord.</DiningChair.description>
+  <DiningChair.description>En bekväm och snygg stol. Kan användas vid bord, arbetsplatser och på andra ställen.</DiningChair.description>
   
   <!-- EN: double bed -->
   <DoubleBed.label>dubbelsäng</DoubleBed.label>
@@ -53,49 +47,49 @@
   <DoubleBed.description>En enkel säng som rymmer två personer.</DoubleBed.description>
   
   <!-- EN: double sleeping spot -->
-  <DoubleSleepingSpot.label>TODO</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.label>dubbel sovplats</DoubleSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
-  <DoubleSleepingSpot.description>TODO</DoubleSleepingSpot.description>
+  <DoubleSleepingSpot.description>Markerar en plats på marken där två personer ska sova tillsammans. Inte det minsta bekvämt.</DoubleSleepingSpot.description>
   
   <!-- EN: dresser -->
-  <Dresser.label>TODO</Dresser.label>
+  <Dresser.label>byrå</Dresser.label>
   <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
-  <Dresser.description>TODO</Dresser.description>
+  <Dresser.description>En byrå. Ger en liten bonus i konfort till alla närbelägna sängar. Att placera fler än en byrå nära samma säng har ingen effekt.</Dresser.description>
   
   <!-- EN: end table -->
-  <EndTable.label>TODO</EndTable.label>
+  <EndTable.label>nattuksbord</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
-  <EndTable.description>TODO</EndTable.description>
+  <EndTable.description>ett litet nattuksbord som gör sängar i närheten lite mer konfortabla. Måste placeras direkt i anslutning till huvudänden av en säng. Att placera fler än ett nattuksbord vid samma säng har ingen effekt.</EndTable.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>sjuksäng</HospitalBed.label>
+  <HospitalBed.label>sjukhussäng</HospitalBed.label>
   <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
-  <HospitalBed.description>En säng särskilt anpassad för skadade personer. Ökar chansen för en lyckad medecinsk åtgärd.</HospitalBed.description>
+  <HospitalBed.description>En säng särskilt designad för användning på sjukhus. Justerbar för patienter och prydd med inbyggd utrustning, den förbättrar medicinsk behandling jämfört med en vanlig säng.</HospitalBed.description>
   
   <!-- EN: plant pot -->
   <PlantPot.label>blomkruka</PlantPot.label>
   <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
-  <PlantPot.description>Plantera en fin blomma och förbättra humöret hos alla i närheten.</PlantPot.description>
+  <PlantPot.description>Plantera fina blommor här för att förbättra humöret hos alla i närheten.</PlantPot.description>
   
   <!-- EN: royal bed -->
   <RoyalBed.label>kunglig säng</RoyalBed.label>
   <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
-  <RoyalBed.description>En lyxig säng passande för de av adlig börd. Väldigt bekväm och vacker. Rymmer två personer.</RoyalBed.description>
+  <RoyalBed.description>En lyxig guldinfattad säng passande för de av adlig börd. Väldigt bekväm och vacker, den är ett konstverk i sig. Rymmer två personer.</RoyalBed.description>
   
   <!-- EN: shelf -->
   <Shelf.label>hylla</Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
-  <Shelf.description>Föremål som lagras här kommer inte att försämras, även om de är utomhus.</Shelf.description>
+  <Shelf.description>En hylla för att förvara olika saker. Föremål som placeras i denna kommer inte försämras, även om de är utomhus.</Shelf.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>sovplats</SleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
-  <SleepingSpot.description>Markerar en plats på marken där folk bör sova. Inte bekvämt.</SleepingSpot.description>
+  <SleepingSpot.description>Markerar en plats på marken där folk bör sova. Inte det minsta bekvämt.</SleepingSpot.description>
   
   <!-- EN: standing lamp -->
   <StandingLamp.label>golvlampa</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>Golvlampa som fyller ett område i ljus.</StandingLamp.description>
+  <StandingLamp.description>En elektrisk golvlampa som fyller ett område i ljus. Folk behöver ljus för att förflytta sig och arbeta i full hastighet.</StandingLamp.description>
   
   <!-- EN: standing lamp (blue) -->
   <StandingLamp_Blue.label>golvlampa (blå)</StandingLamp_Blue.label>
@@ -115,52 +109,38 @@
   <!-- EN: stool -->
   <Stool.label>pall</Stool.label>
   <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
-  <Stool.description>En enkel och plan konstruktion att sitta på.</Stool.description>
+  <Stool.description>En enkel och plan konstruktion att sitta på. Inte särskilt bekväm men bättre än inget alls. Kan användas vid bord,arbetsplatser och på andra ställen.</Stool.description>
   
-  <!-- EN: Off for plant resting period -->
-  <SunLamp.comps.CompSchedule.offMessage>Avstängd under växternas viloperiod.</SunLamp.comps.CompSchedule.offMessage>
   <!-- EN: sun lamp -->
   <SunLamp.label>sollampa</SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
-  <SunLamp.description>Belyser ett område starkt nog för att odla grödor men förbrukar en enorm mängd ström. Stänger automatiskt av sig vid nattetid.</SunLamp.description>
+  <SunLamp.description>En lampa av industrigrad som lyser upp ett område starkt nog för att odla grödor, men förbrukar en enorm mängd el. Stänger automatiskt av sig nattetid.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>Avstängd under växternas viloperiod.</SunLamp.comps.CompSchedule.offMessage>
   
   <!-- EN: table (1x2) -->
-  <Table1x2c.label>TODO</Table1x2c.label>
+  <Table1x2c.label>bord (1x2)</Table1x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table1x2c.description>TODO</Table1x2c.description>
+  <Table1x2c.description>Folk äter vid bord när stolar är placerade vända mot dem.</Table1x2c.description>
   
   <!-- EN: table (2x2) -->
-  <Table2x2c.label>bord (kort)</Table2x2c.label>
+  <Table2x2c.label>bord (2x2)</Table2x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x2c.description>Folk äter vid bord när stolar finns placerade vid dem.</Table2x2c.description>
-  
-  <!-- UNUSED -->
-  <Table2x2c_Blueprint.label>bord (kort) (ritning)</Table2x2c_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Table2x2c_Frame.label>bord (kort) (byggnad)</Table2x2c_Frame.label>
-  <Table2x2c_Frame.description>Folk äter vid bord när stolar finns placerade vid dem.</Table2x2c_Frame.description>
+  <Table2x2c.description>Folk äter vid bord när stolar är placerade vända mot dem.</Table2x2c.description>
   
   <!-- EN: table (2x4) -->
-  <Table2x4c.label>bord (långt)</Table2x4c.label>
+  <Table2x4c.label>bord (2x4)</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x4c.description>Folk äter vid bord när stolar finns placerade vid dem.</Table2x4c.description>
-  
-  <!-- UNUSED -->
-  <Table2x4c_Blueprint.label>bord (långt) (ritning)</Table2x4c_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Table2x4c_Frame.label>bord (långt) (byggnad)</Table2x4c_Frame.label>
-  <Table2x4c_Frame.description>Folk äter vid bord när stolar finns placerade vid dem.</Table2x4c_Frame.description>
+  <Table2x4c.description>Folk äter vid bord när stolar är placerade vända mot dem.</Table2x4c.description>
   
   <!-- EN: table (3x3) -->
-  <Table3x3c.label>TODO</Table3x3c.label>
+  <Table3x3c.label>bord (3x3)</Table3x3c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table3x3c.description>TODO</Table3x3c.description>
+  <Table3x3c.description>Folk äter vid bord när stolar är placerade vända mot dem.</Table3x3c.description>
   
   <!-- EN: torch lamp -->
   <TorchLamp.label>fackla</TorchLamp.label>
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <TorchLamp.description>En trä fackla för att tända upp ett område. Kan automatiskt fyllas på med trä. Genererar en liten mängd värme.</TorchLamp.description>
+  <TorchLamp.description>En träfackla för att lysa upp ett område. Folk behöver ljus för att förflytta sig och arbeta i full hastighet. Kan automatiskt fyllas på med trä. Genererar en liten mängd värme.</TorchLamp.description>
   
 </LanguageData>

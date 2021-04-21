@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: chitchat -->
+  <Chitchat.label>småprat</Chitchat.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
@@ -19,11 +21,25 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-    <li>logentry->Hade ett trevligt samtal med [other_nameShortIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] och [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] med [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] till [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->småpratade med</li>
+    <li>talkedabout->bytte några ord om</li>
+    <li>talkedabout->pratade om</li>
+    <li>talkedabout->skvallrade om</li>
+    <li>talkedabout->ordade om</li>
+    <li>talkedabout->skämtade om</li>
+    <li>talkedabout->hånade</li>
+    <li>commentedabout->sa någonting om</li>
+    <li>commentedabout->sa några ord om</li>
+    <li>commentedabout->fällde en kommentar om</li>
+    <li>commentedabout->kommenterade</li>
+    <li>commentedabout->berättade ett skämt om</li>
   </Chitchat.logRulesInitiator.rulesStrings>
-  <!-- EN: chitchat -->
-  <Chitchat.label>småprat</Chitchat.label>
   
+  <!-- EN: deep talk -->
+  <DeepTalk.label>djupt samtal</DeepTalk.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
@@ -40,11 +56,23 @@
     <li>subject->[TalkTopicHeavy]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>logentry->Hade ett djupt samtal med [other_nameShortIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] och [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] med [RECIPIENT_nameDef].</li>
+    <li>talkedabout->kommunicerade tankar om</li>
+    <li>talkedabout->utbytte tankar om</li>
+    <li>talkedabout->utbytte ideér om</li>
+    <li>talkedabout->delade åsikter gällande</li>
+    <li>talkedabout->delade tro gällande</li>
+    <li>talkedabout->disskuterade ämnet</li>
+    <li>talkedabout->hade en innerlig konversation om</li>
+    <li>talkedabout->pratade tyst om</li>
+    <li>talkedabout->hade en djup konversation</li>
+    <li>talkedabout->lierade över ämnet</li>
+    <li>subject->[TalkTopicHeavy]</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
-  <!-- EN: deep talk -->
-  <DeepTalk.label>djupt samtal</DeepTalk.label>
   
+  <!-- EN: insult -->
+  <Insult.label>förolämpa</Insult.label>
   <!-- EN:
     <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
     <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
@@ -65,16 +93,27 @@
     <li>insultcomparison->[Enemy]</li>
   -->
   <Insult.logRulesInitiator.rulesStrings>
-    <li>logentry->Förolämpade [other_nameShortIndef].</li>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] jämförde [target] med en [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] kallade [target] en [insultcomparison].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef]s [PersonFamily]</li>
+    <li>insulted(p=3)->förolämpade</li>
+    <li>insulted->förolämpade öppet</li>
+    <li>insulted->förolämpade högt</li>
+    <li>insulted->uppenbart förolämpad</li>
+    <li>insulted->direkt förolämpad</li>
+    <li>insulted->ilsket förolämpad</li>
+    <li>insulted->uppenbart orespekterad</li>
+    <li>insulted->baktalad</li>
+    <li>insulted->slängde iväg några skällsord om</li>
+    <li>insulted->hånade</li>
+    <li>insultcomparison(p=2)->[Animal]</li>
+    <li>insultcomparison->[Enemy]</li>
   </Insult.logRulesInitiator.rulesStrings>
-  <!-- EN: insult -->
-  <Insult.label>förolämpa</Insult.label>
   
-  <!-- UNUSED -->
-  <Insult.logRulesRecipient.rulesStrings>
-    <li>logentry->Blev förolämpad av [other_nameShortIndef].</li>
-  </Insult.logRulesRecipient.rulesStrings>
-  
+  <!-- EN: kind words -->
+  <KindWords.label>vänliga ord</KindWords.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
     <li>complimented(p=3)->complimented</li>
@@ -92,16 +131,24 @@
     <li>complimented->said good things about</li>
   -->
   <KindWords.logRulesInitiator.rulesStrings>
-    <li>logentry->Sa vänliga ord till [other_nameShortIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]s [PersonalCharacteristic].</li>
+    <li>complimented(p=3)->gav komplimang</li>
+    <li>complimented->prisade</li>
+    <li>complimented->berömde</li>
+    <li>complimented->lovprisa</li>
+    <li>complimented->applåderade</li>
+    <li>complimented->firade</li>
+    <li>complimented->hälsade</li>
+    <li>complimented->talade gott om</li>
+    <li>complimented->uttryckte bra saker om</li>
+    <li>complimented->erbjöd snälla ord om</li>
+    <li>complimented->verbalt uppskattad</li>
+    <li>complimented->uttryckte uppskattning för</li>
+    <li>complimented->sa snälla saker om</li>
   </KindWords.logRulesInitiator.rulesStrings>
-  <!-- EN: kind words -->
-  <KindWords.label>vänliga ord</KindWords.label>
   
-  <!-- UNUSED -->
-  <KindWords.logRulesRecipient.rulesStrings>
-    <li>logentry->Fick vänliga ord av [other_nameShortIndef].</li>
-  </KindWords.logRulesRecipient.rulesStrings>
-  
+  <!-- EN: slight -->
+  <Slight.label>skymf</Slight.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
@@ -120,14 +167,22 @@
     <li>madefunof->offered a backhanded compliment about</li>
   -->
   <Slight.logRulesInitiator.rulesStrings>
-    <li>logentry->Förringade [other_nameShortIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]s [PersonalCharacteristic].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef]s [PersonFamily]</li>
+    <li>madefunof->gjorde narr av</li>
+    <li>madefunof->nedvärderad</li>
+    <li>madefunof->smått föraktad</li>
+    <li>madefunof->smått förnedrad</li>
+    <li>madefunof->talade illa om</li>
+    <li>madefunof->talade nedlåtande om</li>
+    <li>madefunof->skrattade åt</li>
+    <li>madefunof->fnissade åt</li>
+    <li>madefunof->antydde negativa saker om</li>
+    <li>madefunof->förminskade</li>
+    <li>madefunof->gjorde en föraktfull påpekan gällande</li>
+    <li>madefunof->gav en sarkastisk komplemang till</li>
   </Slight.logRulesInitiator.rulesStrings>
-  <!-- EN: slight -->
-  <Slight.label>förringa</Slight.label>
-  
-  <!-- UNUSED -->
-  <Slight.logRulesRecipient.rulesStrings>
-    <li>logentry->Blev förringad av [other_nameShortIndef].</li>
-  </Slight.logRulesRecipient.rulesStrings>
+
   
 </LanguageData>

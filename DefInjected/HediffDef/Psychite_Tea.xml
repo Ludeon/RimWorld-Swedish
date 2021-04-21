@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: a psychite tea high -->
-  <PsychiteTeaHigh.labelNoun>psychit te hög</PsychiteTeaHigh.labelNoun>
   <!-- EN: high on psychite tea -->
-  <PsychiteTeaHigh.label>hög på psychit te</PsychiteTeaHigh.label>
+  <PsychiteTeaHigh.label>hög på psykit-te</PsychiteTeaHigh.label>
+  <!-- EN: a psychite tea high -->
+  <PsychiteTeaHigh.labelNoun>psykit-te rus</PsychiteTeaHigh.labelNoun>
   
 </LanguageData>

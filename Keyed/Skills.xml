@@ -1,22 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Level -->
   <Level>Nivå</Level>
   <!-- EN: Progress to next level -->
-  <ProgressToNextLevel>Framsteg till nästa nivå</ProgressToNextLevel>
+  <ProgressToNextLevel>Utveckling till nästa nivå</ProgressToNextLevel>
   <!-- EN: Experience -->
   <Experience>Erfarenhet</Experience>
   <!-- EN: Passion -->
   <Passion>Intresse</Passion>
   <!-- EN: None\n   -Learns {0} -->
-  <PassionNone>Inget (Lär sig {0}x)</PassionNone>
+  <PassionNone>Inget\n  -Lär sig {0}</PassionNone>
   <!-- EN: Interested\n   -Learns {0} -->
-  <PassionMinor>Intresserad (Lär sig {0}x, ökar glädje)</PassionMinor>
+  <PassionMinor>Intresserad\n  -Lär sig {0}</PassionMinor>
   <!-- EN: Burning\n   -Learns {0} -->
-  <PassionMajor>Brinnande (Lär sig {0}x, ökar glädje 2x)</PassionMajor>
+  <PassionMajor>Brinnande\n  -Lär sig {0}</PassionMajor>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
-  <LearnedMaxToday>Lärt sig max idag ({0}/{1}, framtida lärande multipiceras med {2})</LearnedMaxToday>
+  <LearnedMaxToday>Lärt sig max idag ({0}/{1}, framtida inlärning multipiceras med {2})</LearnedMaxToday>
   <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>Effekt vid nivå {0}</EffectsAtLevel>
   <!-- EN: MAX -->
@@ -29,40 +29,40 @@
   <!-- EN: Beginner -->
   <Skill2>Nybörjare</Skill2>
   <!-- EN: Basic familiarity -->
-  <Skill3>Knappt kunnig</Skill3>
+  <Skill3>Känner till grunderna</Skill3>
   <!-- EN: Some familiarity -->
-  <Skill4>Amatör</Skill4>
+  <Skill4>Kan grunderna</Skill4>
   <!-- EN: Significant familiarity -->
-  <Skill5>Kunnig amatör</Skill5>
+  <Skill5>Amatör</Skill5>
   <!-- EN: Capable amateur -->
-  <Skill6>Kapabel amatör</Skill6>
+  <Skill6>Utövare</Skill6>
   <!-- EN: Weak professional -->
-  <Skill7>Svag professionell</Skill7>
+  <Skill7>Semiproffissionell</Skill7>
   <!-- EN: Employable professional -->
-  <Skill8>Anställbar professionell</Skill8>
+  <Skill8>Profisionell</Skill8>
   <!-- EN: Solid professional -->
-  <Skill9>Professionell</Skill9>
+  <Skill9>Mycket proffesionell</Skill9>
   <!-- EN: Skilled professional -->
-  <Skill10>Väldigt professionell</Skill10>
+  <Skill10>Erfaret proffs</Skill10>
   <!-- EN: Very skilled professional -->
-  <Skill11>Otroligt kunnig professionell</Skill11>
+  <Skill11>Mycket erfaret proffs</Skill11>
   <!-- EN: Expert -->
   <Skill12>Expert</Skill12>
   <!-- EN: Strong expert -->
-  <Skill13>Stark expert</Skill13>
+  <Skill13>Erfaren expert</Skill13>
   <!-- EN: Master -->
-  <Skill14>Mästare</Skill14>
+  <Skill14>Specialist</Skill14>
   <!-- EN: Strong master -->
-  <Skill15>Stark mästare</Skill15>
+  <Skill15>Mästare</Skill15>
   <!-- EN: Region-known master -->
-  <Skill16>Känd mästare</Skill16>
+  <Skill16>Känd regionsmästare </Skill16>
   <!-- EN: Region-leading master -->
-  <Skill17>Ledande mästare</Skill17>
+  <Skill17>Ledande regionsmästare</Skill17>
   <!-- EN: Planet-known master -->
-  <Skill18>Planet känd mästare</Skill18>
+  <Skill18>Känd planetmästare</Skill18>
   <!-- EN: Planet-leading master -->
-  <Skill19>Planet ledande mästare</Skill19>
+  <Skill19>Ledande planetmästare</Skill19>
   <!-- EN: Legendary master -->
-  <Skill20>Legendarisk mästare</Skill20>
+  <Skill20>Gudalik</Skill20>
   
 </LanguageData>

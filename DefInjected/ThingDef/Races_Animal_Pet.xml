@@ -1,50 +1,50 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: left claw -->
-  <Cat.tools.left_claw.label>TODO</Cat.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <Cat.tools.right_claw.label>TODO</Cat.tools.right_claw.label>
-  <!-- EN: head -->
-  <Cat.tools.head.label>TODO</Cat.tools.head.label>
   <!-- EN: cat -->
   <Cat.label>katt</Cat.label>
   <!-- EN: One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their independence, calm disposition, and fine, pettable fur. -->
-  <Cat.description>En av mänsklighetens första husdjur. Katten är ett litet däggdjur som jagar ohyra. Känd för sin distansiering är katter ändå en populär följeslagare på grund av deras lugn, självständighet, och fina, klappbara päls.</Cat.description>
-  
+  <Cat.description>En av mänsklighetens första husdjur, en katt är ett litet däggdjur som jagar skadedjur. Kända för sin högdragenhet är katter ändå populära följeslagare på grund av deras självständighet, lugna läggning och fina klappbara päls.</Cat.description>
   <!-- EN: left claw -->
-  <Husky.tools.left_claw.label>TODO</Husky.tools.left_claw.label>
+  <Cat.tools.left_claw.label>vänster klo</Cat.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Husky.tools.right_claw.label>TODO</Husky.tools.right_claw.label>
+  <Cat.tools.right_claw.label>höger klo</Cat.tools.right_claw.label>
   <!-- EN: head -->
-  <Husky.tools.head.label>TODO</Husky.tools.head.label>
+  <Cat.tools.head.label>huvud</Cat.tools.head.label>
+  
   <!-- EN: husky -->
   <Husky.label>husky</Husky.label>
   <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->
-  <Husky.description>En stor, energisk hund med en tjock päls för att kunna vara bekväm i arktiska miljöer.</Husky.description>
-  
+  <Husky.description>En stor energisk hund med en tjock päls för att kunna vara bekväm i arktiska miljöer.</Husky.description>
   <!-- EN: left claw -->
-  <LabradorRetriever.tools.left_claw.label>TODO</LabradorRetriever.tools.left_claw.label>
+  <Husky.tools.left_claw.label>vänster klo</Husky.tools.left_claw.label>
   <!-- EN: right claw -->
-  <LabradorRetriever.tools.right_claw.label>TODO</LabradorRetriever.tools.right_claw.label>
+  <Husky.tools.right_claw.label>höger klo</Husky.tools.right_claw.label>
   <!-- EN: head -->
-  <LabradorRetriever.tools.head.label>TODO</LabradorRetriever.tools.head.label>
+  <Husky.tools.head.label>huvud</Husky.tools.head.label>
+  
   <!-- EN: labrador retriever -->
   <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
   <!-- EN: A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend. -->
-  <LabradorRetriever.description>En mycket mångsidig medelstor hund. Ursprungligen framavlade för att hämta fåglar vid jakt, men labradoren är också en utmärkt vakthund, lekvän, och vän till familjen.</LabradorRetriever.description>
-  
+  <LabradorRetriever.description>En mycket mångsidig medelstor hund. Ursprungligen framavlad för att hämta fåglar vid jakt, men labradoren är också en utmärkt vakthund, lekkamrat, och vän till familjen.</LabradorRetriever.description>
   <!-- EN: left claw -->
-  <YorkshireTerrier.tools.left_claw.label>TODO</YorkshireTerrier.tools.left_claw.label>
+  <LabradorRetriever.tools.left_claw.label>vänster klo</LabradorRetriever.tools.left_claw.label>
   <!-- EN: right claw -->
-  <YorkshireTerrier.tools.right_claw.label>TODO</YorkshireTerrier.tools.right_claw.label>
-  <!-- EN: cute little teeth -->
-  <YorkshireTerrier.tools.cute_little_teeth.label>TODO</YorkshireTerrier.tools.cute_little_teeth.label>
+  <LabradorRetriever.tools.right_claw.label>höger klo</LabradorRetriever.tools.right_claw.label>
   <!-- EN: head -->
-  <YorkshireTerrier.tools.head.label>TODO</YorkshireTerrier.tools.head.label>
+  <LabradorRetriever.tools.head.label>huvud</LabradorRetriever.tools.head.label>
+  
   <!-- EN: yorkshire terrier -->
   <YorkshireTerrier.label>yorkshireterrier</YorkshireTerrier.label>
   <!-- EN: A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweight the cost of feeding it. -->
-  <YorkshireTerrier.description>En liten hund med jämnt humör. Ursprungligen uppfödd för att jaga råttor men har senare blivt använt mer för show och kamratskap.</YorkshireTerrier.description>
+  <YorkshireTerrier.description>En liten hund med jämnt humör. Ursprungligen uppfödd för att jaga råttor men har senare använts mer som show- och sällskaps- djur. Vissa tycker att den är värdelös, men den positiva humörförändringen som den ger när den gosar kan väga tyngre än kostnaden att ge den föda.</YorkshireTerrier.description>
+  <!-- EN: left claw -->
+  <YorkshireTerrier.tools.left_claw.label>vänster klo</YorkshireTerrier.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <YorkshireTerrier.tools.right_claw.label>höger klo</YorkshireTerrier.tools.right_claw.label>
+  <!-- EN: cute little teeth -->
+  <YorkshireTerrier.tools.cute_little_teeth.label>söta små tänder</YorkshireTerrier.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <YorkshireTerrier.tools.head.label>huvud</YorkshireTerrier.tools.head.label>
   
 </LanguageData>

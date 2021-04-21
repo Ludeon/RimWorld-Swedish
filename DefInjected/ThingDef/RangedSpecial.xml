@@ -1,25 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>TODO</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
-  <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.label>TODO</OrbitalTargeterBombardment.label>
+  <OrbitalTargeterBombardment.label>orbitalt bombardementsystem</OrbitalTargeterBombardment.label>
   <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
-  <OrbitalTargeterBombardment.description>TODO</OrbitalTargeterBombardment.description>
+  <OrbitalTargeterBombardment.description>En gammal inriktningsapparat för ett orbitalt bombardementsystem. Denna enhet utser ett mål och överför koordinaterna till ett nätverk av satelliter som sedan bombarderar målområdet med kinetiska föremål. Denna enhet har omprogrammerats för att acceptera obehöriga användare, men när den väl har använts kommer nätverket att upptäcka intrånget och stänga av uppkopplingen permanent.</OrbitalTargeterBombardment.description>
+  <!-- EN: orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>orbitalt bombardementsystem</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
   
   <!-- EN: orbital power beam targeter -->
-  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>TODO</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
-  <!-- EN: orbital power beam targeter -->
-  <OrbitalTargeterPowerBeam.label>TODO</OrbitalTargeterPowerBeam.label>
+  <OrbitalTargeterPowerBeam.label>orbital energistrålsenhet</OrbitalTargeterPowerBeam.label>
   <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
-  <OrbitalTargeterPowerBeam.description>TODO</OrbitalTargeterPowerBeam.description>
+  <OrbitalTargeterPowerBeam.description>En gammal målenhet för ett nätverk av kraftuppsamlingssatelliter. En gång riktat mot ett mål. Riktar uråldriga satelliter att börja stråla ner en massiv stråle av elektromagnetisk energi. Denna kraft kan säkert samlas upp i en gigantisk absorptionsparabol. Men eftersom du inte har någon absorptionsparabol riktar du den mot fiender och energistrålen förvandlar området till ett tusen graders inferno. Detta kommer att pågå tills satelliterna upptäcker den vanskliga riktningen, stänger av sig permanent och inaktiverar målenheten.</OrbitalTargeterPowerBeam.description>
+  <!-- EN: orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>orbital energistrålsenhet</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
   
   <!-- EN: tornado generator -->
-  <TornadoGenerator.verbs.Verb_Spawn.label>TODO</TornadoGenerator.verbs.Verb_Spawn.label>
-  <!-- EN: tornado generator -->
-  <TornadoGenerator.label>TODO</TornadoGenerator.label>
+  <TornadoGenerator.label>tornadogenerator</TornadoGenerator.label>
   <!-- EN: An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
-  <TornadoGenerator.description>TODO</TornadoGenerator.description>
+  <TornadoGenerator.description>En urgammal styrenhet för ett nätverk av vädersatelliter. Denna enhet har fått diverse säkringar förbikopplade; den kan orsaka en massiv störning av luftströmmar som i sin tur genererar en tornado på vald plats. Vädersatteliterna kommer att upptäcka detta obehöriga intrång och kasta ut enheten efter en användning, men tornadon kommer att fortsätta som normalt.</TornadoGenerator.description>
+  <!-- EN: tornado generator -->
+  <TornadoGenerator.verbs.Verb_Spawn.label>tornadogenerator</TornadoGenerator.verbs.Verb_Spawn.label>
   
 </LanguageData>

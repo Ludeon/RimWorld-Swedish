@@ -1,11 +1,12 @@
-﻿an
+﻿
+an
 
 ba
 bo
 bum
 bium
 beron
-berium
+
 
 en
 eron
@@ -18,11 +19,11 @@ in
 inum
 inor
 istan
-istia
 
 la
 lor
 ler
+
 lia
 lior
 lium
@@ -40,10 +41,3 @@ dio
 
 na
 ni
-
-uay
-uia
-um
-unt
-us
-ussia

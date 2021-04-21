@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: animal products -->
@@ -7,9 +7,6 @@
   <!-- EN: apparel -->
   <Apparel.label>kläder</Apparel.label>
   
-  <!-- UNUSED -->
-  <Art.label>konst</Art.label>
-  
   <!-- EN: artifacts -->
   <Artifacts.label>artefakter</Artifacts.label>
   
@@ -17,55 +14,55 @@
   <BodyParts.label>kroppsdelar</BodyParts.label>
   
   <!-- EN: artificial -->
-  <BodyPartsArtificial.label>artificiella</BodyPartsArtificial.label>
+  <BodyPartsArtificial.label>konstgjorda</BodyPartsArtificial.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>naturliga</BodyPartsNatural.label>
   
   <!-- EN: buildings -->
-  <Buildings.label>TODO</Buildings.label>
+  <Buildings.label>byggnader</Buildings.label>
   
   <!-- EN: art -->
-  <BuildingsArt.label>TODO</BuildingsArt.label>
+  <BuildingsArt.label>konst</BuildingsArt.label>
   
   <!-- EN: furniture -->
-  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  <BuildingsFurniture.label>möbler</BuildingsFurniture.label>
   
   <!-- EN: recreation -->
-  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  <BuildingsJoy.label>fritid</BuildingsJoy.label>
   
   <!-- EN: misc -->
-  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  <BuildingsMisc.label>diverse</BuildingsMisc.label>
   
   <!-- EN: power -->
-  <BuildingsPower.label>TODO</BuildingsPower.label>
+  <BuildingsPower.label>el</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  <BuildingsProduction.label>produktion</BuildingsProduction.label>
   
   <!-- EN: security -->
-  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  <BuildingsSecurity.label>säkerhet</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  <BuildingsSpecial.label>special</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
-  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  <BuildingsTemperature.label>temperatur</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
   <Chunks.label>bitar</Chunks.label>
   
   <!-- EN: corpses -->
-  <Corpses.label>kroppar</Corpses.label>
+  <Corpses.label>lik</Corpses.label>
   
   <!-- EN: animal corpses -->
-  <CorpsesAnimal.label>djurkroppar</CorpsesAnimal.label>
+  <CorpsesAnimal.label>djurlik</CorpsesAnimal.label>
   
   <!-- EN: humanlike corpses -->
   <CorpsesHumanlike.label>människolika kroppar</CorpsesHumanlike.label>
   
   <!-- EN: insect corpses -->
-  <CorpsesInsect.label>insektskroppar</CorpsesInsect.label>
+  <CorpsesInsect.label>insektskrppar</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
   <CorpsesMechanoid.label>mekanoidkroppar</CorpsesMechanoid.label>
@@ -83,22 +80,19 @@
   <FoodMeals.label>maträtter</FoodMeals.label>
   
   <!-- EN: raw food -->
-  <FoodRaw.label>råkost</FoodRaw.label>
+  <FoodRaw.label>råvaror</FoodRaw.label>
   
   <!-- EN: foods -->
-  <Foods.label>föda</Foods.label>
-  
-  <!-- UNUSED -->
-  <Furniture.label>möbler</Furniture.label>
+  <Foods.label>mat</Foods.label>
   
   <!-- EN: grenades -->
   <Grenades.label>granater</Grenades.label>
   
   <!-- EN: headgear -->
-  <Headgear.label>headgear</Headgear.label>
+  <Headgear.label>huvudbonader</Headgear.label>
   
   <!-- EN: items -->
-  <Items.label>saker</Items.label>
+  <Items.label>föremål</Items.label>
   
   <!-- EN: leathers -->
   <Leathers.label>läder</Leathers.label>
@@ -113,16 +107,16 @@
   <Medicine.label>medicin</Medicine.label>
   
   <!-- EN: mortar shells -->
-  <MortarShells.label>TODO</MortarShells.label>
+  <MortarShells.label>pansarskott</MortarShells.label>
   
   <!-- EN: vegetarian -->
-  <PlantFoodRaw.label>vegetariskt</PlantFoodRaw.label>
+  <PlantFoodRaw.label>vegetarisk</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
   <PlantMatter.label>växtmaterial</PlantMatter.label>
   
   <!-- EN: raw resources -->
-  <ResourcesRaw.label>råa resurser</ResourcesRaw.label>
+  <ResourcesRaw.label>naturresurser</ResourcesRaw.label>
   
   <!-- EN: root -->
   <Root.label>rot</Root.label>

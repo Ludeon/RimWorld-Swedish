@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: depressive -->
   <MoodOffsetDepressive.stages.depressive.label>depressiv</MoodOffsetDepressive.stages.depressive.label>
   <!-- EN: Natural penalty from 'depressive' trait. -->
-  <MoodOffsetDepressive.stages.depressive.description>aturlig bonus från Deppresiv egenskapen.</MoodOffsetDepressive.stages.depressive.description>
+  <MoodOffsetDepressive.stages.depressive.description>En naturlig bonus från egenskapen 'deppresiv'.</MoodOffsetDepressive.stages.depressive.description>
   
   <!-- EN: optimist -->
   <MoodOffsetOptimist.stages.optimist.label>optimist</MoodOffsetOptimist.stages.optimist.label>
   <!-- EN: Natural bonus from 'optimist' trait. -->
-  <MoodOffsetOptimist.stages.optimist.description>Naturlig bonus från Optimist egenskapen.</MoodOffsetOptimist.stages.optimist.description>
+  <MoodOffsetOptimist.stages.optimist.description>En naturlig bonus från egenskapen 'optimist'.</MoodOffsetOptimist.stages.optimist.description>
   
   <!-- EN: pessimist -->
   <MoodOffsetPessimist.stages.pessimist.label>pessimist</MoodOffsetPessimist.stages.pessimist.label>
   <!-- EN: Natural penalty from 'pessimist' trait. -->
-  <MoodOffsetPessimist.stages.pessimist.description>aturlig bonus från Pessimist egenskapen.</MoodOffsetPessimist.stages.pessimist.description>
+  <MoodOffsetPessimist.stages.pessimist.description>En naturlig bonus från egenskapen 'pessimist'.</MoodOffsetPessimist.stages.pessimist.description>
   
   <!-- EN: sanguine -->
-  <MoodOffsetSanguine.stages.sanguine.label>sangvini</MoodOffsetSanguine.stages.sanguine.label>
+  <MoodOffsetSanguine.stages.sanguine.label>bekymmerslös</MoodOffsetSanguine.stages.sanguine.label>
   <!-- EN: Natural bonus from 'sanguine' trait. -->
-  <MoodOffsetSanguine.stages.sanguine.description>Naturlig bonus från Sangvini egenskapen.</MoodOffsetSanguine.stages.sanguine.description>
+  <MoodOffsetSanguine.stages.sanguine.description>En naturlig bonus från egenskapen 'bekymmerslös'.</MoodOffsetSanguine.stages.sanguine.description>
   
 </LanguageData>

@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Autosaving -->
   <Autosaving>Autosparar</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>Ni tre vaknar från er cryptosömn av ljudet från sirener och gnisslande metal. Ni hinner precis till nödkapslarna innan ert skepp slits isär. \n\nEn tid senare landar ni på denna, för er, okända värld.\n\nMedan delarna från ert sönderslitna skepp faller runt er, börjar ni att planera för att överleva.</GameStartDialog>
+  <GameStartDialog>Ni tre vaknar från er cryptosömn av ljudet från sirener och gnisslande metal. Ni hinner precis till nödkapslarna innan ert skepp slits isär. \n\nEn tid senare landar ni på denna, för er okända värld.\n\nMedan delarna från ert sönderslitna skepp faller runt er börjar ni att planera för att överleva.</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>Koloni</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
-  <ChangeLanguageFromMainMenu>Du kan bara ändra språket från inställningarna från startmenyn.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>Du kan bara ändra språket från inställningarna i startmenyn.</ChangeLanguageFromMainMenu>
   <!-- EN: and -->
   <AndLower>och</AndLower>
   <!-- EN: disabled -->
@@ -17,7 +17,7 @@
   <!-- EN: Version {0} -->
   <VersionIndicator>Version {0}</VersionIndicator>
   <!-- EN: development build -->
-  <DevelopmentBuildLower>utvecklings version</DevelopmentBuildLower>
+  <DevelopmentBuildLower>utvecklingsversion</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
   <CompiledOn>Kompillerad {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
@@ -72,17 +72,17 @@
   <!-- EN: {0} meat -->
   <MeatLabel>{0} kött</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <MeatDesc>Rått kött från en {0}. Kan bli lagad till mat eller ätas rå.</MeatDesc>
+  <MeatDesc>Rått styckat kött. Kan bli lagad till mat eller ätas rå.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>Rått slaktat kött. Om det behövs kan du laga mat utav det, eller så kan det till och med ätas rått. Extremt äckligt.</MeatInsectDesc>
+  <MeatInsectDesc>Rått styckat kött. Om det behövs kan det tillagas, eller ätas rått. Extremt äckligt.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>Rått slaktat kött. Kan kokas i måltider eller ätas rått, även om de flesta människor ogillar tanken.</MeatHumanDesc>
+  <MeatHumanDesc>Rått styckat kött. Kan tillagas för måltider eller ätas rått, även om de flesta människor ogillar det sitsnämnda.</MeatHumanDesc>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>{0} kadaver</CorpseLabel>
+  <CorpseLabel>{0} lik</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>{0}'s döda kropp.</CorpseDesc>
-  <!-- EN: {0} (dead) -->
+  <CorpseDesc>Död kropp av en {0}.</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
   <DeadLabel>{0} (död)</DeadLabel>
 
   <!-- EN: rough {0} -->
@@ -94,27 +94,27 @@
   <!-- EN: Roughly cut natural {0} floor. -->
   <RoughHewnStoneTerrainDesc>Grovt hugget naturligt {0} golv.</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
-  <SmoothStoneTerrainLabel>slät {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainLabel>slätt {0}</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>Slätt naturligt {0} golv.</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra> (ritning)</BlueprintLabelExtra>
+  <BlueprintLabelExtra>(ritning)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra> (byggnad)</FrameLabelExtra>
+  <FrameLabelExtra>(byggnad)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
-  <FactionUnaffiliated>Obunden</FactionUnaffiliated>
+  <FactionUnaffiliated>Oansluten</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
 
-  <!-- EN: {0}'s {1} -->
-  <SomeonesRoom>{0}'s {1}</SomeonesRoom>
-  <!-- EN: {0} and {1}'s {2} -->
-  <CouplesRoom>{0} och {1}'s {2}</CouplesRoom>
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{PAWN_labelShort}s {1}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{PAWN1_labelShort} och {PAWN2_labelShort}s {2}</CouplesRoom>
   
   <!-- EN: (various) -->
   <VariousLabel>(diverse)</VariousLabel>
@@ -125,12 +125,12 @@
   
   <!-- Rotation -->
   <!-- EN: North -->
-  <North>Nord</North>
+  <North>Norr</North>
   <!-- EN: South -->
-  <South>Syd</South>
+  <South>Söder</South>
   <!-- EN: West -->
-  <West>Väst</West>
+  <West>Väster</West>
   <!-- EN: East -->
-  <East>Öst</East>
-
+  <East>Öster</East>
+  
 </LanguageData>

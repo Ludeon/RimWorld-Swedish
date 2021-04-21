@@ -1,15 +1,15 @@
-﻿by
 by
-by
-stad
-stad
-stad
+distrikt
+förort
+gemenskap
 kommun
 köping
-liten by
-värdshus
-kommun
-distrikt
+ort
+rastplats
+region
+samhälle
 småstad
-gemenskap
+stad
+stadsdel
 storstad
+värdshus

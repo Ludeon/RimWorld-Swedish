@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Accuracy (long) -->
   <AccuracyLong.label>Träffsäkerhet (lång)</AccuracyLong.label>
-  <!-- EN: The weapon's effect on accuracy at a distance of 50 cells or more. -->
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more. An actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyLong.description>Träffsäkerhet multiplikator vid långt avstånd.</AccuracyLong.description>
   
   <!-- EN: Accuracy (medium) -->
   <AccuracyMedium.label>Träffsäkerhet (medel)</AccuracyMedium.label>
-  <!-- EN: The weapon's effect on accuracy at a distance of 30 cells. -->
+  <!-- EN: The weapon's accuracy at a distance of 25 cells. An actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyMedium.description>Träffsäkerhet multiplikator vid medelavstånd.</AccuracyMedium.description>
   
   <!-- EN: Accuracy (short) -->
   <AccuracyShort.label>Träffsäkerhet (kort)</AccuracyShort.label>
-  <!-- EN: The weapon's effect on accuracy at a distance of 15 cells. -->
+  <!-- EN: The weapon's accuracy at a distance of 12 cells. An actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyShort.description>Träffsäkerhet multiplikator vid kort avstånd.</AccuracyShort.description>
   
-  <!-- EN: Accuracy (touch) -->
+  <!-- EN: Accuracy (close) -->
   <AccuracyTouch.label>Träffsäkerhet (närstrid)</AccuracyTouch.label>
-  <!-- EN: The weapon's effect on accuracy at a distance of 4 cells or less. -->
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less. An actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyTouch.description>Träffsäkerhet multiplikator vid närstridsavstånd.</AccuracyTouch.description>
   
-  <!-- EN: {0} s -->
-  <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
   <!-- EN: ranged cooldown -->
   <RangedWeapon_Cooldown.label>skytteårethämtning</RangedWeapon_Cooldown.label>
   <!-- EN: How long it takes to recover after firing this weapon. -->
   <RangedWeapon_Cooldown.description>Hur lång tid det tar att återhämta sig efter att ha skjutit med detta vapen.</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
+  <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
   
   <!-- EN: damage multiplier -->
-  <RangedWeapon_DamageMultiplier.label>TODO</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.label>skademultiplikator</RangedWeapon_DamageMultiplier.label>
   <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
-  <RangedWeapon_DamageMultiplier.description>TODO</RangedWeapon_DamageMultiplier.description>
+  <RangedWeapon_DamageMultiplier.description>Multiplikator för skada som appliceras till projektiler som avfyras från detta vapen.</RangedWeapon_DamageMultiplier.description>
   
 </LanguageData>

@@ -5,13 +5,13 @@
   <!-- EN: Audiovisuals -->
   <Audiovisuals>Ljud och grafik</Audiovisuals>
   <!-- EN: Game volume -->
-  <GameVolume>Spel volym</GameVolume>
+  <GameVolume>Spelvolym</GameVolume>
   <!-- EN: Music volume -->
-  <MusicVolume>Musik volym</MusicVolume>
+  <MusicVolume>Musikvolym</MusicVolume>
   <!-- EN: Ambient volume -->
-  <AmbientVolume>Omgivande volym</AmbientVolume>
+  <AmbientVolume>Bakgrundsvolym</AmbientVolume>
   <!-- EN: Anti-aliasing -->
-  <Antialiasing>Anti-aliasing</Antialiasing>
+  <Antialiasing>Kantutjämning</Antialiasing>
 
   <!-- Gameplay -->
   <!-- EN: Screen-edge mouse scroll -->
@@ -19,7 +19,7 @@
   <!-- EN: Pause on load -->
   <PauseOnLoad>Pausa vid laddning</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
-  <PauseOnUrgentLetter>Pausa vid akut information</PauseOnUrgentLetter>
+  <PauseOnUrgentLetter>Pausa vid bråskande information</PauseOnUrgentLetter>
   <!-- EN: Custom cursor -->
   <CustomCursor>Speciell muspekare</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -39,15 +39,15 @@
   <!-- EN: Development mode -->
   <DevelopmentMode>Utvecklarläge</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
-  <ResetModsConfigOnCrash>Auto återställning av moddar vid krash</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Autoåterställning av moddar vid krash</ResetModsConfigOnCrash>
   <!-- EN: Verbose logging -->
   <LogVerbose>Utökad logging</LogVerbose>
   <!-- EN: Open save data folder -->
   <OpenSaveGameDataFolder>Öppna mappen med all spardata</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->
-  <ShowSaveGameDataLocation>Visa sparfilers data plats</ShowSaveGameDataLocation>
+  <ShowSaveGameDataLocation>Visa sparfilers plats</ShowSaveGameDataLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>Välj spelar-skapade karaktärer som du vill ska dycka upp oftare under spelande.</NamesYouWantToSee>
+  <NamesYouWantToSee>Välj spelar-skapade karaktärer. Dessa karraktärer kommer mer sannolikt dyka upp vid spelande.</NamesYouWantToSee>
   <!-- EN: Add name -->
   <AddName>Lägg till namn</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -55,9 +55,9 @@
   <!-- EN: This name is already on the preferred list. -->
   <MessageAlreadyPreferredName>Det här namnet finns redan med på listan.</MessageAlreadyPreferredName>
   <!-- EN: Storyteller settings -->
-  <ChangeStoryteller>Välj AI berättare</ChangeStoryteller>
+  <ChangeStoryteller>Välj berättare</ChangeStoryteller>
   <!-- EN: Autosave interval -->
-  <AutosaveInterval>Autosparintervall</AutosaveInterval>
+  <AutosaveInterval>Autosparsintervall</AutosaveInterval>
   <!-- EN: Temperature mode -->
   <TemperatureMode>Temperaturtyp</TemperatureMode>
   <!-- EN: Show realtime clock -->
@@ -65,7 +65,7 @@
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Maximalt antal kolonier: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Plant wind sway -->
-  <PlantWindSway>Växter reagerar till vinden</PlantWindSway>
+  <PlantWindSway>Växter svajar i vinden</PlantWindSway>
   <!-- EN: Enable test map sizes -->
   <EnableTestMapSizes>Aktivera testkartstorlekar</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
@@ -87,7 +87,7 @@
   <!-- EN: User name -->
   <UserName>Användarnamn</UserName>
   <!-- EN: Gameplay data upload pref. -->
-  <ChooseHistoryUploadPref>Uppladdning av speldata.</ChooseHistoryUploadPref>
+  <ChooseHistoryUploadPref>Uppladdning av speldata inst.</ChooseHistoryUploadPref>
   <!-- EN: Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous. -->
   <AboutHistoryUpload>Användarens speldata hjälper utvecklaren att balansera spelet. Om du går med på det, kommer din information att skickas varje {0} speldag (och i vissa fall, vid slutet av ett spel) till Rimworlds server för analys. Uppladdad data består endast av statistik och speldata realterat till spelet - ingen personlig information skickas, förutom användarnanmet, vilket betyder att det är helt anonymt.</AboutHistoryUpload>
 
@@ -102,8 +102,5 @@
   <RestoreToDefaultSettings>Återställ till standardinställningarna</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>Dina alternativ har återställts. Spelet startas nu om automatiskt.</ResetAndRestart>
-  
-  <!-- UNUSED -->
-  <MaxNumberOfPlayerHomes>Max antal kolonier: {0}</MaxNumberOfPlayerHomes>
 
 </LanguageData>

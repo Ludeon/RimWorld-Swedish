@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: wake-up withdrawal -->
-  <WakeUpWithdrawal.stages.wakeup_withdrawal.label>vakna abstinens</WakeUpWithdrawal.stages.wakeup_withdrawal.label>
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.label>va-kna abstinens</WakeUpWithdrawal.stages.wakeup_withdrawal.label>
   <!-- EN: I feel all fuzzy and unfocused. And I'm so tired. -->
-  <WakeUpWithdrawal.stages.wakeup_withdrawal.description>jag känner mig helt suddig och ofokuserad.</WakeUpWithdrawal.stages.wakeup_withdrawal.description>
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.description>jag känner mig helt suddig och ofokuserad, jag är så otroligt trött.</WakeUpWithdrawal.stages.wakeup_withdrawal.description>
   
 </LanguageData>

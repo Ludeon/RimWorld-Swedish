@@ -1,8 +1,15 @@
-﻿mor
-son
-far
-bror
-farbror
-brorson
-moster
 
+mamma
+mor
+pappa
+far
+son
+dotter
+bror
+syster
+kusin
+farmor
+farfar
+mormor
+morfar
+syskon

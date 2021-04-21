@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: botched my surgery -->
@@ -76,9 +76,9 @@
   <HarmedMe.stages.harmed_me.label>skadade mig</HarmedMe.stages.harmed_me.label>
   
   <!-- EN: honeymoon phase -->
-  <HoneymoonPhase.stages.honeymoon_phase.label>smakmånadsfas</HoneymoonPhase.stages.honeymoon_phase.label>
-  <HoneymoonPhase.stages.honeymoon_phase.labelSocial>smakmånadsfas</HoneymoonPhase.stages.honeymoon_phase.labelSocial>
+  <HoneymoonPhase.stages.honeymoon_phase.label>smekmånadsfas</HoneymoonPhase.stages.honeymoon_phase.label>
   <HoneymoonPhase.stages.honeymoon_phase.description>Det är så underbart att starta ett nytt liv tillsammans!</HoneymoonPhase.stages.honeymoon_phase.description>
+  <HoneymoonPhase.stages.honeymoon_phase.labelSocial>smekmånadsfas</HoneymoonPhase.stages.honeymoon_phase.labelSocial>
   
   <!-- EN: insulted -->
   <Insulted.stages.insulted.label>förolämpad</Insulted.stages.insulted.label>
@@ -89,10 +89,10 @@
   <InsultedMood.stages.insulted.description>Jag blev direkt förolämpad! Vilken förskräcklig person!</InsultedMood.stages.insulted.description>
   
   <!-- EN: I rejected their proposal -->
-  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>Jag avvisade ett frieri</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>jag avvisade ett frieri</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
   
   <!-- EN: killed my bonded animal -->
-  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>TODO</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
+  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>dödade mitt kära djur</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
   
   <!-- EN: killed my brother -->
   <KilledMyBrother.stages.killed_my_brother.label>dödade min bror</KilledMyBrother.stages.killed_my_brother.label>
@@ -167,17 +167,17 @@
   <Slighted.stages.slighted.label>förringad</Slighted.stages.slighted.label>
   
   <!-- EN: bonded animal sold -->
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.label>bundet djur sålt</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
-  <!-- EN: sold my bonded animal -->
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>sålde mitt bundna djur</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.label>kärt djur sålt</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
   <!-- EN: My special bonded animal was sold to a trader! -->
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.description>Min speciella bundna djur såldes till en handlare!</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.description>Min speciella kära djur såldes till en handlare!</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
+  <!-- EN: sold my bonded animal -->
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>sålde mitt kära djur</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
   
   <!-- EN: loved one sold -->
   <SoldMyLovedOne.stages.loved_one_sold.label>älskade såld</SoldMyLovedOne.stages.loved_one_sold.label>
-  <!-- EN: sold my loved one -->
-  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>sålde min älskade</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
   <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
   <SoldMyLovedOne.stages.loved_one_sold.description>Någon som jag älskar såldes till en handelsman som en bit kött!</SoldMyLovedOne.stages.loved_one_sold.description>
+  <!-- EN: sold my loved one -->
+  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>sålde min älskade</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
   
 </LanguageData>

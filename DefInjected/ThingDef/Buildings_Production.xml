@@ -1,133 +1,115 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: biofuel refinery -->
   <BiofuelRefinery.label>raffinaderi</BiofuelRefinery.label>
   <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
-  <BiofuelRefinery.description>En kemisk raffineringsanläggning. Används för att förånga trä till kemiskt bränsle.</BiofuelRefinery.description>
-  
-  <!-- UNUSED -->
-  <Blueprint_ComponentAssemblyBench.label>komponentmonteringsbänk (ritning)</Blueprint_ComponentAssemblyBench.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Refinery.label>raffinaderi (ritning)</Blueprint_Refinery.label>
+  <BiofuelRefinery.description>Raffinerar biologiskt material som trä och växter till kemiskt bränsle.</BiofuelRefinery.description>
   
   <!-- EN: brewery -->
   <Brewery.label>bryggeri</Brewery.label>
-  <!-- EN: A work station with all the equipment needed mix wort for beer production. Wort must be fermented to finally become beer. -->
-  <Brewery.description>En arbetsstation med all den utrustning som behövs för att brygga öl.</Brewery.description>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>En arbetsstation med all den utrustning som behövs för tillverkning av vört för att brygga öl. Vört måste jäsa för att tillslut bli öl.</Brewery.description>
   
   <!-- EN: butcher spot -->
-  <ButcherSpot.label>TODO</ButcherSpot.label>
+  <ButcherSpot.label>styckplats</ButcherSpot.label>
   <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
-  <ButcherSpot.description>TODO</ButcherSpot.description>
-  
-  <!-- UNUSED -->
-  <ComponentAssemblyBench.label>komponentmonteringsbänk</ComponentAssemblyBench.label>
-  <ComponentAssemblyBench.description>En arbetsbänk utrustad med avancerade verktyg för produktion av komponenter från enklare material.</ComponentAssemblyBench.description>
+  <ButcherSpot.description>En plats där en kan stycka djur. Eftersom en del utrustning saknas kommer styckning här bara ge 70% av kött och läder från varelsen.</ButcherSpot.description>
   
   <!-- EN: crafting spot -->
   <CraftingSpot.label>tillverkningsplats</CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
-  <CraftingSpot.description>En plats för tillverka enkla saker som provisoriska knivar eller bågar.</CraftingSpot.description>
+  <CraftingSpot.description>En plats för tillverka enkla saker som knivar eller bågar. Tillberkning här är långsam eftersom verktyg saknas.</CraftingSpot.description>
   
   <!-- EN: deep drill -->
   <DeepDrill.label>djupborr</DeepDrill.label>
   <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
-  <DeepDrill.description>En djup borrigg för att utvinna mineraler från djupt under marken. Använda ett markpenetrerande scanner att detektera resurser.</DeepDrill.description>
+  <DeepDrill.description>En djup borrigg för att utvinna mineraler från djupt under marken. Använda en markpenetrerande scanner för att upptäcka resurser. Denna borr kommer ge stenblock om inga resurser finns under. Kan ompositioneras efter behov.</DeepDrill.description>
   
   <!-- EN: drug lab -->
-  <DrugLab.label>droglabb</DrugLab.label>
+  <DrugLab.label>läkemedelslabb</DrugLab.label>
   <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
-  <DrugLab.description>En arbetsbänk utrustad med olika behållare, värmare, och mätutrustning för att producera en mängd olika läkemedel och droger.</DrugLab.description>
+  <DrugLab.description>En arbetsbänk utrustad med olika behållare, brännare och mätutrustning för att producera en mängd olika läkemedel och droger.</DrugLab.description>
   
   <!-- EN: electric crematorium -->
-  <ElectricCrematorium.label>elektrisk krematorie</ElectricCrematorium.label>
+  <ElectricCrematorium.label>elektriskt krematorie</ElectricCrematorium.label>
   <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
-  <ElectricCrematorium.description>Kremerar kroppar. Kan även användas för att bränna kläder och droger. Eldriven.</ElectricCrematorium.description>
+  <ElectricCrematorium.description>Ett stort krematorium av sten som förångar kroppar med extremt hög temperatur.</ElectricCrematorium.description>
   
   <!-- EN: electric smelter -->
   <ElectricSmelter.label>elektrisk smältugn</ElectricSmelter.label>
   <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
-  <ElectricSmelter.description>Extraherar användbara metall från slagg bitar och andra blandade metallföremål. Förbrukar mycket ström.</ElectricSmelter.description>
+  <ElectricSmelter.description>Extraherar användbar metall från metallbitar och andra blandade metallföremål. Förbrukar mycket ström.</ElectricSmelter.description>
   
   <!-- EN: electric smithy -->
   <ElectricSmithy.label>elektrisk smedja</ElectricSmithy.label>
   <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
-  <ElectricSmithy.description>En eldriven smedja utrustad för smide av icke-mekaniska vapen och verktyg.</ElectricSmithy.description>
+  <ElectricSmithy.description>En eldriven smedja för smide av icke-mekaniska vapen och verktyg.</ElectricSmithy.description>
   
   <!-- EN: electric stove -->
   <ElectricStove.label>elektrisk spis</ElectricStove.label>
   <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
-  <ElectricStove.description>En eldriven spis med en bifogad bänkskivan för att förbereda måltider.</ElectricStove.description>
+  <ElectricStove.description>En eldriven spis med köksbänk att förbereda måltider vid.</ElectricStove.description>
   
   <!-- EN: electric tailor bench -->
   <ElectricTailoringBench.label>elektrisk symaskinsbänk</ElectricTailoringBench.label>
   <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
-  <ElectricTailoringBench.description>En arbetsbänk med en symaskin för snabb sömnad av kläder. Kan arbeta utan el vid 40% av normal hastighet.</ElectricTailoringBench.description>
+  <ElectricTailoringBench.description>En arbetsbänk med en symaskin för snabb sömnad av kläder. Kan arbeta utan el vid 50% av normal hastighet.</ElectricTailoringBench.description>
   
   <!-- EN: fabrication bench -->
-  <FabricationBench.label>TODO</FabricationBench.label>
+  <FabricationBench.label>fabrikationsbänk</FabricationBench.label>
   <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
-  <FabricationBench.description>TODO</FabricationBench.description>
+  <FabricationBench.description>En arbetsbänk utrustad med avancerade verktyg för att tillverka tekniska underverk av enkla material.</FabricationBench.description>
   
   <!-- EN: fermenting barrel -->
-  <FermentingBarrel.label>jäsningsfat</FermentingBarrel.label>
+  <FermentingBarrel.label>jäsfat</FermentingBarrel.label>
   <!-- EN: A barrel for fermenting raw wort into beer. -->
   <FermentingBarrel.description>Ett fat för jäsning av rå vört till öl.</FermentingBarrel.description>
-  
-  <!-- UNUSED -->
-  <Frame_ComponentAssemblyBench.label>komponentmonteringsbänk (byggnad)</Frame_ComponentAssemblyBench.label>
-  <Frame_ComponentAssemblyBench.description>En arbetsbänk utrustad med avancerade verktyg för produktion av komponenter från enklare material.</Frame_ComponentAssemblyBench.description>
-  
-  <!-- UNUSED -->
-  <Frame_Refinery.label>raffinaderi (byggnad)</Frame_Refinery.label>
-  <Frame_Refinery.description>En kemisk raffineringsanläggning. Används för att förånga trä till kemiskt bränsle.</Frame_Refinery.description>
-  
+
   <!-- EN: fueled smithy -->
   <FueledSmithy.label>vedeldad smedja</FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
-  <FueledSmithy.description>En vedeldad smedja utrustad för smide av icke-mekaniska vapen och verktyg.</FueledSmithy.description>
+  <FueledSmithy.description>En vedeldad smedja för smide av icke-mekaniska vapen och verktyg.</FueledSmithy.description>
   
   <!-- EN: fueled stove -->
   <FueledStove.label>vedeldad spis</FueledStove.label>
   <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
-  <FueledStove.description>En enkel vedeldade spis med en bifogad bänkskivan för att förbereda måltider.</FueledStove.description>
+  <FueledStove.description>En enkel vedeldade spis med köksbänk att förbereda måltider vid.</FueledStove.description>
   
   <!-- EN: hand tailor bench -->
   <HandTailoringBench.label>handarbetesbänk</HandTailoringBench.label>
   <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
-  <HandTailoringBench.description>En arbetsbänk för att skräddarsy kläder för hand. Arbetet sker till 50% av hastigheten till skillnad mot en elektrisk symaskinsbänk.</HandTailoringBench.description>
+  <HandTailoringBench.description>En arbetsbänk för handsömnad av kläder. Arbetet sker i 50% hastighet jämfört med en elektrisk symaskinsbänk.</HandTailoringBench.description>
   
   <!-- EN: hi-tech research bench -->
   <HiTechResearchBench.label>högteknologisk forskarsbänk</HiTechResearchBench.label>
   <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
-  <HiTechResearchBench.description>En högteknologisk bänk med datorer och elektronisk mätutrustning. Forskningen påskyndas av högteknologiska verktyg. Kräver ström.</HiTechResearchBench.description>
+  <HiTechResearchBench.description>En högteknologisk bänk med datorer och elektronisk mätutrustning. Tillåter en snabbare forskningsprocess och låser upp mer avancerade forskningsprojekt.</HiTechResearchBench.description>
   
   <!-- EN: hopper -->
-  <Hopper.label>silo</Hopper.label>
+  <Hopper.label>cistern</Hopper.label>
   <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
   <Hopper.description>Behållare för resurser som används av t.ex näringsmassmaskiner.</Hopper.description>
   
   <!-- EN: hydroponics basin -->
-  <HydroponicsBasin.label>hydrokultursbassäng</HydroponicsBasin.label>
+  <HydroponicsBasin.label>hydroponikbassäng</HydroponicsBasin.label>
   <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
-  <HydroponicsBasin.description>Hydrokultursbassänger kan snabbt odla ett fåtal plantor. Kräver ström, växter kommer att dö om strömmen bryts.</HydroponicsBasin.description>
+  <HydroponicsBasin.description> Ett artificiellt näringsbad för odling. Näringspumparna måste arbeta kontinuerligt; plantor kommer dö om strömförsörjningen bryts.</HydroponicsBasin.description>
   
   <!-- EN: nutrient paste dispenser -->
-  <NutrientPasteDispenser.label>näringsmassmaskin</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>näringsutfodrare</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description>Syntetiserar näringsmassa från organiska råvaror. Den förbrukar mindre ingredienser och tid än någon annan måltid produktionsmetoden - men ingen gillar att äta näringsmassa. Accepterar rå mat, men inte grov växtmaterial såsom hö.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>En maskin som syntetiserar näringssmet från organiska råvaror som placerats i angränsande cisterner. Den förbrukar mindre ingredienser och tid än någon annan måltidsproduktion - men ingen gillar att äta näringssmet. Accepterar råa matvaror, men inte grovt växtmaterial såsom hö.</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
   <SimpleResearchBench.label>enkel forskarsbänk</SimpleResearchBench.label>
   <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
-  <SimpleResearchBench.description>En enkel bänk med skrivdon och lågteknologiska vetenskapliga verktyg. Forskare arbetar här för att upptäcka nya saker.</SimpleResearchBench.description>
+  <SimpleResearchBench.description>En enkel bänk med skrivdon och enkla mätinstrument. Forskare arbetar här för att upptäcka nya saker.</SimpleResearchBench.description>
   
   <!-- EN: butcher table -->
-  <TableButcher.label>slaktbord</TableButcher.label>
+  <TableButcher.label>styckbord</TableButcher.label>
   <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
-  <TableButcher.description>Ett tungt bord till för att slakta döda varelser och utvinna råa köttbitar.</TableButcher.description>
+  <TableButcher.description>Ett tungt bord till för att stycka döda varelser till mindre delar i form av rått kött.</TableButcher.description>
   
   <!-- EN: machining table -->
   <TableMachining.label>maskinbearbetningsbord</TableMachining.label>
@@ -137,11 +119,11 @@
   <!-- EN: sculptor's table -->
   <TableSculpting.label>skulptörbord</TableSculpting.label>
   <!-- EN: A workbench equipped for artistic sculpting. -->
-  <TableSculpting.description>En arbetsbänk utrustad för att konstnärligt skulptera.</TableSculpting.description>
+  <TableSculpting.description>En arbetsbänk utrustad för att konstnärligt skulpturarbete.</TableSculpting.description>
   
   <!-- EN: stonecutter's table -->
-  <TableStonecutter.label>stenhuggningsbord</TableStonecutter.label>
+  <TableStonecutter.label>stenhuggarbänk</TableStonecutter.label>
   <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
-  <TableStonecutter.description>En arbetsbänk utrustad för att hugga användbara block ur grov sten.</TableStonecutter.description>
+  <TableStonecutter.description>En arbetsbänk med sågar och mejslar för att skapa mursten av stenblock.</TableStonecutter.description>
   
 </LanguageData>

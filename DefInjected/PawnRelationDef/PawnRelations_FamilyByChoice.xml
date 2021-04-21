@@ -1,47 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: daughter-in-law -->
-  <ChildInLaw.labelFemale>svärdotter</ChildInLaw.labelFemale>
   <!-- EN: son-in-law -->
   <ChildInLaw.label>svärson</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
+  <ChildInLaw.labelFemale>svärdotter</ChildInLaw.labelFemale>
   
-  <ExLover.labelFemale>före detta älskarinna</ExLover.labelFemale>
   <!-- EN: ex-lover -->
   <ExLover.label>före detta älskare</ExLover.label>
+  <ExLover.labelFemale>före detta älskarinna</ExLover.labelFemale>
   
-  <!-- EN: ex-wife -->
-  <ExSpouse.labelFemale>före detta fru</ExSpouse.labelFemale>
   <!-- EN: ex-husband -->
   <ExSpouse.label>före detta make</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>före detta fru</ExSpouse.labelFemale>
   
-  <!-- EN: fiancée -->
-  <Fiance.labelFemale>fästmö</Fiance.labelFemale>
   <!-- EN: fiance -->
   <Fiance.label>fästman</Fiance.label>
+  <!-- EN: fiancée -->
+  <Fiance.labelFemale>fästmö</Fiance.labelFemale>
   
-  <Lover.labelFemale>älskarinna</Lover.labelFemale>
   <!-- EN: lover -->
   <Lover.label>älskare</Lover.label>
+  <Lover.labelFemale>älskarinna</Lover.labelFemale>
   
-  <!-- EN: mother-in-law -->
-  <ParentInLaw.labelFemale>svärmor</ParentInLaw.labelFemale>
   <!-- EN: father-in-law -->
   <ParentInLaw.label>svärfar</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
+  <ParentInLaw.labelFemale>svärmor</ParentInLaw.labelFemale>
   
-  <!-- EN: wife -->
-  <Spouse.labelFemale>fru</Spouse.labelFemale>
   <!-- EN: husband -->
-  <Spouse.label>man</Spouse.label>
+  <Spouse.label>make</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>maka</Spouse.labelFemale>
   
-  <!-- EN: stepdaughter -->
-  <Stepchild.labelFemale>styvdotter</Stepchild.labelFemale>
   <!-- EN: stepson -->
   <Stepchild.label>styvson</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>styvdotter</Stepchild.labelFemale>
   
-  <!-- EN: stepmother -->
-  <Stepparent.labelFemale>styvmor</Stepparent.labelFemale>
   <!-- EN: stepfather -->
   <Stepparent.label>styvfar</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>styvmor</Stepparent.labelFemale>
   
 </LanguageData>

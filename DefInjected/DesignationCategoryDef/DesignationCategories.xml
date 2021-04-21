@@ -1,52 +1,51 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: floors -->
-  <Floors.label>Golv</Floors.label>
-  <Floors.description>Golvläggning.</Floors.description>
+  <Floors.label>golv</Floors.label>
+  <Floors.description>Golvtyper.</Floors.description>
   
   <!-- EN: furniture -->
-  <Furniture.label>Möbler</Furniture.label>
-  <Furniture.description>Små sammanställningar, som t.ex. stolar.</Furniture.description>
+  <Furniture.label>möbler</Furniture.label>
+  <Furniture.description>Stolar, bord och sängar t.ex.</Furniture.description>
   
   <!-- EN: recreation -->
-  <Joy.label>Underhållning</Joy.label>
-  <Joy.description>Undehållning och andra angeäma saker för kolonister att tycka om.</Joy.description>
+  <Joy.label>fridtid</Joy.label>
+  <Joy.description>Aktiviteter ämnade för nöje och rekreation.</Joy.description>
   
   <!-- EN: misc -->
-  <Misc.label>Diverse</Misc.label>
-  <Misc.description>Diverse resterande sammanställningar.</Misc.description>
+  <Misc.label>diverse</Misc.label>
   
   <!-- EN: orders -->
-  <Orders.label>Order</Orders.label>
-  <Orders.description>Beordra specifika handlingar med specifika saker.</Orders.description>
+  <Orders.label>uppdrag</Orders.label>
+  <Orders.description>Beordra specifika uppgifter och handlingar.</Orders.description>
   
   <!-- EN: power -->
-  <Power.label>Ström</Power.label>
-  <Power.description>Produktion, överföring och underhåll av ström.</Power.description>
+  <Power.label>el</Power.label>
+  <Power.description>Produktion, överföring och underhåll av elnät.</Power.description>
   
   <!-- EN: production -->
-  <Production.label>Produktion</Production.label>
-  <Production.description>Sammanställningar som används för att producera varor.</Production.description>
+  <Production.label>produktion</Production.label>
+  <Production.description>Arbetsplatser och verktyg som används för att producera både råmaterial och föremål.</Production.description>
   
   <!-- EN: security -->
-  <Security.label>Säkerhet</Security.label>
-  <Security.description>Försvars- och stridsorienterade sammanställningar.</Security.description>
+  <Security.label>säkerhet</Security.label>
+  <Security.description>Försvar och säkerhet.</Security.description>
   
   <!-- EN: ship -->
-  <Ship.label>Skepp</Ship.label>
-  <Ship.description>Komponenter för ditt flyktskepp.</Ship.description>
+  <Ship.label>skepp</Ship.label>
+  <Ship.description>Komponenter och delar till ditt rymdskepp.</Ship.description>
   
   <!-- EN: structure -->
-  <Structure.label>Strukturer</Structure.label>
-  <Structure.description>Strukturella konstruktioner som väggar och strömkablar.</Structure.description>
+  <Structure.label>konstruktion</Structure.label>
+  <Structure.description>Konstruktioner som t.ex. väggar, dörrar och broar</Structure.description>
   
   <!-- EN: temperature -->
-  <Temperature.label>Temperaturemperatur</Temperature.label>
-  <Temperature.description>Saker för att kontrollera temperatur.</Temperature.description>
+  <Temperature.label>temperatur</Temperature.label>
+  <Temperature.description>Föremål för att hålla temperaturen i schack innomhus.</Temperature.description>
   
   <!-- EN: zone -->
-  <Zone.label>Tilldela Zoner</Zone.label>
-  <Zone.description>Bestäm zoner där kolonister kommer att utföra specifika handlingar.</Zone.description>
+  <Zone.label>områden</Zone.label>
+  <Zone.description>Bestäm områden för lagerhållning, odling, kolonister och djur m.m.</Zone.description>
   
 </LanguageData>

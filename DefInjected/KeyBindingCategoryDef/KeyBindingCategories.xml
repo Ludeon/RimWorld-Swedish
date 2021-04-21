@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: architect -->
@@ -27,9 +27,9 @@
   <MainTabs.description>Kontroller för huvudflikarna.</MainTabs.description>
   
   <!-- EN: modifiers -->
-  <Modifiers.label>TODO</Modifiers.label>
+  <Modifiers.label>Modifiera</Modifiers.label>
   <!-- EN: Controls used to modify other actions. -->
-  <Modifiers.description>TODO</Modifiers.description>
+  <Modifiers.description>Kontroller som används till att ändra andra funktioner.</Modifiers.description>
   
   <!-- EN: misc -->
   <SelectionMisc.label>Diversekontroller</SelectionMisc.label>

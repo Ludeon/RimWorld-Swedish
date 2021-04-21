@@ -1,44 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Ancients -->
-  <Ancients.fixedName>Fornmän</Ancients.fixedName>
-  <!-- EN: ancient -->
-  <Ancients.pawnSingular>Fornman</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>Fornmän</Ancients.pawnsPlural>
-  <!-- EN: ancients -->
-  <Ancients.label>Fornmän</Ancients.label>
+  <Ancients.label>Uråldriga</Ancients.label>
   <Ancients.description>Människor från en uråldrig civilisation.</Ancients.description>
-  
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>Fornmän</AncientsHostile.fixedName>
+  <Ancients.fixedName>Uråldriga</Ancients.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>Fornman</AncientsHostile.pawnSingular>
+  <Ancients.pawnSingular>uråldrig</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>Fornmän</AncientsHostile.pawnsPlural>
-  <!-- EN: ancients -->
-  <AncientsHostile.label>Fornmän</AncientsHostile.label>
-  <AncientsHostile.description>Människor från en uråldrig civilisation.</AncientsHostile.description>
+  <Ancients.pawnsPlural>uråldriga</Ancients.pawnsPlural>
   
+  <!-- EN: ancients -->
+  <AncientsHostile.label>uråldriga</AncientsHostile.label>
+  <AncientsHostile.description>Människor från en uråldrig civilisation.</AncientsHostile.description>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Uråldriga</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>uråldrig</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>uråldriga</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insects -->
+  <Insect.label>Insekter</Insect.label>
+  <Insect.description>Valigtvis agressiva och påträngande insekter.</Insect.description>
   <!-- EN: insects -->
   <Insect.fixedName>Insekter</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>Insekt</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>Insekter</Insect.pawnsPlural>
-  <!-- EN: insects -->
-  <Insect.label>Insekter</Insect.label>
-  <Insect.description>Valigtvis agressiva och påträngande insekter.</Insect.description>
   
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>Mekanoidisk svärm</Mechanoid.label>
+  <Mechanoid.description>En svärm av uråldriga, sjävreproducerande robotar.</Mechanoid.description>
   <!-- EN: a mechanoid hive -->
   <Mechanoid.fixedName>En svärm mekanoider</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>mekanoid</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
   <Mechanoid.pawnsPlural>mekanoider</Mechanoid.pawnsPlural>
-  <!-- EN: mechanoid hive -->
-  <Mechanoid.label>Mekanoidisk svärm</Mechanoid.label>
-  <Mechanoid.description>En svärm av uråldriga, sjävreproducerande robotar.</Mechanoid.description>
   
 </LanguageData>

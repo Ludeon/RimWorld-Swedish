@@ -1,48 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: left hoof -->
-  <Dromedary.tools.left_hoof.label>TODO</Dromedary.tools.left_hoof.label>
-  <!-- EN: right hoof -->
-  <Dromedary.tools.right_hoof.label>TODO</Dromedary.tools.right_hoof.label>
-  <!-- EN: head -->
-  <Dromedary.tools.head.label>TODO</Dromedary.tools.head.label>
   <!-- EN: dromedary -->
   <Dromedary.label>dromedar</Dromedary.label>
-  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but it's bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
-  <Dromedary.description>Anpassad till överlevnad i torra miljöer, kan denna avlägsen kusin av hästen gå veckor utan vatten.</Dromedary.description>
-  
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <Dromedary.description>Ett stort landlevande däggdjur som anpassat sig till torra miljöer. Domesticerad sen forntiden, dess ull och läder är båda exeptionellt bra på att isolera mot ökenvärme och deras mjölk är relativt näringsrik. De kan användas som packdjur men deras studsande gång gör att de är för obekväma att rida på under längre sträckor.\n\nGenom att förvara vatten i sin stora puckel och att återföra fukt från sin andedräkt vid utandning kan de gå i veckor utan att dricka någonting.</Dromedary.description>
   <!-- EN: left hoof -->
-  <Gazelle.tools.left_hoof.label>TODO</Gazelle.tools.left_hoof.label>
+  <Dromedary.tools.left_hoof.label>vänster hov</Dromedary.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Gazelle.tools.right_hoof.label>TODO</Gazelle.tools.right_hoof.label>
+  <Dromedary.tools.right_hoof.label>höger hov</Dromedary.tools.right_hoof.label>
   <!-- EN: head -->
-  <Gazelle.tools.head.label>TODO</Gazelle.tools.head.label>
+  <Dromedary.tools.head.label>huvud</Dromedary.tools.head.label>
+  
   <!-- EN: gazelle -->
   <Gazelle.label>gazell</Gazelle.label>
   <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
   <Gazelle.description>En liten, extremt snabb antilop känd för sina otroligt långa språng.</Gazelle.description>
-  
-  <!-- EN: left claw -->
-  <Iguana.tools.left_claw.label>TODO</Iguana.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <Iguana.tools.right_claw.label>TODO</Iguana.tools.right_claw.label>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>vänster hov</Gazelle.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>höger hov</Gazelle.tools.right_hoof.label>
   <!-- EN: head -->
-  <Iguana.tools.head.label>TODO</Iguana.tools.head.label>
+  <Gazelle.tools.head.label>huvud</Gazelle.tools.head.label>
+  
   <!-- EN: iguana -->
   <Iguana.label>iguana</Iguana.label>
   <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
-  <Iguana.description>Dessa stora ödlor livnär sig normalt på växtmaterial. Men när förargade gör deras hårda skinn och vassa klor dem ganska farliga.</Iguana.description>
-  
+  <Iguana.description>Dessa stora ödlor livnär sig normalt på växtmaterial. Men när de förargas gör deras hårda skinn och vassa klor de ganska farliga.\n\nVilande iguanor håller sian huvuden högt upp vilket ger dem ett roande stolt uttryck. Men de är inte stolta; de försöker bara se rovdjur för att inte bli uppätna.</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>vänster klo</Iguana.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>höger klo</Iguana.tools.right_claw.label>
   <!-- EN: head -->
-  <Muffalo.tools.head.label>TODO</Muffalo.tools.head.label>
-  <!-- EN: left hoof -->
-  <Muffalo.tools.left_hoof.label>TODO</Muffalo.tools.left_hoof.label>
-  <!-- EN: right hoof -->
-  <Muffalo.tools.right_hoof.label>TODO</Muffalo.tools.right_hoof.label>
+  <Iguana.tools.head.label>huvud</Iguana.tools.head.label>
+  
   <!-- EN: muffalo -->
   <Muffalo.label>muffel</Muffalo.label>
   <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
-  <Muffalo.description>En stor vextätare härstammar från buffel och anpassad för vissa exotiska miljöer. Fredfull så länge den är ostörd.</Muffalo.description>
+  <Muffalo.description>En stor växtätare som lever i flock och härstammar från buffeln och anpassad för både kalla och varma miljöer. Även om en uppretad muffel är dödlig så är tama mufflar relativt lydiga och kan användas som packdjur.\n\nIngen vet riktigt varför de är blå - det kan även vara ett tidigt genetiskt modifikationstest som helt enkelt aldrig ändrades tillbaka.</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>huvud</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>vänster hov</Muffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>höger hov</Muffalo.tools.right_hoof.label>
   
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: melee attacking TargetA. -->
@@ -8,7 +8,7 @@
   <AttackStatic.reportString>attackerar TargetA.</AttackStatic.reportString>
   
   <!-- EN: beating fire out. -->
-  <BeatFire.reportString>släcker eld.</BeatFire.reportString>
+  <BeatFire.reportString>släcker eldsvåda.</BeatFire.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>skottar snö.</ClearSnow.reportString>
@@ -17,34 +17,34 @@
   <DropEquipment.reportString>släpper TargetA.</DropEquipment.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
-  <EnterCryptosleepCasket.reportString>Lägger sig i cryptosömnkista.</EnterCryptosleepCasket.reportString>
+  <EnterCryptosleepCasket.reportString>Lägger sig i kryptosömnkapsel.</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterTransporter.reportString>stiger i TargetA.</EnterTransporter.reportString>
+  <EnterTransporter.reportString>stiger in i TargetA.</EnterTransporter.reportString>
   
   <!-- EN: equipping TargetA. -->
   <Equip.reportString>utrustar sig med TargetA.</Equip.reportString>
   
   <!-- EN: extinguishing self. -->
-  <ExtinguishSelf.reportString>släcker sig själv.</ExtinguishSelf.reportString>
+  <ExtinguishSelf.reportString>släcker eld på sig själv.</ExtinguishSelf.reportString>
   
   <!-- EN: filling TargetA. -->
-  <FillFermentingBarrel.reportString>fyller TargetA.</FillFermentingBarrel.reportString>
+  <FillFermentingBarrel.reportString>fyller på TargetA.</FillFermentingBarrel.reportString>
   
   <!-- EN: fleeing. -->
   <Flee.reportString>flyr.</Flee.reportString>
   
   <!-- EN: fleeing. -->
-  <FleeAndCower.reportString>flyr.</FleeAndCower.reportString>
+  <FleeAndCower.reportString>springer och gömmer sig.</FleeAndCower.reportString>
   
   <!-- EN: flicking switch. -->
-  <Flick.reportString>klickar på knapp.</Flick.reportString>
+  <Flick.reportString>använder en knapp.</Flick.reportString>
   
   <!-- EN: following TargetA. -->
-  <Follow.reportString>TODO</Follow.reportString>
+  <Follow.reportString>följer efter TargetA</Follow.reportString>
   
   <!-- EN: following TargetA. -->
-  <FollowClose.reportString>TODO</FollowClose.reportString>
+  <FollowClose.reportString>förföljer TargetA</FollowClose.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>tar TargetA.</GiveToPackAnimal.reportString>
@@ -53,58 +53,61 @@
   <Goto.reportString>går.</Goto.reportString>
   
   <!-- EN: seeking safe temperature. -->
-  <GotoSafeTemperature.reportString>uppsöker en säker temperatur.</GotoSafeTemperature.reportString>
+  <GotoSafeTemperature.reportString>uppsöker säker temperatur.</GotoSafeTemperature.reportString>
   
   <!-- EN: wandering. -->
-  <GotoWander.reportString>vandrar.</GotoWander.reportString>
+  <GotoWander.reportString>vandrar omkring.</GotoWander.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulCorpseToPublicPlace.reportString>TODO</HaulCorpseToPublicPlace.reportString>
+  <HaulCorpseToPublicPlace.reportString>flyttar på TargetA.</HaulCorpseToPublicPlace.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToTransporter.reportString>bär TargetA</HaulToTransporter.reportString>
   
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>tänder eld på TargetA.</Ignite.reportString>
   
   <!-- EN: inducing TargetA to escape. -->
-  <InducePrisonerToEscape.reportString>TODO</InducePrisonerToEscape.reportString>
+  <InducePrisonerToEscape.reportString>får TargetA att rymma.</InducePrisonerToEscape.reportString>
   
   <!-- EN: consuming TargetA. -->
   <Ingest.reportString>äter TargetA.</Ingest.reportString>
   
   <!-- EN: insulting TargetA. -->
-  <Insult.reportString>TODO</Insult.reportString>
+  <Insult.reportString>förolämpar TargetA.</Insult.reportString>
   
   <!-- EN: lying down. -->
   <LayDown.reportString>lägger sig ned.</LayDown.reportString>
   
   <!-- EN: lovin'. -->
-  <Lovin.reportString>Älskar.</Lovin.reportString>
+  <Lovin.reportString>kopulerar.</Lovin.reportString>
   
   <!-- EN: operating turret. -->
   <ManTurret.reportString>bemannar kanontorn.</ManTurret.reportString>
+  
+  <!-- EN: helping TargetA. -->
+  <OfferHelp.reportString>hjälper TargetA</OfferHelp.reportString>
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>öppnar TargetA.</Open.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTrap.reportString>laddar TargetA.</RearmTrap.reportString>
+  <RearmTurret.reportString>laddar om TargetA.</RearmTurret.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurret.reportString>TODO</RearmTurret.reportString>
-  
-  <!-- EN: rearming TargetA. -->
-  <RearmTurretAtomic.reportString>TODO</RearmTurretAtomic.reportString>
+  <RearmTurretAtomic.reportString>laddar om TargetA.</RearmTurretAtomic.reportString>
   
   <!-- EN: refueling TargetA. -->
-  <Refuel.reportString>tankar TargetA.</Refuel.reportString>
+  <Refuel.reportString>fyller på TargetA.</Refuel.reportString>
   
   <!-- EN: refueling TargetA. -->
-  <RefuelAtomic.reportString>TODO</RefuelAtomic.reportString>
+  <RefuelAtomic.reportString>fyller på TargetA.</RefuelAtomic.reportString>
   
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>tar av sig TargetA.</RemoveApparel.reportString>
   
   <!-- EN: resurrecting TargetA. -->
-  <Resurrect.reportString>TODO</Resurrect.reportString>
+  <Resurrect.reportString>återupplivar TargetA</Resurrect.reportString>
   
   <!-- EN: fighting with TargetA. -->
   <SocialFight.reportString>slåss med TargetA.</SocialFight.reportString>
@@ -113,55 +116,55 @@
   <Strip.reportString>klär av TargetA.</Strip.reportString>
   
   <!-- EN: taking beer out of TargetA. -->
-  <TakeBeerOutOfFermentingBarrel.reportString>tar ut öl ur TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>tar en öl från TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA. -->
   <TakeInventory.reportString>tar TargetA.</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
-  <TradeWithPawn.reportString>byter med TargetA.</TradeWithPawn.reportString>
+  <TradeWithPawn.reportString>handlar med TargetA.</TradeWithPawn.reportString>
   
   <!-- EN: triggering firefoam popper. -->
   <TriggerFirefoamPopper.reportString>aktiverar brandskumsknapp.</TriggerFirefoamPopper.reportString>
   
   <!-- EN: unloading TargetA. -->
-  <UnloadInventory.reportString>lastar TargetA.</UnloadInventory.reportString>
+  <UnloadInventory.reportString>lastar av TargetA.</UnloadInventory.reportString>
   
   <!-- EN: unloading inventory. -->
-  <UnloadYourInventory.reportString>lossar saker.</UnloadYourInventory.reportString>
+  <UnloadYourInventory.reportString>släpper saker.</UnloadYourInventory.reportString>
   
   <!-- EN: activating artifact. -->
   <UseArtifact.reportString>aktiverar artifakt.</UseArtifact.reportString>
   
   <!-- EN: using TargetA. -->
-  <UseItem.reportString>TODO</UseItem.reportString>
+  <UseItem.reportString>använder TargetA.</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
   <UseNeurotrainer.reportString>använder neurotränare.</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>Gör någonting.</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>gör någonting.</UseVerbOnThing.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>kräks.</Vomit.reportString>
   
   <!-- EN: standing. -->
-  <Wait.reportString>står.</Wait.reportString>
+  <Wait.reportString>väntar.</Wait.reportString>
   
   <!-- EN: watching for targets. -->
-  <Wait_Combat.reportString>letar efter mål.</Wait_Combat.reportString>
+  <Wait_Combat.reportString>spejar efter måltavlor.</Wait_Combat.reportString>
   
   <!-- EN: downed. -->
-  <Wait_Downed.reportString>nere.</Wait_Downed.reportString>
+  <Wait_Downed.reportString>knockad.</Wait_Downed.reportString>
   
   <!-- EN: standing. -->
   <Wait_MaintainPosture.reportString>står.</Wait_MaintainPosture.reportString>
   
   <!-- EN: waiting in safe temperature. -->
-  <Wait_SafeTemperature.reportString>väntar i en säker temperatur.</Wait_SafeTemperature.reportString>
+  <Wait_SafeTemperature.reportString>väntar i säker temperatur.</Wait_SafeTemperature.reportString>
   
   <!-- EN: wandering. -->
-  <Wait_Wander.reportString>vandrar.</Wait_Wander.reportString>
+  <Wait_Wander.reportString>vandrar omkring.</Wait_Wander.reportString>
   
   <!-- EN: wearing TargetA. -->
   <Wear.reportString>har på sig TargetA.</Wear.reportString>

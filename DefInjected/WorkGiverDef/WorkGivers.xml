@@ -1,610 +1,578 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: release -->
-  <BasicReleasePrisoner.verb>TODO</BasicReleasePrisoner.verb>
-  <!-- EN: releasing -->
-  <BasicReleasePrisoner.gerund>TODO</BasicReleasePrisoner.gerund>
   <!-- EN: release prisoners -->
-  <BasicReleasePrisoner.label>TODO</BasicReleasePrisoner.label>
+  <BasicReleasePrisoner.label>frige fångar</BasicReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <BasicReleasePrisoner.gerund>friger</BasicReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <BasicReleasePrisoner.verb>frige</BasicReleasePrisoner.verb>
   
-  <!-- EN: build roof -->
-  <BuildRoofs.verb>montera tak</BuildRoofs.verb>
-  <!-- EN: building roof -->
-  <BuildRoofs.gerund>monterar tak</BuildRoofs.gerund>
   <!-- EN: build roofs -->
-  <BuildRoofs.label>montera tak</BuildRoofs.label>
+  <BuildRoofs.label>bygg tak</BuildRoofs.label>
+  <!-- EN: building roof -->
+  <BuildRoofs.gerund>bygger tak</BuildRoofs.gerund>
+  <!-- EN: build roof -->
+  <BuildRoofs.verb>bygg tak</BuildRoofs.verb>
   
-  <!-- UNUSED -->
-  <BuryCorpses.label>begrava lik</BuryCorpses.label>
-  <BuryCorpses.verb>begrav</BuryCorpses.verb>
-  <BuryCorpses.gerund>begraver</BuryCorpses.gerund>
-  
-  <!-- EN: chat with -->
-  <ChatWithPrisoner.verb>snacka med</ChatWithPrisoner.verb>
-  <!-- EN: chatting with -->
-  <ChatWithPrisoner.gerund>snackar med</ChatWithPrisoner.gerund>
   <!-- EN: chat with prisoners -->
-  <ChatWithPrisoner.label>snacka med fångar</ChatWithPrisoner.label>
+  <ChatWithPrisoner.label>småprata med fångar</ChatWithPrisoner.label>
+  <!-- EN: chatting with -->
+  <ChatWithPrisoner.gerund>småpratar med</ChatWithPrisoner.gerund>
+  <!-- EN: chat with -->
+  <ChatWithPrisoner.verb>småprata med</ChatWithPrisoner.verb>
   
   <!-- EN: clear snow -->
-  <CleanClearSnow.verb>skotta snö</CleanClearSnow.verb>
+  <CleanClearSnow.label>skotta snö</CleanClearSnow.label>
   <!-- EN: clearing snow -->
   <CleanClearSnow.gerund>skottar snö</CleanClearSnow.gerund>
   <!-- EN: clear snow -->
-  <CleanClearSnow.label>skotta snö</CleanClearSnow.label>
+  <CleanClearSnow.verb>skotta snö</CleanClearSnow.verb>
   
-  <!-- EN: clean -->
-  <CleanFilth.verb>städa</CleanFilth.verb>
+  <!-- EN: clean filth -->
+  <CleanFilth.label>städa bort smuts</CleanFilth.label>
   <!-- EN: cleaning -->
   <CleanFilth.gerund>städar</CleanFilth.gerund>
-  <!-- EN: clean filth -->
-  <CleanFilth.label>städa upp smuts</CleanFilth.label>
+  <!-- EN: clean -->
+  <CleanFilth.verb>städa</CleanFilth.verb>
   
-  <!-- EN: work on -->
-  <ConstructDeliverResourcesToBlueprints.verb>arbeta på</ConstructDeliverResourcesToBlueprints.verb>
-  <!-- EN: working on -->
-  <ConstructDeliverResourcesToBlueprints.gerund>arbetar på</ConstructDeliverResourcesToBlueprints.gerund>
   <!-- EN: deliver resources to blueprints -->
   <ConstructDeliverResourcesToBlueprints.label>leverera resurser till ritning</ConstructDeliverResourcesToBlueprints.label>
-  
-  <!-- EN: work on -->
-  <ConstructDeliverResourcesToFrames.verb>arbeta på</ConstructDeliverResourcesToFrames.verb>
   <!-- EN: working on -->
-  <ConstructDeliverResourcesToFrames.gerund>arbetar på</ConstructDeliverResourcesToFrames.gerund>
+  <ConstructDeliverResourcesToBlueprints.gerund>arbetar på</ConstructDeliverResourcesToBlueprints.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToBlueprints.verb>arbeta på</ConstructDeliverResourcesToBlueprints.verb>
+  
   <!-- EN: deliver resources to frames -->
   <ConstructDeliverResourcesToFrames.label>leverera resurser till ramar</ConstructDeliverResourcesToFrames.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToFrames.gerund>arbetar på</ConstructDeliverResourcesToFrames.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToFrames.verb>arbeta på</ConstructDeliverResourcesToFrames.verb>
   
-  <!-- EN: construct -->
-  <ConstructFinishFrames.verb>bygg</ConstructFinishFrames.verb>
-  <!-- EN: constructing -->
-  <ConstructFinishFrames.gerund>bygger</ConstructFinishFrames.gerund>
   <!-- EN: construct placed frames -->
   <ConstructFinishFrames.label>bygg placerade ramar</ConstructFinishFrames.label>
+  <!-- EN: constructing -->
+  <ConstructFinishFrames.gerund>bygger</ConstructFinishFrames.gerund>
+  <!-- EN: construct -->
+  <ConstructFinishFrames.verb>bygg</ConstructFinishFrames.verb>
   
-  <!-- EN: remove floor -->
-  <ConstructRemoveFloors.verb>ta bort golv</ConstructRemoveFloors.verb>
-  <!-- EN: removing floor -->
-  <ConstructRemoveFloors.gerund>tar bort golv</ConstructRemoveFloors.gerund>
   <!-- EN: remove floors -->
   <ConstructRemoveFloors.label>ta bort golv</ConstructRemoveFloors.label>
+  <!-- EN: removing floor -->
+  <ConstructRemoveFloors.gerund>tar bort golv</ConstructRemoveFloors.gerund>
+  <!-- EN: remove floor -->
+  <ConstructRemoveFloors.verb>ta bort golv</ConstructRemoveFloors.verb>
   
-  <!-- EN: smooth -->
-  <ConstructSmoothFloors.verb>platta till</ConstructSmoothFloors.verb>
-  <!-- EN: smoothing -->
-  <ConstructSmoothFloors.gerund>plattar till</ConstructSmoothFloors.gerund>
   <!-- EN: smooth floors -->
-  <ConstructSmoothFloors.label>platta till golv</ConstructSmoothFloors.label>
-  
-  <!-- EN: smooth -->
-  <ConstructSmoothWalls.verb>TODO</ConstructSmoothWalls.verb>
+  <ConstructSmoothFloors.label>släta ut golv</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
-  <ConstructSmoothWalls.gerund>TODO</ConstructSmoothWalls.gerund>
-  <!-- EN: smooth walls -->
-  <ConstructSmoothWalls.label>TODO</ConstructSmoothWalls.label>
+  <ConstructSmoothFloors.gerund>slätar ut </ConstructSmoothFloors.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothFloors.verb>släta ut</ConstructSmoothFloors.verb>
   
-  <!-- EN: fill -->
-  <CookFillHopper.verb>fyll</CookFillHopper.verb>
+  <!-- EN: smooth walls -->
+  <ConstructSmoothWalls.label>släta ut vägg</ConstructSmoothWalls.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothWalls.gerund>slätar ut</ConstructSmoothWalls.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothWalls.verb>släta ut</ConstructSmoothWalls.verb>
+  
+  <!-- EN: fill food hoppers -->
+  <CookFillHopper.label>fyll cisterner</CookFillHopper.label>
   <!-- EN: filling -->
   <CookFillHopper.gerund>fyller</CookFillHopper.gerund>
-  <!-- EN: fill food hoppers -->
-  <CookFillHopper.label>fyll livsmedelstrattar</CookFillHopper.label>
+  <!-- EN: fill -->
+  <CookFillHopper.verb>fyll</CookFillHopper.verb>
   
-  <!-- EN: deconstruct -->
-  <Deconstruct.verb>riv</Deconstruct.verb>
-  <!-- EN: deconstructing -->
-  <Deconstruct.gerund>river</Deconstruct.gerund>
   <!-- EN: deconstruct structures -->
   <Deconstruct.label>riv byggnader</Deconstruct.label>
+  <!-- EN: deconstructing -->
+  <Deconstruct.gerund>river</Deconstruct.gerund>
+  <!-- EN: deconstruct -->
+  <Deconstruct.verb>riv</Deconstruct.verb>
   
-  <!-- EN: deliver food for -->
-  <DeliverFoodToPrisoner.verb>bär mat till</DeliverFoodToPrisoner.verb>
-  <!-- EN: delivering food for -->
-  <DeliverFoodToPrisoner.gerund>bär mat till</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>bär mat till fångar</DeliverFoodToPrisoner.label>
+  <!-- EN: delivering food for -->
+  <DeliverFoodToPrisoner.gerund>bär mat till</DeliverFoodToPrisoner.gerund>
+  <!-- EN: deliver food for -->
+  <DeliverFoodToPrisoner.verb>bär mat till</DeliverFoodToPrisoner.verb>
   
-  <!-- EN: deliver to -->
-  <DeliverResourcesToBlueprints.verb>TODO</DeliverResourcesToBlueprints.verb>
-  <!-- EN: delivering to -->
-  <DeliverResourcesToBlueprints.gerund>TODO</DeliverResourcesToBlueprints.gerund>
   <!-- EN: deliver resources to blueprints -->
-  <DeliverResourcesToBlueprints.label>TODO</DeliverResourcesToBlueprints.label>
-  
-  <!-- EN: deliver to -->
-  <DeliverResourcesToFrames.verb>TODO</DeliverResourcesToFrames.verb>
+  <DeliverResourcesToBlueprints.label>levererar resurser till ritning</DeliverResourcesToBlueprints.label>
   <!-- EN: delivering to -->
-  <DeliverResourcesToFrames.gerund>TODO</DeliverResourcesToFrames.gerund>
-  <!-- EN: deliver resources to frames -->
-  <DeliverResourcesToFrames.label>TODO</DeliverResourcesToFrames.label>
+  <DeliverResourcesToBlueprints.gerund>levererar till</DeliverResourcesToBlueprints.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToBlueprints.verb>leverera till</DeliverResourcesToBlueprints.verb>
   
-  <!-- EN: brew -->
-  <DoBillsBrew.verb>brygg</DoBillsBrew.verb>
-  <!-- EN: brewing at -->
-  <DoBillsBrew.gerund>brygger</DoBillsBrew.gerund>
+  <!-- EN: deliver resources to frames -->
+  <DeliverResourcesToFrames.label>leverera resurser till ramar</DeliverResourcesToFrames.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToFrames.gerund>levererar till</DeliverResourcesToFrames.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToFrames.verb>leverera till</DeliverResourcesToFrames.verb>
+  
   <!-- EN: brew liquors -->
   <DoBillsBrew.label>brygg sprit</DoBillsBrew.label>
+  <!-- EN: brewing at -->
+  <DoBillsBrew.gerund>brygger vid</DoBillsBrew.gerund>
+  <!-- EN: brew -->
+  <DoBillsBrew.verb>brygg</DoBillsBrew.verb>
   
-  <!-- EN: butcher -->
-  <DoBillsButcherFlesh.verb>stycka</DoBillsButcherFlesh.verb>
-  <!-- EN: butchering at -->
-  <DoBillsButcherFlesh.gerund>styckar vid</DoBillsButcherFlesh.gerund>
   <!-- EN: butcher creatures -->
   <DoBillsButcherFlesh.label>stycka djur</DoBillsButcherFlesh.label>
+  <!-- EN: butchering at -->
+  <DoBillsButcherFlesh.gerund>styckar vid</DoBillsButcherFlesh.gerund>
+  <!-- EN: butcher -->
+  <DoBillsButcherFlesh.verb>stycka</DoBillsButcherFlesh.verb>
   
-  <!-- UNUSED -->
-  <DoBillsComponentAssemblyBench.label>monterar komponent</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>tillverka komponent</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>tillverkar komponent vid</DoBillsComponentAssemblyBench.gerund>
-  
-  <!-- EN: cook -->
-  <DoBillsCook.verb>laga</DoBillsCook.verb>
-  <!-- EN: cooking at -->
-  <DoBillsCook.gerund>lagar</DoBillsCook.gerund>
   <!-- EN: cook meals at stove -->
-  <DoBillsCook.label>laga mat på spis</DoBillsCook.label>
-  
-  <!-- EN: cook -->
-  <DoBillsCookCampfire.verb>laga</DoBillsCookCampfire.verb>
+  <DoBillsCook.label>laga mat vid spis</DoBillsCook.label>
   <!-- EN: cooking at -->
-  <DoBillsCookCampfire.gerund>lagar</DoBillsCookCampfire.gerund>
+  <DoBillsCook.gerund>lagar mat vid</DoBillsCook.gerund>
+  <!-- EN: cook -->
+  <DoBillsCook.verb>laga mat</DoBillsCook.verb>
+  
   <!-- EN: cook meals at campfire -->
   <DoBillsCookCampfire.label>laga mat vid lägereld</DoBillsCookCampfire.label>
+  <!-- EN: cooking at -->
+  <DoBillsCookCampfire.gerund>lagar mat vid</DoBillsCookCampfire.gerund>
+  <!-- EN: cook -->
+  <DoBillsCookCampfire.verb>laga mat</DoBillsCookCampfire.verb>
   
-  <!-- EN: cremate -->
-  <DoBillsCremate.verb>kremera</DoBillsCremate.verb>
-  <!-- EN: cremating at -->
-  <DoBillsCremate.gerund>kremerar vid</DoBillsCremate.gerund>
   <!-- EN: do cremation bills -->
   <DoBillsCremate.label>utför kremeringsbeställningar</DoBillsCremate.label>
+  <!-- EN: cremating at -->
+  <DoBillsCremate.gerund>kremerar vid</DoBillsCremate.gerund>
+  <!-- EN: cremate -->
+  <DoBillsCremate.verb>kremera</DoBillsCremate.verb>
   
-  <!-- EN: fabricating things -->
-  <DoBillsFabricationBench.verb>TODO</DoBillsFabricationBench.verb>
-  <!-- EN: fabricating things at -->
-  <DoBillsFabricationBench.gerund>TODO</DoBillsFabricationBench.gerund>
   <!-- EN: fabricate things -->
-  <DoBillsFabricationBench.label>TODO</DoBillsFabricationBench.label>
+  <DoBillsFabricationBench.label>tillverka saker</DoBillsFabricationBench.label>
+  <!-- EN: fabricating things at -->
+  <DoBillsFabricationBench.gerund>tillvarkar saker vid</DoBillsFabricationBench.gerund>
+  <!-- EN: fabricating things -->
+  <DoBillsFabricationBench.verb>tillverkar saker</DoBillsFabricationBench.verb>
   
-  <!-- EN: work at -->
-  <DoBillsHaulCampfire.verb>arbeta vid</DoBillsHaulCampfire.verb>
-  <!-- EN: working at -->
-  <DoBillsHaulCampfire.gerund>arbetar vid</DoBillsHaulCampfire.gerund>
   <!-- EN: do bills at campfire -->
   <DoBillsHaulCampfire.label>gör beställningar vid lägereld</DoBillsHaulCampfire.label>
+  <!-- EN: working at -->
+  <DoBillsHaulCampfire.gerund>arbetar vid</DoBillsHaulCampfire.gerund>
+  <!-- EN: work at -->
+  <DoBillsHaulCampfire.verb>arbeta vid</DoBillsHaulCampfire.verb>
   
-  <!-- EN: work -->
-  <DoBillsMachiningTable.verb>arbeta</DoBillsMachiningTable.verb>
+  <!-- EN: make things at machining table -->
+  <DoBillsMachiningTable.label>gör beställning vid maskinbänk</DoBillsMachiningTable.label>
   <!-- EN: working at -->
   <DoBillsMachiningTable.gerund>arbetar vid</DoBillsMachiningTable.gerund>
-  <!-- EN: make things at machining table -->
-  <DoBillsMachiningTable.label>gör beställning vid bearbetningsbord</DoBillsMachiningTable.label>
+  <!-- EN: work -->
+  <DoBillsMachiningTable.verb>arbeta</DoBillsMachiningTable.verb>
   
-  <!-- EN: tailor -->
-  <DoBillsMakeApparel.verb>sy</DoBillsMakeApparel.verb>
-  <!-- EN: tailoring at -->
-  <DoBillsMakeApparel.gerund>syr vid</DoBillsMakeApparel.gerund>
   <!-- EN: make apparel -->
   <DoBillsMakeApparel.label>sy kläder</DoBillsMakeApparel.label>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>syr vid</DoBillsMakeApparel.gerund>
+  <!-- EN: tailor -->
+  <DoBillsMakeApparel.verb>sy</DoBillsMakeApparel.verb>
   
-  <!-- EN: smith -->
-  <DoBillsMakeWeapons.verb>smid</DoBillsMakeWeapons.verb>
-  <!-- EN: smithing at -->
-  <DoBillsMakeWeapons.gerund>smider vid</DoBillsMakeWeapons.gerund>
   <!-- EN: make weapons -->
   <DoBillsMakeWeapons.label>smid vapen</DoBillsMakeWeapons.label>
+  <!-- EN: smithing at -->
+  <DoBillsMakeWeapons.gerund>smider vid</DoBillsMakeWeapons.gerund>
+  <!-- EN: smith -->
+  <DoBillsMakeWeapons.verb>smid</DoBillsMakeWeapons.verb>
   
-  <!-- EN: operate on -->
-  <DoBillsMedicalAnimalOperation.verb>operera</DoBillsMedicalAnimalOperation.verb>
-  <!-- EN: operating on -->
-  <DoBillsMedicalAnimalOperation.gerund>opererar</DoBillsMedicalAnimalOperation.gerund>
   <!-- EN: operate on animals -->
   <DoBillsMedicalAnimalOperation.label>operera på djur</DoBillsMedicalAnimalOperation.label>
-  
-  <!-- EN: operate on -->
-  <DoBillsMedicalHumanOperation.verb>operera</DoBillsMedicalHumanOperation.verb>
   <!-- EN: operating on -->
-  <DoBillsMedicalHumanOperation.gerund>opererar</DoBillsMedicalHumanOperation.gerund>
+  <DoBillsMedicalAnimalOperation.gerund>opererar på</DoBillsMedicalAnimalOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalAnimalOperation.verb>operera på</DoBillsMedicalAnimalOperation.verb>
+  
   <!-- EN: operate on humanlikes -->
-  <DoBillsMedicalHumanOperation.label>operera på människa</DoBillsMedicalHumanOperation.label>
+  <DoBillsMedicalHumanOperation.label>operera på människolika</DoBillsMedicalHumanOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalHumanOperation.gerund>opererar på</DoBillsMedicalHumanOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalHumanOperation.verb>operera på</DoBillsMedicalHumanOperation.verb>
   
-  <!-- UNUSED -->
-  <DoBillsMedicalMechanoidOperation.label>arbetar på mekanoid</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>ändra</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>ändrar</DoBillsMedicalMechanoidOperation.gerund>
-  
-  <!-- EN: produce drugs -->
-  <DoBillsProduceDrugs.verb>tillverka droger</DoBillsProduceDrugs.verb>
-  <!-- EN: producing drugs at -->
-  <DoBillsProduceDrugs.gerund>tillverka droger vid</DoBillsProduceDrugs.gerund>
   <!-- EN: synthesize drugs -->
-  <DoBillsProduceDrugs.label>tillverka droger</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.label>tillverka läkemedel</DoBillsProduceDrugs.label>
+  <!-- EN: producing drugs at -->
+  <DoBillsProduceDrugs.gerund>tillverkar läkemedel vid</DoBillsProduceDrugs.gerund>
+  <!-- EN: produce drugs -->
+  <DoBillsProduceDrugs.verb>tillverkar läkemedel</DoBillsProduceDrugs.verb>
   
+  <!-- EN: work at refinery -->
+  <DoBillsRefinery.label>arbeta vid raffinaderi</DoBillsRefinery.label>
+  <!-- EN: refining chemicals at -->
+  <DoBillsRefinery.gerund>raffinerar kemikalier vid</DoBillsRefinery.gerund>
   <!-- EN: refine chemicals -->
   <DoBillsRefinery.verb>raffinera kemikalier</DoBillsRefinery.verb>
-  <!-- EN: refining chemicals at -->
-  <DoBillsRefinery.gerund>raffinera kemikalier på</DoBillsRefinery.gerund>
-  <!-- EN: work at refinery -->
-  <DoBillsRefinery.label>raffinera</DoBillsRefinery.label>
   
-  <!-- EN: sculpt -->
-  <DoBillsSculpt.verb>skulptera</DoBillsSculpt.verb>
+  <!-- EN: make sculptures -->
+  <DoBillsSculpt.label>gör skulpturer</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>skulpterar vid</DoBillsSculpt.gerund>
-  <!-- EN: make sculptures -->
-  <DoBillsSculpt.label>skulptera</DoBillsSculpt.label>
+  <!-- EN: sculpt -->
+  <DoBillsSculpt.verb>skulptera</DoBillsSculpt.verb>
   
-  <!-- EN: refine -->
-  <DoBillsSmelter.verb>förädla</DoBillsSmelter.verb>
-  <!-- EN: refining at -->
-  <DoBillsSmelter.gerund>förädlar vid</DoBillsSmelter.gerund>
   <!-- EN: smelt items -->
   <DoBillsSmelter.label>smälter saker</DoBillsSmelter.label>
+  <!-- EN: refining at -->
+  <DoBillsSmelter.gerund>förädlar vid</DoBillsSmelter.gerund>
+  <!-- EN: refine -->
+  <DoBillsSmelter.verb>förädla</DoBillsSmelter.verb>
   
-  <!-- EN: stonecut -->
-  <DoBillsStonecut.verb>hugg sten</DoBillsStonecut.verb>
-  <!-- EN: cutting stone blocks at -->
-  <DoBillsStonecut.gerund>hugger sten vid</DoBillsStonecut.gerund>
   <!-- EN: make stone blocks -->
-  <DoBillsStonecut.label>hugg sten</DoBillsStonecut.label>
+  <DoBillsStonecut.label>gör mursten</DoBillsStonecut.label>
+  <!-- EN: cutting stone blocks at -->
+  <DoBillsStonecut.gerund>stenhugger mursten vid</DoBillsStonecut.gerund>
+  <!-- EN: stonecut -->
+  <DoBillsStonecut.verb>stenhugga</DoBillsStonecut.verb>
   
-  <!-- EN: craft -->
-  <DoBillsUseCraftingSpot.verb>tillverka</DoBillsUseCraftingSpot.verb>
-  <!-- EN: crafting at -->
-  <DoBillsUseCraftingSpot.gerund>tillverkar vid</DoBillsUseCraftingSpot.gerund>
   <!-- EN: make things at crafting spot -->
-  <DoBillsUseCraftingSpot.label>gör beställning vid tillverkningsplats</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.label>gör beställning vid slöjdplats</DoBillsUseCraftingSpot.label>
+  <!-- EN: crafting at -->
+  <DoBillsUseCraftingSpot.gerund>slöjdar vid</DoBillsUseCraftingSpot.gerund>
+  <!-- EN: craft -->
+  <DoBillsUseCraftingSpot.verb>slöjda</DoBillsUseCraftingSpot.verb>
   
-  <!-- EN: feed -->
-  <DoctorFeedAnimals.verb>mata</DoctorFeedAnimals.verb>
-  <!-- EN: feeding -->
-  <DoctorFeedAnimals.gerund>matar</DoctorFeedAnimals.gerund>
   <!-- EN: feed animals -->
-  <DoctorFeedAnimals.label>matar djur</DoctorFeedAnimals.label>
-  
-  <!-- EN: feed -->
-  <DoctorFeedHumanlikes.verb>mata</DoctorFeedHumanlikes.verb>
+  <DoctorFeedAnimals.label>utfodrar djur</DoctorFeedAnimals.label>
   <!-- EN: feeding -->
-  <DoctorFeedHumanlikes.gerund>matar</DoctorFeedHumanlikes.gerund>
+  <DoctorFeedAnimals.gerund>utfodrar</DoctorFeedAnimals.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedAnimals.verb>utfodra</DoctorFeedAnimals.verb>
+  
   <!-- EN: feed patients -->
   <DoctorFeedHumanlikes.label>mata patient</DoctorFeedHumanlikes.label>
+  <!-- EN: feeding -->
+  <DoctorFeedHumanlikes.gerund>matar</DoctorFeedHumanlikes.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedHumanlikes.verb>mata</DoctorFeedHumanlikes.verb>
   
-  <!-- EN: rescue -->
-  <DoctorRescue.verb>rädda</DoctorRescue.verb>
-  <!-- EN: rescuing -->
-  <DoctorRescue.gerund>räddar</DoctorRescue.gerund>
   <!-- EN: rescue downed allies to bed -->
   <DoctorRescue.label>rädda fallen allierad till säng</DoctorRescue.label>
+  <!-- EN: rescuing -->
+  <DoctorRescue.gerund>räddar</DoctorRescue.gerund>
+  <!-- EN: rescue -->
+  <DoctorRescue.verb>rädda</DoctorRescue.verb>
   
-  <!-- EN: tend to -->
-  <DoctorTendEmergency.verb>behandla</DoctorTendEmergency.verb>
-  <!-- EN: tending to -->
-  <DoctorTendEmergency.gerund>behandlar</DoctorTendEmergency.gerund>
   <!-- EN: tend to patients with urgent needs -->
-  <DoctorTendEmergency.label>ge akut behandling</DoctorTendEmergency.label>
-  
-  <!-- EN: tend to -->
-  <DoctorTendToAnimals.verb>behandla</DoctorTendToAnimals.verb>
+  <DoctorTendEmergency.label>vårda patienter i behov av akutvård</DoctorTendEmergency.label>
   <!-- EN: tending to -->
-  <DoctorTendToAnimals.gerund>behandlar</DoctorTendToAnimals.gerund>
+  <DoctorTendEmergency.gerund>vårdar</DoctorTendEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendEmergency.verb>vårda</DoctorTendEmergency.verb>
+  
   <!-- EN: tend to animals -->
-  <DoctorTendToAnimals.label>behandlar djur</DoctorTendToAnimals.label>
-  
-  <!-- EN: tend to -->
-  <DoctorTendToHumanlikes.verb>behandla</DoctorTendToHumanlikes.verb>
+  <DoctorTendToAnimals.label>vårda djur</DoctorTendToAnimals.label>
   <!-- EN: tending to -->
-  <DoctorTendToHumanlikes.gerund>behandlar</DoctorTendToHumanlikes.gerund>
+  <DoctorTendToAnimals.gerund>vårdar</DoctorTendToAnimals.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToAnimals.verb>vårda</DoctorTendToAnimals.verb>
+  
   <!-- EN: tend to patients -->
-  <DoctorTendToHumanlikes.label>behandlar patient</DoctorTendToHumanlikes.label>
-  
-  <!-- EN: tend to -->
-  <DoctorTendToSelf.verb>behandla</DoctorTendToSelf.verb>
+  <DoctorTendToHumanlikes.label>vårda patient</DoctorTendToHumanlikes.label>
   <!-- EN: tending to -->
-  <DoctorTendToSelf.gerund>behandlar</DoctorTendToSelf.gerund>
-  <!-- EN: tend to self -->
-  <DoctorTendToSelf.label>självbehandlar</DoctorTendToSelf.label>
+  <DoctorTendToHumanlikes.gerund>vårdar</DoctorTendToHumanlikes.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToHumanlikes.verb>vårda</DoctorTendToHumanlikes.verb>
   
-  <!-- EN: do execution on -->
-  <DoExecution.verb>avrätta</DoExecution.verb>
-  <!-- EN: doing execution on -->
-  <DoExecution.gerund>avrättar</DoExecution.gerund>
+  <!-- EN: tend to self -->
+  <DoctorTendToSelf.label>självbehandla</DoctorTendToSelf.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelf.gerund>vårdar</DoctorTendToSelf.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelf.verb>vårda</DoctorTendToSelf.verb>
+  
   <!-- EN: execute prisoners -->
   <DoExecution.label>avrätta fångar</DoExecution.label>
+  <!-- EN: doing execution on -->
+  <DoExecution.gerund>avrättar</DoExecution.gerund>
+  <!-- EN: do execution on -->
+  <DoExecution.verb>avrätta</DoExecution.verb>
   
-  <!-- EN: drill -->
-  <Drill.verb>borra</Drill.verb>
+  <!-- EN: drill at deep drill -->
+  <Drill.label>borra vid djupborr</Drill.label>
   <!-- EN: drilling -->
   <Drill.gerund>borrar</Drill.gerund>
-  <!-- EN: drill at deep drill -->
-  <Drill.label>borra</Drill.label>
+  <!-- EN: drill -->
+  <Drill.verb>borra</Drill.verb>
   
-  <!-- EN: feed -->
-  <FeedPrisoner.verb>mata</FeedPrisoner.verb>
-  <!-- EN: feeding -->
-  <FeedPrisoner.gerund>matar</FeedPrisoner.gerund>
   <!-- EN: feed prisoners -->
-  <FeedPrisoner.label>mata fångar</FeedPrisoner.label>
+  <FeedPrisoner.label>förse fångar</FeedPrisoner.label>
+  <!-- EN: feeding -->
+  <FeedPrisoner.gerund>förser</FeedPrisoner.gerund>
+  <!-- EN: feed -->
+  <FeedPrisoner.verb>förse</FeedPrisoner.verb>
   
-  <!-- EN: extinguish -->
-  <FightFires.verb>släck</FightFires.verb>
-  <!-- EN: extinguishing -->
-  <FightFires.gerund>släcker</FightFires.gerund>
   <!-- EN: fight fires -->
   <FightFires.label>bekämpa eld</FightFires.label>
+  <!-- EN: extinguishing -->
+  <FightFires.gerund>släcker</FightFires.gerund>
+  <!-- EN: extinguish -->
+  <FightFires.verb>släck</FightFires.verb>
   
-  <!-- EN: fill -->
-  <FillFermentingBarrel.verb>fyll</FillFermentingBarrel.verb>
+  <!-- EN: fill fermenting barrels -->
+  <FillFermentingBarrel.label>fyll jäsningstunnor</FillFermentingBarrel.label>
   <!-- EN: filling -->
   <FillFermentingBarrel.gerund>fyller</FillFermentingBarrel.gerund>
-  <!-- EN: fill fermenting barrels -->
-  <FillFermentingBarrel.label>fyll gäsningstunnor</FillFermentingBarrel.label>
+  <!-- EN: fill -->
+  <FillFermentingBarrel.verb>fyll</FillFermentingBarrel.verb>
   
-  <!-- EN: replace broken components in -->
-  <FixBrokenDownBuilding.verb>byt ut trasiga komponenter i</FixBrokenDownBuilding.verb>
+  <!-- EN: fix broken-down buildings -->
+  <FixBrokenDownBuilding.label>reparera trasiga byggnader</FixBrokenDownBuilding.label>
   <!-- EN: replacing broken components in -->
   <FixBrokenDownBuilding.gerund>byter ut trasiga komponenter i</FixBrokenDownBuilding.gerund>
-  <!-- EN: fix broken-down buildings -->
-  <FixBrokenDownBuilding.label>laga trasiga byggnader</FixBrokenDownBuilding.label>
+  <!-- EN: replace broken components in -->
+  <FixBrokenDownBuilding.verb>byt ut trasig komponent i</FixBrokenDownBuilding.verb>
   
-  <!-- EN: flick switch on -->
-  <Flick.verb>klicka på</Flick.verb>
-  <!-- EN: flicking switch on -->
-  <Flick.gerund>klickar på</Flick.gerund>
   <!-- EN: flick switches -->
   <Flick.label>klicka på knappar</Flick.label>
+  <!-- EN: flicking switch on -->
+  <Flick.gerund>klickar på</Flick.gerund>
+  <!-- EN: flick switch on -->
+  <Flick.verb>klicka på</Flick.verb>
   
-  <!-- EN: harvest -->
-  <GrowerHarvest.verb>skörda</GrowerHarvest.verb>
-  <!-- EN: harvesting -->
-  <GrowerHarvest.gerund>skördar</GrowerHarvest.gerund>
   <!-- EN: harvest crops -->
   <GrowerHarvest.label>skörda växter</GrowerHarvest.label>
+  <!-- EN: harvesting -->
+  <GrowerHarvest.gerund>skördar</GrowerHarvest.gerund>
+  <!-- EN: harvest -->
+  <GrowerHarvest.verb>skörda</GrowerHarvest.verb>
   
-  <!-- EN: sow -->
-  <GrowerSow.verb>så</GrowerSow.verb>
+  <!-- EN: sow crops -->
+  <GrowerSow.label>så grödor</GrowerSow.label>
   <!-- EN: sowing -->
   <GrowerSow.gerund>sår</GrowerSow.gerund>
-  <!-- EN: sow crops -->
-  <GrowerSow.label>så grädor</GrowerSow.label>
+  <!-- EN: sow -->
+  <GrowerSow.verb>så</GrowerSow.verb>
   
-  <!-- EN: feed -->
-  <HandlingFeedPatientAnimals.verb>TODO</HandlingFeedPatientAnimals.verb>
-  <!-- EN: feeding -->
-  <HandlingFeedPatientAnimals.gerund>TODO</HandlingFeedPatientAnimals.gerund>
   <!-- EN: feed animals -->
-  <HandlingFeedPatientAnimals.label>TODO</HandlingFeedPatientAnimals.label>
+  <HandlingFeedPatientAnimals.label>utfodra djur</HandlingFeedPatientAnimals.label>
+  <!-- EN: feeding -->
+  <HandlingFeedPatientAnimals.gerund>utfodrar</HandlingFeedPatientAnimals.gerund>
+  <!-- EN: feed -->
+  <HandlingFeedPatientAnimals.verb>utfodra</HandlingFeedPatientAnimals.verb>
   
-  <!-- EN: haul -->
-  <HaulCorpses.verb>frakta</HaulCorpses.verb>
-  <!-- EN: hauling -->
-  <HaulCorpses.gerund>fraktar</HaulCorpses.gerund>
   <!-- EN: haul corpses -->
   <HaulCorpses.label>frakta kropp</HaulCorpses.label>
-  
-  <!-- EN: haul -->
-  <HaulGeneral.verb>släpa</HaulGeneral.verb>
   <!-- EN: hauling -->
-  <HaulGeneral.gerund>släpar</HaulGeneral.gerund>
+  <HaulCorpses.gerund>fraktar</HaulCorpses.gerund>
+  <!-- EN: haul -->
+  <HaulCorpses.verb>frakta</HaulCorpses.verb>
+  
   <!-- EN: haul general things -->
-  <HaulGeneral.label>släpa saker</HaulGeneral.label>
+  <HaulGeneral.label>frakta generella saker</HaulGeneral.label>
+  <!-- EN: hauling -->
+  <HaulGeneral.gerund>fraktar</HaulGeneral.gerund>
+  <!-- EN: haul -->
+  <HaulGeneral.verb>frakta</HaulGeneral.verb>
   
-  <!-- EN: merge -->
-  <HaulMerge.verb>TODO</HaulMerge.verb>
-  <!-- EN: merging -->
-  <HaulMerge.gerund>TODO</HaulMerge.gerund>
   <!-- EN: merge things -->
-  <HaulMerge.label>TODO</HaulMerge.label>
+  <HaulMerge.label>slå ihop saker</HaulMerge.label>
+  <!-- EN: merging -->
+  <HaulMerge.gerund>slår ihop</HaulMerge.gerund>
+  <!-- EN: merge -->
+  <HaulMerge.verb>slå ihop</HaulMerge.verb>
   
-  <!-- EN: load -->
-  <HelpGatheringItemsForCaravan.verb>lasta</HelpGatheringItemsForCaravan.verb>
-  <!-- EN: loading -->
-  <HelpGatheringItemsForCaravan.gerund>lastar</HelpGatheringItemsForCaravan.gerund>
   <!-- EN: load caravan -->
   <HelpGatheringItemsForCaravan.label>lasta karavan</HelpGatheringItemsForCaravan.label>
+  <!-- EN: loading -->
+  <HelpGatheringItemsForCaravan.gerund>lastar</HelpGatheringItemsForCaravan.gerund>
+  <!-- EN: load -->
+  <HelpGatheringItemsForCaravan.verb>lasta</HelpGatheringItemsForCaravan.verb>
   
   <!-- EN: hunt -->
-  <HunterHunt.verb>jaga</HunterHunt.verb>
+  <HunterHunt.label>jaga</HunterHunt.label>
   <!-- EN: hunting -->
   <HunterHunt.gerund>jagar</HunterHunt.gerund>
   <!-- EN: hunt -->
-  <HunterHunt.label>jaga</HunterHunt.label>
+  <HunterHunt.verb>jaga</HunterHunt.verb>
   
-  <!-- EN: load -->
-  <LoadTransporters.verb>lasta</LoadTransporters.verb>
-  <!-- EN: loading -->
-  <LoadTransporters.gerund>lastar</LoadTransporters.gerund>
   <!-- EN: load transporters -->
   <LoadTransporters.label>lasta transportör</LoadTransporters.label>
+  <!-- EN: loading -->
+  <LoadTransporters.gerund>lastar</LoadTransporters.gerund>
+  <!-- EN: load -->
+  <LoadTransporters.verb>lasta</LoadTransporters.verb>
   
-  <!-- EN: milk -->
-  <Milk.verb>mjölka</Milk.verb>
-  <!-- EN: milking -->
-  <Milk.gerund>mjölkar</Milk.gerund>
   <!-- EN: milk animals -->
   <Milk.label>mjölka djur</Milk.label>
+  <!-- EN: milking -->
+  <Milk.gerund>mjölkar</Milk.gerund>
+  <!-- EN: milk -->
+  <Milk.verb>mjölka</Milk.verb>
   
   <!-- EN: mine -->
-  <Mine.verb>gräva</Mine.verb>
+  <Mine.label>gräva</Mine.label>
   <!-- EN: mining -->
   <Mine.gerund>gräver</Mine.gerund>
   <!-- EN: mine -->
-  <Mine.label>gräva</Mine.label>
+  <Mine.verb>gräva</Mine.verb>
   
-  <!-- EN: open -->
-  <Open.verb>öppna</Open.verb>
-  <!-- EN: opening -->
-  <Open.gerund>öppnar</Open.gerund>
   <!-- EN: open containers -->
   <Open.label>öppna behållare</Open.label>
+  <!-- EN: opening -->
+  <Open.gerund>öppnar</Open.gerund>
+  <!-- EN: open -->
+  <Open.verb>öppna</Open.verb>
   
-  <!-- UNUSED -->
-  <PatientGoToBed.label>återhämta sig i säng</PatientGoToBed.label>
-  <PatientGoToBed.verb>få sängläge i</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>får sängläge i</PatientGoToBed.gerund>
-  
-  <!-- UNUSED -->
-  <PatientGoToBedEmergency.label>gå till säng för akut behandling</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>få behandling i</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>får behandling i</PatientGoToBedEmergency.gerund>
-  
-  <!-- EN: receive treatment in -->
-  <PatientGoToBedEmergencyTreatment.verb>TODO</PatientGoToBedEmergencyTreatment.verb>
-  <!-- EN: receiving treatment in -->
-  <PatientGoToBedEmergencyTreatment.gerund>TODO</PatientGoToBedEmergencyTreatment.gerund>
   <!-- EN: go to bed for emergency treatment -->
-  <PatientGoToBedEmergencyTreatment.label>TODO</PatientGoToBedEmergencyTreatment.label>
-  
-  <!-- EN: get bed rest in -->
-  <PatientGoToBedRecuperate.verb>TODO</PatientGoToBedRecuperate.verb>
-  <!-- EN: getting bed rest in -->
-  <PatientGoToBedRecuperate.gerund>TODO</PatientGoToBedRecuperate.gerund>
-  <!-- EN: recuperate in bed -->
-  <PatientGoToBedRecuperate.label>TODO</PatientGoToBedRecuperate.label>
-  
-  <!-- EN: receive treatment in -->
-  <PatientGoToBedTreatment.verb>TODO</PatientGoToBedTreatment.verb>
+  <PatientGoToBedEmergencyTreatment.label>gå till säng för akutvård</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
-  <PatientGoToBedTreatment.gerund>TODO</PatientGoToBedTreatment.gerund>
-  <!-- EN: go to bed for treatment -->
-  <PatientGoToBedTreatment.label>TODO</PatientGoToBedTreatment.label>
+  <PatientGoToBedEmergencyTreatment.gerund>får vård i</PatientGoToBedEmergencyTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedEmergencyTreatment.verb>få vård i</PatientGoToBedEmergencyTreatment.verb>
   
-  <!-- EN: cut -->
-  <PlantsCut.verb>beskär</PlantsCut.verb>
-  <!-- EN: cutting -->
-  <PlantsCut.gerund>beskär</PlantsCut.gerund>
+  <!-- EN: recuperate in bed -->
+  <PatientGoToBedRecuperate.label>återhämta sig i säng</PatientGoToBedRecuperate.label>
+  <!-- EN: getting bed rest in -->
+  <PatientGoToBedRecuperate.gerund>får sängvila i</PatientGoToBedRecuperate.gerund>
+  <!-- EN: get bed rest in -->
+  <PatientGoToBedRecuperate.verb>få sängvila i</PatientGoToBedRecuperate.verb>
+  
+  <!-- EN: go to bed for treatment -->
+  <PatientGoToBedTreatment.label>gå till säng för vård</PatientGoToBedTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedTreatment.gerund>får vård i</PatientGoToBedTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedTreatment.verb>få vård i</PatientGoToBedTreatment.verb>
+  
   <!-- EN: cut plants -->
   <PlantsCut.label>beskär växter</PlantsCut.label>
+  <!-- EN: cutting -->
+  <PlantsCut.gerund>beskär</PlantsCut.gerund>
+  <!-- EN: cut -->
+  <PlantsCut.verb>beskär</PlantsCut.verb>
   
-  <!-- EN: rearm -->
-  <RearmTraps.verb>gillra</RearmTraps.verb>
-  <!-- EN: rearming -->
-  <RearmTraps.gerund>gillrar</RearmTraps.gerund>
-  <!-- EN: rearm traps -->
-  <RearmTraps.label>gillra fällor</RearmTraps.label>
-  
-  <!-- EN: rearm -->
-  <RearmTurrets.verb>TODO</RearmTurrets.verb>
-  <!-- EN: rearming -->
-  <RearmTurrets.gerund>TODO</RearmTurrets.gerund>
   <!-- EN: rearm turrets -->
-  <RearmTurrets.label>TODO</RearmTurrets.label>
+  <RearmTurrets.label>rearmera kanontorn</RearmTurrets.label>
+  <!-- EN: rearming -->
+  <RearmTurrets.gerund>rearmerar</RearmTurrets.gerund>
+  <!-- EN: rearm -->
+  <RearmTurrets.verb>rearmera</RearmTurrets.verb>
   
-  <!-- EN: refuel -->
-  <Refuel.verb>tanka</Refuel.verb>
-  <!-- EN: refueling -->
-  <Refuel.gerund>tankar</Refuel.gerund>
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>tanka tankbara byggnader</Refuel.label>
+  <!-- EN: refueling -->
+  <Refuel.gerund>tankar</Refuel.gerund>
+  <!-- EN: refuel -->
+  <Refuel.verb>tanka</Refuel.verb>
   
-  <!-- EN: release -->
-  <ReleasePrisoner.verb>frige</ReleasePrisoner.verb>
-  <!-- EN: releasing -->
-  <ReleasePrisoner.gerund>friger</ReleasePrisoner.gerund>
   <!-- EN: release prisoners -->
   <ReleasePrisoner.label>frige fångar</ReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <ReleasePrisoner.gerund>friger</ReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <ReleasePrisoner.verb>frige</ReleasePrisoner.verb>
   
-  <!-- EN: remove roof -->
-  <RemoveRoofs.verb>riv tak</RemoveRoofs.verb>
-  <!-- EN: removing roof -->
-  <RemoveRoofs.gerund>river tak</RemoveRoofs.gerund>
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>riv tak</RemoveRoofs.label>
+  <!-- EN: removing roof -->
+  <RemoveRoofs.gerund>river tak</RemoveRoofs.gerund>
+  <!-- EN: remove roof -->
+  <RemoveRoofs.verb>riv tak</RemoveRoofs.verb>
   
-  <!-- EN: repair -->
-  <Repair.verb>reparera</Repair.verb>
-  <!-- EN: repairing -->
-  <Repair.gerund>reparerar</Repair.gerund>
   <!-- EN: repair damaged things -->
   <Repair.label>reparera trasiga saker</Repair.label>
+  <!-- EN: repairing -->
+  <Repair.gerund>reparerar</Repair.gerund>
+  <!-- EN: repair -->
+  <Repair.verb>reparera</Repair.verb>
   
-  <!-- EN: research -->
-  <Research.verb>forska</Research.verb>
-  <!-- EN: researching at -->
-  <Research.gerund>forskar vid</Research.gerund>
   <!-- EN: do research -->
   <Research.label>forska</Research.label>
+  <!-- EN: researching at -->
+  <Research.gerund>forskar vid</Research.gerund>
+  <!-- EN: research -->
+  <Research.verb>forska</Research.verb>
   
-  <!-- EN: scan -->
-  <Scan.verb>TODO</Scan.verb>
-  <!-- EN: scanning at -->
-  <Scan.gerund>TODO</Scan.gerund>
   <!-- EN: operate scanner -->
-  <Scan.label>TODO</Scan.label>
+  <Scan.label>mannövrera skanner</Scan.label>
+  <!-- EN: scanning at -->
+  <Scan.gerund>skannar vid</Scan.gerund>
+  <!-- EN: scan -->
+  <Scan.verb>skanna</Scan.verb>
   
-  <!-- EN: shear -->
-  <Shear.verb>klipp</Shear.verb>
-  <!-- EN: shearing -->
-  <Shear.gerund>klipper</Shear.gerund>
   <!-- EN: shear animals -->
   <Shear.label>klipp djur</Shear.label>
+  <!-- EN: shearing -->
+  <Shear.gerund>klipper</Shear.gerund>
+  <!-- EN: shear -->
+  <Shear.verb>klipp</Shear.verb>
   
-  <!-- EN: slaughter -->
-  <Slaughter.verb>slakta</Slaughter.verb>
-  <!-- EN: slaughtering -->
-  <Slaughter.gerund>slaktar</Slaughter.gerund>
   <!-- EN: slaughter animals -->
   <Slaughter.label>slakta djur</Slaughter.label>
+  <!-- EN: slaughtering -->
+  <Slaughter.gerund>slaktar</Slaughter.gerund>
+  <!-- EN: slaughter -->
+  <Slaughter.verb>slakta</Slaughter.verb>
   
-  <!-- EN: strip -->
-  <Strip.verb>klä av</Strip.verb>
-  <!-- EN: stripping -->
-  <Strip.gerund>klär av</Strip.gerund>
   <!-- EN: strip corpses -->
   <Strip.label>klä av lik</Strip.label>
+  <!-- EN: stripping -->
+  <Strip.gerund>klär av</Strip.gerund>
+  <!-- EN: strip -->
+  <Strip.verb>klä av</Strip.verb>
   
-  <!-- EN: take beer -->
-  <TakeBeerOutOfFermentingBarrel.verb>bär öl</TakeBeerOutOfFermentingBarrel.verb>
-  <!-- EN: taking beer from -->
-  <TakeBeerOutOfFermentingBarrel.gerund>bär öl från</TakeBeerOutOfFermentingBarrel.gerund>
   <!-- EN: take beer out of fermenting barrels -->
-  <TakeBeerOutOfFermentingBarrel.label>ta öl ur gäsningstunnor</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.label>ta öl ur jäsningstunnor</TakeBeerOutOfFermentingBarrel.label>
+  <!-- EN: taking beer from -->
+  <TakeBeerOutOfFermentingBarrel.gerund>tar öl från</TakeBeerOutOfFermentingBarrel.gerund>
+  <!-- EN: take beer -->
+  <TakeBeerOutOfFermentingBarrel.verb>ta öl</TakeBeerOutOfFermentingBarrel.verb>
   
-  <!-- EN: take to bed -->
-  <TakePrisonerToBed.verb>led till säng</TakePrisonerToBed.verb>
-  <!-- EN: taking to bed -->
-  <TakePrisonerToBed.gerund>led till säng</TakePrisonerToBed.gerund>
   <!-- EN: take prisoners to bed -->
   <TakePrisonerToBed.label>led fånge till säng</TakePrisonerToBed.label>
+  <!-- EN: taking to bed -->
+  <TakePrisonerToBed.gerund>leder till säng</TakePrisonerToBed.gerund>
+  <!-- EN: take to bed -->
+  <TakePrisonerToBed.verb>led till säng</TakePrisonerToBed.verb>
   
-  <!-- EN: take to operate -->
-  <TakeToBedToOperate.verb>led till operation</TakeToBedToOperate.verb>
+  <!-- EN: take patients to bed for operations -->
+  <TakeToBedToOperate.label>led patienter till sängs för operationer</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
   <TakeToBedToOperate.gerund>leder till operation</TakeToBedToOperate.gerund>
-  <!-- EN: take patients to bed for operations -->
-  <TakeToBedToOperate.label>led patienter till sängs för operation</TakeToBedToOperate.label>
+  <!-- EN: take to operate -->
+  <TakeToBedToOperate.verb>led till operation</TakeToBedToOperate.verb>
   
-  <!-- EN: tame -->
-  <Tame.verb>tämj</Tame.verb>
-  <!-- EN: taming -->
-  <Tame.gerund>tänjer</Tame.gerund>
   <!-- EN: tame animals -->
   <Tame.label>tämj djur</Tame.label>
+  <!-- EN: taming -->
+  <Tame.gerund>tämjer</Tame.gerund>
+  <!-- EN: tame -->
+  <Tame.verb>tämj</Tame.verb>
   
-  <!-- EN: train -->
-  <Train.verb>träna</Train.verb>
-  <!-- EN: training -->
-  <Train.gerund>tränar</Train.gerund>
   <!-- EN: train animals -->
   <Train.label>träna djur</Train.label>
+  <!-- EN: training -->
+  <Train.gerund>tränar</Train.gerund>
+  <!-- EN: train -->
+  <Train.verb>träna</Train.verb>
   
-  <!-- EN: uninstall -->
-  <Uninstall.verb>demontera</Uninstall.verb>
-  <!-- EN: uninstalling -->
-  <Uninstall.gerund>demonterar</Uninstall.gerund>
   <!-- EN: uninstall structures -->
-  <Uninstall.label>demontera byggnader</Uninstall.label>
+  <Uninstall.label>urinstallera strukturer</Uninstall.label>
+  <!-- EN: uninstalling -->
+  <Uninstall.gerund>urinstallerar</Uninstall.gerund>
+  <!-- EN: uninstall -->
+  <Uninstall.verb>urinstallera</Uninstall.verb>
   
-  <!-- EN: unload -->
-  <UnloadCarriers.verb>lossa</UnloadCarriers.verb>
+  <!-- EN: unload carriers -->
+  <UnloadCarriers.label>lossa bud</UnloadCarriers.label>
   <!-- EN: unloading -->
   <UnloadCarriers.gerund>lossar</UnloadCarriers.gerund>
-  <!-- EN: unload carriers -->
-  <UnloadCarriers.label>lossa bärare</UnloadCarriers.label>
+  <!-- EN: unload -->
+  <UnloadCarriers.verb>lossa</UnloadCarriers.verb>
   
-  <!-- EN: visit -->
-  <VisitSickPawn.verb>besök</VisitSickPawn.verb>
-  <!-- EN: visiting -->
-  <VisitSickPawn.gerund>besöker</VisitSickPawn.gerund>
   <!-- EN: visit sick people -->
   <VisitSickPawn.label>besök sjuka personer</VisitSickPawn.label>
+  <!-- EN: visiting -->
+  <VisitSickPawn.gerund>besöker</VisitSickPawn.gerund>
+  <!-- EN: visit -->
+  <VisitSickPawn.verb>besök</VisitSickPawn.verb>
   
 </LanguageData>

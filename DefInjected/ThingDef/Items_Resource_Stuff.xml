@@ -1,98 +1,97 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <Cloth.stuffProps.stuffAdjective>tyg</Cloth.stuffProps.stuffAdjective>
   <!-- EN: cloth -->
-  <Cloth.label>tyg</Cloth.label>
+  <Cloth.label>bomull</Cloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
-  <Cloth.description>Tyg som är vävt från organiska fibrer.</Cloth.description>
+  <Cloth.description>Tyg som är vävt av organiska fibrer.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>bomull</Cloth.stuffProps.stuffAdjective>
   
-  <DevilstrandCloth.stuffProps.stuffAdjective>djävulshår</DevilstrandCloth.stuffProps.stuffAdjective>
   <!-- EN: devilstrand -->
   <DevilstrandCloth.label>djävulshår</DevilstrandCloth.label>
-  <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects well against flame. -->
-  <DevilstrandCloth.description>Tyg spunnet av mikrofibrer extraherade från den siden-producerande svampen Djälvulshår. Mycket slitstarkt, men isolerar inte bättre än tyg.</DevilstrandCloth.description>
+  <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
+  <DevilstrandCloth.description>Tyg spunnet av mikrofibrer extraherade från svampen djävulshår. Mycket slitstarkt isolerar bra och skyddar väl mot eld.</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>djävulsfiber</DevilstrandCloth.stuffProps.stuffAdjective>
   
-  <!-- EN: golden -->
-  <Gold.stuffProps.stuffAdjective>guld</Gold.stuffProps.stuffAdjective>
   <!-- EN: gold -->
   <Gold.label>guld</Gold.label>
   <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
-  <Gold.description>Den mest förföriska metallen av dem alla. Miljoner har dött i ett försök att mata den ändlösa mänskliga törsten efter guld. Denna mjuka metallen är liten användning på egen hand, men är slående vacker och mycket sällsynta.</Gold.description>
+  <Gold.description>Den mest förföriska metallen av dem alla.Även om den är för mjuk för att ha särskilt praktisk nytta är den riktigt vacker och mattas aldrig av. Miljoner har dött i ett försök att mata den ändlösa mänskliga törsten efter guld.</Gold.description>
+  <!-- EN: golden -->
+  <Gold.stuffProps.stuffAdjective>gyllene</Gold.stuffProps.stuffAdjective>
   
-  <Hyperweave.stuffProps.stuffAdjective>hyperväv</Hyperweave.stuffProps.stuffAdjective>
   <!-- EN: hyperweave -->
   <Hyperweave.label>hyperväv</Hyperweave.label>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
-  <Hyperweave.description>Högteknologiska nanofibrer vävda till tyger. Den är lite tyngre, men är oerhört svårt att bryta. Hemligheter av den här produktionen är känd bara till de mest avancerade glittervärldskulturer.</Hyperweave.description>
+  <Hyperweave.description>Nanofiber vävda till stora sjok molekyl till molekyl genom att använda tillverkningsmekaniter. Det är väldigt följsamt men hårdnar för att absorbera inkommande slag och är även mycket svårt att ha sönder. Hemligheten av den här produktionen är känd bara bara i de mest avancerade glittervärldskulturer.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>hyperväv</Hyperweave.stuffProps.stuffAdjective>
   
-  <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
   <!-- EN: jade -->
   <Jade.label>jade</Jade.label>
   <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
-  <Jade.description>En hård, grön sten. På grund av dess skönhet och sällsynthet, är jade oftast använt för ornament och dekorationer. Dess hårdhet och täthet gör den också till ett bra material för trubbiga vapen.</Jade.description>
+  <Jade.description>En hård, grön sten. På grund av dess skönhet och sällsynthet andvänds jade oftast i ornament och dekorationer. Dess hårda och täta egenskaper gör den även till ett bra material för trubbiga vapen.</Jade.description>
+  <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
   
-  <Plasteel.stuffProps.stuffAdjective>plaststål</Plasteel.stuffProps.stuffAdjective>
   <!-- EN: plasteel -->
   <Plasteel.label>plaststål</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.description>Avancerad rymdteknisktt konstruktionsmaterial. Plaststål är extremt stark på grund av dess unika molekylstruktur .</Plasteel.description>
+  <Plasteel.description>Avanceradt rymdtekniskt konstruktionsmaterial. Plaststål är extremt stark på grund av dess unika molekylstruktur.</Plasteel.description>
   
-  <Silver.stuffProps.stuffAdjective>silver</Silver.stuffProps.stuffAdjective>
   <!-- EN: silver -->
   <Silver.label>silver</Silver.label>
   <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
   <Silver.description>Denna metall används främst som en valuta i handel. Den kan också användas för att göra attraktiva dekorationer.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>silver</Silver.stuffProps.stuffAdjective>
   
-  <Steel.stuffProps.stuffAdjective>stål</Steel.stuffProps.stuffAdjective>
   <!-- EN: steel -->
   <Steel.label>stål</Steel.label>
   <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
-  <Steel.description>En järn-kol-metallegering som används för byggnadsstrukturer, verktyg och vapen.</Steel.description>
+  <Steel.description>En järn-kol-metallegering som används för byggnation av konstruktioner, vapen och maskiner.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>stål</Steel.stuffProps.stuffAdjective>
   
-  <Synthread.stuffProps.stuffAdjective>konstfibrer</Synthread.stuffProps.stuffAdjective>
   <!-- EN: synthread -->
-  <Synthread.label>konstfibrer</Synthread.label>
+  <Synthread.label>konstfiber</Synthread.label>
   <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
-  <Synthread.description>Rymdteknologiskt syntetmaterial utformat för att göra vanliga kläder. Det är mjukt, lätt, stark, och isolerar väl.</Synthread.description>
+  <Synthread.description>Rymdteknologiskt syntetmaterial utformat för att göra vanliga kläder. Det är mjukt, lätt, starkt, och isolerar väl.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>konstfiber</Synthread.stuffProps.stuffAdjective>
   
-  <Uranium.stuffProps.stuffAdjective>uranium</Uranium.stuffProps.stuffAdjective>
   <!-- EN: uranium -->
   <Uranium.label>uranium</Uranium.label>
-  <!-- EN: An dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
-  <Uranium.description>En extremt hård, tät metall. Även om det är mest känd för dess användning driva kärnreaktorer , dess fysikaliska egenskaper gör det också utmärkt i vissa användningsområden som i ett verktyg, vapen eller i en rustning.</Uranium.description>
+  <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <Uranium.description>En mörk tungmetall. Även om det är mest känd för dess användning för att driva atomföremål gör dess extrema densitet och  hårdhet den utmärkt för produktion av vapen, rustningar  och ammunition.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>uranium</Uranium.stuffProps.stuffAdjective>
   
-  <!-- EN: log -->
-  <WoodLog.tools.log.label>TODO</WoodLog.tools.log.label>
-  <!-- EN: wooden -->
-  <WoodLog.stuffProps.stuffAdjective>trä</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: wood -->
   <WoodLog.label>trä</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>Ved från träd eller andra fiberväxter. Användbart för byggnadskonstruktioner, vapen och även enkla proteser. En rå pinne av trä kan användas som ett vapen i en knipa.</WoodLog.description>
+  <WoodLog.description>Ved från träd eller andra fiberväxter. Användbart för byggnadskonstruktioner och vapen. Det är ett bra bränsle för lägereldar och generatorer, kan även förädlas til kembränsle. Om det blir absolut nödvändigt kan en bit trä användas som vapen, eller ett ben.</WoodLog.description>
+  <!-- EN: wooden -->
+  <WoodLog.stuffProps.stuffAdjective>trä</WoodLog.stuffProps.stuffAdjective>
+  <!-- EN: log -->
+  <WoodLog.tools.log.label>timmer</WoodLog.tools.log.label>
   
-  <WoolAlpaca.stuffProps.stuffAdjective>alpackaull</WoolAlpaca.stuffProps.stuffAdjective>
   <!-- EN: alpaca wool -->
   <WoolAlpaca.label>alpackaull</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
-  <WoolAlpaca.description>Den anmärkningsvärda mjuka ullen från en alpacka. Den är väldigt varm.</WoolAlpaca.description>
+  <WoolAlpaca.description>Den anmärkningsvärt mjuka ullen från en alpacka, väldigt varm.</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>alpackaull</WoolAlpaca.stuffProps.stuffAdjective>
   
-  <WoolCamel.stuffProps.stuffAdjective>kamelhår</WoolCamel.stuffProps.stuffAdjective>
   <!-- EN: camelhair -->
   <WoolCamel.label>kamelhår</WoolCamel.label>
   <!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
-  <WoolCamel.description>Kamelhårskläder bärs vanligtvis av ökenresenärer för att skydda dem från värmen. Det ger utmärkt isolering på grund av dess termostatiska egenskaper.</WoolCamel.description>
+  <WoolCamel.description>Kamelhårskläder bärs vanligtvis av ökenresenärer för att skydda dem från värmen. Det ger utmärkt värmeisolering på grund av dess termostatiska egenskaper.</WoolCamel.description>
+  <WoolCamel.stuffProps.stuffAdjective>kamelhår</WoolCamel.stuffProps.stuffAdjective>
   
-  <WoolMegasloth.stuffProps.stuffAdjective>jättesengångarull</WoolMegasloth.stuffProps.stuffAdjective>
   <!-- EN: megasloth wool -->
   <WoolMegasloth.label>jättesengångarull</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>Något grovt men tack vare jättesengångarens långa ullfibrer är det både mycket stark och varmt.</WoolMegasloth.description>
+  <WoolMegasloth.description>Något grov men tack vare jättesengångarens långa ullfibrer är det både mycket stark och varmt.</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>jättesengångarull</WoolMegasloth.stuffProps.stuffAdjective>
   
-  <WoolMuffalo.stuffProps.stuffAdjective>muffelull</WoolMuffalo.stuffProps.stuffAdjective>
   <!-- EN: muffalo wool -->
   <WoolMuffalo.label>muffelull</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.description>Mjukt, lätt och ger mycket god isolering. Ull kläder kan hålla kroppen varm även under extrema förhållanden.</WoolMuffalo.description>
+  <WoolMuffalo.description>Mjukt, lätt och ger mycket god isolering. Muffelullkläder kan hålla kroppen varm även under extremt kalla förhållanden.</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>muffelull</WoolMuffalo.stuffProps.stuffAdjective>
   
 </LanguageData>

@@ -1,37 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>Inget</WorkTagNone>
+  <WorkTagNone>inget</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>Intellektuell</WorkTagIntellectual>
+  <WorkTagIntellectual>intellektuellt</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>Lätt arbete</WorkTagManualDumb>
+  <WorkTagManualDumb>simpelt arbete</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>Svårt arbete</WorkTagManualSkilled>
+  <WorkTagManualSkilled>skickligt arbete</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>Våld</WorkTagViolent>
+  <WorkTagViolent>våldsam</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>Vård</WorkTagCaring>
+  <WorkTagCaring>vårdar</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>Social</WorkTagSocial>
+  <WorkTagSocial>socialicerar</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>Djur</WorkTagAnimals>
+  <WorkTagAnimals>djurhantering</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>Konstnärlighet</WorkTagArtistic>
+  <WorkTagArtistic>konstnärlighet</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>Tillverkning</WorkTagCrafting>
+  <WorkTagCrafting>tillverkning</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>Matlagning</WorkTagCooking>
+  <WorkTagCooking>matlagning</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>Brandbekämpning</WorkTagFirefighting>
+  <WorkTagFirefighting>eldsläckning</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>Städning</WorkTagCleaning>
+  <WorkTagCleaning>städning</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>Transportering</WorkTagHauling>
+  <WorkTagHauling>transportering</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>Odling</WorkTagPlantWork>
+  <WorkTagPlantWork>odling</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>Gruvarbete</WorkTagMining>
+  <WorkTagMining>malmbrytning</WorkTagMining>
 
 </LanguageData>

@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: ascetic has awful bedroom -->
-  <Ascetic.stages.ascetic_has_awful_bedroom.label>asket med ett fruktansvärt sovrum</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>asket med ohyggligt sovrum</Ascetic.stages.ascetic_has_awful_bedroom.label>
   <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
-  <Ascetic.stages.ascetic_has_awful_bedroom.description>Mitt sovrum är så jag vill att det ska vara. Mycket ödmjukt och enkelt.</Ascetic.stages.ascetic_has_awful_bedroom.description>
-  <!-- EN: ascetic has repulsive bedroom -->
-  <Ascetic.stages.ascetic_has_repulsive_bedroom.label>asket med ett frånstötande sovrum</Ascetic.stages.ascetic_has_repulsive_bedroom.label>
-  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
-  <Ascetic.stages.ascetic_has_repulsive_bedroom.description>Mitt sovrum är så jag vill att det ska vara. Mycket ödmjuk och enkel.</Ascetic.stages.ascetic_has_repulsive_bedroom.description>
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>Mitt sovrum är som jag vill ha det, mycket sparsamt och enkelt.</Ascetic.stages.ascetic_has_awful_bedroom.description>
   <!-- EN: ascetic has dull bedroom -->
   <Ascetic.stages.ascetic_has_dull_bedroom.label>asket med tråkigt sovrum</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>Mitt sovrum är som jag vill ha det, mycket sparsamt och enkelt.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <!-- EN: ascetic has mediocre bedroom -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>asket har mediokert sovrum</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
   <!-- EN: My bedroom is very humble and simple. I like it. -->
-  <Ascetic.stages.ascetic_has_dull_bedroom.description>Mitt sovrum är mycket ödmjuk och enkel. Jag gillar det.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>Mitt sovrum är väldigt blygsamt och enkelt, jag tycker om det.</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
   <!-- EN: ascetic has impressive bedroom -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
   <!-- EN: I don't like having an impressive bedroom. -->
-  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>Jag tycker inte om att ha en imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>Jag tycker inte om att ha ett imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
   <!-- EN: ascetic has impressive bedroom -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-1.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-1.label>
   <!-- EN: I don't like having an impressive bedroom. -->
-  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>Jag tycker inte om att ha en imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>Jag tycker inte om att ha ett imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
   <!-- EN: ascetic has impressive bedroom -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
   <!-- EN: I don't like having an impressive bedroom. -->
-  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>Jag tycker inte om att ha en imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>Jag tycker inte om att ha ett imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
   <!-- EN: ascetic has impressive bedroom -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-3.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-3.label>
   <!-- EN: I don't like having an impressive bedroom. -->
-  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>Jag tycker inte om att ha en imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>Jag tycker inte om att ha ett imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
   <!-- EN: ascetic has impressive bedroom -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-4.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-4.label>
   <!-- EN: I don't like having an impressive bedroom. -->
-  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>Jag tycker inte om att ha en imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>Jag tycker inte om att ha ett imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
   <!-- EN: ascetic has impressive bedroom -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-5.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-5.label>
   <!-- EN: I don't like having an impressive bedroom. -->
-  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>Jag tycker inte om att ha en imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>Jag tycker inte om att ha ett imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
   <!-- EN: ascetic has impressive bedroom -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
   <!-- EN: I don't like having an impressive bedroom. -->
-  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>Jag tycker inte om att ha en imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>Jag tycker inte om att ha ett imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
   
   <!-- EN: brawler has ranged weapon -->
   <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>slagskämpe har ett avståndsvapen</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
@@ -74,121 +74,100 @@
   <Greedy.stages.greedy_for_impressive_bedroom-4.description>Jag är girig. Mitt rum är inte riktigt bra nog. Jag vill ha en riktigt imponerande sovrum.</Greedy.stages.greedy_for_impressive_bedroom-4.description>
   
   <!-- EN: happily nude -->
-  <HappyNude.stages.happily_nude.label>glad naken</HappyNude.stages.happily_nude.label>
+  <HappyNude.stages.happily_nude.label>glatt naken</HappyNude.stages.happily_nude.label>
   <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
-  <HappyNude.stages.happily_nude.description>Jag är naken och älska det! Jag känner mig så fri och otvungen och i kontakt med min omgivning!</HappyNude.stages.happily_nude.description>
+  <HappyNude.stages.happily_nude.description>Jag är naken och älska det! Jag känner mig så fri och i kontakt med naturen och min omgivning!</HappyNude.stages.happily_nude.description>
   
   <!-- EN: jealous of {0}'s bedroom -->
-  <Jealous.stages.jealous_of_s_bedroom.label>avundsjuk på {0} s sovrum</Jealous.stages.jealous_of_s_bedroom.label>
+  <Jealous.stages.jealous_of_s_bedroom.label>avundsjuk på {0}s sovrum</Jealous.stages.jealous_of_s_bedroom.label>
   <!-- EN: I need to have the best one! -->
-  <Jealous.stages.jealous_of_s_bedroom.description>Jag måste ha den bästa!</Jealous.stages.jealous_of_s_bedroom.description>
+  <Jealous.stages.jealous_of_s_bedroom.description>Jag måste ha det bästa!</Jealous.stages.jealous_of_s_bedroom.description>
   
   <!-- EN: masochist in minor pain -->
-  <MasochistPain.stages.masochist_in_minor_pain.label>självplågare i lite smärta</MasochistPain.stages.masochist_in_minor_pain.label>
+  <MasochistPain.stages.masochist_in_minor_pain.label>masochist med lite ont</MasochistPain.stages.masochist_in_minor_pain.label>
   <!-- EN: Ow... Heh heh heh... I could get used to this! -->
-  <MasochistPain.stages.masochist_in_minor_pain.description>Aj ... Heh heh heh ... Jag kunde vänja mig vid denna!</MasochistPain.stages.masochist_in_minor_pain.description>
+  <MasochistPain.stages.masochist_in_minor_pain.description>Aj... Heh heh heh... Jag kan vänja mig vid detta!</MasochistPain.stages.masochist_in_minor_pain.description>
   <!-- EN: masochist in serious pain -->
-  <MasochistPain.stages.masochist_in_serious_pain.label>självplågare i måttlig smärta</MasochistPain.stages.masochist_in_serious_pain.label>
+  <MasochistPain.stages.masochist_in_serious_pain.label>masochist med smärta</MasochistPain.stages.masochist_in_serious_pain.label>
   <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
-  <MasochistPain.stages.masochist_in_serious_pain.description>Ughhh ... Det gör ont, men jag älskar det! Fortsätt så!</MasochistPain.stages.masochist_in_serious_pain.description>
+  <MasochistPain.stages.masochist_in_serious_pain.description>Ughhh... Det gör ont, men jag älskar det! Fortsätt så!</MasochistPain.stages.masochist_in_serious_pain.description>
   <!-- EN: masochist in intense pain -->
-  <MasochistPain.stages.masochist_in_intense_pain.label>självplågare i akut smärta</MasochistPain.stages.masochist_in_intense_pain.label>
+  <MasochistPain.stages.masochist_in_intense_pain.label>masochist med intensiv smärta</MasochistPain.stages.masochist_in_intense_pain.label>
   <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
-  <MasochistPain.stages.masochist_in_intense_pain.description>Aj ... Jag tror att något är brutet... Men vilken utsökt känsla!</MasochistPain.stages.masochist_in_intense_pain.description>
+  <MasochistPain.stages.masochist_in_intense_pain.description>Aj... Jag tror att något är brutet... Men vilken underbar känsla!</MasochistPain.stages.masochist_in_intense_pain.description>
   <!-- EN: masochist in mind-shattering pain -->
-  <MasochistPain.stages.masochist_in_mindshattering_pain.label>självplågare i exceptionella smärta</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>masochist med extrem smärta</MasochistPain.stages.masochist_in_mindshattering_pain.label>
   <!-- EN: Ahhh... Am I in heaven? -->
   <MasochistPain.stages.masochist_in_mindshattering_pain.description>Ahhh ... Är jag i himlen?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
   
   <!-- EN: night owl in daytime -->
-  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>nattuggla i dagtid</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>nattuggla under dagtid</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
   <!-- EN: I don't like working during the day. -->
-  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>Jag gillar inte att arbeta under dagen.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>Jag gillar inte att arbeta dagtid.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
   
   <!-- EN: night owl at night -->
-  <NightOwlDuringTheNight.stages.night_owl_at_night.label>nattuggla på natten</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>nattuggla under nattetid</NightOwlDuringTheNight.stages.night_owl_at_night.label>
   <!-- EN: I feel much better at night. -->
-  <NightOwlDuringTheNight.stages.night_owl_at_night.description>Jag mår mycket bättre på natten.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
-  
-  <!-- EN: artificial body uneasiness -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_uneasiness.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_uneasiness.label>
-  <!-- EN: Two artificial body parts were okay, but having three is bothersome. I miss my natural, clean body. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_uneasiness.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_uneasiness.description>
-  <!-- EN: artificial body squeamishness -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_squeamishness.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_squeamishness.label>
-  <!-- EN: I have four artificial body parts. Even if they're necessary, I still wish I could be natural again. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_squeamishness.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_squeamishness.description>
-  <!-- EN: artificial body discomfort -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_discomfort.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_discomfort.label>
-  <!-- EN: Five artificial body parts. It's like I click and creak when I move. I wish I could just be a healthy again, without these reminders of pain. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_discomfort.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_discomfort.description>
-  <!-- EN: artificial body disgust -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_disgust.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_disgust.label>
-  <!-- EN: Six artificial body parts is too much. It's like I'm becoming an android. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_disgust.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_disgust.description>
-  <!-- EN: artificial body horror -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_horror.label>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_horror.label>
-  <!-- EN: I never asked for this. -->
-  <NonProsthophileHasAddedBodyParts.stages.artificial_body_horror.description>TODO</NonProsthophileHasAddedBodyParts.stages.artificial_body_horror.description>
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>Jag mår så mycket bättre nattetid.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
   
   <!-- EN: transhumanist pleased -->
-  <ProsthophileHappy.stages.transhumanist_pleased.label>prostetofil har bionisk kroppsdel</ProsthophileHappy.stages.transhumanist_pleased.label>
+  <ProsthophileHappy.stages.transhumanist_pleased.label>prostetofil nöjd</ProsthophileHappy.stages.transhumanist_pleased.label>
   <!-- EN: This artificial part is cool. I want more. -->
-  <ProsthophileHappy.stages.transhumanist_pleased.description>Jag är en produkt av modern teknik! Jag kan göra allt bättre!</ProsthophileHappy.stages.transhumanist_pleased.description>
+  <ProsthophileHappy.stages.transhumanist_pleased.description>Denna artificiella del är cool. Jag vill ha fler.</ProsthophileHappy.stages.transhumanist_pleased.description>
   <!-- EN: transhumanist quite pleased -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>TODO</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>prostetofil relativt nöjd</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
   <!-- EN: Two artificial parts are better than one. I wish I had more. -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>TODO</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>Två artificiella delar är bättre än en, jag önskar jag hade fler.</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
   <!-- EN: transhumanist delighted -->
-  <ProsthophileHappy.stages.transhumanist_delighted.label>TODO</ProsthophileHappy.stages.transhumanist_delighted.label>
+  <ProsthophileHappy.stages.transhumanist_delighted.label>prostetofil förnöjd</ProsthophileHappy.stages.transhumanist_delighted.label>
   <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
-  <ProsthophileHappy.stages.transhumanist_delighted.description>TODO</ProsthophileHappy.stages.transhumanist_delighted.description>
+  <ProsthophileHappy.stages.transhumanist_delighted.description>Tre artificiella delar, mitt veka människokött avtar, men jag vill ha mer maskinstyrka</ProsthophileHappy.stages.transhumanist_delighted.description>
   <!-- EN: transhumanist enchanted -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.label>TODO</ProsthophileHappy.stages.transhumanist_enchanted.label>
+  <ProsthophileHappy.stages.transhumanist_enchanted.label>prostetofil glad</ProsthophileHappy.stages.transhumanist_enchanted.label>
   <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.description>TODO</ProsthophileHappy.stages.transhumanist_enchanted.description>
+  <ProsthophileHappy.stages.transhumanist_enchanted.description>Fyra artificiella kroppsdelar, jag kommer bli mer än människa. Fast det finns fortfarande delar som behöver ersättas.</ProsthophileHappy.stages.transhumanist_enchanted.description>
   <!-- EN: transhumanist overjoyed -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.label>TODO</ProsthophileHappy.stages.transhumanist_overjoyed.label>
+  <ProsthophileHappy.stages.transhumanist_overjoyed.label>prostetofil överlycklig</ProsthophileHappy.stages.transhumanist_overjoyed.label>
   <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.description>TODO</ProsthophileHappy.stages.transhumanist_overjoyed.description>
+  <ProsthophileHappy.stages.transhumanist_overjoyed.description>Fem artificiella kroppsdelar! Hur kan en förtjusande varelse som jag någonsin bli ledsen?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
   <!-- EN: machine body is complete -->
-  <ProsthophileHappy.stages.machine_body_is_complete.label>TODO</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <ProsthophileHappy.stages.machine_body_is_complete.label>Maskinkropp komplett</ProsthophileHappy.stages.machine_body_is_complete.label>
   <!-- EN: I asked for this. -->
-  <ProsthophileHappy.stages.machine_body_is_complete.description>TODO</ProsthophileHappy.stages.machine_body_is_complete.description>
+  <ProsthophileHappy.stages.machine_body_is_complete.description>Jag ville detta.</ProsthophileHappy.stages.machine_body_is_complete.description>
   
   <!-- EN: transhumanist frustrated -->
   <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>prostetofil saknar bionisk kroppsdel</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Kött är begränsande så. Jag önskar att jag hade något slags konstgjord kroppsdel.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Kött är så begränsande. Jag önskar att jag hade något slags konstgjord kroppsdel.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
   
   <!-- EN: body purist squeamish -->
-  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>prostetofob har bionisk kroppsdel</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>prostetofob kinkig</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
   <!-- EN: I hate having this unnatural thing attached to me. It feels so filthy! -->
-  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>De gjorde mig till en teknologisk styggelse... Om bara de hade gett mig ett val...</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description> Jag hatar att ha denna onaturliga sak fastsatt i mig. Det känns så smutsigt.</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
   <!-- EN: body purist disgusted -->
-  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>TODO</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>prostetofob äcklad</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
   <!-- EN: Two artificial parts are sullying my natural, pure body. It makes me sick to think of it. -->
-  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>TODO</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>Två artificiella saker besudlar min kropp. Jag mår illa av att tänka på det.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
   <!-- EN: body purist violated -->
-  <ProsthophobeUnhappy.stages.body_purist_violated.label>TODO</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>prostetofob skändad</ProsthophobeUnhappy.stages.body_purist_violated.label>
   <!-- EN: Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
-  <ProsthophobeUnhappy.stages.body_purist_violated.description>TODO</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>Tre artificiella kroppsdelar skändar min kropp. Jag ryser när jag tänker på det, och dessa objekt rasslar i samma takt.</ProsthophobeUnhappy.stages.body_purist_violated.description>
   <!-- EN: body purist horrified -->
-  <ProsthophobeUnhappy.stages.body_purist_horrified.label>TODO</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>prostetofob förfärad</ProsthophobeUnhappy.stages.body_purist_horrified.label>
   <!-- EN: I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation. -->
-  <ProsthophobeUnhappy.stages.body_purist_horrified.description>TODO</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>Jag har fyra artificiella kroppsdelar; jag börjar bli en robot, vilken skrämmande känsla.</ProsthophobeUnhappy.stages.body_purist_horrified.description>
   <!-- EN: body purist nightmare -->
-  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>TODO</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>prostetofobs mardröm</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
   <!-- EN: Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human? -->
-  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>TODO</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>Fem artificiella kroppsdelar... Är det någonting kvar av mig? Eller är jag en robot som tror den är en människa?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
   <!-- EN: I have become what I hate -->
-  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>TODO</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>Jag har blivit vad jag avskyr</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
   <!-- EN: I asked for the exact opposite of this! -->
-  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>TODO</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>Jag frågade efter raka motsatsen!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
   
   <!-- EN: pyromaniac has incendiary weapon -->
-  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>pyromaniac has incendiary weapon</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>pyroman har eldvapen weapon</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
   <!-- EN: It makes me think of flame and fire. I'm so happy. -->
-  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>It makes me think of flame and fire. I'm so happy.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description> Det får mig att tänka på eld och lågor, jag är så glad.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
   
 </LanguageData>

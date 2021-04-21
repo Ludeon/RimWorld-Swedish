@@ -1,4 +1,4 @@
-﻿nord
+nord
 nordöst
 öst
 sydöst
@@ -6,7 +6,6 @@ syd
 sydväst
 väst
 nordväst
-
 norra
 nordöstra
 östra

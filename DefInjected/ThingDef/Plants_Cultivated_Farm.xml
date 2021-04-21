@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: corn plant -->
   <Plant_Corn.label>majsplanta</Plant_Corn.label>
   <!-- EN: A tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil. -->
-  <Plant_Corn.description>En stor majsplanta som producerar massor av läckra gula frön. Tar relativt lång tid att växa, men ger massor av mat, tar lång tid att förstöra, och kan enkelt ätas råa. Behöver bördig jord att växa bra.</Plant_Corn.description>
+  <Plant_Corn.description>En högt växande spannmål som producerar små öron av mjuka ätbara frön. Även om majs tar lång tid på sig att växa ger den mycket mer mat i jämförelse med andra grödor. Skördad majs tar lång tid på sig innan den blir dålig.</Plant_Corn.description>
   
   <!-- EN: cotton plant -->
   <Plant_Cotton.label>bomullsplanta</Plant_Cotton.label>
   <!-- EN: A mid-size crop that yields fine white cotton fibers. These are used to make cloth. -->
-  <Plant_Cotton.description>Ger bomull, ett fint växtfibrer används för att göra tyg.</Plant_Cotton.description>
+  <Plant_Cotton.description>En medelstor planta som ger vita fina bommylsfibrer. Dessa används för att göra tyg.</Plant_Cotton.description>
   
   <!-- EN: devilstrand -->
   <Plant_Devilstrand.label>djävulshår</Plant_Devilstrand.label>
   <!-- EN: This fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people. -->
-  <Plant_Devilstrand.description>Denna bräckliga svamp genetiskt framtagen för att producera en siden av högsta kvalitet. Länge ryktades den ha mystiska egenskaper men den har förtjänat sitt namn på grund av girighet det inspirerar i folk.</Plant_Devilstrand.description>
+  <Plant_Devilstrand.description>Denna bräckliga svamp var genetiskt framtagen för att producera ett nät av siden som var både svårt att slita isär och mjukt att ta på.Eftersom svamp tar väldigt lång tid på sig att växa är det bara exotiska ultrateknologiska tyger som utklassar djävulshårens fibrer.\n\nVissa säger att den kallas djävulshår efter dess röda färg. Andra tror att den fått sitt namn på grund av den girighet den inspirerat till i folk.</Plant_Devilstrand.description>
   
   <!-- EN: haygrass -->
   <Plant_Haygrass.label>högräs</Plant_Haygrass.label>
@@ -22,9 +22,9 @@
   <Plant_Haygrass.description>En blandning av näringsrikt gräs som ger stora mängder hö. Hö är ätlig för djur, men inte för människor.</Plant_Haygrass.description>
   
   <!-- EN: healroot -->
-  <Plant_Healroot.label>helande rötter</Plant_Healroot.label>
+  <Plant_Healroot.label>läkerot</Plant_Healroot.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues. -->
-  <Plant_Healroot.description>En långsamt växande planta som ger örtmedicin när den skördats.\n\nHelande rötter har selektivt blivit uppfödd av århundraden av bosättare. Den har ibland också kallas "helarens hand" av stamfolk - ett smeknamn som syftar till dess fem stora medicinska dygder.</Plant_Healroot.description>
+  <Plant_Healroot.description>En långsamt växande planta som ger örtmedicin när den skördats. Att så och skörda läkerötter är båda tidskrävande pågrund av dess sköra skott.\n\nLäkerötter är selektivt framodlade genom århundraden av bosättare. Den har ibland även kallats "helarens hand" av stamfolk - ett smeknamn som syftar till dess fem stora medicinska förmågor.</Plant_Healroot.description>
   
   <!-- EN: hop plant -->
   <Plant_Hops.label>humleplanta</Plant_Hops.label>
@@ -34,31 +34,31 @@
   <!-- EN: potato plant -->
   <Plant_Potato.label>potatisplanta</Plant_Potato.label>
   <!-- EN: A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil. -->
-  <Plant_Potato.description>En enkel, mycket näringsrik knöl. Växer bra även i lite dålig jord. Skördar snabbt. En stark, mångsidig gröda.</Plant_Potato.description>
+  <Plant_Potato.description>En mycket näringsrik knöl. Potatis växer bra även i dålig jord, och får en läcker krispig yta när den friteras i olja.</Plant_Potato.description>
   
   <!-- EN: psychoid plant -->
   <Plant_Psychoid.label>psychitplanta</Plant_Psychoid.label>
   <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
-  <Plant_Psychoid.description>En lummig planta. Löven kan förädlas till olika former av psychitdroger.</Plant_Psychoid.description>
+  <Plant_Psychoid.description>En lövplanta som genererar den kemiska föreningen psychite. Från början evolverad som en försvarsmekanism för att hålla växtätande djur borta genom att göra dem överstimulerade och illamående, drogen psychit kan extraheras och förädlas till olika former för rekreationssyften. Det är beroendeframkallande.</Plant_Psychoid.description>
   
   <!-- EN: rice plant -->
   <Plant_Rice.label>risplanta</Plant_Rice.label>
   <!-- EN: A short, fast-growing crop that yields small edible grains. Its great nutritional ouput and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil. -->
-  <Plant_Rice.description>En låg kornväxt som trivs i bördig jord och ger mat snabbt, men är inte trevligt att äta rå.</Plant_Rice.description>
+  <Plant_Rice.description>En låg och snabbt växande gröda som ger små ätbara korn. Dess höga näringsinehåll tillsammans med att den ar lätt att kultivera har gjort den till en ekonomisk kärna i många stora civilisationer. Även om ris växer väldigt snabbt är det känsligt gällande jordmån och kommer inte göra bra ifrån sig i dålig jord.</Plant_Rice.description>
   
   <!-- EN: smokeleaf plant -->
   <Plant_Smokeleaf.label>rökbladsplanta</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf.description>En lövrik växt som odlas för sina psykologiska effekter. Rökbladslöven kan rulla till en cigarr vid en tillverkningsplats.</Plant_Smokeleaf.description>
+  <Plant_Smokeleaf.description>En lövrik växt som odlas för lövens kemikalier som har psykologiska effekter. Rökbladslöven kan rullas till en joint vid en tillverkningsplats. Rökblad gör att användaren känner sig avslappnad men minskar även motivationen, kan även vara beroendeframkallande.</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
-  <Plant_Strawberry.label>jordubbsplanta</Plant_Strawberry.label>
+  <Plant_Strawberry.label>jordgubbsplanta</Plant_Strawberry.label>
   <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
-  <Plant_Strawberry.description>En bräcklig men välsmakande frukt. Läcker även rå.</Plant_Strawberry.description>
+  <Plant_Strawberry.description>En låg busklik planda som ger sköra men smarriga jordgubbar. Även om de inte är så produktiva kalori för kalori som andra grödor är jordgubbar utsökta även när de är råa.</Plant_Strawberry.description>
   
   <!-- EN: cocoa tree -->
-  <Plant_TreeCocoa.label>TODO</Plant_TreeCocoa.label>
+  <Plant_TreeCocoa.label>kakaoträd</Plant_TreeCocoa.label>
   <!-- EN: A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. -->
-  <Plant_TreeCocoa.description>TODO</Plant_TreeCocoa.description>
+  <Plant_TreeCocoa.description>Ett tropiskt träd som producerar choklad, genetiskt framtaget för att söta sin egen produkt och överleva i något mindre varmare klimat.</Plant_TreeCocoa.description>
   
 </LanguageData>

@@ -1,102 +1,102 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>arkotekarm</ArchotechArm.label>
   <!-- EN: fist -->
   <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>en arkotek-arm</ArchotechArm.labelNoun>
-  <!-- EN: archotech arm -->
-  <ArchotechArm.label>arkotek-arm</ArchotechArm.label>
+  <ArchotechArm.labelNoun>en arkotekarm</ArchotechArm.labelNoun>
   
-  <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>ett arkotek-öga</ArchotechEye.labelNoun>
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>arkotek-öga</ArchotechEye.label>
+  <ArchotechEye.label>arkoteköga</ArchotechEye.label>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>ett arkoteköga</ArchotechEye.labelNoun>
   
-  <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>ett arkotech-ben</ArchotechLeg.labelNoun>
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>arkotech-ben</ArchotechLeg.label>
+  <ArchotechLeg.label>arkotechben</ArchotechLeg.label>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>ett arkotekben</ArchotechLeg.labelNoun>
   
+  <!-- EN: bionic arm -->
+  <BionicArm.label>bionisk arm</BionicArm.label>
   <!-- EN: fist -->
   <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
   <BionicArm.labelNoun>en bionisk arm</BionicArm.labelNoun>
-  <!-- EN: bionic arm -->
-  <BionicArm.label>bionisk arm</BionicArm.label>
   
-  <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>ett bioniskt öra</BionicEar.labelNoun>
   <!-- EN: bionic ear -->
   <BionicEar.label>bioniskt öra</BionicEar.label>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>ett bioniskt öra</BionicEar.labelNoun>
   
-  <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>ett bioniskt öga</BionicEye.labelNoun>
   <!-- EN: bionic eye -->
   <BionicEye.label>bioniskt öga</BionicEye.label>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>ett bioniskt öga</BionicEye.labelNoun>
   
-  <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>ett bioniskt hjärta</BionicHeart.labelNoun>
   <!-- EN: bionic heart -->
   <BionicHeart.label>bioniskt hjärta</BionicHeart.label>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>ett bioniskt hjärta</BionicHeart.labelNoun>
   
-  <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>ett bioniskt ben</BionicLeg.labelNoun>
   <!-- EN: bionic leg -->
   <BionicLeg.label>bioniskt ben</BionicLeg.label>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>ett bioniskt ben</BionicLeg.labelNoun>
   
-  <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>en bioniskt ryggrad</BionicSpine.labelNoun>
   <!-- EN: bionic spine -->
-  <BionicSpine.label>bioniskt ryggrad</BionicSpine.label>
+  <BionicSpine.label>bionisk ryggrad</BionicSpine.label>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>en bionisk ryggrad</BionicSpine.labelNoun>
   
-  <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>en bionisk mage</BionicStomach.labelNoun>
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>bionisk mage</BionicStomach.label>
+  <BionicStomach.label>bionisk magsäck</BionicStomach.label>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>en bionisk magsäck</BionicStomach.labelNoun>
   
-  <!-- EN: a cochlear implant -->
-  <CochlearImplant.labelNoun>ett hörselimplantat</CochlearImplant.labelNoun>
   <!-- EN: cochlear implant -->
   <CochlearImplant.label>hörselimplantat</CochlearImplant.label>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>ett hörselimplantat</CochlearImplant.labelNoun>
   
-  <!-- EN: a denture -->
-  <Denture.labelNoun>en tandprotes</Denture.labelNoun>
   <!-- EN: denture -->
   <Denture.label>tandprotes</Denture.label>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>en tandprotes</Denture.labelNoun>
   
-  <!-- EN: a peg leg -->
-  <PegLeg.labelNoun>ett träben</PegLeg.labelNoun>
   <!-- EN: peg leg -->
   <PegLeg.label>träben</PegLeg.label>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>ett träben</PegLeg.labelNoun>
   
+  <!-- EN: power claw -->
+  <PowerClaw.label>kraftklo</PowerClaw.label>
   <!-- EN: claw -->
   <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>klo</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
   <!-- EN: a power claw -->
   <PowerClaw.labelNoun>en kraftklo</PowerClaw.labelNoun>
-  <!-- EN: power claw -->
-  <PowerClaw.label>kraftklo</PowerClaw.label>
   
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>armprotes</SimpleProstheticArm.label>
   <!-- EN: fist -->
   <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>näve</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a prosthetic arm -->
-  <SimpleProstheticArm.labelNoun>en enkel armprotes</SimpleProstheticArm.labelNoun>
-  <!-- EN: prosthetic arm -->
-  <SimpleProstheticArm.label>enkel armprotes</SimpleProstheticArm.label>
+  <SimpleProstheticArm.labelNoun>en armprotes</SimpleProstheticArm.labelNoun>
   
-  <!-- EN: a prosthetic heart -->
-  <SimpleProstheticHeart.labelNoun>en enkel hjärtprotes</SimpleProstheticHeart.labelNoun>
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>enkel hjärtprotes</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>hjärtprotes</SimpleProstheticHeart.label>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>en hjärtprotes</SimpleProstheticHeart.labelNoun>
   
-  <!-- EN: a prosthetic leg -->
-  <SimpleProstheticLeg.labelNoun>en enkel benprotes</SimpleProstheticLeg.labelNoun>
   <!-- EN: prosthetic leg -->
-  <SimpleProstheticLeg.label>enkel benprotes</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.label> benprotes</SimpleProstheticLeg.label>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>en benprotes</SimpleProstheticLeg.labelNoun>
   
-  <!-- EN: a wooden foot -->
-  <WoodenFoot.labelNoun>en träfot</WoodenFoot.labelNoun>
   <!-- EN: wooden foot -->
   <WoodenFoot.label>träfot</WoodenFoot.label>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>en träfot</WoodenFoot.labelNoun>
   
 </LanguageData>

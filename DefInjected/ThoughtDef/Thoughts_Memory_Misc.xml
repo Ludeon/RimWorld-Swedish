@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: ate without table -->
@@ -6,42 +6,30 @@
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>Jag var tvungen att äta en måltid på marken. Kan vi inte få ett bord hit?</AteWithoutTable.stages.ate_without_table.description>
   
-  <!-- UNUSED -->
-  <BondedAnimalAbandoned.stages.0.label>bundet djur {0} övergivet</BondedAnimalAbandoned.stages.0.label>
-  <BondedAnimalAbandoned.stages.0.description>Min bundna djur övergavs i mitten av ingenstans !</BondedAnimalAbandoned.stages.0.description>
-  
   <!-- EN: bonded animal {0} banished -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.label>TODO</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>kärt djur {0} förvisat </BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.description>TODO</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>Mitt kära djur förvisades!</BondedAnimalBanished.stages.bonded_animal_banished.description>
   
   <!-- EN: I butchered humanlike -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>Jag slaktade en människa</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered someone up like an animal. -->
-  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Jag slaktade någon upp som ett djur.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Jag slaktade någon som ett djur.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
   <!-- EN: catharsis -->
-  <Catharsis.stages.catharsis.label>rening</Catharsis.stages.catharsis.label>
+  <Catharsis.stages.catharsis.label>katharsis</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
   <Catharsis.stages.catharsis.description>Det kändes bra att äntligen visa mina känslor.</Catharsis.stages.catharsis.description>
   
-  <!-- UNUSED -->
-  <ColonistAbandoned.stages.0.label>kolonist övergiven</ColonistAbandoned.stages.0.label>
-  <ColonistAbandoned.stages.0.description>Vi har just lämnat någon kvar. Jag hoppas att de kommer att klara sig, men jag är orolig.</ColonistAbandoned.stages.0.description>
-  
-  <!-- UNUSED -->
-  <ColonistAbandonedToDie.stages.0.label>kolonist lämnad att dö</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>Vi lämnade någon kvar på ett sådant sätt att det nästan inte finns något sätt för dom att överleva.</ColonistAbandonedToDie.stages.0.description>
-  
   <!-- EN: colonist banished -->
-  <ColonistBanished.stages.colonist_banished.label>TODO</ColonistBanished.stages.colonist_banished.label>
+  <ColonistBanished.stages.colonist_banished.label>kolonist förvisad</ColonistBanished.stages.colonist_banished.label>
   <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
-  <ColonistBanished.stages.colonist_banished.description>TODO</ColonistBanished.stages.colonist_banished.description>
+  <ColonistBanished.stages.colonist_banished.description>Vi förvisade en person. Jag hoppas de klarar sig men jag är orolig.</ColonistBanished.stages.colonist_banished.description>
   
   <!-- EN: colonist banished to death -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>förvisad kolonist till döds</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>i förvisade en kolonist i sådana förhållanden att hen mest sannolikt kommer dö</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
   
   <!-- EN: defeated hostile leader {0} -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>besegrade fientliga ledare {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
@@ -49,20 +37,12 @@
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>De ledde arbetet med att förstöra oss, och jag tog ner dom!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
   
   <!-- EN: defeated hostile leader -->
-  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
-  
-  <!-- UNUSED -->
-  <DefeatedMajorEnemy.stages.0.label>besegrade {0}</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>Jag tog ner ett stort hot! Jag är en hjälte!</DefeatedMajorEnemy.stages.0.description>
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>besegrade fientlig ledare</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
   <!-- EN: failed to rescue {0} -->
-  <FailedToRescueRelative.stages.failed_to_rescue.label>TODO</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <FailedToRescueRelative.stages.failed_to_rescue.label>misslyckades med att rädda</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
-  <FailedToRescueRelative.stages.failed_to_rescue.description>TODO</FailedToRescueRelative.stages.failed_to_rescue.description>
-  
-  <!-- UNUSED -->
-  <GreenThumbHappy.stages.0.label>sådde en växt</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>Vad världen behöver är fler växter!</GreenThumbHappy.stages.0.description>
+  <FailedToRescueRelative.stages.failed_to_rescue.description>Vi hade en chans att rädda en av mina släktingar men misslyckades. Jag kände ha hjälpt till!</FailedToRescueRelative.stages.failed_to_rescue.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>dödat någon</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -95,53 +75,49 @@
   <KnowPrisonerSold.stages.a_prisoner_was_sold.description>Denna koloni sålde en fånge till slaveri. Det är en oroande tanke.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
   
   <!-- EN: my organ harvested -->
-  <MyOrganHarvested.stages.my_organ_harvested.label>mina organ skördas</MyOrganHarvested.stages.my_organ_harvested.label>
+  <MyOrganHarvested.stages.my_organ_harvested.label>mina organ skördades</MyOrganHarvested.stages.my_organ_harvested.label>
   <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
   <MyOrganHarvested.stages.my_organ_harvested.description>Koloni skördade kroppsdelar från mig! De bryter ner mig som en gammal motor!</MyOrganHarvested.stages.my_organ_harvested.description>
   
   <!-- EN: initial hope -->
-  <NewColonyHope.stages.initial_hope.label>ny koloni hopp</NewColonyHope.stages.initial_hope.label>
+  <NewColonyHope.stages.initial_hope.label>initialt hopp</NewColonyHope.stages.initial_hope.label>
   <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
   <NewColonyHope.stages.initial_hope.description>Jag börjar vänja mig vid detta, men det är fortfarande en spännande ny situation. Jag hoppas att allt fungerar ...</NewColonyHope.stages.initial_hope.description>
   
   <!-- EN: initial optimism -->
-  <NewColonyOptimism.stages.initial_optimism.label>ny koloni optimism</NewColonyOptimism.stages.initial_optimism.label>
+  <NewColonyOptimism.stages.initial_optimism.label>initial optimism</NewColonyOptimism.stages.initial_optimism.label>
   <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
   <NewColonyOptimism.stages.initial_optimism.description>Vi landade precis här. Det är en tuff situation, men det är spännande att grunda en ny koloni.</NewColonyOptimism.stages.initial_optimism.description>
   
   <!-- EN: nuzzled -->
-  <Nuzzled.stages.nuzzled.label>kramad</Nuzzled.stages.nuzzled.label>
+  <Nuzzled.stages.nuzzled.label>nosgosad</Nuzzled.stages.nuzzled.label>
   <!-- EN: A cute animal nuzzled me. -->
-  <Nuzzled.stages.nuzzled.description>Ett sött djur kramade mig.</Nuzzled.stages.nuzzled.description>
+  <Nuzzled.stages.nuzzled.description>Ett sött djur nosgosade mig.</Nuzzled.stages.nuzzled.description>
   
   <!-- EN: observed corpse -->
   <ObservedLayingCorpse.stages.observed_corpse.label>såg död kropp</ObservedLayingCorpse.stages.observed_corpse.label>
   <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
-  <ObservedLayingCorpse.stages.observed_corpse.description>Jag såg en död kropp ligger på marken. Det var oroande.</ObservedLayingCorpse.stages.observed_corpse.description>
+  <ObservedLayingCorpse.stages.observed_corpse.description>Jag såg en död kropp som ligger på marken. Det var obehagligt.</ObservedLayingCorpse.stages.observed_corpse.description>
   
   <!-- EN: observed rotting corpse -->
-  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>såg ruttnande kropp</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>såg ruttnande lik</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
-  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Jag såg en ruttnande lik ligger på marken. Det var äckligt.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
-  
-  <!-- UNUSED -->
-  <PrisonerAbandonedToDie.stages.0.label>fånge lämnad att dö</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>Vi lämnade en fånge kvar på ett sådant sätt att det nästan inte finns något sätt för dom att överleva.</PrisonerAbandonedToDie.stages.0.description>
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Jag såg ett ruttnande lik som ligger på marken. Det var äckligt.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
   
   <!-- EN: prisoner banished to death -->
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>fånge förvisad till döds</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Vi förvisade en fånge i sådana förhållanden att hen mest sannolikt kommer dö.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
   
   <!-- EN: rescued -->
-  <Rescued.stages.rescued.label>TODO</Rescued.stages.rescued.label>
+  <Rescued.stages.rescued.label>räddad</Rescued.stages.rescued.label>
   <!-- EN: I was rescued! I almost thought I was done for back there. I'm so thankful. -->
-  <Rescued.stages.rescued.description>TODO</Rescued.stages.rescued.description>
+  <Rescued.stages.rescued.description>Jag blev räddad! Trodde nästan allt var över. Jag är så tacksam.</Rescued.stages.rescued.description>
   
   <!-- EN: rescued {0} -->
-  <RescuedRelative.stages.rescued.label>TODO</RescuedRelative.stages.rescued.label>
+  <RescuedRelative.stages.rescued.label>räddade {0}</RescuedRelative.stages.rescued.label>
   <!-- EN: We rescued one of my relatives. Finally, I can breathe a sigh of relief. -->
-  <RescuedRelative.stages.rescued.description>TODO</RescuedRelative.stages.rescued.description>
+  <RescuedRelative.stages.rescued.description>Vi räddade en av mina släktingar, äntligen kan jag andas ut.</RescuedRelative.stages.rescued.description>
   
   <!-- EN: disturbed sleep -->
   <SleepDisturbed.stages.disturbed_sleep.label>störd sömn</SleepDisturbed.stages.disturbed_sleep.label>
@@ -169,9 +145,9 @@
   <SleptOutside.stages.slept_outside.description>Jag var tvungen att sova utomhus utan skydd mot väder och vind.</SleptOutside.stages.slept_outside.description>
   
   <!-- EN: soaking wet -->
-  <SoakingWet.stages.soaking_wet.label>TODO</SoakingWet.stages.soaking_wet.label>
+  <SoakingWet.stages.soaking_wet.label>genomblöt</SoakingWet.stages.soaking_wet.label>
   <!-- EN: I'm soaking wet. -->
-  <SoakingWet.stages.soaking_wet.description>TODO</SoakingWet.stages.soaking_wet.description>
+  <SoakingWet.stages.soaking_wet.description>Jag är genomblöt.</SoakingWet.stages.soaking_wet.description>
   
   <!-- EN: was imprisoned -->
   <WasImprisoned.stages.was_imprisoned.label>fängslades</WasImprisoned.stages.was_imprisoned.label>
@@ -186,7 +162,7 @@
   <!-- EN: witnessed death with bloodlust -->
   <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>bevittnat död med blodtörst</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
   <!-- EN: I saw someone die! That was intense! -->
-  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Jag såg någon dö! Det var intensiv!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Jag såg någon dö! Det var intensivt!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
   
   <!-- EN: witnessed family member's death -->
   <WitnessedDeathFamily.stages.witnessed_family_members_death.label>såg familjemedlem död</WitnessedDeathFamily.stages.witnessed_family_members_death.label>

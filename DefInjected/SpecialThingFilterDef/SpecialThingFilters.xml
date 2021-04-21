@@ -1,30 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>tillåt kolonisters kroppar</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
-  <AllowCorpsesColonist.description>Tillåt döda före detta kolonister.</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.description>Tillåt döda kroppar av kolonister.</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
   <AllowCorpsesStranger.label>tillåt främlingars kroppar</AllowCorpsesStranger.label>
   <!-- EN: Allow the dead bodies of strangers and enemies. -->
-  <AllowCorpsesStranger.description>Tillåt döda före detta främlingar och fiender.</AllowCorpsesStranger.description>
+  <AllowCorpsesStranger.description>Tillåt döda kroppar av främlingar och fiender.</AllowCorpsesStranger.description>
   
   <!-- EN: allow tainted apparel -->
-  <AllowDeadmansApparel.label>TODO</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.label>tillåt nedfläckade kläder</AllowDeadmansApparel.label>
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowDeadmansApparel.description>TODO</AllowDeadmansApparel.description>
+  <AllowDeadmansApparel.description>Tillåt kläder som varit använda av ett lik. De flesta människor tycker att likfläckade kläder är besvärande handlare kommer inte acceptera befläckade kläder.</AllowDeadmansApparel.description>
   
   <!-- EN: allow fresh -->
-  <AllowFresh.label>TODO</AllowFresh.label>
+  <AllowFresh.label>tillåt färskt</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
-  <AllowFresh.description>TODO</AllowFresh.description>
+  <AllowFresh.description>Tillåt organiska saker som inte börjat ruttna än.</AllowFresh.description>
   
   <!-- EN: allow clean apparel -->
-  <AllowNonDeadmansApparel.label>tillåt icke-dödmans kläder</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.label>tillåt rena kläder</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowNonDeadmansApparel.description>TODO</AllowNonDeadmansApparel.description>
+  <AllowNonDeadmansApparel.description>Tillåt kläder som aldrig varit använnt av ett lik.  De flesta människor tycker att likfläckade kläder är besvärande coh handlare kommer inte acceptera befläckade kläder. </AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableWeapons.label>tillåt ej smältbara</AllowNonSmeltableWeapons.label>
@@ -35,7 +35,7 @@
   <AllowPlantFood.description>Tillåt föda som är av samma typ som icke skördade växter, som hö.</AllowPlantFood.description>
   
   <!-- EN: allow rotten -->
-  <AllowRotten.label>tillåt förruttnade saker</AllowRotten.label>
+  <AllowRotten.label>tillåt förruttnat</AllowRotten.label>
   <!-- EN: Allow organic things which have started to rot. -->
   <AllowRotten.description>Tillåt organiska saker som har börjat ruttna.</AllowRotten.description>
   

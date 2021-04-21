@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Mad {ANIMAL_labelShort} -->
+  <LetterLabelAnimalInsanitySingle>Galen {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
+  <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
+  <AnimalInsanitySingle>En lokal {ANIMAL_label} har blivit galen. Den kommer att attackera alla den ser.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanitySingle>Galet djur</LetterLabelAnimalInsanitySingle>
-  <!-- EN: A local {0} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>En lokal {0} har blivit galen. Den kommer att attackera alla den ser.</AnimalInsanitySingle>
-  <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanityMultiple>Galna djur!</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>Galen {0}</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>Någon sorts psykisk våg har svept över landskapet. Dina kolonister klarade sig, men...\n\nDet verkar som att alla djur av dessa arter: {0} i området har blivit galna.</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Någon sorts psykisk våg har svept över landskapet. Dina kolonister klarade sig, men...\n\nDet verkar som att många {0} i området har blivit galna.</AnimalInsanityMultiple>
 
   <!-- EN: Blight -->
-  <LetterLabelCropBlight>Förödelse</LetterLabelCropBlight>
+  <LetterLabelCropBlight>Mjöldagg</LetterLabelCropBlight>
   <!-- EN: A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads. -->
-  <LetterCropBlight>En kolonist har märkt rost på dina grödor! Du bör skära eller bränna de påverkade växterna innan förödelsen sprider sig.</LetterCropBlight>
+  <LetterCropBlight>En kolonist har upptäckt mjöldagg på dina grödor! Du bör skära ned eller bränna de påverkade växterna innan mjöldaggen sprider sig.</LetterCropBlight>
 
   <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>Mirakel</LetterLabelMiracleHeal>
@@ -21,167 +21,156 @@
   <MiracleHeal>{0} upplevde en mirakulös återhämtning!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <!-- EN: One of the {0} - {1}, is the leader of the faction. -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
   <EnemyRaidLeaderPresent>En av {0} - {1} är fraktionens ledare.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <!-- EN: One of the {0} - {1}, is the leader of the faction. -->
-  <FriendlyRaidLeaderPresent>En av {0} - {1} är fraktionens ledare.</FriendlyRaidLeaderPresent>
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <FriendlyRaidLeaderPresent>En av {LEADER_factionPawnsPlural} - {LEADER_labelShort} är fraktionens ledare.</FriendlyRaidLeaderPresent>
 
-  <!-- EN: Escape pod -->
-  <LetterLabelRefugeePodCrash>Flyktkapsel</LetterLabelRefugeePodCrash>
-  <!-- EN: A [PAWN_title] named [PAWN_nameDef] is crashing in an escape pod nearby. If [PAWN_pronoun] survives the impact, [PAWN_pronoun] will be badly wounded. -->
-  <RefugeePodCrash>En [PAWN_title] med namnet [PAWN_nameDef] kraschar i en flyktkapsel i närheten. Om [PAWN_pronoun] överlever nedslaget, kommer [PAWN_pronoun] att bli skadad.</RefugeePodCrash>
-  <!-- EN: You can rescue [PAWN_objective] and send [PAWN_objective] on [PAWN_possessive] way. Or, capture [PAWN_objective] for recruitment or slavery purposes. -->
-  <RefugeePodCrash_NonHostileOrFactionless>Du kan rädda [PAWN_objective] och skicka [PAWN_objective] på [PAWN_possessive] väg. Eller fånga [PAWN_objective] för rekrytering eller slaveri.</RefugeePodCrash_NonHostileOrFactionless>
-  <!-- EN: You can capture [PAWN_objective] for recruitment or slavery purposes. [PAWN_pronoun] is from [PAWN_factionName]. -->
-  <RefugeePodCrash_Hostile>Du kan fånga [PAWN_objective] för rekrytering eller slaveri. [PAWN_pronoun] är från [PAWN_factionName].</RefugeePodCrash_Hostile>
-  <!-- EN: Note: [PAWN_nameDef] is from [PAWN_factionName]. Capturing [PAWN_objective] will anger them, while rescuing and healing [PAWN_objective] will improve faction relations. -->
-  <RefugeePodCrash_NonHostile>[PAWN_nameDef] är från [PAWN_factionName]. Att fånga [PAWN_objective] kommer att förarga dem, medans att rädda och läka [PAWN_objective] kommer att förbättra fraktions förhållande.</RefugeePodCrash_NonHostile>
+  <!-- EN: Transport pod crash -->
+  <LetterLabelRefugeePodCrash>Kraschad transportkapsel</LetterLabelRefugeePodCrash>
+  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
+  <RefugeePodCrash>{PAWN_titleIndef} med namnet {PAWN_nameDef} har kraschat med en transportkapsel i närheten. Om {PAWN_pronoun} överlever nedslaget kommer {PAWN_pronoun} vara svårt skadad.</RefugeePodCrash>
+  <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} är inte ansluten till någon fraktion. Du kan rädda {PAWN_objective} och hoppas på att {PAWN_pronoun} ansluter frivilligt, eller tillfångata {PAWN_objective} för rekrytering eller slaveri. </RefugeePodCrash_Factionless>
+  <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} tillhör din fiende {PAWN_factionName}. Du kan fånga {PAWN_objective} för rekrytering eller slaveri.</RefugeePodCrash_Hostile>
+  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} är från {PAWN_factionName}. Om du räddar {PAWN_objective} kan {PAWN_pronoun} eventuellt ansluta frivilligt. I annat fall kommer {PAWN_pronoun} återvända hem och höja förtroendet mellan fraktionerna.\n\n Du kan även tillfångata {PAWN_pronoun}för rekrytering eller slaveri, men detta kommer förarga {PAWN_possessive} fraktion.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Cargo pods -->
-  <LetterLabelCargoPodCrash>Fraktkapslar</LetterLabelCargoPodCrash>
+  <LetterLabelCargoPodCrash>Lastkapslar</LetterLabelCargoPodCrash>
   <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
-  <CargoPodCrash>Du har upptäck ett kluster av lastkapslar som krashade intill.\n\nDu kanske hittar något användbart bland vraken.</CargoPodCrash>
+  <CargoPodCrash>Du har upptäck ett kluster av lastkapslar som krashat i närheten.\n\nDu kanske hittar något användbart bland spillrorna.</CargoPodCrash>
 
   <!-- EN: an electrical conduit -->
   <AnElectricalConduit>en elektrisk ledning</AnElectricalConduit>
   <!-- EN: A fault in {0} has caused a short circuit. -->
-  <ShortCircuit>Ett fel i {0} har orsakat en kortslutning.\n\nAlla {1} Wd av energi i anslutna batterin har urladdats i en elektrisk explosion.</ShortCircuit>
+  <ShortCircuit>Ett fel i {0} har orsakat en kortslutning.</ShortCircuit>
   <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
   <ShortCircuitStartedFire>Ett fel i {0} har orsakat en kortslutning som startade en brand.</ShortCircuitStartedFire>
   <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
-  <ShortCircuitDischargedEnergy>All {0} Wd energi i de anslutna batterierna har tömts i en elektrisk explosion.</ShortCircuitDischargedEnergy>
+  <ShortCircuitDischargedEnergy>All {0} Wd energi i de anslutna batterierna har laddats ur i en elektrisk explosion.</ShortCircuitDischargedEnergy>
   <!-- EN: This large amount of power has created an explosion of considerable size. -->
-  <ShortCircuitWasLarge>Denna mängd ström har skapat en avsevärt stor explosion.</ShortCircuitWasLarge>
+  <ShortCircuitWasLarge>Denna  stora mängd ström har skapat en stor explosion.</ShortCircuitWasLarge>
   <!-- EN: That really is a huge explosion. Wow. -->
   <ShortCircuitWasHuge>Det där är verkligen en stor explosion. Wow.</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}. -->
   <TraderArrival>Ett handelsskepp passerar i närheten.\n\nDe är kända som {0}. De är en {1}.</TraderArrival>
 
-  <!-- EN: A {0} from {1} is passing by. [PAWN_pronoun] is named {2}. -->
-  <SingleTravelerPassing>En {0} från {1} passerar i närheten. [PAWN_pronoun] heter {2}.</SingleTravelerPassing>
+  <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
+  <SingleTravelerPassing>En {PAWN_title} från {1} passerar i närheten. {PAWN_pronoun} heter {PAWN_nameFull}.</SingleTravelerPassing>
   <!-- EN: A group of travelers from {0} are passing by. -->
   <GroupTravelersPassing>En grupp resenärer från {0} passerar i närheten.</GroupTravelersPassing>
 
   <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>Besökare</LetterLabelSingleVisitorArrives>
-  <!-- EN: A {0} from {1} is visiting the colony.\n\n[PAWN_pronoun] is named {2}.{3}{4} -->
-  <SingleVisitorArrives>En {0} från {1} är på besök i kolonin.\n\n[PAWN_pronoun] heter {2}.</SingleVisitorArrives>
-  <!-- EN: \n\n[PAWN_pronoun] seems to have a few items to trade. -->
-  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] verkar att ha några föremål att byta.</SingleVisitorArrivesTraderInfo>
-  <!-- EN: \n\n[PAWN_pronoun] is the leader of the faction. -->
-  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] Är fraktionens ledare.</SingleVisitorArrivesLeaderInfo>
+  <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
+  <SingleVisitorArrives>En {PAWN_titleIndef} från {1} är på besök i kolonin.\n\n{PAWN_pronoun} heter {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
+  <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
+  <SingleVisitorArrivesTraderInfo>{PAWN_pronoun} verkar att ha några föremål att sälja.</SingleVisitorArrivesTraderInfo>
+  <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} Är fraktionens ledare.</SingleVisitorArrivesLeaderInfo>
   <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>Besökare</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
-  <GroupVisitorsArrive>En grupp från {0} är på besök i kolonin.</GroupVisitorsArrive>
-  <!-- EN: \n\nThey seem to have a few items to trade. -->
-  <GroupVisitorsArriveTraderInfo>\n\nDom verkar att ha några föremål att byta.</GroupVisitorsArriveTraderInfo>
-  <!-- EN: \n\nOne of the visitors - {0}, is the leader of the faction. -->
-  <GroupVisitorsArriveLeaderInfo>\n\nEn av besökarna - {0}, Är fraktionens ledare.</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArrive>En grupp från {0} är på besök i kolonin.{1}{2}</GroupVisitorsArrive>
+  <!-- EN: They seem to have a few items to trade. -->
+  <GroupVisitorsArriveTraderInfo>De verkar att ha några föremål att sälja.</GroupVisitorsArriveTraderInfo>
+  <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
+  <GroupVisitorsArriveLeaderInfo>En av besökarna - {1_labelShort} är fraktionens ledare.</GroupVisitorsArriveLeaderInfo>
   <!-- EN: Visitors from {0} are leaving. -->
-  <VisitorsLeaving>Besökare från {0} lämnar.</VisitorsLeaving>
-
-  <!-- EN: Wanderer joins -->
-  <LetterLabelWandererJoin>Vandrare ansluter</LetterLabelWandererJoin>
-  <!-- EN: A {0} named [PAWN_nameDef] has arrived and is joining the colony. [PAWN_pronoun] is a {1}.\n\nIf you don't want [PAWN_nameDef], you can banish [PAWN_objective], sell [PAWN_objective] into slavery, or simply kill [PAWN_objective]. However, your other colonists may find this disturbing. -->
-  <WandererJoin>En {0} som heter [PAWN_nameDef] har anlätt och ansluter sig till din koloni. [PAWN_pronoun] är en {1}.</WandererJoin>
+  <VisitorsLeaving>Besökare från {0} beger sig av.</VisitorsLeaving>
 
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>Människojagande flock</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>En flock människojagande {0} har siktas i området. Dom kommer att stanna i områded och jaga människor.\n\nDom kommer inte att passera igenom dörrar, så om ni stannar innomhus är ni säkra. Dom kommer intr att attackera inaktiva kulsprutetorn, så se till att stäng av dessa om du vill rädda dom.\n\nDom kommer att lämna området om några dagar.</ManhunterPackArrived>
+  <ManhunterPackArrived>En flock människojagande {0} har siktas i området. De kommer att stanna i området och jaga människor.\n\nDe kommer inte attackera dörrar, om inte någon går igenom den. Om ni gömmer er innomhus är ni säkra. De kommer inte heller att attackera inaktiva kanontorn, så se till att stäng av dessa för att spara dem.\n\n{0} kommer att lämna området om några dagar. Du kan gömma dig och vänta ut dem, eller fightas.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
   <MessageAnimalInsanityPulse>Den antika strukturen har avgett en psykisk puls som har drivit djur i närheten till galenskap.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
-  <LetterShipPartDroveColonistInsane>Den krashade skeppsdelen har avgett en fokuserad psykisk puls som har drivit kolonisten {0} galen.</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>Den krashade skeppsdelen har avgett en fokuserad psykisk puls som har gjort kolonisten {0} galen.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
-  <AwokeDaysAgo>Vaknade {0} dagar sedan</AwokeDaysAgo>
+  <AwokeDaysAgo>Vaknade för {0} dagar sedan</AwokeDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
   <PsychicDroneLevel>Psykisk drönare nivå: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Drönarens nivå ökar</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>Den krashade skeppsdelen skickar nu ut en kraftigare sorts psykisk drönare. Alla mänskliga varelser i närheten känner sig nu mer störda, skrämda, och paranoida.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Den krashade skeppsdelen skickar nu ut en kraftigare sorts psykisk puls. Alla mänskliga varelser i närheten känner sig nu mer störda, skrämda och paranoida.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
   <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
-  <LetterAgentRevealed>{0} har blivit avslöjad att vara en agent för din fiende {1}.\n\nDenna försöker nu fly.</LetterAgentRevealed>
+  <LetterAgentRevealed>{0} har avslöjats som agent för din fiende {1}.\n\nDenna försöker nu att fly.</LetterAgentRevealed>
 
   <!-- Distant psychic drone -->
   <!-- EN: Psychic drone -->
-  <LetterLabelPsychicDrone>Psykisk drönare</LetterLabelPsychicDrone>
+  <LetterLabelPsychicDrone>Psykisk puls</LetterLabelPsychicDrone>
   <!-- EN: Every colonist of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <LetterIncidentPsychicDrone>En kraftig huvudvärk genomborrar ditt huvud som en spik!\n\nEn fjärran maskin av hat har gått igång. Den projicerar en kraftig psykisk drönare över hela området. Allas humör kommer vara mycket sämre i ett par dagar.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Varje kolonist av {0} kön ryser till av smärta!\n\nEn fjärran maskin av hat har gått igång. Den projicerar en kraftig psykisk puls över hela området på en frekvens som enbart ser ut att påverka det {0} könet. Under ett par dagar kommer vissa personers humör vara betydligt värre.\n\nPulsnivån är: {1}.</LetterIncidentPsychicDrone>
 
   <!-- EN: Psychic soothe -->
   <LetterLabelPsychicSoothe>Psykiskt lugn</LetterLabelPsychicSoothe>
   <!-- EN: Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better. -->
-  <LetterIncidentPsychicSoothe>Alla kolonister som är {0} känner sig extra belåtna!\n\nEn fjärran maskin av lycka har gått igång. Den projicerar en kraftfull psykisk drönare över hela området, på en frekvens som bara påverkar {0}. Under några dagar så kommer vissa personers ha ett något föbättrat humör.</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Varje kolonist av {0} kön ler av belåtenhet!\n\nEn fjärran maskin av glädje har gått igång. Den projicerar en kraftfull psykisk puls över hela området på en frekvens som bara påverkar det {0} könet. Under ett par dagar kommer vissa personers humör vara betydligt bättre.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->
   <LetterLabelBeaversArrived>Bävrar!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
-  <BeaversArrived>En grupp hungriga alfabävrar har blivit siktade i området.\n\nFörsök eliminra som innan dom äter upp alla träden i regionen.</BeaversArrived>
+  <BeaversArrived>En grupp hungriga alfabävrar har precis anlänt.\n\nFörsök eliminra dem innan dom äter upp varje spår av trä i regionen.</BeaversArrived>
   
   <!-- Refugee chased -->
   <!-- EN: Refugee chased at {0} -->
   <RefugeeChasedTitle>Flykting jagad av {0}</RefugeeChasedTitle>
-  <!-- EN: A [PAWN_title] named [PAWN_nameDef] calls you from nearby. [PAWN_pronoun] is being chased by {2} from {3}!\n\n[PAWN_pronoun] begs for safety and offers to join your colony. [PAWN_pronoun] tells you [PAWN_pronoun] is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on [PAWN_possessive] tail. -->
-  <RefugeeChasedInitial>En {1} vid namn {0} anropar på hjälp. [PAWN_pronoun] bir jagad av {2} från {3}!\n\n[PAWN_pronoun] ber om säkerhet och erbjuder sig att ansluta sig till er koloni. Biologiskt är [PAWN_pronoun] {4} år gammal.\n\nVarning - Om ni accepterar kommer ni får strida mot {2} som är hack i häl på [PAWN_objective].</RefugeeChasedInitial>
+  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} calls you from nearby. {PAWN_pronoun} is being chased by {2} from {3}!\n\n{PAWN_pronoun} begs for safety and offers to join your colony. {PAWN_pronoun} tells you {PAWN_pronoun} is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on {PAWN_possessive} tail. Their group is composed of:\n\n{5} -->
+  <RefugeeChasedInitial>{PAWN_titleIndef} vid namn {PAWN_nameDef} anropar från kort avstånd. {PAWN_pronoun} är jagad av {2} från {3}!\n\n{PAWN_pronoun} ber om säkerhet och erbjuder sig att ansluta sig till din koloni. {PAWN_pronoun}berättar att {PAWN_pronoun} är {4} år gammal, men det finns ingen tid att få reda på mer information.\n\nVarning - Om du accepterar kommer du behöva strida mot de {2} som är hack i häl på {PAWN_objective}. Deras grupp består av:\n\n{5}</RefugeeChasedInitial>
   <!-- EN: Offer safety -->
   <RefugeeChasedInitial_Accept>Erbjud säkerhet</RefugeeChasedInitial_Accept>
   <!-- EN: Ignore the message -->
-  <RefugeeChasedInitial_Reject>Strunta i meddelandet</RefugeeChasedInitial_Reject>
-  <!-- EN: {0} screams in panic through the tinny speaker before you cut off the transmission. -->
-  <RefugeeChasedRejected>{0} skriker i panik genom den metalliska högtalaren innan du stänger av sändningen.</RefugeeChasedRejected>
+  <RefugeeChasedInitial_Reject>Ignorera meddelandet</RefugeeChasedInitial_Reject>
+  <!-- EN: {1_labelShort} screams in panic through the tinny speaker before you cut off the transmission. -->
+  <RefugeeChasedRejected>{1_labelShort} skriker i panik genom den lilla högtalaren innan du stänger av sändningen.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
-  <!-- EN: {0} self-tamed -->
-  <LetterLabelAnimalSelfTame>{0} själv tämjd</LetterLabelAnimalSelfTame>
+  <!-- EN: {1_kind} self-tamed -->
+  <LetterLabelAnimalSelfTame>{1_kind} självtämjd</LetterLabelAnimalSelfTame>
   <!-- EN: {0} has become tame. -->
   <LetterAnimalSelfTame>{0} har blivid tam.</LetterAnimalSelfTame>
-  <!-- EN: {0} has become tame. It is now designated {1}. -->
-  <LetterAnimalSelfTameAndNameNumerical>{0} har blivid tam. Den har nu fått namn {1}.</LetterAnimalSelfTameAndNameNumerical>
-  <!-- EN: {0} has become tame. Colonists have decided to name it {1}. -->
-  <LetterAnimalSelfTameAndName>{0} har blivid tam. En kolonist har bestämt att drn skall heta {1}.</LetterAnimalSelfTameAndName>
+  <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndNameNumerical>{0} har blivid tam. Den har nu fått namn {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+  <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndName>{0} har blivid tam. Kolonister har enats om att den skall heta {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <!-- EN: {0} join -->
   <LetterLabelFarmAnimalsWanderIn>{0} ansluter</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <LetterFarmAnimalsWanderIn>En grupp {0}, övergivna eller vilse, har vandrat in i området.\n\nDom verkar vara vana vid mänsklig kontakt och ansluter sig till kolonin.</LetterFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>En grupp {0}, övergivna eller vilse, har vandrat in i området.\n\nDe verkar vana vid mänsklig kontakt och ansluter sig till kolonin.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
   <!-- EN: Rare thrumbos -->
-  <LetterLabelThrumboPasses>En sällsynt flock Thrumbos</LetterLabelThrumboPasses>
+  <LetterLabelThrumboPasses>Sällsynta thrumbos</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>En mindre flock Thrumbos har vandrat in i området.\n\nTrots att dom är fredfulla djur kan dessa extremt ovanliga djur vara väldigt farliga om man konfronterar dom. Vissa handelsmän är villiga att betala mycket pengar för deras dyrbara horn och päls.\n\Flocken kommer att lämna området inom några få dagar.</LetterThrumboPasses>
+  <LetterThrumboPasses>En mindre flock Thrumbos har vandrat in i området.\n\nTrots att de är fredfulla djur kan dessa väldigt ovanliga djur vara extremt farliga om de konfronteras. Vissa handlare är villiga att betala mycket pengar för deras dyrbara horn och päls.\n\Trumbona kommer lämna området inom några dagar.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
-  <LetterLabelTraderCaravanArrival>Handelsmän från {0}</LetterLabelTraderCaravanArrival>
+  <LetterLabelTraderCaravanArrival>{1} från {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
-  <LetterTraderCaravanArrival>En handelskaravan ifrån {0} närmar sig.\n\nDom kommer att vara runt kolonin nåra dagar innan dom beger sig vidare. Ni kan attackera dom - med detta kommer förarga deras fraktion!</LetterTraderCaravanArrival>
-  
-  <!-- Building breaks down -->
-  <!-- EN: Breakdown: {0} -->
-  <LetterLabelBuildingBrokenDown>Haveri: {0}</LetterLabelBuildingBrokenDown>
-  <!-- EN: One of your machines ({0}) has broken down. It won't work until a colonist with the Construction work type goes and fixes it. -->
-  <LetterBuildingBrokenDown>En av era maskiner ({0}) har havererat. Den kommer inte att fungera förrän en kolonist har med reparationkunskap lagar den.</LetterBuildingBrokenDown>
+  <LetterTraderCaravanArrival>En karavan från {0} närmar sig.\n\nDe är en {1} och kommer att röra sig runt kolonin nåra dagar innan dom beger sig vidare. Du kan attackera dem - med detta kommer förarga deras fraktion!</LetterTraderCaravanArrival>
   
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
-  <RansomDemandTitle>Lösen begärd från {0}</RansomDemandTitle>
-  <!-- EN: {1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release [PAWN_objective] back to you in exchange for {2} silver. -->
-  <RansomDemand>{1} kontaktar er via radio. Dom håller en föredetta kolonist {0} gisslan.\n\nDom är villiga att frige [PAWN_objective] i utbyte mot {2} silver.</RansomDemand>
+  <RansomDemandTitle>Lösensumma begärd {0}</RansomDemandTitle>
+  <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
+  <RansomDemand>{1} kontaktar er via radio. De håller en föredetta kolonist {PAWN_labelShort} gisslan.\n\nDe är villiga att frige {PAWN_objective}  i utbyte mot {2} silver.</RansomDemand>
   <!-- EN: Accept -->
   <RansomDemand_Accept>Acceptera</RansomDemand_Accept>
   <!-- EN: Reject -->
@@ -189,11 +178,11 @@
   
   <!-- Journey-related -->
   <!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars. -->
-  <JourneyOffer>En vänlig AI från ditt förflutna som heter Charlon Whitestone har skickat ett meddelande!\n\nHan avslöjar att han har ett rymdskepp gömt på den här planeten och skickar dess koordinater.\n\nOm du reser till fartyget kommer Charlon ta dig utanför denna RimWorld, till stjärnorna.</JourneyOffer>
+  <JourneyOffer>En vänlig AI från ditt förflutna som heter Charlon Whitestone har skickat ett meddelande!\n\nHan avslöjar att han har ett rymdskepp gömt på den här planeten och skickar dess koordinater.\n\nSkeppet är i nuläget i ett djupt viloläge. Du kommer behöva starta det när du kommer fram och sedan försvara det från banditer som försöker att stjäla det fram tills dess att startsekvensen är färdig.\n\n Om du får skeppet från marken kommer Charlon ta dig utanför denna rimworld, till stjärnorna.</JourneyOffer>
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>Skepp hittat</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by Charlon Whitestone and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\nCharlon Whitestone warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>Du har nått koordinaterna som skickats av Charlon Whitestone och upptäckte det dolda rymdskeppet.\n\nSkeppets reaktor är fortfarande i djupt viloläge, så det kan inte flyga ännu. Du kan starta upp det genom att interagera med datorns kärna.\n\nCharlon Whitestone varnar dig för att startprocessen tar cirka 15 dagar, och energiresignaturen kan detekteras långt borta. Denna typ av energi signatur indikerar interstellär flygnings kapacitet, och kommer att locka gäng av desperata raiders och svärmar av dödliga mechanoider.\n\nDu kommer att bli angripen med en intensitet du aldrig sett. Se till att dina försvar är förberedda först.</EscapeShipFound>
+  <EscapeShipFound>Du har nått koordinaterna som skickats av Charlon Whitestone och upptäckte det dolda rymdskeppet.\n\nSkeppets reaktor är fortfarande i djupt viloläge, så det kan inte flyga ännu. Du kan starta upp det genom att interagera med datorns kärna.\n\nCharlon Whitestone varnar dig för att startprocessen tar cirka 15 dagar, och energiresignaturen kan detekteras långt borta. Denna typ av energisignatur indikerar interstellär flygkapacitet och kommer att locka till sig gäng av desperata banditer och svärmar av dödliga mechanoider.\n\nDu kommer att bli angripen med en intensitet du aldrig sett tidigare. Se till att dina försvar är förberedda först.</EscapeShipFound>
   <!-- EN: Ship destroyed -->
   <EscapeShipLostLabel>Skepp förstört</EscapeShipLostLabel>
   <!-- EN: Charlon Whitestone sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
@@ -201,9 +190,9 @@
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
-  <CaravanMeetingTitle>Karavan påträffad från {0}</CaravanMeetingTitle>
+  <CaravanMeetingTitle>Karavanmöte av {0}</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>Din karavan har mött en annan fredlig karavan från {0}. Den andra karavanen består av:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting>{0} har lugnt mött en annan karavan från {0}. Den andra karavanen består av:\n\n{1}</CaravanMeeting>
   <!-- EN: Trade -->
   <CaravanMeeting_Trade>Handla</CaravanMeeting_Trade>
   <!-- EN: Attack -->
@@ -211,23 +200,25 @@
   <!-- EN: Move on -->
   <CaravanMeeting_MoveOn>Gå vidare</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
-  <CaravanMeeting_TradeIncapable>Inga karavanmedlemmar kan handla</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_TradeIncapable>Inga karavanmedlemmar kan förhandla</CaravanMeeting_TradeIncapable>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Karavanförfrågan</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>En bosättning i närheten, {0}, kontaktar er om en handelsförfrågan. Dom skulle vilja köpa :\n\n  {1}\n\nSom betalning erbjuder dom:\n\n  {2}\n\nDen här förfrågan förfallen inom: {3}\n\nOm ni vill göra hadeln så skicka en karavan med de önskade varorna. Ni kan granska det här erbjudandet genom att välja {0} på världskartan.</LetterCaravanRequest>
-  <!-- EN: Requesting: {0}, Reward: {1} ({2} left) -->
-  <CaravanRequestInfo>Förfrågan: {0}, Belöning: {1} ({2} kvar)</CaravanRequestInfo>
+  <LetterCaravanRequest>En bosättning i närheten, {0}, kontaktar dig gällande en handelsförfrågan. De skulle vilja köpa :\n\n  {1} (värt {2})\n\nI utbyte erbjuder de:\n\n  {3} (värt{4})\n\nDen här förfrågan förfaller om: {5}\n\nOm du vill utöra hadeln, skicka en karavan med de önskade varorna. Den förväntade restiden är {6}. Du kan granska det här erbjudandet genom att välja {0} på världskartan.</LetterCaravanRequest>
+  <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
+  <CaravanRequestInfo>Förfrågan: {0} ({3}), Belöning: {1} ({4}) ({2} kvar)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>normal kvalitet eller bättre</NormalQualityOrBetter>
+  <!-- EN: not tainted -->
+  <NotTainted>ej fördärvat</NotTainted>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->
-  <CaravanDemandTitle>Krav på Karavan från {0}</CaravanDemandTitle>
+  <CaravanDemandTitle>Krav på karavan från {0}</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>Din karavan har råkat ut för ett bakhåll av en grupp av {1} {3} från {0}. Dom kommer att attackera om du inte ger dom:\n\n{2}</CaravanDemand>
+  <CaravanDemand>Din karavan har råkat ut för ett bakhåll av en grupp {2} {4} från {1}. De kommer att attackera om du inte ger dem:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
   <CaravanDemand_Give>Ge och passera</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->
@@ -237,10 +228,11 @@
   <!-- EN: Quest no longer available -->
   <LetterLabelSiteNoLongerHostile>Uppdrag inte längre tillgänglig</LetterLabelSiteNoLongerHostile>
   <!-- EN: Quests no longer available -->
-  <LetterLabelSiteNoLongerHostileMulti>Uppdrag inte längre tillgänglig</LetterLabelSiteNoLongerHostileMulti>
+  <LetterLabelSiteNoLongerHostileMulti>Uppdragen inte längre tillgängliga</LetterLabelSiteNoLongerHostileMulti>
   <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
   <LetterSiteNoLongerHostile>Eftersom du inte längre är fientlig med {0} är platsen {1} inte längre tillgänglig.</LetterSiteNoLongerHostile>
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
   <LetterSiteNoLongerHostileMulti>Eftersom du inte längre är fientlig med {0} är följande platser inte längre tillgängliga</LetterSiteNoLongerHostileMulti>
+
 
 </LanguageData>
