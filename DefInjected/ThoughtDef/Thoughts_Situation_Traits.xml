@@ -110,35 +110,35 @@
   <!-- EN: I feel much better at night. -->
   <NightOwlDuringTheNight.stages.night_owl_at_night.description>Jag mår så mycket bättre nattetid.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
   
-  <!-- EN: transhumanist pleased -->
-  <ProsthophileHappy.stages.transhumanist_pleased.label>prostetofil nöjd</ProsthophileHappy.stages.transhumanist_pleased.label>
+  <!-- EN: body modder pleased -->
+  <ProsthophileHappy.stages.body_modder_pleased.label>kroppsmodifierare nöjd</ProsthophileHappy.stages.body_modder_pleased.label>
   <!-- EN: This artificial part is cool. I want more. -->
-  <ProsthophileHappy.stages.transhumanist_pleased.description>Denna artificiella del är cool. Jag vill ha fler.</ProsthophileHappy.stages.transhumanist_pleased.description>
-  <!-- EN: transhumanist quite pleased -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>prostetofil relativt nöjd</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
+  <ProsthophileHappy.stages.body_modder_pleased.description>Denna artificiella del är cool. Jag vill ha fler.</ProsthophileHappy.stages.body_modder_pleased.description>
+  <!-- EN: body modder quite pleased -->
+  <ProsthophileHappy.stages.body_modder_quite_pleased.label>kroppsmodifierare relativt nöjd</ProsthophileHappy.stages.body_modder_quite_pleased.label>
   <!-- EN: Two artificial parts are better than one. I wish I had more. -->
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>Två artificiella delar är bättre än en, jag önskar jag hade fler.</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
-  <!-- EN: transhumanist delighted -->
-  <ProsthophileHappy.stages.transhumanist_delighted.label>prostetofil förnöjd</ProsthophileHappy.stages.transhumanist_delighted.label>
+  <ProsthophileHappy.stages.body_modder_quite_pleased.description>Två artificiella delar är bättre än en, jag önskar jag hade fler.</ProsthophileHappy.stages.body_modder_quite_pleased.description>
+  <!-- EN: body modder delighted -->
+  <ProsthophileHappy.stages.body_modder_delighted.label>kroppsmodifierare förnöjd</ProsthophileHappy.stages.body_modder_delighted.label>
   <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
-  <ProsthophileHappy.stages.transhumanist_delighted.description>Tre artificiella delar, mitt veka människokött avtar, men jag vill ha mer maskinstyrka</ProsthophileHappy.stages.transhumanist_delighted.description>
-  <!-- EN: transhumanist enchanted -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.label>prostetofil glad</ProsthophileHappy.stages.transhumanist_enchanted.label>
+  <ProsthophileHappy.stages.body_modder_delighted.description>Tre artificiella delar, mitt veka människokött avtar, men jag vill ha mer maskinstyrka</ProsthophileHappy.stages.body_modder_delighted.description>
+  <!-- EN: body modder enchanted -->
+  <ProsthophileHappy.stages.body_modder_enchanted.label>kroppsmodifierare glad</ProsthophileHappy.stages.body_modder_enchanted.label>
   <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
-  <ProsthophileHappy.stages.transhumanist_enchanted.description>Fyra artificiella kroppsdelar, jag kommer bli mer än människa. Fast det finns fortfarande delar som behöver ersättas.</ProsthophileHappy.stages.transhumanist_enchanted.description>
-  <!-- EN: transhumanist overjoyed -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.label>prostetofil överlycklig</ProsthophileHappy.stages.transhumanist_overjoyed.label>
+  <ProsthophileHappy.stages.body_modder_enchanted.description>Fyra artificiella kroppsdelar, jag kommer bli mer än människa. Fast det finns fortfarande delar som behöver ersättas.</ProsthophileHappy.stages.body_modder_enchanted.description>
+  <!-- EN: body modder overjoyed -->
+  <ProsthophileHappy.stages.body_modder_overjoyed.label>kroppsmodifierare överlycklig</ProsthophileHappy.stages.body_modder_overjoyed.label>
   <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
-  <ProsthophileHappy.stages.transhumanist_overjoyed.description>Fem artificiella kroppsdelar! Hur kan en förtjusande varelse som jag någonsin bli ledsen?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
+  <ProsthophileHappy.stages.body_modder_overjoyed.description>Fem artificiella kroppsdelar! Hur kan en förtjusande varelse som jag någonsin bli ledsen?</ProsthophileHappy.stages.body_modder_overjoyed.description>
   <!-- EN: machine body is complete -->
   <ProsthophileHappy.stages.machine_body_is_complete.label>Maskinkropp komplett</ProsthophileHappy.stages.machine_body_is_complete.label>
   <!-- EN: I asked for this. -->
   <ProsthophileHappy.stages.machine_body_is_complete.description>Jag ville detta.</ProsthophileHappy.stages.machine_body_is_complete.description>
   
-  <!-- EN: transhumanist frustrated -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>prostetofil saknar bionisk kroppsdel</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
+  <!-- EN: body modder frustrated -->
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>kroppsmodifierare saknar bionisk kroppsdel</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Kött är så begränsande. Jag önskar att jag hade något slags konstgjord kroppsdel.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>Kött är så begränsande. Jag önskar att jag hade något slags konstgjord kroppsdel.</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
   
   <!-- EN: body purist squeamish -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.label>prostetofob kinkig</ProsthophobeUnhappy.stages.body_purist_squeamish.label>

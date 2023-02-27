@@ -491,13 +491,6 @@
   <!-- EN: research -->
   <Research.verb>forska</Research.verb>
   
-  <!-- EN: operate scanner -->
-  <Scan.label>mannövrera skanner</Scan.label>
-  <!-- EN: scanning at -->
-  <Scan.gerund>skannar vid</Scan.gerund>
-  <!-- EN: scan -->
-  <Scan.verb>skanna</Scan.verb>
-  
   <!-- EN: shear animals -->
   <Shear.label>klipp djur</Shear.label>
   <!-- EN: shearing -->

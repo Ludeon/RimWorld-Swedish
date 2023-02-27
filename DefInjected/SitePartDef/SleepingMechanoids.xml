@@ -7,8 +7,5 @@
   <SleepingMechanoids.description>En grupp sovande mekanoider.</SleepingMechanoids.description>
   <!-- EN: There are a few sleeping hostile mechanoids in this area.\n\nThe mechanoids may or may not wake up when you approach them, so beware. -->
   <SleepingMechanoids.arrivedLetter>Det finns några sovande aggressiva mekanoider i detta område.\n\nDe kan vara så att de vaknar när du kommer nära, eller inte. Var på din vakt.</SleepingMechanoids.arrivedLetter>
-  <!-- EN: there are {0} sleeping mechanoids in the area -->
-  <SleepingMechanoids.descriptionDialogue>Det finns {0} sovande mekanoider i området.</SleepingMechanoids.descriptionDialogue>
-
   
 </LanguageData>

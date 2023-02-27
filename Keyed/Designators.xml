@@ -17,10 +17,15 @@
   <DesignatorDeconstructDesc>Demontera detta och återvinn en del av resurserna.</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>Urinstallera</DesignatorUninstall>
+  <DesignatorUninstall>Avinstallera</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
   <DesignatorUninstallDesc>Montera ner detta så att det kan flyttas, säljas, eller installeras någon annanstans.</DesignatorUninstallDesc>
 
+  <!-- EN: Extract tree -->
+  <DesignatorExtractTree>Gräv upp träd</DesignatorExtractTree>
+  <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
+  <DesignatorExtractTreeDesc>Gräv upp detta träd samtidigt som du håller det vid liv så att det kan planteras om någon annanstans.</DesignatorExtractTreeDesc>
+  
   <!-- EN: Harvest -->
   <DesignatorHarvest>Skörda</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
@@ -116,6 +121,8 @@
   <DesignatorClearAreaAllowedDesc>Ta bort tillåtna områden.\n\nTillåtna områden är begränsade områden där kolonisterna kan röra sig fritt. De kommer inte att utföra arbeten eller tillfredställa sina behov utanför det tillåtna området.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>Hantera områden...</ManageAreas>
+    <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>Hantera automatisk slakt...</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Skapar en zon där dina kolonister ska försöka odla en specifik gröda.</DesignatorGrowingZoneDesc>
@@ -171,6 +178,55 @@
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Tämj ett vilt djur.</DesignatorTameDesc>
 
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>Släpp i det vilda</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>Släpp tillbaka ett djur i naturen.</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>Studera</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>Studera det här objektet för att lära dig mer om det.</DesignatorStudyDesc>
+
+  <!-- EN: Paint building... -->
+  <DesignatorPaintBuilding>Måla byggnad...</DesignatorPaintBuilding>
+  <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
+  <DesignatorPaintBuildingDesc>Bestäm väggar och byggnader som ska målas med färg från tinctoria-växter som du kan odla. Endast vissa byggnader kan målas.</DesignatorPaintBuildingDesc>
+  <!-- EN: Paint floor... -->
+  <DesignatorPaintFloor>Måla golv...</DesignatorPaintFloor>
+  <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
+  <DesignatorPaintFloorDesc>Bestäm golv som ska målas med färg från tinctoria-växter, som du kan odla. Endast vissa golv kan målas.</DesignatorPaintFloorDesc>
+
+  <!-- EN: Remove paint -->
+  <DesignatorRemovePaint>Ta bort färg</DesignatorRemovePaint>
+  <!-- EN: Remove paint from walls, buildings, and floors. -->
+  <DesignatorRemovePaintDesc>Ta bort färg från väggar, byggnader och golv.</DesignatorRemovePaintDesc>
+  <!-- EN: Remove floor paint -->
+  <DesignatorRemoveFloorPaint>Ta bort golvfärg</DesignatorRemoveFloorPaint> 
+  <!-- EN: Remove paint from floors. -->
+  <DesignatorRemoveFloorPaintDesc>Ta bort färg från golv.</DesignatorRemoveFloorPaintDesc> 
+  <!-- EN: Paint -->
+  <Paint>Måla</Paint>
+  <!-- EN: Color -->
+  <Color>Färg</Color>
+
+  <!-- EN: Color picker -->
+  <DesignatorEyedropper>Färgväljare</DesignatorEyedropper>
+  <!-- EN: Grab existing color -->
+  <GrabExistingColor>Välj befintlig färg</GrabExistingColor>
+  <!-- EN: Grab a color from an existing building. -->
+  <DesignatorEyeDropperDesc_Paint>Kopiera färg från en befintlig byggnad.</DesignatorEyeDropperDesc_Paint>
+  <!-- EN: Grab a color from an existing carpet. -->
+  <DesignatorEyeDropperDesc_Carpet>Kopiere färg från en befintlig matta.</DesignatorEyeDropperDesc_Carpet>
+  <!-- EN: Select a painted building. -->
+  <SelectAPaintedBuilding>Välj en målad byggnad.</SelectAPaintedBuilding>
+  <!-- EN: Select colored carpet. -->
+  <SelectColoredFloor>Välj en färgad matta.</SelectColoredFloor>
+  <!-- EN: Grab -->
+  <Grab>Kopiera</Grab>
+  <!-- EN: Grabbed color -->
+  <GrabbedColor>Kopiera Färg</GrabbedColor>
+
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
   <UnchosenStuff>Material ej valt</UnchosenStuff>
@@ -200,6 +256,8 @@
   <TerrainCannotSupport>Denna terräng kan inte stödja detta.</TerrainCannotSupport>
   <!-- EN: {0_label} requires terrain that can support: {1_label} -->
   <TerrainCannotSupport_TerrainAffordance>{0_label} behöver terräng som kan stödja: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (när den består av {2_label}) behöver terräng som kan stödja: '{1_label}'</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
   <SpaceAlreadyOccupied>Platsen är redan upptagen.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
@@ -208,7 +266,21 @@
   <TerrainMustBeRemovable>Markera ett golv som går att ta bort.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
   <MustBeOnMovingWater>Vattenhjulet måste placeras i strömmande.</MustBeOnMovingWater>
-  
+  <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotWillOverlap>Interaktionspunkt kommer att överlappa med interaktionspunkten för {1_labelShort}.</InteractionSpotWillOverlap>
+  <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotOverlaps>Interaktionspunkten överlappar interaktionspunkten för {1_labelShort}.</InteractionSpotOverlaps>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>Kan inte placera monument över: '{0}'.</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>Kan inte bygga på: '{0}'.</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <MonumentOverlapsBuilding>Kan inte placera monument över: '{0}'.</MonumentOverlapsBuilding>
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
+  <MonumentAdjacentToBuilding>Monument kan inte placeras i anslutning till: '{0}'.</MonumentAdjacentToBuilding>
+  <!-- EN: Cannot be planted here -->
+  <CannotBePlantedHere>Kan inte planteras här</CannotBePlantedHere>
+
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
   <ExpandOrCreateZone>Expandera {0} eller\nSkapa ny {1}</ExpandOrCreateZone>
@@ -221,9 +293,13 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>Byggnation behövs</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>Ingen av dina {0} har denna färdighet.</NoColonistWithConstructionSkillTip>
+  <NoColonistWithSkillTip>Ingen av dina {0} har denna färdighet.</NoColonistWithSkillTip>
+  <!-- EN: {0} needed -->
+  <SkillNeededForConstructing>{0} behövs</SkillNeededForConstructing>
+  <!-- EN: None of your {0} have all skills required. -->
+  <NoColonistWithAllSkillsForConstructing>Ingen av dina {0} har alla färdigheter som behövs.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Alla dina {0} som har denna färdighet har ej tilldelats arbetsuppgiften {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
+  <AllColonistsWithSkillHaveDisabledConstructingTip>Alla dina {0} som har denna färdighet har ej tilldelats arbetsuppgiften {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
 
 </LanguageData>

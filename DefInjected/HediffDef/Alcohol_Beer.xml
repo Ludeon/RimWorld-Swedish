@@ -24,9 +24,7 @@
   <!-- EN: alcohol tolerance -->
   <AlcoholTolerance.label>alkoholtolerans</AlcoholTolerance.label>
   <!-- EN: small -->
-  <AlcoholTolerance.stages.small-0.label>liten</AlcoholTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <AlcoholTolerance.stages.small-1.label>liten</AlcoholTolerance.stages.small-1.label>
+  <AlcoholTolerance.stages.small.label>liten</AlcoholTolerance.stages.small-0.label>
   <!-- EN: large -->
   <AlcoholTolerance.stages.large.label>stor</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->

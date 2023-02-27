@@ -77,10 +77,10 @@
   <!-- EN: Being with my lover makes me feel this way. -->
   <OpinionOfMyLover.stages.opinion_of_my.description>Vara med min älskare gör att jag känner mig på detta sätt.</OpinionOfMyLover.stages.opinion_of_my.description>
   
-  <!-- EN: pretty -->
-  <Pretty.stages.pretty.label>söt</Pretty.stages.pretty.label>
-  <!-- EN: beautiful -->
-  <Pretty.stages.beautiful.label>vacker</Pretty.stages.beautiful.label>
+  <!-- EN: physically appealing -->
+  <Pretty.stages.physically_appealing.label>fysiskt tilltalande</Pretty.stages.physically_appealing.label>
+  <!-- EN: physically stunning -->
+  <Pretty.stages.physically_stunning.label>fysiskt imponerande attraktiv</Pretty.stages.physically_stunning.label>
   
   <!-- EN: sold prisoner to slavery -->
   <SoldPrisoner.stages.sold_prisoner_to_slavery.label>sålde fånge till slaveri</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
@@ -92,26 +92,26 @@
   <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>nykterist vs kemiskt intresserad</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
   
   <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
   <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
   <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
   <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
   <!-- EN: transhumanist appreciation -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>transhumanistisk uppskattning</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
+
+   <!-- EN: physically unsightly -->
+  <Ugly.stages.physically_unsightly.label>fysiskt ful</Ugly.stages.physically_unsightly.label>
+  <!-- EN: physically hideous -->
+  <Ugly.stages.physically_hideous.label>fysiskt avskyvärd</Ugly.stages.physically_hideous.label>
   
-  <!-- EN: ugly -->
-  <Ugly.stages.ugly.label>ful</Ugly.stages.ugly.label>
-  <!-- EN: staggeringly ugly -->
-  <Ugly.stages.staggeringly_ugly.label>förbluffande ful</Ugly.stages.staggeringly_ugly.label>
-  
-  <!-- EN: want to sleep with {0} -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>vill sova med {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
-  <!-- EN: I don't like sleeping apart from my partner. -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>Jag gillar inte att sova borta från min partner.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
-  
+  <!-- EN: sleeping alone -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>sover själv</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  <!-- EN: I should be sleeping with a lover or spouse. -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>Jag vill sova med min älskare eller make.</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
+ 
   <!-- EN: woman -->
   <Woman.stages.woman.label>kvinna</Woman.stages.woman.label>
   

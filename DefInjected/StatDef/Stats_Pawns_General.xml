@@ -31,10 +31,8 @@
   <!-- EN: A multiplier on the learning rate for all skills. -->
   <GlobalLearningFactor.description>Global inlärningseffektivitet för alla färdigheter.</GlobalLearningFactor.description>
   
-  <!-- EN: hunger rate multiplier -->
-  <HungerRateMultiplier.label>hungerfrekvensmultiplikator</HungerRateMultiplier.label>
-  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
-  <HungerRateMultiplier.description>Multiplikator för hur snabbt en varelse blir hungrig.</HungerRateMultiplier.description>
+  <!-- EN: bed hunger rate multiplier -->
+  <BedHungerRateFactor.label>bädd-hungerfrekvens-multiplikator</BedHungerRateFactor.label>
   
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>immunitethastighet</ImmunityGainSpeed.label>
@@ -82,10 +80,15 @@
   <RestRateMultiplier.label>vilohastighetsmultiplikator</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
   <RestRateMultiplier.description>Multiplikator för hur fort en varelse återfår ork när den sover.</RestRateMultiplier.description>
+
+  <!-- EN: toxic environment resistance -->
+  <ToxicEnvironmentResistance.label>Giftresistans (miljö)</ToxicEnvironmentResistance.label>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against tox gas, rot stink, toxic fallout, and polluted terrain, but not against direct attacks with venom or injected poison. When this value is higher, exposure to pollution produces proportionally less toxic buildup in the body. -->
+  <ToxicEnvironmentResistance.description>Hur motståndskraftig denna varelse är mot effekterna av miljögifter. Detta skyddar mot giftgas, rötstank, giftigt nedfall och förorenad terräng, men inte mot direkta attacker med gift eller injicerat gift. Ett hägre värde ger exponering för föroreningar proportionellt mindre giftuppbyggnad i kroppen.</ToxicEnvironmentResistance.description>
   
-  <!-- EN: toxic sensitivity -->
-  <ToxicSensitivity.label>känslighet för gift</ToxicSensitivity.label>
-  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
-  <ToxicSensitivity.description>Multiplikator för effekten av giftiga ämnens uppbyggnad påverkar denna varelse.</ToxicSensitivity.description>
+  <!-- EN: toxic resistance -->
+  <ToxicResistance.label>Giftresistans</ToxicResistance.label>
+  <!-- EN: How well this creature resists toxic buildup. -->
+  <ToxicResistance.description>Hur väl den här varelsen motstår giftig uppbyggnad.</ToxicResistance.description>
   
 </LanguageData>

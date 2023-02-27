@@ -75,12 +75,11 @@
   <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
   <WoolAlpaca.description>Den anmärkningsvärt mjuka ullen från en alpacka, väldigt varm.</WoolAlpaca.description>
   <WoolAlpaca.stuffProps.stuffAdjective>alpackaull</WoolAlpaca.stuffProps.stuffAdjective>
-  
-  <!-- EN: camelhair -->
-  <WoolCamel.label>kamelhår</WoolCamel.label>
-  <!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
-  <WoolCamel.description>Kamelhårskläder bärs vanligtvis av ökenresenärer för att skydda dem från värmen. Det ger utmärkt värmeisolering på grund av dess termostatiska egenskaper.</WoolCamel.description>
-  <WoolCamel.stuffProps.stuffAdjective>kamelhår</WoolCamel.stuffProps.stuffAdjective>
+
+  <!-- EN: bison wool -->
+  <WoolBison.label>bisonull</WoolBison.label>
+  <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
+  <WoolBison.description>Tjock och grov ull av en bison. Ganska varm.</WoolBison.description>
   
   <!-- EN: megasloth wool -->
   <WoolMegasloth.label>jättesengångarull</WoolMegasloth.label>
@@ -93,5 +92,11 @@
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
   <WoolMuffalo.description>Mjukt, lätt och ger mycket god isolering. Muffelullkläder kan hålla kroppen varm även under extremt kalla förhållanden.</WoolMuffalo.description>
   <WoolMuffalo.stuffProps.stuffAdjective>muffelull</WoolMuffalo.stuffProps.stuffAdjective>
+
+  <!-- EN: sheep wool -->
+  <WoolSheep.label>fårull</WoolSheep.label>
+  <!-- EN: Sheep's wool. It provides good insulation. -->
+  <WoolSheep.description>Fårull. Det ger bra isolering.</WoolSheep.description>
+  <WoolSheep.stuffProps.stuffAdjective>fårull</WoolSheep.stuffProps.stuffAdjective>
   
 </LanguageData>

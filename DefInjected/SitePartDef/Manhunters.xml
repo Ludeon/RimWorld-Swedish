@@ -5,10 +5,7 @@
   <Manhunters.label>människojagande flock</Manhunters.label>
   <!-- EN: A pack of manhunting animals. -->
   <Manhunters.description>En flock med människojagande djur.</Manhunters.description>
-  <!-- EN: There are manhunting animals in this area. -->
-  <Manhunters.arrivedLetter>Det finns människojagande djur i detta område.</Manhunters.arrivedLetter>
-  <!-- EN: there is a group of {0} manhunting {1} wandering nearby -->
-  <Manhunters.descriptionDialogue>det finns en grupp {0} som människojagar {1} som vandrar i närheten </Manhunters.descriptionDialogue>
-
+  <!-- EN: There are scaria-infected manhunting animals in this area. -->
+  <Manhunters.arrivedLetter>Det finns människojagande djur i detta område som är skaria infekterade.</Manhunters.arrivedLetter>
   
 </LanguageData>

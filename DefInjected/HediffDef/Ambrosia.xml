@@ -12,9 +12,7 @@
   <!-- EN: ambrosia tolerance -->
   <AmbrosiaTolerance.label>ambrosiatolerans</AmbrosiaTolerance.label>
   <!-- EN: small -->
-  <AmbrosiaTolerance.stages.small-0.label>liten</AmbrosiaTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <AmbrosiaTolerance.stages.small-1.label>liten</AmbrosiaTolerance.stages.small-1.label>
+  <AmbrosiaTolerance.stages.small.label>liten</AmbrosiaTolerance.stages.small.label>
   <!-- EN: large -->
   <AmbrosiaTolerance.stages.large.label>stor</AmbrosiaTolerance.stages.large.label>
   <!-- EN: massive -->

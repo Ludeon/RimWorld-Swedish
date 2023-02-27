@@ -1,19 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: ship part (poison) -->
-  <CrashedPoisonShipPart.label>skeppsdel (giftig) </CrashedPoisonShipPart.label>
-  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be killing plant life around it. -->
-  <CrashedPoisonShipPart.description>En mystisk bit av ett rymdskepp som kraschat. Den kan innehålla vilken typ av dödliga fiender och exotiska material som helst. Denna verkar ha ihjäl växtlighet runt om den. den.</CrashedPoisonShipPart.description>
+  <!-- EN: ship part (defoliator) -->
+  <DefoliatorShipPart.label>skeppsdel (giftig)</DefoliatorShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
+  <DefoliatorShipPart.description>En uråldrig skeppsdel, avsliten från ett skepp av okänt ursprung. Den kan vara tusentals år gammal.\n\nDen här innehåller en enhet som utplånar växtliv nära sig själv utan att direkt påverka levande varelser. Dessa typer av vapen är ibland utspridda över jordbruksmarker eller skogar för att ta bort fiendens matförsörjning och gömställen utan att permanent förstöra området. De är vanligtvis förknippade med mekanoidarméer i omloppsbana runt planeten.</DefoliatorShipPart.description>
   
-  <!-- EN: ship part (psychic) -->
-  <CrashedPsychicEmanatorShipPart.label>skeppsdel (psykisk)</CrashedPsychicEmanatorShipPart.label>
-  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves. -->
-  <CrashedPsychicEmanatorShipPart.description>En mystisk bit av ett rymdskepp som kraschat. Den kan innehålla vilken typ av dödliga fiender och exotiska material som helst. Denna verkar sända ut psykiska vågor.</CrashedPsychicEmanatorShipPart.description>
+  <!-- EN: ship part (psychic droner) -->
+  <PsychicDronerShipPart.label>skeppsdel (psykisk drönare)</PsychicDronerShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
+  <PsychicDronerShipPart.description>En uråldrig skeppsdel, avsliten från ett skepp av okänt ursprung. Den kan vara tusentals år gammal.\n\nDen här innehåller en anordning för psykisk störning. Med hjälp av oförståelig arkoteknik genererar den en psykisk signal som gör människor och djur galna inom en stor radie runt sig själv.</PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
   <ShipChunk.label>skeppsdel</ShipChunk.label>
-  <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
+  <!-- EN: A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
   <ShipChunk.description>En bit av en rymdfarkost. Kan dekonstrueras för att ge användbara resurser.</ShipChunk.description>
+  
+  <!-- EN: shuttle -->
+  <Shuttle.label>skyttel</Shuttle.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <Shuttle.description>En Rymdteknik skyttel designad för transport mellan yta och omloppsbana, eller mellan månar i ett planetsystem.</Shuttle.description>
+  
+  <!-- EN: crashed shuttle -->
+  <ShuttleCrashed.label>krashad skyttel</ShuttleCrashed.label>
+  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
+  <ShuttleCrashed.description>En krashad Rymdteknik skyttel designad för transport mellan yta och omloppsbana, eller mellan månar i ett planetsystem.</ShuttleCrashed.description>
   
 </LanguageData>

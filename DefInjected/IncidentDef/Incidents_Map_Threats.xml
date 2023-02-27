@@ -23,13 +23,13 @@
   
   <!-- EN: manhunter pack -->
   <ManhunterPack.label>människojagande flock</ManhunterPack.label>
-  
-  <!-- EN: ship part crash (poison) -->
-  <PoisonShipPartCrash.label> krasch av skeppsdel (giftig)</PoisonShipPartCrash.label>
-  <!-- EN: Poison ship -->
-  <PoisonShipPartCrash.letterLabel>Förgiftat skepp</PoisonShipPartCrash.letterLabel>
+ 
+   <!-- EN: ship part crash (defoliator) -->
+  <DefoliatorShipPartCrash.label>Krasch av skeppsdel (avlövning)</DefoliatorShipPartCrash.label>
+  <!-- EN: Defoliator ship -->
+  <DefoliatorShipPartCrash.letterLabel>Avlövningsskepp</DefoliatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <PoisonShipPartCrash.letterText>En stor bit av ett fortida skepp har krashat i närheten.\n\nDess mystiska påverkan kommer döda alla växter i en expanderande cirkel runt sig självt.\n\nFörstör det så fort som möjligt. Men akta dig - det kommer troligen att försvara sig.</PoisonShipPartCrash.letterText>
+  <DefoliatorShipPartCrash.letterText>En stor del av ett fortida skepp har krashat i närheten.\n\nDess mystiska påverkan kommer döda alla växter i en expanderande cirkel runt sig självt.\n\nFörstör det så fort som möjligt. Men akta dig - det kommer troligen att försvara sig.</DefoliatorShipPartCrash.letterText>
   
   <!-- EN: ship part crash (psychic) -->
   <PsychicEmanatorShipPartCrash.label>krasch av skeppdel (psykisk)</PsychicEmanatorShipPartCrash.label>

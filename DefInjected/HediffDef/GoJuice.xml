@@ -14,9 +14,7 @@
   <!-- EN: go-juice tolerance -->
   <GoJuiceTolerance.label>gå-juicetolerans</GoJuiceTolerance.label>
   <!-- EN: small -->
-  <GoJuiceTolerance.stages.small-0.label>liten</GoJuiceTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <GoJuiceTolerance.stages.small-1.label>liten</GoJuiceTolerance.stages.small-1.label>
+  <GoJuiceTolerance.stages.small.label>liten</GoJuiceTolerance.stages.small.label>
   <!-- EN: large -->
   <GoJuiceTolerance.stages.large.label>stor</GoJuiceTolerance.stages.large.label>
   <!-- EN: massive -->

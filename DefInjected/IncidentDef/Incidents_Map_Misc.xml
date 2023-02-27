@@ -63,9 +63,6 @@
   <!-- EN: Ransom demand -->
   <RansomDemand.letterLabel>Lösenkrav</RansomDemand.letterLabel>
   
-  <!-- EN: chased refugee -->
-  <RefugeeChased.label>jagad flykting</RefugeeChased.label>
-  
   <!-- EN: transport pod crash -->
   <RefugeePodCrash.label>krasch av transportkapsel</RefugeePodCrash.label>
   

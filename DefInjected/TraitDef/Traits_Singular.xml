@@ -131,10 +131,10 @@
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
   <Tough.degreeDatas.tough.description>{PAWN_nameDef} har tjock hud, kompakta muskler och starkt skelett. {PAWN_pronoun} tar mycket mindre skada än andra personer från samma slag. {PAWN_pronoun} är extremt svår att ha ihjäl. </Tough.degreeDatas.tough.description>
   
-  <!-- EN: transhumanist -->
-  <Transhumanist.degreeDatas.transhumanist.label>transhumanist</Transhumanist.degreeDatas.transhumanist.label>
+  <!-- EN: body modder -->
+  <Transhumanist.degreeDatas.body_modder.label>kroppsmodifierare</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
-  <Transhumanist.degreeDatas.transhumanist.description>{PAWN_nameDef} känner sig begränsad i av sin {PAWN_possessive} bräckliga människokropp. {PAWN_pronoun} drömmer ofta om att förbättrad med artificiella kroppsdelar.</Transhumanist.degreeDatas.transhumanist.description>
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} känner sig begränsad i av sin {PAWN_possessive} bräckliga människokropp. {PAWN_pronoun} drömmer ofta om att förbättrad med artificiella kroppsdelar.</Transhumanist.degreeDatas.body_modder.description>
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>grottmänniska</Undergrounder.degreeDatas.undergrounder.label>

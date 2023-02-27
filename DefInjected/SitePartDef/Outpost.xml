@@ -11,8 +11,5 @@
   <Outpost.approachOrderString>Attackera {0}</Outpost.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
   <Outpost.arrivedLetter>Fiender har en utpost i detta område.</Outpost.arrivedLetter>
-  <!-- EN: there is an enemy outpost at the site guarded by {0} enemies -->
-  <Outpost.descriptionDialogue>finder har en utpost i närheten, den bevakas av {0} fiender</Outpost.descriptionDialogue>
-  
   
 </LanguageData>

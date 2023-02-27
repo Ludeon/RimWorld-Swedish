@@ -41,29 +41,14 @@
   <!-- EN: The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes. -->
   <FoodPoisonChance.description>Sannolikheten att denna person oavsiktligt orsakar matförgiftning för en måltid de lagar. Matförgiftning försvagar personen det drabbar.</FoodPoisonChance.description>
   
-  <!-- EN: sculpting speed -->
-  <SculptingSpeed.label>hastighet att skulptera</SculptingSpeed.label>
-  <!-- EN: The speed at which this person creates sculptures.\n\nThis stat only affects how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill. -->
-  <SculptingSpeed.description>Hur snabbt denna person skulpterar.\n\nDetta värde påverkar enbart i vilken hastighet skulpturer produceras inte deras kvalitet. Kvalite bestäms av personens färdighet i konst.</SculptingSpeed.description>
+  <!-- EN: general labor speed -->
+  <GeneralLaborSpeed.label>Allmän arbetshastighet</GeneralLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
+  <GeneralLaborSpeed.description>Den hastighet med vilken den här personen utför allmänt arbete som att hugga stenblock, tillverka kemiskt bränsle på ett raffinaderi, bränna föremål, sy kläder, skapa konst, smida rustningar och vapen eller smälta slagg. Denna statistik gäller både för aktiviteter som inte involverar någon färdighet, såväl som de där skickligheten påverkar produktens kvalitet istället för produktionshastigheten.</GeneralLaborSpeed.description>
   
   <!-- EN: smelting speed -->
   <SmeltingSpeed.label>smältningshastighet</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
   <SmeltingSpeed.description>Hastighet vid vilken denna person smälter saker.\n\nEftersom detta är enkelt arbete påverkas dess hastighet inte av någon färdighet.</SmeltingSpeed.description>
-  
-  <!-- EN: smithing speed -->
-  <SmithingSpeed.label>hastighet att smida</SmithingSpeed.label>
-  <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
-  <SmithingSpeed.description>Hur snabbt denna person smider, tillverkar vapen, maskiner, ammunition och verktyg.\n\nDetta värde påverkar enbart hur snabbt ett föremål produceras inte dess kvalite. Kvalitet bestäms av personens färdighet.</SmithingSpeed.description>
-  
-  <!-- EN: tailoring speed -->
-  <TailoringSpeed.label>hastighet att sy</TailoringSpeed.label>
-  <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->
-  <TailoringSpeed.description>Hur snabbt denna person syr kläder.\n\nDetta värde påverkar enbart hur snabbt kläder produceras inte deras kvalitet. Kvalite bestäms av personens färdighet i skrädderi.</TailoringSpeed.description>
-  
-  <!-- EN: unskilled labor speed -->
-  <UnskilledLaborSpeed.label>arbetshastighet (simpelt arbete)</UnskilledLaborSpeed.label>
-  <!-- EN: The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items. -->
-  <UnskilledLaborSpeed.description>Hastigheten för denna person att utföra simpelt arbete, exempelvis hugga stenblock, tillverka bränsle eller bränna föremål.</UnskilledLaborSpeed.description>
-  
+
 </LanguageData>

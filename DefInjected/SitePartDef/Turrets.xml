@@ -7,8 +7,5 @@
   <Turrets.description>Ett antal kanontorn.</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
   <Turrets.arrivedLetter>Det finns fientliga kanontorn i detta område.</Turrets.arrivedLetter>
-  <!-- EN: {0} defend the site -->
-  <Turrets.descriptionDialogue>{0} försvarar platsen.</Turrets.descriptionDialogue>
-  
   
 </LanguageData>

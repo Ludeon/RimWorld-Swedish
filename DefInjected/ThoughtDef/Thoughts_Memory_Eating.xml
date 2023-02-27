@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: ate awful meal -->
-  <AteAwfulMeal.stages.ate_awful_meal.label>åt fruktansvärd måltid</AteAwfulMeal.stages.ate_awful_meal.label>
-  <!-- EN: I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop. -->
-  <AteAwfulMeal.stages.ate_awful_meal.description>Jag var tvungen att äta en motbjudande, smaklös måltid. Jag vet att det håller dig vid liv, men ingen vill svälja den smörjan.</AteAwfulMeal.stages.ate_awful_meal.description>
-  
   <!-- EN: ate corpse -->
   <AteCorpse.stages.ate_corpse.label>åt lik</AteCorpse.stages.ate_corpse.label>
   <!-- EN: I had to eat the flesh of a dead creature without even butchering or cooking it. -->

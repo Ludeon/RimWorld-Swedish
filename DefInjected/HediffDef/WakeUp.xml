@@ -14,9 +14,7 @@
   <!-- EN: wake-up tolerance -->
   <WakeUpTolerance.label>va-knatolerans</WakeUpTolerance.label>
   <!-- EN: small -->
-  <WakeUpTolerance.stages.small-0.label>liten</WakeUpTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <WakeUpTolerance.stages.small-1.label>liten</WakeUpTolerance.stages.small-1.label>
+  <WakeUpTolerance.stages.small.label>liten</WakeUpTolerance.stages.small.label>
   <!-- EN: large -->
   <WakeUpTolerance.stages.large.label>stor</WakeUpTolerance.stages.large.label>
   <!-- EN: massive -->

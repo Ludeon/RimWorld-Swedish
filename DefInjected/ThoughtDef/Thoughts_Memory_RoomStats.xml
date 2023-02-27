@@ -59,46 +59,46 @@
   <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
   <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>Jag hade jättetrevligt i ett underbart vardagsrum. Jag skulle kunna stanna kvar där för alltid.</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
   
-  <!-- EN: awful barrack -->
-  <SleptInBarracks.stages.awful_barrack.label>fruktansvärt kasern</SleptInBarracks.stages.awful_barrack.label>
-  <!-- EN: I had to sleep in an awful barrack. Not only was it a horrible room, but I also had to share it! -->
-  <SleptInBarracks.stages.awful_barrack.description>Min kasern är en hemsk plats, och jag måste dela den!</SleptInBarracks.stages.awful_barrack.description>
-  <!-- EN: dull barrack -->
-  <SleptInBarracks.stages.dull_barrack.label>tråkig kasern</SleptInBarracks.stages.dull_barrack.label>
-  <!-- EN: I had to sleep in a dull barrack. Not only that, but I also had to share it with other people. -->
-  <SleptInBarracks.stages.dull_barrack.description>Jag lever i en tråkig kasern med andra människor.</SleptInBarracks.stages.dull_barrack.description>
-  <!-- EN: mediocre barrack -->
-  <SleptInBarracks.stages.mediocre_barrack.label>medioker kasern</SleptInBarracks.stages.mediocre_barrack.label>
-  <!-- EN: I had to sleep in a mediocre barrack with other people around. I really don't like this. -->
-  <SleptInBarracks.stages.mediocre_barrack.description>Min kasern är medioker, och jag måste dela den också. Jag tycker verkligen inte om det här.</SleptInBarracks.stages.mediocre_barrack.description>
-  <!-- EN: decent barrack -->
-  <SleptInBarracks.stages.decent_barrack.label>hyffsad kasern</SleptInBarracks.stages.decent_barrack.label>
+  <!-- EN: awful barracks -->
+  <SleptInBarracks.stages.awful_barracks.label>fruktansvärt kasern</SleptInBarracks.stages.awful_barracks.label>
+  <!-- EN: I had to sleep in an awful barracks. Not only was it a horrible room, but I also had to share it! -->
+  <SleptInBarracks.stages.awful_barracks.description>Min kasern är en hemsk plats, och jag måste dela den!</SleptInBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <SleptInBarracks.stages.dull_barracks.label>tråkig kasern</SleptInBarracks.stages.dull_barracks.label>
+  <!-- EN: I had to sleep in a dull barracks. Not only that, but I also had to share it with other people. -->
+  <SleptInBarracks.stages.dull_barracks.description>Jag lever i en tråkig kasern med andra människor.</SleptInBarracks.stages.dull_barracks.description>
+  <!-- EN: mediocre barracks -->
+  <SleptInBarracks.stages.mediocre_barracks.label>medioker kasern</SleptInBarracks.stages.mediocre_barracks.label>
+  <!-- EN: I had to sleep in a mediocre barracks with other people around. I really don't like this. -->
+  <SleptInBarracks.stages.mediocre_barracks.description>Min kasern är medioker, och jag måste dela den också. Jag tycker verkligen inte om det här.</SleptInBarracks.stages.mediocre_barracks.description>
+  <!-- EN: decent barracks -->
+  <SleptInBarracks.stages.decent_barracks.label>hyffsad kasern</SleptInBarracks.stages.decent_barracks.label>
   <!-- EN: I slept in a decent barrack, but I really dislike sharing a sleeping space. -->
-  <SleptInBarracks.stages.decent_barrack.description>Min kasern är anständigt, men jag gillar verkligen inte att dela ett sovutrymme.</SleptInBarracks.stages.decent_barrack.description>
-  <!-- EN: slightly impressive barrack -->
-  <SleptInBarracks.stages.slightly_impressive_barrack.label>något imponerande kasern</SleptInBarracks.stages.slightly_impressive_barrack.label>
-  <!-- EN: I got to sleep in a pretty nice barrack. But I really don't like sharing a room with others. -->
-  <SleptInBarracks.stages.slightly_impressive_barrack.description>Min kasern är ett trevligt ställe. Men jag gillar verkligen inte att dela ett rum med andra.</SleptInBarracks.stages.slightly_impressive_barrack.description>
-  <!-- EN: impressive barrack -->
-  <SleptInBarracks.stages.impressive_barrack.label>imponerande kasern</SleptInBarracks.stages.impressive_barrack.label>
-  <!-- EN: I got to sleep in an impressive barrack. It sucks that I had to share it, though. -->
-  <SleptInBarracks.stages.impressive_barrack.description>Min kasern är imponerande. Det suger att jag måste dela den.</SleptInBarracks.stages.impressive_barrack.description>
-  <!-- EN: very impressive barrack -->
-  <SleptInBarracks.stages.very_impressive_barrack.label>väldigt imponerande kasern</SleptInBarracks.stages.very_impressive_barrack.label>
-  <!-- EN: I slept in a very impressive barrack. I don't even mind sharing it. -->
-  <SleptInBarracks.stages.very_impressive_barrack.description>Min kasern är väldigt imponerande. Jag är irriterad över att jag måste dela den.</SleptInBarracks.stages.very_impressive_barrack.description>
-  <!-- EN: extremely impressive barrack -->
-  <SleptInBarracks.stages.extremely_impressive_barrack.label>extremt imponerande kasern</SleptInBarracks.stages.extremely_impressive_barrack.label>
-  <!-- EN: I slept in an extremely impressive barrack. I don't even mind sharing it. -->
-  <SleptInBarracks.stages.extremely_impressive_barrack.description>Min kasern är extremt imponerande. Det gör det nästan ok att behöva dela den.</SleptInBarracks.stages.extremely_impressive_barrack.description>
-  <!-- EN: unbelievably impressive barrack -->
-  <SleptInBarracks.stages.unbelievably_impressive_barrack.label>otroligt imponerande kasern</SleptInBarracks.stages.unbelievably_impressive_barrack.label>
-  <!-- EN: The barrack I slept in was so impressive that I don't even mind sharing it. -->
-  <SleptInBarracks.stages.unbelievably_impressive_barrack.description>Min kasern är otroligt imponerande. Det gör nästan inget att behöva dela den.</SleptInBarracks.stages.unbelievably_impressive_barrack.description>
-  <!-- EN: wondrously impressive barrack -->
-  <SleptInBarracks.stages.wondrously_impressive_barrack.label>underbart imponerande kasern</SleptInBarracks.stages.wondrously_impressive_barrack.label>
-  <!-- EN: I slept in a barrack that was simply wondrous. Even sharing such a space makes me happy. -->
-  <SleptInBarracks.stages.wondrously_impressive_barrack.description>Min kasern är det bästa stället man någonsin kan föreställa sig. Det gör mig glad, även trots jag delar den med andra.</SleptInBarracks.stages.wondrously_impressive_barrack.description>
+  <SleptInBarracks.stages.decent_barracks.description>Min kasern är anständigt, men jag gillar verkligen inte att dela ett sovutrymme.</SleptInBarracks.stages.decent_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.label>något imponerande kasern</SleptInBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: I got to sleep in a pretty nice barracks. But I really don't like sharing a room with others. -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.description>Min kasern är ett trevligt ställe. Men jag gillar verkligen inte att dela ett rum med andra.</SleptInBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: impressive barracks -->
+  <SleptInBarracks.stages.impressive_barracks.label>imponerande kasern</SleptInBarracks.stages.impressive_barracks.label>
+  <!-- EN: I got to sleep in an impressive barracks. It sucks that I had to share it, though. -->
+  <SleptInBarracks.stages.impressive_barracks.description>Min kasern är imponerande. Det suger att jag måste dela den.</SleptInBarracks.stages.impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <SleptInBarracks.stages.very_impressive_barracks.label>väldigt imponerande kasern</SleptInBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: I slept in a very impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.very_impressive_barracks.description>Min kasern är väldigt imponerande. Jag är irriterad över att jag måste dela den.</SleptInBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.label>extremt imponerande kasern</SleptInBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: I slept in an extremely impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.description>Min kasern är extremt imponerande. Det gör det nästan ok att behöva dela den.</SleptInBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>otroligt imponerande kasern</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: The barracks I slept in was so impressive that I don't even mind sharing it. -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>Min kasern är otroligt imponerande. Det gör nästan inget att behöva dela den.</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.label>underbart imponerande kasern</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: I slept in a barracks that was simply wondrous. Even sharing such a space makes me happy. -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.description>Min kasern är det bästa stället man någonsin kan föreställa sig. Det gör mig glad, även trots jag delar den med andra.</SleptInBarracks.stages.wondrously_impressive_barracks.description>
   
   <!-- EN: awful bedroom -->
   <SleptInBedroom.stages.awful_bedroom.label>fruktansvärt sängkammare</SleptInBedroom.stages.awful_bedroom.label>

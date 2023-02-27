@@ -69,10 +69,10 @@
   <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
   <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Kolonin tog en kroppsdelar från en gäst eller fånge. Det är hemskt, bryta någon ner för delar när de inte har något annat val.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
   
-  <!-- EN: a prisoner was sold -->
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>en fånge såldes</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
+  <!-- EN: prisoner sold -->
+  <KnowPrisonerSold.stages.prisoner_sold.label>en fånge såldes</KnowPrisonerSold.stages.prisoner_sold.label>
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
-  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>Denna koloni sålde en fånge till slaveri. Det är en oroande tanke.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+  <KnowPrisonerSold.stages.prisoner_sold.description>Denna koloni sålde en fånge till slaveri. Det är en oroande tanke.</KnowPrisonerSold.stages.prisoner_sold.description>
   
   <!-- EN: my organ harvested -->
   <MyOrganHarvested.stages.my_organ_harvested.label>mina organ skördades</MyOrganHarvested.stages.my_organ_harvested.label>

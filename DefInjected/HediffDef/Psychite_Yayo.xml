@@ -9,10 +9,8 @@
   <!-- EN: psychite tolerance -->
   <PsychiteTolerance.label>psykittolerans</PsychiteTolerance.label>
   <!-- EN: small -->
-  <PsychiteTolerance.stages.small-0.label>liten</PsychiteTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <PsychiteTolerance.stages.small-1.label>liten</PsychiteTolerance.stages.small-1.label>
-  <!-- EN: large -->
+  <PsychiteTolerance.stages.small.label>liten</PsychiteTolerance.stages.small.label>
+   <!-- EN: large -->
   <PsychiteTolerance.stages.large.label>stor</PsychiteTolerance.stages.large.label>
   <!-- EN: massive -->
   <PsychiteTolerance.stages.massive.label>enorm</PsychiteTolerance.stages.massive.label>

@@ -12,60 +12,60 @@
   <!-- EN: slightly impressive hospital -->
   <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>något imponerande sjukhus</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
   <!-- EN: My hospital is slightly impressive. It makes me feel a bit better. -->
-  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>Min sjukhus är något imponerande. Det gör mig lite bättre.</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>Mitt sjukhus är något imponerande. Det gör mig lite bättre.</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
   <!-- EN: somewhat impressive hospital -->
   <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>imponerande sjukhus</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
   <!-- EN: My hospital is impressive. It makes me feel better. -->
-  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>Min sjukhus är imponerande. Det får mig att må bättre.</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>Mitt sjukhus är imponerande. Det får mig att må bättre.</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
   <!-- EN: very impressive hospital -->
   <HospitalPatientRoomStats.stages.very_impressive_hospital.label>mycket imponerande sjukhus</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
   <!-- EN: My hospital is very impressive. It makes me feel better. -->
-  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>Min sjukhus är mycket imponerande. Det får mig att må bättre.</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>Mitt sjukhus är mycket imponerande. Det får mig att må bättre.</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
   <!-- EN: extremely impressive hospital -->
   <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>extremt imponerande sjukhus</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
   <!-- EN: My hospital is extremely impressive. It makes me feel better already. -->
-  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>in sjukhus är mycket imponerande. Det får mig att må bättre redan.</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>Mitt sjukhus är mycket imponerande. Det får mig att må bättre redan.</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
   <!-- EN: unbelievably impressive hospital -->
   <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>otroligt imponerande sjukhus</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
   <!-- EN: My hospital is unbelievably impressive. It makes me feel better already. -->
-  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>Min sjukhus är otroligt imponerande. Det får mig att må bättre redan.</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>Mitt sjukhus är otroligt imponerande. Det får mig att må bättre redan.</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
   <!-- EN: wondrously impressive hospital -->
   <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>underbart imponerande sjukhus</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
   <!-- EN: My hospital is wonderful! It makes me feel better already. -->
-  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>Min sjukhus är underbart! Det får mig att må bättre redan.</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>Mitt sjukhus är underbart! Det får mig att må bättre redan.</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
   
-  <!-- EN: awful barrack -->
-  <PrisonBarracks.stages.awful_barrack.label>fruktansvärd kasern</PrisonBarracks.stages.awful_barrack.label>
-  <!-- EN: My prison barrack is an awful place. -->
-  <PrisonBarracks.stages.awful_barrack.description>Min fängelsekasern är en förskräcklig plats.</PrisonBarracks.stages.awful_barrack.description>
-  <!-- EN: dull barrack -->
-  <PrisonBarracks.stages.dull_barrack.label>tråkig kasern</PrisonBarracks.stages.dull_barrack.label>
-  <!-- EN: I'm living in a dull barrack. -->
-  <PrisonBarracks.stages.dull_barrack.description>Jag bor i en tråkig fängelsekasern.</PrisonBarracks.stages.dull_barrack.description>
-  <!-- EN: slightly impressive barrack -->
-  <PrisonBarracks.stages.slightly_impressive_barrack.label>något imponerande kasern</PrisonBarracks.stages.slightly_impressive_barrack.label>
-  <!-- EN: My prison barrack is slightly impressive. -->
-  <PrisonBarracks.stages.slightly_impressive_barrack.description>Min fängelsekasern är ett trevligt ställe.</PrisonBarracks.stages.slightly_impressive_barrack.description>
-  <!-- EN: somewhat impressive barrack -->
-  <PrisonBarracks.stages.somewhat_impressive_barrack.label>imponerande kasern</PrisonBarracks.stages.somewhat_impressive_barrack.label>
-  <!-- EN: My prison barrack is impressive. I like it. -->
-  <PrisonBarracks.stages.somewhat_impressive_barrack.description>Min fängelsekasern är imponerande. Jag gillar det.</PrisonBarracks.stages.somewhat_impressive_barrack.description>
-  <!-- EN: very impressive barrack -->
-  <PrisonBarracks.stages.very_impressive_barrack.label>mycket imponerande kasern</PrisonBarracks.stages.very_impressive_barrack.label>
-  <!-- EN: My prison barrack is very impressive. I like it. -->
-  <PrisonBarracks.stages.very_impressive_barrack.description>Min fängelsekasern är mycket imponerande. Jag älskar det!</PrisonBarracks.stages.very_impressive_barrack.description>
-  <!-- EN: extremely impressive barrack -->
-  <PrisonBarracks.stages.extremely_impressive_barrack.label>extremt imponerande kasern</PrisonBarracks.stages.extremely_impressive_barrack.label>
-  <!-- EN: My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this. -->
-  <PrisonBarracks.stages.extremely_impressive_barrack.description>Min fängelsekasern är extremt imponerande. Jag kan inte tro att de håller mig i ett sådant här ställe.</PrisonBarracks.stages.extremely_impressive_barrack.description>
-  <!-- EN: unbelievably impressive barrack -->
-  <PrisonBarracks.stages.unbelievably_impressive_barrack.label>otroligt imponerande kasern</PrisonBarracks.stages.unbelievably_impressive_barrack.label>
-  <!-- EN: My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
-  <PrisonBarracks.stages.unbelievably_impressive_barrack.description>Min fängelsekasern är otroligt imponerande. Jag kan inte tro att de håller mig i ett sådant här ställe.</PrisonBarracks.stages.unbelievably_impressive_barrack.description>
-  <!-- EN: wondrously impressive barrack -->
-  <PrisonBarracks.stages.wondrously_impressive_barrack.label>underbart imponerande kasern</PrisonBarracks.stages.wondrously_impressive_barrack.label>
-  <!-- EN: My prison barrack is wonderful! I can't believe they are keeping me in a place like this. -->
-  <PrisonBarracks.stages.wondrously_impressive_barrack.description>Min fängelsekasern är underbar! Jag kan inte tro att de håller mig i ett sådant här ställe.</PrisonBarracks.stages.wondrously_impressive_barrack.description>
+  <!-- EN: awful barracks -->
+  <PrisonBarracks.stages.awful_barracks.label>fruktansvärd kasern</PrisonBarracks.stages.awful_barracks.label>
+  <!-- EN: My prison barracks is an awful place. -->
+  <PrisonBarracks.stages.awful_barracks.description>Min fängelsekasern är en förskräcklig plats.</PrisonBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <PrisonBarracks.stages.dull_barracks.label>tråkig kasern</PrisonBarracks.stages.dull_barracks.label>
+  <!-- EN: I'm living in a dull barracks. -->
+  <PrisonBarracks.stages.dull_barracks.description>Jag bor i en tråkig fängelsekasern.</PrisonBarracks.stages.dull_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <PrisonBarracks.stages.slightly_impressive_barracks.label>något imponerande kasern</PrisonBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: My prison barracks is slightly impressive. -->
+  <PrisonBarracks.stages.slightly_impressive_barracks.description>Min fängelsekasern är ett trevligt ställe.</PrisonBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: somewhat impressive barracks -->
+  <PrisonBarracks.stages.somewhat_impressive_barracks.label>imponerande kasern</PrisonBarracks.stages.somewhat_impressive_barracks.label>
+  <!-- EN: My prison barracks is impressive. I like it. -->
+  <PrisonBarracks.stages.somewhat_impressive_barracks.description>Min fängelsekasern är imponerande. Jag gillar det.</PrisonBarracks.stages.somewhat_impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <PrisonBarracks.stages.very_impressive_barracks.label>mycket imponerande kasern</PrisonBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: My prison barracks is very impressive. I like it. -->
+  <PrisonBarracks.stages.very_impressive_barracks.description>Min fängelsekasern är mycket imponerande. Jag älskar det!</PrisonBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <PrisonBarracks.stages.extremely_impressive_barracks.label>extremt imponerande kasern</PrisonBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: My prison barracks is extremely impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.extremely_impressive_barracks.description>Min fängelsekasern är extremt imponerande. Jag kan inte tro att de håller mig i ett sådant här ställe.</PrisonBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.label>otroligt imponerande kasern</PrisonBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: My prison barracks is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.description>Min fängelsekasern är otroligt imponerande. Jag kan inte tro att de håller mig i ett sådant här ställe.</PrisonBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <PrisonBarracks.stages.wondrously_impressive_barracks.label>underbart imponerande kasern</PrisonBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: My prison barracks is wonderful! I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.wondrously_impressive_barracks.description>Min fängelsekasern är underbar! Jag kan inte tro att de håller mig i ett sådant här ställe.</PrisonBarracks.stages.wondrously_impressive_barracks.description>
   
   <!-- EN: awful prison cell -->
   <PrisonCell.stages.awful_prison_cell.label>fruktansvärd fängelsecell</PrisonCell.stages.awful_prison_cell.label>

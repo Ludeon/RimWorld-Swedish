@@ -166,13 +166,20 @@
   <!-- EN: slighted -->
   <Slighted.stages.slighted.label>förringad</Slighted.stages.slighted.label>
   
-  <!-- EN: bonded animal sold -->
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.label>kärt djur sålt</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
-  <!-- EN: My special bonded animal was sold to a trader! -->
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.description>Min speciella kära djur såldes till en handlare!</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
-  <!-- EN: sold my bonded animal -->
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>sålde mitt kära djur</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
+  <!-- EN: bonded animal given away -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>kärt djur gavs bort</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
+  <!-- EN: My special bonded animal was given away! -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>Min speciella kära djur gavs bort!</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
+  <!-- EN: gave away my bonded animal -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>gett bort mitt kära djur</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
   
+  <!-- EN: bonded animal given away -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>kärt djur gavs bort</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
+  <!-- EN: My special bonded animal was given away! -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>Min speciella kära djur gavs bort!</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
+  <!-- EN: gave away my bonded animal -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>gett bort mitt kära djur</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
+
   <!-- EN: loved one sold -->
   <SoldMyLovedOne.stages.loved_one_sold.label>älskade såld</SoldMyLovedOne.stages.loved_one_sold.label>
   <!-- EN: Someone I love was sold to a trader like a piece of meat! -->

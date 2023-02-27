@@ -8,20 +8,6 @@
   <!-- EN: Activate -->
   <PsychicAnimalPulser.comps.CompUsable.useLabel>Aktivera</PsychicAnimalPulser.comps.CompUsable.useLabel>
   
-  <!-- EN: psychic insanity lance -->
-  <PsychicInsanityLance.label>psykisk vansinneslans</PsychicInsanityLance.label>
-  <!-- EN: A one-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving him into a berserk state. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicInsanityLance.description>En psykisk effektor som kan användas en gång. Den överbelastar varelsers sinnen med skrämmande perceptuella förnimmelser och driver den till att gå bersärkargång. Det finns risk för hjärnskador. Fungerar på långa avstånd och genom väggar.</PsychicInsanityLance.description>
-  <!-- EN: Activate -->
-  <PsychicInsanityLance.comps.CompUsable.useLabel>Aktivera</PsychicInsanityLance.comps.CompUsable.useLabel>
-  
-  <!-- EN: psychic shock lance -->
-  <PsychicShockLance.label>psykisk chocklans</PsychicShockLance.label>
-  <!-- EN: A one-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping him into a state of psychic shock. There is a risk of brain damage. It works at long distances, and through walls. -->
-  <PsychicShockLance.description>En psykisk effektor som kan användas en gång. Den chockar varelsens medvetande med kaotiska bilder, blockerar sammanhållen perception och sänker personen till psykisk chock. Det finns risk för hjärnskador. Fungerar över på långa avstånd och genom väggar.</PsychicShockLance.description>
-  <!-- EN: Activate -->
-  <PsychicShockLance.comps.CompUsable.useLabel>Aktivera</PsychicShockLance.comps.CompUsable.useLabel>
-  
   <!-- EN: psychic soothe pulser -->
   <PsychicSoothePulser.label>lugnande psykisk pulsar</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->

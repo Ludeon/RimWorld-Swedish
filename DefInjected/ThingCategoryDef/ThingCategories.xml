@@ -13,9 +13,6 @@
   <!-- EN: body parts -->
   <BodyParts.label>kroppsdelar</BodyParts.label>
   
-  <!-- EN: artificial -->
-  <BodyPartsArtificial.label>konstgjorda</BodyPartsArtificial.label>
-  
   <!-- EN: natural -->
   <BodyPartsNatural.label>naturliga</BodyPartsNatural.label>
   

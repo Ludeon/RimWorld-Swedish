@@ -39,10 +39,10 @@
   <!-- EN: Examine and decide on research projects. -->
   <Research.description>Undersök och besluta om forskningsprojekt.</Research.description>
   
-  <!-- EN: restrict -->
-  <Restrict.label>begränsa</Restrict.label>
-  <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
-  <Restrict.description>Begränsa kolonister till vissa aktiviteter vid vissa tider på dagen, eller till specifikt tillåtna områden.</Restrict.description>
+  <!-- EN: schedule -->
+  <Schedule.label>Schema</Schedule.label>
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
+  <Schedule.description>Schemalägg kolonister till vissa aktiviteter vid vissa tider på dagen, eller till specifikt tillåtna områden.</Schedule.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>djurliv</Wildlife.label>
