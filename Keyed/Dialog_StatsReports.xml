@@ -6,7 +6,7 @@
   <!-- EN: damage -->
   <DamageLower>skada</DamageLower>
   <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower> slag per sekund</SecondsPerAttackLower>
+  <SecondsPerAttackLower>slag per sekund</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
   <StatsReport_BaseValue>Basvärde</StatsReport_BaseValue>
@@ -31,25 +31,37 @@
   <!-- EN: {0} importance -->
   <HealthFactorPercentImpact>{0} relevans</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
-  <HealthOffsetScale>påverkan</HealthOffsetScale>
+  <HealthOffsetScale>{0} påverkan</HealthOffsetScale>
   <!-- EN: {0} max -->
   <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
   <!-- EN: if below {0} -->
   <HealthFactorAllowedDefect>om under {0}</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
   <StatsReport_PostProcessed>Efterbehandlingskurva</StatsReport_PostProcessed>
+  <!-- EN: The chances to hit at increasing distances are -->
+  <StatsReport_ShootingExampleDistances>Chansen att träffa på ökande avstånd är</StatsReport_ShootingExampleDistances>
   <!-- EN: Final value -->
   <StatsReport_FinalValue>Slutgiltigt värde</StatsReport_FinalValue>
+  <!-- EN: Multiplier for {0} -->
+  <StatsReport_MultiplierFor>Multiplikator för {0}</StatsReport_MultiplierFor>
   <!-- EN: Materials and labor -->
   <StatsReport_MarketValueFromStuffsAndWork>Material och arbete</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>Kvalitémultiplikator</StatsReport_QualityMultiplier>
+  <!-- EN: Quality offset -->
+  <StatsReport_QualityOffset>Kvalitetsoffset</StatsReport_QualityOffset>
   <!-- EN: Max gain -->
   <StatsReport_MaxGain>Max vinst</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
   <StatsReport_AgeMultiplier>Åldersfaktor {0}</StatsReport_AgeMultiplier>
+  <!-- EN: Offset for age {0} -->
+  <StatsReport_AgeOffset>Offset för ålder {0}</StatsReport_AgeOffset>
   <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>Hälsofaktor {0}</StatsReport_HealthMultiplier>
+  <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
+  <StatsReport_ReloadMarketValue>Omladdningskostnad ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
+  <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
+  <StatsReport_ReloadRemainingChargesMultipler>Multiplikator för återstående {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>Humörsfaktor {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
@@ -62,6 +74,8 @@
   <StatsReport_Facilities>Faciliteter</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
   <StatsReport_BodySize>Kroppsstorleksfaktor {0}</StatsReport_BodySize>
+  <!-- EN: Damaged -->
+  <StatsReport_HasHediffExplanation>Skadad</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
   <StatsReport_MeleeDPSExplanation>DPS = Närstridsskada * Träffchans i närstrid / Återhämtning i sekunder</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
@@ -72,6 +86,12 @@
   <StatsReport_MeleeHitChance>Träffchans i närstrid</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} sek</StatsReport_CooldownFormat>
+  <!-- EN: Blocked by fences -->
+  <StatsReport_BlockedByFences>Blockerad av staket</StatsReport_BlockedByFences>
+  <!-- EN: Roam interval -->
+  <StatsReport_RoamInterval>Strövningsintervall</StatsReport_RoamInterval>
+  <!-- EN: Caravan rideable age -->
+  <StatsReport_CaravanRideableAge>Ridbar karavanålder</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>Förväntad livslängd</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
@@ -100,6 +120,8 @@
   <StatsReport_JoyKind>fritidssyssla</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>arbete för avinstallation</StatsReport_WorkToUninstall>
+  <!-- EN: Fence -->
+  <StatsReport_Fence>Stängsel</StatsReport_Fence>
   <!-- EN: Multiplier for growth {0} -->
   <StatsReport_PlantGrowth>Faktor för grohastighet {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
@@ -112,5 +134,399 @@
   <StatsReport_WildMan>Vilde</StatsReport_WildMan>
   <!-- EN: Attack -->
   <StatsReport_NonToolAttack>Attackera</StatsReport_NonToolAttack>
+  <!-- EN: Ideoligion -->
+  <StatsReport_Ideoligion>Ideologi</StatsReport_Ideoligion>
+  <!-- EN: Multiplier for malnutrition {0} -->
+  <StatsReport_Malnutrition>Multiplikator för Undernäring {0}</StatsReport_Malnutrition>
+
+  <!-- EN: Possible offsets -->
+  <StatReport_PossibleOffsets>Möjlig Offsets</StatReport_PossibleOffsets>
+  <!-- EN: Room impressiveness -->
+  <StatsReport_RoomImpressiveness>Rumintryck</StatsReport_RoomImpressiveness>
+  <!-- EN: Lit -->
+  <StatsReport_Lit>Belyst</StatsReport_Lit>
+  <!-- EN: Contains {0} -->
+  <StatsReport_GraveFull>Innehåller {0}</StatsReport_GraveFull>
+  <!-- EN: Contains a human corpse -->
+  <StatsReport_GraveFullAbstract>Innehåller ett människolik</StatsReport_GraveFullAbstract>
+  <!-- EN: Meditator is related to the corpse inside -->
+  <StatsReport_GraveCorpseRelatedAbstract>Den mediterande är släkt med liket inuti</StatsReport_GraveCorpseRelatedAbstract>
+  <!-- EN: From quality -->
+  <StatsReport_FromQuality>Från kvalitet</StatsReport_FromQuality>
+  <!-- EN: Nearby artificial structures -->
+  <StatsReport_NearbyArtificialStructures>Närliggande konstgjorda strukturer</StatsReport_NearbyArtificialStructures>
+  <!-- EN: Satisfies user's title requirements -->
+  <StatsReport_SatisfiesTitle>Uppfyller användarens titelkrav</StatsReport_SatisfiesTitle>
+
+  <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
+  <Stat_RecreationType_Desc>Olika rekreationskällor tillfredsställer olika rekreationstyper. Kolonister blir uttråkade av att göra samma rekreationstyp upprepade gånger, så det är viktigt att tillhandahålla en mängd olika rekreationskällor med olika rekreationstyper.</Stat_RecreationType_Desc>
+  <!-- EN: All recreation types -->
+  <Stat_JoyKind_AllTypes>Olika rekreationstyper</Stat_JoyKind_AllTypes>
+  <!-- EN: Mined item -->
+  <Stat_MineableThing_Name>Bergbrytningsresurs</Stat_MineableThing_Name>
+  <!-- EN: The item that will be yielded when mining this. -->
+  <Stat_MineableThing_Desc>Denna resurs kommer att utvinnas vid brytning av detta.</Stat_MineableThing_Desc>
+  <!-- EN: Mining yield -->
+  <Stat_MiningYield_Name>Gruvresurs</Stat_MiningYield_Name>
+  <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
+  <Stat_MiningYield_Desc>Den maximala mängden resurser vid brytning av detta. Den faktiska avkastningen kommer att justeras av gruvarbetarens gruvskicklighet.</Stat_MiningYield_Desc>
+  <!-- EN: Source species -->
+  <Stat_SourceSpecies_Name>Källarter</Stat_SourceSpecies_Name>
+  <!-- EN: The species of creature from which this was taken. -->
+  <Stat_SourceSpecies_Desc>Arten av varelse som detta togs från.</Stat_SourceSpecies_Desc>
+  <!-- EN: Stuff -->
+  <Stat_Stuff_Name>Grundmaterial</Stat_Stuff_Name>
+  <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
+  <Stat_Stuff_Desc>Grundmaterial den här saken är gjord av. Detta påverkar många annan statistik, inklusive vapenskador, kläder, rustningar och insulering, kropppspoäng för föremål och byggnader, skönhet, marknadsvärde och mycket mer.</Stat_Stuff_Desc>
+  <!-- EN: Weapon -->
+  <Stat_Weapon_Name>Vapen</Stat_Weapon_Name>
+  <!-- EN: The weapon used by this turret. -->
+  <Stat_Weapon_Desc>Vapnet som används av detta torn.</Stat_Weapon_Desc>
+  <!-- EN: How much damage an object can take before being destroyed. -->
+  <Stat_HitPoints_Desc>Hur mycket skada ett föremål kan ta innan det förstörs.</Stat_HitPoints_Desc>
+  <!-- EN: The amount of work it takes to uninstall this. -->
+  <Stat_Thing_WorkToUninstall_Desc>Hur mycket arbete det tar att avinstallera detta.</Stat_Thing_WorkToUninstall_Desc>
+  <!-- EN: Whether this building is a type of fence. Fences block these animals -->
+  <Stat_Thing_Fence_Desc>Huruvida denna byggnad är en typ av staket. Staket blockerar dessa djur</Stat_Thing_Fence_Desc>
+  <!-- EN: Which facilities can be used to produce this. -->
+  <Stat_Thing_CreatedAt_Desc>Vilka anläggningar kan användas för att producera detta.</Stat_Thing_CreatedAt_Desc>
+  <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
+  <Stat_Thing_Damage_Desc>Mängden skada detta vapen gör.\n\nDetta kan avledas eller mildras av målets rustning.</Stat_Thing_Damage_Desc>
+  <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>En multiplikator på mängden erfarenhet läkare får när de använder detta för att vårda en patient.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <!-- EN: The attributes of this plant. -->
+  <Stat_Thing_Plant_Attributes_Desc>Denna växts egenskaper.</Stat_Thing_Plant_Attributes_Desc>
+  <!-- EN: Clothing (for nudity) -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>Kläder (för nudister)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>Om nudister kommer att anse detta föremål som ett plagg. Om inte, kommer nudister aldrig att besväras av att bära detta.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
+  <Stat_Thing_Apparel_Covers_Desc>Vilka kroppsdelar detta täcker.\n\nRustningen skyddar inte kroppsdelar som den inte täcker.</Stat_Thing_Apparel_Covers_Desc>
+  <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
+  <Stat_Thing_Apparel_Layer_Desc>Vilka klädlager detta fyller.\n\nFör en given kroppsdel kan endast ett plagg bäras i varje lager.</Stat_Thing_Apparel_Layer_Desc>
+  <!-- EN: The minimum soil fertility that this plant requires to grow. -->
+  <Stat_Thing_Plant_FertilityRequirement_Desc>Den lägsta jordbördighet som denna växt kräver för att växa.</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>Hur känslig den här växten är för markens bördighet.\n\nLåg känslighet betyder att plantan växer ungefär lika snabbt i rik eller mager jord. Hög känslighet betyder att växten växer långsamt i fattig jord, men snabbare i rik jord.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <!-- EN: The amount of light this plant requires to grow. -->
+  <Stat_Thing_Plant_LightRequirement_Desc>Mängden ljus denna växt behöver för att växa.</Stat_Thing_Plant_LightRequirement_Desc>
+  <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
+  <Stat_Thing_Plant_LifeSpan_Desc>Växtens livslängd.\n\nVäxter dör naturligt efter att de når en viss ålder, även om de inte skördas.</Stat_Thing_Plant_LifeSpan_Desc>
+  <!-- EN: The amount of product this plant will yield when harvested. -->
+  <Stat_Thing_Plant_HarvestYield_Desc>Mängden resurser denna växt kommer att ge när den skördas.</Stat_Thing_Plant_HarvestYield_Desc>
+  <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>Den lägsta temperatur som denna växt kan överleva.\n\nTemperaturer under denna kommer att orsaka skada med tiden.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Den högsta temperatur som denna växt kan överleva.\n\nTemperaturer över denna kommer att orsaka skada med tiden.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Den minsta färdighet som krävs för en bonde att så denna växt.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
+  <Stat_Race_Diet_Desc>Vilken typ av mat denna varelse kan äta.\n\nKan äta: {0}</Stat_Race_Diet_Desc>
+  <!-- EN: The type of leather this creature will yield when butchered. -->
+  <Stat_Race_LeatherType_Desc>Den typ av läder denna varelse kommer att ge när den slaktas.</Stat_Race_LeatherType_Desc>
+  <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>Chansen att denna varelse kommer att attackera när en tämjare försöker tämja den och misslyckas.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
+  <Stat_Race_Trainability_Desc>Den här varelsens allmänna mentala förmåga att träna. Detta är en kombination av intelligens och uppmärksamhet. Det avgör vilka typer av uppgifter denna varelse kan tränas för att utföra.</Stat_Race_Trainability_Desc>
+  <!-- EN: The average life expectancy of this creature. -->
+  <Stat_Race_LifeExpectancy_Desc>Den genomsnittliga livslängden för denna varelse.</Stat_Race_LifeExpectancy_Desc>
+  <!-- EN: Whether this creature is blocked by fences and barricades. -->
+  <Stat_Race_BlockedByFences_Desc>Huruvida denna varelse är blockerad av staket och barrikader.</Stat_Race_BlockedByFences_Desc>
+  <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
+  <Stat_Race_RoamInterval_Desc>Hur ofta ett tamt djur försöker ströva iväg och lämna kartan.\n\nDjur strövar bara omkring om de har en direkt väg till kartkanten. Du kan använda staket, barrikader, väggar och dörrar för att förhindra detta.\n\nDjurskötare kan koppla strövande djur och föra dem tillbaka till ett hägn.</Stat_Race_RoamInterval_Desc>
+  <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
+  <Stat_Thing_Ingestible_Joy_Desc>Rekreationsvärdet av att få i sig detta. Högre värde kommer att uppfylla rekreationsbehovet mer.</Stat_Thing_Ingestible_Joy_Desc>
+  <!-- EN: The size of this creature's body, compared to an average adult human. -->
+  <Stat_Race_BodySize_Desc>Storleken på den här varelsens kropp, jämfört med en genomsnittlig vuxen människa.</Stat_Race_BodySize_Desc>
+  <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
+  <Stat_Race_Growth_Desc>Hur nära den här varelsen är vuxen ålder.\n\nTillväxt kräver näring. Ett hungrigt djur växer långsammare jämfört med ett välmatat.</Stat_Race_Growth_Desc>
+  <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Hur lång tid går det mellan när en närstridsattack med det här vapnet börjar och när det träffar.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <!-- EN: How much time passes between when a ranged attack begins aiming and when it fires. -->
+  <Stat_Thing_Weapon_RangedWarmupTime_Desc>Hur lång tid går det mellan när en avståndsattack börjar sikta och när den avfyras.</Stat_Thing_Weapon_RangedWarmupTime_Desc>
+  <!-- EN: The amount of shots this weapon fires in each burst. -->
+  <Stat_Thing_Weapon_BurstShotCount_Desc>Antalet skott som detta vapen avlossar i varje skur.</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <!-- EN: The fire rate of this weapon during each burst. -->
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>Eldhastigheten för detta vapen under varje skur.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <!-- EN: The maximum range of this weapon. -->
+  <Stat_Thing_Weapon_Range_Desc>Den maximala räckvidden för detta vapen.</Stat_Thing_Weapon_Range_Desc>
+  <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
+  <Stat_Thing_Weapon_MissRadius_Desc>Radien för slumpmässig spridning på skott som avlossas av detta vapen.\n\nHöga värden gör att projektiler sprids slumpmässigt runt målet.</Stat_Thing_Weapon_MissRadius_Desc>
+  <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
+  <Stat_Thing_Weapon_DirectHitChance_Desc>Chansen att ett skott träffar sitt mål om det inte avbryts, undviks eller stoppas.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <!-- EN: This body part's effect on the mood of the owner. -->
+  <Stat_Thing_MoodChange_Desc>Denna kroppsdels påverkan på ägarens humör.</Stat_Thing_MoodChange_Desc>
+  <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
+  <Stat_Recipe_Skill_Desc>Den huvudsakliga färdigheten som används när du utför detta recept.\n\nDet bestämmer kvaliteten på resultatet samt den färdighet som lärs in när du utför detta recept.</Stat_Recipe_Skill_Desc>
+  <!-- EN: The ingredients required to perform this recipe. -->
+  <Stat_Recipe_Ingredients_Desc>Ingredienserna som krävs för att utföra detta recept.</Stat_Recipe_Ingredients_Desc>
+  <!-- EN: The skills required to perform this recipe. -->
+  <Stat_Recipe_SkillRequirements_Desc>De färdigheter som krävs för att utföra detta recept.</Stat_Recipe_SkillRequirements_Desc>
+  <!-- EN: The products produced by this recipe. -->
+  <Stat_Recipe_Products_Desc>Produkterna som produceras av detta recept.</Stat_Recipe_Products_Desc>
+  <!-- EN: Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done. -->
+  <Stat_Recipe_WorkSpeedStat_Desc>Vilken karaktärsegenskap som styr arbetshastigheten för detta recept.\n\nJu högre egenskap hos arbetaren är, desto snabbare kommer arbetet att utföras.</Stat_Recipe_WorkSpeedStat_Desc>
+  <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
+  <Stat_Recipe_EfficiencyStat_Desc>Vilken karaktäregenskap som styr kvaliteten eller mängden utmatning.\n\nJu högre egenskap hos arbetaren är, desto högre blir kvaliteten eller avkastningen.</Stat_Recipe_EfficiencyStat_Desc>
+  <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>En multiplikator på chansen att denna operation kommer att bli framgångsrik. Svårare operationer har lägre multiplikatorer.\n\nDen faktiska chansen att en operation lyckas påverkas också av läkaren, anläggningarna och medicinen som används</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <!-- EN: Can't fail -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Kan ej misslyckas</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <!-- EN: Performing this operation is safe for the patient. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Att utföra denna operation är säkert för patienten.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <!-- EN: The chance the patient will die upon failure of this surgery. -->
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>Chansen att patienten kommer att dö vid en misslyckand operation.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <!-- EN: Total bleed factor -->
+  <Stat_Hediff_TotalBleedFactor_Name>Total blödningsfaktor</Stat_Hediff_TotalBleedFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of blood loss. -->
+  <Stat_Hediff_TotalBleedFactor_Desc>En multiplikator på den totala blodförlusten.</Stat_Hediff_TotalBleedFactor_Desc>
+  <!-- EN: Natural healing factor -->
+  <Stat_Hediff_NaturalHealingFactor_Name>Naturlig läkningsfaktor</Stat_Hediff_NaturalHealingFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
+  <Stat_Hediff_NaturalHealingFactor_Desc>En multiplikator som tillämpas på den totala hastigheten för naturlig sårläkning.</Stat_Hediff_NaturalHealingFactor_Desc>
+  <!-- EN: Food poisoning chance factor -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>Matförgiftning chans faktor</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>En multiplikator användes för risken att få matförgiftning.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <!-- EN: The rate at which this condition causes blood loss. -->
+  <Stat_Hediff_BleedingRate_Desc>Den hastighet med vilken detta tillstånd orsakar blodförlust.</Stat_Hediff_BleedingRate_Desc>
+  <!-- EN: The amount of pain caused by this condition. -->
+  <Stat_Hediff_Pain_Desc>Mängden smärta som orsakas av detta tillstånd.</Stat_Hediff_Pain_Desc>
+  <!-- EN: The offset in efficiency applied to body parts affected by this. -->
+  <Stat_Hediff_PartEfficiency_Desc>Förskjutningen i effektivitet tillämpas på kroppsdelar som påverkas av detta.</Stat_Hediff_PartEfficiency_Desc>
+  <!-- EN: The mental abilities this affects. -->
+  <Stat_Hediff_Affects_Desc>De mentala förmågorna detta påverkar.</Stat_Hediff_Affects_Desc>
+  <!-- EN: Hunger rate offset -->
+  <Stat_Hediff_HungerRateOffset_Name>Hungertakt offset</Stat_Hediff_HungerRateOffset_Name>
+  <!-- EN: A multiplier on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateFactor_Desc>En multiplikator på den hastighet med vilken matbehovet töms.</Stat_Hediff_HungerRateFactor_Desc>
+  <!-- EN: An offset on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateOffset_Desc>En förskjutning på den hastighet med vilken matbehovet töms.</Stat_Hediff_HungerRateOffset_Desc>
+  <!-- EN: Rest fall rate -->
+  <Stat_Hediff_TirednessOffset_Name>Vila fallhastighet</Stat_Hediff_TirednessOffset_Name>
+  <!-- EN: An offset applied to the rate at which the creature's sleep need falls. -->
+  <Stat_Hediff_TirednessOffset_Desc>En offset som tillämpas på den hastighet med vilken varelsens sömnbehov faller.</Stat_Hediff_TirednessOffset_Desc>
+  <!-- EN: A multiplier applied to the rate at which the creature's sleep need falls. -->
+  <Stat_Hediff_TirednessFactor_Desc>En multiplikator som tillämpas på den hastighet med vilken varelsens sömnbehov faller.</Stat_Hediff_TirednessFactor_Desc>
+  <!-- EN: Whether or not this will prevent infections. -->
+  <Stat_Hediff_PreventsInfection_Desc>Huruvida detta kommer att förhindra infektioner eller inte.</Stat_Hediff_PreventsInfection_Desc>
+  <!-- EN: The things this terrain supports. -->
+  <Stat_Thing_Terrain_Supports_Desc>De saker som denna terräng stödjer.</Stat_Thing_Terrain_Supports_Desc>
+  <!-- EN: This can only be placed on terrain of these types. -->
+  <Stat_Thing_TerrainRequirement_Desc>Denna kan endast placeras på terräng av dessa typer.</Stat_Thing_TerrainRequirement_Desc>
+  <!-- EN: Considered -->
+  <Stat_Thing_Terrain_Fine_Name>Anses vara</Stat_Thing_Terrain_Fine_Name>
+  <!-- EN: Fine -->
+  <Stat_Thing_Terrain_Fine_Value>Bra</Stat_Thing_Terrain_Fine_Value>
+  <!-- EN: This floor is considered fine and suitable for royalty. -->
+  <Stat_Thing_Terrain_Fine_Desc>Denna våning anses vara bra och lämplig för kungligheter.</Stat_Thing_Terrain_Fine_Desc>
+  <!-- EN: The amount of power this building will draw from the power grid. -->
+  <Stat_Thing_PowerConsumption_Desc>Mängden ström som denna byggnad kommer att dra från elnätet.</Stat_Thing_PowerConsumption_Desc>
+  <!-- EN: {CHARGENOUN_plural} remaining -->
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural} återstående</Stat_Thing_ReloadChargesRemaining_Name>
+  <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
+  <Stat_Thing_ReloadChargesRemaining_Desc>Antalet {CHARGENOUN_plural} kvarvarane på detta objekt. Om dessa tar slut kan specialförmågan inte längre användas</Stat_Thing_ReloadChargesRemaining_Desc>
+  <!-- EN: {CHARGENOUN_plural} -->
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
+  <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
+  <Stat_Thing_ReloadMaxCharges_Desc>Det maximala antal {CHARGENOUN_plural}, detta objekt har.</Stat_Thing_ReloadMaxCharges_Desc>
+  <!-- EN: {CHARGENOUN} reload cost -->
+  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN}-omladdningskostnad</Stat_Thing_ReloadRefill_Name>
+  <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
+  <Stat_Thing_ReloadRefill_Desc>Mängden artiklar som krävs för att ladda om detta objekt helt.\n\nDetta objekt kan laddas om innan det är tomt, men kostnaden är densamma som om det var tomt.</Stat_Thing_ReloadRefill_Desc>
+  <!-- EN: Reload cost per {CHARGENOUN} -->
+  <Stat_Thing_ReloadPerCharge_Name>Omladdningskostnad per {CHARGENOUN}</Stat_Thing_ReloadPerCharge_Name>
+  <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
+  <!-- GER: Die Menge an Gegenständen, die erforderlich sind, um {CHARGENOUN_gender ? einen : eine : ein} {CHARGENOUN} nachzuladen. Es können mehrere {CHARGENOUN_plural} auf einmal nachgeladen werden. -->
+  <Stat_Thing_ReloadPerCharge_Desc>Mängden artiklar som krävs för att ladda om en {CHARGENOUN}. Flera {CHARGENOUN_plural} kan laddas om samtidigt.</Stat_Thing_ReloadPerCharge_Desc>
+  <!-- EN: Vanish on exhaust -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>Försvinner som avgaser</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
+  <!-- GER: Dieses Objekt löst sich auf, wenn dessen {CHARGENOUN_gender ? letzter : letzte : letztes} {CHARGENOUN} aufgebraucht ist. -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>Det här objektet försvinner när dess sista {CHARGENOUN} används.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <!-- EN: The overall efficiency of this body part. -->
+  <Stat_Thing_BodyPartEfficiency_Desc>Den övergripande effektiviteten av denna kroppsdel.</Stat_Thing_BodyPartEfficiency_Desc>
+  <!-- EN: Install sites -->
+  <Stat_Thing_InstallSites>Installationsplats</Stat_Thing_InstallSites>
+  <!-- EN: Areas on the body where this can be installed. -->
+  <Stat_Thing_InstallSites_Desc>Områden på kroppen där detta kan installeras.</Stat_Thing_InstallSites_Desc>
+  <!-- EN: Replaces parts -->
+  <Stat_Thing_ReplacesParts>Ersätter kroppsdelar</Stat_Thing_ReplacesParts>
+  <!-- EN: Body parts which are replaced by this when installed. -->
+  <Stat_Thing_ReplacesParts_Desc>Kroppsdelar som ersätts av detta vid montering.</Stat_Thing_ReplacesParts_Desc>
+  <!-- EN: Biocoding -->
+  <Stat_Thing_Biocoded_Name>Biokodning</Stat_Thing_Biocoded_Name>
+  <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
+  <Stat_Thing_Biocoded_Desc>Detta objekt har kodats för att endast acceptera en viss individs biosignatur.</Stat_Thing_Biocoded_Desc>
+  <!-- EN: Required apparel -->
+  <Stat_Pawn_RequiredApparel_Name>Nödvändiga kläder</Stat_Pawn_RequiredApparel_Name>
+  <!-- EN: Growth rate -->
+  <Stat_Thing_Plant_GrowthRate>Tillväxthastighet</Stat_Thing_Plant_GrowthRate>
+  <!-- EN: The rate at which a plant is growing.\n\nGrowth rate is affected by things like soil fertility, temperature, light, and environmental conditions. -->
+  <Stat_Thing_Plant_GrowthRate_Desc>Hastigheten med vilken en växt växer.\n\nTillväxthastigheten påverkas av saker som markens bördighet, temperatur, ljus och miljöförhållanden.</Stat_Thing_Plant_GrowthRate_Desc>
+  <!-- EN: Age -->
+  <Stat_Thing_Plant_Age>Ålder</Stat_Thing_Plant_Age>
+  <!-- EN: How long this has been alive. -->
+  <Stat_Thing_Plant_AgeDesc>Hur länge har detta levt.</Stat_Thing_Plant_AgeDesc>
+  <!-- EN: Lifespan -->
+  <Stat_Thing_Plant_Lifespan>Livslängd</Stat_Thing_Plant_Lifespan>
+  <!-- EN: Paintable -->
+  <Stat_Building_Paintable>Målbar</Stat_Building_Paintable>
+  <!-- EN: Whether this can be painted using dye. -->
+  <Stat_Building_PaintableDesc>Om detta kan målas med fär.</Stat_Building_PaintableDesc>
+  <!-- EN: Paint color -->
+  <Stat_Building_PaintColor>Färg</Stat_Building_PaintColor>
+  <!-- EN: The color this building was painted. -->
+  <Stat_Building_PaintColorDesc>Färgen denna byggnad målades i.</Stat_Building_PaintColorDesc>
+
+  <!-- Drugs -->
+  <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
+  <Stat_Thing_Drug_Chemical_Desc>Den aktiva kemikalien i detta.\n\nI vissa fall finns samma kemikalie i flera olika läkemedel. Dessa olika droger kommer att tillfredsställa samma beroende på olika sätt.</Stat_Thing_Drug_Chemical_Desc>
+  <!-- EN: The category this drug belongs to. -->
+  <Stat_Thing_Drug_Category_Desc>Kategorin denna drog tillhör.</Stat_Thing_Drug_Category_Desc>
+  <!-- EN: The intensity of high gained per dose of this drug. -->
+  <Stat_Thing_Drug_HighGainPerDose_Desc>Intensiteten av hög effekt per dos av denna drog.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <!-- EN: How much this drug's high will decay each day. -->
+  <Stat_Thing_Drug_HighFallPerDay_Desc>Hur mycket denna drogs rus kommer att förfalla varje dag.</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>Hur länge det här läkemedlets rus nivå kommer att hålla per dos.\n\nDetta beräknas från den effekten per dos och den rusets fallhastigheten.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>Hur mycket en brukares tolerans mot kemikalien kommer att öka för varje dos av denna drog.\n\nDetta kan vara olika för olika former av samma kemikalie.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>Hur mycket en brukares tolerans mot kemikalien kommer att minska per dag.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>Den minsta tolerans som krävs för att bli beroende av denna drog.\n\nOm en brukare är under denna toleransnivå kan de inte bli beroende av att ta en dos.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <!-- EN: An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size. -->
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>En vuxen blir bara beroende om de tar drogen oftare än så här.\n\nDetta beräknas från drogens minsta tolerans för missbrukare, toleransökningen per dos och graden av toleransnedgång. Vissa droger har inte ett säkert intervall. Sådana droger kan vara beroende av vilken dos som helst, även den första.\n\nObservera att det säkra dosintervallet beror på en persons kroppsstorlek.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
+  <Stat_Thing_Drug_RandomODChance_Desc>Risken för en slumpmässig överdos när du tar denna drog. Slumpmässiga överdoser kan inträffa på vilken dos som helst, oavsett om det är en ny användares första försök eller en erfaren missbrukares hundrade träff.</Stat_Thing_Drug_RandomODChance_Desc>
+  <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
+  <Stat_Thing_Drug_Addictiveness_Desc>Risken för missbruk per dos av denna drog.\n\nOm läkemedlet har en minsta tolerans mot missbrukare måste toleransen vara över den nivån för att detta ska gälla. Om det inte finns någon minimitolerans kan vilken dos som helst orsaka ett beroende.</Stat_Thing_Drug_Addictiveness_Desc>
+  <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>Nya beroenden orsakade av denna drog börjar på denna svårighetsgrad.\n\nOm du tar mer av drogen ökar missbrukets svårighetsgrad, medan tiden kommer att minska det.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>Hur lång tid det tar att återhämta sig från ett första beroende av detta läkemedel.\n\nDetta beräknas utifrån den nya svårighetsgraden för missbruket dividerat med graden av återhämtning av beroendet. Ett beroende som har matats kommer att ta längre tid.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>Hur mycket svårighetsgrad läggs till för ett befintligt beroende för varje dos av detta läkemedel.\n\nBeroendes svårighetsgrad kan inte överstiga 100 %.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>Hur ofta en missbrukare behöver ta en dos av denna drog för att föda missbruket och förhindra abstinens.\n\nDetta beräknas från missbrukets fallhastighet och behovsfyllningen per dos.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>Hur mycket varje dos av denna drog fyller en missbrukares behov av kemikalien.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <!-- EN: How quickly an addict's need for the chemical will fall. -->
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>Hur snabbt en missbrukares behov av kemikalien kommer att falla.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
+  <Stat_Thing_Drug_AddictionCost_Desc>Marknadsvärdet av droger som måste konsumeras per dag för att stödja ett beroende av denna drog utan att gå in i abstinens.\n\nDetta värde beräknas utifrån missbrukarens kemikaliebehov per dos, behovets fallhastighet och marknadsvärdet för denna drog .\n\nObservera att det kan finnas andra sätt att få samma kemikalie med olika kostnader.</Stat_Thing_Drug_AddictionCost_Desc>
+
+  <!-- EN: Style -->
+  <Stat_Thing_StyleLabel>Stil</Stat_Thing_StyleLabel>
+  <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
+  <Stat_Thing_StyleDesc>Ett objekts stil avgör dess utseende. Detta har ingen speleffekt. Stilar utgör ofta de olika konstruktionsmetoderna som används av människor med olika övertygelser och kulturer.</Stat_Thing_StyleDesc>
+
+  <!-- EN: Gestation time -->
+  <Stat_Animal_GestationTime>Dräktighetstid</Stat_Animal_GestationTime>
+  <!-- EN: The time this species takes to gestate its offspring or eggs. -->
+  <Stat_Animal_GestationTimeDesc>Den tid det tar för denna art att vara dräktiga med sina avkommor eller ägg.</Stat_Animal_GestationTimeDesc>
+  <!-- EN: Litter size -->
+  <Stat_Animal_LitterSize>Kullstorlek</Stat_Animal_LitterSize>
+  <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
+  <Stat_Animal_LitterSizeDesc>Antalet avkommor som denna varelse skapar per kull. Om detta är ett intervall kommer varje specifik kull att ha ett slumpmässigt antal avkommor i detta intervall.</Stat_Animal_LitterSizeDesc>
+  <!-- EN: Adult meat amount -->
+  <Stat_Animal_AdultMeatAmount>Vuxen köttmängd</Stat_Animal_AdultMeatAmount>
+  <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
+  <Stat_Animal_AdultMeatAmountDesc>Basmängden kött som produceras genom att slakta en vuxen medlem av denna art. Den faktiska avkastningen påverkas av andra faktorer som skador på kroppen och slaktarens skicklighet.</Stat_Animal_AdultMeatAmountDesc>
+  <!-- EN: Growth time -->
+  <Stat_Animal_GrowthTime>Tillväxttid</Stat_Animal_GrowthTime>
+  <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
+  <Stat_Animal_GrowthTimeDesc>Hur lång tid det normalt tar för denna varelse att nå vuxen ålder. Den här tiden kommer att vara längre om varelsen svälter.</Stat_Animal_GrowthTimeDesc>
+  <!-- EN: Meat per day during growth -->
+  <Stat_Animal_MeatPerDayDuringGrowth>Kött per dag under tillväxt</Stat_Animal_MeatPerDayDuringGrowth>
+  <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>Den här varelsen får denna mängd kött för varje dag den växer fram tills den når vuxen ålder.\n\nDetta värde beräknas från köttmängden och tillväxttiden.</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <!-- EN: Grass to maintain -->
+  <Stat_Animal_GrassToMaintain>Gräs att underhålla</Stat_Animal_GrassToMaintain>
+  <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
+  <Stat_Animal_GrassToMaintainDesc>Det typiska antalet gräsväxter som denna varelse behöver för att uppfylla sina kostbehov. Detta är baserat på normalt gräs vid typiska tillväxthastigheter och ignorerar vintern.</Stat_Animal_GrassToMaintainDesc>
+  <!-- EN: Egg type -->
+  <Stat_Animal_EggType>Egg-Typ</Stat_Animal_EggType>
+  <!-- EN: The type of egg this creature lays. -->
+  <Stat_Animal_EggTypeDesc>Typen av ägg denna varelse lägger.</Stat_Animal_EggTypeDesc>
+  <!-- EN: Eggs per year -->
+  <Stat_Animal_EggsPerYear>Ägg per år</Stat_Animal_EggsPerYear>
+  <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
+  <Stat_Animal_EggsPerYearDesc>Antalet ägg denna varelse kommer att lägga per år. Vissa varelser behöver befruktas för att lägga ägg. Äggläggningen kommer att gå långsammare om varelsen svälter.</Stat_Animal_EggsPerYearDesc>
+  <!-- EN: Egg nutrition -->
+  <Stat_Animal_EggNutrition>Ägg näring</Stat_Animal_EggNutrition>
+  <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
+  <Stat_Animal_EggNutritionDesc>Mängden näring i ett enda ägg som denna varelse lägger.</Stat_Animal_EggNutritionDesc>
+  <!-- EN: Egg nutrition per year -->
+  <Stat_Animal_EggNutritionYearly>Äggnäring per år</Stat_Animal_EggNutritionYearly>
+  <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
+  <Stat_Animal_EggNutritionYearlyDesc>Mängden årlig näring som genereras av ägg som läggs av denna varelse varje år.\n\nDetta värde beräknas från ägg per år och äggnäring.</Stat_Animal_EggNutritionYearlyDesc>
+  <!-- EN: Egg market value -->
+  <Stat_Animal_EggMarketValue>Ägg marknadsvärde</Stat_Animal_EggMarketValue>
+  <!-- EN: The market value of a single laid egg. -->
+  <Stat_Animal_EggMarketValueDesc>Marknadsvärdet av ett enstaka ägg.</Stat_Animal_EggMarketValueDesc>
+  <!-- EN: Egg value per year -->
+  <Stat_Animal_EggMarketValueYearly>Äggvärde per år</Stat_Animal_EggMarketValueYearly>
+  <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
+  <Stat_Animal_EggMarketValueYearlyDesc>Det totala värdet av ägg som normalt läggs under loppet av ett år.\n\nDetta beräknas från ägg per år och äggmarknadsvärde.</Stat_Animal_EggMarketValueYearlyDesc>
+  <!-- EN: Milk type -->
+  <Stat_Animal_MilkType>Mjölktyp</Stat_Animal_MilkType>
+  <!-- EN: The type of milk this creature produces. -->
+  <Stat_Animal_MilkTypeDesc>Den typ av mjölk som denna varelse producerar.</Stat_Animal_MilkTypeDesc>
+  <!-- EN: Milk amount -->
+  <Stat_Animal_MilkAmount>Mjölkmängd</Stat_Animal_MilkAmount>
+  <!-- EN: The amount of milk this creature produces each time it is milked. -->
+  <Stat_Animal_MilkAmountDesc>Mängden mjölk denna varelse producerar varje gång den mjölkas.</Stat_Animal_MilkAmountDesc>
+  <!-- EN: Milking interval -->
+  <Stat_Animal_MilkGrowthTime>Mjölkningsintervall</Stat_Animal_MilkGrowthTime>
+  <!-- EN: The amount of time this creature needs between milkings. -->
+  <Stat_Animal_MilkGrowthTimeDesc>Den tid denna varelse behöver mellan mjölkningarna.</Stat_Animal_MilkGrowthTimeDesc>
+  <!-- EN: Milk per year -->
+  <Stat_Animal_MilkPerYear>Mjölk per år</Stat_Animal_MilkPerYear>
+  <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
+  <Stat_Animal_MilkPerYearDesc>Mängden mjölk som produceras av detta djur under loppet av ett år.\n\nDetta beräknas utifrån mjölkmängd och mjölkningsintervall.</Stat_Animal_MilkPerYearDesc>
+  <!-- EN: Milk market value -->
+  <Stat_Animal_MilkValue>Mjölkens marknadsvärde</Stat_Animal_MilkValue>
+  <!-- EN: The value of one unit of this creature's milk. -->
+  <Stat_Animal_MilkValueDesc>Värdet av en enhet av denna varelse mjölk.</Stat_Animal_MilkValueDesc>
+  <!-- EN: Milk value per year -->
+  <Stat_Animal_MilkValuePerYear>Mjölkvärde per år</Stat_Animal_MilkValuePerYear>
+  <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
+  <Stat_Animal_MilkValuePerYearDesc>Marknadsvärdet på ett års mjölk från denna varelse, förutsatt att den aldrig blir hungrig och mjölkas direkt i slutet av varje mjölkintervall.\n\nDetta beräknas från mjölk per år och mjölkmarknadsvärde.</Stat_Animal_MilkValuePerYearDesc>
+  <!-- EN: Wool type -->
+  <Stat_Animal_WoolType>Ulltyp</Stat_Animal_WoolType>
+  <!-- EN: The type of wool produced by this creature. -->
+  <Stat_Animal_WoolTypeDesc>Typen av ull som produceras av denna varelse.</Stat_Animal_WoolTypeDesc>
+  <!-- EN: Wool amount -->
+  <Stat_Animal_WoolAmount>Ullmängd</Stat_Animal_WoolAmount>
+  <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
+  <Stat_Animal_WoolAmountDesc>Mängden ull som denna varelse ger varje gång den klipps.</Stat_Animal_WoolAmountDesc>
+  <!-- EN: Wool shearing interval -->
+  <Stat_Animal_WoolGrowthTime>Ullklippningsintervall</Stat_Animal_WoolGrowthTime>
+  <!-- EN: The time after shearing before this creature can be shorn again. -->
+  <Stat_Animal_WoolGrowthTimeDesc>Tiden efter klippningen innan denna varelse kan klippas igen.</Stat_Animal_WoolGrowthTimeDesc>
+  <!-- EN: Wool amount per year -->
+  <Stat_Animal_WoolPerYear>Ullmängd per år</Stat_Animal_WoolPerYear>
+  <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
+  <Stat_Animal_WoolPerYearDesc>Mängden ull som produceras av denna varelse per år.\n\nDetta beräknas utifrån ullmängd och ullklippningsintervall.</Stat_Animal_WoolPerYearDesc>
+  <!-- EN: Wool market value -->
+  <Stat_Animal_WoolValue>Ull marknadsvärde</Stat_Animal_WoolValue>
+  <!-- EN: The market value of one unit of this creature's wool. -->
+  <Stat_Animal_WoolValueDesc>Marknadsvärdet för en enhet av denna varelse ull.</Stat_Animal_WoolValueDesc>
+  <!-- EN: Wool value per year -->
+  <Stat_Animal_WoolValuePerYear>Ullvärde per år</Stat_Animal_WoolValuePerYear>
+  <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
+  <Stat_Animal_WoolValuePerYearDesc>Marknadsvärdet av ett års ull från denna varelse.\n\nDetta beräknas från ullmängd per år och ullmarknadsvärde.</Stat_Animal_WoolValuePerYearDesc>
+
+  <!-- EN: How much of the total possible study you have performed on this object. -->
+  <Stat_Studiable_Desc>Hur mycket av den totala möjliga studien du har utfört på detta objekt.</Stat_Studiable_Desc>
+
+  <!-- EN: Source -->
+  <Stat_Source_Label>Källa</Stat_Source_Label>
+  <!-- EN: This content came from the official expansion -->
+  <Stat_Source_OfficialExpansionReport>Detta innehåll kom från den officiella expansionen</Stat_Source_OfficialExpansionReport>
+  <!-- EN: This content came from the mod -->
+  <Stat_Source_ModReport>Detta innehåll kom från modden</Stat_Source_ModReport>
 
 </LanguageData>
