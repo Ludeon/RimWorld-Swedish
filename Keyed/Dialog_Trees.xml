@@ -10,6 +10,8 @@
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
   <FactionGreetingWarm>{0} hälsar hjärtligt på {NEGOTIATOR_labelShort} och undrar hur {LEADER_pronoun} kan hjälpa till.</FactionGreetingWarm>
 
+  <!-- EN: won't do {0} -->
+  <WorkTypeDisablesOption>kommer inte att göra {0}</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
   <Disconnect>Koppla från</Disconnect>
 
