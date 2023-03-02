@@ -22,21 +22,47 @@
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>Varning: Medelvärdet av relevanta färdigheter är väldigt lågt.</SelectedWorkTypeWithVeryBadSkill>
-  
+  <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
+  <PriorityOneDoneFirst>Prioritet 1 görs först. Prioritet 4 görs sist.</PriorityOneDoneFirst>
+  <!-- EN: Will not do -->
+  <Priority0>Kommer inte att göra</Priority0>
+  <!-- EN: Top priority -->
+  <Priority1>Högsta prioritet</Priority1>
+  <!-- EN: High priority -->
+  <Priority2>Hög prioritet</Priority2>
+  <!-- EN: Normal priority -->
+  <Priority3>Normal prioritet</Priority3>
+  <!-- EN: Low priority -->
+  <Priority4>Låg prioritet</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>{0}\n\nFaktionen {1_nameDef} tillhör för närvarande.\n\nKlicka för att se fraktionen.</PawnFactionInfo>
+  <!-- EN: Disabled by {0} backstory -->
+  <WorkDisabledByBackstory>Inaktiverad av {0} bakgrund</WorkDisabledByBackstory>
+  <!-- EN: Disabled by {0} trait -->
+  <WorkDisabledByTrait>Inaktiverad av egenskap {0}</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest '{0}' -->
+  <WorkDisabledByQuest>Inaktiverad av uppdrag '{0}'</WorkDisabledByQuest>
+
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Hantera utstyrsel</ManageOutfits>
+  <!-- EN: Unchangeable -->
+  <Unchangeable>Oföränderlig</Unchangeable>
   <!-- EN: Clear forced -->
   <ClearForcedApparel>Ta av tvångskläder</ClearForcedApparel>
   <!-- EN: forced -->
   <ApparelForcedLower>Tvingad</ApparelForcedLower>
+  <!-- EN: locked -->
+  <ApparelLockedLower>låst</ApparelLockedLower>
   <!-- EN: Forced apparel -->
   <ForcedApparel>Tvångskläder</ForcedApparel>
   <!-- EN: Edit... -->
   <AssignTabEdit>Redigera...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Hantera drogpolicy</ManageDrugPolicies>
-  
+  <!-- EN: Manage food restrictions -->
+  <ManageFoodRestrictions>Hantera kostplaner</ManageFoodRestrictions>
+
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
   <Copy>Kopiera</Copy>
@@ -52,22 +78,36 @@
   <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>Är kärt till</BondedTo>
+  <!-- EN: Sterilize animal. -->
+  <SterilizeAnimal>Sterilisera djur.</SterilizeAnimal>
+  <!-- EN: Animal sterile. -->
+  <AnimalAlreadySterile>Djur steril.</AnimalAlreadySterile>
   
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>Denna varelse är en rovdjur. När det är hungrigt kommer den att jaga mindre varelser - eventuellt även människor.</IsPredator>
+  <!-- EN: This creature is currently in mental state: {0} -->
+  <IsInMentalState>Denna varelse är för närvarande i mentalt tillstånd:</IsInMentalState>
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
   <Hostile>Fientlig</Hostile>
   <!-- EN: Ally -->
   <Ally>Allierad</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>fientlig</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>allierad</AllyLower>  
   <!-- EN: defeated -->
   <DefeatedLower>besegrad</DefeatedLower>
   <!-- EN: Enemy of {0} -->
-  <HostileTo>Fiende av {0}</HostileTo>
-  <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>Nuvarande välvilja och relationstatus med denna grupp.</CurrentGoodwillTip>
+  <HostileTo>Fiende till {0}</HostileTo>
+  <!-- EN: Enemy of:  -->
+  <EnemyOf>Fiende till:</EnemyOf>
+  <!-- EN: Recent events -->
+  <RecentEvents>Nyliga händelser</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>Pågående händelser</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>Denna grupp är permanent fientlig. De kommer ibland attackera dina bosättningar och karavaner. Förhållandet med dem kommer aldrig att förbättras.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -76,8 +116,6 @@
   <CurrentGoodwillTip_Neutral>Denna grupp är neutral. De kommer att handla och prata med dig. Om relationerna faller under {0} blir de fientliga. Om relationerna stiger över {1} kommer de att bli allierade och aktivt arbeta för att hjälpa dig.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>Denna grupp är fientlig. De kommer ibland attackera dina bosättningar och karavaner. Om relationerna stiger över {0} blir de neutrala.</CurrentGoodwillTip_Hostile>
-  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
-  <CurrentGoodwillTip_NaturalGoodwill>Denna grupp har ett neutralt välviljeintervall från {0} till {1}. Om era relationer är över {1} kommer den att falla med {3} varje dag. Om era relationer är under {0}, kommer den att stiga med {2} per dag.</CurrentGoodwillTip_NaturalGoodwill>
   
   <!-- Social tab -->
   <!-- EN: Friend -->
@@ -113,7 +151,7 @@
 
   <!-- History tab - Messages -->
   <!-- EN: Show letters -->
-  <ShowLetters>Visa brev</ShowLetters>
+  <ShowLetters>Visa notiser</ShowLetters>
   <!-- EN: Show messages -->
   <ShowMessages>Visa meddelanden</ShowMessages>
   <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
@@ -132,8 +170,8 @@
   <ThisMapColonyWealthItems>Kolonins rikedom (föremål) (denna karta)</ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
   <ThisMapColonyWealthBuildings>Kolonins rikedom (byggnader) (denna karta)</ThisMapColonyWealthBuildings>
-  <!-- EN: Colony wealth (animals) (this map) -->
-  <ThisMapColonyWealthTameAnimals>Kolonins rikedom (djur) (denna karta)</ThisMapColonyWealthTameAnimals>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>Kolonins rikedom (personer och djur) (denna karta)</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
   <NumThreatBigs>Stora hot</NumThreatBigs>
   <!-- EN: Enemy raids -->
@@ -145,14 +183,174 @@
   <!-- EN: Colonists launched into space -->
   <ColonistsLaunched>Kolonister uppskickade i rymden</ColonistsLaunched>
 
-  <!-- Research tab -->
-  <!-- EN: project tech level -->
-  <ProjectTechLevel>projektets teknologiska nivå</ProjectTechLevel>
-  <!-- EN: your tech level -->
-  <YourTechLevel>din teknologiska nivå</YourTechLevel>
-  <!-- EN: cost multiplier -->
-  <ResearchCostMultiplier>kostnadsmultiplikator</ResearchCostMultiplier>
+  <!-- EN: Research -->
+  <Research>Forskning</Research>
+  <!-- EN: Study -->
+  <Study>Studie</Study>
+  <!-- EN: Study {0} -->
+  <StudyThing>Studie {0}</StudyThing>
+  <!-- EN: Unresearched -->
+  <Unresearched>Oundersökt</Unresearched>
+  <!-- EN: Finished -->
+  <Finished>Avslutad</Finished>
+  <!-- EN: In Progress -->
+  <InProgress>Pågående</InProgress>
+  <!-- EN: Locked -->
+  <Locked>Låst</Locked>
+  <!-- EN: Research prerequisites -->
+  <ResearchPrerequisites>Forskningsförutsättningar</ResearchPrerequisites>
+  <!-- EN: Techprints required {0} / {1} -->
+  <ResearchTechprintRequirement>Teknikplan krävs {0}/{1}</ResearchTechprintRequirement>
+  <!-- EN: Insufficient techprints applied ({0} / {1}) -->
+  <InsufficientTechprintsApplied>För få tekniskplaner aktiverade ({0} / {1})</InsufficientTechprintsApplied>
+  <!-- EN: Prerequisite(s) not completed -->
+  <PrerequisitesNotCompleted>Förutsättning(ar) ej genomförda</PrerequisitesNotCompleted>
+  <!-- EN: Missing required research facilities -->
+  <MissingRequiredResearchFacilities>Saknar nödvändiga forskningsfaciliteter</MissingRequiredResearchFacilities>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>Krävs forskningsbänk</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>Kräver forskningsbänk</RequiredResearchBenchFacilities>
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
-  <ResearchCostComparison>Projektets grundkostnad {0} blir {1} tack vare din teknologiska nivå.</ResearchCostComparison>
+  <ResearchCostComparison>Projektets baskostnad {0} blir {1} för dig på grund av din tekniska nivå.</ResearchCostComparison>
+  <!-- EN: Techprints are available from these factions via trade and quests: -->
+  <ResearchTechprintsFromFactions>Teknikplaner är tillgängliga från dessa faktioner via handel och uppdrag:</ResearchTechprintsFromFactions>
+  <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
+  <TechLevelTooLow>Din fraktionstekniska nivå är {0}, men det här projektets tekniska nivå är {1}. Forskningshastigheten multipliceras med {2}.</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>Låses upp med</UnlockedWith>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>Fraktioner</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>Inga kända fraktioner</NoFactions>
+
+  <!-- Quests tab -->
+  <!-- EN: Available -->
+  <AvailableQuests>Tillgängliga</AvailableQuests>
+  <!-- EN: Active -->
+  <ActiveQuests>Aktiva</ActiveQuests>
+  <!-- EN: Historical -->
+  <HistoricalQuests>Historiska</HistoricalQuests>
+  <!-- EN: no quest selected -->
+  <NoQuestSelected>inget uppdrag valt</NoQuestSelected>
+  <!-- EN: Appeared {0} days ago -->
+  <AppearedDaysAgo>Dök upp för {0} dagar sedan</AppearedDaysAgo>
+  <!-- EN: Appeared on {0} -->
+  <AppearedOn>Dök upp på {0}</AppearedOn>
+  <!-- EN: Accepted {0} ago -->
+  <AcceptedAgo>Godkänd för {0} sedan</AcceptedAgo>
+  <!-- EN: Accepted on {0} -->
+  <AcceptedOn>Godkänd den {0}</AcceptedOn>
+  <!-- EN: Accepted {0} ago by {1} -->
+  <AcceptedAgoBy>Godkänd för {0} sedan av {1}</AcceptedAgoBy>
+  <!-- EN: Accepted on {0} by {1} -->
+  <AcceptedOnBy>Godkänd den {0} av {1}</AcceptedOnBy>
+  <!-- EN: Expires in {0} -->
+  <QuestExpiresIn>Upphör om {0}</QuestExpiresIn>
+  <!-- EN: Expires on {0} -->
+  <QuestExpiresOn>Går ut den {0}</QuestExpiresOn>
+  <!-- EN: Average guest mood (previous {0}): {1} -->
+  <QuestAveragePawnMood>Genomsnittligt gästhumör (föregående {0}): {1}</QuestAveragePawnMood>
+  <!-- EN: The average mood of {0} over the previous {1} -->
+  <QuestAveragePawnMoodTargets>Det genomsnittliga humöret för {0} jämfört med föregående {1}</QuestAveragePawnMoodTargets>
+  <!-- EN: Shuttle arrives in {0} -->
+  <ShuttleArrivesIn>Skytteln anländer om {0}</ShuttleArrivesIn>
+  <!-- EN: Shuttle arrives on {0} -->
+  <ShuttleArrivesOn>Skytteln anländer den {0}</ShuttleArrivesOn>
+  <!-- EN: Shuttle departs in {0} -->
+  <ShuttleDepartsIn>Skytteln avgår om {0}</ShuttleDepartsIn>
+  <!-- EN: Shuttle departs on {0} -->
+  <ShuttleDepartsOn>Skytteln avgår den {0}</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>Gäster lämnar om {0}</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>Gäster lämnar den {0}</GuestsDepartsOn>
+  <!-- EN: Finished {0} ago -->
+  <QuestFinishedAgo>Avslutades för {0} sedan</QuestFinishedAgo>
+  <!-- EN: Accept quest -->
+  <AcceptQuest>Acceptera uppdrag</AcceptQuest>
+  <!-- EN: Accept with {0_labelShort} -->
+  <AcceptWith>Godkänn med {0_labelShort}</AcceptWith>
+  <!-- EN: Accept for -->
+  <AcceptQuestFor>Acceptera för</AcceptQuestFor>
+  <!-- EN: Click to accept this quest for this reward. -->
+  <AcceptQuestForTip>Klicka för att acceptera detta uppdrag för denna belöning.</AcceptQuestForTip>
+  <!-- EN: The offer expired. -->
+  <QuestOutcomeInfo_OfferExpired>Erbjudandet gick ut.</QuestOutcomeInfo_OfferExpired>
+  <!-- EN: You completed this quest. -->
+  <QuestOutcomeInfo_UnknownOrSuccess>Du slutförde detta uppdrag.</QuestOutcomeInfo_UnknownOrSuccess>
+  <!-- EN: You failed this quest. -->
+  <QuestOutcomeInfo_Failed>Du misslyckades med det här uppdraget.</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>Detta uppdrag blev ogiltigt innan det accepterades.</QuestOutcomeInfo_Invalid>
+  <!-- EN: Jump to {0} -->
+  <JumpToTargetCustom>Hoppa till {0}</JumpToTargetCustom>
+  <!-- EN: Select hives -->
+  <SelectHiveTargets>Välj insektskoloni</SelectHiveTargets>
+  <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
+  <QuestChallengeRatingTip>Utmaningsgrad. Detta är ett allmänt svårighetsgrad för hur svårt uppdraget kommer att vara i förhållande till din nuvarande styrka. Mer utmanande uppdrag ger större belöningar.\n\n1: Normal\n2: Svårt\n3: Extremt\n4: Ultimat</QuestChallengeRatingTip>
+  <!-- EN: To accept this quest, you need -->
+  <QuestAcceptanceRequirementsDescription>För att acceptera detta uppdrag behöver du</QuestAcceptanceRequirementsDescription>
+  <!-- EN: free bedrooms that satisfy the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfied>lediga sovrum som uppfyller titelkraven för</QuestBedroomRequirementsUnsatisfied>
+  <!-- EN: a free bedroom that satisfies the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfiedSingle>ett ledigt sovrum som uppfyller titelkraven för</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>en tronsal som uppfyller kraven för {PAWN_definite}s {TITLE} titel</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: assign a throne for {PAWN_definite} -->
+  <QuestNoThroneRoom>tilldela en tron för {PAWN_definite}</QuestNoThroneRoom>
+  <!-- EN: a colonist with the title of {0} -->
+  <QuestNoColonistWithTitle>en kolonist med titeln {0}</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} to be in your home colony -->
+  <QuestPawnNotOnColonyMap>{PAWN_definite} i din hemkoloni</QuestPawnNotOnColonyMap>
+  <!-- EN: the map clear of enemies of the bestower's faction -->
+  <QuestRequiresNoDangerOnMap>en koloni fri från fiender till titulära fraktionen</QuestRequiresNoDangerOnMap>
+  <!-- EN: to finish the ongoing bestowing ceremony quest -->
+  <QuestCanNotStartUntilBestowingCeremonyFinished>för att avsluta den pågående titelgivande ceremoni uppdraget</QuestCanNotStartUntilBestowingCeremonyFinished>
+  <!-- EN: Reward preferences -->
+  <ChooseRewards>Belöningspreferenser</ChooseRewards>
+  <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
+  <ChooseRewardsDesc>Berätta för andra fraktioner vilka typer av belöningar du vill ha i framtida uppdrag. Detta påverkar inte uppdrag som redan erbjöds.</ChooseRewardsDesc>
+  <!-- EN: Accept {FACTION_royalFavorLabel} -->
+  <AcceptRoyalFavor>Acceptera {FACTION_royalFavorLabel}</AcceptRoyalFavor>
+  <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
+  <AcceptRoyalFavorDesc>Oavsett om du vill bli belönad med {FACTION_royalFavorLabel} från {FACTION_name}.\n\nOm detta är inaktiverat kommer {FACTION_name} att erbjuda andra typer av belöningar istället.\n\nDenna inställning påverkar bara nya uppdrag.</AcceptRoyalFavorDesc>
+  <!-- EN: Accept goodwill -->
+  <AcceptGoodwill>Acceptera ryktespoäng</AcceptGoodwill>
+  <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <AcceptGoodwillDesc>Oavsett om du vill bli belönad via förbättrade fraktionsrelationer med {FACTION_name}.\n\nOm detta är inaktiverat kommer {FACTION_name} att erbjuda andra typer av belöningar istället.\n\nDenna inställning påverkar bara nygenererade uppdrag.</AcceptGoodwillDesc>
+  <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOn>Du väljer för närvarande att få {FACTION_royalFavorLabel}.</RoyalFavorOn>
+  <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOff>Du väljer för närvarande att inte ta emot {FACTION_royalFavorLabel}.</RoyalFavorOff>
+  <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
+  <GoodwillTip>Dina ryktespoäng med {0_name} kommer att förbättras med {1}.\n\nNuvarande ryktespoäng: {4} ({5}).\n\nRyktespoäng mäter det allmänna förhållandet mellan fraktioner. Om den faller under {2} blir fraktionen fientlig och kommer att plundra dina bosättningar och karavaner. Om den stiger över {3} kommer fraktionen att bli din allierade och skicka soldater för att hjälpa dig när de kan. Annars förblir faktum neutralt och kommer att handla och prata med dig fritt.</GoodwillTip>
+  <!-- EN: {0_labelShort} joins -->
+  <PawnQuestReward>{0_labelShort} ansluter</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>Svekerbjudande: {0} mål återstår</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>{0} kommer att ge dig en belöning för att du dödar alla medlemmar i {1}.</QuestBetrayalOfferTip>
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>en kolonirikedom på minst {0}</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>allians med {0}</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>fientlig mot {0}</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>neutral till {0}</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>studerade {0_labelShort}</QuestRequiredThingStudied>
+
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>Skapar behov</CreatesNeed>
+
+  <!-- Misc -->
+  <!-- EN: Click to edit -->
+  <ClickToEdit>Klicka för att ändra</ClickToEdit>
+
 
 </LanguageData>
