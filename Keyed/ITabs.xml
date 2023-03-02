@@ -38,10 +38,20 @@
   <TabSocial>Socialt</TabSocial>
   <!-- EN: Log -->
   <TabLog>Logg</TabLog>
+  <!-- EN: Animals -->
+  <TabPenAnimals>Djur</TabPenAnimals>
+  <!-- EN: Food -->
+  <TabPenFood>Foder</TabPenFood>
+  <!-- EN: Auto-cut -->
+  <TabPenAutoCut>Auto-klipp</TabPenAutoCut>
   <!-- EN: Caravan -->
   <TabFormingCaravan>Karavan</TabFormingCaravan>
   <!-- EN: Contents -->
   <TabTransporterContents>Innehåll</TabTransporterContents>
+  <!-- EN: Contents -->
+  <TabCasketContents>Innehåll</TabCasketContents>
+  <!-- EN: Auto-cut -->
+  <TabWindTurbineAutoCut>Auto-klipp</TabWindTurbineAutoCut>
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -74,10 +84,34 @@
   <PasteBillTip_LimitReached>kan inte lägga till mer</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
-  <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>Motstånd kvar</RecruitmentResistance>
-  <!-- EN: Recruitment difficulty -->
-  <RecruitmentDifficulty>Svårighetsgrad för rekrytering</RecruitmentDifficulty>
+  <!-- EN: Resistance -->
+  <RecruitmentResistance>Motståndskraft</RecruitmentResistance>
+  <!-- EN: How much doubt this prisoner has about joining your faction. When this reaches zero, they can be recruited. -->
+  <RecruitmentResistanceDesc>Hur mycket tvivel den här fången har om att gå med i din fraktion. När detta når noll kan de rekryteras.</RecruitmentResistanceDesc>
+  <!-- EN: {0} base resistance -->
+  <RecruitmentResistanceFromPawnKind>{0} basmotstånd</RecruitmentResistanceFromPawnKind>
+  <!-- EN: Relations gain on release -->
+  <PrisonerReleasePotentialRelationGains>Relationsökning vid frisläppning</PrisonerReleasePotentialRelationGains>
+  <!-- EN: The faction goodwill you will get from the prisoner's faction if you release them. This is affected by the prisoner's identity, health, and mental condition. -->
+  <PrisonerReleaseRelationGainsDesc>Fraktionens goodwill du kommer få från fångens fraktion om du släpper dem. Detta påverkas av fångens identitet, hälsa och psykiska tillstånd.</PrisonerReleaseRelationGainsDesc>
+  <!-- EN: Prison break interval -->
+  <PrisonBreakMTBDays>Flyktintervall</PrisonBreakMTBDays>
+  <!-- EN: The average days awake between prison breaks. This is affected by mood, mobility, the number of prison doors, and time since the last prison break.\n\nNote that this does not include time spent asleep. -->
+  <PrisonBreakMTBDaysDescription>De genomsnittliga dagarna vaken mellan försök till att fly ifrån fängelset. Detta påverkas av humör, rörlighet, antalet fängelsedörrar och tiden sedan den senaste flyktförsöket.\n\nObservera att detta inte inkluderar sömntiden.</PrisonBreakMTBDaysDescription>
+  <!-- EN: Never -->
+  <Never>Aldrig</Never>
+  <!-- EN: Not while asleep -->
+  <NotWhileAsleep>Ej under sömn</NotWhileAsleep>
+  <!-- EN: Breaking out now -->
+  <CurrentlyPrisonBreaking>Flyktförsök nu</CurrentlyPrisonBreaking>
+  <!-- EN: Multiplier for door count -->
+  <FactorForDoorCount>Multiplikator för dörrantal</FactorForDoorCount>
+  <!-- EN: Multiplier for movement -->
+  <FactorForMovement>Multiplikator för rörelse</FactorForMovement>
+  <!-- EN: Slave price -->
+  <SlavePrice>Slavpris</SlavePrice>
+  <!-- EN: The base market value of this slave if sold. -->
+  <SlavePriceDescription>Basmarknadsvärdet för denna slav om den säljs.</SlavePriceDescription>
   <!-- EN: Gets food -->
   <GetsFood>Får mat</GetsFood>
   <!-- EN: Doctors care -->
@@ -88,6 +122,25 @@
   <ShouldTryToRecruit>Försök rekrytera</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>Anses skyldig (går ut om {0})</ConsideredGuilty>
+  <!-- EN: Considered guilty -->
+  <ConsideredGuiltyNoTimer>Anses skyldig</ConsideredGuiltyNoTimer>
+  <!-- EN: Last resistance reduction -->
+  <LastRecruitment>Sista motståndsminskningen</LastRecruitment>
+  <!-- EN: How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was last recruited. -->
+  <LastRecruitmentDescription>Hur mycket {0_nameDef}s motstånd minskade med {1} när {0_pronoun} senast rekryterades.</LastRecruitmentDescription>
+  <!-- EN: Opinion of recruiter -->
+  <OpinionOfRecruiter>Rekryterarens åsikt</OpinionOfRecruiter>
+  <!-- EN: Recruiter negotiation ability -->
+  <RecruiterNegotiationAbility>Rekryterares förhandlingsförmåga</RecruiterNegotiationAbility>
+  <!-- EN: Unwavering loyalty -->
+  <NonRecruitable>Absolut lojal</NonRecruitable>
+  <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
+  <NonRecruitableTip>Den här fången är så orubbligt lojal mot sitt hem att de vägrar att bli rekryterade helt och hållet.</NonRecruitableTip>
+  <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
+  <NonRecruitableTipCannotConvert>Deras lojalitet sträcker sig till deras tro och de kan inte omvändas.</NonRecruitableTipCannotConvert>
+
+
+
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -114,6 +167,8 @@
   <PainLevel>Smärta</PainLevel>
   <!-- EN: Injured -->
   <Injured>Skadad</Injured>
+  <!-- EN: untended injury -->
+  <UntendedInjury>ovårdad skada</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>inga hälsotillstånd</NoHealthConditions>
   <!-- EN: Whole body -->
@@ -132,10 +187,10 @@
   <WontBleedOutSoon>ingen omedelbar fara</WontBleedOutSoon>
   <!-- EN: Overview -->
   <HealthOverview>Översikt</HealthOverview>
-  <!-- EN: Operations ({0}) -->
-  <MedicalOperationsShort>Operationer ({0})</MedicalOperationsShort>
-  <!-- EN: Modifications ({0}) -->
-  <MedicalOperationsMechanoidsShort>Modifikationer ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Operations -->
+  <MedicalOperationsShort>Operationer</MedicalOperationsShort>
+  <!-- EN: Modifications -->
+  <MedicalOperationsMechanoidsShort>Modifikationer</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>Medicinska operationer</MedicalOperations>
   <!-- EN: amputate -->
@@ -150,6 +205,8 @@
   <SocialInteractionsLower>sociala interaktioner</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
   <HungerRate>Hungernivå</HungerRate>
+  <!-- EN: Food consumption -->
+  <FoodConsumption>livsmedelskonsumtion</FoodConsumption>
   <!-- EN: Tiredness -->
   <Tiredness>Trötthet</Tiredness>
   <!-- EN: Pain -->
@@ -160,6 +217,8 @@
   <SelfTend>Självbehandla</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <SelfTendTip>{0} med självbehandla aktiverat kommer automatiskt ta hand om sina egna sår med {1} av normal effektivitet.</SelfTendTip>
+  <!-- EN: death in {0} -->
+  <DeathIn>Död om {replace: {0}; "dag"-"dagar"}</DeathIn>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
@@ -203,20 +262,20 @@
   <TrainingNeedsPrerequisite>Förutsättning behövs: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
-  <!-- EN: (no relationships) -->
-  <NoRelationships>(ingen relation)</NoRelationships>
   <!-- EN: Kidnapped -->
   <Kidnapped>Kidnappad</Kidnapped>
+  <!-- EN: Lent to {FACTION_name}, returns in {1} -->
+  <Lent>Utlånad till '{FACTION_name}', återvänder om {replace: {1}; "dag"-"dagar"}</Lent>
   <!-- EN: Missing -->
   <Missing>Saknad</Missing>
   <!-- EN: Slave -->
   <Slave>Slav</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>Fraktionens ledare</FactionLeader>
-  <!-- EN: Opinion of {1_labelShort} -->
-  <OpinionOf>Åsikt om {1_labelShort}</OpinionOf>
-  <!-- EN: {1_labelShort}'s opinion of me -->
-  <SomeonesOpinionOfMe>{1_labelShort}s åsikt om mig</SomeonesOpinionOfMe>
+  <!-- EN: Opinion of {0} -->
+  <OpinionOf>Åsikt om {0}</OpinionOf>
+  <!-- EN: {0}'s opinion of me -->
+  <SomeonesOpinionOfMe>{0}s åsikt om mig</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>Jag är död</IAmDead>
   <!-- EN: I'm a psychopath -->
@@ -257,10 +316,6 @@
   <FormingCaravanStatus_GatheringItems>Samlar föremål</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
   <FormingCaravanStatus_GatheringItems_Pause>Samlar föremål (väntar)</FormingCaravanStatus_GatheringItems_Pause>
-  <!-- EN: Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>Samlar slavar</FormingCaravanStatus_GatheringSlaves>
-  <!-- EN: Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>Samlar slavar (väntar)</FormingCaravanStatus_GatheringSlaves_Pause>
   <!-- EN: Gathering downed people -->
   <FormingCaravanStatus_GatheringDownedPawns>Samlar däckade personer</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
@@ -275,10 +330,10 @@
   <CaravanMembers>Medlemmar</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>Djur</CaravanAnimals>
-  <!-- EN: Items to load -->
-  <ItemsToLoad>Saker att lasta</ItemsToLoad>
-  <!-- EN: Loaded items -->
-  <LoadedItems>Lastade saker</LoadedItems>
+  <!-- EN: To load -->
+  <ItemsToLoad>Att lasta</ItemsToLoad>
+  <!-- EN: Loaded -->
+  <LoadedItems>Lastade</LoadedItems>
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>packdjur</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
@@ -287,7 +342,85 @@
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>Ta bort {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Contained items -->
+  <ContainedItems>Innehåll</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>Vill du verkligen ta bort {0}?</ConfirmRemoveItemDialog>
+
+  <!-- Quests tab -->
+  <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
+  <DismissQuest>Avvisa det här uppdraget och flytta det till den historiska fliken.\n\nUppdraget kan avvisas när som helst. Dess effekter och utgångstider kommer att fortsätta som vanligt. Du kommer inte att få aviseringar om avvisade uppdrag.</DismissQuest>
+  <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
+  <UnDismissQuest>Ta bort det här uppdraget.\n\nUppdraget kommer att returneras till den tillgängliga eller aktiva fliken och aviseringar kommer att återaktiveras.</UnDismissQuest>
+  <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
+  <QuestDismissed>Det här uppdraget är här eftersom det avvisades.\n\nDu kan ångra det tills det går ut.</QuestDismissed>
+  <!-- EN: Delete this quest and remove it from the quest list forever. -->
+  <DeleteQuest>Radera det här uppdraget och ta bort det från uppdragslistan för alltid.</DeleteQuest>
+
+  <!-- Animal pen food tab -->
+  <!-- EN: enclose the pen marker to calculate food information -->
+  <PenFoodTab_NotEnclosed>Stängsla in hägnet för att beräkna foderåtgång</PenFoodTab_NotEnclosed>
+
+  <!-- EN: Nutrition stockpiled -->
+  <PenFoodTab_StockpileTotal>Näringsvärde i lager</PenFoodTab_StockpileTotal>
+  <!-- EN: The total nutrition of stockpiled food in the pen. -->
+  <PenFoodTab_StockpileTotalDescription>Det totala näringsvärdet av lagrat foder i hägnet.</PenFoodTab_StockpileTotalDescription>
+  <!-- EN: Days to stockpile exhaustion -->
+  <PenFoodTab_StockpileEmptyDays>Dagar tills lagret är tomt</PenFoodTab_StockpileEmptyDays>
+  <!-- EN: Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve. -->
+  <PenFoodTab_StockpileEmptyDaysDescription>Näringskonsumtionen överstiger näringstillväxthastigheten i detta hägn. Djuren kommer så småningom att äta all lagrad mat och svälta.</PenFoodTab_StockpileEmptyDaysDescription>
+
+  <!-- EN: Animal type -->
+  <PenFoodTab_AnimalType>DJurart</PenFoodTab_AnimalType>
+  <!-- EN: Count -->
+  <PenFoodTab_Count>Antal</PenFoodTab_Count>
+  <!-- EN: Today -->
+  <PenFoodTab_CurrentDay>Idag</PenFoodTab_CurrentDay>
+  <!-- EN: nutrition -->
+  <PenFoodTab_Nutrition_Unit>Näringsvärde</PenFoodTab_Nutrition_Unit>
+  <!-- EN: per day -->
+  <PenFoodTab_NutritionPerDay_Unit>per dag</PenFoodTab_NutritionPerDay_Unit>
+  <!-- EN: Force display animal... -->
+  <PenFoodTab_AddAnimal>Visa andra djur...</PenFoodTab_AddAnimal>
+
+  <!-- EN: Nutrition growth -->
+  <PenFoodTab_NaturalNutritionGrowthRate>Tillväxthastighet för näringsämnen</PenFoodTab_NaturalNutritionGrowthRate>
+  <!-- EN: Growth per season -->
+  <PenFoodTab_GrowthPerSeason>Tillväxt per säsong</PenFoodTab_GrowthPerSeason>
+  <!-- EN: Nutrition consumption -->
+  <PenFoodTab_TotalNutritionConsumptionRate>Näringskonsumtion</PenFoodTab_TotalNutritionConsumptionRate>
+  <!-- EN: The average nutrition provided by edible plants in this pen. -->
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>Den genomsnittliga näringen som tillhandahålls av ätbara växter i detta hägn.</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
+  <PenFoodTab_NutritionConsumptionDescription>Näringen som djuren behöver för närvarande i det här hägnet.\n\nFör att få mer mat, expandera hägnet för att täcka mer vilda växter, eller leverera lagrad mat som högräs till hägnet.</PenFoodTab_NutritionConsumptionDescription>
+  <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
+  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>Växts tillväxthastighet varierar beroende på årstider, väder, stöld av vilda djur och andra faktorer. Dessa beräkningar är approximationer.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+
+  <!-- EN: Total consumption -->
+  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>Total förbrukning</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
+  <!-- EN: The total nutrition that will be consumed each day by each type of animal in this pen. -->
+  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>Den totala näringen som kommer att konsumeras varje dag av varje typ av djur i detta hägn.</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+  <!-- EN: Daily consumption per {ANIMALDEF_label} -->
+  <PenFoodTab_NutritionConsumedPerDay>Daglig konsumtion per {ANIMALDEF_label}</PenFoodTab_NutritionConsumedPerDay>
+  <!-- EN: each {CONSUMEDAMOUNT} -->
+  <PenFoodTab_NutritionConsumedEachAnimalLabel>{CONSUMEDAMOUNT} per djur</PenFoodTab_NutritionConsumedEachAnimalLabel>
+  <!-- EN: Count that could be supported with no other animals in the pen -->
+  <PenFoodTab_AnimalTypeAnimalCapacity>Räkna som kunde stödjas utan andra djur i fållan</PenFoodTab_AnimalTypeAnimalCapacity>
+
+  <!-- EN: Edible now -->
+  <PenFoodTab_EdibleNow>Ätbart nu</PenFoodTab_EdibleNow>
+
+  <!-- EN: Auto-cut plants in pen -->
+  <PenAutoCut_EnabledCheckbox>Ta bort växter automatiskt</PenAutoCut_EnabledCheckbox>
+  <!-- EN: Automatically mark certain inedible plants to be cut. This makes room for edible plants to grow, which your animals can then eat.\n\nThis auto-designation happens periodically and only applies to certain plants.\n\nThis only works when the pen is enclosed. -->
+  <PenAutoCut_EnabledCheckboxTip>Markera automatiskt vissa oätliga växter som ska gallras. Detta ger plats för ätbara växter att växa, som dina djur sedan kan äta.\n\nDenna autobeteckning sker med jämna mellanrum och gäller bara vissa växter.\n\nDetta fungerar bara när hägnet är innesluten.</PenAutoCut_EnabledCheckboxTip>
+
+  <!-- EN: Pen is not enclosed -->
+  <AutocutUnenclosedPen>Hägnet är inte innesluten</AutocutUnenclosedPen>
+  <!-- EN: Pen is not enclosed now, so auto-cut won't occur. -->
+  <AutocutUnenclosedPenTip>Hägnet är inte inneslutet så auto-gallring utförs inte.</AutocutUnenclosedPenTip>
+
+  <!-- EN: Auto-cut blocking plants -->
+  <WindTurbineAutoCut_EnabledCheckbox>auto-gallra oönskade växter</WindTurbineAutoCut_EnabledCheckbox>
 
 </LanguageData>

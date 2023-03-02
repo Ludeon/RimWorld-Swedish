@@ -43,6 +43,8 @@
   <CommandToggleDraftDesc>Växla Kommendering.\n\nKommenderade personer tar direkta order och slåss. De kommer inte arbeta, äta eller vila.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} kan inte gå.</IsIncapped>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <ParticipatingInRitual>{0_labelShort} deltar i '{1}'.</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Fri eldgivning</CommandFireAtWillLabel>
@@ -65,9 +67,13 @@
   <CommandGetOutOfBedDesc>Hoppa ur nuvarande säng.</CommandGetOutOfBedDesc>
 
   <!-- EN: Set owner -->
-  <CommandBedSetOwnerLabel>Ange ägare</CommandBedSetOwnerLabel>
+  <CommandThingSetOwnerLabel>Ange ägare</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
   <CommandBedSetOwnerDesc>Tilldela denna säng till en utvald kolonist.</CommandBedSetOwnerDesc>
+  <!-- EN: Assign this throne to be owned by a specific colonist. -->
+  <CommandThroneSetOwnerDesc>Tilldela denna tron att ägas av en specifik kolonist.</CommandThroneSetOwnerDesc>
+  <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
+  <CommandMeditationSpotSetOwnerDesc>Tilldela denna meditationsplats att ägas av en specifik kolonist.</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>Tilldela kolonist</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
@@ -89,11 +95,14 @@
   <!-- EN: Whether this bed is for medical use. -->
   <CommandBedSetAsMedicalDesc> Om denna säng ska användas för sjukvård.</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOnPrisonerBedWarning>Att tilldela en säng för tillfångatagna påverkar hela rummet (eftersom fångar och kolonistter inte kan sova i samma rum).\n\n Dessa personer kommer därför förlora sina sängar:</TurningOnPrisonerBedWarning>
+  <TurningOnPrisonerBedWarning>Att tilldela en säng för tillfångatagna påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\n Dessa personer kommer därför förlora sina sängar:</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <TurningOffPrisonerBedWarning>Att frånta en säng reserverad för fångar påverkar hela rummet (eftersom fångar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora sina sängar:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>Är du säker på att du vill göra detta?</AreYouSure>
+  <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <ChangingOwnerTypeBedWarning>Att ändra en säng påverkar hela rummet (eftersom fångar, slavar och kolonister inte kan sova i samma rum).\n\nDessa personer kommer att förlora äganderätten till sina sängar:</ChangingOwnerTypeBedWarning>
+
 
   <!-- EN: Detonate -->
   <CommandDetonateLabel>Detonera</CommandDetonateLabel>
@@ -131,6 +140,16 @@
   <CommandAllowSow>Tillåt plantering</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
   <CommandAllowSowDesc>När detta är avaktiverat kommer kolonister aldrig plantera växter i den här zonen. Den kommer att fortfarande skördas.</CommandAllowSowDesc>
+
+  <!-- EN: Allow cutting -->
+  <CommandAllowCut>Tillåta beskäring</CommandAllowCut>
+  <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
+  <CommandAllowCutDesc>När de är inaktiverade kommer kolonister aldrig att beskära växter i denna zon. De kommer fortfarande att så nya växter i utrymmen som redan är tomma, och skörda växter som matchar den växande växttypen.</CommandAllowCutDesc>
+  
+  <!-- EN: Select {0_label} -->
+  <CommandSelectStoredThing>Välj {0_label}</CommandSelectStoredThing>
+  <!-- EN: Select the item stored in here. -->
+  <CommandSelectStoredThingDesc>Välj objektet som lagras här.</CommandSelectStoredThingDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -170,7 +189,7 @@
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
-  <CommandPodEject>Skjut ut sovkapsel</CommandPodEject>
+  <CommandPodEject>Väck krypto-sovaren</CommandPodEject>
   <!-- EN: Wake up the cryptosleeper and eject them. -->
   <CommandPodEjectDesc>Väck krypto-sovaren och skjut ut dem.</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
@@ -205,7 +224,11 @@
   <CommandReinstall>Ominstallera vid...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>Ange att detta föremål ska packas ihop och ominstalleras någon annanstans.</CommandReinstallDesc>
-  
+  <!-- EN: Replant -->
+  <CommandReplant>Återplantera</CommandReplant>
+  <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
+  <CommandReplantDesc>Detta träd är för närvarande packat för lagring och transport. Använd detta kommando för att plantera om det på en ny plats.</CommandReplantDesc>
+
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
   <CommandMakeBeaconStockpileDesc>Skapar en förvaringsyta kring denna byggnad som exakt matchar fyrens räckvidd.</CommandMakeBeaconStockpileDesc>
@@ -249,7 +272,15 @@
   <CommandHoldFire>Eldupphör</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>Avbryter pågående attacker.</CommandHoldFireDesc>
-  
+
+  <!-- reload -->
+  <!-- EN: No {CHARGENOUN_plural} left. -->
+  <CommandReload_NoCharges>Ingen {CHARGENOUN_plural} kvar.</CommandReload_NoCharges>
+  <!-- EN: {COOLDOWNGERUND} for {TIME}. -->
+  <CommandReload_Cooldown>{COOLDOWNGERUND} ({TIME} kvar).</CommandReload_Cooldown>
+  <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
+  <CommandReload_NoAmmo>Behöver laddas om med {COUNT} {AMMO_label}.</CommandReload_NoAmmo>
+
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Välj en växt att odla</CommandSelectPlantToGrowMulti>
@@ -273,7 +304,9 @@
   <CommandFormCaravan>Bilda karavan</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
   <CommandFormCaravanDesc>Bilda en grupp av kolonister som kan resa till nya områden. Kolonisterna kommer att samla in alla tilldelade föremål och medföljande djur, lämnar sitt nuvarande område, och invänta vidare order.</CommandFormCaravanDesc>
-  
+  <!-- EN: This spot will be used as a meeting point for the caravan. All goods and animals will be brought here before leaving. -->
+  <CommandFormCaravanDescAtSpot>Denna plats kommer att användas som en mötesplats för karavanen. Alla varor och djur kommer att föras hit innan de lämnar.</CommandFormCaravanDescAtSpot>
+
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
   <CommandReformCaravan>Återforma karavan</CommandReformCaravan>
@@ -295,7 +328,9 @@
   <CommandMergeCaravansDesc>Slå samman karavaner.</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
   <CommandMergeCaravansFailCaravansNotSelected>Välj vilka karavaner som ska slås samman. Karavanerna måste vara nära varandra.</CommandMergeCaravansFailCaravansNotSelected>
-  
+  <!-- EN: Join -->
+  <CommandJoinCaravan>Anslut</CommandJoinCaravan>
+
   <!-- Settle -->
   <!-- EN: Settle -->
   <CommandSettle>Bosätt</CommandSettle>
@@ -349,6 +384,8 @@
   <CommandTradeDesc>Handla med den här fraktionen.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
   <CommandTradeFailNoNegotiator>Det finns inte någon kapabel förhandlare vid medvetande.</CommandTradeFailNoNegotiator>
+  <!-- EN: None of your people have the required faction permission: {0} -->
+  <CommandTradeFailNeedPermit>Ingen av dina personer har den nödvändiga fraktionsbehörigheten: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
@@ -379,7 +416,13 @@
   <CommandSetTargetFuelLevel>Sätt mål för bränslenivå</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
   <CommandSetTargetFuelLevelDesc>Sätt mål för bränslenivå. Kolonisterna kommer försöka fylla detta föremål till den satta bränslenivån.</CommandSetTargetFuelLevelDesc>
-  
+
+  <!-- Refueling -->
+  <!-- EN: Toggle automatic refuel -->
+  <CommandToggleAllowAutoRefuel>Växla automatisk tankning</CommandToggleAllowAutoRefuel>
+  <!-- EN: Sets whether or not automatic refueling is allowed. -->
+  <CommandToggleAllowAutoRefuelDesc>Ställer in om automatisk tankning är tillåten eller inte.</CommandToggleAllowAutoRefuelDesc>
+
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
   <CommandCancelLoad>Avbryt lastning</CommandCancelLoad>
@@ -407,7 +450,25 @@
   <CommandLoadTransporterFailNotConnectedToFuelingPort>Transportkapseln är inte ansluten till en bränsleport.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
   <CommandLoadTransporterFailNoFuel>Transportavfyraren har inget bränsle.</CommandLoadTransporterFailNoFuel>
+
+  <!-- Load transporter (single) -->
+  <!-- EN: Load -->
+  <CommandLoadTransporterSingle>Lasta</CommandLoadTransporterSingle>
+  <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
+  <CommandLoadTransporterSingleDesc>Öppnar lastningsdialogen så att du kan bestämma vem och vad som ska lastas in.</CommandLoadTransporterSingleDesc>
+
+  <!-- Transporters set to load -->
+  <!-- EN: Set to load -->
+  <CommandSetToLoadTransporter>Bestäm lasten</CommandSetToLoadTransporter>
+  <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
+  <CommandSetToLoadTransporterDesc>Öppnar lastningsdialogen så att du kan bestämma vem och vad som ska lastas in.</CommandSetToLoadTransporterDesc>
   
+  <!-- Autoload transporters -->
+  <!-- EN: Autoload -->
+  <CommandAutoloadTransporters>Autolast</CommandAutoloadTransporters>
+  <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
+  <CommandAutoloadTransportersDesc>Växla lastning av all nödvändig last automatiskt så snart de blir tillgängliga.</CommandAutoloadTransportersDesc>
+
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
   <CommandSelectPreviousTransporter>Välj föregående avfyringsgrupp</CommandSelectPreviousTransporter>
@@ -455,5 +516,129 @@
   <CommandAttackSettlement>Attackera</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
   <CommandAttackSettlementDesc>Anfall den här byn.</CommandAttackSettlementDesc>
+
+  <!-- Send shuttle -->
+  <!-- EN: Send -->
+  <CommandSendShuttle>Skicka</CommandSendShuttle>
+  <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
+  <CommandSendShuttleDesc>Starta och låt skytteln flyga till sin destination.</CommandSendShuttleDesc>
+  <!-- EN: The shuttle is under a roof. -->
+  <CommandSendShuttleFailUnderRoof>Skytteln är under tak.</CommandSendShuttleFailUnderRoof>
+  <!-- EN: Some of the required items or people are missing. -->
+  <CommandSendShuttleFailMissingRequiredThing>Några av de nödvändiga föremålen eller personerna saknas.</CommandSendShuttleFailMissingRequiredThing>
+  
+  <!-- Dismiss shuttle -->
+  <!-- EN: Dismiss -->
+  <CommandShuttleDismiss>Avfärda</CommandShuttleDismiss>
+  <!-- EN: Unload all contents and send the shuttle away. -->
+  <CommandShuttleDismissDesc>Lasta ur allt innehåll och skicka iväg skytteln.</CommandShuttleDismissDesc>
+
+  <!-- Place blueprints -->
+  <!-- EN: Place blueprints -->
+  <CommandPlaceBlueprints>Placera ritning</CommandPlaceBlueprints>
+  <!-- EN: Place all required blueprints where possible. -->
+  <CommandPlaceBlueprintsDesc>Placera alla nödvändiga ritningar där det är möjligt.</CommandPlaceBlueprintsDesc>
+  <!-- EN: Place {0} blueprints -->
+  <CommandPlaceBlueprintsSpecific>Placera {0} ritningar</CommandPlaceBlueprintsSpecific>
+  <!-- EN: Place all {0} blueprints where possible. -->
+  <CommandPlaceBlueprintsSpecificDesc>Placera alla {0} ritningar där det är möjligt.</CommandPlaceBlueprintsSpecificDesc>
+
+  <!-- Cancel monument marker -->
+  <!-- EN: Cancel -->
+  <CommandCancelMonumentMarker>Avbryt</CommandCancelMonumentMarker>
+  <!-- EN: Permanently remove this monument marker. -->
+  <CommandCancelMonumentMarkerDesc>Ta bort denna monumentmarkör permanent.</CommandCancelMonumentMarkerDesc>
+
+  <!-- View quest -->
+  <!-- EN: View quest: {0} -->
+  <CommandViewQuest>Se uppdrag: {0}</CommandViewQuest>
+  <!-- EN: View this quest in quests tab. -->
+  <CommandViewQuestDesc>Se detta uppdrag på fliken uppdrag.</CommandViewQuestDesc>
+  <!-- EN: Open linked quest -->
+  <CommandOpenLinkedQuest>Öppna länkat uppdrag</CommandOpenLinkedQuest>
+  <!-- EN: Open linked quest in the quests tab. -->
+  <CommandOpenLinkedQuestDesc>Öppna länkat uppdrag i uppdragsfliken.</CommandOpenLinkedQuestDesc>
+
+  <!-- Carry -->
+  <!-- EN: Drop {0_nameDef} -->
+  <CommandDropPawn>Stäpp {0_nameDef}</CommandDropPawn>
+  <!-- EN: Drop the person being carried. -->
+  <CommandDropPawnDesc>Släpp den som bärs.</CommandDropPawnDesc>
+  <!-- EN: Select {0_nameDef} -->
+  <CommandSelectCarriedPawn>Välj {0_nameDef}</CommandSelectCarriedPawn>
+  <!-- EN: Select the creature being carried. -->
+  <CommandSelectCarriedPawnDesc>Välj varelsen som bärs.</CommandSelectCarriedPawnDesc>
+  <!-- EN: Select {0_label} -->
+  <CommandSelectCarriedThing>Välj {0_label}</CommandSelectCarriedThing>
+  <!-- EN: Select the carried item. -->
+  <CommandSelectCarriedThingDesc>Välj det medförda föremålet.</CommandSelectCarriedThingDesc>
+  <!-- EN: Select {0_label} -->
+  <CommandSelectContainerThing>Välj {0_label}</CommandSelectContainerThing>
+  <!-- EN: Select the containing item. -->
+  <CommandSelectContainerThingDesc>Välj innehållet.</CommandSelectContainerThingDesc>
+  <!-- EN: Select {0_nameDef} -->
+  <CommandSelectCarryingPawn>Välj {0_nameDef}</CommandSelectCarryingPawn>
+  <!-- EN: Select the carrying creature. -->
+  <CommandSelectCarryingPawnDesc>Välj bäraren</CommandSelectCarryingPawnDesc>
+  <!-- EN: Select {0_nameDef} -->
+  <CommandSelectContainedPawn>Välj {0_nameDef}</CommandSelectContainedPawn>
+  <!-- EN: Select the contained creature. -->
+  <CommandSelectContainedPawnDesc>Välj den inneslutna varelsen.</CommandSelectContainedPawnDesc>
+  <!-- EN: Select {0_label} -->
+  <CommandSelectContainedThing>Välj {0_label}</CommandSelectContainedThing>
+  <!-- EN: Select the contained item. -->
+  <CommandSelectContainedThingDesc>Välj det inneslutande objektet.</CommandSelectContainedThingDesc>
+
+  <!-- Take a drug -->
+  <!-- EN: Take drug... -->
+  <TakeDrug>Ta droger...</TakeDrug>
+  <!-- EN: Choose a drug from inventory to ingest immediately. -->
+  <TakeDrugDesc>Välj en drog från packningen att inta omedelbart.</TakeDrugDesc>
+
+  <!-- Build X -->
+  <!-- EN: Build {0} -->
+  <BuildThing>Bygg {0}</BuildThing>
+
+  <!-- Rituals -->
+  <!-- EN: Leave {RITUAL_label} -->
+  <CommandLeaveRitual>lämna {RITUAL_label}</CommandLeaveRitual>
+  <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
+  <CommandLeaveRitualDesc>Sluta delta i {RITUAL_labelDef}. Ritualen kommer att fortsätta så länge den har minst en deltagare.</CommandLeaveRitualDesc>
+  <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
+  <CommandLeaveLastParticipant>Detta är den sista deltagaren i {RITUAL_labelDef}.</CommandLeaveLastParticipant>
+
+  <!-- EN: Cancel {RITUAL_label} -->
+  <CommandCancelRitual>Avbryt {RITUAL_label}</CommandCancelRitual>
+  <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
+  <CommandCancelRitualDesc>Avsluta {RITUAL_labelDef} omedelbart. Ritualens krav kommer att kvarstå. Du kan starta om ritualen senare.</CommandCancelRitualDesc>
+  <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
+  <CommandCancelRitualConfirm>Är du säker på att du vill avbryta {RITUAL_labelDef}?</CommandCancelRitualConfirm>
+
+  <!-- Storage linking -->
+  <!-- EN: Link settings -->
+  <LinkStorageSettings>Länkinställningar</LinkStorageSettings>
+  <!-- EN: Link storage settings for multiple selected buildings so that they share storage settings.\n\nThe group will start with the settings of whatever you selected first. -->
+  <LinkStorageSettingsDesc>Länka lagringsinställningar för flera valda byggnader så att de delar lagringsinställningar.\n\nGruppen börjar med inställningarna för det du valde först.</LinkStorageSettingsDesc>
+  <!-- EN: You must select two or more buildings to link their storage settings. -->
+  <LinkStorageDisabledSelectTwo>Du måste välja två eller flera byggnader för att länka deras lagringsinställningar.</LinkStorageDisabledSelectTwo>
+  <!-- EN: Already linked. -->
+  <AlreadyLinked>Redan länkad</AlreadyLinked>
+  <!-- EN: Unlink settings -->
+  <UnlinkStorageSettings>Bryt länk</UnlinkStorageSettings>
+  <!-- EN: Unlink this from other buildings' storage settings so its settings can be set independently. -->
+  <UnlinkStorageSettingsDesc>Koppla bort detta från andra byggnaders lagringsinställningar så att dess inställningar kan ställas in oberoende.</UnlinkStorageSettingsDesc>
+  <!-- EN: Linked storage settings -->
+  <LinkedStorageSettings>Länkade lagringsinställningar</LinkedStorageSettings>
+  <!-- EN: {0} buildings -->
+  <NumBuildings>{0} byggnader</NumBuildings>
+  <!-- EN: Stores -->
+  <StoresThings>Lager</StoresThings>
+  <!-- EN: Select all linked -->
+  <SelectAllLinked>Välj alla länkade</SelectAllLinked>
+  <!-- EN: Select all storage buildings linked to this. -->
+  <SelectAllLinkedDesc>Välj alla lagerbyggnader kopplade till detta.</SelectAllLinkedDesc>
+
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <CommandDisabledUnconscious>{0_labelShort} är medvetslös.</CommandDisabledUnconscious>
 
 </LanguageData>

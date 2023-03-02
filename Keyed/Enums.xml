@@ -140,8 +140,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Utför förändringar</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
+  <!-- EN: Official content -->
+  <ContentSource_OfficialModsFolder>Officiellt innehåll</ContentSource_OfficialModsFolder>
   <!-- EN: local folder -->
-  <ContentSource_LocalFolder>lokal mapp</ContentSource_LocalFolder>
+  <ContentSource_ModsFolder>lokal mapp</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
@@ -202,6 +204,10 @@
   <PawnGenerationContext_PlayerStarter>spelarens startkaraktärer</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
   <PawnGenerationContext_NonPlayer>Ej spelbara karaktärer</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <!-- EN: Screen shake intensity -->
+  <ScreenShakeIntensity>Skakningsintensitet på skärmen</ScreenShakeIntensity>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
@@ -211,6 +217,24 @@
   <!-- EN: Tame (all) -->
   <AnimalNameDisplayMode_TameAll>Tama (alla)</AnimalNameDisplayMode_TameAll>
   
+  <!-- Mech name display mode -->
+  <!-- EN: Show player mech names -->
+  <ShowMechNames>Visa spelarens meknamn</ShowMechNames>
+  <!-- EN: While drafted -->
+  <MechNameDisplayMode_WhileDrafted>Under kommendering</MechNameDisplayMode_WhileDrafted>
+  <!-- EN: always -->
+  <MechNameDisplayMode_Always>alltid</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <!-- EN: Weapons below portrait -->
+  <ShowWeaponsUnderPortrait>Vapen under porträtt</ShowWeaponsUnderPortrait>
+  <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
+  <ShowWeaponsUnderPortraitTooltip>Visa vapen under varje persons porträtt på kolonistfältet högst upp på skärmen</ShowWeaponsUnderPortraitTooltip>
+  <!-- EN: always -->
+  <ShowWeapons_Always>alltid</ShowWeapons_Always>
+  <!-- EN: while drafted -->
+  <ShowWeapons_WhileDrafted>endast under kommendering</ShowWeapons_WhileDrafted>
+
   <!-- Temperature -->
   <!-- EN: Celsius -->
   <Celsius>Celsius</Celsius>
@@ -287,5 +311,44 @@
   <!-- EN: extreme -->
   <PsychicDroneLevel_BadExtreme>extrem</PsychicDroneLevel_BadExtreme>
 
+  <!-- Automatic pause mode -->
+  <!-- EN: Never -->
+  <AutomaticPauseMode_Never>Aldrig</AutomaticPauseMode_Never>
+  <!-- EN: Major threats -->
+  <AutomaticPauseMode_MajorThreat>Stora hot</AutomaticPauseMode_MajorThreat>
+  <!-- EN: Any threat -->
+  <AutomaticPauseMode_AnyThreat>Alla hot</AutomaticPauseMode_AnyThreat>
+  <!-- EN: Any letter -->
+  <AutomaticPauseMode_AnyLetter>Alla varningar</AutomaticPauseMode_AnyLetter>
+
+  <!-- Pain category -->
+  <!-- EN: itchy -->
+  <PainCategory_LowPain>kliande</PainCategory_LowPain>
+  <!-- EN: aching -->
+  <PainCategory_MediumPain>värkande</PainCategory_MediumPain>
+  <!-- EN: painful -->
+  <PainCategory_HighPain>smärtsam</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <!-- EN: home faction -->
+  <ExtraFactionType_HomeFaction>Heimatfraktion</ExtraFactionType_HomeFaction>
+  <!-- EN: remote host faction -->
+  <ExtraFactionType_HostFaction>Gehört der Fraktion</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>Gruppe</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>Drogenkategorie</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>keine</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>medizinisch</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>sozial</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>hart</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>alles</DrugCategory_Any>
 
 </LanguageData>

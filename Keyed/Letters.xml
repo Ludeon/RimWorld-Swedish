@@ -1,31 +1,49 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- Misc -->
   <!-- EN: Jump to location -->
   <JumpToLocation>Hoppa till aktuell plats</JumpToLocation>
   <!-- EN: Postpone -->
   <PostponeLetter>Skjut upp</PostponeLetter>
   <!-- EN: Reject -->
   <RejectLetter>Avvisa</RejectLetter>
+  <!-- EN: Read more -->
+  <ReadMore>Läs mer</ReadMore>
+  <!-- EN: You have {0} more letters -->
+  <MoreLetters>Du har {0} mer notiser</MoreLetters>
   
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Sommar</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>Sommaren är här men vintern är påväg.\n\nDina matodlingar kommer inte kunna växa i vinterkylan. Se till att spara tillräckligt med mat nu, medan ni fortfarande kan.\n\nNi kan bygga ett större kylrum för att förhindra att mat att blir förstörd.\n\nKöp, stjäl eller tillverka några parkas, annars kommer ni frysa när ni går ut.</FirstSummerWarning>
 
-  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>Förhållandena med {0} har brutits helt. De är nu fientliga mot dig.\n\nDe kommer periodiskt attackera ditt koloni och dina karavaner och vägrar att handla med dig. Om du vill förbättra relationerna kan du fortfarande erbjuda dem gåvor med karavaner eller transportkapslar.\n\nDetta hände på grund av att välvija ({1}) har fallit under {2}. För att återställa neutrala relationer måste välvija nå {3} igen.</LetterRelationsChange_Hostile>
-  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostile>Förhållandena med {0} har förrbättrats. De anser nu dig som neutral och kommer inte längre att attackera dig.\n\nDetta hände på grund av att välvija ({1}) har stigit över {2}. Om välvija faller under {3} blir {0} fientlig igen. Om välvilja stiger över {4} kommer de att bli allierade till dig och kämpa för dig.</LetterRelationsChange_NeutralFromHostile>
-  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAlly>Förhållandena med {0} har svalnat. De anser nu dig som neutral i stället för allierad. De kommer fortfarande att samarbeta med dig, men dom skickar inte längre soldater för att hjälpa dig när du hotas.\n\nDetta hände på grund av att välvilja ({1}) har fallit under {2}. Om välvilja faller under {3} blir {0} fientliga. Om välvilja stiger över {4} kommer de att bli allierade till dig igen.</LetterRelationsChange_NeutralFromAlly>
-  <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-  <LetterRelationsChange_Ally>Förhållandena mellan dig och {0} har blivit mycket nära. De betraktar dig nu som allierad till dem.\n\nAllierade kommer ibland att hjälpa till att bekämpa dina fiender när du blir attackerad. Du kan också anropa dem för hjälp när som helst, till en kostnad av välvilja.\n\nDu har blivit allierad eftersom din välvilja ({1}) har stigit över {2}. Om välvilja faller under {3} kommer relationerna att återgå till att vara neutrala.</LetterRelationsChange_Ally>
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>Förhållandena med {0} har brutits helt. De är nu fientliga mot dig.</LetterRelationsChange_Hostile>
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>De kommer periodiskt attackera ditt koloni och dina karavaner och vägrar att handla med dig. Om du vill förbättra relationerna kan du fortfarande erbjuda dem gåvor med karavaner eller transportkapslar.\n\nDetta hände på grund av att välvija ({0}) har fallit under {1}. För att återställa neutrala relationer måste välvija nå {2} igen.</LetterRelationsChange_HostileGoodwillDescription>  
+
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
+  <LetterRelationsChange_NeutralFromHostile>Förhållandena med {0} har förbättrats. De anser nu dig som neutral och kommer inte längre att attackera dig.</LetterRelationsChange_NeutralFromHostile>
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Detta hände på grund av att välvija ({1}) har stigit över {2}. Om välvija faller under {3} blir {0} fientlig igen. Om välvilja stiger över {4} kommer de att bli allierade till dig och kämpa för dig.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
+  <LetterRelationsChange_NeutralFromAlly>Förhållandena med {0} har svalnat. De anser nu dig som neutral i stället för allierad.</LetterRelationsChange_NeutralFromAlly>
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>De kommer fortfarande att samarbeta med dig, men dom skickar inte längre soldater för att hjälpa dig när du hotas.\n\nDetta hände på grund av att välvilja ({1}) har fallit under {2}. Om välvilja faller under {3} blir {0} fientliga. Om välvilja stiger över {4} kommer de att bli allierade till dig igen.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
+  <LetterRelationsChange_Ally>Förhållandena mellan dig och {0} har blivit mycket nära. De betraktar dig nu som allierad till dem.</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>Allierade kommer ibland att hjälpa till att bekämpa dina fiender när du blir attackerad. Du kan också anropa dem för hjälp när som helst, till en kostnad av välvilja.\n\nDu har blivit allierad eftersom din välvilja ({0}) har stigit över {1}. Om välvilja faller under {2} kommer relationerna att återgå till att vara neutrala.</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
   <goodwill>välvija</goodwill>
   <!-- EN: Neutral -->
   <Neutral>Neutral</Neutral>
+  <!-- EN: neutral -->
+  <NeutralLower>neutral</NeutralLower>
   <!-- EN: Death -->
   <Death>Död</Death>
 
@@ -53,38 +71,40 @@
   <!-- EN: {0} failed to recruit {1} ({2} chance). -->
   <RecruitFail>{0} misslyckades med att rekrytera {1} ({2} chans).</RecruitFail>
 
-  <!-- EN: [PAWN_nameDef] is {0}'s {1}. If [PAWN_nameDef] dies, {0} will suffer from long-lasting grief. However, if you manage to rescue [PAWN_nameDef], {0} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>[PAWN_nameDef] är {0}'s {1}. Om [PAWN_nameDef] dör, kommer {0} drabbas av långvarig sorg. Om du lyckas rädda [PAWN_nameDef] kommer {0} dock att vara mycket lycklig under en lång tid.</RelatedPawnInvolvedInQuest>
+  <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
+  <RelatedPawnInvolvedInQuest>[PAWN_nameDef] är {RELATIVE_labelShort}'s {1}. Om [PAWN_nameDef] dör, kommer {RELATIVE_labelShort} drabbas av långvarig sorg. Om du lyckas rädda [PAWN_nameDef] kommer {RELATIVE_labelShort} dock att vara mycket lycklig under en lång tid.</RelatedPawnInvolvedInQuest>
 
   <!-- EN: Birthday -->
   <LetterLabelBirthday>Födelsedag</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>Det är {0}'s kronologiska födelsedag idag! Biologiskt är {1} {3} år gammal.\n\nKronologiskt är {1} {2} år.\n\nNotera att efterom personer inte åldras i kryptosömn så skiljer sig en kronologisk födelsedag ifrån en biologisk födelsedag.</BirthdayChronological>
-  <!-- EN: {0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2} -->
-  <BirthdayBiologicalAgeInjuries>{0} har blivit {1} år biologisk.\n\nTyvärr så har {0} fått följande sjukdomar på grund av ålder :\n{2}</BirthdayBiologicalAgeInjuries>
+  <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
+  <LetterBirthdayBiological>{0_nameFull} har blivit {1} år biologisk.</LetterBirthdayBiological>
+  <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
+  <BirthdayBiologicalAgeInjuries>Tyvärr så har {0_nameFull} fått följande sjukdomar på grund av ålder</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>Sjukdom</LetterLabelNewDisease>
-  <!-- EN: {0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{0} har blivit sjuk av {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {2} får rätt behandling och spenderar så mycket tid som möjligt i säng.</NewDisease>
-  <!-- EN: {0} has gotten sick from {3}. The infection is in [PAWN_possessive] {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{0} har blivit sjuk av {3}. Infektionen är i [PAWN_possessive] {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {2} får rätt behandling och spenderar så mycket tid som möjligt i säng.</NewPartDisease>
-  <!-- EN: {0} has developed an illness: {1} -->
-  <NewDiseaseAnimal>{0} har utvecklat en sjukdom:</NewDiseaseAnimal>
-  <!-- EN: {0} has developed an illness: {3} in [PAWN_possessive] {1} -->
-  <NewPartDiseaseAnimal>{0} har utvecklat en sjukdom: {3} i [PAWN_possessive] {1}</NewPartDiseaseAnimal>
+  <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewDisease>{PAWN} har blivit sjuk av {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {PAWN_definite} får rätt behandling och spenderar så mycket tid som möjligt i säng.</NewDisease>
+  <!-- EN: {PAWN} has gotten sick from {3}. The infection is in [PAWN_possessive] {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewPartDisease>{PAWN} har blivit sjuk av {3}. Infektionen är i [PAWN_possessive] {1}.\n\nSe till att ni har en sjuksäng och en doktor. Se till att {PAWN_definite} får rätt behandling och spenderar så mycket tid som möjligt i säng.</NewPartDisease>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
+  <NewDiseaseAnimal>{PAWN_labelShort} har utvecklat en sjukdom:</NewDiseaseAnimal>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {3} in [PAWN_possessive] {1} -->
+  <NewPartDiseaseAnimal>{PAWN_labelShort} har utvecklat en sjukdom: {3} i [PAWN_possessive] {1}</NewPartDiseaseAnimal>
 
   <!-- EN: {0} was formerly part of your faction. -->
   <PawnWasFormerlyColonist>{0} var tidigare en del av din grupp.</PawnWasFormerlyColonist>
+  <!-- EN: You previously hosted {0}. -->
+  <PawnWasFormerlyLodger>Du var tidigare värd till {0}.</PawnWasFormerlyLodger>
   <!-- EN: {0} has these relationships with your colonists: -->
-  <PawnHasTheseRelationshipsWithColonists>{0} har dessa relationer med dina kolonister:</PawnHasTheseRelationshipsWithColonists>
-  <!-- EN: The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {1} again. -->
-  <PrisonerRescueTimeout>Lägret kommer att försvinna efter {0} dagar. Om du missar denna möjlighet kanske du aldrig hör från {1} igen.</PrisonerRescueTimeout>
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} har dessa relationer med dina kolonister:</PawnHasTheseRelationshipsWithColonists>
 
   <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Uråldrig fara</LetterLabelAncientShrineWarning>
-  <!-- EN: As {0} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
-  <AncientShrineWarning>När {0} närmar sig den uråldriga väggen, en känsla av föraning övervinner {PAWN_objective}. {PAWN_pronoun} är inte säker på varför, men {PAWN_pronoun} känner att denna dammiga struktur kan innehålla en stor fara.</AncientShrineWarning>
+  <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
+  <AncientShrineWarning>När {PAWN_nameDef} närmar sig den uråldriga väggen, en känsla av föraning övervinner {PAWN_objective}. {PAWN_pronoun} är inte säker på varför, men {PAWN_pronoun} känner att denna dammiga struktur kan innehålla en stor fara.</AncientShrineWarning>
 
   <!-- EN: We have struck {0}! -->
   <StruckMineable>Vi har funnit {0}!</StruckMineable>
@@ -120,9 +140,12 @@
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>Nya {1}: {0}</LetterLeaderChangedLabel>
-  <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} är inte längre {3} av {1}.\n\nDen nya {3} är {NEWLEADER_nameFull}.</LetterLeaderChanged>
-  
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
+  <LetterLeaderChanged>{OLDLEADER_nameFull}, {1} av {0}, har dött.</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>The nya ledaren av {0} är {NEWLEADER_nameFull}.</LetterNewLeader>
+
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>Den sista droppen var: {0}.</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
@@ -136,11 +159,16 @@
   <!-- EN: The last event was -->
   <LastFactionRelationsEvent>Den sista händelsen var</LastFactionRelationsEvent>
 
-  <!-- EN: Read more -->
-  <ReadMore>Läs mer</ReadMore>
+  <!-- EN: View related quest -->
+  <ViewRelatedQuest>Visa relaterat uppdrag</ViewRelatedQuest>
+  <!-- EN: View quest -->
+  <ViewQuest>Visa uppdrag</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>De sista händelserna i {PAWN_definite}s liv</LastEventsInLife>
   
+  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginThanksToHighMoodPart>Tack vare bra humör har [PAWN_nameIndef] fått en inspiration!</LetterInspirationBeginThanksToHighMoodPart>
+
   <!-- Related pawns -->
   <!-- EN: Relationship -->
   <LetterLabelNoticedRelatedPawns>Relation</LetterLabelNoticedRelatedPawns>
@@ -183,6 +211,8 @@
   <LetterNewLovers>{PAWN1_labelShort} och {PAWN2_labelShort} vill nu sova tillsammans. Överväg att tilldela dem en dubbelsäng.</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} och {PAWN2_labelShort} har inte längre en kärleksrelation.</LetterNoLongerLovers>
+  <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} kommer ändra {PAWN_possessive}s efternamn tillbaka till {PAWN_possessive}s födelsenamn.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
   <LetterLabelBreakup>Gjort slut</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
@@ -191,6 +221,8 @@
   <LetterLabelRejectedProposal>Nekat frieri</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
   <LetterAcceptedProposal>Inom några dagar eller säsonger kommer de att ha sin bröllopscermoni och bjuda in alla kolonister. Överväg att placera en bröllopsplats om du vill kontrollera var bröllpet skall äga rum.</LetterAcceptedProposal>
+  <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
+  <LetterAcceptedProposal_NameChange>{PAWN_label} kommer att ändra {PAWN_possessive}s Efternamn till {1}.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
   <LetterRejectedProposal>{INITIATOR_nameFull} kommer vara olycklig över detta.</LetterRejectedProposal>
   
@@ -205,11 +237,9 @@
   <LetterLabelRelationsChange_NeutralFromAlly>Allierade är nu neutrala: {0}</LetterLabelRelationsChange_NeutralFromAlly>
   <!-- EN: Zzztt... -->
   <LetterLabelShortCircuit>Bzzztt...</LetterLabelShortCircuit>
-  <!-- EN: Mental break -->
-  <LetterLabelMentalBreakdown>Mentalt sammanbrott</LetterLabelMentalBreakdown>
   
   <!-- Bonded animals -->
-  <!-- EN: bonded animal -->
+  <!-- EN: bonded -->
   <LetterLabelSuffixBondedAnimalDied>kära djur</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
   <LetterPartBondedAnimalDied>{ANIMAL_definite} var kär till {HUMAN_labelShort}. Det kommer att påverka {HUMAN_labelShort}s humör.</LetterPartBondedAnimalDied>
@@ -222,12 +252,6 @@
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
   <LetterPrisonBreak>Fångarna har planerat ett flyktförsök! De har på något sätt låst upp dörren och tar sig nu ut. De kan leta upp vapen, slåss, och försöka fly. Dessa fångar är inblandade:\n\n{0}\n\nDet är störra chans att fångar försöker fly som är olyckliga, många och friska.</LetterPrisonBreak>
   
-  <!-- Party -->
-  <!-- EN: Party -->
-  <LetterLabelNewParty>Fest</LetterLabelNewParty>
-  <!-- EN: {1_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <LetterNewParty>{1_labelShort} arrangerar en fest! Alla som går kommer få behov av fritid och social energi tillfredställt, och en långvarande positiv humörhöjning.</LetterNewParty>
-
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
   <LetterLabelNewlyAddicted>{0}missbruk</LetterLabelNewlyAddicted>
@@ -263,6 +287,8 @@
   <LetterLabelTransportPodsLandedInEnemyBase>Attacken inleds</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
   <LetterTransportPodsLandedInEnemyBase>Dina transportkapslar har landat i {0}.</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>Skytteln anlände vid {0}.</LetterShuttleLandedInEnemyBase>
   
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
@@ -278,12 +304,18 @@
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
   <LetterDefeatAllEnemiesQuestCompleted>Du har besegrat fiendens utpost!\n\nBetalningen från {0} är leveread och fraktionens relation har förbättrats med {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
-  <!-- Found lump of precious resources -->
-  <!-- EN: Precious minerals found -->
+  <!-- Long-range mineral scanner -->
+  <!-- EN: Distant resource scanned -->
   <LetterLabelFoundPreciousLump>Värdefull malm hittad</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>Genom att använda långtidsmineralskannern, har {WORKER_labelShort} hittat en åder av {0}.\n\nTyvärr  kommer det inte finnas kvar så länge - andra kommer att försöka bryta den om {1} dagar om vi inte gör det.\n\n{2}\n  vet inte vad vem eller vad - om något - som kan övervaka den.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>Genom att använda långdistans-mineralskannern, har {WORKER_labelShort} hittat en åder av {0}.\n\nTyvärr  kommer det inte finnas kvar så länge - andra kommer att försöka bryta den om {1} dagar om vi inte gör det.\n\n{2}\n  vet inte vad vem eller vad - om något - som kan övervaka den.</LetterFoundPreciousLump>
   
+  <!-- Ground penetrating scanner -->
+  <!-- EN: Scanned underground -->
+  <LetterLabelDeepScannerFoundLump>Skannat under jorden</LetterLabelDeepScannerFoundLump>
+  <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} har hittat en klump begravd {0} med den markpenetrerande skannern!</LetterDeepScannerFoundLump>
+
   <!-- Ambush -->
   <!-- EN: Ambush -->
   <LetterLabelAmbushInExistingMap>Bakhåll</LetterLabelAmbushInExistingMap>
@@ -322,15 +354,25 @@
   <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {0_pronoun} will recover in several days. -->
   <LetterCatatonicMentalBreak>{0} har drabbats av en totalt mentalt sammanbrott och har hamnat i ett katatonisk tillstånd. {0_pronoun} kommer att återhämta sig om några dagar.</LetterCatatonicMentalBreak>
 
-  <!-- EN: AI Core Offer -->
-  <LetterLabelAICoreOffer>AI Core erbjudande</LetterLabelAICoreOffer>
+  <!-- EN: Persona Core Offer -->
+  <LetterLabelAICoreOffer>Persona-kärna erbjudande</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of an AI persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
   <LetterAICoreOffer>{PAWN_definite} av {1} kontaktar dig med ett erbjudande om information: De vet platsen där en AI personakärna som du behöver för att bygga ett rymdskepp. De informerar dig om att detta föremål är ett ganska sällsynt, och vanligtvis har dess ägare det under tung bevakning.\n\nAnropa dem med din kommunikationskonsol om du är intresserad.</LetterAICoreOffer>
 
+  <!-- Crafting letters -->
   <!-- EN: Legendary Work -->
-  <LetterCraftedLegendaryLabel>Legendariskt arbete</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryLabel>Legendäre Arbeit</LetterCraftedLegendaryLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessage>{WORKER_labelShort} har skapat en {CRAFTED_labelShort}.\n\nNyheten om denna värdefulla artefakt kommer att spridas över hela världen.</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} hat {CRAFTED_labelShort} hergestellt.\n\nDie Nachricht über dieses wertvolle Artefakt wird um die Welt gehen.</LetterCraftedLegendaryMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} hat {CRAFTED_labelShort} hergestellt.\n\n{0}\n\nDie Nachricht über dieses wertvolle Artefakt wird um die Welt gehen.</LetterCraftedLegendaryMessageArt>
+
+  <!-- EN: Masterwork -->
+  <LetterCraftedMasterworkLabel>Mästerverk</LetterCraftedMasterworkLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} har tellverkat {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} har tillverkat {CRAFTED_labelShort}.\n\n{0}</LetterCraftedMasterworkMessageArt>
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->
@@ -345,8 +387,8 @@
   <!-- Hibernate complete -->
   <!-- EN: Reactor ready -->
   <LetterLabelHibernateComplete>Reaktor redo</LetterLabelHibernateComplete>
-  <!-- EN: Charlon Whitestone has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>Charlon Whitestone har slutfört reaktorns vilolägesekvens. Reaktorn är nu redo att driva en uppskjutning.</LetterHibernateComplete>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name) har slutfört reaktorns vilolägesekvens. Reaktorn är nu redo att driva en uppskjutning.</LetterHibernateComplete>
   <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
   <LetterHibernateCompleteStandalone>Reaktorns uppstartssekvens är komplett. Det är nu klart att driva en uppskjutning.</LetterHibernateCompleteStandalone>
 
@@ -381,11 +423,169 @@
   <LetterPredatorHuntingColonist>{PREDATOR} jagar {PREY_definite} för föda!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
-  <!-- EN: {0} blocked {1} on: {2}. -->
-  <LetterDisease_Blocked>{0} blockerad {1} på: {2}</LetterDisease_Blocked>
+  <!-- EN: {0} blocked {1} on -->
+  <LetterDisease_Blocked>{0} blockerad {1} på</LetterDisease_Blocked>
   <!-- EN: Disease ({0}) -->
   <LetterLabelTraitDisease>Sjukdom ({0})</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label} har blivit sjuk på grund av {1}.\n\nSe till att du har en sjukhussäng och en läkare. Se även till att {PAWN_pronoun} får kvalitativ vård och spenderar så mycket tid som möjligt i säng.</LetterTraitDisease>
+
+  <!-- Quests -->
+  <!-- EN: A new quest has become available. It is called '{0}'. -->
+  <LetterQuestBecameAvailable>Ett nytt uppdrag har blivit tillgängligt. Det heter '{0}'.</LetterQuestBecameAvailable>
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
+  <LetterQuestRequiresAcceptance>Om du inte accepterar uppdraget inom (*DateTime){replace: {0}; "dag"-"dagar"}(/DateTime) kommer det att löpa ut.</LetterQuestRequiresAcceptance>
+  <!-- EN: A new quest has become active. It is called '{0}'. -->
+  <LetterQuestBecameActive>Ett nytt uppdrag har blivit aktivt. Det heter '{0}'.</LetterQuestBecameActive>
+  <!-- EN: Quest active: {0} -->
+  <LetterQuestAutomaticallyAcceptedTitle>Uppdrag aktivt: {0}</LetterQuestAutomaticallyAcceptedTitle>
+  <!-- EN: It will expire in {0}. -->
+  <LetterQuestActiveNowTime>Den upphör att gälla om (*DateTime){replace: {0}; "dag"-"dagar"}(/DateTime).</LetterQuestActiveNowTime>
+
+  <!-- Quest drop pods arrived -->
+  <!-- EN: Pods arrived -->
+  <LetterLabelQuestDropPodsArrived>Kapslar anländer</LetterLabelQuestDropPodsArrived>
+  <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
+  <LetterQuestDropPodsArrived>Transportkapslar med följande innehåll har anlänt:\n\n{0}</LetterQuestDropPodsArrived>
+
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} tog emot saker</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} har tagit emot följande saker:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
+
+  <!-- Refugee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} ansluter</LetterLabelRefugeeJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
+  <LetterRefugeeJoins>En {PAWN_title} vid namn {PAWN_nameDef} har anlänt och ansluter sig till kolonin.</LetterRefugeeJoins>
+  
+  <!-- Rescuee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRescueeJoins>{PAWN_nameDef} ansluter</LetterLabelRescueeJoins>
+  <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
+  <LetterRescueeJoins>{PAWN_nameDef} är tacksam för att du räddade {PAWN_objective}. {PAWN_pronoun} har bestämt att {PAWN_pronoun} hellre stannar än lämnar och går med i din koloni.</LetterRescueeJoins>
+
+  <!-- Pawns arrive and join -->
+  <!-- EN: People join -->
+  <LetterLabelPawnsArriveAndJoin>Personer ansluter</LetterLabelPawnsArriveAndJoin>
+  <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
+  <LetterPawnsArriveAndJoin>Följande personer har anlänt och gått med i kolonin:\n\n{0}</LetterPawnsArriveAndJoin>
+
+  <!-- Pawns arrive -->
+  <!-- EN: People arrived -->
+  <LetterLabelPawnsArrive>Personer anländer</LetterLabelPawnsArrive>
+  <!-- EN: The following people have arrived:\n\n{0} -->
+  <LetterPawnsArrive>Följande personer har anlänt:\n\n{0}</LetterPawnsArrive>
+
+  <!-- Pawn leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnLeaving>{0} lämnar</LetterLabelPawnLeaving>
+  <!-- EN: {0} is leaving. -->
+  <LetterPawnLeaving>{0} lämnar.</LetterPawnLeaving>
+
+  <!-- Pawns leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnsLeaving>{0} lämnar</LetterLabelPawnsLeaving>
+  <!-- EN: {0} are leaving. -->
+  <LetterPawnsLeaving>{0} lämnar.</LetterPawnsLeaving>
+  
+  <!-- Colonist kidnapped -->
+  <!-- EN: {PAWN_nameDef} kidnapped -->
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} kidnappad</LetterLabelPawnsKidnapped>
+  <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
+\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
+  <LetterPawnsKidnapped>{PAWN_nameDef} har kidnappats av {FACTION_name}!\nMen {PAWN_pronoun} är inte förlorat för alltid. En möjlighet att rädda {PAWN_objective} kan dyka upp under de kommande dagarna eller åren.</LetterPawnsKidnapped>
+  
+  <!-- Techprints -->
+  <!-- EN: Techprint applied: {PROJECT_label} -->
+  <LetterTechprintAppliedLabel>Teknikplan tillämpat: {PROJECT_label}</LetterTechprintAppliedLabel>
+  <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
+  <LetterTechprintAppliedPartIntro>En teknikplan har applicerats på forskningsprojektet: '{PROJECT_label}'.</LetterTechprintAppliedPartIntro>
+  <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
+  <LetterTechprintAppliedPartJustUnlocked>Du har slutfört projektets krav på teknikplan! Dina forskare kan nu börja undersöka hur man faktiskt använder tekniken vid dina forskningsbänkar.</LetterTechprintAppliedPartJustUnlocked>
+  <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
+  <LetterTechprintAppliedPartNotUnlockedYet>Detta projekts teknikplan-krav är ännu inte uppfyllda. {0} teknikplaner har tillämpats hittills. Projektet kräver totalt {1}.</LetterTechprintAppliedPartNotUnlockedYet>
+  <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
+  <LetterTechprintAppliedPartAlreadyUnlocked>Detta projekts krav på teknikplan var redan uppfyllda. Det extra tekniska trycket förstärkte dina forskningsansträngningar på {PROJECT_label}. Hälften av det återstående forskningsarbetet, {0} poäng, har slutförts.</LetterTechprintAppliedPartAlreadyUnlocked>
+  <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
+  <LetterTechprintAppliedPartAlreadyResearched>Det här projektet är redan fullt undersökt, så teknikplanen tillförde inte någon ny kunskap.</LetterTechprintAppliedPartAlreadyResearched>
+  <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
+  <LetterTechprintAppliedPartExpAwarded>Genom att tillämpa teknikplanen fick {PAWN_labelShort} {0} erfarenhet av {1}-färdigheten.</LetterTechprintAppliedPartExpAwarded>
+  
+  <!-- Quest Completed -->
+  <!-- EN: Quest completed -->
+  <LetterQuestCompletedLabel>Uppdraget avslutat</LetterQuestCompletedLabel>
+  <!-- EN: Quest failed -->
+  <LetterQuestFailedLabel>Uppdraget misslyckades</LetterQuestFailedLabel>
+  <!-- EN: Quest concluded -->
+  <LetterQuestConcludedLabel>Questen avslutad</LetterQuestConcludedLabel>
+  <!-- EN: You have successfully completed the quest '{0}'! -->
+  <LetterQuestCompletedSuccess>Du har lyckats med att slutföra uppdraget '{0}'!</LetterQuestCompletedSuccess>
+  <!-- EN: You have failed the quest '{0}'. -->
+  <LetterQuestCompletedFail>Du har misslyckats med uppdraget '{0}'.</LetterQuestCompletedFail>
+  <!-- EN: You have concluded the quest '{0}'. -->
+  <LetterQuestCompletedConcluded>Du har avslutat uppdraget '{0}'.</LetterQuestCompletedConcluded>
+
+  <!-- Bladelink -->
+  <!-- EN: Persona bond: {PAWN_labelShort} -->
+  <LetterBladelinkWeaponBondedLabel>Personaband: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+  <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
+\nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} har etablerat en förbindelse med personan för {WEAPON label Short}.\nFrån och med nu kommer {WEAPON_labelShort} att vägra att användas av någon utom {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+  
+  <!-- Mech cluster -->
+  <!-- EN: Mechanoids arrived -->
+  <LetterLabelMechClusterArrived>Mekanoider anlände</LetterLabelMechClusterArrived>
+  <!-- EN: Mechanoids have arrived. -->
+  <LetterMechClusterArrived>Mekanoider har anlänt.</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted>Karanan upptäckt</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted>Din karavan har upptäckts. I {0} kommer förstärkning av {1} från {2} att börja anlända till området.\n\nÅterforma din karavan och börja röra på dig för att undvika {1}. En timer som räknar ner till deras ankomst är nu synlig.</LetterTextSiteCountdownStarted>
+
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>Orubblig fånge</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} är orubbligt lojal mot sitt hem och kommer att vägra att bli rekryterad helt och hållet.\n\nDu kan se om någon är orubbligt lojal genom att välja dem.</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>föslava {PAWN_objective}</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>{PAWN} har blivit sjuk av {1} på grund av långvarig exponering för ruttnande gas (som avges av ruttnande lik).\n\nSe till att du har en medicinsk säng och en läkare. Se till att {PAWN_definite} får korrekt behandling.</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>Anslutningserbjudande: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>{PAWN_nameDef} vill gå med i din fraktion.</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>{PAWN_nameDef} tror att {PAWN_pronoun} är nöjd med {MAP_definite}. {PAWN_pronoun} vill gå med dig permanent.</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>Acceptera</LetterJoinOfferAccept>
+
+  <!-- Speeches -->
+  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} har avslutat {ORGANIZER_possessive} tal.</LetterFinishedSpeech>
+  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
+  <LetterTerribleSpeech>Det var verkligen hemskt - haltande, fullt av pinsamma skämt och deprimerande historier.</LetterTerribleSpeech>
+  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
+  <LetterUninspiringSpeech>Det var oinspirerande - tråkigt och drönande och saknade helt någon känsla av passion.</LetterUninspiringSpeech>
+  <!-- EN: It was encouraging and well-delivered. -->
+  <LetterEncouragingSpeech>Det var uppmuntrande och vällevererat.</LetterEncouragingSpeech>
+  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
+  <LetterInspirationalSpeech>Det var anmärkningsvärt inspirerande, fullt av intensitet och syfte.</LetterInspirationalSpeech>
+  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
+  <LetterSpeechInspiredListeners>Följande personer blev särskilt rörda av talet och är nu inspirerade:</LetterSpeechInspiredListeners>
+  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterSpeechInspiration>Tack vare {SPEAKER_nameIndef}s anmärkningsvärda tal har {PAWN_nameIndef} fått en inspiration!</LetterSpeechInspiration>
+  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
+  <LetterSpeechInterrupted>Eftersom talet avbröts efter att endast {0} slutförts, var det inte lika effektivt.</LetterSpeechInterrupted>
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>{0}s tal avbröts innan det nådde 50 % slutförande. Det hade ingen effekt.</LetterSpeechCancelled>
+  <!-- EN: Speech cancelled -->
+  <LetterLabelSpeechCancelled>Tal inställt</LetterLabelSpeechCancelled>
 
 </LanguageData>

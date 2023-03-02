@@ -19,7 +19,9 @@
   <LeaderUnavailable>ledare {1_labelShort} är inte tillgänglig</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
   <LeaderUnavailableNoLeader>ledare otillgänglig</LeaderUnavailableNoLeader>
-  
+  <!-- EN: Not allowed -->
+  <NotAllowed>Inte tillåtet</NotAllowed>
+
   <!-- EN: Fire at {1_label} -->
   <FireAt>Skjut på {1_label}</FireAt>
 
@@ -33,12 +35,18 @@
   <IsIncapableOfViolenceLower>{1_labelShort} är pacifist</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>pacifist</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>{0_labelShort} kan inte skjuta</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{1_labelShort} är ej komenderad</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>kan inte beordra varelser du ej har kontroll över</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>kan inte attackera sig själv</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>kan inte attackera allierad fraktion</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>Kan inte bekämpa eld</IncapableOfFirefighting>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Bemanna {1_labelShort}</OrderManThing>
@@ -49,6 +57,10 @@
   <MeleeAttackToDeath>Slå ihjäl {1_label}</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>ingen väg</NoPath>
+  <!-- EN: burying -->
+  <Burying>begraver</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>avsedd för {0}</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>förbjuden</ForbiddenLower>
@@ -64,22 +76,34 @@
   <NoMergeTarget>ingen stapel tillgänglig att slå ihop med</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>redan fylld</AlreadyFilledLower>
-  <!-- EN: need material -->
-  <MissingMaterials>behöver material</MissingMaterials>
+  <!-- EN: missing {0} -->
+  <MissingMaterials>behöver {0}</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>Ingen medicin för begränsning '{CATEGORY}'</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>under nödvändig färdighetsnivå {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
   <UnderAllowedSkill>under tillåten färdighetsnivå {0}</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
   <AboveAllowedSkill>över tillåten färdighetsnivå {0}</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>kan inte nås utanför cell</NoReachableOutsideCell>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>saknar nödvändig färdighetsnivå</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>för nyligen interagerat med djuret</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>interaktion hände för nyligen</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>ingen användbar mat</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>ingen mat</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>ingen mat enligt kostplanen</NoFoodMatchingRestrictions>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>behöver {0_label}</NoIngredient>
+  <!-- EN: below requirements of {0} -->
+  <FoodBelowTitleRequirements>under krav på {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
   <AnimalsSkillTooLow>Djurets förmåga är för låg</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
@@ -87,9 +111,25 @@
   <!-- EN: animal sleeping -->
   <CantInteractAnimalAsleep>djuret sover</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
-  <CantInteractAnimalBusy>djuret ät upptaget</CantInteractAnimalBusy>
-  <!-- EN: construction skill too low -->
-  <ConstructionSkillTooLow>konstruktionsfärdighet för låg</ConstructionSkillTooLow>
+  <CantInteractAnimalBusy>djuret är upptaget</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>inga tillåtna nåbara hägn</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>inga inneslutna hägn</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>inga tillåtna hägn</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>inga nåbara hägn</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>inte nåbar</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>ingen plats i hägn</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>djuret har blivit galet ({1})</CantRopeAnimalMentalState>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>redan i den bästa hägnet</CantRopeAnimalAlreadyInBestPen>
+  <!-- EN: {0} skill too low -->
+  <SkillTooLowForConstruction>{0} färdighet för låg</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>behöver komponenter</NoComponentsToRepair>
   <!-- EN: need {0} -->
@@ -120,7 +160,31 @@
   <IncapableOfMining>Inkapabel att bryta berg</IncapableOfMining>
   <!-- EN: angers faction -->
   <AngersFaction>Retar upp fraktion</AngersFaction>
-  
+  <!-- EN: no body part -->
+  <InstallImplantNoBodyPart>ingen kroppsdel</InstallImplantNoBodyPart>
+  <!-- EN: not a colonist -->
+  <InstallImplantNotAllowedForNonColonists>ingen Kolonist</InstallImplantNotAllowedForNonColonists>
+  <!-- EN: already installed -->
+  <InstallImplantAlreadyInstalled>redan installerat</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>kräver existerande {0}</InstallImplantHediffRequired>
+  <!-- EN: max level -->
+  <InstallImplantAlreadyMaxLevel>Maximal nivå</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>kräver minimalt nivå {0}</InstallImplantMinLevel>
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>psykiskt döv</InstallImplantPsychicallyDeaf>
+  <!-- EN: Upgrade {0} to level {1} -->
+  <UpgradeImplant>uppgradrra {0} till nivå {1}</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>kränkning av fraktions allierade</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>bärs av {0_labelShort}</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>full</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>redan tilldelad</AlreadyAssigned>
+
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Konsumera {1_labelShort}</ConsumeThing>
   
@@ -135,14 +199,22 @@
   <TryToArrest>Försök arrestera {1_label}</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Kan inte arrestera</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>{0} arresteringschans</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
   <Capture>Tillfångata {1_label}</Capture>
   <!-- EN: Cannot capture -->
   <CannotCapture>Kan inte tillfångata</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>absolut lojal</Unrecruitable>
 
   <!-- EN: Rescue {1_label} -->
   <Rescue>Rädda {1_label}</Rescue>
+  <!-- EN: Put {1_label} somewhere safe -->
+  <PutSomewhereSafe>Placera {1_label} någonstans säkert</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>Bär {0_labelShort} till sängs.</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Kan inte rädda</CannotRescue>
 
@@ -151,8 +223,17 @@
   <!-- EN: Cannot carry to cryptosleep casket -->
   <CannotCarryToCryptosleepCasket>Kan inte bära till kryosömnkapsel</CannotCarryToCryptosleepCasket>
 
+  <!-- EN: Carry {0_label} to shuttle -->
+  <CarryToShuttle>Bär {0_label} till skyttel</CarryToShuttle>
+
   <!-- EN: No available cryptosleep casket. -->
-  <NoCryptosleepCasket>Ingen tillgänglig kryokapsel.</NoCryptosleepCasket>
+  <NoCryptosleepCasket>Ingen tillgänglig kryosömnkapsel.</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>Tillfälliga fraktionsmedlemmar inte tillåtna.</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>Tagna fångar är inte tillåtna.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>Redan upptagen</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Ingen specificerad och oreserverad fängelsesäng tillgänglig med säker temperatur.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -167,14 +248,18 @@
   <IsReservedBy>{0} är reserverad av {1}.</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>För tung</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>{0_labelShort} är i samma fraktion.</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>oförmögen</Incapable>
   <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>oförmögen att {0}</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>Måste ha {0_label}</MustHaveHediff>
 
   <!-- EN: min skill -->
-  <MinSkill>minsta förmåga</MinSkill>
+  <MinSkill>minsta färdighet</MinSkill>
   
   <!-- EN: Equip {0} -->
   <Equip>Utrusta med {0}</Equip>
@@ -189,34 +274,51 @@
   <ForceWear>Tvinga på {1_labelShort}</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Kan inte ha på sig {1_label}</CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>Tvinga utrusta {1_labelShort}</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>Kan inte utrusta {1_label}</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>saknar kroppsdelar</CannotWearBecauseOfMissingBodyParts>
-  
-  <!-- EN: Cannot pick up {1_label} -->
-  <CannotPickUp>Kan inte ta upp {1_label}</CannotPickUp>
+
+   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>Ladda om {GEAR_labelShort} med {AMMO_label}</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>Full</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>För få</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>Kan inte bära tillräckligt med {AMMO_label} för att ladda om en laddning.</ReloadCannotCarryEnough>
+
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUp>Kan inte ta upp {1_labelShort}</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
   <CannotPickUpAll>Kan inte ta upp {1_label} (allt)</CannotPickUpAll>
-  <!-- EN: Pick up {1_label} -->
-  <PickUp>Ta upp {1_label}</PickUp>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>Ta upp {1_labelShort} x1</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
   <PickUpAll>Ta upp {1_label} (allt)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Ta upp {1_labelShort}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>Ta upp {1_labelShort} x{{0}}</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>Kan inte ta up {1_labelShort}</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>Max. {0} {1_plural} tillåtet</MaxPickUpAllowed>
   
-  <!-- EN: Cannot give {1_label} to pack animal -->
-  <CannotGiveToPackAnimal>Kan ej ge {1_label} till packdjur</CannotGiveToPackAnimal>
-  <!-- EN: Cannot give {1_label} (all) to pack animal -->
-  <CannotGiveToPackAnimalAll>Kan ej ge {1_label} (allt) till packdjur</CannotGiveToPackAnimalAll>
-  <!-- EN: Give {1_label} to pack animal -->
-  <GiveToPackAnimal>Ge {1_label} till packdjur</GiveToPackAnimal>
-  <!-- EN: Give {1_label} (all) to pack animal -->
-  <GiveToPackAnimalAll>Ge {1_label} (allt) till packdjur</GiveToPackAnimalAll>
-  <!-- EN: Give {1_labelShort} to pack animal... -->
-  <GiveToPackAnimalSome>Ge {1_labelShort} på packdjur...</GiveToPackAnimalSome>
-  <!-- EN: Take {1_labelShort} x{{0}} -->
-  <GiveToPackAnimalCount>Ta {1_labelShort} x{{0}}</GiveToPackAnimalCount>
+  <!-- EN: Cannot load {1_label} onto pack animal -->
+  <CannotGiveToPackAnimal>Kan ej lasta {1_label} på packdjur</CannotGiveToPackAnimal>
+  <!-- EN: Cannot load {1_label} (all) onto pack animal -->
+  <CannotGiveToPackAnimalAll>Kan ej lasta {1_label} (allt) på packdjur</CannotGiveToPackAnimalAll>
+  <!-- EN: Load {1_label} onto pack animal -->
+  <GiveToPackAnimal>Lasta {1_label} på packdjur</GiveToPackAnimal>
+  <!-- EN: Load {1_label} (all) onto pack animal -->
+  <GiveToPackAnimalAll>Lasta {1_label} (allt) på packdjur</GiveToPackAnimalAll>
+  <!-- EN: Load {1_labelShort} onto pack animal... -->
+  <GiveToPackAnimalSome>Lasta {1_labelShort} på packdjur...</GiveToPackAnimalSome>
+  <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
+  <GiveToPackAnimalCount>Lasta {1_labelShort} x{{0}} på packdjur</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>Kan ej packa {1_label} i karavanen</CannotLoadIntoCaravan>
@@ -244,6 +346,23 @@
   <Strip>Klä av {1_label}</Strip>
   <!-- EN: Cannot strip {1_label} -->
   <CannotStrip>Kan inte klä av {1_label}</CannotStrip>
+  <!-- EN: Cannot drop {1_label} -->
+  <CannotDrop>Kan ej släppa {1_label}</CannotDrop>
+  <!-- EN: Carry {0_label} -->
+  <Carry>Bär {0_label}</Carry>
+  <!-- EN: Cannot carry {0_label} -->
+  <CannotCarry>Kan ej bära {0_label}</CannotCarry>
+  <!-- EN: temporary faction member -->
+  <QuestRelated>temporär fraktionsmedlem</QuestRelated>
+  <!-- EN: Cannot change outfits on temporary faction members -->
+  <QuestRelated_Outfit>Kan inte byta outfits på tillfälliga fraktionsmedlemmar</QuestRelated_Outfit>
+  <!-- EN: would replace locked apparel -->
+  <WouldReplaceLockedApparel>skulle ersätta låsta kläder</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>Kan inte lägga {0_label} i {1_label}</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>Lägg {0_label} i {1_label}</PlaceIn>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Självförstör här</SelfDestructHere>
@@ -255,6 +374,10 @@
   <UseMedicalBed>Vila tills återställd</UseMedicalBed>
   <!-- EN: not injured -->
   <NotInjured>ej skadad</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>ingen läkare</NoDoctor>
+  <!-- EN: medical bed not for slaves -->
+  <NotForSlaves>medicinsk säng inte tillåten för slavar</NotForSlaves><!-- text_todo -->
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>upptagen av {0}</SomeoneElseSleeping>
   
@@ -284,16 +407,20 @@
   <ApproachingSite>Närmar sig {0}</ApproachingSite>
   <!-- EN: Offer gifts -->
   <OfferGifts>Erbjud gåvor</OfferGifts>
+  <!-- EN: Trade with {0} -->
+  <TradeWithSettlement>Handla med {0}</TradeWithSettlement>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
-  <EnterCryptosleepCasket>Gå in i kryokapsel</EnterCryptosleepCasket>
+  <EnterCryptosleepCasket>Gå in i kryosovkapsel</EnterCryptosleepCasket>
   <!-- EN: Open cryptosleep casket -->
-  <OpenCryptosleepCasket>Öppna kryokapsel</OpenCryptosleepCasket>
+  <OpenCryptosleepCasket>Öppna kryosovkapsel</OpenCryptosleepCasket>
+  <!-- EN: Get in shuttle -->
+  <EnterShuttle>Äntra skyttel</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <!-- EN: Cannot {0} {2_labelShort} -->
-  <CannotGenericWork>Kan inte {0} {2_labelShort}</CannotGenericWork>
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Kan inte {0} {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Kan inte {0}</CannotGenericWorkCustom>
 
@@ -303,9 +430,13 @@
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>{0} redan {2_labelShort}</CannotGenericAlreadyAm>
+  <!-- EN: Already {0} -->
+  <CannotGenericAlreadyAmCustom>{0} redan</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize (will never do {0}) -->
   <CannotPrioritizeWorkTypeDisabled>Kan inte prioritera (kommer aldrig utföra {0})</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>Saknar nödvändig titel</MissingTitleAbility>
 
   <!-- EN: Cannot prioritize (will never {0}) -->
   <CannotPrioritizeWorkGiverDisabled>Kan inte prioritera (utför aldrig {0})</CannotPrioritizeWorkGiverDisabled>
@@ -316,6 +447,8 @@
   <CannotPrioritizeNotAssignedToWorkType>Kan ej prioritera (ej tilldelad {0})</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>ej tilldelad</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>ej tilldelad att {0}</NotAssignedToWorkType>
 
   <!-- EN: Cannot prioritize (research is a long-term task) -->
   <CannotPrioritizeResearch>Kan ej prioritera (Forskning sker under lång tid)</CannotPrioritizeResearch>
@@ -326,6 +459,8 @@
   <CannotPrioritizeCellForbidden>Kan ej prioritera (förbjudet)</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>Utanför tillåtet område</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>Kan inte prioritera begravning</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -335,6 +470,8 @@
   <DropAtEdge>Släpp vid kanten</DropAtEdge>
   <!-- EN: Drop in center -->
   <DropInCenter>Släpp i centrum</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>Attackera {0}</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>Attackera {0}: Släpp vid kanten</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -372,12 +509,59 @@
   <GiveToCaravan>Ge till {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>Ge som gåva till {0} ({1})</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>Tillhör inte startgruppen</NotPartOfLaunchGroup>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
   <FreePrisoner>Frita fånge</FreePrisoner>
   <!-- EN: Offer help -->
   <OfferHelp>Erbjud hjälp</OfferHelp>
-  
+
+  <!-- EN: apply {0} -->
+  <ApplyTechprint>använd {0}</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>För farligt</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>Ingen att anropa</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>åkalla {0}</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>Kan inte åkalla {0}</CannotInvoke>
+  <!-- EN: power -->
+  <Power>kraft</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>redan åkallad</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>behandla {0_label}</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>Kan inte behandla {0_label}</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>{0_label} behöver ingen behandling</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>utan Medicin</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>Reparera {0_label}</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>Kan inte reparera {0_label}</CannotRepair>
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>Kan inte stiga in</CannotEnter>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>Kan ej uppvakta {0} }</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>Uppvakta {0}</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>impopulär mat</WarningFoodDisliked>
 
 </LanguageData>
