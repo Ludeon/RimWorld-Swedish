@@ -9,8 +9,12 @@
   <ResetBinding>Återställ till standardinställningar</ResetBinding>
   <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>Vänsterklicka för att tilldela denna tangent, högerklicka för fler alternativ</BindingButtonToolTip>
+  <!-- EN: Click to bind this key or left trigger button for options -->
+  <BindingButtonToolTipController>Klicka för att binda denna tangent eller vänsterklicka för alternativ</BindingButtonToolTipController>
   <!-- EN: Press any key or Esc to cancel... -->
   <PressAnyKeyOrEsc>Tryck på en tangent eller Esc för att avbryta...</PressAnyKeyOrEsc>
+  <!-- EN: Press any button or {Key:Cancel} to cancel... -->
+  <PressAnyKeyOrEscController>Tryck på valfri knapp eller {Key:Cancel} för att avbryta...</PressAnyKeyOrEscController>
   <!-- EN: Key binding overwritten: {0} -->
   <KeyBindingOverwritten>Tangentkomando överskrivet: {0}</KeyBindingOverwritten>
   

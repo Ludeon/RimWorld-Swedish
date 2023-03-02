@@ -16,16 +16,22 @@
   <LoadGame>Ladda spel</LoadGame>
   <!-- EN: Options -->
   <Options>Inställningar</Options>
+  <!-- EN: Mod -->
+  <Mod>Mod</Mod>
   <!-- EN: Mods -->
-  <Mods>Moddar</Mods>
+  <Mods>Mod:ar</Mods>
   <!-- EN: Save translation report -->
   <SaveTranslationReport>Spara översättningsrapport</SaveTranslationReport>
   <!-- EN: Generating translation report -->
   <GeneratingTranslationReport>Generera översättningsrapport</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>Städa översättningsfiler</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>Uppdatera översättningsfiler (TKeys)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Städar översättningsfiler</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>Utvecklare Snabbtest</DevQuickTest>
   <!-- EN: Credits -->
   <Credits>Medverkare</Credits>
   <!-- EN: Quit to main menu -->
@@ -63,6 +69,10 @@
   <!-- EN: Learn more -->
   <LearnMore>Lär dig mer</LearnMore>
 
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>Varning: Detta är en instabil utvecklingskonstruktion. Det betyder att vi kör designexperiment och gör teknisk utveckling.\n\nVissa saker kommer att vara tillfälligt obalanserade med avsikt. Detta är en klassisk speldesignmetod där vi medvetet går för långt med en balansförändring för att bättre förstå balansgränser. Vi kan sedan använda den informationen för att bestämma de slutliga balanspoängen.\n\nDet kommer också att finnas buggar, inklusive spelbrytande sådana. Spara kompatibilitet kan gå sönder när som helst.\n\nOm du är okej med allt detta, tack för att du testade! Om du inte vill bli föremål för våra experiment, vänligen spela den senaste stabila versionen.</DevBuildWarning>
+
   <!-- Create/review world -->
   <!-- EN: Review world -->
   <ReviewWorld>Se värld</ReviewWorld>
@@ -70,14 +80,16 @@
   <WorldGenerate>Generera</WorldGenerate>
   <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Spara och avsluta</WorldSaveAndFinish>
-  <!-- EN: Reset -->
-  <Reset>Återställ</Reset>
+  <!-- EN: Reset factions -->
+  <ResetFactions>Återställ fraktioner</ResetFactions>
   <!-- EN: Globe coverage -->
   <PlanetCoverage>Planetens täckning</PlanetCoverage>
   <!-- EN: Overall rainfall -->
   <PlanetRainfall>Allmän nederbörd</PlanetRainfall>
   <!-- EN: Overall temperature -->
   <PlanetTemperature>Allmän temperatur</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>Population</PlanetPopulation>
   <!-- EN: Low -->
   <PlanetRainfall_Low>Låg</PlanetRainfall_Low>
   <!-- EN: Normal -->
@@ -90,6 +102,12 @@
   <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
   <!-- EN: High -->
   <PlanetTemperature_High>Hög</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>Gles</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>Normal</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>Överfullt</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>Frö</WorldSeed>
   <!-- EN: Randomize seed -->
@@ -125,21 +143,77 @@
   <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>Öppna Steam Workshop</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>Hämta moddar från forumet</GetModsFromForum>
+  <GetModsFromForum>Hämta mod:ar från forumet</GetModsFromForum>
   <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>Öppna mappen för moddar</OpenModsDataFolder>
+  <OpenModsDataFolder>Öppna mappen för mod:ar</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>Visa moddars plats</ShowModsDataLocation>
+  <ShowModsDataLocation>Visa mod:ars plats</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärnmodden? Spelet kommer inte att funka alls om du inte har en annan modd som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra moddar kan överskriva 'defs' i kärnmodden genom att använda samma 'defName'.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Är du säker på att du vill stänga av kärnmod:en? Spelet kommer inte att funka alls om du inte har en annan mod som ersätter all kärn-funktionalitet.\n\nKom ihåg, andra mod:ar kan överskriva 'defs' i kärnmod:en genom att använda samma 'defName'.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Är du säker på att du vill radera allt innehåll för {0}?</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>Automat sortering mod:ar</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>Spara och tillämpa ändringar</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>Modändringar har inte sparats. Är du säker på att du vill fortsätta?</DiscardModChanges>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>Kan inte flytta {0}: Den måste laddas efter {1}.</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>Kan inte flytta {0}: Den måste laddas före {1}.</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Avprenumerera</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe? -->
+  <ConfirmUnsubscribe>Är du säker på att du vill avprenumerera?</ConfirmUnsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>Är du säker på att du vill avprenumerera från {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribeFrom>Är du säker på att du vill avprenumerera från {0}?</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>Är du säker på att du vill avprenumerera från?\n\n{0}</ConfirmUnsubscribeFromMultiple>
   <!-- EN: Author -->
   <Author>Skapare</Author>
+  <!-- EN: Enabled -->
+  <Enabled>Aktiverad</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>Inaktiverad</Disabled>
+  <!-- EN: Enable -->
+  <Enable>Aktivera</Enable>
+  <!-- EN: Disable -->
+  <Disable>Inaktivera</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>Hämta mod:ar från...</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>Avsluta pren. från...</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>Spara / ladda lista...</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>Spara modlista</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>Ladda modlista</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>Tillagda Mod:ar</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>Saknade Mod:ar</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>Delade Mod:ar</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>Hemsida</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>Öppna mapp</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>Modalternativ</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>Workshop</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>Forum</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>Avancerad...</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>Alla valda mod:ar</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>Alla inaktiverade mod:ar</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>Alla inkompatibla mod:ar</AllIncompatibleMods>
   <!-- EN: Workshop page -->
   <WorkshopPage>Workshop sida</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
@@ -154,14 +228,68 @@
   <WorkshopUploadSucceeded>Lyckad uppladdning {0}.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
   <Downloading>Laddar ned</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>Workshop-ID</WorkshopId>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>Visa uppfyllda krav</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>Klicka för att välja.</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>Klicka för att gå till webbplatsen.</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>Källa</Source>
-  <!-- EN: For version: {0} -->
-  <ModTargetVersion>För version: {0}</ModTargetVersion>
+  <!-- EN: Game versions -->
+  <ModTargetVersion>Spielversionen</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>Mod-Version</ModVersion>
+  <!-- EN: ID -->
+  <ModPackageId>ID</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>Detta måste laddas innan: {0}.</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>Detta måste laddas efter: {0}.</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>Beror på: {0}</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>Inkompatibel med: {0}</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>Denna mod är inkompatibel med: {0}.</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>Denna mod laddas i fel ordning i förhållande till en annan mod. Använd knappen "auto-sortering" eller flytta om mod:en manuellt.</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>En annan aktiv mod använder samma ID: {0}.</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>Det finns ett cykliskt mod-beroende som börjar med {0}.</ModCyclicDependency>
+  <!-- EN: This requires the following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>Detta kräver att följande mod:ar fungerar: {0}.</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Den här modden är inte gjord för denna versionen av RimWorld och kommer troligtvis inte fungera korrekt.</ModNotMadeForThisVersion>
-  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
-  <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: {0}.</MessageModNeedsWellFormattedTargetVersion>
+  <ModNotMadeForThisVersion>Denna mod var inte gjord för den här versionen av RimWorld och kommer förmodligen inte att fungera korrekt.</ModNotMadeForThisVersion>
+  <!-- EN: This mod is not made for this version of RimWorld. -->
+  <ModNotMadeForThisVersionShort>Denna mod är inte gjord för den här versionen av RimWorld.</ModNotMadeForThisVersionShort>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>Denna mod gjordes för en nyare version av RimWorld än denna, och kommer förmodligen inte att fungera korrekt.</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>Mod behöver korrekt formaterad versionsinformation i About.xml. targetVersion-taggen är utfasad. Använd istället taggen supportedVersions tillsammans med li-taggar. Du kan hitta exempel på detta i nästan varje aktuell mod eller på internet. Du hittar mer information i loggen.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>Mod behöver ett unikt, korrekt formaterat paket-ID i About.xml. Den måste uppfylla följande krav:\n\n - Endast alfanumeriska tecken och prickar.\n - Inga mellanslag.\n - Minst en prick.\n - Inga upprepade punkter i rad, eller som börjar eller slutar med en prick. \n - 60 tecken eller mindre.\n - Kan inte innehålla ordet "Ludeon".\n\nTill exempel:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId></MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>Denna mod har problem i LoadFolders.xml, som du måste lösa innan du laddar upp:</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>Mappen {0} som anges för version {1} finns inte.</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>Felaktig versionssträng '{0}'. Korrekt format är Major.Minor (t.ex. 1.1)</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>Listan över laddningsmappar för version {0} är tom.</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>Version {0} listar samma mapp mer än en gång: {1}.</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>Ogiltig versionsordning: {0} bör komma före {1}.</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>Ogiltig versionsordning: 'default' bör definieras först.</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>Att använda 'default' i laddningsmappar är föråldrat. Vänligen definiera mappar för varje version med v-taggarna.</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>Version {0} är definierad i laddningsmappar, men är inte listad i 'supportedVersions' av mods About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Dra för att ändra ordning</DragToReorder>
   
@@ -196,10 +324,14 @@
   <ConfirmContentAuthor> Självklart ska du enbart ladda upp saker du skapat själv.\n\nSkapade du detta innehåll själv?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>Inkompatibelt</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>Flagga som översättning</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
   <TooMany>För många (max {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Kan bli uppdaterat i Workshop, eftersom du är ägaren.</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>Det här scenariot har redigerats.\n\nVill du spara det innan du fortsätter?</ScenarioChangedSavePrompt>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
@@ -223,15 +355,187 @@
   <!-- EN: Storyteller and difficulty can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>Berättare och svårighetsnivåer kan ändras när som helst under spelets gång.</CanChangeStorytellerSettingsDuringPlay>
 
-  <!-- Landing site select -->
-  <!-- EN: Select landing site -->
-  <SelectLandingSite>Välj landingsplats</SelectLandingSite>
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel>Anpassade spelstilsinställningar</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset>Ställ in som standard spelstil...</DifficultyReset>
+
+  <!-- EN: Threats -->
+  <DifficultyThreatSection>Hot</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label>Hotskala</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info>Justera storleken på hot som räder och angrepp, och svårigheten för uppdrag.</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label>Stora hot</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info>Tillåt stora hot som räder, angrepp, människojagande flock, kraschade mekanoidskepp och mer.</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label>Uppdragshot</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info>Tillåt uppdrag att innehålla våldsamma hot och utmaningar. Om detta är inaktiverat kommer uppdragen att ändras till att vara icke-våldsamma.</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label>Introduktionshot</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info>Aktivera de fasta introshoten som visas nära spelstart.</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label>Rovdjur jagar människor</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info>Tillåt vilda rovdjur att jaga människor.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Extremet Väder</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Tillåt extrema väderincidenter som giftigt nedfall, vulkaniska vintrar och blixtstormar.</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection>Ekonomi</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label>Kommersiell prisnackdel</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info>Vid handel höjs köppriserna med detta belopp medan säljpriserna minskas med detta belopp.</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label>Skördeavkastning</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info>Justera mängden material som produceras vid skörd av växter och grödor. Detta inkluderar skörd av växter och huggning av träd.</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label>Gruvavkastning</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info>Justera mängden material som produceras vid gruvdrift.</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label>Slaktavkastning</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info>Justera mängden material som produceras vid slaktning. Detta inkluderar kött, läder och avkastning från rivningsmekanoider.</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label>Forskningshastighet</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info>Justera forskningshastigheten.</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label>Uppdragsbelöning</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info>Justera värdet på belöningar som ges för uppdrag.\n\nObs! Uppdrags-belöningsvärdet skalas också automatiskt för att kompensera för hotskala. Om du justerar den här inställningen kommer du att lägga till ytterligare en multiplikator.</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label>Raidbyte</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info>Justera värdet på bytet som bärs av raiders.\n\nObs! Raid bytes-värdet skalas också automatiskt för att kompensera för hotskala. Om du justerar den här inställningen kommer du att lägga till ytterligare en multiplikator.</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label>Omladdningskostnad för vapentorn</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info>Justera kostnaden för omladdning av vapentorn.</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label>Skariaruttnadschans</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info>Sannolikheten att ett lik omedelbart kommer att ruttna vid döden, om varelsen har skariasjukdomen.\n\nObs! Standardinställningarna är utformade för att exakt balansera ökningen av antalet djur vid högre svårigheter, så att alla spelare får samma köttbelöningar .</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Fiendens död vid nedskjutning</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Justera den extra chansen att en fiende omedelbart kommer att dö när den går ned. Detta påverkar chanserna att ta fångar och därmed befolkningstillväxten i kolonierna.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection>Allmänt</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label>Kolonisternas humör</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info>En permanent stämningskompensation tillämpades på varje kolonist och fånge. Kolonister har ett bashumör på 50%.</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label>Matförgiftnings-chans</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info>Justera chansen att en person får matförgiftning av att äta en potentiellt förgiftad måltid.</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Djurhämndchans</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Justera chansen att skada ett vilt djur kommer att få det att attackera.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label>Vådaskott</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info>Justera chansen för vådaskott.\n\nObs! Den här inställningen påverkar bara direkta skott som skulle träffa deras mål. Det förhindrar inte skador från explosioner eller från skott som skulle missa sitt mål.</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>Kolonist dör omedelbart</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>Justera chansen att en kolonist kan dö omedelbart på grund av en attack. Den inkommande skadan justeras så att den kommer att slå ner kolonisten istället.\n\nDetta förhindrar bara vissa typer av omedelbara dödande - kolonister kan fortfarande tas ned och blöda ihjäl, dö av brand, explosioner, sjukdomar och så vidare.</Difficulty_AllowInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Infektionschans</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Justera chansen att ett sår blir infekterat.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Sjukdomsfrekvens</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Justera frekvensen av slumpmässiga sjukdomshändelser.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label>Genererningschans för Insekter</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info>Justera hastigheten med vilken befintliga insektskolonieer genererar nya insekter. Lägre värden betyder mer tid mellan genereringen.\n\nDetta påverkar inte om infesteringar kan inträffa - bara den hastighet med vilken aktiva insektskolonieer producerar insekter.</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Djupa borrangrepp</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Justera chansen att djupborrning ska utlösa en infestering.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label>Kartgenerering forntida hot</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info>Forntida strukturer kan innehålla farliga hot.</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label>Kartgenerering naturliga insektskolonieer</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info>Vilande insektskolonieer kan genereras i naturliga grottor.\n\nDenna inställning gäller endast för kartgenerering och påverkar inte aktiva insekter som kan tunnelera in under spel.</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>Lägg till orubbliga fångar</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>Det här alternativet lägger till ytterligare fångar till spelet som inte kan rekryteras på grund av orubblig lojalitet.\n\nOrubbliga fångar läggs till ovanpå vanliga fångar, så att stänga av detta ger inte fler rekryterbara fångar - det tar helt enkelt bort de orubbliga fångarna. \n\nOrubbliga fångar kan fortfarande friges för diplomatiska vinningar, säljas, förslavas, skördas för organ eller på annat sätt utnyttjas. I allmänhet erbjuder de fler alternativ och resurser, och gör spelet lite rikare och enklare.</Difficulty_UnwaveringPrisoners_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection>Spelarverktyg</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label>Spelare kan bygga fällor</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info>Spelare kan bygga fällor som spikfällor och Inproviserade exlosions-fällor.</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label>Spelaren kan bygga torn</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info>Spelare kan bygga statiska torn som minitorn, autokanontorn och uranslugtorn.\n\nDu kan fortfarande använda fångade torn även om detta är inaktiverat.</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label>Spelare kan bygga granatkastare</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info>Spelare kan bygga granatkastare.\n\nDu kan fortfarande använda fångade granatkastare även om detta är inaktiverat.</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>Klassisk granatkastare</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>Granatkastare kommer inte att kräva förstärkta tunnor för att konstruera eller ladda om, och är balanserade för denna lätta åtkomst.</Difficulty_ClassicMortars_Info>
+
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection>Anpassning</DifficultyAdaptationSection>
+  <!-- EN: Adaptation growth rate -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Anpassningstillväxthastighet</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Anpassning innebär att berättaren gör spelet mer utmanande när du gör det bra. En anpassningspoäng växer över tiden och slås ner när du tar skada.\n\nDen här inställningen justerar hur snabbt anpassningspoängen växer över tiden.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Adaptation impact -->
+  <Difficulty_AdaptationEffectFactor_Label>Anpassningseffekt</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
+  <Difficulty_AdaptationEffectFactor_Info>Anpassning innebär att berättaren gör spelet mer utmanande när du gör det bra. En anpassningspoäng växer med tiden och slås ner när du tar skada.\n\nDen här inställningen justerar hur mycket anpassningspoängen påverkar svårigheten.</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>Förmögenhetsoberoende framstegsläge</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>Spela i ett förmögenhetsoberoende framstegsläge.\n\nI normalt läge skalar berättaren hoten efter antal kolonister, spelarförmögenhet och en mängd andra faktorer. Förmögenhetsoberoende läge tar bort förmögenhetsfaktorn och ersätter den med en fast framstegskurva baserad på tid. Tiden räknas från grundandet av varje koloni.\n\nDetta rekommenderas endast för de som letar efter en strikt kompetensutmaning. I förmögenhetsoberoende läge kan det vara nästan omöjligt att återhämta sig från allvarliga förluster om du inte hittar en ny uppgörelse. Det är också möjligt att komma för långt före kurvan och tycka att spelet är för enkelt.</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>År till maximalt hot</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>Antalet spelår tills det förmögenhetsoberoende läget når sin maximala hotnivå.\n\nObservera att historieberättaren fortfarande kommer att skala hoten efter antalet kolonister och en mängd andra faktorer.</Difficulty_FixedWealthTimeFactor_Info>
+
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>Ideologi</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>Låg population konvertering boost</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>Med en enda kolonist av spelarens startsideoligion multipliceras omvandlingschansen till deras ideoligion med detta belopp. Konverteringsförsök mot dem har deras inverkan dividerat med det beloppet.\n\nMed två kolonister av spelarens startideoligion halveras effekten.\n\nMed tre eller fler kolonister av spelarens startsideoligion har detta ingen effekt.</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>Välj startplats</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>Välj slumpad landningsplats</SelectRandomSite>
+  <SelectRandomSite>Välj slumpad startplats</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Välj plats</SelectSite>
-  <!-- EN: Please select a landing site. -->
-  <MustSelectLandingSite>Du måste välja en landningsplats.</MustSelectLandingSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>Du måste välja en startplats.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Du kan inte landa i den här biomen: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
@@ -258,6 +562,8 @@
   <Elevation>Höjd</Elevation>
   <!-- EN: Fertility -->
   <Fertility>Fertilitet</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>fertilitet</FertilityLower>
   <!-- EN: Average temperature -->
   <AvgTemp>Medeltemperatur</AvgTemp>
   <!-- EN: Rainfall -->
@@ -292,6 +598,10 @@
   <Forageability>Skördemöjlighet</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
   <ConfirmRequiredWorkTypeDisabledForEveryone>Ingen av de valda personerna kan utföra:\n\n{0}\n\nDetta kan göra spelet svårare än vanligt. Är du säker på att du vill fortsätta?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>temperatur</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>ljus</LightLower>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
@@ -306,28 +616,50 @@
   <Randomize>Slumpa</Randomize>
   <!-- EN: age {0} -->
   <AgeIndicator>ålder {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>{PAWN_race}, ålder {PAWN_ageFull}</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>{PAWN_gender}, {PAWN_race}, ålder {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>Bakgrundshistoria</Backstory>
   <!-- EN: Incapable of -->
   <IncapableOf>Inkapabel till </IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>Förmågor</Abilities>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipHediff>Orsakad av</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>Anartiverade arbeten:</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>Orsakad av bakgrund</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>Orsakad av titel</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>Orsakad av egenskap</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
+  <IncapableOfTooltipQuest>Orsakad av uppdragsstatus</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role -->
+  <IncapableOfTooltipRole>Orsakad av roll</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>Orsakad av gens</IncapableOfTooltipGene>
   <!-- EN: Traits -->
   <Traits>Persondrag</Traits>
   <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>Permanent humöreffekt</PermanentMoodEffect>
   <!-- EN: Skills -->
-  <Skills>Förmågor</Skills>
+  <Skills>Färdigheter</Skills>
   <!-- EN: none -->
   <NoneLower>inga</NoneLower>
   <!-- EN: Adulthood -->
   <Adulthood>Vuxen ålder</Adulthood>
   <!-- EN: Childhood -->
   <Childhood>Barndom</Childhood>
-  <!-- EN: Current -->
-  <Current>Nuvarande</Current>
   <!-- EN: male -->
   <Male>Man</Male>
   <!-- EN: female -->
   <Female>Kvinna</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>Man och kvinna</MaleAndFemale>
   <!-- EN: male -->
   <MaleAnimal>hane</MaleAnimal>
   <!-- EN: female -->
@@ -338,13 +670,17 @@
   <Health>Hälsa</Health>
   <!-- EN: Relations -->
   <Relations>Relationer</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>Ägodelar</Possessions>
   <!-- EN: Team skills -->
   <TeamSkills>Lagfärdigheter</TeamSkills>
   <!-- EN: Selected -->
   <StartingPawnsSelected>Vald</StartingPawnsSelected>
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Lämnad kvar</StartingPawnsLeftBehind>
-  
+  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <GuiltyDesc>Denna kolonist anses vara skyldig. Du kan fritt förvisa, avrätta eller arrestera dem, och andra kommer inte att bli besvärade.\n\nSkulden löper ut om</GuiltyDesc>
+   
   <!-- Misc -->
   <!-- EN: Start -->
   <Start>Börja</Start>
@@ -354,6 +690,8 @@
   <Next>Nästa</Next>
   <!-- EN: Back -->
   <Back>Tillbaka</Back>
+  <!-- EN: Change material... -->
+  <ShowMaterials>Ändra material...</ShowMaterials>
   <!-- EN: Gameplay -->
   <Gameplay>Spel</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
@@ -376,5 +714,28 @@
   <GeneratingMap>Genererar karta</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Genererar karta för nytt möte</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info. -->
+  <ClickForMoreInfo>Klicka för mer info.</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>Ingen mer information finns tillgänglig.</NoMoreInfoAvailable>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>Fraktioner</Factions>
+  <!-- EN: max {0} basic factions allowed -->
+  <TotalFactionsAllowed>max {0} normala fraktioner tillåtna</TotalFactionsAllowed>
+  <!-- EN: max {0} -->
+  <MaxFactionsForType>max. {0}</MaxFactionsForType>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>Välj fraktioner i världen. Du kan välja upp till {0} fraktioner totalt.</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>Att inaktivera {0} innebär mindre utbud av uppdrag och annat reducerat innehåll.</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>Att inaktivera {0} innebär mindre spontana hotvariationer.</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>Att inaktivera {0} innebär mindre uppdrag och spontana hotvariationer.</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>Utan andra fraktioner kommer räder, handel och uppdrag inte att ske som vanligt.</FactionsDisabledWarning>
 
 </LanguageData>
