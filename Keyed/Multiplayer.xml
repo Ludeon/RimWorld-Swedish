@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Multiplayer -->
+  <MpMultiplayerButton>Flerspelarläge</MpMultiplayerButton>
+  <!-- EN: Multiplayer errored during loading. -->
+  <MpLoadingError1>Flerspelarfel uppstod under laddningen.</MpLoadingError1>
+  <!-- EN: This might cause games to desync. -->
+  <MpLoadingError2>Detta kan göra att spel avsynkroniseras.</MpLoadingError2>
+  <!-- EN: This is likely because this version of the mod wan't made for your version of RimWorld. -->
+  <MpLoadingError3>Detta beror troligen på att den här versionen av mod:en inte är gjord för din version av RimWorld.</MpLoadingError3>
+  <!-- EN: Update/downgrade Multiplayer or RimWorld. -->
+  <MpLoadingError4>Uppdatera/nedgradera flerspelarläge eller RimWorld.</MpLoadingError4>
+  <!-- EN: NOTE: the game could have updated very recently and there might not be a new version of Multiplayer available yet. -->
+  <MpLoadingError5>spelet kan ha uppdaterats helt nyligen och det kanske inte finns någon ny version av flerspelarläge ännu.</MpLoadingError5>
+
+  <!-- EN: Simulating -->
+  <MpSimulating>Simulerar</MpSimulating>
+  <!-- EN: Simulating the server -->
+  <MpSimulatingServer>Simulering av servern</MpSimulatingServer>
+  <!-- EN: Loading -->
+  <MpLoading>Laddar</MpLoading>
+  <!-- EN: Saving -->
+  <MpSaving>Sparar</MpSaving>
+  <!-- EN: Creating a join-point -->
+  <MpCreatingJoinPoint>Skapar en kopplingspunkt</MpCreatingJoinPoint>
+
+  <!-- EN: Are you sure you want to close the server? -->
+  <MpServerCloseConfirmationNoTime>Är du säker på att du vill stänga servern?</MpServerCloseConfirmationNoTime>
+  <!-- EN: Are you sure you want to close the server? Last saved {0} ago. -->
+  <MpServerCloseConfirmationTime>Är du säker på att du vill stänga servern? Sparades senast {0}.</MpServerCloseConfirmationTime>
+  <!-- EN: Leaves in {0} -->
+  <MpTraderLeavesIn>Lämnar om {0}</MpTraderLeavesIn>
+
+  <!-- EN: Not available in multiplayer. -->
+  <MpNotAvailable>Ej tillgängligt i flerspelarläge.</MpNotAvailable>
+
+  <!-- EN: Calling other factions is currently not available in multiplayer. -->
+  <MpCallingFactionNotAvailable>Att anfopa andra fraktioner är för närvarande inte tillgängligt i flerspelarläge.</MpCallingFactionNotAvailable>
+  <!-- EN: Current time speed votes, lowest wins. -->
+  <MpLowestWinsButtonsDesc1>Aktuell tid hastighet röster, lägsta vinner.</MpLowestWinsButtonsDesc1>
+  <!-- EN: Shift+Space to reset your vote. -->
+  <MpLowestWinsButtonsDesc2>Skift+Mellanslag för att återställa din röst.</MpLowestWinsButtonsDesc2>
+  <!-- EN: The host can Shift+Click here to reset all votes. -->
+  <MpLowestWinsButtonsDesc3>Värden kan Shift+Klicka här för att återställa alla röster.</MpLowestWinsButtonsDesc3>
+  <!-- EN: You are {0} ticks behind. -->
+  <MpTicksBehind>Du ligger {0} tick efter.</MpTicksBehind>
+  <!-- EN: Consider lowering the game speed. -->
+  <MpLowerGameSpeed>Överväg att sänka spelhastigheten.</MpLowerGameSpeed>
+  <!-- EN: Click to force catch up. -->
+  <MpForceCatchUp>Klicka för att tvinga ikapp.</MpForceCatchUp>
+
+  <!-- EN: Wrong protocol version -->
+  <MpWrongProtocol>Fel protokollversion</MpWrongProtocol>
+  <!-- EN: The server is hosted on Multiplayer {0} (protocol {1}). Your version: {2} (protocol {3}) -->
+  <MpWrongMultiplayerVersionDesc>Servern är värd på flerspelarläge {0} (protokoll {1}). Din version: {2} (protokoll {3})</MpWrongMultiplayerVersionDesc>
+  <!-- EN: Update the mod (resubscribe if on Steam). -->
+  <MpWrongVersionUpdateInfo>Uppdatera moden (prenumerera på nytt om du är på Steam).</MpWrongVersionUpdateInfo>
+  <!-- EN: The host should update the mod (resubscribe if on Steam). -->
+  <MpWrongVersionUpdateInfoHost>Värden bör uppdatera modden (prenumerera på nytt om du är på Steam).</MpWrongVersionUpdateInfoHost>
+  <!-- EN: Server closed -->
+  <MpServerClosed>Server stängd</MpServerClosed>
+  <!-- EN: Server is full -->
+  <MpServerFull>Servern är full</MpServerFull>
+  <!-- EN: Server is starting -->
+  <MpDisconnectServerStarting>Servern startar</MpDisconnectServerStarting>
+  <!-- EN: You've been kicked -->
+  <MpKicked>Du har blivit utsparkad</MpKicked>
+
+  <!-- EN: Disconnected -->
+  <MpDisconnected>Bortkopplad</MpDisconnected>
+  <!-- EN: Disconnected ({0}) -->
+  <MpDisconnectedWithInfo>Bortkopplad ({0})</MpDisconnectedWithInfo>
+  <!-- EN: Connection timed out -->
+  <MpSteamTimedOut>Anslutningen fick timeout</MpSteamTimedOut>
+  <!-- EN: Connection error -->
+  <MpSteamGenericError>Anslutningsfel</MpSteamGenericError>
+  <!-- EN: Local packet read error. See the log for more info. -->
+  <MpPacketErrorLocal>Lokalt paketläsfel. Se loggen för mer info.</MpPacketErrorLocal>
+  <!-- EN: Remote packet read error. The host can view the log for more info. -->
+  <MpPacketErrorRemote>Fjärrpaketläsningsfel. Värden kan se loggen för mer information.</MpPacketErrorRemote>
+  <!-- EN: Connection failed -->
+  <MpConnectionFailed>Anslutningen misslyckades</MpConnectionFailed>
+  <!-- EN: Connection failed ({0}) -->
+  <MpConnectionFailedWithInfo>Anslutningen misslyckades ({0})</MpConnectionFailedWithInfo>
+  <!-- EN: Username already online -->
+  <MpInvalidUsernameAlreadyPlaying>Användarnamn är redan online</MpInvalidUsernameAlreadyPlaying>
+  <!-- EN: Username has invalid characters -->
+  <MpInvalidUsernameChars>Användarnamnet har ogiltiga tecken</MpInvalidUsernameChars>
+  <!-- EN: Username has invalid length -->
+  <MpInvalidUsernameLength>Användarnamnet har ogiltig längd</MpInvalidUsernameLength>
+  <!-- EN: You can change your username in the mod settings. -->
+  <MpChangeUsernameInfo>Du kan ändra ditt användarnamn i modinställningarna.</MpChangeUsernameInfo>
+  <!-- EN: Connect as {0} -->
+  <MpConnectAsUsername>Anslut som {0}</MpConnectAsUsername>
+  <!-- EN: Wrong game password -->
+  <MpBadGamePassword>Fel spellösenord</MpBadGamePassword>
+
+  <!-- EN: Chat -->
+  <MpChatButton>Konversation</MpChatButton>
+  <!-- EN: Chat hotkey: -->
+  <MpChatHotkeyInfo>Konversation snabbknapp:</MpChatHotkeyInfo>
+  <!-- EN: {0} has joined -->
+  <MpPlayerConnected>{0} har gått med</MpPlayerConnected>
+  <!-- EN: {0} has left -->
+  <MpPlayerDisconnected>{0} har lämnat</MpPlayerDisconnected>
+  <!-- EN: Players ({0}): -->
+  <MpChatPlayers>Spelare ({0}):</MpChatPlayers>
+  <!-- EN: Send -->
+  <MpChatSend>Sänd</MpChatSend>
+  <!-- EN: Accept Steam players -->
+  <MpSteamAcceptTitle>Acceptera Steam-spelare</MpSteamAcceptTitle>
+  <!-- EN: Click to accept -->
+  <MpSteamAcceptDesc>Klicka för att acceptera</MpSteamAcceptDesc>
+  <!-- EN: Player has been accepted -->
+  <MpSteamAccepted>Spelaren har accepterats</MpSteamAccepted>
+
+  <!-- EN: Host a server -->
+  <MpHostServer>Värd för en server</MpHostServer>
+  <!-- EN: Convert to singleplayer -->
+  <MpConvertToSp>Konvertera till ensamspel-läge</MpConvertToSp>
+  <!-- EN: Are you sure you want to convert to singleplayer? This will close the server. -->
+  <MpConvertToSpWarnHost>Är du säker på att du vill konvertera till ensamspel-läge? Detta kommer att stänga servern.</MpConvertToSpWarnHost>
+  <!-- EN: Are you sure you want to convert to singleplayer? You will leave the multiplayer game. -->
+  <MpConvertToSpWarn>Är du säker på att du vill konvertera till ensamspel-läge? Du kommer att lämna flerspelarläge-spelet.</MpConvertToSpWarn>
+  <!-- EN: Converting -->
+  <MpConvertingToSp>Konverterar</MpConvertingToSp>
+  <!-- EN: Save game as -->
+  <MpSaveGameAs>Spara spelet som</MpSaveGameAs>
+  <!-- EN: File exists, will overwrite -->
+  <MpWillOverwrite>Filen finns, kommer att skrivas över</MpWillOverwrite>
+  <!-- EN: Game saved as {0} -->
+  <MpGameSaved>Spelet har sparats som {0}</MpGameSaved>
+  <!-- EN: Failed to save the game. See the log for more info. -->
+  <MpGameSaveFailed>Det gick inte att spara spelet. Se loggen för mer info.</MpGameSaveFailed>
+
+  <!-- EN: Username -->
+  <MpUsernameSetting>Användarnamn</MpUsernameSetting>
+  <!-- EN: Show player cursors -->
+  <MpShowPlayerCursors>Visa spelarens muspekare</MpShowPlayerCursors>
+  <!-- EN: Auto-accept Steam -->
+  <MpAutoAcceptSteam>Acceptera Steam automatiskt</MpAutoAcceptSteam>
+  <!-- EN: Automatically accept any incoming Steam connection requests. -->
+  <MpAutoAcceptSteamDesc>Acceptera automatiskt alla inkommande Steam-anslutningsförfrågningar.</MpAutoAcceptSteamDesc>
+  <!-- EN: Transparent chat -->
+  <MpTransparentChat>Transparent konversation</MpTransparentChat>
+  <!-- EN: Autosave slots -->
+  <MpAutosaveSlots>Autospara platser</MpAutosaveSlots>
+  <!-- EN: How many autosave files to keep. -->
+  <MpAutosaveSlotsDesc>Hur många autospara filer att behålla.</MpAutosaveSlotsDesc>
+  <!-- EN: Aggressive ticking -->
+  <MpAggressiveTicking>Aggressiv tickande</MpAggressiveTicking>
+  <!-- EN: Always try to automatically catch up with the server at the cost of FPS. -->
+  <MpAggressiveTickingDesc>Försök alltid att automatiskt komma ikapp servern till bekostnad av FPS.</MpAggressiveTickingDesc>
+  <!-- EN: Append name to autosave  -->
+  <MpAppendNameToAutosave>Lägg till namn för att spara automatiskt</MpAppendNameToAutosave>
+
+  <!-- EN: Show crowd-sourced compat info -->
+  <MpShowModCompat>Visa kompatibel info från crowd-sourced</MpShowModCompat>
+  <!-- EN: Enables downloading and displaying of crowd-sourced mod compatibility info. -->
+  <MpShowModCompatDesc>Möjliggör nedladdning och visning av crowd-sourced mod-kompatibilitetsinformation.</MpShowModCompatDesc>
+
+  <!-- EN: Enable location pings -->
+  <MpEnablePingsSetting>Aktivera platspingar</MpEnablePingsSetting>
+  <!-- EN: Ping location button -->
+  <MpPingLocButtonSetting>Knapp för platspingar</MpPingLocButtonSetting>
+  <!-- EN: Jump to ping button -->
+  <MpJumpToPingButtonSetting>Hoppa till ping-knappen</MpJumpToPingButtonSetting>
+  <!-- EN: Show main menu animation -->
+  <MpShowMainMenuAnimation>Visa huvudmenyanimering</MpShowMainMenuAnimation>
+  <!-- EN: Transparent player cursors -->
+  <MpPlayerCursorTransparency>Transparenta spelarmarkörer</MpPlayerCursorTransparency>
+
+  <!-- EN: General settings -->
+  <MpSettingsPageGeneral>Allmänna Inställningar</MpSettingsPageGeneral>
+  <!-- EN: Player colors -->
+  <MpSettingsPageColor>Spelar färger</MpSettingsPageColor>
+  <!-- EN: Select what colors player get when they connect to a game you host. Affects, for example, player cursors. -->
+  <MpSettingsPageColorDesc>Välj vilka färger spelaren får när de ansluter till ett spel som du är värd för. Påverkar till exempel spelarmarkörer.</MpSettingsPageColorDesc>
+  <!-- EN: Reset the colors -->
+  <MpResetColors>Återställ färgerna</MpResetColors>
+  <!-- EN: Multiplayer ping -->
+  <MpAlertPing>flerspelarping</MpAlertPing>
+  <!-- EN: Click to focus the camera on locations pinged by: {0} -->
+  <MpAlertPingDesc1>Klicka för att fokusera kameran på platser som pingats av: {0}</MpAlertPingDesc1>
+  <!-- EN: Shift + click to dismiss. -->
+  <MpAlertPingDesc2>Skift + klicka för att stänga.</MpAlertPingDesc2>
+
+  <!-- EN: Dialogs -->
+  <MpDialogsButton>Dialoger</MpDialogsButton>
+  <!-- EN: Trading session -->
+  <MpTradingSession>Handelssession</MpTradingSession>
+  <!-- EN: Ritual setup session -->
+  <MpRitualSession>Rituell installationssession</MpRitualSession>
+  <!-- EN: Transport pod loading session -->
+  <MpTransportLoadingSession>Lastningssession för transportkapsel</MpTransportLoadingSession>
+  <!-- EN: Caravan forming session -->
+  <MpCaravanFormingSession>Session för att bilda karavan</MpCaravanFormingSession>
+  <!-- EN: Caravan splitting session -->
+  <MpCaravanSplittingSession>Caravan-delningsession</MpCaravanSplittingSession>
+  <!-- EN: Another ritual setup session is already in progress. -->
+  <MpAnotherRitualInProgress>En annan rituell installationssession pågår redan.</MpAnotherRitualInProgress>
+
+  <!-- EN: Connecting -->
+  <MpConnecting>Ansluter</MpConnecting>
+  <!-- EN: Connecting to {0}:{1} -->
+  <MpConnectingTo>Ansluter till {0}:{1}</MpConnectingTo>
+  <!-- EN: Connected -->
+  <MpConnected>Ansluten</MpConnected>
+  <!-- EN: Joining -->
+  <MpJoining>Går med</MpJoining>
+  <!-- EN: Downloading ({0}%) -->
+  <MpDownloading>Laddar ned ({0}%)</MpDownloading>
+  <!-- EN: Connecting to a game hosted by {0} -->
+  <MpSteamConnectingTo>Ansluter till ett spel som tillhandahålls av {0}</MpSteamConnectingTo>
+  <!-- EN: Waiting for host to accept -->
+  <MpSteamConnectingWaiting>Väntar på att värden ska acceptera</MpSteamConnectingWaiting>
+  <!-- EN: Waiting for game data -->
+  <MpWaitingForGameData>Väntar på speldata</MpWaitingForGameData>
+  <!-- EN: Invalid address -->
+  <MpInvalidAddress>Ogiltig adress</MpInvalidAddress>
+  <!-- EN: Game password -->
+  <MpGamePassword>Spellösenord</MpGamePassword>
+  <!-- EN: The game state has desynced. -->
+  <MpDesynced>Spelet har avsynkroniserats.</MpDesynced>
+  <!-- EN: Try resync -->
+  <MpTryResync>Försök synkronisera om</MpTryResync>
+  <!-- EN: Open info folder -->
+  <MpOpenDesyncFolder>Öppna infomappen</MpOpenDesyncFolder>
+  <!-- EN: Waiting for data from the host -->
+  <MpDesyncedWaiting>Väntar på data från värden</MpDesyncedWaiting>
+  <!-- EN: Connecting -->
+  <MpHostTabConnecting>Ansluter</MpHostTabConnecting>
+
+  <!-- EN: Gameplay -->
+  <MpHostTabGameplay>Spelinfo</MpHostTabGameplay>
+  <!-- EN: Direct -->
+  <MpHostDirect>Direkt</MpHostDirect>
+  <!-- EN: Listen for joining players on specified endpoints. -->
+  <MpHostDirectDesc1>Lyssna efter anslutna spelare på specificerade slutpunkter.</MpHostDirectDesc1>
+  <!-- EN: Usually, leaving this field 0.0.0.0 is enough (it means listen on all network interfaces). Note that you'll likely have to do port forwarding. -->
+  <MpHostDirectDesc2>Vanligtvis räcker det att lämna detta fält 0.0.0.0 (det betyder att lyssna på alla nätverksgränssnitt). Observera att du förmodligen kommer att behöva göra portvidarebefordran.</MpHostDirectDesc2>
+  <!-- EN: To listen on multiple endpoints, separate them with ampersands. IPv6 addresses are supported. -->
+  <MpHostDirectDesc3>För att lyssna på flera slutpunkter, separera dem med et-tecken. IPv6-adresser stöds.</MpHostDirectDesc3>
+  <!-- EN: When no port is provided, 30502 is used. -->
+  <MpHostDirectDesc4>När ingen port tillhandahålls används 30502.</MpHostDirectDesc4>
+  <!-- EN: Host from this game -->
+  <MpHostIngame>Värd från detta spel</MpHostIngame>
+  <!-- EN: Host from a savefile -->
+  <MpHostSavefile>Värd från en sparfil</MpHostSavefile>
+  <!-- EN: Invalid endpoint: {0} -->
+  <MpInvalidEndpoint>Ogiltig slutpunkt: {0}</MpInvalidEndpoint>
+  <!-- EN: Invalid game name -->
+  <MpInvalidGameName>Ogiltigt spelnamn</MpInvalidGameName>
+  <!-- EN: Invalid game password -->
+  <MpInvalidGamePassword>Ogiltigt spellösenord</MpInvalidGamePassword>
+  <!-- EN: Game name -->
+  <MpGameName>Spelnamn</MpGameName>
+  <!-- EN: Max players -->
+  <MpMaxPlayers>Max spelare</MpMaxPlayers>
+
+  <!-- EN: Autosaves -->
+  <MpAutosaves>Sparar automatiskt</MpAutosaves>
+  <!-- EN: Every -->
+  <MpAutosavesEvery>Varje</MpAutosavesEvery>
+  <!-- EN: minutes -->
+  <MpAutosavesMinutes>minut</MpAutosavesMinutes>
+  <!-- EN: days -->
+  <MpAutosavesDays>dagar</MpAutosavesDays>
+  <!-- EN: The interval between autosaves. -->
+  <MpAutosavesDesc1>Intervallet mellan autosparningar.</MpAutosavesDesc1>
+  <!-- EN: Click the unit to switch between ingame days and realtime minutes. -->
+  <MpAutosavesDesc2>Klicka på enheten för att växla mellan speldagar och realtidsminuter.</MpAutosavesDesc2>
+  <!-- EN: A day on normal speed is about 16.6 minutes (fast: 5.5 minutes, superfast: 2.7 minutes) -->
+  <MpAutosavesDesc3>En dag med normal hastighet är cirka 16,6 minuter (snabb: 5,5 minuter, supersnabb: 2,7 minuter)</MpAutosavesDesc3>
+
+  <!-- EN: Broadcast the game to your local network. -->
+  <MpLanDesc1>Sänd spelet till ditt lokala nätverk.</MpLanDesc1>
+  <!-- EN: Resolved LAN address: {0} -->
+  <MpLanDesc2>Din LAN-adress: {0}</MpLanDesc2>
+  <!-- EN: Run Arbiter -->
+  <MpRunArbiter>Kör Arbiter</MpRunArbiter>
+  <!-- EN: A background game instance which helps with desync detection/solving. -->
+  <MpArbiterDesc>En bakgrundsspelinstans som hjälper till med desynkronisering/detektering/lösning.</MpArbiterDesc>
+  <!-- EN: Async time -->
+  <MpAsyncTime>Asynkron tid</MpAsyncTime>
+  <!-- EN: Separate time controls for each map and the planet. -->
+  <MpAsyncTimeDesc>Separata tidskontroller för varje karta och planet.</MpAsyncTimeDesc>
+
+  <!-- EN: Dev mode -->
+  <MpHostingDevMode>Utv-läge</MpHostingDevMode>
+  <!-- EN: Enables access to RimWorld's development mode tools. -->
+  <MpHostingDevModeDesc1>Möjliggör åtkomst till RimWorlds verktyg för utvecklingsläge.</MpHostingDevModeDesc1>
+  <!-- EN: Note: not all dev tools are usable and no support is provided for them. -->
+  <MpHostingDevModeDesc2>Obs: inte alla dev-verktyg är användbara och inget stöd tillhandahålls för dem.</MpHostingDevModeDesc2>
+  <!-- EN: Host only -->
+  <MpHostingDevModeHostOnly>Värd endast</MpHostingDevModeHostOnly>
+  <!-- EN: Everyone -->
+  <MpHostingDevModeEveryone>Alla</MpHostingDevModeEveryone>
+
+  <!-- EN: Desync traces -->
+  <MpLogDesyncTraces>Avsynkronisera spår</MpLogDesyncTraces>
+  <!-- EN: Log extra stacktraces for troubleshooting desyncs. -->
+  <MpLogDesyncTracesDesc1>Logga extra stacktraces för felsökning av desynkroniseringar.</MpLogDesyncTracesDesc1>
+  <!-- EN: Does not work on 32 bit and ARM (Apple Silicon) processors. -->
+  <MpLogDesyncTracesDesc2>Fungerar inte på 32-bitars och ARM (Apple Silicon)-processorer.</MpLogDesyncTracesDesc2>
+
+  <!-- EN: Experimental feature -->
+  <MpExperimentalFeature>Experimentell funktion</MpExperimentalFeature>
+  <!-- EN: Sync configs -->
+  <MpSyncConfigs>Synkronisera konfigurationer</MpSyncConfigs>
+  <!-- EN: Toggle whether joining players can download your mod configuration files. -->
+  <MpSyncConfigsDescNew1>Växla om spelare som går med kan ladda ner dina modkonfigurationsfiler.</MpSyncConfigsDescNew1>
+  <!-- EN: Enabling this can reduce the number of desyncs. -->
+  <MpSyncConfigsDescNew2>Aktivering av detta kan minska antalet desynkroniseringar.</MpSyncConfigsDescNew2>
+  <!-- EN: Note that some mods' config files can contain sensitive information (like Twitch API tokens used by streamer mods). -->
+  <MpSyncConfigsDescNew3>Observera att vissa moddars konfigurationsfiler kan innehålla känslig information (som Twitch API-tokens som används av streamermoddar).</MpSyncConfigsDescNew3>
+
+  <!-- EN: Auto join-points -->
+  <MpAutoJoinPoints>Automatiska kopplingspunkter</MpAutoJoinPoints>
+  <!-- EN: Toggle automatic creation of join-points. -->
+  <MpAutoJoinPointsDesc1>Växla automatiskt skapande av kopplingspunkter.</MpAutoJoinPointsDesc1>
+  <!-- EN: Join-point creation is slower than saving but it speeds up joining significantly by not requiring players to simulate the game. -->
+  <MpAutoJoinPointsDesc2>Skapandet av Join-point är långsammare än att spara men det påskyndar anslutningen avsevärt genom att inte kräva att spelare simulerar spelet.</MpAutoJoinPointsDesc2>
+  <!-- EN: You can always create a join-point manually by typing /joinpoint in the chat. -->
+  <MpAutoJoinPointsDesc3>Du kan alltid skapa en anslutningspunkt manuellt genom att skriva /joinpoint i chatten.</MpAutoJoinPointsDesc3>
+  <!-- EN: On join -->
+  <MpAutoJoinPointsJoin>Vid gå med</MpAutoJoinPointsJoin>
+  <!-- EN: On desync -->
+  <MpAutoJoinPointsDesync>Vid desynk</MpAutoJoinPointsDesync>
+  <!-- EN: On autosave -->
+  <MpAutoJoinPointsAutosave>Vid autospar</MpAutoJoinPointsAutosave>
+
+  <!-- EN: Password -->
+  <MpHostGamePassword>Lösenord</MpHostGamePassword>
+
+  <!-- EN: Pause on -->
+  <MpPauseOn>Pausa vid</MpPauseOn>
+  <!-- EN: Join -->
+  <MpPauseOnJoin>Ansut</MpPauseOnJoin>
+  <!-- EN: Desync -->
+  <MpPauseOnDesync>Desynk</MpPauseOnDesync>
+  <!-- EN: Time control -->
+  <MpTimeControl>Tidskontroll</MpTimeControl>
+  <!-- EN: Everyone controls -->
+  <MpTimeControlEveryoneControls>Alla styr</MpTimeControlEveryoneControls>
+  <!-- EN: Lowest wins -->
+  <MpTimeControlLowestWins>Lägsta vinster</MpTimeControlLowestWins>
+  <!-- EN: Host only -->
+  <MpTimeControlHostOnly>Endast värd</MpTimeControlHostOnly>
+  <!-- EN: Pause on letter -->
+  <MpPauseOnLetter>Pausa vid notis</MpPauseOnLetter>
+  <!-- EN: Never -->
+  <MpPauseOnLetterNever>Aldrig</MpPauseOnLetterNever>
+  <!-- EN: Major threats -->
+  <MpPauseOnLetterMajorThreat>Stora hot</MpPauseOnLetterMajorThreat>
+  <!-- EN: Any threat -->
+  <MpPauseOnLetterAnyThreat>Alla hot</MpPauseOnLetterAnyThreat>
+  <!-- EN: Any letter -->
+  <MpPauseOnLetterAnyLetter>Alla notiser</MpPauseOnLetterAnyLetter>
+
+  <!-- EN: Website -->
+  <MpWebsiteButton>Hemsida</MpWebsiteButton>
+  <!-- EN: Discord -->
+  <MpDiscordButton>Discord</MpDiscordButton>
+  <!-- EN: Click to open: -->
+  <MpLinkButtonDesc>Klicka för att öppna:</MpLinkButtonDesc>
+  <!-- EN: Compatibility -->
+
+  <MpCompatibilityButton>Kompatibilitet</MpCompatibilityButton>
+  <!-- EN: Open mod compatibility information window. -->
+  <MpCompatibilityButtonDesc1>Öppna fönstret med information om modkompatibilitet.</MpCompatibilityButtonDesc1>
+  <!-- EN: Also available from the mod list. -->
+  <MpCompatibilityButtonDesc2>Finns även från modlistan.</MpCompatibilityButtonDesc2>
+  <!-- EN: Active configs -->
+  <MpActiveConfigsButton>Aktiva konfigurationer</MpActiveConfigsButton>
+  <!-- EN: This RimWorld instance has been started with configuration files from game: {0} -->
+  <MpActiveConfigsButtonDesc1>Denna RimWorld-instans har startats med konfigurationsfiler från spelet: {0}</MpActiveConfigsButtonDesc1>
+  <!-- EN: Restart to restore your previous configs. -->
+  <MpActiveConfigsButtonDesc2>Starta om för att återställa dina tidigare konfigurationer.</MpActiveConfigsButtonDesc2>
+
+  <!-- EN: LAN -->
+  <MpLan>LAN</MpLan>
+  <!-- EN: Direct -->
+  <MpDirect>Direkt</MpDirect>
+  <!-- EN: Steam -->
+  <MpSteam>Steam</MpSteam>
+  <!-- EN: Host -->
+  <MpHostTab>Värd</MpHostTab>
+  <!-- EN: Join -->
+  <MpJoinButton>Anslut</MpJoinButton>
+  <!-- EN: Connect -->
+  <MpConnectButton>Anslut</MpConnectButton>
+  <!-- EN: Searching -->
+  <MpLanSearching>Söker</MpLanSearching>
+  <!-- EN: Not connected to Steam -->
+  <MpNotConnectedToSteam>Ej ansluten till Steam</MpNotConnectedToSteam>
+  <!-- EN: No friends currently playing RimWorld -->
+  <MpNoFriendsPlaying>Inga vänner spelar RimWorld för närvarande</MpNoFriendsPlaying>
+  <!-- EN: Playing RimWorld -->
+  <MpPlayingRimWorld>Spelar RimWorld</MpPlayingRimWorld>
+  <!-- EN: Not in multiplayer -->
+  <MpNotInMultiplayer>Inte i flerspelarläge</MpNotInMultiplayer>
+  <!-- EN: Multiplayer -->
+  <MpMultiplayerSaves>Flerspelarläge</MpMultiplayerSaves>
+  <!-- EN: Singleplayer -->
+  <MpSingleplayerSaves>Singelläge</MpSingleplayerSaves>
+
+  <!-- EN: (Outdated) -->
+  <MpSaveOutdated>(Föråldrad)</MpSaveOutdated>
+  <!-- EN: This savefile was made with RimWorld {0} but you are running version {1}. -->
+  <MpSaveOutdatedDesc>Den här sparade filen skapades med RimWorld {0} men du kör version {1}.</MpSaveOutdatedDesc>
+
+  <!-- EN: Host -->
+  <MpHostButton>Värd</MpHostButton>
+  <!-- EN: Watch -->
+  <MpWatchReplay>Titta</MpWatchReplay>
+  <!-- EN: Nothing selected -->
+  <MpNothingSelected>Inget valt</MpNothingSelected>
+  <!-- EN: Multiplayer can only be played from already existing saves -->
+  <MpNoSaves>Multiplayer kan endast spelas från redan befintliga sparfiler</MpNoSaves>
+  <!-- EN: See mod list -->
+  <MpSeeModList>Se modlista</MpSeeModList>
+  <!-- EN: Open containing folder -->
+  <MpOpenSaveFolder>Öppna innehållande mapp</MpOpenSaveFolder>
+  <!-- EN: Continue anyway -->
+  <MpContinueAnyway>Fortsätt ändå</MpContinueAnyway>
+  <!-- EN: Rename -->
+  <MpFileRenameButton>Döp om</MpFileRenameButton>
+  <!-- EN: Rename file to -->
+  <MpFileRename>Byt namn på filen till</MpFileRename>
+  <!-- EN: Data mismatch -->
+  <MpDataMismatch>Datafel</MpDataMismatch>
+  <!-- EN: Connect anyway -->
+  <MpConnectAnyway>Anslut ändå</MpConnectAnyway>
+  <!-- EN: Fix and restart -->
+  <MpFixAndRestart>Fixa och starta om</MpFixAndRestart>
+  <!-- EN: Quit -->
+  <MpMismatchQuit>Sluta</MpMismatchQuit>
+  <!-- EN: Mod data definitions differ. They need to match before joining. -->
+  <MpMismatchDefsDiff>Moddatadefinitionerna skiljer sig åt. De måste matcha innan de går med.</MpMismatchDefsDiff>
+  <!-- EN: The game needs to be restarted for mod list, file and config changes to take effect. -->
+  <MpRestartNeeded>Spelet måste startas om för att modlista, fil och konfigurationsändringar ska träda i kraft.</MpRestartNeeded>
+  <!-- EN: Apply server's configs -->
+  <MpApplyConfigs>Använd serverns konfigurationer</MpApplyConfigs>
+  <!-- EN: The application of configs is temporary and lasts until the next game restart. None of your files will be overriden. -->
+  <MpApplyConfigsTip>Tillämpningen av konfigurationer är tillfällig och varar tills nästa spelstart. Ingen av dina filer kommer att åsidosättas.</MpApplyConfigsTip>
+  <!-- EN: Apply server's mod list -->
+  <MpApplyModList>Använd serverns modlista</MpApplyModList>
+  <!-- EN: Your current mod list will get overriden. -->
+  <MpApplyModListTip>Din nuvarande modlista kommer att åsidosättas.</MpApplyModListTip>
+
+  <!-- EN: General -->
+  <MpMismatchGeneral>Allmänt</MpMismatchGeneral>
+  <!-- EN: Mod list -->
+  <MpMismatchModList>Mod lista</MpMismatchModList>
+  <!-- EN: Files -->
+  <MpMismatchFiles>Filer</MpMismatchFiles>
+  <!-- EN: Configs -->
+  <MpMismatchConfigs>Konfig</MpMismatchConfigs>
+  <!-- EN: Server -->
+  <MpMismatchServerSide>Server</MpMismatchServerSide>
+  <!-- EN: Your client -->
+  <MpMismatchClientSide>Din klient</MpMismatchClientSide>
+  <!-- EN: See the respective tabs for more info. -->
+  <MpMismatchSeeTabs>Se respektive flik för mer info.</MpMismatchSeeTabs>
+  <!-- EN: RimWorld version -->
+  <MpMismatchRwVersion>RimWorld version</MpMismatchRwVersion>
+  <!-- EN: Multiplayer version -->
+  <MpMismatchMpVersion>Flerspelarversion</MpMismatchMpVersion>
+  <!-- EN: Restart -->
+  <MpMismatchRestart>Starta om</MpMismatchRestart>
+  <!-- EN: You will be reconnected after the game finishes loading. -->
+  <MpMismatchRestartDesc>Du kommer att återanslutas efter att spelet har laddats klart.</MpMismatchRestartDesc>
+  <!-- EN: Back -->
+  <MpMismatchBack>Tillbaka</MpMismatchBack>
+  <!-- EN: Server mods -->
+  <MpMismatchServerMods>Server mods</MpMismatchServerMods>
+  <!-- EN: Active mods -->
+  <MpMismatchLocalMods>Aktiva mods</MpMismatchLocalMods>
+  <!-- EN: Refresh -->
+  <MpMismatchModListRefresh>Uppdatera</MpMismatchModListRefresh>
+  <!-- EN: Not installed: {0} -->
+  <MpMismatchNotInstalled>Ej installerat: {0}</MpMismatchNotInstalled>
+  <!-- EN: Mod lists differ. The game needs to be restarted. -->
+  <MpMismatchModListsMismatch>Modlistor skiljer sig åt. Spelet måste startas om.</MpMismatchModListsMismatch>
+  <!-- EN: Mods match but their order doesn't. The game needs to be restarted. -->
+  <MpMismatchWrongOrder>Mods matchar men deras ordning gör det inte. Spelet måste startas om.</MpMismatchWrongOrder>
+  <!-- EN: Mod lists match -->
+  <MpMismatchModListsMatch>Modlistor matchar</MpMismatchModListsMatch>
+  <!-- EN: Subscribe to missing -->
+  <MpMismatchSubscribe>Prenumerera på saknade</MpMismatchSubscribe>
+  <!-- EN: Subscribed to {0} mods. Downloading in the background... -->
+  <MpMismatchSubscribeMsg>Prenumererar på {0} mods. Laddar ner i bakgrunden...</MpMismatchSubscribeMsg>
+  <!-- EN: Not connected to Steam. Missing mods have to be installed manually. -->
+  <MpMismatchSubscribeNoSteam>Ej ansluten till Steam. Saknade mods måste installeras manuellt.</MpMismatchSubscribeNoSteam>
+  <!-- EN: No mods are missing. -->
+  <MpMismatchSubscribeNoMissing>Inga mods saknas.</MpMismatchSubscribeNoMissing>
+  <!-- EN: Subscribe to the missing mods on the Steam Workshop. Downloading will happen in the background. -->
+  <MpMismatchSubscribeDesc1>Prenumerera på de saknade mods på Steam Workshop. Nedladdning sker i bakgrunden.</MpMismatchSubscribeDesc1>
+  <!-- EN: Not all of the missing mods are available on Steam. The rest have to be installed manually. -->
+  <MpMismatchSubscribeDesc2>Alla de saknade moddarna är inte tillgängliga på Steam. Resten måste installeras manuellt.</MpMismatchSubscribeDesc2>
+  <!-- EN: Local files -->
+  <MpMismatchLocalFiles>Lokala filer</MpMismatchLocalFiles>
+  <!-- EN: Local configs -->
+  <MpMismatchLocalConfigs>Lokala konfigurationer</MpMismatchLocalConfigs>
+  <!-- EN: Refresh -->
+  <MpMismatchTreeRefresh>Uppdatera</MpMismatchTreeRefresh>
+  <!-- EN: Missing -->
+  <MpMismatchTreeMissing>Saknade</MpMismatchTreeMissing>
+  <!-- EN: Added -->
+  <MpMismatchTreeAdded>Tillagnda</MpMismatchTreeAdded>
+  <!-- EN: Modified -->
+  <MpMismatchTreeModified>Modifierade</MpMismatchTreeModified>
+  <!-- EN: Mod file differences need to be resolved manually or ignored. They are usually caused by differing versions of mods or files being left behind after an update. -->
+  <MpMismatchFilesInfo>Mod-filskillnader måste lösas manuellt eller ignoreras. De orsakas vanligtvis av att olika versioner av mods eller filer lämnas kvar efter en uppdatering.</MpMismatchFilesInfo>
+  <!-- EN: You should try to update/reinstall the offending mods (or resubscribe if on Steam). -->
+  <MpMismatchFilesInfoMods>Du bör försöka uppdatera/installera om de felande modsna (eller prenumerera om på Steam).</MpMismatchFilesInfoMods>
+  <!-- EN: To resolve issues with Core and expansion files, remove their folders and revalidate game file integrity (safe to do so, user data is stored elsewhere). Hover over the topmost folders to see their paths. -->
+  <MpMismatchFilesInfoCore>För att lösa problem med Core- och expansionsfiler, ta bort deras mappar och validera spelfilens integritet (säkert att göra det, användardata lagras någon annanstans). Håll muspekaren över de översta mapparna för att se deras vägar.</MpMismatchFilesInfoCore>
+  <!-- EN: The differences might originate on the host side and they might have to repeat the above steps. -->
+  <MpMismatchFilesInfoHost>Skillnaderna kan komma från värdsidan och de kan behöva upprepa stegen ovan.</MpMismatchFilesInfoHost>
+  <!-- EN: Hold shift to show the folder path. -->
+  <MpMismatchFileShowPath>Håll ned shift för att visa mappsökvägen.</MpMismatchFileShowPath>
+  <!-- EN: Shift + click to open the folder. -->
+  <MpMismatchFileOpenPath>Skift + klicka för att öppna mappen.</MpMismatchFileOpenPath>
+  <!-- EN: Click to expand/collapse. -->
+  <MpMismatchNodeExpand>Klicka för att expandera/komprimera.</MpMismatchNodeExpand>
+
+  <!-- EN: Config sync disabled by the host -->
+  <MpConfigSyncDisabled>Konfigurationssynkronisering inaktiverad av värden</MpConfigSyncDisabled>
+  <!-- EN: Files match -->
+  <MpFilesMatch>Filer matchar</MpFilesMatch>
+
+  <!-- EN: Multiplayer compatibility -->
+  <MpModCompatButton>Flerspelar-kompatibilitet</MpModCompatButton>
+  <!-- EN: Multiplayer mod compatibility -->
+  <MpModCompatTitle>Flerspelarmod-kompatibilitet</MpModCompatTitle>
+  <!-- EN: Loading -->
+  <MpModCompatLoading>Laddar</MpModCompatLoading>
+  <!-- EN: Loading failed. -->
+  <MpModCompatLoadingFailed>Det gick inte att ladda.</MpModCompatLoadingFailed>
+  <!-- EN: Active -->
+  <MpModCompatActiveMods>Aktiv</MpModCompatActiveMods>
+  <!-- EN: Installed -->
+  <MpModCompatInstalledMods>Installerad</MpModCompatInstalledMods>
+  <!-- EN: Outdated -->
+  <MpModCompatOutdatedMods>Föråldrad</MpModCompatOutdatedMods>
+  <!-- EN: Mod name -->
+  <MpModCompatHeaderModName>Mod namn</MpModCompatHeaderModName>
+  <!-- EN: Status -->
+  <MpModCompatHeaderStatus>Status</MpModCompatHeaderStatus>
+  <!-- EN: Notes -->
+  <MpModCompatHeaderNotes>Noteringar</MpModCompatHeaderNotes>
+  <!-- EN: XML-only mods provide only data and no logic and so are always compatible. Note though that they can have incompatible mods as dependencies. -->
+  <MpModCompatXmlOnlyDesc>Mods endast för XML ger endast data och ingen logik och är därför alltid kompatibla. Observera dock att de kan ha inkompatibla moddar som beroenden.</MpModCompatXmlOnlyDesc>
+  <!-- EN: Everything works -->
+  <MpModCompatScore4>Allt fungerar</MpModCompatScore4>
+  <!-- EN: Mostly works, some minor features don't work -->
+  <MpModCompatScore3>Det mesta fungerar, vissa mindre funktioner fungerar inte</MpModCompatScore3>
+  <!-- EN: Partially works, but major features don't work -->
+  <MpModCompatScore2>Fungerar delvis, men huvudfunktionerna fungerar inte</MpModCompatScore2>
+  <!-- EN: Does not work -->
+  <MpModCompatScore1>Fungerar inte</MpModCompatScore1>
+  <!-- EN: Unknown; please report findings to #mod-report in our Discord -->
+  <MpModCompatScoreUnk>Okänd; vänligen rapportera fynden till #mod-report i vår Discord</MpModCompatScoreUnk>
+  <!-- EN: Hide translation mods -->
+  <MpHideTranslationMods>Dölj översättningsmods</MpHideTranslationMods>
+  <!-- EN: Translation mods are always compatible. -->
+  <MpHideTranslationModsDesc>Översättningsmods är alltid kompatibla.</MpHideTranslationModsDesc>
+  <!-- EN: Configs match -->
+  <MpConfigsMatch>Konfigurationer matchar</MpConfigsMatch>
+
+</LanguageData>

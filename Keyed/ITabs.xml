@@ -93,7 +93,7 @@
   <!-- EN: Relations gain on release -->
   <PrisonerReleasePotentialRelationGains>Relationsökning vid frisläppning</PrisonerReleasePotentialRelationGains>
   <!-- EN: The faction goodwill you will get from the prisoner's faction if you release them. This is affected by the prisoner's identity, health, and mental condition. -->
-  <PrisonerReleaseRelationGainsDesc>Fraktionens goodwill du kommer få från fångens fraktion om du släpper dem. Detta påverkas av fångens identitet, hälsa och psykiska tillstånd.</PrisonerReleaseRelationGainsDesc>
+  <PrisonerReleaseRelationGainsDesc>Fraktionens välvilja du kommer få från fångens fraktion om du släpper dem. Detta påverkas av fångens identitet, hälsa och psykiska tillstånd.</PrisonerReleaseRelationGainsDesc>
   <!-- EN: Prison break interval -->
   <PrisonBreakMTBDays>Flyktintervall</PrisonBreakMTBDays>
   <!-- EN: The average days awake between prison breaks. This is affected by mood, mobility, the number of prison doors, and time since the last prison break.\n\nNote that this does not include time spent asleep. -->

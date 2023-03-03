@@ -153,7 +153,7 @@
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Är du säker på att du vill radera allt innehåll för {0}?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>Automat sortering mod:ar</ResolveModOrder>
+  <ResolveModOrder>Auto-sort mod</ResolveModOrder>
   <!-- EN: Save and apply changes -->
   <SaveModChanges>Spara och tillämpa ändringar</SaveModChanges>
   <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->

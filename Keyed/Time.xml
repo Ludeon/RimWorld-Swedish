@@ -9,9 +9,13 @@
   <LetterMinute>m</LetterMinute>
   <!-- EN: s -->
   <LetterSecond>s</LetterSecond>
-  
+  <!-- EN: y -->
+  <LetterYear>å</LetterYear>
+
   <!-- EN: days -->
   <DaysLower>dagar</DaysLower>
+  <!-- EN: hours -->
+  <HoursLower>timmar</HoursLower>
   <!-- EN: seconds -->
   <SecondsLower>sekunder</SecondsLower>
 
@@ -36,6 +40,15 @@
   <QuadrumSeptober>Septober</QuadrumSeptober>
   <!-- EN: Decembary -->
   <QuadrumDecembary>Decembruari</QuadrumDecembary>
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
   <Born>Född: {0}</Born>
@@ -72,6 +85,8 @@
   <!-- EN: Lasted -->
   <Lasted>Varade</Lasted>
   <!-- EN: occurred {0} ago -->
-  <OccurredTimeAgo>inträffade {0} sedan</OccurredTimeAgo>
+  <OccurredTimeAgo>inträffade {replace: {0}; "dag"-"dagar"} sedan</OccurredTimeAgo>
+    <!-- EN: {0} ago -->
+  <TimeAgo>vor (*DateTime){replace: {0}; "dag"-"dagar"}(/DateTime) sedan</TimeAgo>
   
 </LanguageData>

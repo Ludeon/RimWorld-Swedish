@@ -4,9 +4,11 @@
   <!-- ======================== Non-grouped ========================-->
   
   <!-- EN: Your faction will be a {0}. -->
-  <ScenPart_PlayerFaction>Din grupp kommer att vara en {0}.</ScenPart_PlayerFaction>
+  <ScenPart_PlayerFaction>Din fraktion kommer att vara en {0}.</ScenPart_PlayerFaction>
 
-  <!-- EN: Start with {0} people, chosen from {1}. -->
+  <!-- EN: Start with 1 person. -->
+  <ScenPart_StartWithPawn>Du startar med 1 person.</ScenPart_StartWithPawn>
+  <!-- EN: Start with {0} people. -->
   <ScenPart_StartWithPawns>Du startar med {0} personer.</ScenPart_StartWithPawns>
   <!-- EN: chosen from -->
   <ScenPart_StartWithPawns_OutOf>valda från</ScenPart_StartWithPawns_OutOf>
@@ -37,8 +39,8 @@
   <ScenPart_PawnsHaveTrait>{0} har en {1} chans att starta med karaktärsdrag: {2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>Karaktärer och varelser exploderar när de dör ({0}, radie {1}).</ScenPart_OnPawnDeathExplode>
-  <!-- EN: {0} start naked. -->
-  <ScenPart_PawnsAreNaked>{0} börja naken.</ScenPart_PawnsAreNaked>
+  <!-- EN: {0} have a {1} chance to start naked. -->
+  <ScenPart_PawnsAreNaked>{0} har en {1} chans att börja naken.</ScenPart_PawnsAreNaked>
   
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->

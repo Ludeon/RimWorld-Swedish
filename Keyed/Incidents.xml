@@ -11,10 +11,10 @@
   <AnimalInsanityMultiple>Någon sorts psykisk våg har svept över landskapet. Dina kolonister klarade sig, men...\n\nDet verkar som att många {0} i området har blivit galna.</AnimalInsanityMultiple>
 
   <!-- EN: Blight -->
-  <LetterLabelCropBlight>Mjöldagg</LetterLabelCropBlight>
+  <LetterLabelCropBlight>Röta</LetterLabelCropBlight>
   <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
   \nYou should cut or burn the affected plants before the blight spreads. -->
-  <LetterCropBlight>Mjöldagg har upptäckts på {PLANDEF_labelPlural}! \Du bör klippa eller bränna de drabbade plantorna innan sjukdomen sprider sig.</LetterCropBlight>
+  <LetterCropBlight>Röta har upptäckts på {PLANDEF_labelPlural}! \Du bör klippa eller bränna de drabbade plantorna innan sjukdomen sprider sig.</LetterCropBlight>
 
   <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>Mirakel</LetterLabelMiracleHeal>

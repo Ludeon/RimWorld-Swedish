@@ -3,24 +3,38 @@
 
   <!-- EN: Level -->
   <Level>Nivå</Level>
+  <!-- EN: Skill level -->
+  <SkillLevel>Färdighetsnivå</SkillLevel>
   <!-- EN: Progress to next level -->
   <ProgressToNextLevel>Utveckling till nästa nivå</ProgressToNextLevel>
   <!-- EN: Experience -->
   <Experience>Erfarenhet</Experience>
   <!-- EN: Passion -->
   <Passion>Intresse</Passion>
-  <!-- EN: None\n   -Learns {0} -->
-  <PassionNone>Inget\n  -Lär sig {0}</PassionNone>
-  <!-- EN: Interested\n   -Learns {0} -->
-  <PassionMinor>Intresserad\n  -Lär sig {0}</PassionMinor>
-  <!-- EN: Burning\n   -Learns {0} -->
-  <PassionMajor>Brinnande\n  -Lär sig {0}</PassionMajor>
+  <!-- EN: No passion -->
+  <PassionNone>Inget intresse</PassionNone>
+  <!-- EN: Passion -->
+  <PassionMinor>Intresse</PassionMinor>
+  <!-- EN: Burning passion -->
+  <PassionMajor>Brinnande intresse</PassionMajor>
+  <!-- EN: Learning speed -->
+  <LearningSpeed>Inlärningshastighet</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>Lärt sig max idag ({0}/{1}, framtida inlärning multipiceras med {2})</LearnedMaxToday>
+  <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
+  <ChildrenLearn>Barn lär sig färdigheter genom att se vuxna arbeta och genom att ta lektioner vid en lektionsbänk.</ChildrenLearn>
   <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>Effekt vid nivå {0}</EffectsAtLevel>
   <!-- EN: MAX -->
   <SkillMax>MAX</SkillMax>
+  <!-- EN: Learned level -->
+  <LearnedLevel>Läronivå</LearnedLevel>
+  <!-- EN: Negative level adjusted to zero. -->
+  <NegativeLevelAdjustedToZero>Negativ nivå justerad till noll.</NegativeLevelAdjustedToZero>
+  <!-- EN: Level capped at {0}. -->
+  <LevelCappedAtMax>Nivå begränsat till {0}.</LevelCappedAtMax>
+  <!-- EN: {GENE_label} gene -->
+  <GeneLabelWithDesc>Gen: {GENE_label}</GeneLabelWithDesc>
 
   <!-- EN: Barely heard of it -->
   <Skill0>Har knappt hört om det</Skill0>

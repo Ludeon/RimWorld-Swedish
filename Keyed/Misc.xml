@@ -16,6 +16,8 @@
 
   <!-- EN: Version {0} -->
   <VersionIndicator>Version {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>Spelversion</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>utvecklingsversion</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
@@ -23,11 +25,25 @@
   <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>Inloggad genom Steam som {0}</LoggedIntoSteamAs>
 
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>{0} och {1}</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>{0} eller {1}</ToCommaListOr>
+
   <!-- General-use words -->
   <!-- EN: Yes -->
   <Yes>Ja</Yes>
   <!-- EN: No -->
   <No>Nej</No>
+  <!-- EN: No {0} -->
+  <NoSubject>Ingen {0}</NoSubject>
+  <!-- EN: new -->
+  <New>neu</New>
+  <!-- EN: Gender -->
+  <Gender>Kön</Gender>
+  <!-- EN: Sex -->
+  <Sex>Kön</Sex>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -42,6 +58,8 @@
   <damage>skada</damage>
   <!-- EN: radius -->
   <radius>radie</radius>
+  <!-- EN: expired -->
+  <expired>utgånget</expired>
   <!-- EN: duration (days) -->
   <durationDays>varaktighet (dagar)</durationDays>
   <!-- EN: interval (days) -->
@@ -66,6 +84,18 @@
   <Default>Standard</Default>
   <!-- EN: Average -->
   <Average>Medel</Average>
+  <!-- EN: Cause -->
+  <Cause>Anledning</Cause>
+  <!-- EN: etc -->
+  <Etc>etc</Etc>
+  <!-- EN: ${0} -->
+  <MoneyFormat>${0}</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>Faktorer</Factors>
+  <!-- EN: Uses -->
+  <Uses>Användning</Uses>
+  <!-- EN: Translation -->
+  <Translation>Översättning</Translation>
 
   <!-- Content generation-->
   
@@ -77,6 +107,16 @@
   <MeatInsectDesc>Rått styckat kött. Om det behövs kan det tillagas, eller ätas rått. Extremt äckligt.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
   <MeatHumanDesc>Rått styckat kött. Kan tillagas för måltider eller ätas rått, även om de flesta människor ogillar det sitsnämnda.</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>Teknikplan ({PROJECT_label})</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>Detta är en teknikplan för forskningsprojektet '{PROJECT_label}'.\nDen fysiska formen av teknikplan kan sträcka sig från papperslappar med diagram, hela vägen till avancerade fristående undervisningsmaskin. Oavsett form spelar de samma roll. De ger dina forskare förtroendet för att en idé är möjlig, och en grov uppfattning om designen som används i mer etablerade samhällen.\nDina forskare behöver den grundläggande kunskapen som erbjuds av teknikplan för att veta var de ska börja med en viss teknik. Först efter att tillräckligt många teknikplaner har tillämpats kan dina forskare räkna ut de fina detaljerna om hur man använder tekniken i just din situation.\nAtt tillämpa teknikplaner på ett redan aktiverat projekt halverar dess återstående forskningstiden. Dessutom får forskare alltid ett uppsving för sina intellektuella färdigheter när de tillämpar teknikplaner, även på redan färdigställda teknologier.</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>Låser upp</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} lik</CorpseLabel>
@@ -106,6 +146,12 @@
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Oansluten</FactionUnaffiliated>
 
+  <!-- EN: Continue anyway? -->
+  <StillWishContinue>Trotzdem fortfahren?</StillWishContinue>
+
+  <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
+  <BabyTalk>ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah</BabyTalk>
+
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- EN: {0} {1} -->
@@ -116,6 +162,12 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{PAWN1_labelShort} och {PAWN2_labelShort}s {2}</CouplesRoom>
   
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>Viktigt för denna typ av rum.</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} under jord här.</DeepResourceRemaining>
+
   <!-- EN: (various) -->
   <VariousLabel>(diverse)</VariousLabel>
 
@@ -132,5 +184,22 @@
   <West>Väster</West>
   <!-- EN: East -->
   <East>Öster</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>tillämpar teknikplan ({0})</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>variant av</VariantOf>
+  
+  <!-- Familial relationships -->
+  <!-- EN: born to {0} -->
+  <BornOfParents>född till {0}</BornOfParents>
+  <!-- EN: unknown parents -->
+  <ParentsUnknown>okända föräldrar</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <!-- EN: colonist -->
+  <Colonist>Kolonist</Colonist>
   
 </LanguageData>

@@ -6,6 +6,8 @@
   <TabTerrain>Terräng</TabTerrain>
   <!-- EN: Planet -->
   <TabPlanet>Planet</TabPlanet>
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>Utfordrar</TabCaravanFeeding>
   <!-- EN: Social -->
   <TabCaravanSocial>Social</TabCaravanSocial>
   <!-- EN: Health -->
@@ -46,8 +48,8 @@
   <OpenSpecificTabButtonTip>Klicka för att öppna en flik med mer information.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
   <CaravanPrisoners>Fångar</CaravanPrisoners>
-  <!-- EN: Inventory -->
-  <CaravanWeaponsAndApparel>Packning</CaravanWeaponsAndApparel>
+  <!-- EN: Equippable items -->
+  <CaravanWeaponsAndApparel>Utrustningsbara föremål</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
   <NoneCapable>Ingen är kapabel</NoneCapable>
   <!-- EN: Caravan not moving -->

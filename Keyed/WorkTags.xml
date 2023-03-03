@@ -11,6 +11,8 @@
   <WorkTagManualSkilled>skickligt arbete</WorkTagManualSkilled>
   <!-- EN: violent -->
   <WorkTagViolent>våldsam</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>avståndsstrid</WorkTagShooting>
   <!-- EN: caring -->
   <WorkTagCaring>vårdar</WorkTagCaring>
   <!-- EN: social -->
@@ -33,5 +35,13 @@
   <WorkTagPlantWork>odling</WorkTagPlantWork>
   <!-- EN: mining -->
   <WorkTagMining>malmbrytning</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>jaga</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>bygga</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>allmänt arbete</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>allt arbete</WorkTagAllWork>
 
 </LanguageData>
