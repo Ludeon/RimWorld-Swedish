@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
+  <ChildSpy47.baseDesc>Barn antas vara oskyldiga, vilket gör dem till utmärkta spioner. [PAWN_nameDef] tränades i konsten att infiltrera när [PAWN_pronoun] bara var ett litet barn.\n\n[PAWN_possessive] år som spion gav [PAWN_objective] erfarenhet av social manipulation och lögn, men [PAWN_pronoun] fick aldrig en normal utbildning.</ChildSpy47.baseDesc>
+  <!-- EN: child spy -->
+  <ChildSpy47.title>barnspion</ChildSpy47.title>
+  <ChildSpy47.titleFemale>barnspion</ChildSpy47.titleFemale>
+  <!-- EN: spy -->
+  <ChildSpy47.titleShort>spion</ChildSpy47.titleShort>
+  <ChildSpy47.titleShortFemale>spion</ChildSpy47.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
+  <ChildStar74.baseDesc>[PAWN_nameDef] var välkänd i hela [PAWN_possessive] hemvärlden som barnskådespelare i filmer och TV-program. [PAWN_possessive] berömmelse satte [PAWN_objective] i kontakt med många olika typer av människor, men tenderade också att komma i vägen för [PAWN_possessive] utbildning.</ChildStar74.baseDesc>
+  <!-- EN: child star -->
+  <ChildStar74.title>barnstjärna</ChildStar74.title>
+  <!-- EN: star -->
+  <ChildStar74.titleShort>stjärna</ChildStar74.titleShort>
+  
+  <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
+  <ComaChild93.baseDesc>En barndomsolycka satte [PAWN_nameDef] i koma. [PAWN_pronoun] vaknade inte förrän [PAWN_pronoun] var i [PAWN_possessive] sena tonår. [PAWN_possessive] kropp återhämtade sig aldrig från åren av inaktivitet, men människor tenderar att tycka synd om [PAWN_objective] när de hör [PAWN_possessive] historia.</ComaChild93.baseDesc>
+  <!-- EN: coma child -->
+  <ComaChild93.title>komabarn</ComaChild93.title>
+  <!-- EN: coma child -->
+  <ComaChild93.titleShort>komabarn</ComaChild93.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter [PAWN_possessive] first glimpse of the outside world, [PAWN_pronoun] decided to run away. -->
+  <CultChild3.baseDesc>[PAWN_nameDef] föddes i en kraftfull kult som undvek avancerad teknik och trodde att all sjukdom kunde botas genom att rena själen genom helig konst.\n\nEfter [PAWN_possessive] första glimt av omvärlden bestämde sig [PAWN_pronomen] för att fly .</CultChild3.baseDesc>
+  <!-- EN: cult child -->
+  <CultChild3.title>kultbarn</CultChild3.title>
+  <!-- EN: cult kid -->
+  <CultChild3.titleShort>kultbarn</CultChild3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up with a laundry list of phobias and neuroses. [PAWN_pronoun] feared, among other things, doctors and foodborne pathogens.\n\nAs a result, [PAWN_pronoun] learned to cook and care for [PAWN_objective]self, but many of [PAWN_possessive] fears dog [PAWN_objective] in adulthood. -->
+  <FrightenedChild43.baseDesc>[PAWN_nameDef] växte upp med en lista av fobier och neuroser. [PAWN_pronoun] fruktade bland annat läkare och livsmedelsburna patogener.\n\nSom ett resultat lärde sig [PAWN_pronoun] att laga mat och ta hand om sig själv, men många av [PAWN_possessive] rädslor fick [PAWN_objective] behålla i vuxen ålder.</FrightenedChild43.baseDesc>
+  <!-- EN: frightened child -->
+  <FrightenedChild43.title>ängstligt barn</FrightenedChild43.title>
+  <!-- EN: scared -->
+  <FrightenedChild43.titleShort>​den fobiske</FrightenedChild43.titleShort>
+  <FrightenedChild43.titleShortFemale>​den fobiske</FrightenedChild43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
+  <MedicalAssistant12.baseDesc>[PAWN_nameDef] föddes under ett katastrofalt krig där båda sidor använde brandvapen. [PAWN_pronoun] växte upp med att hjälpa [PAWN_besittande] föräldrar på en sjukavdelning och behandlade kaskaden av fruktansvärda brännskador från slagfälten. [PAWN_pronomen] lämnades med en livslång rädsla för eld.</MedicalAssistant12.baseDesc>
+  <!-- EN: medical assistant -->
+  <MedicalAssistant12.title>sjukskötare</MedicalAssistant12.title>
+  <MedicalAssistant12.titleFemale>sjuksköterska</MedicalAssistant12.titleFemale>
+  <!-- EN: medic -->
+  <MedicalAssistant12.titleShort>läkare</MedicalAssistant12.titleShort>
+  <MedicalAssistant12.titleShortFemale>läkare</MedicalAssistant12.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed. -->
+  <MusicalKid86.baseDesc>Som barn hade [PAWN_nameDef] en talang för att spela musikinstrument och sjunga. [PAWN_pronoun] fick expertutbildning och älskade att uppträda i framtädande och konserter, även om det överdådiga beröm [PAWN_pronoun] fick gjorde [PAWN_objective] lite självbesatt.</MusicalKid86.baseDesc>
+  <!-- EN: musical kid -->
+  <MusicalKid86.title>musikalisk barn</MusicalKid86.title>
+  <!-- EN: musician -->
+  <MusicalKid86.titleShort>musiker</MusicalKid86.titleShort>
+  <MusicalKid86.titleShortFemale>musiker</MusicalKid86.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
+  <Mute34.baseDesc>[PAWN_nameDef] påverkades kraftigt av en traumatisk händelse tidigt i [PAWN_possessive] liv. I många år vägrade [PAWN_pronoun] att prata med människor, utan föredrar istället att leka med hushållets många husdjur.</Mute34.baseDesc>
+  <!-- EN: mute -->
+  <Mute34.title>stum</Mute34.title>
+  <!-- EN: mute -->
+  <Mute34.titleShort>​den stumme</Mute34.titleShort>
+  <Mute34.titleShortFemale>​den stumma</Mute34.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
+  <OrganFarm67.baseDesc>[PAWN_nameDef] växte upp i en illegal underjordisk orgelfarm. [PAWN_possessive] kropp användes för att odla organiska implantat för sårade legosoldater. Även om [PAWN_possessive] uppfostran har lämnat [PAWN_objective] hemsökt, har det också gett [PAWN_objective] en unik förståelse av mänsklig biologi.</OrganFarm67.baseDesc>
+  <!-- EN: organ farm -->
+  <OrganFarm67.title>organdonator</OrganFarm67.title>
+  <OrganFarm67.titleFemale>organdonator</OrganFarm67.titleFemale>
+  <!-- EN: organ farm -->
+  <OrganFarm67.titleShort>organdonator</OrganFarm67.titleShort>
+  
+  <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
+  <Pyromaniac18.baseDesc>Från en tidig ålder hade [PAWN_nameDef] en ohälsosam fascination av eld. [PAWN_pronoun] tände eld på avfallshögar och blev ofta så hänförd av lågorna [PAWN_pronoun] kunde frånvarande bränna [PAWN_objective] själv.\n\nEn dag när [PAWN_pronoun] lekte med tändstickor brände [PAWN_pronoun] slarvigt ner sitt hem.</Pyromaniac18.baseDesc>
+  <!-- EN: pyromaniac -->
+  <Pyromaniac18.title>pyroman</Pyromaniac18.title>
+  <Pyromaniac18.titleFemale>pyroman</Pyromaniac18.titleFemale>
+  <!-- EN: pyro -->
+  <Pyromaniac18.titleShort>pyroman</Pyromaniac18.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
+  <ShopKid36.baseDesc>[PAWN_nameDef]s mamma var ofta sjuk och det föll på [PAWN_objective] att driva butiken som var deras enda inkomstkälla. [PAWN_pronoun] lärde sig lite om de exotiska artefakter som [PAWN_pronoun] sålde, och mycket om affärskonst.</ShopKid36.baseDesc>
+  <!-- EN: shop kid -->
+  <ShopKid36.title>butiksbarn</ShopKid36.title>
+  <!-- EN: shopkid -->
+  <ShopKid36.titleShort>butiksbarn</ShopKid36.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
+  <SicklyChild55.baseDesc>Som barn led [PAWN_nameDef] av en sällsynt sjukdom. I karantän på ett sjukhus hade [PAWN_pronoun] minimal mänsklig kontakt och fick lite fysisk träning. I den sterila sjukhusmiljön blev [PAWN_pronomen] dock mycket bekant med vetenskap och medicin.</SicklyChild55.baseDesc>
+  <!-- EN: sickly child -->
+  <SicklyChild55.title>sjukligt barn</SicklyChild55.title>
+  <!-- EN: patient -->
+  <SicklyChild55.titleShort>patient</SicklyChild55.titleShort>
+  <SicklyChild55.titleShortFemale>patient</SicklyChild55.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
+  <StoryWriter67.baseDesc>Som barn var [PAWN_nameDef] beroende av läsning. [PAWN_pronoun] skulle tillbringa hela dagen i sitt lokala bibliotek med näsan i en bok. När budgetnedskärningar tvingade biblioteket att stänga blev [PAWN_nameDef] upprörd. [PAWN_pronoun] bestämde sig för att fylla luckan genom att skriva sina egna berättelser istället.</StoryWriter67.baseDesc>
+  <!-- EN: story writer -->
+  <StoryWriter67.title>författare</StoryWriter67.title>
+  <StoryWriter67.titleFemale>författarinna</StoryWriter67.titleFemale>
+  <!-- EN: writer -->
+  <StoryWriter67.titleShort>författare</StoryWriter67.titleShort>
+  <StoryWriter67.titleShortFemale>författarinna</StoryWriter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during [PAWN_possessive] accelerated growth, [PAWN_nameDef] still has a proclivity for combat of all kinds and an aversion to human contact. -->
+  <VatgrownSoldier8.baseDesc>[PAWN_nameDef] skapades inte som en person, utan som ett förstörelseinstrument. Odlöad i en biovapenanläggning och lärd strid under [PAWN_possessive] accelererad tillväxt, [PAWN_nameDef] har fortfarande en benägenhet för strid av alla slag och en motvilja mot mänsklig kontakt.</VatgrownSoldier8.baseDesc>
+  <!-- EN: vatgrown soldier -->
+  <VatgrownSoldier8.title>oldad soldat</VatgrownSoldier8.title>
+  <VatgrownSoldier8.titleFemale>oldad soldat</VatgrownSoldier8.titleFemale>
+  <!-- EN: vatgrown -->
+  <VatgrownSoldier8.titleShort>den odlade</VatgrownSoldier8.titleShort>
+  <VatgrownSoldier8.titleShortFemale>den odlade</VatgrownSoldier8.titleShortFemale>
+  
+  <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
+  <WarRefugee51.baseDesc>Krig bröt ut i [PAWN_nameDef]s hem när [PAWN_pronomen] var ett barn. [PAWN_possessive] föräldrar flydde med [PAWN_objective] och sökte säkerhet varhelst de kunde hitta den. [PAWN_nameDef]s tidigaste minnen är av att ha lärt sig hur man försvarar sig själv.\n\nVåldet och förstörelsen [PAWN_pronoun] bevittnade gjorde att [PAWN_objective] var ärrad för livet.</WarRefugee51.baseDesc>
+  <!-- EN: war refugee -->
+  <WarRefugee51.title>krigsflykting</WarRefugee51.title>
+  <!-- EN: refugee -->
+  <WarRefugee51.titleShort>flykting</WarRefugee51.titleShort>
+  
+</LanguageData>

@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] travelled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
+  <Actor72.baseDesc>[PAWN_nameDef] reste med ett sällskap av skådespelare, spelade på fullsatta teatrar och imponerade publik överallt. [PAWN_pronoun] var perfektionist och gjorde [PAWN_possessive] egna rekvisita och kostymer istället för att använda dem som [PAWN_pronoun] gavs.</Actor72.baseDesc>
+  <!-- EN: actor -->
+  <Actor72.title>skådespelare</Actor72.title>
+  <Actor72.titleFemale>skådespelare</Actor72.titleFemale>
+  <!-- EN: actor -->
+  <Actor72.titleShort>skådespelare</Actor72.titleShort>
+  <Actor72.titleShortFemale>skådespelare</Actor72.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
+  <AnimalFarmer21.baseDesc>[PAWN_nameDef] tog upp en mängd olika djur för att ge kött, mjölk, ägg och läder.</AnimalFarmer21.baseDesc>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.title>djurbonde</AnimalFarmer21.title>
+  <AnimalFarmer21.titleFemale>djurbonde</AnimalFarmer21.titleFemale>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.titleShort>djurbonde</AnimalFarmer21.titleShort>
+  <AnimalFarmer21.titleShortFemale>djurbonde</AnimalFarmer21.titleShortFemale>
+  
+  <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
+  <AsceticPriest84.baseDesc>Efter att ha avlagt ett tysthetslöfte gick [PAWN_nameDef] med i ett kloster för att tillbringa [PAWN_possessive] dagar i stilla kontemplation.\n\n[PAWN_pronomen] fann lycka när han odlade grönsaker i trädgården och gjorde ost i klostrets källare.</AsceticPriest84.baseDesc>
+  <!-- EN: ascetic priest -->
+  <AsceticPriest84.title>asketisk munk</AsceticPriest84.title>
+  <AsceticPriest84.titleFemale>asketisk nunna</AsceticPriest84.titleFemale>
+  <!-- EN: priest -->
+  <AsceticPriest84.titleShort>munk</AsceticPriest84.titleShort>
+  <AsceticPriest84.titleShortFemale>nunna</AsceticPriest84.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
+  <Bartender62.baseDesc>[PAWN_nameDef] arbetade som bartender i en sjaskig krog. Jobbet var en del att mixa drinkar, en del diplomati och en del lite mer fysisk diplomati.</Bartender62.baseDesc>
+  <!-- EN: bartender -->
+  <Bartender62.title>bartender</Bartender62.title>
+  <Bartender62.titleFemale>bartender</Bartender62.titleFemale>
+  <!-- EN: barkeep -->
+  <Bartender62.titleShort>bartender</Bartender62.titleShort>
+  <Bartender62.titleShortFemale>bartender</Bartender62.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
+  <Bodyguard58.baseDesc>[PAWN_nameDef] skyddade den som betalade [PAWN_objective]. [PAWN_pronoun] fick kunskaper i många olika stridsformer och var känd för [PAWN_possessive] hänsynslöshet mot de som korsade [PAWN_objective].</Bodyguard58.baseDesc>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.title>livvakt</Bodyguard58.title>
+  <Bodyguard58.titleFemale>livvakt</Bodyguard58.titleFemale>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.titleShort>livvakt</Bodyguard58.titleShort>
+  <Bodyguard58.titleShortFemale>livvakt</Bodyguard58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
+  <CaveExplorer45.baseDesc>[PAWN_nameDef] försörjde sig på att kartlägga mörka tunnlar och nästan otillgängliga sprickor på jakt efter värdefulla mineraler. [PAWN_possessive] arbete var mycket farligt, men lönen var bra.</CaveExplorer45.baseDesc>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.title>grottutforskare</CaveExplorer45.title>
+  <CaveExplorer45.titleFemale>grottutforskare</CaveExplorer45.titleFemale>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.titleShort>speleolog</CaveExplorer45.titleShort>
+  <CaveExplorer45.titleShortFemale>speleolog</CaveExplorer45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] ran a high-class restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among kitchen workers for [PAWN_possessive] casual disdain for grunt work. -->
+  <Chef52.baseDesc>[PAWN_nameDef] drev en högklassig restaurang. [PAWN_pronoun] var känd bland kunder för [PAWN_possessive] kreativa kulinariska specialiteter och ökända bland köksarbetare för [PAWN_possessive] tillfälligt förakt av hårt arbete.</Chef52.baseDesc>
+  <!-- EN: chef -->
+  <Chef52.title>köksmästare</Chef52.title>
+  <Chef52.titleFemale>köksmästare</Chef52.titleFemale>
+  <!-- EN: chef -->
+  <Chef52.titleShort>kock</Chef52.titleShort>
+  <Chef52.titleShortFemale>kock</Chef52.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics. -->
+  <CivilServant2.baseDesc>PAWN_nameDef] arbetade som en lågt rankad administratör för en döende statlig byråkrati. [PAWN_pronoun] är mest hemma ai att fylla i komplicerat pappersarbete och spela kontorspolitik.</CivilServant2.baseDesc>
+  <!-- EN: civil servant -->
+  <CivilServant2.title>tjänsteman</CivilServant2.title>
+  <CivilServant2.titleFemale>tjänsteman</CivilServant2.titleFemale>
+  <!-- EN: bureaucrat -->
+  <CivilServant2.titleShort>byråkrat</CivilServant2.titleShort>
+  <CivilServant2.titleShortFemale>byråkrat</CivilServant2.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never created anything in [PAWN_possessive] life. [PAWN_pronoun] did, however, prove to be a natural at getting others to give [PAWN_objective] what they had created. -->
+  <ConArtist80.baseDesc>[PAWN_nameDef] skapade aldrig något i [PAWN_possessive] liv. [PAWN_pronoun] visade sig dock vara naturligt för att få andra att ge [PAWN_objective] vad de hade skapat.</ConArtist80.baseDesc>
+  <!-- EN: con artist -->
+  <ConArtist80.title>bedragare</ConArtist80.title>
+  <ConArtist80.titleFemale>bedragare</ConArtist80.titleFemale>
+  <!-- EN: con artist -->
+  <ConArtist80.titleShort>bedragare</ConArtist80.titleShort>
+  <ConArtist80.titleShortFemale>bedragare</ConArtist80.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known in art circles on [PAWN_possessive] home world for [PAWN_possessive] unique and creative conceptual artworks.\n\nNobody was sure exactly what [PAWN_pronoun] was trying to communicate, but [PAWN_possessive] pieces were highly valued by collectors. -->
+  <ConceptualArtist39.baseDesc>[PAWN_nameDef] var välkänd i konstkretsar i [PAWN_possessive] hemvärld för [PAWN_possessive] unika och kreativa konceptuella konstverk.\n\nIngen var säker på exakt vad [PAWN_pronoun] försökte kommunicera, men [PAWN_possessive] verk var högt värderade av samlare.</ConceptualArtist39.baseDesc>
+  <!-- EN: conceptual artist -->
+  <ConceptualArtist39.title>konceptuell konstnär</ConceptualArtist39.title>
+  <ConceptualArtist39.titleFemale>konceptuell konstnär</ConceptualArtist39.titleFemale>
+  <!-- EN: artist -->
+  <ConceptualArtist39.titleShort>konstnär</ConceptualArtist39.titleShort>
+  <ConceptualArtist39.titleShortFemale>konstnär</ConceptualArtist39.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a construction worker. [PAWN_pronoun] lead a team which built everything from office blocks to cathedrals.\n\n[PAWN_possessive] busy job and numerous nearby fast-food outlets meant [PAWN_pronoun] never cooked for [PAWN_objective]self. -->
+  <ConstructionEngineer32.baseDesc>[PAWN_nameDef] var en byggnadsarbetare. [PAWN_pronoun] ledde ett team som byggde allt från kontorsbyggnader till katedraler.\n\n[PAWN_possessive] hektiskt jobb och många närliggande snabbmatsställen gjorde att [PAWN_pronoun] aldrig lagade mat åt [PAWN_objective] själv.</ConstructionEngineer32.baseDesc>
+  <!-- EN: construction engineer -->
+  <ConstructionEngineer32.title>Byggngenjör</ConstructionEngineer32.title>
+  <ConstructionEngineer32.titleFemale>Byggngenjör</ConstructionEngineer32.titleFemale>
+  <!-- EN: builder -->
+  <ConstructionEngineer32.titleShort>byggare</ConstructionEngineer32.titleShort>
+  <ConstructionEngineer32.titleShortFemale>byggare</ConstructionEngineer32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
+  <ContractMiner86.baseDesc>[PAWN_nameDef] flyttade från jobb till jobb och utvann mineraler och gamla värdesaker i tunnlar och gruvor. Arbetet var tufft och smutsigt, men [PAWN_pronomen] tyckte att det var givande.</ContractMiner86.baseDesc>
+  <!-- EN: contract miner -->
+  <ContractMiner86.title>gruvarbetare</ContractMiner86.title>
+  <ContractMiner86.titleFemale>gruvarbetare</ContractMiner86.titleFemale>
+  <!-- EN: contract miner -->
+  <ContractMiner86.titleShort>gruvarbetare</ContractMiner86.titleShort>
+  <ContractMiner86.titleShortFemale>gruvarbetare</ContractMiner86.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone. -->
+  <CorporateManager76.baseDesc>[PAWN_nameDef] arbetade på ett enormt kontor med öppen planlösning, vilket säkerställde att [PAWN_possessive] tilldelade team av arbetare mestadels höll i uppgift.\n\nJobbet var intensivt politiskt. För att komma vidare lärde sig [PAWN_nameDef] hur man ordnar saker så att [PAWN_pronomen] kunde ta åt sig äran för arbete utfört av nästan vem som helst.</CorporateManager76.baseDesc>
+  <!-- EN: corporate manager -->
+  <CorporateManager76.title>företagsledare</CorporateManager76.title>
+  <CorporateManager76.titleFemale>företagsledare</CorporateManager76.titleFemale>
+  <!-- EN: manager -->
+  <CorporateManager76.titleShort>chef</CorporateManager76.titleShort>
+  <CorporateManager76.titleShortFemale>chef</CorporateManager76.titleShortFemale>
+  
+  <!-- EN: A terrifying trauma when [PAWN_nameDef] was a young adult caused [PAWN_objective] to develop a serious eating disorder. With counseling [PAWN_pronoun] learned to have a healthier relationship with food, and decided to put [PAWN_possessive] new skills to use helping others overcome their emotional problems. -->
+  <Counselor26.baseDesc>Ett skrämmande trauma när [PAWN_nameDef] var en ung vuxen fick [PAWN_objective] att utveckla en allvarlig ätstörning. Med rådgivning lärde sig [PAWN_pronoun] att ha ett hälsosammare förhållande till mat och bestämde sig för att använda [PAWN_possessive] nya färdigheter för att hjälpa andra att övervinna sina känslomässiga problem.</Counselor26.baseDesc>
+  <!-- EN: counselor -->
+  <Counselor26.title>rådgivare</Counselor26.title>
+  <Counselor26.titleFemale>rådgivare</Counselor26.titleFemale>
+  <!-- EN: counselor -->
+  <Counselor26.titleShort>rådgivare</Counselor26.titleShort>
+  <Counselor26.titleShortFemale>rådgivare</Counselor26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
+  <CropFarmer17.baseDesc>[PAWN_nameDef] drev en växtodling. [PAWN_pronoun] analyserade jord, jordbruksutrustning, vädermönster och pristrender för att optimera plantering och skörd av massiva odlingsfält.</CropFarmer17.baseDesc>
+  <!-- EN: crop farmer -->
+  <CropFarmer17.title>växtodlare</CropFarmer17.title>
+  <CropFarmer17.titleFemale>växtodlare</CropFarmer17.titleFemale>
+  <!-- EN: farmer -->
+  <CropFarmer17.titleShort>jordbrukare</CropFarmer17.titleShort>
+  <CropFarmer17.titleShortFemale>jordbrukare</CropFarmer17.titleShortFemale>
+  
+  <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent out after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run, treating [PAWN_possessive] own wounds so no doctor could betray [PAWN_objective]. The ordeal made [PAWN_objective] bitter and untrusting. -->
+  <Defector78.baseDesc>Tidigt i [PAWN_possessive] vuxen ålder beslutade [PAWN_nameDef] att lämna den förtryckande diktaturen där [PAWN_pronomen] bodde. [PAWN_possessive] avhopp togs inte emot väl, och agenter skickades ut efter [PAWN_objective].\n\n[PAWN_pronoun] tillbringade år på flykt och behandlade [PAWN_possessive] egna sår så att ingen läkare kunde förråda [PAWN_objective]. Prövningen gjorde [PAWN_objective] bitter och opålitlig.</Defector78.baseDesc>
+  <!-- EN: defector -->
+  <Defector78.title>avhoppare</Defector78.title>
+  <Defector78.titleFemale>avhoppare</Defector78.titleFemale>
+  <!-- EN: defector -->
+  <Defector78.titleShort>avhoppare</Defector78.titleShort>
+  <Defector78.titleShortFemale>avhoppare</Defector78.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never figured out what to do with [PAWN_possessive] life. [PAWN_pronoun] travelled often, taking up casual work wherever [PAWN_pronoun] found it.\n\n[PAWN_pronoun] also occasionally worked on a novel that [PAWN_pronoun] knew would be a bestseller - just as soon as [PAWN_pronoun] could find a publisher who was interested. -->
+  <Drifter67.baseDesc>[PAWN_nameDef] kom aldrig på vad jag skulle göra med [PAWN_possessive] liv. [PAWN_pronoun] reste ofta och tog tillfälligt arbete varhelst [PAWN_pronoun] hittade det.\n\n[PAWN_pronoun] arbetade också ibland på en roman som [PAWN_pronoun] visste skulle bli en bästsäljare - precis så snart [PAWN_pronoun] kunde hitta en förläggare som var intresserad.</Drifter67.baseDesc>
+  <!-- EN: drifter -->
+  <Drifter67.title>luffare</Drifter67.title>
+  <Drifter67.titleFemale>luffare</Drifter67.titleFemale>
+  <!-- EN: drifter -->
+  <Drifter67.titleShort>luffare</Drifter67.titleShort>
+  <Drifter67.titleShortFemale>luffare</Drifter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] denies involvement in the crimes that brought about [PAWN_possessive] incarceration in a brutal penal colony. [PAWN_pronoun] escaped by tunneling beneath the perimeter using modified cutlery. -->
+  <EscapedConvict90.baseDesc>[PAWN_nameDef] förnekar inblandning i brotten som ledde till att [PAWN_besittande] fängslades i en brutal straffkoloni. [PAWN_pronoun] flydde genom att tunnla under inhängaden med ett modifierade bestick.</EscapedConvict90.baseDesc>
+  <!-- EN: escaped convict -->
+  <EscapedConvict90.title>rymd fånge</EscapedConvict90.title>
+  <EscapedConvict90.titleFemale>rymd fånge</EscapedConvict90.titleFemale>
+  <!-- EN: escapee -->
+  <EscapedConvict90.titleShort>rymling</EscapedConvict90.titleShort>
+  
+  <!-- EN: As a youth, [PAWN_nameDef] experienced a religious awakening. [PAWN_pronoun] decided to spend the rest of [PAWN_possessive] life spreading the word of [PAWN_possessive] deity, the beauty of its culture, and its unusual medical tradition. -->
+  <Evangelist39.baseDesc>Som ung upplevde [PAWN_nameDef] ett religiöst uppvaknande. [PAWN_pronoun] bestämde sig för att tillbringa resten av [PAWN_possessive] liv med att sprida ordet om [PAWN_possessive] gudom, skönheten i dess kultur och dess ovanliga medicinska tradition.</Evangelist39.baseDesc>
+  <!-- EN: evangelist -->
+  <Evangelist39.title>evangelist</Evangelist39.title>
+  <Evangelist39.titleFemale>evangelist</Evangelist39.titleFemale>
+  <!-- EN: evangelist -->
+  <Evangelist39.titleShort>evangelist</Evangelist39.titleShort>
+  <Evangelist39.titleShortFemale>evangelist</Evangelist39.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an explosive engineer employed in mines. [PAWN_pronoun] took [PAWN_possessive] job very seriously and was well-versed in the technicalities - so much so that [PAWN_pronoun] refused to demean [PAWN_objective]self by helping with the clean-up once [PAWN_possessive] carefully-calculated explosion was complete. -->
+  <ExplosivesExpert26.baseDesc>[PAWN_nameDef] var en explosiv ingenjör anställd i gruvor. [PAWN_pronoun] tog [PAWN_possessive] jobbet på största allvar och var väl insatt i de tekniska detaljerna - så mycket att [PAWN_pronoun] vägrade att förnedra [PAWN_objective] själv genom att hjälpa till med städningen när [PAWN_possessive] noggrant beräknad explosion var klar .</ExplosivesExpert26.baseDesc>
+  <!-- EN: explosives expert -->
+  <ExplosivesExpert26.title>sprängexpert</ExplosivesExpert26.title>
+  <ExplosivesExpert26.titleFemale>sprängexpert</ExplosivesExpert26.titleFemale>
+  <!-- EN: blaster -->
+  <ExplosivesExpert26.titleShort>sprängare</ExplosivesExpert26.titleShort>
+  <ExplosivesExpert26.titleShortFemale>sprängare</ExplosivesExpert26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
+  <Forester96.baseDesc>[PAWN_nameDef] växte och skördade skog. [PAWN_pronomen] förstod både de praktiska utmaningarna med jordtyper, vind och regn, såväl som den långsiktiga planeringen av skogens tillväxt.</Forester96.baseDesc>
+  <!-- EN: forester -->
+  <Forester96.title>skogvaktare</Forester96.title>
+  <Forester96.titleFemale>skogvaktare</Forester96.titleFemale>
+  <!-- EN: forester -->
+  <Forester96.titleShort>skogvaktare</Forester96.titleShort>
+  <Forester96.titleShortFemale>skogvaktare</Forester96.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
+  <FurnitureBuilder83.baseDesc>[PAWN_nameDef] växte upp nära skogar. [PAWN_pronoun] spenderade [PAWN_possessive] tid på att bygga vackra möbler för rika glittervärldskunder.</FurnitureBuilder83.baseDesc>
+  <!-- EN: furniture builder -->
+  <FurnitureBuilder83.title>möbelbyggare</FurnitureBuilder83.title>
+  <FurnitureBuilder83.titleFemale>möbelbyggare</FurnitureBuilder83.titleFemale>
+  <!-- EN: builder -->
+  <FurnitureBuilder83.titleShort>byggare</FurnitureBuilder83.titleShort>
+  <FurnitureBuilder83.titleShortFemale>byggare</FurnitureBuilder83.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked at the mansion of a powerful family, tending the lavish gardens as part of a team of servants. -->
+  <Gardener99.baseDesc>[PAWN_nameDef] arbetade på en mäktig familjs herrgård och skötte de påkostade trädgårdarna som en del i en grupp av tjänare.</Gardener99.baseDesc>
+  <!-- EN: gardener -->
+  <Gardener99.title>trädgårdsmästare</Gardener99.title>
+  <Gardener99.titleFemale>trädgårdsmästare</Gardener99.titleFemale>
+  <!-- EN: gardener -->
+  <Gardener99.titleShort>trädgårdsmästare</Gardener99.titleShort>
+  <Gardener99.titleShortFemale>trädgårdsmästare</Gardener99.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked with miners and cave-diggers, identifying rock types and natural formations.\n\nDuring [PAWN_possessive] years underground [PAWN_pronoun] also gained experience repairing drilling machines and other technical equipment. -->
+  <Geologist66.baseDesc>[PAWN_nameDef] arbetade med gruvarbetare och grottgrävare och identifierade bergarter och naturliga formationer.\n\nUnder [PAWN_possessive] år under jorden fick [PAWN_pronoun] även erfarenhet av att reparera borrmaskiner och annan teknisk utrustning.</Geologist66.baseDesc>
+  <!-- EN: geologist -->
+  <Geologist66.title>geolog</Geologist66.title>
+  <Geologist66.titleFemale>geolog</Geologist66.titleFemale>
+  <!-- EN: geologist -->
+  <Geologist66.titleShort>geolog</Geologist66.titleShort>
+  <Geologist66.titleShortFemale>geolog</Geologist66.titleShortFemale>
+  
+  <!-- EN: As an adult, [PAWN_nameDef] kept house and cared for children while [PAWN_possessive] spouse worked. -->
+  <Housemate8.baseDesc>SV: Som vuxen var [PAWN_nameDef] ansvarig för hemmet och tog hand om barn medan [PAWN_besittande] {PAWN_gender ? maka : make} arbetade.</Housemate8.baseDesc>
+  <!-- EN: housemate -->
+  <Housemate8.title>hemmaman</Housemate8.title>
+  <!-- EN: housewife -->
+  <Housemate8.titleFemale>hemmafru</Housemate8.titleFemale>
+  <!-- EN: housemate -->
+  <Housemate8.titleShort>hemmaman</Housemate8.titleShort>
+  <!-- EN: housewife -->
+  <Housemate8.titleShortFemale>hemmafru</Housemate8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a domestic servant to wealthy homeowners.\n\n[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside. -->
+  <HouseServant63.baseDesc>[PAWN_nameDef] var en {PAWN_gender ? betjänt : husa} för rika husägare.\n\n[PAWN_pronomen] lärde känna köken och källarna i [PAWN_possessive] herrgård väl, men arbetade aldrig utanför.</HouseServant63.baseDesc>
+  <!-- EN: house servant -->
+  <HouseServant63.title>betjänt</HouseServant63.title>
+  <HouseServant63.titleFemale>husa</HouseServant63.titleFemale>
+  <!-- EN: servant -->
+  <HouseServant63.titleShort>betjänt</HouseServant63.titleShort>
+  <HouseServant63.titleShortFemale>husa</HouseServant63.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
+  <Hunter89.baseDesc>[PAWN_nameDef] jagade vilda djur för att hjälpa [PAWN_besittande] gemenskap. När tiderna blev tuffa såg andra till [PAWN_objective] som den som skulle hjälpa människor genom en tuff säsong.</Hunter89.baseDesc>
+  <!-- EN: hunter -->
+  <Hunter89.title>jägare</Hunter89.title>
+  <Hunter89.titleFemale>jägare</Hunter89.titleFemale>
+  <!-- EN: hunter -->
+  <Hunter89.titleShort>jägare</Hunter89.titleShort>
+  <Hunter89.titleShortFemale>jägare</Hunter89.titleShortFemale>
+  
+  <!-- EN: On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately successful inventor. [PAWN_pronoun] developed several minor technologies. -->
+  <Inventor6.baseDesc>På [PAWN_possessive] hemvärld arbetade [PAWN_nameDef] som en måttligt framgångsrik uppfinnare. [PAWN_pronoun] utvecklade flera mindre tekniker.</Inventor6.baseDesc>
+  <!-- EN: inventor -->
+  <Inventor6.title>uppfinnare</Inventor6.title>
+  <Inventor6.titleFemale>uppfinnare</Inventor6.titleFemale>
+  <!-- EN: inventor -->
+  <Inventor6.titleShort>uppfinnare</Inventor6.titleShort>
+  <Inventor6.titleShortFemale>uppfinnare</Inventor6.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where [PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit of getting into fights, and developed an aggressive way of speaking. -->
+  <Jailbird40.baseDesc>[PAWN_nameDef] tillbringade större delen av [PAWN_besittande] liv i fängelser, där [PAWN_pronomen] sattes i arbete i köken. [PAWN_pronomen] hade en vana att hamna i slagsmål och utvecklade ett aggressivt sätt att tala.</Jailbird40.baseDesc>
+  <!-- EN: jailbird -->
+  <Jailbird40.title>fängelsekund</Jailbird40.title>
+  <Jailbird40.titleFemale>fängelsekund</Jailbird40.titleFemale>
+  <!-- EN: jailbird -->
+  <Jailbird40.titleShort>fängelsekund</Jailbird40.titleShort>
+  <Jailbird40.titleShortFemale>fängelsekund</Jailbird40.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
+  <LivestockFarmer8.baseDesc>[PAWN_nameDef] drev en boskapsfarm. [PAWN_pronoun] analyserade djurgenetik, fodertyper, födelse- och slaktmetoder och pristrender för att optimera uppfödningen av enorma djurbesättningar.</LivestockFarmer8.baseDesc>
+  <!-- EN: livestock farmer -->
+  <LivestockFarmer8.title>boskapsbonde</LivestockFarmer8.title>
+  <LivestockFarmer8.titleFemale>boskapsbonde</LivestockFarmer8.titleFemale>
+  <!-- EN: farmer -->
+  <LivestockFarmer8.titleShort>uppfödare</LivestockFarmer8.titleShort>
+  <LivestockFarmer8.titleShortFemale>uppfödare</LivestockFarmer8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] took down trees and collected wood in hilly passes and ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how to manage the forest to keep it healthy. -->
+  <Logger95.baseDesc>[PAWN_nameDef] tog ner träd och samlade ved i kuperade pass och raviner. [PAWN_pronoun] lärde sig både hur man fäller träden på ett säkert sätt och hur man sköter skogen för att hålla den frisk.</Logger95.baseDesc>
+  <!-- EN: logger -->
+  <Logger95.title>skogsarbetare</Logger95.title>
+  <Logger95.titleFemale>skogsarbetare</Logger95.titleFemale>
+  <!-- EN: logger -->
+  <Logger95.titleShort>skogsarbetare</Logger95.titleShort>
+  <Logger95.titleShortFemale>skogsarbetare</Logger95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked a variety of casual jobs to support [PAWN_possessive] family, gaining a set of basic hands-on skills. -->
+  <LowWageWorker7.baseDesc>[PAWN_nameDef] arbetade med en mängd olika tillfälliga jobb för att stödja familjen [PAWN_possessive] och fick en uppsättning grundläggande praktiska färdigheter.</LowWageWorker7.baseDesc>
+  <!-- EN: low-wage worker -->
+  <LowWageWorker7.title>låglönearbetare</LowWageWorker7.title>
+  <LowWageWorker7.titleFemale>låglönearbetare</LowWageWorker7.titleFemale>
+  <!-- EN: grunt -->
+  <LowWageWorker7.titleShort>arbetare</LowWageWorker7.titleShort>
+  <LowWageWorker7.titleShortFemale>arbetare</LowWageWorker7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was obsessed with old machines and arcane pieces of technology. [PAWN_pronoun] obtained them wherever [PAWN_pronoun] could, and loved taking them apart to see how they worked.\n\n[PAWN_pronoun] had a habit of talking about [PAWN_possessive] collection long after people around [PAWN_objective] had stopped listening. -->
+  <MachineCollector55.baseDesc>[PAWN_nameDef] var besatt av gamla maskiner och mystiska delar av teknik. [PAWN_pronoun] fick dem varhelst [PAWN_pronoun] kunde, och älskade att ta isär dem för att se hur de fungerade.\n\n[PAWN_pronoun] hade för vana att prata om [PAWN_possessive] samling långt efter att folk runt [PAWN_objective] hade slutat lyssna.</MachineCollector55.baseDesc>
+  <!-- EN: machine collector -->
+  <MachineCollector55.title>maskinsamlare</MachineCollector55.title>
+  <MachineCollector55.titleFemale>maskinsamlare</MachineCollector55.titleFemale>
+  <!-- EN: collector -->
+  <MachineCollector55.titleShort>samlare</MachineCollector55.titleShort>
+  <MachineCollector55.titleShortFemale>samlare</MachineCollector55.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did mathematical research at a university.\n\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time immersed in shooting simulations, though [PAWN_pronoun] was frequently ridiculed by other players for [PAWN_possessive] terrible aim. -->
+  <Mathematician6.baseDesc>[PAWN_nameDef] gjorde matematisk forskning vid ett universitet.\n\n[PAWN_pronoun] tillbringade mycket av [PAWN_possessive] fritid nedsänkt i skjutsimuleringar, även om [PAWN_pronoun] ofta förlöjligades av andra spelare för [PAWN_possessive] dåliga sikte.</Mathematician6.baseDesc>
+  <!-- EN: mathematician -->
+  <Mathematician6.title>matematiker</Mathematician6.title>
+  <Mathematician6.titleFemale>matematiker</Mathematician6.titleFemale>
+  <!-- EN: math prof -->
+  <Mathematician6.titleShort>matematiker</Mathematician6.titleShort>
+  <Mathematician6.titleShortFemale>matematiker</Mathematician6.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations. -->
+  <Model99.baseDesc>[PAWN_nameDef] modellerade för kläder och smycken åt annonsörer och användes också som en fysisk design för karaktärer i virtuell verklighetssimuleringar.</Model99.baseDesc>
+  <!-- EN: model -->
+  <Model99.title>modell</Model99.title>
+  <!-- EN: model -->
+  <Model99.titleShort>modell</Model99.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a hospital, doing routine work such as changing bandages and taking temperatures.\n\nIt was a busy job, but [PAWN_pronoun] could always find time for a chat with a patient. -->
+  <Nurse61.baseDesc>[PAWN_nameDef] arbetade på ett sjukhus och gjorde rutinarbete som att byta bandage och ta temperaturer.\n\nDet var ett hektiskt jobb, men [PAWN_pronomen] kunde alltid hitta tid för en prata med en patient.</Nurse61.baseDesc>
+  <!-- EN: nurse -->
+  <Nurse61.title>sjukskötare</Nurse61.title>
+  <Nurse61.titleFemale>sjuksköterska</Nurse61.titleFemale>
+  <!-- EN: nurse -->
+  <Nurse61.titleShort>skötare</Nurse61.titleShort>
+  <Nurse61.titleShortFemale>sköterska</Nurse61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s job was to respond rapidly to medical emergencies. [PAWN_pronoun] is used to dealing with severe injuries with only limited medical supplies.\n\n[PAWN_pronoun] treated so many gunshot wounds over the years that even seeing a gun made [PAWN_objective] uncomfortable. -->
+  <Paramedic45.baseDesc>[PAWN_nameDef]s uppgift var att reagera snabbt på medicinska nödsituationer. [PAWN_pronoun] är van vid att hantera svåra skador med endast begränsad medicinsk utrustning.\n\n[PAWN_pronoun] behandlade så många skottskador genom åren att till och med se ett vapen gjorde [PAWN_objective] obekväm.</Paramedic45.baseDesc>
+  <!-- EN: paramedic -->
+  <Paramedic45.title>sjukvårdare</Paramedic45.title>
+  <Paramedic45.titleFemale>sjukvårdare</Paramedic45.titleFemale>
+  <!-- EN: paramedic -->
+  <Paramedic45.titleShort>sjukvårdare</Paramedic45.titleShort>
+  <Paramedic45.titleShortFemale>sjukvårdare</Paramedic45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal police force.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
+  <Policeman45.baseDesc>[PAWN_nameDef] höll lugnet som polis i en kommunal polisstyrka.\n\n[PAWN_pronomen] tränades i nedtrappning, fysisk kontroll, skjutning och andra poliskunskaper.</Policeman45.baseDesc>
+  <!-- EN: policeman -->
+  <Policeman45.title>polis</Policeman45.title>
+  <!-- EN: policewoman -->
+  <Policeman45.titleFemale>polis</Policeman45.titleFemale>
+  <!-- EN: policeman -->
+  <Policeman45.titleShort>polis</Policeman45.titleShort>
+  <!-- EN: policewoman -->
+  <Policeman45.titleShortFemale>polis</Policeman45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
+  <QuarryWorker29.baseDesc>[PAWN_nameDef] arbetade i ett stenbrott och hjälpte till att utvinna värdefull sten från sluttningen. [PAWN_pronoun] lärde sig att känna av möjligheter och faror i stenen genom syn, beröring och intuition.</QuarryWorker29.baseDesc>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.title>stenbrottsarbetare</QuarryWorker29.title>
+  <QuarryWorker29.titleFemale>stenbrottsarbetare</QuarryWorker29.titleFemale>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.titleShort>stenhuggare</QuarryWorker29.titleShort>
+  <QuarryWorker29.titleShortFemale>stenhuggare</QuarryWorker29.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
+  <Rancher43.baseDesc>[PAWN_nameDef] ägde och drev en framgångsrik ranch där [PAWN_pronoun] födde upp djur för kött och ull.\n\n[PAWN_pronoun] vägrade att göra något enkelt arbete efterom [PAWN_pronoun] kunde betala någon annan för att göra för [PAWN_objective].</Rancher43.baseDesc>
+  <!-- EN: rancher -->
+  <Rancher43.title>ranchägare</Rancher43.title>
+  <Rancher43.titleFemale>ranchägare</Rancher43.titleFemale>
+  <!-- EN: rancher -->
+  <Rancher43.titleShort>ranchägare</Rancher43.titleShort>
+  <Rancher43.titleShortFemale>ranchägare</Rancher43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
+  <Ranger96.baseDesc>[PAWN_nameDef] spårade djur och människor för ett brett spektrum av kunder. [PAWN_pronoun] blev skicklig på att läsa spår, hitta mat i det vilda och förfölja byten.</Ranger96.baseDesc>
+  <!-- EN: ranger -->
+  <Ranger96.title>utbygdsjägare</Ranger96.title>
+  <Ranger96.titleFemale>utbygdsjägare</Ranger96.titleFemale>
+  <!-- EN: ranger -->
+  <Ranger96.titleShort>spårare</Ranger96.titleShort>
+  <Ranger96.titleShortFemale>spårare</Ranger96.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
+  <Recruiter14.baseDesc>[PAWN_nameDef] var en del av en vördad ordning av kampsportare, ökända både för sin skicklighet i strid och för att de vägrade att behandla sina sårade.\n\n[PAWN_pronoun] reste runt i [PAWN_possessive] hemvärlden och bedömde ungdomarna [PAWN_pronoun] träffades för att avgöra om de kan vara lämpliga för utbildning.</Recruiter14.baseDesc>
+  <!-- EN: recruiter -->
+  <Recruiter14.title>rekryterare</Recruiter14.title>
+  <Recruiter14.titleFemale>rekryterare</Recruiter14.titleFemale>
+  <!-- EN: recruiter -->
+  <Recruiter14.titleShort>rekryterare</Recruiter14.titleShort>
+  <Recruiter14.titleShortFemale>rekryterare</Recruiter14.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
+  <Slaughterer58.baseDesc>[PAWN_nameDef] slaktade djur för att leva. Andra såg ner på detta arbete som smutsigt, men de färdigheter som krävdes för att hantera och slakta stora mängder djur på ett rent sätt var aldrig enkla.</Slaughterer58.baseDesc>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.title>slaktare</Slaughterer58.title>
+  <Slaughterer58.titleFemale>slaktare</Slaughterer58.titleFemale>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.titleShort>slaktare</Slaughterer58.titleShort>
+  <Slaughterer58.titleShortFemale>slaktare</Slaughterer58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was educated in the liberal arts and taught at a public school. [PAWN_pronoun] was widely knowledgeable and well-liked by [PAWN_possessive] students. -->
+  <Teacher20.baseDesc>[PAWN_nameDef] utbildades i liberal arts och undervisades på en offentlig skola. [PAWN_pronoun] var allmänt kunnig och omtyckt av [PAWN_possessive] elever.</Teacher20.baseDesc>
+  <!-- EN: teacher -->
+  <Teacher20.title>lärare</Teacher20.title>
+  <Teacher20.titleFemale>lärare</Teacher20.titleFemale>
+  <!-- EN: teacher -->
+  <Teacher20.titleShort>lärare</Teacher20.titleShort>
+  <Teacher20.titleShortFemale>lärare</Teacher20.titleShortFemale>
+  
+  <!-- EN: Working for a tyrannical dictator, [PAWN_nameDef] earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with [PAWN_nameDef]'s smile scarred permanently into their nightmares. -->
+  <Torturer37.baseDesc>Genom att arbeta för en tyrannisk diktator fick [PAWN_nameDef] ett rykte som expert på "övertalning". Varje fånge som gick ner i fängelsehålorna lämnade utan hemligheter - och med [PAWN_nameDef]s leende permanent i sina mardrömmar.</Torturer37.baseDesc>
+  <!-- EN: torturer -->
+  <Torturer37.title>torterare</Torturer37.title>
+  <Torturer37.titleFemale>torterare</Torturer37.titleFemale>
+  <!-- EN: torturer -->
+  <Torturer37.titleShort>torterare</Torturer37.titleShort>
+  <Torturer37.titleShortFemale>torterare</Torturer37.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] treated sick and injured animals for a living. Seeing their suffering affected [PAWN_possessive] stance on the practice of eating meat, and for many years [PAWN_pronoun] lived as a vegetarian. -->
+  <Veterinarian99.baseDesc>[PAWN_nameDef] behandlade sjuka och skadade djur för sitt uppehälle. Att se deras lidande påverkade [PAWN_besittande] inställning till att äta kött, och under många år levde [PAWN_pronomen] som vegetarian.</Veterinarian99.baseDesc>
+  <!-- EN: veterinarian -->
+  <Veterinarian99.title>veterinär</Veterinarian99.title>
+  <Veterinarian99.titleFemale>veterinär</Veterinarian99.titleFemale>
+  <!-- EN: vet -->
+  <Veterinarian99.titleShort>veterinär</Veterinarian99.titleShort>
+  <Veterinarian99.titleShortFemale>veterinär</Veterinarian99.titleShortFemale>
+  
+</LanguageData>

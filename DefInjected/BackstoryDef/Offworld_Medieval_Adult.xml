@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.baseDesc>Som en smed i en medeltida värld fick [PAWN_nameDef] ett rykte för den höga kvaliteten på [PAWN_possessive] arbete. [PAWN_pronoun] var inte dålig på att använda de smidda svärden [PAWN_pronoun] heller.</Blacksmith72.baseDesc>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.title>smed</Blacksmith72.title>
+  <Blacksmith72.titleFemale>smed</Blacksmith72.titleFemale>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.titleShort>smed</Blacksmith72.titleShort>
+  <Blacksmith72.titleShortFemale>smed</Blacksmith72.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
+  <Herbalist54.baseDesc>[PAWN_nameDef] bodde i skogen nära en by. Även om många av byborna fruktade [PAWN_objective] skulle sjuka bybor komma till [PAWN_objective] för att köpa salvor och omslag gjorda av örter [PAWN_pronoun] som växte i [PAWN_possessive] trädgård. [PAWN_pronoun] hjälpte dem gärna — för ett pris.</Herbalist54.baseDesc>
+  <!-- EN: herbalist -->
+  <Herbalist54.title>örtläkare</Herbalist54.title>
+  <Herbalist54.titleFemale>örtläkare</Herbalist54.titleFemale>
+  <!-- EN: herbalist -->
+  <Herbalist54.titleShort>örtläkare</Herbalist54.titleShort>
+  <Herbalist54.titleShortFemale>örtläkare</Herbalist54.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.baseDesc>[PAWN_nameDef] arbetade som läkare på en medeltida planet. [PAWN_pronoun] är övertygad om att de flesta åkommor kan botas med lite blodutsläpp.\n\n[PAWN_pronoun] var också en mästare på narkos och utvecklade en specialteknik som involverade ett hårt slag mot huvudet.</MedievalDoctor40.baseDesc>
+  <!-- EN: medieval doctor -->
+  <MedievalDoctor40.title>medeltidsläkare</MedievalDoctor40.title>
+  <MedievalDoctor40.titleFemale>medeltidsläkare</MedievalDoctor40.titleFemale>
+  <!-- EN: quack -->
+  <MedievalDoctor40.titleShort>kvacksalvare</MedievalDoctor40.titleShort>
+  <MedievalDoctor40.titleShortFemale>kvacksalvare</MedievalDoctor40.titleShortFemale>
+  
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities. -->
+  <MedievalFarmOaf58.baseDesc>Att arbeta med jorden, hacka, styra oxkärror, skjuta skottkärror. Gräva diken, plantera frön, förutsäga skörden.\n\nBönder på medeltida nivå är inte utbildade i vanlig mening, men de kan mycket om att odla växter utan teknik. Som sagt, ett sådant liv gör en i huvudsak oförmögen att delta i intellektuella, teknikdrivna aktiviteter.</MedievalFarmOaf58.baseDesc>
+  <!-- EN: medieval farm oaf -->
+  <MedievalFarmOaf58.title>medeltida bonde</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.titleFemale>medeltida bonde</MedievalFarmOaf58.titleFemale>
+  <!-- EN: oaf -->
+  <MedievalFarmOaf58.titleShort>bonde</MedievalFarmOaf58.titleShort>
+  <MedievalFarmOaf58.titleShortFemale>bonde</MedievalFarmOaf58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a lord on a preindustrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a work tool during that entire time. [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.baseDesc>[PAWN_nameDef] var en herre på en förindustriell planet. [PAWN_pronoun] gick på fester, skötte underhuggarna och lärde sig till och med svärdspel.\n\n[PAWN_besittande] mjuka händer höll inte ett arbetsredskap under hela tiden. [PAWN_pronomen] anser att manuellt arbete ligger under [PAWN_objective].</MedievalLord57.baseDesc>
+  <!-- EN: medieval lord -->
+  <MedievalLord57.title>medeltida adelsman</MedievalLord57.title>
+  <MedievalLord57.titleFemale>medeltida adelsdam</MedievalLord57.titleFemale>
+  <!-- EN: noble -->
+  <MedievalLord57.titleShort>friherre</MedievalLord57.titleShort>
+  <MedievalLord57.titleShortFemale>friherinna</MedievalLord57.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world.\n\n[PAWN_pronoun] could always be found telling stories or singing songs, and is capable of protecting [PAWN_objective]self from the dangers of the road. However, [PAWN_pronoun] was always conspicuously absent whenever there was hard labour to be done. -->
+  <MedievalMinstrel95.baseDesc>[PAWN_nameDef] var en resande underhållare i en medeltida värld.\n\n[PAWN_pronomen] kunde alltid hittas berätta historier eller sjunga sånger, och kan skydda [PAWN_objective]själv från farorna på vägen. [PAWN_pronomen] var dock alltid påfallande frånvarande när det fanns hårt arbete att utföra.</MedievalMinstrel95.baseDesc>
+  <!-- EN: medieval minstrel -->
+  <MedievalMinstrel95.title>medeltida bard</MedievalMinstrel95.title>
+  <MedievalMinstrel95.titleFemale>medeltida bard</MedievalMinstrel95.titleFemale>
+  <!-- EN: minstrel -->
+  <MedievalMinstrel95.titleShort>bard</MedievalMinstrel95.titleShort>
+  <MedievalMinstrel95.titleShortFemale>bard</MedievalMinstrel95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected. -->
+  <MedievalSailor97.baseDesc>[PAWN_nameDef] utforskade haven på ett träskepp, letade efter växt- och djurexemplar från exotiska platser och avvärjade då och då pirater. [PAWN_pronoun] älskade havet så mycket [PAWN_pronoun] vägrade att göra allt utom minsta möjliga arbete på land, förutom att sälja skatterna som [PAWN_pronoun] samlat in.</MedievalSailor97.baseDesc>
+  <!-- EN: medieval sailor -->
+  <MedievalSailor97.title>medeltida sjöman</MedievalSailor97.title>
+  <MedievalSailor97.titleFemale>medeltida sjöman</MedievalSailor97.titleFemale>
+  <!-- EN: sailor -->
+  <MedievalSailor97.titleShort>sjöman</MedievalSailor97.titleShort>
+  <MedievalSailor97.titleShortFemale>sjöman</MedievalSailor97.titleShortFemale>
+  
+  <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
+  <MessageCarrier77.baseDesc>I en medeltida värld är det snabbaste sättet att skicka ett meddelande att ge det till någon på en häst och hoppas att de överlever resan. [PAWN_nameDef] var den någon.</MessageCarrier77.baseDesc>
+  <!-- EN: message carrier -->
+  <MessageCarrier77.title>meddelandebärare</MessageCarrier77.title>
+  <MessageCarrier77.titleFemale>meddelandebärare</MessageCarrier77.titleFemale>
+  <!-- EN: messenger -->
+  <MessageCarrier77.titleShort>kurir</MessageCarrier77.titleShort>
+  <MessageCarrier77.titleShortFemale>kurir</MessageCarrier77.titleShortFemale>
+  
+  <!-- EN: As the taster for a medieval king, any dish served at the royal table had to be sampled first by [PAWN_nameDef]. [PAWN_pronoun] lived a decadent lifestyle at court, getting fat and doing very little work. -->
+  <Taster16.baseDesc>Som smakprov för en medeltida kung, måste alla rätter som serverades vid det kungliga bordet provtas först av [PAWN_nameDef]. [PAWN_pronoun] levde en dekadent livsstil vid hovet, blev tjock och gjorde väldigt lite arbete.</Taster16.baseDesc>
+  <!-- EN: taster -->
+  <Taster16.title>provsmakare</Taster16.title>
+  <Taster16.titleFemale>provsmakare</Taster16.titleFemale>
+  <!-- EN: taster -->
+  <Taster16.titleShort>provsmakare</Taster16.titleShort>
+  <Taster16.titleShortFemale>provsmakare</Taster16.titleShortFemale>
+  
+</LanguageData>

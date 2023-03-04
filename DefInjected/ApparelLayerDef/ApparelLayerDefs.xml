@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: belt -->
-  <Belt.label>bälte</Belt.label>
+   <!-- EN: utility -->
+  <Belt.label>verktyg</Belt.label>
+
+  <!-- EN: eyes -->
+  <EyeCover.label>ögon</EyeCover.label>
   
   <!-- EN: middle -->
   <Middle.label>mitten</Middle.label>

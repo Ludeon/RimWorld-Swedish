@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was an independent game developer.\n\nAfter an early success, [PAWN_possessive] career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts. -->
+  <TynanCustomAdulthood.baseDesc>[PAWN_nameDef] var en oberoende spelutvecklare.\n\nEfter en tidig framgång urartade [PAWN_possessive] karriär snabbt till en cirkus av missriktade idéer, affärer som gick fel och desperata, misslyckade PR-tricks.</TynanCustomAdulthood.baseDesc>
+  <!-- EN: game developer -->
+  <TynanCustomAdulthood.title>spelutvecklare</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.titleFemale>spelutvecklare</TynanCustomAdulthood.titleFemale>
+  <!-- EN: game dev -->
+  <TynanCustomAdulthood.titleShort>speldev</TynanCustomAdulthood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings. -->
+  <TynanCustomChildhood.baseDesc>[PAWN_nameDef] tillbringade sin barndom med att sälja fusk-cigaretter till 15-åringar. Cigaretterna var ofta fulla av gräsklipp.</TynanCustomChildhood.baseDesc>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.title>smågangster</TynanCustomChildhood.title>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.titleShort>smågangster</TynanCustomChildhood.titleShort>
+  
+</LanguageData>
